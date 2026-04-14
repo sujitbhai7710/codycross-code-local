@@ -55,6 +55,24 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Enable GitHub Pages
+        uses: actions/github-script@v7
+        with:
+          script: |
+            try {
+              await github.rest.repos.createPagesSite({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                build_type: 'workflow'
+              });
+              core.info('GitHub Pages enabled');
+            } catch (error) {
+              if (error.status === 409 || error.status === 422) {
+                core.info('GitHub Pages already enabled');
+              } else {
+                throw error;
+              }
+            }
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
