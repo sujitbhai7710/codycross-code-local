@@ -1,0 +1,737 @@
+{
+  "generatedAt": "2026-04-14T16:59:18.587Z",
+  "today": {
+    "year": 2026,
+    "month": 4,
+    "day": 14
+  },
+  "crossword": {
+    "archive": [
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2026,
+        "Month": 4,
+        "QuantidadeDeFases": 26
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2026,
+        "Month": 3,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2026,
+        "Month": 2,
+        "QuantidadeDeFases": 56
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2026,
+        "Month": 1,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 12,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 11,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 10,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 9,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 8,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 7,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 6,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 5,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 4,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 3,
+        "QuantidadeDeFases": 61
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 2,
+        "QuantidadeDeFases": 56
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2025,
+        "Month": 1,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 12,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 11,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 10,
+        "QuantidadeDeFases": 61
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 9,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 8,
+        "QuantidadeDeFases": 61
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 7,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 6,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 5,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 4,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 3,
+        "QuantidadeDeFases": 61
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 2,
+        "QuantidadeDeFases": 58
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2024,
+        "Month": 1,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 12,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 11,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 10,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 9,
+        "QuantidadeDeFases": 59
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 8,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 7,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 6,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 5,
+        "QuantidadeDeFases": 61
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 4,
+        "QuantidadeDeFases": 59
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 3,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 2,
+        "QuantidadeDeFases": 55
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2023,
+        "Month": 1,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 12,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 11,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 10,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 9,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 8,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 7,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 6,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 5,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 4,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 3,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 2,
+        "QuantidadeDeFases": 56
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2022,
+        "Month": 1,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 12,
+        "QuantidadeDeFases": 61
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 11,
+        "QuantidadeDeFases": 59
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 10,
+        "QuantidadeDeFases": 61
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 9,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 8,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 7,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 6,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 5,
+        "QuantidadeDeFases": 62
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 4,
+        "QuantidadeDeFases": 60
+      },
+      {
+        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+        "Year": 2021,
+        "Month": 3,
+        "QuantidadeDeFases": 62
+      }
+    ],
+    "puzzle": {
+      "Id": "d3c59c2f-21b6-458f-8f9c-33e5fc5617b1",
+      "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+      "Year": 2026,
+      "Month": 4,
+      "Day": 14,
+      "Fase": 1,
+      "Dimensao": {
+        "Width": 9,
+        "Height": 7,
+        "Tamanho": 2
+      },
+      "Track": "PC|LenCusY2026M4D14F1",
+      "Cifras": [
+        {
+          "Id": "de9fe464-b904-4b59-9dee-1748f5a9f32d",
+          "Dica": "Too long, didn't read",
+          "Resposta": "tldr",
+          "RespostaNormalizada": "tldr",
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "65cda2bc-4bbd-451f-adb6-aecddb8c3d0a",
+          "Dica": "Abbreviation for a computer's control key",
+          "Resposta": "ctrl",
+          "RespostaNormalizada": "ctrl",
+          "Position": {
+            "X": 5,
+            "Y": 0,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "9331df48-282f-4e35-b7ab-c42b940b5a95",
+          "Dica": "__ vera, medicinal plant",
+          "Resposta": "aloe",
+          "RespostaNormalizada": "aloe",
+          "Position": {
+            "X": 0,
+            "Y": 1,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "f7177754-80c4-432d-8a84-93665ef15ffe",
+          "Dica": "Obsequious character in David Copperfield, Uriah",
+          "Resposta": "heep",
+          "RespostaNormalizada": "heep",
+          "Position": {
+            "X": 5,
+            "Y": 1,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 4
+        },
+        {
+          "Id": "140616f6-4491-4f4e-bdde-82f11cd940bd",
+          "Dica": "They are the devil's workshop or tools",
+          "Resposta": "idle hands",
+          "RespostaNormalizada": "idlehands",
+          "Position": {
+            "X": 0,
+            "Y": 2,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 3
+        },
+        {
+          "Id": "c7681769-3978-48f2-b2ac-0364fbd53674",
+          "Dica": "Play on a stringed instrument or a keyboard",
+          "Resposta": "plunk",
+          "RespostaNormalizada": "plunk",
+          "Position": {
+            "X": 2,
+            "Y": 3,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 7
+        },
+        {
+          "Id": "f33c9979-caab-443d-a516-2d667a3c10ea",
+          "Dica": "The grass is always greener there; on the __",
+          "Resposta": "other side",
+          "RespostaNormalizada": "otherside",
+          "Position": {
+            "X": 0,
+            "Y": 4,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "5e376758-6b18-42c2-8bb0-fc86b590d70c",
+          "Dica": "Fashionable, in French",
+          "Resposta": "chic",
+          "RespostaNormalizada": "chic",
+          "Position": {
+            "X": 0,
+            "Y": 5,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "021e640f-e457-4729-9f45-9470110bcc39",
+          "Dica": "State trees of Massachusetts",
+          "Resposta": "elms",
+          "RespostaNormalizada": "elms",
+          "Position": {
+            "X": 5,
+            "Y": 5,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 7
+        },
+        {
+          "Id": "a5096851-f08c-432b-b54b-0737adb6c8ca",
+          "Dica": "Smallest one of the litter",
+          "Resposta": "runt",
+          "RespostaNormalizada": "runt",
+          "Position": {
+            "X": 0,
+            "Y": 6,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "2a4971b7-fca7-40d7-bd44-7bffda13a7b5",
+          "Dica": "Slang that's the opposite of yoink",
+          "Resposta": "yeet",
+          "RespostaNormalizada": "yeet",
+          "Position": {
+            "X": 5,
+            "Y": 6,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 3
+        },
+        {
+          "Id": "ae153e1d-2f85-4a3e-aad8-d4d15b404f37",
+          "Dica": "__ chi, traditional Chinese martial art",
+          "Resposta": "tai",
+          "RespostaNormalizada": "tai",
+          "Position": {
+            "X": 0,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "f34d3bf3-ea3e-40fa-87cb-d5571e1302a3",
+          "Dica": "Lifelong dream, on Instagram",
+          "Resposta": "lld",
+          "RespostaNormalizada": "lld",
+          "Position": {
+            "X": 1,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 3
+        },
+        {
+          "Id": "c445ee11-6534-491c-a78d-afc3ad1db4a7",
+          "Dica": "Marine mammal whose sounds can be calming",
+          "Resposta": "dolphin",
+          "RespostaNormalizada": "dolphin",
+          "Position": {
+            "X": 2,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "80e8648e-ea8a-45e2-9f00-94d63934ebc5",
+          "Dica": "Vote into power for a further term",
+          "Resposta": "reelect",
+          "RespostaNormalizada": "reelect",
+          "Position": {
+            "X": 3,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "de9c4d8b-7562-45c3-a5e9-271dbe3517f1",
+          "Dica": "The first evolved form of the Pokemon Happiny",
+          "Resposta": "chansey",
+          "RespostaNormalizada": "chansey",
+          "Position": {
+            "X": 5,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 2
+        },
+        {
+          "Id": "b89d005f-30b0-4a83-8723-20616b398f83",
+          "Dica": "Alternative name for Scott's tree-kangaroo",
+          "Resposta": "tenkile",
+          "RespostaNormalizada": "tenkile",
+          "Position": {
+            "X": 6,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 7
+        },
+        {
+          "Id": "67f610ea-a2cd-4fa6-a4f4-bb0f8501a584",
+          "Dica": "Shade of fire vehicles and stop signs",
+          "Resposta": "red",
+          "RespostaNormalizada": "red",
+          "Position": {
+            "X": 7,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "11650a30-cf9a-4365-87f7-f3787fc1dcef",
+          "Dica": "Vinyl record albums",
+          "Resposta": "lps",
+          "RespostaNormalizada": "lps",
+          "Position": {
+            "X": 8,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 2
+        },
+        {
+          "Id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
+          "Dica": "Ben-__, Oscar-winning film with Charlton Heston",
+          "Resposta": "hur",
+          "RespostaNormalizada": "hur",
+          "Position": {
+            "X": 4,
+            "Y": 2,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 2
+        },
+        {
+          "Id": "aac1b7f3-6d25-47d0-a7fd-2de92f821197",
+          "Dica": "Abbreviation of optical character recognition",
+          "Resposta": "ocr",
+          "RespostaNormalizada": "ocr",
+          "Position": {
+            "X": 0,
+            "Y": 4,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 3
+        },
+        {
+          "Id": "c1591835-5d33-4e9a-b9d0-3d6d8027736b",
+          "Dica": "3-letter term for a week's 4th business day",
+          "Resposta": "thu",
+          "RespostaNormalizada": "thu",
+          "Position": {
+            "X": 1,
+            "Y": 4,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 2
+        },
+        {
+          "Id": "f28cdb91-31a5-4042-b8ee-b081d0197407",
+          "Dica": "Durable Medical Equipment",
+          "Resposta": "dme",
+          "RespostaNormalizada": "dme",
+          "Position": {
+            "X": 7,
+            "Y": 4,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "ac6e1c41-6ca7-4f7e-b5dd-28a3d5f613b2",
+          "Dica": "Eastern Standard Time, abbreviated",
+          "Resposta": "est",
+          "RespostaNormalizada": "est",
+          "Position": {
+            "X": 8,
+            "Y": 4,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 1
+        }
+      ],
+      "Versao": 1
+    }
+  },
+  "password": {
+    "json": {
+      "Ok": true,
+      "Status": 0,
+      "Message": "",
+      "Msg": "",
+      "Records": [
+        "FVpu6+Hvc5BBmYMrAfh8saCjtPUzLrzdJjP1MhXRt5hb8tM/Gv7WBidu5iMNaDZytKuk//GmCrNNT47oWJ/80Suif/ZtEKr7vL+z1xRq9MS83o9IDZr+UvVxTJaQr/gjc0YcFgqscauf0JKfAABO89QrA7fFHiaKsMcwT6ORzFs6utosYeOFfS/+fnBfX44BJbgCiP4L4Mt1HuqoM42U1ya4GyNUhiSZgqAqjrQswD5MrMarf/EOzx20qgH5VDEYbr0mAPlsLNi/z7+32+8P6gWQaHKxIC48OJCUcvXuZ28="
+      ]
+    },
+    "decrypted": {
+      "Id": "b7c92c50-edcb-45ff-9c0a-b08ecf8c8d2a",
+      "Date": "2026-04-14T00:00:00Z",
+      "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+      "Password": "cider",
+      "NormalizedPassword": "cider",
+      "MaxGuesses": 6,
+      "Version": 2,
+      "MustUpdateApp": false
+    },
+    "dtu": "2026-04-14T22:29:17.0700000+05:30",
+    "hash": "2041fb3f0e1bb287acfeb0787360f253",
+    "token": "218d45d6-921c-4964-a07f-59155f40a081"
+  }
+}

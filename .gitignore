@@ -1,0 +1,10 @@
+codycross-answers/node_modules/
+codycross-answers/.next/
+codycross-answers/out/
+codycross-answers/.vercel/
+
+*.idsig
+*.keystore
+
+.DS_Store
+Thumbs.db
