@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-14T16:59:18.587Z",
+  "generatedAt": "2026-04-14T18:59:28.617Z",
   "today": {
     "year": 2026,
     "month": 4,
-    "day": 14
+    "day": 15
   },
   "crossword": {
     "archive": [
@@ -380,103 +380,692 @@
         "QuantidadeDeFases": 62
       }
     ],
+    "archiveEntries": [
+      {
+        "key": "2026-04-30",
+        "year": 2026,
+        "month": 4,
+        "day": 30,
+        "small": {
+          "puzzleId": "a0ea1c05-21da-497b-a2b4-2c46ae400f01",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 4
+        },
+        "mid": {
+          "puzzleId": "763f0d34-2661-4c84-b55b-be43d240c85c",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-29",
+        "year": 2026,
+        "month": 4,
+        "day": 29,
+        "small": {
+          "puzzleId": "1e37565c-8d06-47fd-8e9b-99f4a481c441",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "eadf967e-f063-43d5-b4a8-7ed6f25da471",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-28",
+        "year": 2026,
+        "month": 4,
+        "day": 28,
+        "small": {
+          "puzzleId": "c2813fbe-cc64-484b-a941-05a73e9410c6",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "c5f942e7-aad5-45a2-987b-00793d17560a",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-27",
+        "year": 2026,
+        "month": 4,
+        "day": 27,
+        "small": {
+          "puzzleId": "8d6fd4cc-7e64-4edc-af24-33630c47571e",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 7
+        },
+        "mid": {
+          "puzzleId": "7fcd323c-4bb1-41e6-ad1a-132514f49b9c",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-26",
+        "year": 2026,
+        "month": 4,
+        "day": 26,
+        "small": {
+          "puzzleId": "4db2af17-6949-4850-bf1d-9a89daf84060",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "89cd2f94-b160-4f83-8ac7-abefbf6c8102",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-25",
+        "year": 2026,
+        "month": 4,
+        "day": 25,
+        "small": {
+          "puzzleId": "d46dce5d-91cb-43fc-bb4b-154aef3163af",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "9dbe088e-aeff-4656-aa01-ebea322493fb",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-24",
+        "year": 2026,
+        "month": 4,
+        "day": 24,
+        "small": {
+          "puzzleId": "70c53a7b-8d40-435d-9187-9d9f95e50cae",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "39db123b-3adf-4420-9db8-e99e062a1a54",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-23",
+        "year": 2026,
+        "month": 4,
+        "day": 23,
+        "small": {
+          "puzzleId": "585c3944-c3e4-4ebe-8213-a327075d5ac9",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "96d86ee7-aca1-411a-becc-32cd2e1f84ea",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-22",
+        "year": 2026,
+        "month": 4,
+        "day": 22,
+        "small": {
+          "puzzleId": "83558a35-5302-40c3-a97b-3062520ce596",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "dabcc47c-722b-4b0f-bc30-2bb4f8e1188c",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-21",
+        "year": 2026,
+        "month": 4,
+        "day": 21,
+        "small": {
+          "puzzleId": "89b4e229-0d80-452c-a8e5-986d57d7c56b",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "6e07781f-5b73-4fd9-bbf0-1c0bd553d160",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-20",
+        "year": 2026,
+        "month": 4,
+        "day": 20,
+        "small": {
+          "puzzleId": "d96ee18d-646a-428d-9d2e-eeaa1eb5c828",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 5
+        },
+        "mid": {
+          "puzzleId": "5418c423-0664-4dec-8ed5-e9e815f20375",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-19",
+        "year": 2026,
+        "month": 4,
+        "day": 19,
+        "small": {
+          "puzzleId": "82efeecf-af6d-4fc1-b6b8-7d60422ee0c2",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 6
+        },
+        "mid": {
+          "puzzleId": "c4a8829a-3ebd-4cd4-980b-98469f1dd889",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-18",
+        "year": 2026,
+        "month": 4,
+        "day": 18,
+        "small": {
+          "puzzleId": "28e46c87-507b-42b0-bf55-289fb7ad9bca",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 3
+        },
+        "mid": {
+          "puzzleId": "ec1b3148-6ec3-4aeb-8198-19cdc619590e",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-17",
+        "year": 2026,
+        "month": 4,
+        "day": 17,
+        "small": {
+          "puzzleId": "72e30275-b178-41ac-9cc2-f36daf04b4fa",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "e418049d-65dc-4e89-ae76-9d93c5a97526",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-16",
+        "year": 2026,
+        "month": 4,
+        "day": 16,
+        "small": {
+          "puzzleId": "28cb638a-02a0-456e-931b-1ec14e8d53cd",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 3
+        },
+        "mid": {
+          "puzzleId": "333405d4-0c96-4717-a0d6-9a7a93bc33d5",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-15",
+        "year": 2026,
+        "month": 4,
+        "day": 15,
+        "small": {
+          "puzzleId": "a83498a0-3ff9-47bb-88e1-da2703dea039",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 3
+        },
+        "mid": {
+          "puzzleId": "2e367fe3-ba77-4186-8464-e12a5786311b",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-14",
+        "year": 2026,
+        "month": 4,
+        "day": 14,
+        "small": {
+          "puzzleId": "5b7c0912-91db-4c1b-96f1-f3ec5275b9b7",
+          "fase": 0,
+          "size": 1,
+          "status": 2,
+          "version": 3
+        },
+        "mid": {
+          "puzzleId": "3a2a4029-af7d-4a12-b0c3-fc2f40af4489",
+          "fase": 1,
+          "size": 2,
+          "status": 2,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-13",
+        "year": 2026,
+        "month": 4,
+        "day": 13,
+        "small": {
+          "puzzleId": "9ac6cdf4-f596-4619-8c75-533a6f7c840f",
+          "fase": 0,
+          "size": 1,
+          "status": 2,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "30d1f96e-d6fb-42b4-b9aa-fd9bf253b478",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-12",
+        "year": 2026,
+        "month": 4,
+        "day": 12,
+        "small": {
+          "puzzleId": "078241a5-15b9-4c9e-a5ed-e4ed63365089",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 3
+        },
+        "mid": {
+          "puzzleId": "05294e0b-324e-4d79-b153-40ef90cbb714",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-11",
+        "year": 2026,
+        "month": 4,
+        "day": 11,
+        "small": {
+          "puzzleId": "412cddd8-2653-4865-ab1e-679f6baa98bc",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 3
+        },
+        "mid": {
+          "puzzleId": "a297840a-fc37-4207-9d17-a83b3ecb2ba7",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-10",
+        "year": 2026,
+        "month": 4,
+        "day": 10,
+        "small": {
+          "puzzleId": "d066a555-4557-4b40-8aaf-b5970612317e",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 3
+        },
+        "mid": {
+          "puzzleId": "da7fcd46-852f-4aef-a45b-93efed7fd320",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-09",
+        "year": 2026,
+        "month": 4,
+        "day": 9,
+        "small": {
+          "puzzleId": "5c64ffc0-fe39-43e3-98e1-d6c1da18c2f3",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "f75e0502-c040-456b-8c1b-96ae0855db13",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-08",
+        "year": 2026,
+        "month": 4,
+        "day": 8,
+        "small": {
+          "puzzleId": "7f672097-48ad-4384-9841-4dbb83a7f7dd",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 3
+        },
+        "mid": {
+          "puzzleId": "3e6babdf-ee37-4223-bd8c-a24629ab51ae",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-07",
+        "year": 2026,
+        "month": 4,
+        "day": 7,
+        "small": {
+          "puzzleId": "f35e4205-14ba-46ea-9401-824034f0ae51",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 5
+        },
+        "mid": {
+          "puzzleId": "a762e6a4-1832-4447-ad4d-46e4c0f817eb",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-06",
+        "year": 2026,
+        "month": 4,
+        "day": 6,
+        "small": {
+          "puzzleId": "4b9502bc-5e20-450a-90b8-7f901b3aab8c",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 4
+        },
+        "mid": {
+          "puzzleId": "19b2cb93-d3ac-4b50-9a68-a93db2854989",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 4
+        }
+      },
+      {
+        "key": "2026-04-05",
+        "year": 2026,
+        "month": 4,
+        "day": 5,
+        "small": {
+          "puzzleId": "530b066c-535c-4581-bdd1-2eb09a3b1078",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "1e99c3eb-7f61-4c81-a4c0-ff6bb6ae4708",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-04",
+        "year": 2026,
+        "month": 4,
+        "day": 4,
+        "small": {
+          "puzzleId": "f56847c6-fe30-4b30-a983-f4813409df43",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "309b77dd-13e2-4d89-bb45-8faec3ac9da3",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 3
+        }
+      },
+      {
+        "key": "2026-04-03",
+        "year": 2026,
+        "month": 4,
+        "day": 3,
+        "small": {
+          "puzzleId": "f512e7e4-790c-4e31-bba4-d87b3ea50f4a",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 4
+        },
+        "mid": {
+          "puzzleId": "016bdad7-9fad-488b-b24b-4b9c7d928241",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      },
+      {
+        "key": "2026-04-02",
+        "year": 2026,
+        "month": 4,
+        "day": 2,
+        "small": {
+          "puzzleId": "a96e50fa-f0ba-4fdc-9aa1-e034e0a65ba8",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "94085c3e-67d1-47f9-bac8-c2ecb7d0cfab",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 4
+        }
+      },
+      {
+        "key": "2026-04-01",
+        "year": 2026,
+        "month": 4,
+        "day": 1,
+        "small": {
+          "puzzleId": "9c49f15a-51c9-4fa1-a1dc-6e15467a2c25",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 1
+        },
+        "mid": {
+          "puzzleId": "7c28c961-acb2-4193-912e-e4ad65bc2bb8",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1
+        }
+      }
+    ],
     "puzzle": {
-      "Id": "d3c59c2f-21b6-458f-8f9c-33e5fc5617b1",
+      "Id": "aee126c5-9632-4929-b32f-390dca63987f",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
       "Year": 2026,
       "Month": 4,
-      "Day": 14,
+      "Day": 15,
       "Fase": 1,
       "Dimensao": {
-        "Width": 9,
-        "Height": 7,
+        "Width": 7,
+        "Height": 8,
         "Tamanho": 2
       },
-      "Track": "PC|LenCusY2026M4D14F1",
+      "Track": "PC|LenCusY2026M4D15F1",
       "Cifras": [
         {
-          "Id": "de9fe464-b904-4b59-9dee-1748f5a9f32d",
-          "Dica": "Too long, didn't read",
-          "Resposta": "tldr",
-          "RespostaNormalizada": "tldr",
+          "Id": "891f31b7-ca61-4150-bad3-627ede62ff38",
+          "Dica": "abbreviation for regular business operations",
+          "Resposta": "bau",
+          "RespostaNormalizada": "bau",
           "Position": {
-            "X": 0,
+            "X": 3,
             "Y": 0,
-            "Direction": 0
-          },
-          "NeedsRating": false,
-          "Version": 1
-        },
-        {
-          "Id": "65cda2bc-4bbd-451f-adb6-aecddb8c3d0a",
-          "Dica": "Abbreviation for a computer's control key",
-          "Resposta": "ctrl",
-          "RespostaNormalizada": "ctrl",
-          "Position": {
-            "X": 5,
-            "Y": 0,
-            "Direction": 0
-          },
-          "NeedsRating": false,
-          "Version": 1
-        },
-        {
-          "Id": "9331df48-282f-4e35-b7ab-c42b940b5a95",
-          "Dica": "__ vera, medicinal plant",
-          "Resposta": "aloe",
-          "RespostaNormalizada": "aloe",
-          "Position": {
-            "X": 0,
-            "Y": 1,
-            "Direction": 0
-          },
-          "NeedsRating": false,
-          "Version": 1
-        },
-        {
-          "Id": "f7177754-80c4-432d-8a84-93665ef15ffe",
-          "Dica": "Obsequious character in David Copperfield, Uriah",
-          "Resposta": "heep",
-          "RespostaNormalizada": "heep",
-          "Position": {
-            "X": 5,
-            "Y": 1,
-            "Direction": 0
-          },
-          "NeedsRating": false,
-          "Version": 4
-        },
-        {
-          "Id": "140616f6-4491-4f4e-bdde-82f11cd940bd",
-          "Dica": "They are the devil's workshop or tools",
-          "Resposta": "idle hands",
-          "RespostaNormalizada": "idlehands",
-          "Position": {
-            "X": 0,
-            "Y": 2,
             "Direction": 0
           },
           "NeedsRating": false,
           "Version": 3
         },
         {
-          "Id": "c7681769-3978-48f2-b2ac-0364fbd53674",
-          "Dica": "Play on a stringed instrument or a keyboard",
-          "Resposta": "plunk",
-          "RespostaNormalizada": "plunk",
+          "Id": "f3ed7754-bcfb-40cb-aad5-67c94e6c40fd",
+          "Dica": "Anime series about a young ninja",
+          "Resposta": "naruto",
+          "RespostaNormalizada": "naruto",
           "Position": {
-            "X": 2,
+            "X": 1,
+            "Y": 1,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 2
+        },
+        {
+          "Id": "6ed08bb9-6bb5-4b7e-b913-29ad6efe9626",
+          "Dica": "The medieval name for what is now Wales",
+          "Resposta": "cambria",
+          "RespostaNormalizada": "cambria",
+          "Position": {
+            "X": 0,
+            "Y": 2,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 2
+        },
+        {
+          "Id": "854e74ba-2313-4319-b282-062fbf5790a2",
+          "Dica": "Opposite of her",
+          "Resposta": "him",
+          "RespostaNormalizada": "him",
+          "Position": {
+            "X": 0,
             "Y": 3,
             "Direction": 0
           },
           "NeedsRating": false,
-          "Version": 7
+          "Version": 1
         },
         {
-          "Id": "f33c9979-caab-443d-a516-2d667a3c10ea",
-          "Dica": "The grass is always greener there; on the __",
-          "Resposta": "other side",
-          "RespostaNormalizada": "otherside",
+          "Id": "cbf16083-3aae-4893-b7f3-2a9fc72c63ca",
+          "Dica": "Rapid transit railways above street level",
+          "Resposta": "els",
+          "RespostaNormalizada": "els",
+          "Position": {
+            "X": 4,
+            "Y": 3,
+            "Direction": 0
+          },
+          "NeedsRating": false,
+          "Version": 3
+        },
+        {
+          "Id": "aba63fe2-d08d-48d4-9c8b-8187573bff0b",
+          "Dica": "French for island, goes before \"de France\"",
+          "Resposta": "ile",
+          "RespostaNormalizada": "ile",
           "Position": {
             "X": 0,
             "Y": 4,
@@ -486,36 +1075,36 @@
           "Version": 1
         },
         {
-          "Id": "5e376758-6b18-42c2-8bb0-fc86b590d70c",
-          "Dica": "Fashionable, in French",
-          "Resposta": "chic",
-          "RespostaNormalizada": "chic",
+          "Id": "106684cc-02dc-48aa-817b-a6b423709431",
+          "Dica": "Tell a fib",
+          "Resposta": "lie",
+          "RespostaNormalizada": "lie",
           "Position": {
-            "X": 0,
-            "Y": 5,
+            "X": 4,
+            "Y": 4,
             "Direction": 0
           },
           "NeedsRating": false,
           "Version": 1
         },
         {
-          "Id": "021e640f-e457-4729-9f45-9470110bcc39",
-          "Dica": "State trees of Massachusetts",
-          "Resposta": "elms",
-          "RespostaNormalizada": "elms",
+          "Id": "757db4f4-591e-447c-ae34-e654ab48140e",
+          "Dica": "Rude (but rhyming) term to call others",
+          "Resposta": "nitwits",
+          "RespostaNormalizada": "nitwits",
           "Position": {
-            "X": 5,
+            "X": 0,
             "Y": 5,
             "Direction": 0
           },
           "NeedsRating": false,
-          "Version": 7
+          "Version": 5
         },
         {
-          "Id": "a5096851-f08c-432b-b54b-0737adb6c8ca",
-          "Dica": "Smallest one of the litter",
-          "Resposta": "runt",
-          "RespostaNormalizada": "runt",
+          "Id": "1c33490b-fc47-4d62-b21b-01ccbb7282d6",
+          "Dica": "Single flight leg with no return ticket",
+          "Resposta": "one way",
+          "RespostaNormalizada": "oneway",
           "Position": {
             "X": 0,
             "Y": 6,
@@ -525,62 +1114,23 @@
           "Version": 1
         },
         {
-          "Id": "2a4971b7-fca7-40d7-bd44-7bffda13a7b5",
-          "Dica": "Slang that's the opposite of yoink",
-          "Resposta": "yeet",
-          "RespostaNormalizada": "yeet",
-          "Position": {
-            "X": 5,
-            "Y": 6,
-            "Direction": 0
-          },
-          "NeedsRating": false,
-          "Version": 3
-        },
-        {
-          "Id": "ae153e1d-2f85-4a3e-aad8-d4d15b404f37",
-          "Dica": "__ chi, traditional Chinese martial art",
-          "Resposta": "tai",
-          "RespostaNormalizada": "tai",
-          "Position": {
-            "X": 0,
-            "Y": 0,
-            "Direction": 1
-          },
-          "NeedsRating": false,
-          "Version": 1
-        },
-        {
-          "Id": "f34d3bf3-ea3e-40fa-87cb-d5571e1302a3",
-          "Dica": "Lifelong dream, on Instagram",
-          "Resposta": "lld",
-          "RespostaNormalizada": "lld",
+          "Id": "117a0582-44ec-4797-8ca7-4f3e6fb44f6c",
+          "Dica": "Short for graduate record examination",
+          "Resposta": "gre",
+          "RespostaNormalizada": "gre",
           "Position": {
             "X": 1,
-            "Y": 0,
-            "Direction": 1
+            "Y": 7,
+            "Direction": 0
           },
           "NeedsRating": false,
           "Version": 3
         },
         {
-          "Id": "c445ee11-6534-491c-a78d-afc3ad1db4a7",
-          "Dica": "Marine mammal whose sounds can be calming",
-          "Resposta": "dolphin",
-          "RespostaNormalizada": "dolphin",
-          "Position": {
-            "X": 2,
-            "Y": 0,
-            "Direction": 1
-          },
-          "NeedsRating": false,
-          "Version": 1
-        },
-        {
-          "Id": "80e8648e-ea8a-45e2-9f00-94d63934ebc5",
-          "Dica": "Vote into power for a further term",
-          "Resposta": "reelect",
-          "RespostaNormalizada": "reelect",
+          "Id": "8dab855c-7fa3-40f4-868f-bd693a120ab0",
+          "Dica": "Textspeak for \"be right back\"",
+          "Resposta": "brb",
+          "RespostaNormalizada": "brb",
           "Position": {
             "X": 3,
             "Y": 0,
@@ -590,10 +1140,23 @@
           "Version": 1
         },
         {
-          "Id": "de9c4d8b-7562-45c3-a5e9-271dbe3517f1",
-          "Dica": "The first evolved form of the Pokemon Happiny",
-          "Resposta": "chansey",
-          "RespostaNormalizada": "chansey",
+          "Id": "f641327d-7025-44f6-bf50-74af57253528",
+          "Dica": "__ Cotta; Julius Caesar's mother",
+          "Resposta": "aurelia",
+          "RespostaNormalizada": "aurelia",
+          "Position": {
+            "X": 4,
+            "Y": 0,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 2
+        },
+        {
+          "Id": "91db0142-b35b-4203-8d7f-8a6d052fc3e0",
+          "Dica": "General-purpose workspace or computer program",
+          "Resposta": "utility",
+          "RespostaNormalizada": "utility",
           "Position": {
             "X": 5,
             "Y": 0,
@@ -603,108 +1166,69 @@
           "Version": 2
         },
         {
-          "Id": "b89d005f-30b0-4a83-8723-20616b398f83",
-          "Dica": "Alternative name for Scott's tree-kangaroo",
-          "Resposta": "tenkile",
-          "RespostaNormalizada": "tenkile",
+          "Id": "7694151e-b114-4030-990b-9254b3e450e6",
+          "Dica": "Securing with a hammer",
+          "Resposta": "nailing",
+          "RespostaNormalizada": "nailing",
           "Position": {
-            "X": 6,
-            "Y": 0,
-            "Direction": 1
-          },
-          "NeedsRating": false,
-          "Version": 7
-        },
-        {
-          "Id": "67f610ea-a2cd-4fa6-a4f4-bb0f8501a584",
-          "Dica": "Shade of fire vehicles and stop signs",
-          "Resposta": "red",
-          "RespostaNormalizada": "red",
-          "Position": {
-            "X": 7,
-            "Y": 0,
+            "X": 1,
+            "Y": 1,
             "Direction": 1
           },
           "NeedsRating": false,
           "Version": 1
         },
         {
-          "Id": "11650a30-cf9a-4365-87f7-f3787fc1dcef",
-          "Dica": "Vinyl record albums",
-          "Resposta": "lps",
-          "RespostaNormalizada": "lps",
+          "Id": "3fe9eeac-ba20-44fd-8503-1d8a68033ab0",
+          "Dica": "Instrument used for measuring current",
+          "Resposta": "ammeter",
+          "RespostaNormalizada": "ammeter",
           "Position": {
-            "X": 8,
-            "Y": 0,
+            "X": 2,
+            "Y": 1,
+            "Direction": 1
+          },
+          "NeedsRating": false,
+          "Version": 1
+        },
+        {
+          "Id": "78589fb6-2e6a-4f4c-9f35-fb78fb8034c1",
+          "Dica": "Lush spots in the desert",
+          "Resposta": "oases",
+          "RespostaNormalizada": "oases",
+          "Position": {
+            "X": 6,
+            "Y": 1,
             "Direction": 1
           },
           "NeedsRating": false,
           "Version": 2
         },
         {
-          "Id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
-          "Dica": "Ben-__, Oscar-winning film with Charlton Heston",
-          "Resposta": "hur",
-          "RespostaNormalizada": "hur",
+          "Id": "e6b858b0-6893-42b2-b5ef-38687de828fa",
+          "Dica": "Fabric used for making casual khaki trouser",
+          "Resposta": "chino",
+          "RespostaNormalizada": "chino",
           "Position": {
-            "X": 4,
+            "X": 0,
             "Y": 2,
             "Direction": 1
           },
           "NeedsRating": false,
-          "Version": 2
+          "Version": 1
         },
         {
-          "Id": "aac1b7f3-6d25-47d0-a7fd-2de92f821197",
-          "Dica": "Abbreviation of optical character recognition",
-          "Resposta": "ocr",
-          "RespostaNormalizada": "ocr",
+          "Id": "8da14525-8f04-4a3b-bace-8332ae39af6f",
+          "Dica": "Wrestling network with SummerSlam and WrestleMania",
+          "Resposta": "wwe",
+          "RespostaNormalizada": "wwe",
           "Position": {
-            "X": 0,
-            "Y": 4,
-            "Direction": 1
-          },
-          "NeedsRating": false,
-          "Version": 3
-        },
-        {
-          "Id": "c1591835-5d33-4e9a-b9d0-3d6d8027736b",
-          "Dica": "3-letter term for a week's 4th business day",
-          "Resposta": "thu",
-          "RespostaNormalizada": "thu",
-          "Position": {
-            "X": 1,
-            "Y": 4,
+            "X": 3,
+            "Y": 5,
             "Direction": 1
           },
           "NeedsRating": false,
           "Version": 2
-        },
-        {
-          "Id": "f28cdb91-31a5-4042-b8ee-b081d0197407",
-          "Dica": "Durable Medical Equipment",
-          "Resposta": "dme",
-          "RespostaNormalizada": "dme",
-          "Position": {
-            "X": 7,
-            "Y": 4,
-            "Direction": 1
-          },
-          "NeedsRating": false,
-          "Version": 1
-        },
-        {
-          "Id": "ac6e1c41-6ca7-4f7e-b5dd-28a3d5f613b2",
-          "Dica": "Eastern Standard Time, abbreviated",
-          "Resposta": "est",
-          "RespostaNormalizada": "est",
-          "Position": {
-            "X": 8,
-            "Y": 4,
-            "Direction": 1
-          },
-          "NeedsRating": false,
-          "Version": 1
         }
       ],
       "Versao": 1
@@ -717,21 +1241,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "FVpu6+Hvc5BBmYMrAfh8saCjtPUzLrzdJjP1MhXRt5hb8tM/Gv7WBidu5iMNaDZytKuk//GmCrNNT47oWJ/80Suif/ZtEKr7vL+z1xRq9MS83o9IDZr+UvVxTJaQr/gjc0YcFgqscauf0JKfAABO89QrA7fFHiaKsMcwT6ORzFs6utosYeOFfS/+fnBfX44BJbgCiP4L4Mt1HuqoM42U1ya4GyNUhiSZgqAqjrQswD5MrMarf/EOzx20qgH5VDEYbr0mAPlsLNi/z7+32+8P6gWQaHKxIC48OJCUcvXuZ28="
+        "Fqy/TiY5wTXrPa88lwTlVOozcjtQVtfLMOzvIhPIYxDf3OEAU9HLyKvjz+t7h4pIT9P+nKiOf9Q2mKeaPeFX0HK0370c+CObFKfIzJ+BOgNyng5pBG9mc9P/Nd3P+jXNCRti2Dacadu1yqtOQrIMmxKd96yy0KoOcmX5iYUy20HdzG7MvU9VVky/wXr6mxXSFD56e4sN0oDrP1R5VbKRUoJwQ0z/e89PUN6SF0QsX5+R8cE0XUy5B/IvDAv7P9Or0+3X1nyLHYyOEbWzTjam2cDbteWfgqGcYG2QKCOtXxU="
       ]
     },
     "decrypted": {
-      "Id": "b7c92c50-edcb-45ff-9c0a-b08ecf8c8d2a",
-      "Date": "2026-04-14T00:00:00Z",
+      "Id": "baa54e36-f30d-4eef-89ca-213c78c2582a",
+      "Date": "2026-04-15T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "cider",
-      "NormalizedPassword": "cider",
+      "Password": "undue",
+      "NormalizedPassword": "undue",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-04-14T22:29:17.0700000+05:30",
-    "hash": "2041fb3f0e1bb287acfeb0787360f253",
+    "dtu": "2026-04-15T00:29:27.2210000+05:30",
+    "hash": "5105e64ab2ed367fa2c56a9c9842aa99",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }

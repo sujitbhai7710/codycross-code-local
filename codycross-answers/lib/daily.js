@@ -45,6 +45,58 @@ export async function fetchCrosswordArchive() {
   return fetchJson(`${API_BASE}/crossword/archive?lang=${LANG_EN}&country=US&androidLang=en&deviceType=Android&appVersion=2.9.0`);
 }
 
+export async function fetchCrosswordMonth({ year, month, country = 'IN', androidLang = 'en' }) {
+  const params = new URLSearchParams({
+    token: PASSWORD_TOKEN,
+    lang: LANG_EN,
+    androidLang,
+    country,
+    deviceType: 'Android',
+    appVersion: '2.9.0',
+    buildNumber: PASSWORD_BUILD,
+    year: String(year),
+    month: String(month),
+  });
+  return fetchJson(`${API_BASE}/crossword/getmonth?${params.toString()}`);
+}
+
+function normalizeMonthEntries(monthJson) {
+  const fases = monthJson?.Records?.[0]?.CrosswordFases || [];
+  const byDate = new Map();
+
+  for (const item of fases) {
+    const key = `${item.Year}-${String(item.Month).padStart(2, '0')}-${String(item.Day).padStart(2, '0')}`;
+    if (!byDate.has(key)) {
+      byDate.set(key, {
+        key,
+        year: item.Year,
+        month: item.Month,
+        day: item.Day,
+        small: null,
+        mid: null,
+      });
+    }
+
+    const entry = byDate.get(key);
+    const normalized = {
+      puzzleId: item.PuzzleId,
+      fase: item.Fase,
+      size: item.Tamanho,
+      status: item.Status,
+      version: item.Versao,
+    };
+
+    if (item.Tamanho === 1 || item.Fase === 0) entry.small = normalized;
+    if (item.Tamanho === 2 || item.Fase === 1) entry.mid = normalized;
+  }
+
+  return Array.from(byDate.values()).sort((a, b) => {
+    const left = new Date(a.year, a.month - 1, a.day).getTime();
+    const right = new Date(b.year, b.month - 1, b.day).getTime();
+    return right - left;
+  });
+}
+
 export async function fetchDailyCrossword({ year, month, day, fase = 1 }) {
   const json = await fetchJson(`${API_BASE}/crossword/getpuzzle?lang=${LANG_EN}&country=US&androidLang=en&deviceType=Android&appVersion=2.9.0&year=${year}&month=${month}&day=${day}&fase=${fase}`);
   if (!json.Ok || !json.Records?.[0]) return null;
@@ -74,8 +126,9 @@ export async function buildDailySnapshot(now = new Date()) {
   const month = now.getMonth() + 1;
   const day = now.getDate();
 
-  const [archive, crossword, password] = await Promise.all([
+  const [archive, monthData, crossword, password] = await Promise.all([
     fetchCrosswordArchive(),
+    fetchCrosswordMonth({ year, month }).catch(() => null),
     fetchDailyCrossword({ year, month, day, fase: 1 }),
     fetchTodaysPassword({ year, month, day }).catch((error) => ({ error: error.message })),
   ]);
@@ -85,6 +138,7 @@ export async function buildDailySnapshot(now = new Date()) {
     today: { year, month, day },
     crossword: {
       archive: archive?.Records?.[0]?.TodayCrosswordYearMonth || [],
+      archiveEntries: normalizeMonthEntries(monthData),
       puzzle: crossword,
     },
     password,

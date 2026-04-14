@@ -27,6 +27,14 @@ function fmtMonth(monthItem) {
   });
 }
 
+function fmtArchiveDay(item) {
+  return new Date(item.year, item.month - 1, item.day).toLocaleDateString('en-US', {
+    day: 'numeric',
+    month: 'short',
+    year: 'numeric',
+  });
+}
+
 export default async function DailyPage() {
   const snapshot = (await readDailySnapshot()) || (await buildDailySnapshot().catch(() => null));
 
@@ -53,6 +61,7 @@ export default async function DailyPage() {
   const todayLabel = fmtDate(snapshot.today);
   const crossword = snapshot.crossword?.puzzle;
   const archive = snapshot.crossword?.archive || [];
+  const archiveEntries = snapshot.crossword?.archiveEntries || [];
   const clueList = crossword?.Cifras || [];
   const passwordOk = snapshot.password?.json?.Ok;
   const passwordJson = snapshot.password?.json;
@@ -199,7 +208,7 @@ export default async function DailyPage() {
               <div className="panel-card">
                 <span className="panel-kicker">Archive months</span>
                 <h3>{archive.length} month buckets tracked</h3>
-                <p>The archive view below shows how many daily crossword phases are available per month.</p>
+                <p>The archive view below now lists each dated entry with both small and mid crossword slots.</p>
               </div>
             </div>
           </section>
@@ -218,6 +227,26 @@ export default async function DailyPage() {
                 <article key={`${monthItem.Year}-${monthItem.Month}-${index}`} className="month-card">
                   <strong>{fmtMonth(monthItem)}</strong>
                   <span>{monthItem.QuantidadeDeFases} puzzle phases</span>
+                </article>
+              ))}
+            </div>
+          </section>
+
+          <section className="section-block">
+            <div className="section-head">
+              <div>
+                <p className="section-kicker">Dated archive</p>
+                <h2 className="section-title">Daily archive entries for {fmtMonth({ Year: snapshot.today.year, Month: snapshot.today.month })}</h2>
+              </div>
+              <p className="section-copy">Each date exposes both crossword sizes. Small maps to size 1 and mid maps to size 2.</p>
+            </div>
+
+            <div className="month-grid">
+              {archiveEntries.map((entry) => (
+                <article key={entry.key} className="month-card">
+                  <strong>{fmtArchiveDay(entry)}</strong>
+                  <span>Small: {entry.small ? `ready (${entry.small.puzzleId.slice(0, 8)}...)` : 'missing'}</span>
+                  <span>Mid: {entry.mid ? `ready (${entry.mid.puzzleId.slice(0, 8)}...)` : 'missing'}</span>
                 </article>
               ))}
             </div>
