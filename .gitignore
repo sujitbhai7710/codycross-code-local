@@ -2,9 +2,52 @@ codycross-answers/node_modules/
 codycross-answers/.next/
 codycross-answers/out/
 codycross-answers/.vercel/
+codycross-answers/scripts/probe-getmonth.mjs
 
 *.idsig
 *.keystore
 
 .DS_Store
 Thumbs.db
+
+# Local reverse-engineering and scratch files
+.zed/
+CodyCross_*.xapk
+Il2CppDumper.zip
+Il2CppDumper/
+api_data/
+apk_addressables/
+apk_base/
+apk_config/
+apk_unity/
+cody_decoded/
+cody_patched*.apk
+frida-server/
+il2cpp_output/
+nul
+remote_catalog.json
+signed_apks/
+tools/
+xapk_extracted/
+
+# Local probe scripts
+crack_*.js
+deep_meta_analysis.py
+disasm_*.py
+dump_binary.py
+extract_key.py
+find_*.py
+find_*.js
+frida_hook.js
+get_il2cpp_release.ps1
+hook.js
+inspect_crossword_public.js
+parse_dll.py
+probe_*.ps1
+probe_*.js
+read_*.py
+search_strings.ps1
+test_*.js
+trace_*.py
+trace_*.js
+try_*.py

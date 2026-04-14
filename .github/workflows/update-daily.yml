@@ -5,8 +5,20 @@ on:
     - cron: '31 18 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
   update-daily:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -30,8 +42,27 @@ jobs:
 
       - name: Commit snapshot if changed
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/daily.json
-          git diff --cached --quiet || git commit -m "update daily snapshot"
-          git push
+          if git diff --cached --quiet; then
+            echo "No daily snapshot changes to commit."
+          else
+            git commit -m "update daily snapshot"
+            git push
+          fi
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: codycross-answers/out
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
