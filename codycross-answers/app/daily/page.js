@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { DailyBrowser } from '../../components/daily-browser';
 import { SiteFooter, SiteNav, StatBadge } from '../../components/site-shell';
 import { buildDailySnapshot, readDailySnapshot } from '../../lib/daily';
 
@@ -23,14 +24,6 @@ function fmtDateTime(value) {
 function fmtMonth(monthItem) {
   return new Date(monthItem.Year, monthItem.Month - 1, 1).toLocaleDateString('en-US', {
     month: 'long',
-    year: 'numeric',
-  });
-}
-
-function fmtArchiveDay(item) {
-  return new Date(item.year, item.month - 1, item.day).toLocaleDateString('en-US', {
-    day: 'numeric',
-    month: 'short',
     year: 'numeric',
   });
 }
@@ -62,7 +55,7 @@ export default async function DailyPage() {
   const crossword = snapshot.crossword?.puzzle;
   const archive = snapshot.crossword?.archive || [];
   const archiveEntries = snapshot.crossword?.archiveEntries || [];
-  const clueList = crossword?.Cifras || [];
+  const clueList = crossword?.answers || [];
   const passwordOk = snapshot.password?.json?.Ok;
   const passwordJson = snapshot.password?.json;
   const passwordData = snapshot.password?.decrypted;
@@ -114,12 +107,12 @@ export default async function DailyPage() {
               {crossword ? (
                 <>
                   <h2>Today&apos;s grid is ready</h2>
-                  <p>Fetched from the public crossword endpoint and surfaced in a clearer answer-card layout.</p>
+                  <p>Fetched from the public crossword endpoint and surfaced with a size switcher plus a dated archive picker.</p>
 
                   <div className="answer-spotlight">
                     <span className="answer-label">Daily crossword</span>
                     <span className="answer-value">{clueList.length} clue answers</span>
-                    <p className="answer-note">Puzzle ID: {crossword.Track || 'Not available'}</p>
+                     <p className="answer-note">Puzzle ID: {crossword?.puzzleId || crossword?.track || 'Not available'}</p>
                   </div>
 
                   <div className="detail-grid">
@@ -134,14 +127,14 @@ export default async function DailyPage() {
                   </div>
 
                   <div className="answer-grid">
-                    {clueList.map((cifra, index) => (
-                      <article key={cifra.Id || index} className="clue-card">
-                        <span className="clue-card__index">Clue {index + 1}</span>
-                        <span className="clue-text">{cifra.Dica}</span>
-                        <span className="answer-text">{cifra.Resposta}</span>
-                      </article>
-                    ))}
-                  </div>
+                     {clueList.slice(0, 6).map((cifra, index) => (
+                       <article key={cifra.id || index} className="clue-card">
+                         <span className="clue-card__index">Clue {index + 1}</span>
+                         <span className="clue-text">{cifra.clue}</span>
+                         <span className="answer-text">{cifra.answer}</span>
+                       </article>
+                     ))}
+                   </div>
                 </>
               ) : (
                 <div className="state-card" style={{ marginTop: '1rem' }}>
@@ -208,7 +201,7 @@ export default async function DailyPage() {
               <div className="panel-card">
                 <span className="panel-kicker">Archive months</span>
                 <h3>{archive.length} month buckets tracked</h3>
-                <p>The archive view below now lists each dated entry with both small and mid crossword slots.</p>
+                <p>Use the browser below to switch between small and mid and jump to any earlier date in the current month.</p>
               </div>
             </div>
           </section>
@@ -232,25 +225,7 @@ export default async function DailyPage() {
             </div>
           </section>
 
-          <section className="section-block">
-            <div className="section-head">
-              <div>
-                <p className="section-kicker">Dated archive</p>
-                <h2 className="section-title">Daily archive entries for {fmtMonth({ Year: snapshot.today.year, Month: snapshot.today.month })}</h2>
-              </div>
-              <p className="section-copy">Each date exposes both crossword sizes. Small maps to size 1 and mid maps to size 2.</p>
-            </div>
-
-            <div className="month-grid">
-              {archiveEntries.map((entry) => (
-                <article key={entry.key} className="month-card">
-                  <strong>{fmtArchiveDay(entry)}</strong>
-                  <span>Small: {entry.small ? `ready (${entry.small.puzzleId.slice(0, 8)}...)` : 'missing'}</span>
-                  <span>Mid: {entry.mid ? `ready (${entry.mid.puzzleId.slice(0, 8)}...)` : 'missing'}</span>
-                </article>
-              ))}
-            </div>
-          </section>
+          <DailyBrowser todayEntry={archiveEntries.find((entry) => entry.day === snapshot.today.day) || archiveEntries[0] || null} archiveEntries={archiveEntries} />
         </div>
       </main>
 

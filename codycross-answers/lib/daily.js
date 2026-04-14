@@ -84,6 +84,7 @@ function normalizeMonthEntries(monthJson) {
       size: item.Tamanho,
       status: item.Status,
       version: item.Versao,
+      answers: [],
     };
 
     if (item.Tamanho === 1 || item.Fase === 0) entry.small = normalized;
@@ -95,6 +96,20 @@ function normalizeMonthEntries(monthJson) {
     const right = new Date(b.year, b.month - 1, b.day).getTime();
     return right - left;
   });
+}
+
+function toPuzzleAnswers(puzzle, meta) {
+  if (!puzzle) return null;
+  return {
+    ...meta,
+    track: puzzle.Track || null,
+    answers: (puzzle.Cifras || []).map((item) => ({
+      id: item.Id,
+      clue: item.Dica,
+      answer: item.Resposta,
+      normalized: item.RespostaNormalizada,
+    })),
+  };
 }
 
 export async function fetchDailyCrossword({ year, month, day, fase = 1 }) {
@@ -133,13 +148,29 @@ export async function buildDailySnapshot(now = new Date()) {
     fetchTodaysPassword({ year, month, day }).catch((error) => ({ error: error.message })),
   ]);
 
+  const archiveEntries = normalizeMonthEntries(monthData);
+
+  await Promise.all(
+    archiveEntries.map(async (entry) => {
+      if (entry.small) {
+        const puzzle = await fetchDailyCrossword({ year: entry.year, month: entry.month, day: entry.day, fase: entry.small.fase }).catch(() => null);
+        entry.small = toPuzzleAnswers(puzzle, entry.small);
+      }
+
+      if (entry.mid) {
+        const puzzle = await fetchDailyCrossword({ year: entry.year, month: entry.month, day: entry.day, fase: entry.mid.fase }).catch(() => null);
+        entry.mid = toPuzzleAnswers(puzzle, entry.mid);
+      }
+    })
+  );
+
   return {
     generatedAt: new Date().toISOString(),
     today: { year, month, day },
     crossword: {
       archive: archive?.Records?.[0]?.TodayCrosswordYearMonth || [],
-      archiveEntries: normalizeMonthEntries(monthData),
-      puzzle: crossword,
+      archiveEntries,
+      puzzle: toPuzzleAnswers(crossword, { fase: 1, size: 2, puzzleId: crossword?.Track || null }),
     },
     password,
   };
