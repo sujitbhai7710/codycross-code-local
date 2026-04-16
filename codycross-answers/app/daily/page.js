@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import { DailyBrowser } from '../../components/daily-browser';
 import { SiteFooter, SiteNav, StatBadge } from '../../components/site-shell';
 import { buildDailySnapshot, readDailySnapshot } from '../../lib/daily';
@@ -18,13 +17,6 @@ function fmtDateTime(value) {
   return new Date(value).toLocaleString('en-US', {
     dateStyle: 'medium',
     timeStyle: 'short',
-  });
-}
-
-function fmtMonth(monthItem) {
-  return new Date(monthItem.Year, monthItem.Month - 1, 1).toLocaleDateString('en-US', {
-    month: 'long',
-    year: 'numeric',
   });
 }
 
@@ -52,10 +44,9 @@ export default async function DailyPage() {
   }
 
   const todayLabel = fmtDate(snapshot.today);
-  const crossword = snapshot.crossword?.puzzle;
-  const archive = snapshot.crossword?.archive || [];
   const archiveEntries = snapshot.crossword?.archiveEntries || [];
-  const clueList = crossword?.answers || [];
+  const todayEntry = snapshot.crossword?.todayEntry || archiveEntries.find((entry) => entry.day === snapshot.today.day) || archiveEntries[0] || null;
+  const initialClues = todayEntry?.small?.answers?.length || 0;
   const passwordOk = snapshot.password?.json?.Ok;
   const passwordJson = snapshot.password?.json;
   const passwordData = snapshot.password?.decrypted;
@@ -71,15 +62,14 @@ export default async function DailyPage() {
           <section className="hero-panel">
             <div className="hero-copy">
               <span className="eyebrow">Daily answers</span>
-              <h1 className="hero-title hero-title--compact">Today&apos;s crossword and password, cleaned up.</h1>
+              <h1 className="hero-title hero-title--compact">Pick a date, switch small or mid, and see the real answers.</h1>
               <p className="hero-text">
-                This page highlights the daily answers first, then keeps the extra archive context underneath so it
-                stays useful without feeling noisy.
+                The daily page now opens straight into the archive browser, so you can jump between sizes and dates without the duplicate summary sections.
               </p>
 
               <div className="stat-row">
                 <StatBadge label="Date" value={todayLabel} tone="accent" />
-                <StatBadge label="Clues" value={String(clueList.length)} />
+                <StatBadge label="Small clues" value={String(initialClues)} />
                 <StatBadge label="Password" value={passwordOk ? 'Ready' : 'Pending'} tone="warm" />
               </div>
             </div>
@@ -87,145 +77,42 @@ export default async function DailyPage() {
             <div className="hero-rail">
               <div className="panel-card panel-card--accent">
                 <span className="panel-kicker">Snapshot status</span>
-                <h2>Freshly published and easy to scan.</h2>
-                <p>The current snapshot was generated {generatedLabel} and packaged for static GitHub Pages delivery.</p>
-              </div>
-
-              <div className="panel-card">
-                <span className="panel-kicker">Open next</span>
-                <div className="inline-links" style={{ marginTop: '1rem' }}>
-                  <Link href="/" className="pill-link">Browse all worlds</Link>
-                  <Link href="/world/1" className="pill-link">Start at World 1</Link>
-                </div>
+                <h2>Published with IST-aware dates.</h2>
+                <p>The current snapshot was generated {generatedLabel}. Daily selection now follows Asia/Kolkata instead of the runner timezone.</p>
               </div>
             </div>
           </section>
 
-          <section className="daily-layout">
-            <div className="panel-card panel-card--accent">
-              <span className="panel-kicker">Daily crossword</span>
-              {crossword ? (
-                <>
-                  <h2>Today&apos;s grid is ready</h2>
-                  <p>Fetched from the public crossword endpoint and surfaced with a size switcher plus a dated archive picker.</p>
-
-                  <div className="answer-spotlight">
-                    <span className="answer-label">Daily crossword</span>
-                    <span className="answer-value">{clueList.length} clue answers</span>
-                     <p className="answer-note">Puzzle ID: {crossword?.puzzleId || crossword?.track || 'Not available'}</p>
-                  </div>
-
-                  <div className="detail-grid">
-                    <div className="summary-card">
-                      <span>Clues</span>
-                      <strong>{clueList.length}</strong>
-                    </div>
-                    <div className="summary-card">
-                      <span>Date</span>
-                      <strong>{todayLabel}</strong>
-                    </div>
-                  </div>
-
-                  <div className="answer-grid">
-                     {clueList.slice(0, 6).map((cifra, index) => (
-                       <article key={cifra.id || index} className="clue-card">
-                         <span className="clue-card__index">Clue {index + 1}</span>
-                         <span className="clue-text">{cifra.clue}</span>
-                         <span className="answer-text">{cifra.answer}</span>
-                       </article>
-                     ))}
-                   </div>
-                </>
-              ) : (
-                <div className="state-card" style={{ marginTop: '1rem' }}>
-                  <h3>Crossword unavailable</h3>
-                  <p>The crossword payload did not load in the current snapshot.</p>
-                </div>
-              )}
-            </div>
-
-            <div className="hero-rail">
-              {passwordOk ? (
-                <div className="panel-card panel-card--warm">
-                  <span className="panel-kicker">Today&apos;s password</span>
-                  <h2>Password ready</h2>
-                  <p>Recovered through the signed password endpoint and shown with the supporting metadata.</p>
-
-                  <div className="answer-spotlight answer-spotlight--warm">
-                    <span className="answer-label">Password</span>
-                    <span className="answer-value">{passwordData?.Password || 'Not available'}</span>
-                  </div>
-
-                  <div className="detail-grid">
-                    <div className="summary-card">
-                      <span>Max guesses</span>
-                      <strong>{passwordData?.MaxGuesses ?? 'N/A'}</strong>
-                    </div>
-                    <div className="summary-card">
-                      <span>Version</span>
-                      <strong>{passwordData?.Version ?? 'N/A'}</strong>
-                    </div>
-                  </div>
-
-                  <div className="bullet-list">
-                    <div className="bullet-item">
-                      <span className="bullet-dot" />
-                      <div className="bullet-copy">
-                        <strong>Date</strong>
-                        <span>{passwordData?.Date || 'N/A'}</span>
-                      </div>
-                    </div>
-
-                    <div className="bullet-item">
-                      <span className="bullet-dot" />
-                      <div className="bullet-copy">
-                        <strong>Normalized</strong>
-                        <span>{passwordData?.NormalizedPassword || 'N/A'}</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              ) : (
-                <div className="panel-card panel-card--warm">
-                  <span className="panel-kicker">Today&apos;s password</span>
-                  <h2>Password still locked</h2>
-                  <p>{passwordError || `The API returned status ${passwordJson?.Status ?? 'unknown'}.`}</p>
-
-                  <details className="debug-block">
-                    <summary>Show debug payload</summary>
-                    <pre>{JSON.stringify(snapshot.password, null, 2)}</pre>
-                  </details>
-                </div>
-              )}
-
-              <div className="panel-card">
-                <span className="panel-kicker">Archive months</span>
-                <h3>{archive.length} month buckets tracked</h3>
-                <p>Use the browser below to switch between small and mid and jump to any earlier date in the current month.</p>
-              </div>
-            </div>
-          </section>
+          <DailyBrowser todayEntry={todayEntry} archiveEntries={archiveEntries} />
 
           <section className="section-block">
-            <div className="section-head">
-              <div>
-                <p className="section-kicker">Archive context</p>
-                <h2 className="section-title">Daily crossword archive by month</h2>
+            {passwordOk ? (
+              <div className="panel-card panel-card--warm">
+                <span className="panel-kicker">Today&apos;s password</span>
+                <div className="answer-spotlight answer-spotlight--warm">
+                  <span className="answer-label">Password</span>
+                  <span className="answer-value">{passwordData?.Password || 'Not available'}</span>
+                </div>
+
+                <div className="detail-grid">
+                  <div className="summary-card">
+                    <span>Max guesses</span>
+                    <strong>{passwordData?.MaxGuesses ?? 'N/A'}</strong>
+                  </div>
+                  <div className="summary-card">
+                    <span>Version</span>
+                    <strong>{passwordData?.Version ?? 'N/A'}</strong>
+                  </div>
+                </div>
               </div>
-              <p className="section-copy">Useful when you want to jump backward and see how much daily history is available.</p>
-            </div>
-
-            <div className="month-grid">
-              {archive.map((monthItem, index) => (
-                <article key={`${monthItem.Year}-${monthItem.Month}-${index}`} className="month-card">
-                  <strong>{fmtMonth(monthItem)}</strong>
-                  <span>{monthItem.QuantidadeDeFases} puzzle phases</span>
-                </article>
-              ))}
-            </div>
+            ) : (
+              <div className="panel-card panel-card--warm">
+                <span className="panel-kicker">Today&apos;s password</span>
+                <h2>Password still locked</h2>
+                <p>{passwordError || `The API returned status ${passwordJson?.Status ?? 'unknown'}.`}</p>
+              </div>
+            )}
           </section>
-
-          <DailyBrowser todayEntry={archiveEntries.find((entry) => entry.day === snapshot.today.day) || archiveEntries[0] || null} archiveEntries={archiveEntries} />
         </div>
       </main>
 

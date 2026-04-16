@@ -21,14 +21,40 @@ function decryptRecord(encryptedBase64) {
   return JSON.parse(Buffer.concat([decipher.update(encrypted), decipher.final()]).toString('utf8'));
 }
 
-function formatDtu(date = new Date()) {
+function getIstParts(now = new Date()) {
+  const formatter = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Kolkata',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false,
+  });
+
+  const parts = Object.fromEntries(
+    formatter
+      .formatToParts(now)
+      .filter((part) => part.type !== 'literal')
+      .map((part) => [part.type, part.value])
+  );
+
+  return {
+    year: Number(parts.year),
+    month: Number(parts.month),
+    day: Number(parts.day),
+    hour: Number(parts.hour),
+    minute: Number(parts.minute),
+    second: Number(parts.second),
+    millisecond: now.getUTCMilliseconds(),
+  };
+}
+
+function formatDtu(now = new Date()) {
   const pad = (n, w = 2) => String(n).padStart(w, '0');
-  const offsetMin = -date.getTimezoneOffset();
-  const sign = offsetMin >= 0 ? '+' : '-';
-  const abs = Math.abs(offsetMin);
-  const oh = pad(Math.floor(abs / 60));
-  const om = pad(abs % 60);
-  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}T${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}.${pad(date.getMilliseconds(), 3)}0000${sign}${oh}:${om}`;
+  const ist = getIstParts(now);
+  return `${ist.year}-${pad(ist.month)}-${pad(ist.day)}T${pad(ist.hour)}:${pad(ist.minute)}:${pad(ist.second)}.${pad(ist.millisecond, 3)}0000+05:30`;
 }
 
 function buildPasswordHash({ token, lang, day, month, year }) {
@@ -118,8 +144,8 @@ export async function fetchDailyCrossword({ year, month, day, fase = 1 }) {
   return decryptRecord(json.Records[0]).CrosswordPuzzle;
 }
 
-export async function fetchTodaysPassword({ year, month, day, country = 'IN', androidLang = 'en' }) {
-  const dtu = formatDtu();
+export async function fetchTodaysPassword({ year, month, day, country = 'IN', androidLang = 'en', now = new Date() }) {
+  const dtu = formatDtu(now);
   const hash = buildPasswordHash({ token: PASSWORD_TOKEN, lang: LANG_EN, day, month, year });
   const params = new URLSearchParams({
     token: PASSWORD_TOKEN,
@@ -137,18 +163,32 @@ export async function fetchTodaysPassword({ year, month, day, country = 'IN', an
 }
 
 export async function buildDailySnapshot(now = new Date()) {
-  const year = now.getFullYear();
-  const month = now.getMonth() + 1;
-  const day = now.getDate();
+  const ist = getIstParts(now);
+  const year = ist.year;
+  const month = ist.month;
+  const day = ist.day;
 
-  const [archive, monthData, crossword, password] = await Promise.all([
-    fetchCrosswordArchive(),
-    fetchCrosswordMonth({ year, month }).catch(() => null),
-    fetchDailyCrossword({ year, month, day, fase: 1 }),
-    fetchTodaysPassword({ year, month, day }).catch((error) => ({ error: error.message })),
+  const archive = await fetchCrosswordArchive();
+  const archiveSummary = archive?.Records?.[0]?.TodayCrosswordYearMonth || [];
+
+  const archiveMonthResults = await Promise.all(
+    archiveSummary.map(async (item) => {
+      const monthData = await fetchCrosswordMonth({ year: item.Year, month: item.Month }).catch(() => null);
+      return normalizeMonthEntries(monthData);
+    })
+  );
+
+  const archiveEntries = archiveMonthResults.flat().sort((a, b) => {
+    const left = new Date(a.year, a.month - 1, a.day).getTime();
+    const right = new Date(b.year, b.month - 1, b.day).getTime();
+    return right - left;
+  });
+
+  const [todaySmall, todayMid, password] = await Promise.all([
+    fetchDailyCrossword({ year, month, day, fase: 0 }).catch(() => null),
+    fetchDailyCrossword({ year, month, day, fase: 1 }).catch(() => null),
+    fetchTodaysPassword({ year, month, day, now }).catch((error) => ({ error: error.message })),
   ]);
-
-  const archiveEntries = normalizeMonthEntries(monthData);
 
   await Promise.all(
     archiveEntries.map(async (entry) => {
@@ -164,13 +204,36 @@ export async function buildDailySnapshot(now = new Date()) {
     })
   );
 
+  const todayKey = `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+  let todayEntry = archiveEntries.find((entry) => entry.key === todayKey) || null;
+
+  if (!todayEntry) {
+    todayEntry = {
+      key: todayKey,
+      year,
+      month,
+      day,
+      small: null,
+      mid: null,
+    };
+    archiveEntries.unshift(todayEntry);
+  }
+
+  if (todaySmall) {
+    todayEntry.small = toPuzzleAnswers(todaySmall, todayEntry.small || { puzzleId: todaySmall.Track || null, fase: 0, size: 1, status: 1, version: 0, answers: [] });
+  }
+
+  if (todayMid) {
+    todayEntry.mid = toPuzzleAnswers(todayMid, todayEntry.mid || { puzzleId: todayMid.Track || null, fase: 1, size: 2, status: 1, version: 0, answers: [] });
+  }
+
   return {
     generatedAt: new Date().toISOString(),
     today: { year, month, day },
     crossword: {
-      archive: archive?.Records?.[0]?.TodayCrosswordYearMonth || [],
+      archive: archiveSummary,
       archiveEntries,
-      puzzle: toPuzzleAnswers(crossword, { fase: 1, size: 2, puzzleId: crossword?.Track || null }),
+      todayEntry,
     },
     password,
   };
