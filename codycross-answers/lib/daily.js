@@ -4,6 +4,10 @@ import path from 'path';
 
 const API_BASE = 'https://game.codycross-game.com';
 const LANG_EN = '1aca585a-8e15-3029-89a0-54aa078acec2';
+const API_COUNTRY = 'IN';
+const API_ANDROID_LANG = 'en';
+const API_DEVICE_TYPE = 'Android';
+const API_APP_VERSION = '2.9.0';
 const AES_KEY = Buffer.from('5f109c70829c1ae6564c25c5258e10c6', 'hex');
 const AES_IV = Buffer.from('38326a666d65397a77656a646b66696b', 'hex');
 
@@ -76,17 +80,24 @@ async function fetchJson(url) {
 }
 
 export async function fetchCrosswordArchive() {
-  return fetchJson(`${API_BASE}/crossword/archive?lang=${LANG_EN}&country=US&androidLang=en&deviceType=Android&appVersion=2.9.0`);
+  const params = new URLSearchParams({
+    lang: LANG_EN,
+    country: API_COUNTRY,
+    androidLang: API_ANDROID_LANG,
+    deviceType: API_DEVICE_TYPE,
+    appVersion: API_APP_VERSION,
+  });
+  return fetchJson(`${API_BASE}/crossword/archive?${params.toString()}`);
 }
 
-export async function fetchCrosswordMonth({ year, month, country = 'IN', androidLang = 'en' }) {
+export async function fetchCrosswordMonth({ year, month, country = API_COUNTRY, androidLang = API_ANDROID_LANG }) {
   const params = new URLSearchParams({
     token: PASSWORD_TOKEN,
     lang: LANG_EN,
     androidLang,
     country,
-    deviceType: 'Android',
-    appVersion: '2.9.0',
+    deviceType: API_DEVICE_TYPE,
+    appVersion: API_APP_VERSION,
     buildNumber: PASSWORD_BUILD,
     year: String(year),
     month: String(month),
@@ -147,20 +158,31 @@ function toPuzzleAnswers(puzzle, meta) {
 }
 
 export async function fetchDailyCrossword({ year, month, day, fase = 1 }) {
-  const json = await fetchJson(`${API_BASE}/crossword/getpuzzle?lang=${LANG_EN}&country=US&androidLang=en&deviceType=Android&appVersion=2.9.0&year=${year}&month=${month}&day=${day}&fase=${fase}`);
+  const params = new URLSearchParams({
+    lang: LANG_EN,
+    country: API_COUNTRY,
+    androidLang: API_ANDROID_LANG,
+    deviceType: API_DEVICE_TYPE,
+    appVersion: API_APP_VERSION,
+    year: String(year),
+    month: String(month),
+    day: String(day),
+    fase: String(fase),
+  });
+  const json = await fetchJson(`${API_BASE}/crossword/getpuzzle?${params.toString()}`);
   if (!json.Ok || !json.Records?.[0]) return null;
   return decryptRecord(json.Records[0]).CrosswordPuzzle;
 }
 
-export async function fetchTodaysPassword({ year, month, day, country = 'IN', androidLang = 'en', now = new Date() }) {
+export async function fetchTodaysPassword({ year, month, day, country = API_COUNTRY, androidLang = API_ANDROID_LANG, now = new Date() }) {
   const dtu = formatDtu(now);
   const hash = buildPasswordHash({ token: PASSWORD_TOKEN, lang: LANG_EN, day, month, year });
   const params = new URLSearchParams({
     token: PASSWORD_TOKEN,
     androidLang,
     country,
-    deviceType: 'Android',
-    appVersion: '2.9.0',
+    deviceType: API_DEVICE_TYPE,
+    appVersion: API_APP_VERSION,
     buildNumber: PASSWORD_BUILD,
     dtu,
     hash,

@@ -1,11 +1,23 @@
 const API_BASE = 'https://game.codycross-game.com';
 const LANG_EN = '1aca585a-8e15-3029-89a0-54aa078acec2';
+const API_COUNTRY = 'IN';
+const API_ANDROID_LANG = 'en';
+const API_DEVICE_TYPE = 'Android';
+const API_APP_VERSION = '2.9.0';
 
 const AES_KEY = Buffer.from('5f109c70829c1ae6564c25c5258e10c6', 'hex');
 const AES_IV = Buffer.from('38326a666d65397a77656a646b66696b', 'hex');
 
 export async function fetchWorld(worldNum, lang = LANG_EN) {
-  const url = `${API_BASE}/Puzzle/GetMundo?lang=${lang}&country=US&androidLang=en&deviceType=Android&appVersion=2.9.0&mundo=${worldNum}`;
+  const params = new URLSearchParams({
+    lang,
+    country: API_COUNTRY,
+    androidLang: API_ANDROID_LANG,
+    deviceType: API_DEVICE_TYPE,
+    appVersion: API_APP_VERSION,
+    mundo: String(worldNum),
+  });
+  const url = `${API_BASE}/Puzzle/GetMundo?${params.toString()}`;
   const res = await fetch(url, { next: { revalidate: 3600 } });
   if (!res.ok) throw new Error(`API error: ${res.status}`);
   return res.json();
