@@ -15,9 +15,10 @@ function formatInputDate(entry) {
   return `${entry.year}-${String(entry.month).padStart(2, '0')}-${String(entry.day).padStart(2, '0')}`;
 }
 
-export function DailyBrowser({ todayEntry, archiveEntries = [] }) {
+export function DailyBrowser({ todayEntry, initialEntry = null, archiveEntries = [], todayPublished = true }) {
+  const defaultEntry = initialEntry || todayEntry || archiveEntries[0] || null;
   const [selectedMode, setSelectedMode] = useState('small');
-  const [selectedDate, setSelectedDate] = useState(todayEntry ? formatInputDate(todayEntry) : '');
+  const [selectedDate, setSelectedDate] = useState(defaultEntry ? formatInputDate(defaultEntry) : '');
 
   const byDate = useMemo(() => {
     const map = new Map();
@@ -27,7 +28,7 @@ export function DailyBrowser({ todayEntry, archiveEntries = [] }) {
     return map;
   }, [archiveEntries]);
 
-  const currentEntry = byDate.get(selectedDate) || todayEntry || archiveEntries[0] || null;
+  const currentEntry = byDate.get(selectedDate) || defaultEntry;
   const selectedPuzzle = currentEntry?.[selectedMode] || null;
   const selectedAnswers = selectedPuzzle?.answers || [];
 
@@ -40,6 +41,13 @@ export function DailyBrowser({ todayEntry, archiveEntries = [] }) {
         </div>
         <p className="section-copy">This uses the recovered daily crossword archive data directly, so past dates work without guesswork.</p>
       </div>
+
+      {!todayPublished && todayEntry ? (
+        <div className="state-card" style={{ marginBottom: '1.25rem' }}>
+          <h3>Today&apos;s puzzle is not available yet</h3>
+          <p>The browser opens on the latest published archive date, and you can still select today manually once it goes live.</p>
+        </div>
+      ) : null}
 
       <div className="browser-toolbar">
         <div className="toggle-row">
@@ -87,7 +95,7 @@ export function DailyBrowser({ todayEntry, archiveEntries = [] }) {
                   </div>
                   <div className="summary-card">
                     <span>Puzzle ID</span>
-                    <strong>{selectedPuzzle.puzzleId.slice(0, 8)}...</strong>
+                     <strong>{selectedPuzzle.puzzleId ? `${selectedPuzzle.puzzleId.slice(0, 8)}...` : 'Unknown'}</strong>
                   </div>
                 </div>
 

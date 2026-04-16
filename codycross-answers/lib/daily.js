@@ -14,6 +14,14 @@ const PASSWORD_SEED = 'SenhaDoDia';
 const DATA_DIR = path.join(process.cwd(), 'data');
 const DAILY_FILE = path.join(DATA_DIR, 'daily.json');
 
+function entryTimestamp({ year, month, day }) {
+  return new Date(year, month - 1, day).getTime();
+}
+
+function sortEntriesDesc(entries) {
+  return entries.sort((a, b) => entryTimestamp(b) - entryTimestamp(a));
+}
+
 function decryptRecord(encryptedBase64) {
   const encrypted = Buffer.from(encryptedBase64, 'base64');
   const decipher = crypto.createDecipheriv('aes-128-cbc', AES_KEY, AES_IV);
@@ -117,11 +125,11 @@ function normalizeMonthEntries(monthJson) {
     if (item.Tamanho === 2 || item.Fase === 1) entry.mid = normalized;
   }
 
-  return Array.from(byDate.values()).sort((a, b) => {
-    const left = new Date(a.year, a.month - 1, a.day).getTime();
-    const right = new Date(b.year, b.month - 1, b.day).getTime();
-    return right - left;
-  });
+  return sortEntriesDesc(Array.from(byDate.values()));
+}
+
+function hasAnswers(puzzle) {
+  return Boolean(puzzle?.answers?.length);
 }
 
 function toPuzzleAnswers(puzzle, meta) {
@@ -178,11 +186,7 @@ export async function buildDailySnapshot(now = new Date()) {
     })
   );
 
-  const archiveEntries = archiveMonthResults.flat().sort((a, b) => {
-    const left = new Date(a.year, a.month - 1, a.day).getTime();
-    const right = new Date(b.year, b.month - 1, b.day).getTime();
-    return right - left;
-  });
+  const archiveEntries = sortEntriesDesc(archiveMonthResults.flat());
 
   const [todaySmall, todayMid, password] = await Promise.all([
     fetchDailyCrossword({ year, month, day, fase: 0 }).catch(() => null),
@@ -227,13 +231,20 @@ export async function buildDailySnapshot(now = new Date()) {
     todayEntry.mid = toPuzzleAnswers(todayMid, todayEntry.mid || { puzzleId: todayMid.Track || null, fase: 1, size: 2, status: 1, version: 0, answers: [] });
   }
 
+  const todayPublished = hasAnswers(todayEntry.small) || hasAnswers(todayEntry.mid);
+  const latestAvailableEntry = archiveEntries.find((entry) => hasAnswers(entry.small) || hasAnswers(entry.mid)) || todayEntry;
+  const browsingEntry = todayPublished ? todayEntry : latestAvailableEntry;
+
   return {
-    generatedAt: new Date().toISOString(),
+    generatedAt: now.toISOString(),
     today: { year, month, day },
     crossword: {
       archive: archiveSummary,
       archiveEntries,
       todayEntry,
+      browsingEntry,
+      latestAvailableEntry,
+      todayPublished,
     },
     password,
   };

@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { DailyBrowser } from '../../components/daily-browser';
 import { SiteFooter, SiteNav, StatBadge } from '../../components/site-shell';
 import { buildDailySnapshot, readDailySnapshot } from '../../lib/daily';
@@ -45,8 +46,11 @@ export default async function DailyPage() {
 
   const todayLabel = fmtDate(snapshot.today);
   const archiveEntries = snapshot.crossword?.archiveEntries || [];
-  const todayEntry = snapshot.crossword?.todayEntry || archiveEntries.find((entry) => entry.day === snapshot.today.day) || archiveEntries[0] || null;
-  const initialClues = todayEntry?.small?.answers?.length || 0;
+  const todayEntry = snapshot.crossword?.todayEntry || archiveEntries.find((entry) => entry.key === `${snapshot.today.year}-${String(snapshot.today.month).padStart(2, '0')}-${String(snapshot.today.day).padStart(2, '0')}`) || archiveEntries[0] || null;
+  const browsingEntry = snapshot.crossword?.browsingEntry || todayEntry;
+  const latestAvailableEntry = snapshot.crossword?.latestAvailableEntry || browsingEntry;
+  const todayPublished = snapshot.crossword?.todayPublished ?? Boolean(todayEntry?.small?.answers?.length || todayEntry?.mid?.answers?.length);
+  const initialClues = browsingEntry?.small?.answers?.length || browsingEntry?.mid?.answers?.length || 0;
   const passwordOk = snapshot.password?.json?.Ok;
   const passwordJson = snapshot.password?.json;
   const passwordData = snapshot.password?.decrypted;
@@ -72,6 +76,12 @@ export default async function DailyPage() {
                 <StatBadge label="Small clues" value={String(initialClues)} />
                 <StatBadge label="Password" value={passwordOk ? 'Ready' : 'Pending'} tone="warm" />
               </div>
+
+              {!todayPublished && latestAvailableEntry ? (
+                <p className="hero-text" style={{ marginTop: '1rem' }}>
+                  Today&apos;s crossword is not published yet. Showing the latest available archive date instead: {fmtDate(latestAvailableEntry)}.
+                </p>
+              ) : null}
             </div>
 
             <div className="hero-rail">
@@ -83,7 +93,7 @@ export default async function DailyPage() {
             </div>
           </section>
 
-          <DailyBrowser todayEntry={todayEntry} archiveEntries={archiveEntries} />
+          <DailyBrowser todayEntry={todayEntry} initialEntry={browsingEntry} archiveEntries={archiveEntries} todayPublished={todayPublished} />
 
           <section className="section-block">
             {passwordOk ? (

@@ -4,7 +4,8 @@ async function main() {
   const snapshot = await buildDailySnapshot();
   await writeDailySnapshot(snapshot);
   console.log(`Wrote daily snapshot for ${snapshot.today.year}-${snapshot.today.month}-${snapshot.today.day}`);
-  console.log(`Crossword loaded: ${Boolean(snapshot.crossword?.puzzle)}`);
+  console.log(`Today published: ${Boolean(snapshot.crossword?.todayPublished)}`);
+  console.log(`Archive dates: ${snapshot.crossword?.archiveEntries?.length || 0}`);
   console.log(`Password ok: ${Boolean(snapshot.password?.json?.Ok)}`);
   if (snapshot.password?.decrypted?.Password) {
     console.log(`Password: ${snapshot.password.decrypted.Password}`);
