@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-18T20:10:02.210Z",
+  "generatedAt": "2026-05-19T20:10:25.891Z",
   "today": {
     "year": 2026,
     "month": 5,
-    "day": 19
+    "day": 20
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 34
+        "QuantidadeDeFases": 36
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -415095,427 +415095,499 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-19",
+      "key": "2026-05-20",
       "year": 2026,
       "month": 5,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "249e8861-fac1-4d9d-934a-3f91da095e55",
+        "puzzleId": "7470540e-17a8-4066-9bec-fe6cd964f860",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 5,
+        "version": 1,
         "answers": [
           {
-            "id": "0a5403d5-a133-42ec-901d-27dd9d170ffd",
-            "clue": "South African Airways for short",
-            "answer": "saa",
-            "normalized": "saa"
+            "id": "6bba1a7b-0b64-4705-bb36-2bf2cfa10348",
+            "clue": "Donkey sound, \"hee-__\"",
+            "answer": "haw",
+            "normalized": "haw"
           },
           {
-            "id": "7df0c55d-68f0-40f0-9db2-6b5e1561f7de",
-            "clue": "A small body of water that rhymes with fond",
-            "answer": "pond",
-            "normalized": "pond"
+            "id": "fe80dcb6-e560-467a-a0a2-677fafb3d790",
+            "clue": "Wall-climbing plants",
+            "answer": "ivies",
+            "normalized": "ivies"
           },
           {
-            "id": "495172a5-7a2a-4ef2-a502-7abc42c06367",
-            "clue": "Revered 14th-century Persian mystic and poet",
-            "answer": "hafiz",
-            "normalized": "hafiz"
+            "id": "4e3b0df5-acf7-40ab-8d58-66aefaf5d0f7",
+            "clue": "Leonardo da __, Italian Renaissance painter",
+            "answer": "vinci",
+            "normalized": "vinci"
           },
           {
-            "id": "f6a44eed-73fb-4a40-8d76-87289dad5601",
-            "clue": "To decide the wrongdoer and point fingers",
-            "answer": "blame",
-            "normalized": "blame"
+            "id": "08a8da1a-7730-47c1-a077-f984f217f52a",
+            "clue": "US tennis player Chris, rival of Navratilova",
+            "answer": "evert",
+            "normalized": "evert"
           },
           {
-            "id": "ee1167b8-61f3-41ec-99d8-26d7ce61e930",
-            "clue": "Jack's love on the Titanic",
-            "answer": "rose",
-            "normalized": "rose"
+            "id": "a620f602-8e1e-4e68-a1a4-d2df44cfe882",
+            "clue": "Start legal proceedings against someone",
+            "answer": "sue",
+            "normalized": "sue"
           },
           {
-            "id": "d6340378-6a50-49ce-80c1-2563ebfd222d",
-            "clue": "Couches",
-            "answer": "sofas",
-            "normalized": "sofas"
+            "id": "e280358c-c215-44bd-839f-ca803dd4af5e",
+            "clue": "A home for bees",
+            "answer": "hive",
+            "normalized": "hive"
           },
           {
-            "id": "d35d615a-e37e-4a34-9bf1-5234471d9497",
-            "clue": "Animated film genre from Japan",
-            "answer": "anime",
-            "normalized": "anime"
+            "id": "cd365d3e-f4ed-46ba-9fe3-a7762b3a54e5",
+            "clue": "Tel __, high-tech coastal city in Israel",
+            "answer": "aviv",
+            "normalized": "aviv"
           },
           {
-            "id": "b8f9a7d4-c7da-4806-ab4a-b8dcfb698936",
-            "clue": "Tool with a perpendicular cutting edge",
-            "answer": "adze",
-            "normalized": "adze"
+            "id": "3d45481d-30b7-4f77-b3d1-a9c938e2ad7d",
+            "clue": "Fermented grape juice drinks",
+            "answer": "wines",
+            "normalized": "wines"
           },
           {
-            "id": "dded420e-4d48-400b-9679-b3e9824f25b6",
-            "clue": "__ Alto, city once home to Tesla headquarters",
-            "answer": "palo",
-            "normalized": "palo"
+            "id": "9341fc67-0777-43b3-b561-51ab85ab0742",
+            "clue": "Natural linen shade",
+            "answer": "ecru",
+            "normalized": "ecru"
           },
           {
-            "id": "21d412d0-7193-4ef2-9300-f50fb0fa4479",
-            "clue": "Chemical formula for hydrobromic acid",
-            "answer": "hbr",
-            "normalized": "hbr"
+            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
+            "clue": "Shorthand for a collection of web pages",
+            "answer": "site",
+            "normalized": "site"
           }
         ],
-        "track": "PC|LenC--Y2026M5D19F0"
+        "track": "PC|LenC--Y2026M5D20F0"
       },
       "mid": {
-        "puzzleId": "b5ffc764-9126-47e5-aa34-e26710b469dc",
+        "puzzleId": "3e42e075-99c4-4c0f-ac74-b1c970cedd79",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 1,
         "answers": [
           {
-            "id": "4e17f561-7176-4d1d-a026-496e06d3228b",
-            "clue": "Arabic desert tribe, Banu __",
-            "answer": "kalb",
-            "normalized": "kalb"
+            "id": "bec30a86-0610-44eb-89e7-ebd8c1e5b155",
+            "clue": "Short for ecology or ecological",
+            "answer": "ecol",
+            "normalized": "ecol"
           },
           {
-            "id": "872ba640-3a19-4f21-bf7b-852f4e7ee4c1",
-            "clue": "Prefix to British ships that carry mail",
-            "answer": "rms",
-            "normalized": "rms"
+            "id": "4b1d38f5-512e-4cf6-abb9-94e767ea2f07",
+            "clue": "Narrow opening in clothing",
+            "answer": "slit",
+            "normalized": "slit"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
+            "id": "e7bc2964-6853-4bb9-8120-2922981696a2",
+            "clue": "Grohl, who was drummer for Nirvana",
+            "answer": "dave",
+            "normalized": "dave"
           },
           {
-            "id": "13ebaaf5-4319-4c3a-a2e2-3e0acd34d6c8",
-            "clue": "Small, cylindrical battery with a triple letter",
-            "answer": "aaa",
-            "normalized": "aaa"
+            "id": "ca98764c-ae1f-405d-859b-5bb4009640bd",
+            "clue": "Pulitzer Prize winner for Beloved, __ Morrison",
+            "answer": "toni",
+            "normalized": "toni"
           },
           {
-            "id": "368f8909-ec9a-43f8-b4c4-7f59de4901a2",
-            "clue": "I Feel __; 2017 hit for The Weeknd and Daft Punk",
-            "answer": "it coming",
-            "normalized": "itcoming"
+            "id": "391a494d-9641-471a-9624-6927285f69ca",
+            "clue": "Purple gemstones associated with Aquarius",
+            "answer": "amethysts",
+            "normalized": "amethysts"
           },
           {
-            "id": "3f68cd21-3efa-488b-9034-01e17ae20101",
-            "clue": "Planting seeds",
-            "answer": "sowing",
-            "normalized": "sowing"
+            "id": "039c2676-fed2-4f81-94ab-a97fe23673b8",
+            "clue": "Acronym for Mars exploration rover",
+            "answer": "mer",
+            "normalized": "mer"
           },
           {
-            "id": "56e96be3-a43a-4e6f-94ef-478cfa2eae0d",
-            "clue": "Given the wrong moniker",
-            "answer": "misnamed",
-            "normalized": "misnamed"
+            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
+            "clue": "Largest association for the technical professions",
+            "answer": "ieee",
+            "normalized": "ieee"
           },
           {
-            "id": "57f6942e-3820-41d0-9fac-3b4245224e10",
-            "clue": "The __, affectionate name for a major NYC museum",
-            "answer": "met",
-            "normalized": "met"
+            "id": "e49b2979-497c-4e74-bd1b-fc9e885d58a5",
+            "clue": "Canadian police force that performs musical rides",
+            "answer": "rcmp",
+            "normalized": "rcmp"
           },
           {
-            "id": "1f971016-3fe3-40cc-a89c-84e892635be5",
-            "clue": "Rooney __, actress in Her, Carol and Lion",
-            "answer": "mara",
-            "normalized": "mara"
+            "id": "fef6cb65-2098-4e24-8e56-16a077e8767d",
+            "clue": "To and __",
+            "answer": "fro",
+            "normalized": "fro"
           },
           {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
+            "id": "ac26dba6-fbc7-463c-9572-82a3ebe43137",
+            "clue": "Eight ball great white",
+            "answer": "pool shark",
+            "normalized": "poolshark"
           },
           {
-            "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
-            "clue": "Common abbreviation for institute",
-            "answer": "inst",
-            "normalized": "inst"
+            "id": "10733f53-ad3b-4845-a5d4-58c81a5484b4",
+            "clue": "Score a __, aim of many sports",
+            "answer": "goal",
+            "normalized": "goal"
           },
           {
-            "id": "77d8d6b8-3b66-4228-acc3-093f3793b8bb",
-            "clue": "Decorative fish",
-            "answer": "koi",
-            "normalized": "koi"
+            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
+            "clue": "Taiwanese laptop and PC company; type of tree",
+            "answer": "acer",
+            "normalized": "acer"
           },
           {
-            "id": "8b78f4b3-3067-4375-9cd4-5796f30d3827",
-            "clue": "More pretentiously artistic",
-            "answer": "artsier",
-            "normalized": "artsier"
+            "id": "a87190b3-72ee-4a5b-9d1b-50432da8c565",
+            "clue": "Money put in at the beginning of a card game",
+            "answer": "ante",
+            "normalized": "ante"
           },
           {
-            "id": "dba77786-8b23-489f-abfd-e1e7a264b876",
-            "clue": "Fashion brand associated with tennis, gator logo",
-            "answer": "lacoste",
-            "normalized": "lacoste"
+            "id": "7d082478-4b1a-4ba6-a8be-8ee8eec6f093",
+            "clue": "Jupiter's moon named after a Spartan queen",
+            "answer": "leda",
+            "normalized": "leda"
           },
           {
-            "id": "77e096a3-d0b2-47eb-9b9d-d67669942273",
-            "clue": "Like a handcrafted glass bowl",
-            "answer": "blown",
-            "normalized": "blown"
+            "id": "a7ebb879-66bc-4eeb-97ef-5a21b0326448",
+            "clue": "Dutch cheese with waxy red coating",
+            "answer": "edam",
+            "normalized": "edam"
           },
           {
-            "id": "f48fc9f0-e45a-427c-93cd-0cd1fdff4844",
-            "clue": "1988 Best Picture winner, with Cruise and Hoffman",
-            "answer": "rain man",
-            "normalized": "rainman"
+            "id": "427093c0-0ca9-4863-b959-8097ed7f3c49",
+            "clue": "Central African country; home of makossa music",
+            "answer": "cameroon",
+            "normalized": "cameroon"
           },
           {
-            "id": "76265439-9666-4897-95ac-22c363f04026",
-            "clue": "Animals eat from these",
-            "answer": "mangers",
-            "normalized": "mangers"
+            "id": "bccad078-4630-4c38-81d3-197322b99a3b",
+            "clue": "Long coat which extends below the knee",
+            "answer": "overcoat",
+            "normalized": "overcoat"
           },
           {
-            "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
-            "clue": "Droop, sink",
-            "answer": "sag",
-            "normalized": "sag"
+            "id": "e48a3c0f-c8e6-4fdb-a277-94ad1d8ebec2",
+            "clue": "Allow",
+            "answer": "let",
+            "normalized": "let"
           },
           {
-            "id": "16a6c3da-4472-4b00-94be-da8c9eba97cf",
-            "clue": "Florida city where South Beach is located",
-            "answer": "miami",
-            "normalized": "miami"
+            "id": "98930513-64eb-4b68-88b4-5350a8b0034f",
+            "clue": "Bacterial infection of an eyelid's oil gland",
+            "answer": "stye",
+            "normalized": "stye"
           },
           {
-            "id": "93aa1bf4-2b24-4c5d-9d67-cd0d691efc43",
-            "clue": "French abbreviation for addressing a woman",
-            "answer": "mme",
-            "normalized": "mme"
+            "id": "dabe60e8-748f-4629-8d6d-08820009deab",
+            "clue": "To be publicly humiliated",
+            "answer": "lose face",
+            "normalized": "loseface"
           },
           {
-            "id": "c2b5e16f-fd96-49f8-8574-77f0aa158148",
-            "clue": "Slang for that, as in \"Who that?\"",
-            "answer": "dat",
-            "normalized": "dat"
+            "id": "9530d462-c3d0-4545-8ed3-0cb3fdd73e91",
+            "clue": "Placed in a grave or tomb",
+            "answer": "interred",
+            "normalized": "interred"
+          },
+          {
+            "id": "06345b22-2c70-4346-be5d-dd757a7406fc",
+            "clue": "\"It is,\" in Shakespeare",
+            "answer": "tis",
+            "normalized": "tis"
+          },
+          {
+            "id": "8e039416-43b7-44fb-aa0e-9c3d2c4135a3",
+            "clue": "Shakira's \"Don't Lie\"",
+            "answer": "hips",
+            "normalized": "hips"
+          },
+          {
+            "id": "940048ac-e589-4498-ae42-21849168b9ce",
+            "clue": "French abbreviation for Miss",
+            "answer": "mlle",
+            "normalized": "mlle"
+          },
+          {
+            "id": "8738b421-8314-4ad8-b8bc-4f68cae388e0",
+            "clue": "Ladies-fingers vegetable",
+            "answer": "okra",
+            "normalized": "okra"
+          },
+          {
+            "id": "1cc2173d-d3d5-4385-bfe5-33e0dd4ae588",
+            "clue": "Golf initialism that might precede the word \"tour\"",
+            "answer": "pga",
+            "normalized": "pga"
+          },
+          {
+            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
+            "clue": "Jack Black movie Shallow __, or 2001 computer",
+            "answer": "hal",
+            "normalized": "hal"
           }
         ],
-        "track": "PC|LenC--Y2026M5D19F1"
+        "track": "PC|LenC--Y2026M5D20F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-19",
+      "key": "2026-05-20",
       "year": 2026,
       "month": 5,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "249e8861-fac1-4d9d-934a-3f91da095e55",
+        "puzzleId": "7470540e-17a8-4066-9bec-fe6cd964f860",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 5,
+        "version": 1,
         "answers": [
           {
-            "id": "0a5403d5-a133-42ec-901d-27dd9d170ffd",
-            "clue": "South African Airways for short",
-            "answer": "saa",
-            "normalized": "saa"
+            "id": "6bba1a7b-0b64-4705-bb36-2bf2cfa10348",
+            "clue": "Donkey sound, \"hee-__\"",
+            "answer": "haw",
+            "normalized": "haw"
           },
           {
-            "id": "7df0c55d-68f0-40f0-9db2-6b5e1561f7de",
-            "clue": "A small body of water that rhymes with fond",
-            "answer": "pond",
-            "normalized": "pond"
+            "id": "fe80dcb6-e560-467a-a0a2-677fafb3d790",
+            "clue": "Wall-climbing plants",
+            "answer": "ivies",
+            "normalized": "ivies"
           },
           {
-            "id": "495172a5-7a2a-4ef2-a502-7abc42c06367",
-            "clue": "Revered 14th-century Persian mystic and poet",
-            "answer": "hafiz",
-            "normalized": "hafiz"
+            "id": "4e3b0df5-acf7-40ab-8d58-66aefaf5d0f7",
+            "clue": "Leonardo da __, Italian Renaissance painter",
+            "answer": "vinci",
+            "normalized": "vinci"
           },
           {
-            "id": "f6a44eed-73fb-4a40-8d76-87289dad5601",
-            "clue": "To decide the wrongdoer and point fingers",
-            "answer": "blame",
-            "normalized": "blame"
+            "id": "08a8da1a-7730-47c1-a077-f984f217f52a",
+            "clue": "US tennis player Chris, rival of Navratilova",
+            "answer": "evert",
+            "normalized": "evert"
           },
           {
-            "id": "ee1167b8-61f3-41ec-99d8-26d7ce61e930",
-            "clue": "Jack's love on the Titanic",
-            "answer": "rose",
-            "normalized": "rose"
+            "id": "a620f602-8e1e-4e68-a1a4-d2df44cfe882",
+            "clue": "Start legal proceedings against someone",
+            "answer": "sue",
+            "normalized": "sue"
           },
           {
-            "id": "d6340378-6a50-49ce-80c1-2563ebfd222d",
-            "clue": "Couches",
-            "answer": "sofas",
-            "normalized": "sofas"
+            "id": "e280358c-c215-44bd-839f-ca803dd4af5e",
+            "clue": "A home for bees",
+            "answer": "hive",
+            "normalized": "hive"
           },
           {
-            "id": "d35d615a-e37e-4a34-9bf1-5234471d9497",
-            "clue": "Animated film genre from Japan",
-            "answer": "anime",
-            "normalized": "anime"
+            "id": "cd365d3e-f4ed-46ba-9fe3-a7762b3a54e5",
+            "clue": "Tel __, high-tech coastal city in Israel",
+            "answer": "aviv",
+            "normalized": "aviv"
           },
           {
-            "id": "b8f9a7d4-c7da-4806-ab4a-b8dcfb698936",
-            "clue": "Tool with a perpendicular cutting edge",
-            "answer": "adze",
-            "normalized": "adze"
+            "id": "3d45481d-30b7-4f77-b3d1-a9c938e2ad7d",
+            "clue": "Fermented grape juice drinks",
+            "answer": "wines",
+            "normalized": "wines"
           },
           {
-            "id": "dded420e-4d48-400b-9679-b3e9824f25b6",
-            "clue": "__ Alto, city once home to Tesla headquarters",
-            "answer": "palo",
-            "normalized": "palo"
+            "id": "9341fc67-0777-43b3-b561-51ab85ab0742",
+            "clue": "Natural linen shade",
+            "answer": "ecru",
+            "normalized": "ecru"
           },
           {
-            "id": "21d412d0-7193-4ef2-9300-f50fb0fa4479",
-            "clue": "Chemical formula for hydrobromic acid",
-            "answer": "hbr",
-            "normalized": "hbr"
+            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
+            "clue": "Shorthand for a collection of web pages",
+            "answer": "site",
+            "normalized": "site"
           }
         ],
-        "track": "PC|LenC--Y2026M5D19F0"
+        "track": "PC|LenC--Y2026M5D20F0"
       },
       "mid": {
-        "puzzleId": "b5ffc764-9126-47e5-aa34-e26710b469dc",
+        "puzzleId": "3e42e075-99c4-4c0f-ac74-b1c970cedd79",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 1,
         "answers": [
           {
-            "id": "4e17f561-7176-4d1d-a026-496e06d3228b",
-            "clue": "Arabic desert tribe, Banu __",
-            "answer": "kalb",
-            "normalized": "kalb"
+            "id": "bec30a86-0610-44eb-89e7-ebd8c1e5b155",
+            "clue": "Short for ecology or ecological",
+            "answer": "ecol",
+            "normalized": "ecol"
           },
           {
-            "id": "872ba640-3a19-4f21-bf7b-852f4e7ee4c1",
-            "clue": "Prefix to British ships that carry mail",
-            "answer": "rms",
-            "normalized": "rms"
+            "id": "4b1d38f5-512e-4cf6-abb9-94e767ea2f07",
+            "clue": "Narrow opening in clothing",
+            "answer": "slit",
+            "normalized": "slit"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
+            "id": "e7bc2964-6853-4bb9-8120-2922981696a2",
+            "clue": "Grohl, who was drummer for Nirvana",
+            "answer": "dave",
+            "normalized": "dave"
           },
           {
-            "id": "13ebaaf5-4319-4c3a-a2e2-3e0acd34d6c8",
-            "clue": "Small, cylindrical battery with a triple letter",
-            "answer": "aaa",
-            "normalized": "aaa"
+            "id": "ca98764c-ae1f-405d-859b-5bb4009640bd",
+            "clue": "Pulitzer Prize winner for Beloved, __ Morrison",
+            "answer": "toni",
+            "normalized": "toni"
           },
           {
-            "id": "368f8909-ec9a-43f8-b4c4-7f59de4901a2",
-            "clue": "I Feel __; 2017 hit for The Weeknd and Daft Punk",
-            "answer": "it coming",
-            "normalized": "itcoming"
+            "id": "391a494d-9641-471a-9624-6927285f69ca",
+            "clue": "Purple gemstones associated with Aquarius",
+            "answer": "amethysts",
+            "normalized": "amethysts"
           },
           {
-            "id": "3f68cd21-3efa-488b-9034-01e17ae20101",
-            "clue": "Planting seeds",
-            "answer": "sowing",
-            "normalized": "sowing"
+            "id": "039c2676-fed2-4f81-94ab-a97fe23673b8",
+            "clue": "Acronym for Mars exploration rover",
+            "answer": "mer",
+            "normalized": "mer"
           },
           {
-            "id": "56e96be3-a43a-4e6f-94ef-478cfa2eae0d",
-            "clue": "Given the wrong moniker",
-            "answer": "misnamed",
-            "normalized": "misnamed"
+            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
+            "clue": "Largest association for the technical professions",
+            "answer": "ieee",
+            "normalized": "ieee"
           },
           {
-            "id": "57f6942e-3820-41d0-9fac-3b4245224e10",
-            "clue": "The __, affectionate name for a major NYC museum",
-            "answer": "met",
-            "normalized": "met"
+            "id": "e49b2979-497c-4e74-bd1b-fc9e885d58a5",
+            "clue": "Canadian police force that performs musical rides",
+            "answer": "rcmp",
+            "normalized": "rcmp"
           },
           {
-            "id": "1f971016-3fe3-40cc-a89c-84e892635be5",
-            "clue": "Rooney __, actress in Her, Carol and Lion",
-            "answer": "mara",
-            "normalized": "mara"
+            "id": "fef6cb65-2098-4e24-8e56-16a077e8767d",
+            "clue": "To and __",
+            "answer": "fro",
+            "normalized": "fro"
           },
           {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
+            "id": "ac26dba6-fbc7-463c-9572-82a3ebe43137",
+            "clue": "Eight ball great white",
+            "answer": "pool shark",
+            "normalized": "poolshark"
           },
           {
-            "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
-            "clue": "Common abbreviation for institute",
-            "answer": "inst",
-            "normalized": "inst"
+            "id": "10733f53-ad3b-4845-a5d4-58c81a5484b4",
+            "clue": "Score a __, aim of many sports",
+            "answer": "goal",
+            "normalized": "goal"
           },
           {
-            "id": "77d8d6b8-3b66-4228-acc3-093f3793b8bb",
-            "clue": "Decorative fish",
-            "answer": "koi",
-            "normalized": "koi"
+            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
+            "clue": "Taiwanese laptop and PC company; type of tree",
+            "answer": "acer",
+            "normalized": "acer"
           },
           {
-            "id": "8b78f4b3-3067-4375-9cd4-5796f30d3827",
-            "clue": "More pretentiously artistic",
-            "answer": "artsier",
-            "normalized": "artsier"
+            "id": "a87190b3-72ee-4a5b-9d1b-50432da8c565",
+            "clue": "Money put in at the beginning of a card game",
+            "answer": "ante",
+            "normalized": "ante"
           },
           {
-            "id": "dba77786-8b23-489f-abfd-e1e7a264b876",
-            "clue": "Fashion brand associated with tennis, gator logo",
-            "answer": "lacoste",
-            "normalized": "lacoste"
+            "id": "7d082478-4b1a-4ba6-a8be-8ee8eec6f093",
+            "clue": "Jupiter's moon named after a Spartan queen",
+            "answer": "leda",
+            "normalized": "leda"
           },
           {
-            "id": "77e096a3-d0b2-47eb-9b9d-d67669942273",
-            "clue": "Like a handcrafted glass bowl",
-            "answer": "blown",
-            "normalized": "blown"
+            "id": "a7ebb879-66bc-4eeb-97ef-5a21b0326448",
+            "clue": "Dutch cheese with waxy red coating",
+            "answer": "edam",
+            "normalized": "edam"
           },
           {
-            "id": "f48fc9f0-e45a-427c-93cd-0cd1fdff4844",
-            "clue": "1988 Best Picture winner, with Cruise and Hoffman",
-            "answer": "rain man",
-            "normalized": "rainman"
+            "id": "427093c0-0ca9-4863-b959-8097ed7f3c49",
+            "clue": "Central African country; home of makossa music",
+            "answer": "cameroon",
+            "normalized": "cameroon"
           },
           {
-            "id": "76265439-9666-4897-95ac-22c363f04026",
-            "clue": "Animals eat from these",
-            "answer": "mangers",
-            "normalized": "mangers"
+            "id": "bccad078-4630-4c38-81d3-197322b99a3b",
+            "clue": "Long coat which extends below the knee",
+            "answer": "overcoat",
+            "normalized": "overcoat"
           },
           {
-            "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
-            "clue": "Droop, sink",
-            "answer": "sag",
-            "normalized": "sag"
+            "id": "e48a3c0f-c8e6-4fdb-a277-94ad1d8ebec2",
+            "clue": "Allow",
+            "answer": "let",
+            "normalized": "let"
           },
           {
-            "id": "16a6c3da-4472-4b00-94be-da8c9eba97cf",
-            "clue": "Florida city where South Beach is located",
-            "answer": "miami",
-            "normalized": "miami"
+            "id": "98930513-64eb-4b68-88b4-5350a8b0034f",
+            "clue": "Bacterial infection of an eyelid's oil gland",
+            "answer": "stye",
+            "normalized": "stye"
           },
           {
-            "id": "93aa1bf4-2b24-4c5d-9d67-cd0d691efc43",
-            "clue": "French abbreviation for addressing a woman",
-            "answer": "mme",
-            "normalized": "mme"
+            "id": "dabe60e8-748f-4629-8d6d-08820009deab",
+            "clue": "To be publicly humiliated",
+            "answer": "lose face",
+            "normalized": "loseface"
           },
           {
-            "id": "c2b5e16f-fd96-49f8-8574-77f0aa158148",
-            "clue": "Slang for that, as in \"Who that?\"",
-            "answer": "dat",
-            "normalized": "dat"
+            "id": "9530d462-c3d0-4545-8ed3-0cb3fdd73e91",
+            "clue": "Placed in a grave or tomb",
+            "answer": "interred",
+            "normalized": "interred"
+          },
+          {
+            "id": "06345b22-2c70-4346-be5d-dd757a7406fc",
+            "clue": "\"It is,\" in Shakespeare",
+            "answer": "tis",
+            "normalized": "tis"
+          },
+          {
+            "id": "8e039416-43b7-44fb-aa0e-9c3d2c4135a3",
+            "clue": "Shakira's \"Don't Lie\"",
+            "answer": "hips",
+            "normalized": "hips"
+          },
+          {
+            "id": "940048ac-e589-4498-ae42-21849168b9ce",
+            "clue": "French abbreviation for Miss",
+            "answer": "mlle",
+            "normalized": "mlle"
+          },
+          {
+            "id": "8738b421-8314-4ad8-b8bc-4f68cae388e0",
+            "clue": "Ladies-fingers vegetable",
+            "answer": "okra",
+            "normalized": "okra"
+          },
+          {
+            "id": "1cc2173d-d3d5-4385-bfe5-33e0dd4ae588",
+            "clue": "Golf initialism that might precede the word \"tour\"",
+            "answer": "pga",
+            "normalized": "pga"
+          },
+          {
+            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
+            "clue": "Jack Black movie Shallow __, or 2001 computer",
+            "answer": "hal",
+            "normalized": "hal"
           }
         ],
-        "track": "PC|LenC--Y2026M5D19F1"
+        "track": "PC|LenC--Y2026M5D20F1"
       }
     },
     "latestAvailableEntry": {
@@ -415763,21 +415835,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "FVtIbz0hLExb7fWBKv5PhVT3rvfCLVhOuQUZ0ARK0wQufjvJ9FplN3cYJW6I2WHiXTyXujXVLrjO9ahAMOOIAiOkl0cpqSelQh5l66AuQDbeZYnBVXPFxFukvfpCkJj/XGs8Q3YtifnxETj7C1t4k9OCeEntUAMqyNulNt0C32Kiyg6pAj/kpa//5/bSjAJhknUhqkqNmEKcZ6+c5E1JDgCpDDNdyeyuETyx7xTjxbJrTR2nUuFYyVmyVuFHf73sUKHkYymICsCi/vtY0i3dm8KE3a1hx0EkY3x/rFH+GNc="
+        "i/FgzQPvqEUj60Snu9yyNxmiIcfXHPAYqB+wsR0DJJ175aZr7pdqHlcpm3eNF0oNkMiadvv7PD8Oogr9pV5fAfj/Y2rfk5vfg7+mPCZHazrspI/wZbvKsy+1dVCdKmUAijK1EecKhHvuwJij9BEKgRrOAyKgKM+MAx1vLp5htrJkY8Up+fyyREsF3iUr1sMjhNkrTCu4jdvV/orccrLsDl7TyclBH6rr2QYIews/+1Bcryg+m/JB1YDPUNYVFhAQopLp9FO8MTk+D4ugOBPIZX5RCk6pf5XAc/Qv5aPr8QI="
       ]
     },
     "decrypted": {
-      "Id": "f711f1bf-e91a-4891-8bab-fbb5ab107e8a",
-      "Date": "2026-05-19T00:00:00Z",
+      "Id": "85a44526-17b0-4f9b-8e84-663ec7158009",
+      "Date": "2026-05-20T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "fight",
-      "NormalizedPassword": "fight",
+      "Password": "press",
+      "NormalizedPassword": "press",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-19T01:40:02.2100000+05:30",
-    "hash": "226d2ee2d81899d47c449f19fad3a485",
+    "dtu": "2026-05-20T01:40:25.8910000+05:30",
+    "hash": "5fd7267c2ac8c09268249d65fd8dea29",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
