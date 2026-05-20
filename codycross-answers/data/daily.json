@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-19T20:10:25.891Z",
+  "generatedAt": "2026-05-20T20:32:54.342Z",
   "today": {
     "year": 2026,
     "month": 5,
-    "day": 20
+    "day": 21
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 36
+        "QuantidadeDeFases": 38
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -5635,7 +5635,7 @@
             },
             {
               "id": "875b0da6-cfa6-4061-ada4-5738f226becf",
-              "clue": "A bullock or castrated male ox",
+              "clue": "Scots term for a castrated male ox",
               "answer": "stot",
               "normalized": "stot"
             },
@@ -14637,7 +14637,7 @@
             },
             {
               "id": "346c7273-40ca-4b2c-9c82-3480327607a5",
-              "clue": "A pledge or token given as security",
+              "clue": "Archaic word for pledge or token given as security",
               "answer": "gage",
               "normalized": "gage"
             },
@@ -132178,7 +132178,7 @@
             },
             {
               "id": "b24f621a-6e1f-449a-a0b8-53c66a27645a",
-              "clue": "Hell, but for a limited time",
+              "clue": "Heaven's cleansing annex",
               "answer": "purgatory",
               "normalized": "purgatory"
             },
@@ -247272,7 +247272,7 @@
             },
             {
               "id": "3d7144bd-4e1b-404f-8270-e2613b9a3baa",
-              "clue": "Land or area in or predominantly in grass",
+              "clue": "Land or area predominantly in grass",
               "answer": "prairie",
               "normalized": "prairie"
             },
@@ -375673,7 +375673,7 @@
             },
             {
               "id": "3d7144bd-4e1b-404f-8270-e2613b9a3baa",
-              "clue": "Land or area in or predominantly in grass",
+              "clue": "Land or area predominantly in grass",
               "answer": "prairie",
               "normalized": "prairie"
             },
@@ -405756,7 +405756,7 @@
             },
             {
               "id": "875b0da6-cfa6-4061-ada4-5738f226becf",
-              "clue": "A bullock or castrated male ox",
+              "clue": "Scots term for a castrated male ox",
               "answer": "stot",
               "normalized": "stot"
             },
@@ -415095,499 +415095,415 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-20",
+      "key": "2026-05-21",
       "year": 2026,
       "month": 5,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "7470540e-17a8-4066-9bec-fe6cd964f860",
+        "puzzleId": "a3ae10c2-fe8b-44eb-85ba-11da52b0115c",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "6bba1a7b-0b64-4705-bb36-2bf2cfa10348",
-            "clue": "Donkey sound, \"hee-__\"",
-            "answer": "haw",
-            "normalized": "haw"
+            "id": "70913864-a5d3-446a-9216-1daec0f78270",
+            "clue": "Steals; sounds like lutes",
+            "answer": "loots",
+            "normalized": "loots"
           },
           {
-            "id": "fe80dcb6-e560-467a-a0a2-677fafb3d790",
-            "clue": "Wall-climbing plants",
-            "answer": "ivies",
-            "normalized": "ivies"
+            "id": "9d5fa511-f3b6-4a78-a14e-4d64ecfb8bb1",
+            "clue": "Lots of fish swimming in a group",
+            "answer": "school",
+            "normalized": "school"
           },
           {
-            "id": "4e3b0df5-acf7-40ab-8d58-66aefaf5d0f7",
-            "clue": "Leonardo da __, Italian Renaissance painter",
-            "answer": "vinci",
-            "normalized": "vinci"
+            "id": "51c63bdf-a58d-498e-a56b-23ae68dcbccc",
+            "clue": "Creel who played Tori in Saved by the Bell",
+            "answer": "leanna",
+            "normalized": "leanna"
           },
           {
-            "id": "08a8da1a-7730-47c1-a077-f984f217f52a",
-            "clue": "US tennis player Chris, rival of Navratilova",
-            "answer": "evert",
-            "normalized": "evert"
+            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
+            "clue": "Negatively charged ion",
+            "answer": "anion",
+            "normalized": "anion"
           },
           {
-            "id": "a620f602-8e1e-4e68-a1a4-d2df44cfe882",
-            "clue": "Start legal proceedings against someone",
-            "answer": "sue",
-            "normalized": "sue"
+            "id": "107ae6c9-d7d0-404a-a2ca-067f727cda99",
+            "clue": "Mother-of-pearl",
+            "answer": "nacre",
+            "normalized": "nacre"
           },
           {
-            "id": "e280358c-c215-44bd-839f-ca803dd4af5e",
-            "clue": "A home for bees",
-            "answer": "hive",
-            "normalized": "hive"
+            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
+            "clue": "British Army special forces air unit, initialism",
+            "answer": "sas",
+            "normalized": "sas"
           },
           {
-            "id": "cd365d3e-f4ed-46ba-9fe3-a7762b3a54e5",
-            "clue": "Tel __, high-tech coastal city in Israel",
-            "answer": "aviv",
-            "normalized": "aviv"
+            "id": "093bc1b5-d217-42ca-8a9f-9fad104a97a0",
+            "clue": "Three-letter code for the Lesotho loti",
+            "answer": "lsl",
+            "normalized": "lsl"
           },
           {
-            "id": "3d45481d-30b7-4f77-b3d1-a9c938e2ad7d",
-            "clue": "Fermented grape juice drinks",
-            "answer": "wines",
-            "normalized": "wines"
+            "id": "c3e42416-0690-4514-b729-bd1cfa9105e2",
+            "clue": "Type of body of water covering most of the planet",
+            "answer": "ocean",
+            "normalized": "ocean"
           },
           {
-            "id": "9341fc67-0777-43b3-b561-51ab85ab0742",
-            "clue": "Natural linen shade",
-            "answer": "ecru",
-            "normalized": "ecru"
+            "id": "5cf31028-dacb-4ec4-b894-43cd8a16b163",
+            "clue": "Hawaiian word for family",
+            "answer": "ohana",
+            "normalized": "ohana"
           },
           {
-            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
-            "clue": "Shorthand for a collection of web pages",
-            "answer": "site",
-            "normalized": "site"
+            "id": "0364b0ec-eb03-4635-b695-079baefa2079",
+            "clue": "Pick-me-ups; drinks with restorative powers",
+            "answer": "tonics",
+            "normalized": "tonics"
+          },
+          {
+            "id": "1dfd36aa-d62a-4c88-8277-c2a0a9b0b547",
+            "clue": "Mexican desert state;  Hermosillo is its capital",
+            "answer": "sonora",
+            "normalized": "sonora"
+          },
+          {
+            "id": "6f7693b3-f1ea-4aac-a960-380e870c5689",
+            "clue": "Country roads",
+            "answer": "lanes",
+            "normalized": "lanes"
           }
         ],
-        "track": "PC|LenC--Y2026M5D20F0"
+        "track": "PC|LenC--Y2026M5D21F0"
       },
       "mid": {
-        "puzzleId": "3e42e075-99c4-4c0f-ac74-b1c970cedd79",
+        "puzzleId": "7b026e52-e124-446d-87e5-0393f39e903c",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "bec30a86-0610-44eb-89e7-ebd8c1e5b155",
-            "clue": "Short for ecology or ecological",
-            "answer": "ecol",
-            "normalized": "ecol"
+            "id": "3dbe63b2-a226-4bef-b2f0-61bee102dac8",
+            "clue": "South Korean boy band who had a hit with Dynamite",
+            "answer": "bts",
+            "normalized": "bts"
           },
           {
-            "id": "4b1d38f5-512e-4cf6-abb9-94e767ea2f07",
-            "clue": "Narrow opening in clothing",
-            "answer": "slit",
-            "normalized": "slit"
+            "id": "75fb409d-8b90-4fa7-b110-84b8b8edd5d8",
+            "clue": "__ Said; 1974 ABBA song about overbearing mothers",
+            "answer": "my mama",
+            "normalized": "mymama"
           },
           {
-            "id": "e7bc2964-6853-4bb9-8120-2922981696a2",
-            "clue": "Grohl, who was drummer for Nirvana",
-            "answer": "dave",
-            "normalized": "dave"
+            "id": "98e5d768-2420-4e9d-8a96-fd3b21113e5d",
+            "clue": "Type of tea that means red bush",
+            "answer": "rooibos",
+            "normalized": "rooibos"
           },
           {
-            "id": "ca98764c-ae1f-405d-859b-5bb4009640bd",
-            "clue": "Pulitzer Prize winner for Beloved, __ Morrison",
-            "answer": "toni",
-            "normalized": "toni"
+            "id": "e8616bb4-9c45-4fd0-82a4-d4bceaa7c82c",
+            "clue": "Type, sort",
+            "answer": "ilk",
+            "normalized": "ilk"
           },
           {
-            "id": "391a494d-9641-471a-9624-6927285f69ca",
-            "clue": "Purple gemstones associated with Aquarius",
-            "answer": "amethysts",
-            "normalized": "amethysts"
+            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
+            "clue": "Possessive determiner, no apostrophe",
+            "answer": "its",
+            "normalized": "its"
           },
           {
-            "id": "039c2676-fed2-4f81-94ab-a97fe23673b8",
-            "clue": "Acronym for Mars exploration rover",
-            "answer": "mer",
-            "normalized": "mer"
+            "id": "63925bed-9016-4e5f-944f-d9adacc5aadc",
+            "clue": "Executive chief of a company",
+            "answer": "ceo",
+            "normalized": "ceo"
           },
           {
-            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
-            "clue": "Largest association for the technical professions",
-            "answer": "ieee",
-            "normalized": "ieee"
+            "id": "2dc3fa07-b697-4665-8cd4-a1ff2ccd7c13",
+            "clue": "Common word that goes before nouns",
+            "answer": "the",
+            "normalized": "the"
           },
           {
-            "id": "e49b2979-497c-4e74-bd1b-fc9e885d58a5",
-            "clue": "Canadian police force that performs musical rides",
-            "answer": "rcmp",
-            "normalized": "rcmp"
+            "id": "6143a353-1fc9-4014-aeba-88045d6c416b",
+            "clue": "To make or create a fabric with a hooked needle",
+            "answer": "crochet",
+            "normalized": "crochet"
           },
           {
-            "id": "fef6cb65-2098-4e24-8e56-16a077e8767d",
-            "clue": "To and __",
-            "answer": "fro",
-            "normalized": "fro"
+            "id": "65297afa-f248-403d-9089-4b69ac083b5d",
+            "clue": "Aircraft storage building",
+            "answer": "hangar",
+            "normalized": "hangar"
           },
           {
-            "id": "ac26dba6-fbc7-463c-9572-82a3ebe43137",
-            "clue": "Eight ball great white",
-            "answer": "pool shark",
-            "normalized": "poolshark"
+            "id": "7dd234be-327a-4e70-b222-0fc076eb00f4",
+            "clue": "French informal object form of “you”",
+            "answer": "toi",
+            "normalized": "toi"
           },
           {
-            "id": "10733f53-ad3b-4845-a5d4-58c81a5484b4",
-            "clue": "Score a __, aim of many sports",
-            "answer": "goal",
-            "normalized": "goal"
+            "id": "c430eddc-8a01-4e78-a46f-d27d49379c45",
+            "clue": "Body mass index",
+            "answer": "bmi",
+            "normalized": "bmi"
           },
           {
-            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
-            "clue": "Taiwanese laptop and PC company; type of tree",
-            "answer": "acer",
-            "normalized": "acer"
+            "id": "f630a6d3-3099-4866-83c6-97169873e5af",
+            "clue": "Daughter of Samantha in Bewitched",
+            "answer": "tabitha",
+            "normalized": "tabitha"
           },
           {
-            "id": "a87190b3-72ee-4a5b-9d1b-50432da8c565",
-            "clue": "Money put in at the beginning of a card game",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "c4eb05a8-17db-4a03-9050-929184fef7bb",
+            "clue": "To extinguish a fire by covering it",
+            "answer": "smother",
+            "normalized": "smother"
           },
           {
-            "id": "7d082478-4b1a-4ba6-a8be-8ee8eec6f093",
-            "clue": "Jupiter's moon named after a Spartan queen",
-            "answer": "leda",
-            "normalized": "leda"
+            "id": "1987eda2-5a48-44c6-b032-40e78261b450",
+            "clue": "Tailless digging rodent, can be naked and blind",
+            "answer": "mole rat",
+            "normalized": "molerat"
           },
           {
-            "id": "a7ebb879-66bc-4eeb-97ef-5a21b0326448",
-            "clue": "Dutch cheese with waxy red coating",
-            "answer": "edam",
-            "normalized": "edam"
+            "id": "733e3882-fcd8-4ef4-a1ad-5006509a5def",
+            "clue": "She married John Lennon in 1969",
+            "answer": "yoko ono",
+            "normalized": "yokoono"
           },
           {
-            "id": "427093c0-0ca9-4863-b959-8097ed7f3c49",
-            "clue": "Central African country; home of makossa music",
-            "answer": "cameroon",
-            "normalized": "cameroon"
+            "id": "1ce0aa80-419d-4b24-92dc-ef47117e46b5",
+            "clue": "Anything owned by a business",
+            "answer": "asset",
+            "normalized": "asset"
           },
           {
-            "id": "bccad078-4630-4c38-81d3-197322b99a3b",
-            "clue": "Long coat which extends below the knee",
-            "answer": "overcoat",
-            "normalized": "overcoat"
+            "id": "9f50987f-adc3-4e38-ae9f-a7a0b0a5b61c",
+            "clue": "Die Young and Rockstar rapper Roddy __",
+            "answer": "ricch",
+            "normalized": "ricch"
           },
           {
-            "id": "e48a3c0f-c8e6-4fdb-a277-94ad1d8ebec2",
-            "clue": "Allow",
-            "answer": "let",
-            "normalized": "let"
-          },
-          {
-            "id": "98930513-64eb-4b68-88b4-5350a8b0034f",
-            "clue": "Bacterial infection of an eyelid's oil gland",
-            "answer": "stye",
-            "normalized": "stye"
-          },
-          {
-            "id": "dabe60e8-748f-4629-8d6d-08820009deab",
-            "clue": "To be publicly humiliated",
-            "answer": "lose face",
-            "normalized": "loseface"
-          },
-          {
-            "id": "9530d462-c3d0-4545-8ed3-0cb3fdd73e91",
-            "clue": "Placed in a grave or tomb",
-            "answer": "interred",
-            "normalized": "interred"
-          },
-          {
-            "id": "06345b22-2c70-4346-be5d-dd757a7406fc",
-            "clue": "\"It is,\" in Shakespeare",
-            "answer": "tis",
-            "normalized": "tis"
-          },
-          {
-            "id": "8e039416-43b7-44fb-aa0e-9c3d2c4135a3",
-            "clue": "Shakira's \"Don't Lie\"",
-            "answer": "hips",
-            "normalized": "hips"
-          },
-          {
-            "id": "940048ac-e589-4498-ae42-21849168b9ce",
-            "clue": "French abbreviation for Miss",
-            "answer": "mlle",
-            "normalized": "mlle"
-          },
-          {
-            "id": "8738b421-8314-4ad8-b8bc-4f68cae388e0",
-            "clue": "Ladies-fingers vegetable",
-            "answer": "okra",
-            "normalized": "okra"
-          },
-          {
-            "id": "1cc2173d-d3d5-4385-bfe5-33e0dd4ae588",
-            "clue": "Golf initialism that might precede the word \"tour\"",
-            "answer": "pga",
-            "normalized": "pga"
-          },
-          {
-            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
-            "clue": "Jack Black movie Shallow __, or 2001 computer",
-            "answer": "hal",
-            "normalized": "hal"
+            "id": "9e39bbcc-b07a-490f-beb1-43206a45e06a",
+            "clue": "One sort of visual effect in a blockbuster movie",
+            "answer": "cgi",
+            "normalized": "cgi"
           }
         ],
-        "track": "PC|LenC--Y2026M5D20F1"
+        "track": "PC|LenC--Y2026M5D21F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-20",
+      "key": "2026-05-21",
       "year": 2026,
       "month": 5,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "7470540e-17a8-4066-9bec-fe6cd964f860",
+        "puzzleId": "a3ae10c2-fe8b-44eb-85ba-11da52b0115c",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "6bba1a7b-0b64-4705-bb36-2bf2cfa10348",
-            "clue": "Donkey sound, \"hee-__\"",
-            "answer": "haw",
-            "normalized": "haw"
+            "id": "70913864-a5d3-446a-9216-1daec0f78270",
+            "clue": "Steals; sounds like lutes",
+            "answer": "loots",
+            "normalized": "loots"
           },
           {
-            "id": "fe80dcb6-e560-467a-a0a2-677fafb3d790",
-            "clue": "Wall-climbing plants",
-            "answer": "ivies",
-            "normalized": "ivies"
+            "id": "9d5fa511-f3b6-4a78-a14e-4d64ecfb8bb1",
+            "clue": "Lots of fish swimming in a group",
+            "answer": "school",
+            "normalized": "school"
           },
           {
-            "id": "4e3b0df5-acf7-40ab-8d58-66aefaf5d0f7",
-            "clue": "Leonardo da __, Italian Renaissance painter",
-            "answer": "vinci",
-            "normalized": "vinci"
+            "id": "51c63bdf-a58d-498e-a56b-23ae68dcbccc",
+            "clue": "Creel who played Tori in Saved by the Bell",
+            "answer": "leanna",
+            "normalized": "leanna"
           },
           {
-            "id": "08a8da1a-7730-47c1-a077-f984f217f52a",
-            "clue": "US tennis player Chris, rival of Navratilova",
-            "answer": "evert",
-            "normalized": "evert"
+            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
+            "clue": "Negatively charged ion",
+            "answer": "anion",
+            "normalized": "anion"
           },
           {
-            "id": "a620f602-8e1e-4e68-a1a4-d2df44cfe882",
-            "clue": "Start legal proceedings against someone",
-            "answer": "sue",
-            "normalized": "sue"
+            "id": "107ae6c9-d7d0-404a-a2ca-067f727cda99",
+            "clue": "Mother-of-pearl",
+            "answer": "nacre",
+            "normalized": "nacre"
           },
           {
-            "id": "e280358c-c215-44bd-839f-ca803dd4af5e",
-            "clue": "A home for bees",
-            "answer": "hive",
-            "normalized": "hive"
+            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
+            "clue": "British Army special forces air unit, initialism",
+            "answer": "sas",
+            "normalized": "sas"
           },
           {
-            "id": "cd365d3e-f4ed-46ba-9fe3-a7762b3a54e5",
-            "clue": "Tel __, high-tech coastal city in Israel",
-            "answer": "aviv",
-            "normalized": "aviv"
+            "id": "093bc1b5-d217-42ca-8a9f-9fad104a97a0",
+            "clue": "Three-letter code for the Lesotho loti",
+            "answer": "lsl",
+            "normalized": "lsl"
           },
           {
-            "id": "3d45481d-30b7-4f77-b3d1-a9c938e2ad7d",
-            "clue": "Fermented grape juice drinks",
-            "answer": "wines",
-            "normalized": "wines"
+            "id": "c3e42416-0690-4514-b729-bd1cfa9105e2",
+            "clue": "Type of body of water covering most of the planet",
+            "answer": "ocean",
+            "normalized": "ocean"
           },
           {
-            "id": "9341fc67-0777-43b3-b561-51ab85ab0742",
-            "clue": "Natural linen shade",
-            "answer": "ecru",
-            "normalized": "ecru"
+            "id": "5cf31028-dacb-4ec4-b894-43cd8a16b163",
+            "clue": "Hawaiian word for family",
+            "answer": "ohana",
+            "normalized": "ohana"
           },
           {
-            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
-            "clue": "Shorthand for a collection of web pages",
-            "answer": "site",
-            "normalized": "site"
+            "id": "0364b0ec-eb03-4635-b695-079baefa2079",
+            "clue": "Pick-me-ups; drinks with restorative powers",
+            "answer": "tonics",
+            "normalized": "tonics"
+          },
+          {
+            "id": "1dfd36aa-d62a-4c88-8277-c2a0a9b0b547",
+            "clue": "Mexican desert state;  Hermosillo is its capital",
+            "answer": "sonora",
+            "normalized": "sonora"
+          },
+          {
+            "id": "6f7693b3-f1ea-4aac-a960-380e870c5689",
+            "clue": "Country roads",
+            "answer": "lanes",
+            "normalized": "lanes"
           }
         ],
-        "track": "PC|LenC--Y2026M5D20F0"
+        "track": "PC|LenC--Y2026M5D21F0"
       },
       "mid": {
-        "puzzleId": "3e42e075-99c4-4c0f-ac74-b1c970cedd79",
+        "puzzleId": "7b026e52-e124-446d-87e5-0393f39e903c",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "bec30a86-0610-44eb-89e7-ebd8c1e5b155",
-            "clue": "Short for ecology or ecological",
-            "answer": "ecol",
-            "normalized": "ecol"
+            "id": "3dbe63b2-a226-4bef-b2f0-61bee102dac8",
+            "clue": "South Korean boy band who had a hit with Dynamite",
+            "answer": "bts",
+            "normalized": "bts"
           },
           {
-            "id": "4b1d38f5-512e-4cf6-abb9-94e767ea2f07",
-            "clue": "Narrow opening in clothing",
-            "answer": "slit",
-            "normalized": "slit"
+            "id": "75fb409d-8b90-4fa7-b110-84b8b8edd5d8",
+            "clue": "__ Said; 1974 ABBA song about overbearing mothers",
+            "answer": "my mama",
+            "normalized": "mymama"
           },
           {
-            "id": "e7bc2964-6853-4bb9-8120-2922981696a2",
-            "clue": "Grohl, who was drummer for Nirvana",
-            "answer": "dave",
-            "normalized": "dave"
+            "id": "98e5d768-2420-4e9d-8a96-fd3b21113e5d",
+            "clue": "Type of tea that means red bush",
+            "answer": "rooibos",
+            "normalized": "rooibos"
           },
           {
-            "id": "ca98764c-ae1f-405d-859b-5bb4009640bd",
-            "clue": "Pulitzer Prize winner for Beloved, __ Morrison",
-            "answer": "toni",
-            "normalized": "toni"
+            "id": "e8616bb4-9c45-4fd0-82a4-d4bceaa7c82c",
+            "clue": "Type, sort",
+            "answer": "ilk",
+            "normalized": "ilk"
           },
           {
-            "id": "391a494d-9641-471a-9624-6927285f69ca",
-            "clue": "Purple gemstones associated with Aquarius",
-            "answer": "amethysts",
-            "normalized": "amethysts"
+            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
+            "clue": "Possessive determiner, no apostrophe",
+            "answer": "its",
+            "normalized": "its"
           },
           {
-            "id": "039c2676-fed2-4f81-94ab-a97fe23673b8",
-            "clue": "Acronym for Mars exploration rover",
-            "answer": "mer",
-            "normalized": "mer"
+            "id": "63925bed-9016-4e5f-944f-d9adacc5aadc",
+            "clue": "Executive chief of a company",
+            "answer": "ceo",
+            "normalized": "ceo"
           },
           {
-            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
-            "clue": "Largest association for the technical professions",
-            "answer": "ieee",
-            "normalized": "ieee"
+            "id": "2dc3fa07-b697-4665-8cd4-a1ff2ccd7c13",
+            "clue": "Common word that goes before nouns",
+            "answer": "the",
+            "normalized": "the"
           },
           {
-            "id": "e49b2979-497c-4e74-bd1b-fc9e885d58a5",
-            "clue": "Canadian police force that performs musical rides",
-            "answer": "rcmp",
-            "normalized": "rcmp"
+            "id": "6143a353-1fc9-4014-aeba-88045d6c416b",
+            "clue": "To make or create a fabric with a hooked needle",
+            "answer": "crochet",
+            "normalized": "crochet"
           },
           {
-            "id": "fef6cb65-2098-4e24-8e56-16a077e8767d",
-            "clue": "To and __",
-            "answer": "fro",
-            "normalized": "fro"
+            "id": "65297afa-f248-403d-9089-4b69ac083b5d",
+            "clue": "Aircraft storage building",
+            "answer": "hangar",
+            "normalized": "hangar"
           },
           {
-            "id": "ac26dba6-fbc7-463c-9572-82a3ebe43137",
-            "clue": "Eight ball great white",
-            "answer": "pool shark",
-            "normalized": "poolshark"
+            "id": "7dd234be-327a-4e70-b222-0fc076eb00f4",
+            "clue": "French informal object form of “you”",
+            "answer": "toi",
+            "normalized": "toi"
           },
           {
-            "id": "10733f53-ad3b-4845-a5d4-58c81a5484b4",
-            "clue": "Score a __, aim of many sports",
-            "answer": "goal",
-            "normalized": "goal"
+            "id": "c430eddc-8a01-4e78-a46f-d27d49379c45",
+            "clue": "Body mass index",
+            "answer": "bmi",
+            "normalized": "bmi"
           },
           {
-            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
-            "clue": "Taiwanese laptop and PC company; type of tree",
-            "answer": "acer",
-            "normalized": "acer"
+            "id": "f630a6d3-3099-4866-83c6-97169873e5af",
+            "clue": "Daughter of Samantha in Bewitched",
+            "answer": "tabitha",
+            "normalized": "tabitha"
           },
           {
-            "id": "a87190b3-72ee-4a5b-9d1b-50432da8c565",
-            "clue": "Money put in at the beginning of a card game",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "c4eb05a8-17db-4a03-9050-929184fef7bb",
+            "clue": "To extinguish a fire by covering it",
+            "answer": "smother",
+            "normalized": "smother"
           },
           {
-            "id": "7d082478-4b1a-4ba6-a8be-8ee8eec6f093",
-            "clue": "Jupiter's moon named after a Spartan queen",
-            "answer": "leda",
-            "normalized": "leda"
+            "id": "1987eda2-5a48-44c6-b032-40e78261b450",
+            "clue": "Tailless digging rodent, can be naked and blind",
+            "answer": "mole rat",
+            "normalized": "molerat"
           },
           {
-            "id": "a7ebb879-66bc-4eeb-97ef-5a21b0326448",
-            "clue": "Dutch cheese with waxy red coating",
-            "answer": "edam",
-            "normalized": "edam"
+            "id": "733e3882-fcd8-4ef4-a1ad-5006509a5def",
+            "clue": "She married John Lennon in 1969",
+            "answer": "yoko ono",
+            "normalized": "yokoono"
           },
           {
-            "id": "427093c0-0ca9-4863-b959-8097ed7f3c49",
-            "clue": "Central African country; home of makossa music",
-            "answer": "cameroon",
-            "normalized": "cameroon"
+            "id": "1ce0aa80-419d-4b24-92dc-ef47117e46b5",
+            "clue": "Anything owned by a business",
+            "answer": "asset",
+            "normalized": "asset"
           },
           {
-            "id": "bccad078-4630-4c38-81d3-197322b99a3b",
-            "clue": "Long coat which extends below the knee",
-            "answer": "overcoat",
-            "normalized": "overcoat"
+            "id": "9f50987f-adc3-4e38-ae9f-a7a0b0a5b61c",
+            "clue": "Die Young and Rockstar rapper Roddy __",
+            "answer": "ricch",
+            "normalized": "ricch"
           },
           {
-            "id": "e48a3c0f-c8e6-4fdb-a277-94ad1d8ebec2",
-            "clue": "Allow",
-            "answer": "let",
-            "normalized": "let"
-          },
-          {
-            "id": "98930513-64eb-4b68-88b4-5350a8b0034f",
-            "clue": "Bacterial infection of an eyelid's oil gland",
-            "answer": "stye",
-            "normalized": "stye"
-          },
-          {
-            "id": "dabe60e8-748f-4629-8d6d-08820009deab",
-            "clue": "To be publicly humiliated",
-            "answer": "lose face",
-            "normalized": "loseface"
-          },
-          {
-            "id": "9530d462-c3d0-4545-8ed3-0cb3fdd73e91",
-            "clue": "Placed in a grave or tomb",
-            "answer": "interred",
-            "normalized": "interred"
-          },
-          {
-            "id": "06345b22-2c70-4346-be5d-dd757a7406fc",
-            "clue": "\"It is,\" in Shakespeare",
-            "answer": "tis",
-            "normalized": "tis"
-          },
-          {
-            "id": "8e039416-43b7-44fb-aa0e-9c3d2c4135a3",
-            "clue": "Shakira's \"Don't Lie\"",
-            "answer": "hips",
-            "normalized": "hips"
-          },
-          {
-            "id": "940048ac-e589-4498-ae42-21849168b9ce",
-            "clue": "French abbreviation for Miss",
-            "answer": "mlle",
-            "normalized": "mlle"
-          },
-          {
-            "id": "8738b421-8314-4ad8-b8bc-4f68cae388e0",
-            "clue": "Ladies-fingers vegetable",
-            "answer": "okra",
-            "normalized": "okra"
-          },
-          {
-            "id": "1cc2173d-d3d5-4385-bfe5-33e0dd4ae588",
-            "clue": "Golf initialism that might precede the word \"tour\"",
-            "answer": "pga",
-            "normalized": "pga"
-          },
-          {
-            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
-            "clue": "Jack Black movie Shallow __, or 2001 computer",
-            "answer": "hal",
-            "normalized": "hal"
+            "id": "9e39bbcc-b07a-490f-beb1-43206a45e06a",
+            "clue": "One sort of visual effect in a blockbuster movie",
+            "answer": "cgi",
+            "normalized": "cgi"
           }
         ],
-        "track": "PC|LenC--Y2026M5D20F1"
+        "track": "PC|LenC--Y2026M5D21F1"
       }
     },
     "latestAvailableEntry": {
@@ -415835,21 +415751,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "i/FgzQPvqEUj60Snu9yyNxmiIcfXHPAYqB+wsR0DJJ175aZr7pdqHlcpm3eNF0oNkMiadvv7PD8Oogr9pV5fAfj/Y2rfk5vfg7+mPCZHazrspI/wZbvKsy+1dVCdKmUAijK1EecKhHvuwJij9BEKgRrOAyKgKM+MAx1vLp5htrJkY8Up+fyyREsF3iUr1sMjhNkrTCu4jdvV/orccrLsDl7TyclBH6rr2QYIews/+1Bcryg+m/JB1YDPUNYVFhAQopLp9FO8MTk+D4ugOBPIZX5RCk6pf5XAc/Qv5aPr8QI="
+        "X7O0dVT08RBwuAeJWujJhQe0opPBoI3H4nLn7NfIaOqq72p8L1QOmlzlog+fpJQRUwFA9QAliV/u/NN74/aoZfGUGamAjOSpsyUjGvwcIohkTN0aOdLfNk3StF9p/pbXI1Wmwkyid44yhFICDbJmJn3+qskH7EMCQK4NScuaz+QG0xpawPqq8wX5Uw3gEW8ZdI9yiVKvyRcxOlQGY9uVSN0QcW92vA0Itk52B8PI9u6pBK0tRXK+zI73voQsTV0wPPZmUxUiHRhLNNpFFhaT/h4BImE43gV1XgfEErdCIsg="
       ]
     },
     "decrypted": {
-      "Id": "85a44526-17b0-4f9b-8e84-663ec7158009",
-      "Date": "2026-05-20T00:00:00Z",
+      "Id": "31cb8cd3-d24f-45ef-abbd-4b769f3cd478",
+      "Date": "2026-05-21T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "press",
-      "NormalizedPassword": "press",
+      "Password": "leafy",
+      "NormalizedPassword": "leafy",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-20T01:40:25.8910000+05:30",
-    "hash": "5fd7267c2ac8c09268249d65fd8dea29",
+    "dtu": "2026-05-21T02:02:54.3420000+05:30",
+    "hash": "cb991684269688b881ed1ba65d50336c",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
