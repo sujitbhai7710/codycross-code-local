@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-20T20:32:54.342Z",
+  "generatedAt": "2026-05-21T20:17:18.816Z",
   "today": {
     "year": 2026,
     "month": 5,
-    "day": 21
+    "day": 22
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 38
+        "QuantidadeDeFases": 40
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -8701,7 +8701,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -49193,7 +49193,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -49347,7 +49347,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -96785,7 +96785,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -99143,7 +99143,7 @@
             },
             {
               "id": "dc116603-e21f-42b3-8aa5-e65b68968e24",
-              "clue": "Cooks with hot water vapor",
+              "clue": "Cooks with hot water vapour",
               "answer": "steams",
               "normalized": "steams"
             },
@@ -131354,7 +131354,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -145656,7 +145656,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -152918,7 +152918,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -192514,7 +192514,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -200712,7 +200712,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -211063,7 +211063,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -245574,7 +245574,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -248456,7 +248456,7 @@
             },
             {
               "id": "9e55e339-98c8-4800-afb5-75099758ada0",
-              "clue": "Grows or cultivates an animal or plant",
+              "clue": "Raises animals or children",
               "answer": "rears",
               "normalized": "rears"
             },
@@ -250710,7 +250710,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -254496,7 +254496,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -280074,7 +280074,7 @@
             },
             {
               "id": "9e55e339-98c8-4800-afb5-75099758ada0",
-              "clue": "Grows or cultivates an animal or plant",
+              "clue": "Raises animals or children",
               "answer": "rears",
               "normalized": "rears"
             },
@@ -300975,7 +300975,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -308734,7 +308734,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -311825,7 +311825,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -314536,7 +314536,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -338214,7 +338214,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -351189,7 +351189,7 @@
             },
             {
               "id": "3d7144bd-4e1b-404f-8270-e2613b9a3baa",
-              "clue": "Land or area in or predominantly in grass",
+              "clue": "Land or area predominantly in grass",
               "answer": "prairie",
               "normalized": "prairie"
             },
@@ -355759,7 +355759,7 @@
             },
             {
               "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director including Scream",
+              "clue": "Craven, horror movie director of Scream",
               "answer": "wes",
               "normalized": "wes"
             },
@@ -415095,415 +415095,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-21",
+      "key": "2026-05-22",
       "year": 2026,
       "month": 5,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "a3ae10c2-fe8b-44eb-85ba-11da52b0115c",
+        "puzzleId": "814340cb-f871-43da-b106-9d9c2623f096",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "70913864-a5d3-446a-9216-1daec0f78270",
-            "clue": "Steals; sounds like lutes",
-            "answer": "loots",
-            "normalized": "loots"
-          },
-          {
-            "id": "9d5fa511-f3b6-4a78-a14e-4d64ecfb8bb1",
-            "clue": "Lots of fish swimming in a group",
-            "answer": "school",
-            "normalized": "school"
-          },
-          {
-            "id": "51c63bdf-a58d-498e-a56b-23ae68dcbccc",
-            "clue": "Creel who played Tori in Saved by the Bell",
-            "answer": "leanna",
-            "normalized": "leanna"
-          },
-          {
-            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
-            "clue": "Negatively charged ion",
-            "answer": "anion",
-            "normalized": "anion"
-          },
-          {
-            "id": "107ae6c9-d7d0-404a-a2ca-067f727cda99",
-            "clue": "Mother-of-pearl",
-            "answer": "nacre",
-            "normalized": "nacre"
-          },
-          {
-            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
-            "clue": "British Army special forces air unit, initialism",
-            "answer": "sas",
-            "normalized": "sas"
-          },
-          {
-            "id": "093bc1b5-d217-42ca-8a9f-9fad104a97a0",
-            "clue": "Three-letter code for the Lesotho loti",
-            "answer": "lsl",
-            "normalized": "lsl"
-          },
-          {
-            "id": "c3e42416-0690-4514-b729-bd1cfa9105e2",
-            "clue": "Type of body of water covering most of the planet",
-            "answer": "ocean",
-            "normalized": "ocean"
-          },
-          {
-            "id": "5cf31028-dacb-4ec4-b894-43cd8a16b163",
-            "clue": "Hawaiian word for family",
-            "answer": "ohana",
-            "normalized": "ohana"
-          },
-          {
-            "id": "0364b0ec-eb03-4635-b695-079baefa2079",
-            "clue": "Pick-me-ups; drinks with restorative powers",
-            "answer": "tonics",
-            "normalized": "tonics"
-          },
-          {
-            "id": "1dfd36aa-d62a-4c88-8277-c2a0a9b0b547",
-            "clue": "Mexican desert state;  Hermosillo is its capital",
-            "answer": "sonora",
-            "normalized": "sonora"
-          },
-          {
-            "id": "6f7693b3-f1ea-4aac-a960-380e870c5689",
-            "clue": "Country roads",
-            "answer": "lanes",
-            "normalized": "lanes"
-          }
-        ],
-        "track": "PC|LenC--Y2026M5D21F0"
-      },
-      "mid": {
-        "puzzleId": "7b026e52-e124-446d-87e5-0393f39e903c",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "3dbe63b2-a226-4bef-b2f0-61bee102dac8",
-            "clue": "South Korean boy band who had a hit with Dynamite",
-            "answer": "bts",
-            "normalized": "bts"
+            "id": "39e49112-2d48-43d6-8bff-2b507a89c4f6",
+            "clue": "Internet speak for go to bed",
+            "answer": "gtb",
+            "normalized": "gtb"
           },
           {
-            "id": "75fb409d-8b90-4fa7-b110-84b8b8edd5d8",
-            "clue": "__ Said; 1974 ABBA song about overbearing mothers",
-            "answer": "my mama",
-            "normalized": "mymama"
+            "id": "0ae06c63-d822-4a91-9aea-505cf4cf4ecc",
+            "clue": "Joan __, French historical heroine",
+            "answer": "of arc",
+            "normalized": "ofarc"
           },
           {
-            "id": "98e5d768-2420-4e9d-8a96-fd3b21113e5d",
-            "clue": "Type of tea that means red bush",
-            "answer": "rooibos",
-            "normalized": "rooibos"
+            "id": "c5d6002e-f5a5-432d-a831-e88ec172497c",
+            "clue": "Hungary's national animal",
+            "answer": "turul",
+            "normalized": "turul"
           },
           {
-            "id": "e8616bb4-9c45-4fd0-82a4-d4bceaa7c82c",
-            "clue": "Type, sort",
-            "answer": "ilk",
-            "normalized": "ilk"
+            "id": "005d3903-b490-40ef-830b-7cf8c32390d1",
+            "clue": "Natural temporary tattoo used on Indian brides",
+            "answer": "henna",
+            "normalized": "henna"
           },
           {
-            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
-            "clue": "Possessive determiner, no apostrophe",
-            "answer": "its",
-            "normalized": "its"
+            "id": "c82f5ad3-a1bc-4f6b-bda3-f4780e723a21",
+            "clue": "Abbreviation for month that was once seventh",
+            "answer": "sep",
+            "normalized": "sep"
           },
           {
-            "id": "63925bed-9016-4e5f-944f-d9adacc5aadc",
-            "clue": "Executive chief of a company",
-            "answer": "ceo",
-            "normalized": "ceo"
+            "id": "162a20af-0cb1-4b1c-802b-d9cea8516137",
+            "clue": "Person who wears mainly black",
+            "answer": "goth",
+            "normalized": "goth"
           },
           {
-            "id": "2dc3fa07-b697-4665-8cd4-a1ff2ccd7c13",
-            "clue": "Common word that goes before nouns",
-            "answer": "the",
-            "normalized": "the"
+            "id": "7fd1d77c-a440-4ccb-bc0e-0cc98266ea32",
+            "clue": "Streamer and default Fortnite pro in Faze clan",
+            "answer": "tfue",
+            "normalized": "tfue"
           },
           {
-            "id": "6143a353-1fc9-4014-aeba-88045d6c416b",
-            "clue": "To make or create a fabric with a hooked needle",
-            "answer": "crochet",
-            "normalized": "crochet"
+            "id": "c6f99bc8-f7ab-4203-89fd-a8b0f1c48108",
+            "clue": "Farm outbuildings",
+            "answer": "barns",
+            "normalized": "barns"
           },
           {
-            "id": "65297afa-f248-403d-9089-4b69ac083b5d",
-            "clue": "Aircraft storage building",
-            "answer": "hangar",
-            "normalized": "hangar"
+            "id": "441880f3-1680-40e5-8a85-55663864af91",
+            "clue": "Letter from an ancient Germanic language",
+            "answer": "rune",
+            "normalized": "rune"
           },
           {
-            "id": "7dd234be-327a-4e70-b222-0fc076eb00f4",
-            "clue": "French informal object form of “you”",
-            "answer": "toi",
-            "normalized": "toi"
-          },
-          {
-            "id": "c430eddc-8a01-4e78-a46f-d27d49379c45",
-            "clue": "Body mass index",
-            "answer": "bmi",
-            "normalized": "bmi"
-          },
-          {
-            "id": "f630a6d3-3099-4866-83c6-97169873e5af",
-            "clue": "Daughter of Samantha in Bewitched",
-            "answer": "tabitha",
-            "normalized": "tabitha"
-          },
-          {
-            "id": "c4eb05a8-17db-4a03-9050-929184fef7bb",
-            "clue": "To extinguish a fire by covering it",
-            "answer": "smother",
-            "normalized": "smother"
-          },
-          {
-            "id": "1987eda2-5a48-44c6-b032-40e78261b450",
-            "clue": "Tailless digging rodent, can be naked and blind",
-            "answer": "mole rat",
-            "normalized": "molerat"
-          },
-          {
-            "id": "733e3882-fcd8-4ef4-a1ad-5006509a5def",
-            "clue": "She married John Lennon in 1969",
-            "answer": "yoko ono",
-            "normalized": "yokoono"
-          },
-          {
-            "id": "1ce0aa80-419d-4b24-92dc-ef47117e46b5",
-            "clue": "Anything owned by a business",
-            "answer": "asset",
-            "normalized": "asset"
-          },
-          {
-            "id": "9f50987f-adc3-4e38-ae9f-a7a0b0a5b61c",
-            "clue": "Die Young and Rockstar rapper Roddy __",
-            "answer": "ricch",
-            "normalized": "ricch"
-          },
-          {
-            "id": "9e39bbcc-b07a-490f-beb1-43206a45e06a",
-            "clue": "One sort of visual effect in a blockbuster movie",
-            "answer": "cgi",
-            "normalized": "cgi"
+            "id": "2ad50184-f35e-4314-a7d9-ee51c200f9f8",
+            "clue": "Applaud",
+            "answer": "clap",
+            "normalized": "clap"
           }
         ],
-        "track": "PC|LenC--Y2026M5D21F1"
+        "track": "PC|LenC--Y2026M5D22F0"
+      },
+      "mid": {
+        "puzzleId": "43ad5008-1887-46ea-a215-00e5e630c8c6",
+        "fase": 2,
+        "size": 2,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "8e1229d2-e7df-45cc-b892-da595e8670e5",
+            "clue": "Abbreviation for outdoor grilling events, perhaps",
+            "answer": "bbqs",
+            "normalized": "bbqs"
+          },
+          {
+            "id": "9f8066ce-8475-4895-9f3f-e1f902e7eb57",
+            "clue": "Large broad bone that is the upper area of pelvis",
+            "answer": "ilium",
+            "normalized": "ilium"
+          },
+          {
+            "id": "d80fb270-55bd-456d-9555-f185b2cc55c5",
+            "clue": "Old-fashioned word for a meal",
+            "answer": "repast",
+            "normalized": "repast"
+          },
+          {
+            "id": "8285f93c-f5e3-4565-8c96-8d78c6706bb3",
+            "clue": "Status band who are In the Army Now",
+            "answer": "quo",
+            "normalized": "quo"
+          },
+          {
+            "id": "067afdbc-f507-4fe5-a3fd-5d09a470dd6f",
+            "clue": "Beam of sunlight",
+            "answer": "ray",
+            "normalized": "ray"
+          },
+          {
+            "id": "d8224ccc-3588-467e-8a55-e63c3785dde2",
+            "clue": "Heavenly, God-like intervention",
+            "answer": "divine",
+            "normalized": "divine"
+          },
+          {
+            "id": "3d707478-e9fd-4e4d-a447-907f18484440",
+            "clue": "Takes a lid off a jar, for instance",
+            "answer": "opens",
+            "normalized": "opens"
+          },
+          {
+            "id": "0f31c4dd-aea5-4d82-8087-43922b35f8ef",
+            "clue": "The golden rule, \"Do __ others...\"",
+            "answer": "unto",
+            "normalized": "unto"
+          },
+          {
+            "id": "070697db-b277-439c-9188-cfa252ea25af",
+            "clue": "French for blue",
+            "answer": "bleu",
+            "normalized": "bleu"
+          },
+          {
+            "id": "2c6ff221-7bc7-489c-a594-ebfdde5099ad",
+            "clue": "Two-legged creature or stand",
+            "answer": "bipod",
+            "normalized": "bipod"
+          },
+          {
+            "id": "eed96a44-9815-4928-a0b8-1687afe14502",
+            "clue": "Sine __ non, indispensable",
+            "answer": "qua",
+            "normalized": "qua"
+          },
+          {
+            "id": "46961678-b952-4327-9aa7-821d6facf80f",
+            "clue": "Abbreviation that signifies \"text message\"",
+            "answer": "sms",
+            "normalized": "sms"
+          },
+          {
+            "id": "69d15d27-f386-4187-98d2-bc8fa781771f",
+            "clue": "Iraq's alpha-3 code",
+            "answer": "irq",
+            "normalized": "irq"
+          },
+          {
+            "id": "a430aa6f-ed45-4292-b84f-49a7fa9453dc",
+            "clue": "Winner of best screenplay for Anatomy of a Fall",
+            "answer": "triet",
+            "normalized": "triet"
+          },
+          {
+            "id": "4a83b574-0623-401c-9025-fb4857c5a662",
+            "clue": "__ Domini, what AD stands for in dates",
+            "answer": "anno",
+            "normalized": "anno"
+          },
+          {
+            "id": "ce55b993-5aac-4de7-9512-12707426555c",
+            "clue": "The opposite of no",
+            "answer": "yes",
+            "normalized": "yes"
+          },
+          {
+            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
+            "clue": "Note scribbled to someone after borrowing money",
+            "answer": "iou",
+            "normalized": "iou"
+          },
+          {
+            "id": "8387ec0d-1a97-4f43-9c3e-ace565d4a92b",
+            "clue": "The initialism for virtual private network",
+            "answer": "vpn",
+            "normalized": "vpn"
+          }
+        ],
+        "track": "PC|LenC--Y2026M5D22F2"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-21",
+      "key": "2026-05-22",
       "year": 2026,
       "month": 5,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "a3ae10c2-fe8b-44eb-85ba-11da52b0115c",
+        "puzzleId": "814340cb-f871-43da-b106-9d9c2623f096",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "70913864-a5d3-446a-9216-1daec0f78270",
-            "clue": "Steals; sounds like lutes",
-            "answer": "loots",
-            "normalized": "loots"
-          },
-          {
-            "id": "9d5fa511-f3b6-4a78-a14e-4d64ecfb8bb1",
-            "clue": "Lots of fish swimming in a group",
-            "answer": "school",
-            "normalized": "school"
-          },
-          {
-            "id": "51c63bdf-a58d-498e-a56b-23ae68dcbccc",
-            "clue": "Creel who played Tori in Saved by the Bell",
-            "answer": "leanna",
-            "normalized": "leanna"
-          },
-          {
-            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
-            "clue": "Negatively charged ion",
-            "answer": "anion",
-            "normalized": "anion"
-          },
-          {
-            "id": "107ae6c9-d7d0-404a-a2ca-067f727cda99",
-            "clue": "Mother-of-pearl",
-            "answer": "nacre",
-            "normalized": "nacre"
-          },
-          {
-            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
-            "clue": "British Army special forces air unit, initialism",
-            "answer": "sas",
-            "normalized": "sas"
-          },
-          {
-            "id": "093bc1b5-d217-42ca-8a9f-9fad104a97a0",
-            "clue": "Three-letter code for the Lesotho loti",
-            "answer": "lsl",
-            "normalized": "lsl"
-          },
-          {
-            "id": "c3e42416-0690-4514-b729-bd1cfa9105e2",
-            "clue": "Type of body of water covering most of the planet",
-            "answer": "ocean",
-            "normalized": "ocean"
-          },
-          {
-            "id": "5cf31028-dacb-4ec4-b894-43cd8a16b163",
-            "clue": "Hawaiian word for family",
-            "answer": "ohana",
-            "normalized": "ohana"
-          },
-          {
-            "id": "0364b0ec-eb03-4635-b695-079baefa2079",
-            "clue": "Pick-me-ups; drinks with restorative powers",
-            "answer": "tonics",
-            "normalized": "tonics"
-          },
-          {
-            "id": "1dfd36aa-d62a-4c88-8277-c2a0a9b0b547",
-            "clue": "Mexican desert state;  Hermosillo is its capital",
-            "answer": "sonora",
-            "normalized": "sonora"
-          },
-          {
-            "id": "6f7693b3-f1ea-4aac-a960-380e870c5689",
-            "clue": "Country roads",
-            "answer": "lanes",
-            "normalized": "lanes"
-          }
-        ],
-        "track": "PC|LenC--Y2026M5D21F0"
-      },
-      "mid": {
-        "puzzleId": "7b026e52-e124-446d-87e5-0393f39e903c",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "3dbe63b2-a226-4bef-b2f0-61bee102dac8",
-            "clue": "South Korean boy band who had a hit with Dynamite",
-            "answer": "bts",
-            "normalized": "bts"
+            "id": "39e49112-2d48-43d6-8bff-2b507a89c4f6",
+            "clue": "Internet speak for go to bed",
+            "answer": "gtb",
+            "normalized": "gtb"
           },
           {
-            "id": "75fb409d-8b90-4fa7-b110-84b8b8edd5d8",
-            "clue": "__ Said; 1974 ABBA song about overbearing mothers",
-            "answer": "my mama",
-            "normalized": "mymama"
+            "id": "0ae06c63-d822-4a91-9aea-505cf4cf4ecc",
+            "clue": "Joan __, French historical heroine",
+            "answer": "of arc",
+            "normalized": "ofarc"
           },
           {
-            "id": "98e5d768-2420-4e9d-8a96-fd3b21113e5d",
-            "clue": "Type of tea that means red bush",
-            "answer": "rooibos",
-            "normalized": "rooibos"
+            "id": "c5d6002e-f5a5-432d-a831-e88ec172497c",
+            "clue": "Hungary's national animal",
+            "answer": "turul",
+            "normalized": "turul"
           },
           {
-            "id": "e8616bb4-9c45-4fd0-82a4-d4bceaa7c82c",
-            "clue": "Type, sort",
-            "answer": "ilk",
-            "normalized": "ilk"
+            "id": "005d3903-b490-40ef-830b-7cf8c32390d1",
+            "clue": "Natural temporary tattoo used on Indian brides",
+            "answer": "henna",
+            "normalized": "henna"
           },
           {
-            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
-            "clue": "Possessive determiner, no apostrophe",
-            "answer": "its",
-            "normalized": "its"
+            "id": "c82f5ad3-a1bc-4f6b-bda3-f4780e723a21",
+            "clue": "Abbreviation for month that was once seventh",
+            "answer": "sep",
+            "normalized": "sep"
           },
           {
-            "id": "63925bed-9016-4e5f-944f-d9adacc5aadc",
-            "clue": "Executive chief of a company",
-            "answer": "ceo",
-            "normalized": "ceo"
+            "id": "162a20af-0cb1-4b1c-802b-d9cea8516137",
+            "clue": "Person who wears mainly black",
+            "answer": "goth",
+            "normalized": "goth"
           },
           {
-            "id": "2dc3fa07-b697-4665-8cd4-a1ff2ccd7c13",
-            "clue": "Common word that goes before nouns",
-            "answer": "the",
-            "normalized": "the"
+            "id": "7fd1d77c-a440-4ccb-bc0e-0cc98266ea32",
+            "clue": "Streamer and default Fortnite pro in Faze clan",
+            "answer": "tfue",
+            "normalized": "tfue"
           },
           {
-            "id": "6143a353-1fc9-4014-aeba-88045d6c416b",
-            "clue": "To make or create a fabric with a hooked needle",
-            "answer": "crochet",
-            "normalized": "crochet"
+            "id": "c6f99bc8-f7ab-4203-89fd-a8b0f1c48108",
+            "clue": "Farm outbuildings",
+            "answer": "barns",
+            "normalized": "barns"
           },
           {
-            "id": "65297afa-f248-403d-9089-4b69ac083b5d",
-            "clue": "Aircraft storage building",
-            "answer": "hangar",
-            "normalized": "hangar"
+            "id": "441880f3-1680-40e5-8a85-55663864af91",
+            "clue": "Letter from an ancient Germanic language",
+            "answer": "rune",
+            "normalized": "rune"
           },
           {
-            "id": "7dd234be-327a-4e70-b222-0fc076eb00f4",
-            "clue": "French informal object form of “you”",
-            "answer": "toi",
-            "normalized": "toi"
-          },
-          {
-            "id": "c430eddc-8a01-4e78-a46f-d27d49379c45",
-            "clue": "Body mass index",
-            "answer": "bmi",
-            "normalized": "bmi"
-          },
-          {
-            "id": "f630a6d3-3099-4866-83c6-97169873e5af",
-            "clue": "Daughter of Samantha in Bewitched",
-            "answer": "tabitha",
-            "normalized": "tabitha"
-          },
-          {
-            "id": "c4eb05a8-17db-4a03-9050-929184fef7bb",
-            "clue": "To extinguish a fire by covering it",
-            "answer": "smother",
-            "normalized": "smother"
-          },
-          {
-            "id": "1987eda2-5a48-44c6-b032-40e78261b450",
-            "clue": "Tailless digging rodent, can be naked and blind",
-            "answer": "mole rat",
-            "normalized": "molerat"
-          },
-          {
-            "id": "733e3882-fcd8-4ef4-a1ad-5006509a5def",
-            "clue": "She married John Lennon in 1969",
-            "answer": "yoko ono",
-            "normalized": "yokoono"
-          },
-          {
-            "id": "1ce0aa80-419d-4b24-92dc-ef47117e46b5",
-            "clue": "Anything owned by a business",
-            "answer": "asset",
-            "normalized": "asset"
-          },
-          {
-            "id": "9f50987f-adc3-4e38-ae9f-a7a0b0a5b61c",
-            "clue": "Die Young and Rockstar rapper Roddy __",
-            "answer": "ricch",
-            "normalized": "ricch"
-          },
-          {
-            "id": "9e39bbcc-b07a-490f-beb1-43206a45e06a",
-            "clue": "One sort of visual effect in a blockbuster movie",
-            "answer": "cgi",
-            "normalized": "cgi"
+            "id": "2ad50184-f35e-4314-a7d9-ee51c200f9f8",
+            "clue": "Applaud",
+            "answer": "clap",
+            "normalized": "clap"
           }
         ],
-        "track": "PC|LenC--Y2026M5D21F1"
+        "track": "PC|LenC--Y2026M5D22F0"
+      },
+      "mid": {
+        "puzzleId": "43ad5008-1887-46ea-a215-00e5e630c8c6",
+        "fase": 2,
+        "size": 2,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "8e1229d2-e7df-45cc-b892-da595e8670e5",
+            "clue": "Abbreviation for outdoor grilling events, perhaps",
+            "answer": "bbqs",
+            "normalized": "bbqs"
+          },
+          {
+            "id": "9f8066ce-8475-4895-9f3f-e1f902e7eb57",
+            "clue": "Large broad bone that is the upper area of pelvis",
+            "answer": "ilium",
+            "normalized": "ilium"
+          },
+          {
+            "id": "d80fb270-55bd-456d-9555-f185b2cc55c5",
+            "clue": "Old-fashioned word for a meal",
+            "answer": "repast",
+            "normalized": "repast"
+          },
+          {
+            "id": "8285f93c-f5e3-4565-8c96-8d78c6706bb3",
+            "clue": "Status band who are In the Army Now",
+            "answer": "quo",
+            "normalized": "quo"
+          },
+          {
+            "id": "067afdbc-f507-4fe5-a3fd-5d09a470dd6f",
+            "clue": "Beam of sunlight",
+            "answer": "ray",
+            "normalized": "ray"
+          },
+          {
+            "id": "d8224ccc-3588-467e-8a55-e63c3785dde2",
+            "clue": "Heavenly, God-like intervention",
+            "answer": "divine",
+            "normalized": "divine"
+          },
+          {
+            "id": "3d707478-e9fd-4e4d-a447-907f18484440",
+            "clue": "Takes a lid off a jar, for instance",
+            "answer": "opens",
+            "normalized": "opens"
+          },
+          {
+            "id": "0f31c4dd-aea5-4d82-8087-43922b35f8ef",
+            "clue": "The golden rule, \"Do __ others...\"",
+            "answer": "unto",
+            "normalized": "unto"
+          },
+          {
+            "id": "070697db-b277-439c-9188-cfa252ea25af",
+            "clue": "French for blue",
+            "answer": "bleu",
+            "normalized": "bleu"
+          },
+          {
+            "id": "2c6ff221-7bc7-489c-a594-ebfdde5099ad",
+            "clue": "Two-legged creature or stand",
+            "answer": "bipod",
+            "normalized": "bipod"
+          },
+          {
+            "id": "eed96a44-9815-4928-a0b8-1687afe14502",
+            "clue": "Sine __ non, indispensable",
+            "answer": "qua",
+            "normalized": "qua"
+          },
+          {
+            "id": "46961678-b952-4327-9aa7-821d6facf80f",
+            "clue": "Abbreviation that signifies \"text message\"",
+            "answer": "sms",
+            "normalized": "sms"
+          },
+          {
+            "id": "69d15d27-f386-4187-98d2-bc8fa781771f",
+            "clue": "Iraq's alpha-3 code",
+            "answer": "irq",
+            "normalized": "irq"
+          },
+          {
+            "id": "a430aa6f-ed45-4292-b84f-49a7fa9453dc",
+            "clue": "Winner of best screenplay for Anatomy of a Fall",
+            "answer": "triet",
+            "normalized": "triet"
+          },
+          {
+            "id": "4a83b574-0623-401c-9025-fb4857c5a662",
+            "clue": "__ Domini, what AD stands for in dates",
+            "answer": "anno",
+            "normalized": "anno"
+          },
+          {
+            "id": "ce55b993-5aac-4de7-9512-12707426555c",
+            "clue": "The opposite of no",
+            "answer": "yes",
+            "normalized": "yes"
+          },
+          {
+            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
+            "clue": "Note scribbled to someone after borrowing money",
+            "answer": "iou",
+            "normalized": "iou"
+          },
+          {
+            "id": "8387ec0d-1a97-4f43-9c3e-ace565d4a92b",
+            "clue": "The initialism for virtual private network",
+            "answer": "vpn",
+            "normalized": "vpn"
+          }
+        ],
+        "track": "PC|LenC--Y2026M5D22F2"
       }
     },
     "latestAvailableEntry": {
@@ -415751,21 +415727,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "X7O0dVT08RBwuAeJWujJhQe0opPBoI3H4nLn7NfIaOqq72p8L1QOmlzlog+fpJQRUwFA9QAliV/u/NN74/aoZfGUGamAjOSpsyUjGvwcIohkTN0aOdLfNk3StF9p/pbXI1Wmwkyid44yhFICDbJmJn3+qskH7EMCQK4NScuaz+QG0xpawPqq8wX5Uw3gEW8ZdI9yiVKvyRcxOlQGY9uVSN0QcW92vA0Itk52B8PI9u6pBK0tRXK+zI73voQsTV0wPPZmUxUiHRhLNNpFFhaT/h4BImE43gV1XgfEErdCIsg="
+        "GF43LqLWgLdXhE2ResdUfGtnN7MWBGkRPL1wLWcDv29WBBVBVGnVEOsjRYgnvQX2YVxoDs5WWhs1ZOQ30IuilZ9N2yUCRwWxEMIKfmVjhus9hjduG2iPh2xu1i5g8ygbovXQRN2YDg6Uk95qbme9uGjkUhiOky09Dx7EorhSIscDLipVrvKD7viSKxIJz0TMLhW0hGD/v9oU8MzyVzk5zGfUCWSSvMo1zHNsQprAf0DYrZiW/RNC/jFehqmoxVKiAFz3SSqczxQ35L7fkJrMhEDw/jDeDYalCF1VcXYwksc="
       ]
     },
     "decrypted": {
-      "Id": "31cb8cd3-d24f-45ef-abbd-4b769f3cd478",
-      "Date": "2026-05-21T00:00:00Z",
+      "Id": "d9fa1d5d-5624-45f2-8694-5aaab23987e2",
+      "Date": "2026-05-22T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "leafy",
-      "NormalizedPassword": "leafy",
+      "Password": "trait",
+      "NormalizedPassword": "trait",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-21T02:02:54.3420000+05:30",
-    "hash": "cb991684269688b881ed1ba65d50336c",
+    "dtu": "2026-05-22T01:47:18.8160000+05:30",
+    "hash": "862c3b2acbc6805cd4aa9a9e1c784cb9",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
