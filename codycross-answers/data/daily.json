@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-22T20:16:53.369Z",
+  "generatedAt": "2026-05-23T19:42:06.377Z",
   "today": {
     "year": 2026,
     "month": 5,
-    "day": 23
+    "day": 24
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 42
+        "QuantidadeDeFases": 44
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -415095,475 +415095,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-23",
+      "key": "2026-05-24",
       "year": 2026,
       "month": 5,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "b3a28110-a9cf-4848-9381-1e672b137ebd",
+        "puzzleId": "d6c9e0c1-3f9e-4969-9a33-e70e1446287c",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 6,
+        "version": 3,
         "answers": [
           {
-            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
-            "clue": "Abbreviation for small spoon measure in baking",
-            "answer": "tsp",
-            "normalized": "tsp"
+            "id": "001b2d41-2f67-4504-a8e0-9c3a65f59cc5",
+            "clue": "Hepatocyte growth factor, acronym",
+            "answer": "hgf",
+            "normalized": "hgf"
           },
           {
-            "id": "78ce5ea0-0698-4cb0-bd10-7fe4da39c71c",
-            "clue": "Second word in opening line of most fairy tales",
-            "answer": "upon",
-            "normalized": "upon"
+            "id": "66b589e6-84b1-48a4-b153-c70ba6de6bec",
+            "clue": "Cartman, Bana, or Clapton",
+            "answer": "eric",
+            "normalized": "eric"
           },
           {
-            "id": "a70a8ece-aca0-4e17-ad77-a6845e4a6d76",
-            "clue": "Cow stomach eaten as food",
-            "answer": "tripe",
-            "normalized": "tripe"
+            "id": "c98801c7-66ad-4226-9cda-49f5d5fe2266",
+            "clue": "A jewelled band worn on the head",
+            "answer": "tiara",
+            "normalized": "tiara"
           },
           {
-            "id": "c8c5b44a-ac33-4346-81e6-6d19c09b48d3",
-            "clue": "What finally broke the camel's back",
-            "answer": "straw",
-            "normalized": "straw"
+            "id": "c69e416d-7de6-4988-a0ff-a245365b1434",
+            "clue": "Stakes upped by players before receiving cards",
+            "answer": "antes",
+            "normalized": "antes"
           },
           {
-            "id": "08ef42db-efb6-4dfa-a22f-8049aa9f0266",
-            "clue": "A fire alarm will do this if there is smoke",
-            "answer": "alert",
-            "normalized": "alert"
+            "id": "63a547ce-ac03-4c9d-871b-6ff7224f3fdf",
+            "clue": "Classmates or colleagues; educational equals",
+            "answer": "peers",
+            "normalized": "peers"
           },
           {
-            "id": "b417b8b8-d322-443d-8e55-d95e2056bcbe",
-            "clue": "Three letters for Eastern Daylight Time",
-            "answer": "edt",
-            "normalized": "edt"
+            "id": "e71adb6f-e685-42ee-b9b2-977c72c22a03",
+            "clue": "Heinrich, German poet censored in the 1930s",
+            "answer": "heine",
+            "normalized": "heine"
           },
           {
-            "id": "0573a141-2cb6-410b-a9db-dd7078b4e623",
-            "clue": "Sea creature with a shell on its back",
-            "answer": "turtle",
-            "normalized": "turtle"
+            "id": "a296cc44-629a-4b45-a2ee-028b62c45d44",
+            "clue": "To shred cheese with perforated blades",
+            "answer": "grate",
+            "normalized": "grate"
           },
           {
-            "id": "36fec0fe-e66b-4abb-8ea7-92285fb4ded4",
-            "clue": "Possessing a steeple",
-            "answer": "spired",
-            "normalized": "spired"
+            "id": "3ca3f5d5-6f27-45fd-8b3f-395fdd3ea096",
+            "clue": "One who shoots or ignites",
+            "answer": "firer",
+            "normalized": "firer"
           },
           {
-            "id": "d98c3c36-0940-4a5f-8181-7f1ca6f494c0",
-            "clue": "Style perfected by US artist Andy Warhol",
-            "answer": "pop art",
-            "normalized": "popart"
+            "id": "de3cad49-364c-46b3-b16d-61e2d093cda9",
+            "clue": "Mama in the Mamas and the Papas",
+            "answer": "cass",
+            "normalized": "cass"
           },
           {
-            "id": "48981fc9-0c92-4b2b-8aa1-032254b4c811",
-            "clue": "Salamander, small amphibian",
-            "answer": "newt",
-            "normalized": "newt"
-          },
-          {
-            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
-            "clue": "US agency tasked with security at airports",
-            "answer": "tsa",
-            "normalized": "tsa"
+            "id": "fc00943d-df66-431f-9044-2ac5251deee8",
+            "clue": "Dance style with metal plates on shoes",
+            "answer": "tap",
+            "normalized": "tap"
           }
         ],
-        "track": "PC|LenC--Y2026M5D23F0"
+        "track": "PC|LenC--Y2026M5D24F0"
       },
       "mid": {
-        "puzzleId": "3e9e01e2-383d-4684-b8f2-a4938ebab765",
+        "puzzleId": "19e67cdb-ae38-49ee-bcd8-9e48982ed9ad",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "117117c9-11a6-4654-a2e4-ccc794467dc3",
-            "clue": "Fertile soil of clay and sand",
-            "answer": "loam",
-            "normalized": "loam"
+            "id": "94c624bd-f2dd-4be7-8fcf-0211bad2a127",
+            "clue": "Term of endearment meaning baby",
+            "answer": "bubs",
+            "normalized": "bubs"
           },
           {
-            "id": "23b28869-0b76-401f-a26f-5dffa9223436",
-            "clue": "Latin abbreviation for in the same place",
-            "answer": "ibid",
-            "normalized": "ibid"
+            "id": "1ed8252b-331f-46ce-8175-369c2e6d9725",
+            "clue": "Deep Space Network, for short",
+            "answer": "dsn",
+            "normalized": "dsn"
           },
           {
-            "id": "c6b3c68e-e9fa-455a-a4af-bdb026827952",
-            "clue": "__ fide, Latin phrase meaning \"in good faith\"",
-            "answer": "bona",
-            "normalized": "bona"
+            "id": "539a985b-6400-42cb-90f3-bf5eabbb17ec",
+            "clue": "Looking down your nose disapprovingly at something",
+            "answer": "sneering",
+            "normalized": "sneering"
           },
           {
-            "id": "19209f68-0595-4609-a47c-137ba3b3ad7a",
-            "clue": "Sports brand or Greek goddess of victory",
-            "answer": "nike",
-            "normalized": "nike"
+            "id": "ae4a9ce7-58ad-42d1-846e-b3e22812f5d2",
+            "clue": "Venice isle with Cathedral of Santa Maria Assunta",
+            "answer": "torcello",
+            "normalized": "torcello"
           },
           {
-            "id": "652871aa-ecad-4e2d-8d61-12b98ed63267",
-            "clue": "She led the French to victory at Orleans in 1429",
-            "answer": "joan of arc",
-            "normalized": "joanofarc"
+            "id": "479aa103-8f16-4e2c-b043-374002d15616",
+            "clue": "By a factor of a million",
+            "answer": "mega",
+            "normalized": "mega"
           },
           {
-            "id": "bba9d622-e8b3-4ad3-8d54-9bcb2d98920c",
-            "clue": "5th-century BC to 5th-century AD Celtic peoples",
-            "answer": "gauls",
-            "normalized": "gauls"
+            "id": "403a0f2b-82b9-4448-8bf3-2126b7e9ac73",
+            "clue": "French raw veg for dipping",
+            "answer": "crudités",
+            "normalized": "crudites"
           },
           {
-            "id": "d085b8d6-7d8c-4461-8b40-750f58016ecc",
-            "clue": "Small aural devices worn by TV presenters",
-            "answer": "earpieces",
-            "normalized": "earpieces"
+            "id": "7ba72a62-ee50-43e1-9355-5720913cfb55",
+            "clue": "Taylor Swift said Look What You __ in 2017",
+            "answer": "made me do",
+            "normalized": "mademedo"
           },
           {
-            "id": "4ea3983f-3f7e-42f8-b520-cbe5e14a3f91",
-            "clue": "Meaningless word indicating boredom with the topic",
-            "answer": "blah",
-            "normalized": "blah"
+            "id": "1a9c86c5-b454-40f9-a818-10ba67205cb1",
+            "clue": "In nutrition, it's recommended daily allowance",
+            "answer": "rda",
+            "normalized": "rda"
           },
           {
-            "id": "5f58536e-f564-49e9-8f90-5fdca757a380",
-            "clue": "Four-letter word (literally, and figuratively!)",
-            "answer": "cuss",
-            "normalized": "cuss"
+            "id": "e8391619-1569-4c02-8282-3f12d0ab2a00",
+            "clue": "Water movement against the current",
+            "answer": "eddy",
+            "normalized": "eddy"
           },
           {
-            "id": "b047586e-650a-4b12-8766-1aa74c500a46",
-            "clue": "Go ahead, __ guest",
-            "answer": "be my",
-            "normalized": "bemy"
+            "id": "314b7b8c-c1da-49cc-88a6-4eafcc76d2c9",
+            "clue": "UK time zone for the non-winter months",
+            "answer": "bst",
+            "normalized": "bst"
           },
           {
-            "id": "d02d5e01-5176-486c-8dc1-1c97d0450dac",
-            "clue": "The Tortured Poets Department abbreviation",
-            "answer": "ttpd",
-            "normalized": "ttpd"
+            "id": "1ae9125d-b9d3-4c33-b59d-e68300ef9304",
+            "clue": "Spanish for the number one",
+            "answer": "uno",
+            "normalized": "uno"
           },
           {
-            "id": "500a8a44-0255-4365-a89a-a2635774f921",
-            "clue": "Lyndon B. Johnson film with Woody Harrelson",
-            "answer": "lbj",
-            "normalized": "lbj"
+            "id": "8c1dc8c0-cdab-48a9-8242-e90db34b650a",
+            "clue": "Mysterious Triangle in Atlantic Ocean; shorts",
+            "answer": "bermuda",
+            "normalized": "bermuda"
           },
           {
-            "id": "21891179-6049-471e-a0bf-402d4dc984fb",
-            "clue": "Initialism for out of office",
-            "answer": "ooo",
-            "normalized": "ooo"
+            "id": "53c48c37-9137-454e-83c1-625389ddbc6d",
+            "clue": "To disengage from an association politically",
+            "answer": "secede",
+            "normalized": "secede"
           },
           {
-            "id": "18bc9eac-41a0-4bd3-b720-be117fc5e5bd",
-            "clue": "Game where players build words moving letters",
-            "answer": "anagram",
-            "normalized": "anagram"
+            "id": "2ed6b686-6175-4942-b21c-5d24901e040d",
+            "clue": "Pupils that are enlarged or swollen",
+            "answer": "dilated",
+            "normalized": "dilated"
           },
           {
-            "id": "19ac0544-e3ea-4ad6-bc87-9a10d2ccbcda",
-            "clue": "Mythical water Pokémon whose offspring is Phione",
-            "answer": "manaphy",
-            "normalized": "manaphy"
+            "id": "016b011e-c555-479c-a64f-4747b9584f23",
+            "clue": "US sketch comedy show airing since 1975",
+            "answer": "snl",
+            "normalized": "snl"
           },
           {
-            "id": "c24759ca-9f54-4a66-8ef6-4ac517382f1d",
-            "clue": "Vary tone of voice to suggest mood",
-            "answer": "inflect",
-            "normalized": "inflect"
+            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
+            "clue": "Non-profit charity independent of any government",
+            "answer": "ngo",
+            "normalized": "ngo"
           },
           {
-            "id": "97f17caa-1b9f-404c-bad1-885d9a395260",
-            "clue": "Diagonally slice across the weave of a fabric",
-            "answer": "bias cut",
-            "normalized": "biascut"
+            "id": "fc6ef33f-29d9-44dc-99b8-2adb6a0d2800",
+            "clue": "Ruling government in power",
+            "answer": "regime",
+            "normalized": "regime"
           },
           {
-            "id": "16b2f216-9a85-473b-a429-66257386fc50",
-            "clue": "Slang used in chat to show agreement with someone",
-            "answer": "ikr",
-            "normalized": "ikr"
+            "id": "022e17cf-7895-4033-835a-42efd2865d5f",
+            "clue": "Three-letter alpha code for Cameroon",
+            "answer": "cmr",
+            "normalized": "cmr"
           },
           {
-            "id": "07ddac76-87c1-4022-85b9-f2a035b9b71d",
-            "clue": "Short form of New Year's Eve month",
-            "answer": "dec",
-            "normalized": "dec"
+            "id": "4b7768fe-422d-4856-9ebf-edb500ec7789",
+            "clue": "Totally excellent",
+            "answer": "rad",
+            "normalized": "rad"
           },
           {
-            "id": "530bc59b-079e-4801-be05-2ae91783af0e",
-            "clue": "Yes, in French",
-            "answer": "oui",
-            "normalized": "oui"
+            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
+            "clue": "Initialism for Earliest Due Date scheduling",
+            "answer": "edd",
+            "normalized": "edd"
           },
           {
-            "id": "a56b8dd3-4da4-4f78-aa48-0ca9aa1f115b",
-            "clue": "Ocean tides might flow and do this",
-            "answer": "ebb",
-            "normalized": "ebb"
-          },
-          {
-            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
-            "clue": "Warm-fermented beer, rhymes with pale",
-            "answer": "ale",
-            "normalized": "ale"
-          },
-          {
-            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
-            "clue": "Sixth sense, in short",
-            "answer": "esp",
-            "normalized": "esp"
-          },
-          {
-            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
-            "clue": "Computer memory storage device that doesn't spin",
-            "answer": "ssd",
-            "normalized": "ssd"
+            "id": "43c46c44-60a9-41f4-96e2-7f6b43891b69",
+            "clue": "Bean also known as edamame",
+            "answer": "soy",
+            "normalized": "soy"
           }
         ],
-        "track": "PC|LenC--Y2026M5D23F1"
+        "track": "PC|LenC--Y2026M5D24F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-23",
+      "key": "2026-05-24",
       "year": 2026,
       "month": 5,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "b3a28110-a9cf-4848-9381-1e672b137ebd",
+        "puzzleId": "d6c9e0c1-3f9e-4969-9a33-e70e1446287c",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 6,
+        "version": 3,
         "answers": [
           {
-            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
-            "clue": "Abbreviation for small spoon measure in baking",
-            "answer": "tsp",
-            "normalized": "tsp"
+            "id": "001b2d41-2f67-4504-a8e0-9c3a65f59cc5",
+            "clue": "Hepatocyte growth factor, acronym",
+            "answer": "hgf",
+            "normalized": "hgf"
           },
           {
-            "id": "78ce5ea0-0698-4cb0-bd10-7fe4da39c71c",
-            "clue": "Second word in opening line of most fairy tales",
-            "answer": "upon",
-            "normalized": "upon"
+            "id": "66b589e6-84b1-48a4-b153-c70ba6de6bec",
+            "clue": "Cartman, Bana, or Clapton",
+            "answer": "eric",
+            "normalized": "eric"
           },
           {
-            "id": "a70a8ece-aca0-4e17-ad77-a6845e4a6d76",
-            "clue": "Cow stomach eaten as food",
-            "answer": "tripe",
-            "normalized": "tripe"
+            "id": "c98801c7-66ad-4226-9cda-49f5d5fe2266",
+            "clue": "A jewelled band worn on the head",
+            "answer": "tiara",
+            "normalized": "tiara"
           },
           {
-            "id": "c8c5b44a-ac33-4346-81e6-6d19c09b48d3",
-            "clue": "What finally broke the camel's back",
-            "answer": "straw",
-            "normalized": "straw"
+            "id": "c69e416d-7de6-4988-a0ff-a245365b1434",
+            "clue": "Stakes upped by players before receiving cards",
+            "answer": "antes",
+            "normalized": "antes"
           },
           {
-            "id": "08ef42db-efb6-4dfa-a22f-8049aa9f0266",
-            "clue": "A fire alarm will do this if there is smoke",
-            "answer": "alert",
-            "normalized": "alert"
+            "id": "63a547ce-ac03-4c9d-871b-6ff7224f3fdf",
+            "clue": "Classmates or colleagues; educational equals",
+            "answer": "peers",
+            "normalized": "peers"
           },
           {
-            "id": "b417b8b8-d322-443d-8e55-d95e2056bcbe",
-            "clue": "Three letters for Eastern Daylight Time",
-            "answer": "edt",
-            "normalized": "edt"
+            "id": "e71adb6f-e685-42ee-b9b2-977c72c22a03",
+            "clue": "Heinrich, German poet censored in the 1930s",
+            "answer": "heine",
+            "normalized": "heine"
           },
           {
-            "id": "0573a141-2cb6-410b-a9db-dd7078b4e623",
-            "clue": "Sea creature with a shell on its back",
-            "answer": "turtle",
-            "normalized": "turtle"
+            "id": "a296cc44-629a-4b45-a2ee-028b62c45d44",
+            "clue": "To shred cheese with perforated blades",
+            "answer": "grate",
+            "normalized": "grate"
           },
           {
-            "id": "36fec0fe-e66b-4abb-8ea7-92285fb4ded4",
-            "clue": "Possessing a steeple",
-            "answer": "spired",
-            "normalized": "spired"
+            "id": "3ca3f5d5-6f27-45fd-8b3f-395fdd3ea096",
+            "clue": "One who shoots or ignites",
+            "answer": "firer",
+            "normalized": "firer"
           },
           {
-            "id": "d98c3c36-0940-4a5f-8181-7f1ca6f494c0",
-            "clue": "Style perfected by US artist Andy Warhol",
-            "answer": "pop art",
-            "normalized": "popart"
+            "id": "de3cad49-364c-46b3-b16d-61e2d093cda9",
+            "clue": "Mama in the Mamas and the Papas",
+            "answer": "cass",
+            "normalized": "cass"
           },
           {
-            "id": "48981fc9-0c92-4b2b-8aa1-032254b4c811",
-            "clue": "Salamander, small amphibian",
-            "answer": "newt",
-            "normalized": "newt"
-          },
-          {
-            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
-            "clue": "US agency tasked with security at airports",
-            "answer": "tsa",
-            "normalized": "tsa"
+            "id": "fc00943d-df66-431f-9044-2ac5251deee8",
+            "clue": "Dance style with metal plates on shoes",
+            "answer": "tap",
+            "normalized": "tap"
           }
         ],
-        "track": "PC|LenC--Y2026M5D23F0"
+        "track": "PC|LenC--Y2026M5D24F0"
       },
       "mid": {
-        "puzzleId": "3e9e01e2-383d-4684-b8f2-a4938ebab765",
+        "puzzleId": "19e67cdb-ae38-49ee-bcd8-9e48982ed9ad",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "117117c9-11a6-4654-a2e4-ccc794467dc3",
-            "clue": "Fertile soil of clay and sand",
-            "answer": "loam",
-            "normalized": "loam"
+            "id": "94c624bd-f2dd-4be7-8fcf-0211bad2a127",
+            "clue": "Term of endearment meaning baby",
+            "answer": "bubs",
+            "normalized": "bubs"
           },
           {
-            "id": "23b28869-0b76-401f-a26f-5dffa9223436",
-            "clue": "Latin abbreviation for in the same place",
-            "answer": "ibid",
-            "normalized": "ibid"
+            "id": "1ed8252b-331f-46ce-8175-369c2e6d9725",
+            "clue": "Deep Space Network, for short",
+            "answer": "dsn",
+            "normalized": "dsn"
           },
           {
-            "id": "c6b3c68e-e9fa-455a-a4af-bdb026827952",
-            "clue": "__ fide, Latin phrase meaning \"in good faith\"",
-            "answer": "bona",
-            "normalized": "bona"
+            "id": "539a985b-6400-42cb-90f3-bf5eabbb17ec",
+            "clue": "Looking down your nose disapprovingly at something",
+            "answer": "sneering",
+            "normalized": "sneering"
           },
           {
-            "id": "19209f68-0595-4609-a47c-137ba3b3ad7a",
-            "clue": "Sports brand or Greek goddess of victory",
-            "answer": "nike",
-            "normalized": "nike"
+            "id": "ae4a9ce7-58ad-42d1-846e-b3e22812f5d2",
+            "clue": "Venice isle with Cathedral of Santa Maria Assunta",
+            "answer": "torcello",
+            "normalized": "torcello"
           },
           {
-            "id": "652871aa-ecad-4e2d-8d61-12b98ed63267",
-            "clue": "She led the French to victory at Orleans in 1429",
-            "answer": "joan of arc",
-            "normalized": "joanofarc"
+            "id": "479aa103-8f16-4e2c-b043-374002d15616",
+            "clue": "By a factor of a million",
+            "answer": "mega",
+            "normalized": "mega"
           },
           {
-            "id": "bba9d622-e8b3-4ad3-8d54-9bcb2d98920c",
-            "clue": "5th-century BC to 5th-century AD Celtic peoples",
-            "answer": "gauls",
-            "normalized": "gauls"
+            "id": "403a0f2b-82b9-4448-8bf3-2126b7e9ac73",
+            "clue": "French raw veg for dipping",
+            "answer": "crudités",
+            "normalized": "crudites"
           },
           {
-            "id": "d085b8d6-7d8c-4461-8b40-750f58016ecc",
-            "clue": "Small aural devices worn by TV presenters",
-            "answer": "earpieces",
-            "normalized": "earpieces"
+            "id": "7ba72a62-ee50-43e1-9355-5720913cfb55",
+            "clue": "Taylor Swift said Look What You __ in 2017",
+            "answer": "made me do",
+            "normalized": "mademedo"
           },
           {
-            "id": "4ea3983f-3f7e-42f8-b520-cbe5e14a3f91",
-            "clue": "Meaningless word indicating boredom with the topic",
-            "answer": "blah",
-            "normalized": "blah"
+            "id": "1a9c86c5-b454-40f9-a818-10ba67205cb1",
+            "clue": "In nutrition, it's recommended daily allowance",
+            "answer": "rda",
+            "normalized": "rda"
           },
           {
-            "id": "5f58536e-f564-49e9-8f90-5fdca757a380",
-            "clue": "Four-letter word (literally, and figuratively!)",
-            "answer": "cuss",
-            "normalized": "cuss"
+            "id": "e8391619-1569-4c02-8282-3f12d0ab2a00",
+            "clue": "Water movement against the current",
+            "answer": "eddy",
+            "normalized": "eddy"
           },
           {
-            "id": "b047586e-650a-4b12-8766-1aa74c500a46",
-            "clue": "Go ahead, __ guest",
-            "answer": "be my",
-            "normalized": "bemy"
+            "id": "314b7b8c-c1da-49cc-88a6-4eafcc76d2c9",
+            "clue": "UK time zone for the non-winter months",
+            "answer": "bst",
+            "normalized": "bst"
           },
           {
-            "id": "d02d5e01-5176-486c-8dc1-1c97d0450dac",
-            "clue": "The Tortured Poets Department abbreviation",
-            "answer": "ttpd",
-            "normalized": "ttpd"
+            "id": "1ae9125d-b9d3-4c33-b59d-e68300ef9304",
+            "clue": "Spanish for the number one",
+            "answer": "uno",
+            "normalized": "uno"
           },
           {
-            "id": "500a8a44-0255-4365-a89a-a2635774f921",
-            "clue": "Lyndon B. Johnson film with Woody Harrelson",
-            "answer": "lbj",
-            "normalized": "lbj"
+            "id": "8c1dc8c0-cdab-48a9-8242-e90db34b650a",
+            "clue": "Mysterious Triangle in Atlantic Ocean; shorts",
+            "answer": "bermuda",
+            "normalized": "bermuda"
           },
           {
-            "id": "21891179-6049-471e-a0bf-402d4dc984fb",
-            "clue": "Initialism for out of office",
-            "answer": "ooo",
-            "normalized": "ooo"
+            "id": "53c48c37-9137-454e-83c1-625389ddbc6d",
+            "clue": "To disengage from an association politically",
+            "answer": "secede",
+            "normalized": "secede"
           },
           {
-            "id": "18bc9eac-41a0-4bd3-b720-be117fc5e5bd",
-            "clue": "Game where players build words moving letters",
-            "answer": "anagram",
-            "normalized": "anagram"
+            "id": "2ed6b686-6175-4942-b21c-5d24901e040d",
+            "clue": "Pupils that are enlarged or swollen",
+            "answer": "dilated",
+            "normalized": "dilated"
           },
           {
-            "id": "19ac0544-e3ea-4ad6-bc87-9a10d2ccbcda",
-            "clue": "Mythical water Pokémon whose offspring is Phione",
-            "answer": "manaphy",
-            "normalized": "manaphy"
+            "id": "016b011e-c555-479c-a64f-4747b9584f23",
+            "clue": "US sketch comedy show airing since 1975",
+            "answer": "snl",
+            "normalized": "snl"
           },
           {
-            "id": "c24759ca-9f54-4a66-8ef6-4ac517382f1d",
-            "clue": "Vary tone of voice to suggest mood",
-            "answer": "inflect",
-            "normalized": "inflect"
+            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
+            "clue": "Non-profit charity independent of any government",
+            "answer": "ngo",
+            "normalized": "ngo"
           },
           {
-            "id": "97f17caa-1b9f-404c-bad1-885d9a395260",
-            "clue": "Diagonally slice across the weave of a fabric",
-            "answer": "bias cut",
-            "normalized": "biascut"
+            "id": "fc6ef33f-29d9-44dc-99b8-2adb6a0d2800",
+            "clue": "Ruling government in power",
+            "answer": "regime",
+            "normalized": "regime"
           },
           {
-            "id": "16b2f216-9a85-473b-a429-66257386fc50",
-            "clue": "Slang used in chat to show agreement with someone",
-            "answer": "ikr",
-            "normalized": "ikr"
+            "id": "022e17cf-7895-4033-835a-42efd2865d5f",
+            "clue": "Three-letter alpha code for Cameroon",
+            "answer": "cmr",
+            "normalized": "cmr"
           },
           {
-            "id": "07ddac76-87c1-4022-85b9-f2a035b9b71d",
-            "clue": "Short form of New Year's Eve month",
-            "answer": "dec",
-            "normalized": "dec"
+            "id": "4b7768fe-422d-4856-9ebf-edb500ec7789",
+            "clue": "Totally excellent",
+            "answer": "rad",
+            "normalized": "rad"
           },
           {
-            "id": "530bc59b-079e-4801-be05-2ae91783af0e",
-            "clue": "Yes, in French",
-            "answer": "oui",
-            "normalized": "oui"
+            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
+            "clue": "Initialism for Earliest Due Date scheduling",
+            "answer": "edd",
+            "normalized": "edd"
           },
           {
-            "id": "a56b8dd3-4da4-4f78-aa48-0ca9aa1f115b",
-            "clue": "Ocean tides might flow and do this",
-            "answer": "ebb",
-            "normalized": "ebb"
-          },
-          {
-            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
-            "clue": "Warm-fermented beer, rhymes with pale",
-            "answer": "ale",
-            "normalized": "ale"
-          },
-          {
-            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
-            "clue": "Sixth sense, in short",
-            "answer": "esp",
-            "normalized": "esp"
-          },
-          {
-            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
-            "clue": "Computer memory storage device that doesn't spin",
-            "answer": "ssd",
-            "normalized": "ssd"
+            "id": "43c46c44-60a9-41f4-96e2-7f6b43891b69",
+            "clue": "Bean also known as edamame",
+            "answer": "soy",
+            "normalized": "soy"
           }
         ],
-        "track": "PC|LenC--Y2026M5D23F1"
+        "track": "PC|LenC--Y2026M5D24F1"
       }
     },
     "latestAvailableEntry": {
@@ -415811,21 +415763,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "hL47+OrNtwP7mgofOjatuFgxZxmfuDKjN3NcxRI4TxBpykCD/JrGG4rnPqfCdU3mVbsvV2OHDIwaCAs1BSL5TSQt3VcldSoJ/3yBblT+hHOYOVxuHRrfjdmOFUq6fABCEbxcdHgzmFdTqoYdKNKTgJYS5eDtr5KmRVb4qitLoFqB4+3DQM8QKOT5s1lDyA5jByF2dvgf1IWsP2/bChA+U9M849wSxjdkSlOcJy1QGEX+273ViTHvLUUJDuDMvDAeKFdrthZyK4DFkBkuEBOSMIGa+VFaBtvKscWsBWp5BhM="
+        "KK5MU2gyttbWX6j0Co2GFBD6/IhhVa1fT03FVwImsrjhPpgwwOdoQuT43GY+XFE+4IVSho3nupm6vDpWG4fUygUg6ZlKHvCPyx/eYpnKFZ+l+D8/Vn/Yg2FSZfWQXHw1pvG92YjDcjRJnZZXyPwktP2Mf14GqVAECGRfI5yhDA+iq6QnjZ14GQLMYTkGRSuZCPuDY6cyVA++kFzERZm3ciBnDdVRI1WeZEmRYAj8U+0OvTNRtdvs9qOFlhN78QJKLC7n5hcnpSk9KC2kNbe77oGLK18Xay9LgvsVzelVFLkPb6j5oRnnB8WoC/B7SALK"
       ]
     },
     "decrypted": {
-      "Id": "ba9ac9da-fe85-4bbd-b09d-42aa8a963059",
-      "Date": "2026-05-23T00:00:00Z",
+      "Id": "d3ed2dc7-49ec-40e3-9bcc-3bf6022b853b",
+      "Date": "2026-05-24T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "hello",
-      "NormalizedPassword": "hello",
+      "Password": "stable",
+      "NormalizedPassword": "stable",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-23T01:46:53.3690000+05:30",
-    "hash": "92c548aaf45e4c71d362b9a79520cd0b",
+    "dtu": "2026-05-24T01:12:06.3770000+05:30",
+    "hash": "63c02dad593fedcba987263998169b80",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
