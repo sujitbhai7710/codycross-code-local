@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-23T19:42:06.377Z",
+  "generatedAt": "2026-05-24T19:45:31.388Z",
   "today": {
     "year": 2026,
     "month": 5,
-    "day": 24
+    "day": 25
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 44
+        "QuantidadeDeFases": 46
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -34844,7 +34844,7 @@
             },
             {
               "id": "45f7e5a0-edbf-4626-ab64-e94677876b82",
-              "clue": "Benjamin Hoff's eastern religion book of Pooh",
+              "clue": "Benjamin Hoff's book, The ___ of Pooh",
               "answer": "tao",
               "normalized": "tao"
             },
@@ -86364,7 +86364,7 @@
             },
             {
               "id": "45f7e5a0-edbf-4626-ab64-e94677876b82",
-              "clue": "Benjamin Hoff's eastern religion book of Pooh",
+              "clue": "Benjamin Hoff's book, The ___ of Pooh",
               "answer": "tao",
               "normalized": "tao"
             },
@@ -253989,7 +253989,7 @@
             },
             {
               "id": "ce565311-14d5-4b8e-a07f-83da28242437",
-              "clue": "Wound covered in dried-up blood",
+              "clue": "Resembling a wound covered in dried-up blood",
               "answer": "scabby",
               "normalized": "scabby"
             },
@@ -406488,7 +406488,7 @@
             },
             {
               "id": "45f7e5a0-edbf-4626-ab64-e94677876b82",
-              "clue": "Benjamin Hoff's eastern religion book of Pooh",
+              "clue": "Benjamin Hoff's book, The ___ of Pooh",
               "answer": "tao",
               "normalized": "tao"
             }
@@ -409570,7 +409570,7 @@
             },
             {
               "id": "957faca4-aff6-4151-a703-dfc93e0c1840",
-              "clue": "Tree being in The Lord of the Rings",
+              "clue": "Tree-like being in The Lord of the Rings",
               "answer": "ent",
               "normalized": "ent"
             },
@@ -409742,7 +409742,7 @@
             },
             {
               "id": "957faca4-aff6-4151-a703-dfc93e0c1840",
-              "clue": "Tree being in The Lord of the Rings",
+              "clue": "Tree-like being in The Lord of the Rings",
               "answer": "ent",
               "normalized": "ent"
             },
@@ -412538,7 +412538,7 @@
             },
             {
               "id": "45f7e5a0-edbf-4626-ab64-e94677876b82",
-              "clue": "Benjamin Hoff's eastern religion book of Pooh",
+              "clue": "Benjamin Hoff's book, The ___ of Pooh",
               "answer": "tao",
               "normalized": "tao"
             },
@@ -415095,427 +415095,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-24",
+      "key": "2026-05-25",
       "year": 2026,
       "month": 5,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "d6c9e0c1-3f9e-4969-9a33-e70e1446287c",
+        "puzzleId": "a1a355ed-a478-4c60-bc0c-ea0db886f6a5",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "001b2d41-2f67-4504-a8e0-9c3a65f59cc5",
-            "clue": "Hepatocyte growth factor, acronym",
-            "answer": "hgf",
-            "normalized": "hgf"
-          },
-          {
-            "id": "66b589e6-84b1-48a4-b153-c70ba6de6bec",
-            "clue": "Cartman, Bana, or Clapton",
-            "answer": "eric",
-            "normalized": "eric"
-          },
-          {
-            "id": "c98801c7-66ad-4226-9cda-49f5d5fe2266",
-            "clue": "A jewelled band worn on the head",
-            "answer": "tiara",
-            "normalized": "tiara"
-          },
-          {
-            "id": "c69e416d-7de6-4988-a0ff-a245365b1434",
-            "clue": "Stakes upped by players before receiving cards",
-            "answer": "antes",
-            "normalized": "antes"
-          },
-          {
-            "id": "63a547ce-ac03-4c9d-871b-6ff7224f3fdf",
-            "clue": "Classmates or colleagues; educational equals",
-            "answer": "peers",
-            "normalized": "peers"
-          },
-          {
-            "id": "e71adb6f-e685-42ee-b9b2-977c72c22a03",
-            "clue": "Heinrich, German poet censored in the 1930s",
-            "answer": "heine",
-            "normalized": "heine"
-          },
-          {
-            "id": "a296cc44-629a-4b45-a2ee-028b62c45d44",
-            "clue": "To shred cheese with perforated blades",
-            "answer": "grate",
-            "normalized": "grate"
-          },
-          {
-            "id": "3ca3f5d5-6f27-45fd-8b3f-395fdd3ea096",
-            "clue": "One who shoots or ignites",
-            "answer": "firer",
-            "normalized": "firer"
-          },
-          {
-            "id": "de3cad49-364c-46b3-b16d-61e2d093cda9",
-            "clue": "Mama in the Mamas and the Papas",
-            "answer": "cass",
-            "normalized": "cass"
-          },
-          {
-            "id": "fc00943d-df66-431f-9044-2ac5251deee8",
-            "clue": "Dance style with metal plates on shoes",
-            "answer": "tap",
-            "normalized": "tap"
-          }
-        ],
-        "track": "PC|LenC--Y2026M5D24F0"
-      },
-      "mid": {
-        "puzzleId": "19e67cdb-ae38-49ee-bcd8-9e48982ed9ad",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "94c624bd-f2dd-4be7-8fcf-0211bad2a127",
-            "clue": "Term of endearment meaning baby",
-            "answer": "bubs",
-            "normalized": "bubs"
+            "id": "3956a8b5-a3e1-437d-810f-85bcb81a2a46",
+            "clue": "French for \"the\", used with plurals",
+            "answer": "les",
+            "normalized": "les"
           },
           {
-            "id": "1ed8252b-331f-46ce-8175-369c2e6d9725",
-            "clue": "Deep Space Network, for short",
-            "answer": "dsn",
-            "normalized": "dsn"
+            "id": "f9707baa-d055-4542-92f1-2712b73b2664",
+            "clue": "Large amount, great deal",
+            "answer": "a lot",
+            "normalized": "alot"
           },
           {
-            "id": "539a985b-6400-42cb-90f3-bf5eabbb17ec",
-            "clue": "Looking down your nose disapprovingly at something",
-            "answer": "sneering",
-            "normalized": "sneering"
+            "id": "b26bd6ba-df49-4eba-86ca-7a4c9fdf4542",
+            "clue": "A thick piece of cloth used for drying off",
+            "answer": "towel",
+            "normalized": "towel"
           },
           {
-            "id": "ae4a9ce7-58ad-42d1-846e-b3e22812f5d2",
-            "clue": "Venice isle with Cathedral of Santa Maria Assunta",
-            "answer": "torcello",
-            "normalized": "torcello"
+            "id": "5554712f-7b9f-4657-9146-77e8e3ab070e",
+            "clue": "Lobster species with long and thick antenna",
+            "answer": "spiny",
+            "normalized": "spiny"
           },
           {
-            "id": "479aa103-8f16-4e2c-b043-374002d15616",
-            "clue": "By a factor of a million",
-            "answer": "mega",
-            "normalized": "mega"
+            "id": "17eabef2-264e-4860-95cd-9514ae7f6f84",
+            "clue": "Prefix for within or inner",
+            "answer": "endo",
+            "normalized": "endo"
           },
           {
-            "id": "403a0f2b-82b9-4448-8bf3-2126b7e9ac73",
-            "clue": "French raw veg for dipping",
-            "answer": "crudités",
-            "normalized": "crudites"
+            "id": "d6b7f981-b276-46d8-96ab-65da5d2278ba",
+            "clue": "Firearm",
+            "answer": "gun",
+            "normalized": "gun"
           },
           {
-            "id": "7ba72a62-ee50-43e1-9355-5720913cfb55",
-            "clue": "Taylor Swift said Look What You __ in 2017",
-            "answer": "made me do",
-            "normalized": "mademedo"
+            "id": "8f868df2-a5e1-43c2-9908-fbc8841d418c",
+            "clue": "Largest upper body muscles, for short",
+            "answer": "lats",
+            "normalized": "lats"
           },
           {
-            "id": "1a9c86c5-b454-40f9-a818-10ba67205cb1",
-            "clue": "In nutrition, it's recommended daily allowance",
-            "answer": "rda",
-            "normalized": "rda"
+            "id": "5b66f7df-ac74-4a7c-9e8e-1279554899de",
+            "clue": "Get married without telling anyone",
+            "answer": "elope",
+            "normalized": "elope"
           },
           {
-            "id": "e8391619-1569-4c02-8282-3f12d0ab2a00",
-            "clue": "Water movement against the current",
-            "answer": "eddy",
-            "normalized": "eddy"
+            "id": "bdd97d4a-1fc6-415f-9055-ad96c73480bb",
+            "clue": "The act of putting seeds into the soil",
+            "answer": "sowing",
+            "normalized": "sowing"
           },
           {
-            "id": "314b7b8c-c1da-49cc-88a6-4eafcc76d2c9",
-            "clue": "UK time zone for the non-winter months",
-            "answer": "bst",
-            "normalized": "bst"
+            "id": "a91bac37-e977-468f-9038-73ac2838eb8a",
+            "clue": "Ballet leg extension, battement __",
+            "answer": "tendu",
+            "normalized": "tendu"
           },
           {
-            "id": "1ae9125d-b9d3-4c33-b59d-e68300ef9304",
-            "clue": "Spanish for the number one",
-            "answer": "uno",
-            "normalized": "uno"
-          },
-          {
-            "id": "8c1dc8c0-cdab-48a9-8242-e90db34b650a",
-            "clue": "Mysterious Triangle in Atlantic Ocean; shorts",
-            "answer": "bermuda",
-            "normalized": "bermuda"
-          },
-          {
-            "id": "53c48c37-9137-454e-83c1-625389ddbc6d",
-            "clue": "To disengage from an association politically",
-            "answer": "secede",
-            "normalized": "secede"
-          },
-          {
-            "id": "2ed6b686-6175-4942-b21c-5d24901e040d",
-            "clue": "Pupils that are enlarged or swollen",
-            "answer": "dilated",
-            "normalized": "dilated"
-          },
-          {
-            "id": "016b011e-c555-479c-a64f-4747b9584f23",
-            "clue": "US sketch comedy show airing since 1975",
-            "answer": "snl",
-            "normalized": "snl"
-          },
-          {
-            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
-            "clue": "Non-profit charity independent of any government",
-            "answer": "ngo",
-            "normalized": "ngo"
-          },
-          {
-            "id": "fc6ef33f-29d9-44dc-99b8-2adb6a0d2800",
-            "clue": "Ruling government in power",
-            "answer": "regime",
-            "normalized": "regime"
-          },
-          {
-            "id": "022e17cf-7895-4033-835a-42efd2865d5f",
-            "clue": "Three-letter alpha code for Cameroon",
-            "answer": "cmr",
-            "normalized": "cmr"
-          },
-          {
-            "id": "4b7768fe-422d-4856-9ebf-edb500ec7789",
-            "clue": "Totally excellent",
-            "answer": "rad",
-            "normalized": "rad"
-          },
-          {
-            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
-            "clue": "Initialism for Earliest Due Date scheduling",
-            "answer": "edd",
-            "normalized": "edd"
-          },
-          {
-            "id": "43c46c44-60a9-41f4-96e2-7f6b43891b69",
-            "clue": "Bean also known as edamame",
-            "answer": "soy",
-            "normalized": "soy"
+            "id": "ecb05952-7fed-4dcf-a88e-124645251762",
+            "clue": "Big French city that sounds like a big cat",
+            "answer": "lyon",
+            "normalized": "lyon"
           }
         ],
-        "track": "PC|LenC--Y2026M5D24F1"
+        "track": "PC|LenC--Y2026M5D25F0"
+      },
+      "mid": {
+        "puzzleId": "57377c8c-aae1-4948-aea6-e41c41b56bfa",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 6,
+        "answers": [
+          {
+            "id": "dd18d89e-04f8-4491-b219-d6e4a0afc39d",
+            "clue": "Jockeys want this position to be good",
+            "answer": "post",
+            "normalized": "post"
+          },
+          {
+            "id": "8dbc80dc-2b44-4793-9976-cc2990e3c480",
+            "clue": "Jean-Paul __, French companion of de Beauvoir",
+            "answer": "sartre",
+            "normalized": "sartre"
+          },
+          {
+            "id": "037533ee-3efc-4c6c-b7aa-f2e9e19709db",
+            "clue": "Gland that is overactive in Graves' disease",
+            "answer": "thyroid",
+            "normalized": "thyroid"
+          },
+          {
+            "id": "e3c241fa-710f-41ac-85ef-ee0a0a5ee7c4",
+            "clue": "Old cloth used for cleaning",
+            "answer": "rag",
+            "normalized": "rag"
+          },
+          {
+            "id": "681ffa58-4f1d-4573-904c-5b096079ec95",
+            "clue": "Affix at the front of a word meaning \"before\"",
+            "answer": "pre",
+            "normalized": "pre"
+          },
+          {
+            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
+            "clue": "Interest rate across a whole year",
+            "answer": "apr",
+            "normalized": "apr"
+          },
+          {
+            "id": "21c15975-1db2-494b-b09b-437ef54f66e7",
+            "clue": "Ink-filled writing utensil",
+            "answer": "pen",
+            "normalized": "pen"
+          },
+          {
+            "id": "9ff43eb2-3a6c-4275-96e0-6e0bba9091b3",
+            "clue": "Royal headbands",
+            "answer": "diadems",
+            "normalized": "diadems"
+          },
+          {
+            "id": "ea3d1bba-bc7a-4ad8-b42e-d115dbd2093b",
+            "clue": "To last a long time",
+            "answer": "endure",
+            "normalized": "endure"
+          },
+          {
+            "id": "2cb4dad0-f9bb-409d-9738-316fbfd52924",
+            "clue": "Stayin' Alive disco band the Bee __",
+            "answer": "gees",
+            "normalized": "gees"
+          },
+          {
+            "id": "0fc53644-d9fa-4acd-8f3e-ab67ca826738",
+            "clue": "Level on a salary scale",
+            "answer": "pay grade",
+            "normalized": "paygrade"
+          },
+          {
+            "id": "2b8eaf41-fbcf-4017-a139-db4696a143ff",
+            "clue": "Last name of Benjamin, bassist of the Cars",
+            "answer": "orr",
+            "normalized": "orr"
+          },
+          {
+            "id": "b3db79c6-f4f0-42ca-8f35-a057c3e8209d",
+            "clue": "Cork plugs placed in bottles' necks",
+            "answer": "stoppers",
+            "normalized": "stoppers"
+          },
+          {
+            "id": "4d2b94cf-6b06-496f-8cf2-a97c28efdfc1",
+            "clue": "Roman galley with three sets of oars on each side",
+            "answer": "trireme",
+            "normalized": "trireme"
+          },
+          {
+            "id": "c6aefd19-d96d-4dc6-8ed2-60eca0f4e1c7",
+            "clue": "Modeling or carving an image",
+            "answer": "shaping",
+            "normalized": "shaping"
+          },
+          {
+            "id": "b3b3e4ad-b0ef-422e-8f9d-7b925bcfb2af",
+            "clue": "Paradisiacal gardens",
+            "answer": "edens",
+            "normalized": "edens"
+          },
+          {
+            "id": "7ab55bab-0e05-4b35-85cc-b3a4e48e2695",
+            "clue": "Manual job calling for special training",
+            "answer": "trade",
+            "normalized": "trade"
+          },
+          {
+            "id": "6913f600-822d-4c10-814f-cef6dcb3976c",
+            "clue": "What is owed to someone",
+            "answer": "due",
+            "normalized": "due"
+          }
+        ],
+        "track": "PC|LenC--Y2026M5D25F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-24",
+      "key": "2026-05-25",
       "year": 2026,
       "month": 5,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "d6c9e0c1-3f9e-4969-9a33-e70e1446287c",
+        "puzzleId": "a1a355ed-a478-4c60-bc0c-ea0db886f6a5",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "001b2d41-2f67-4504-a8e0-9c3a65f59cc5",
-            "clue": "Hepatocyte growth factor, acronym",
-            "answer": "hgf",
-            "normalized": "hgf"
-          },
-          {
-            "id": "66b589e6-84b1-48a4-b153-c70ba6de6bec",
-            "clue": "Cartman, Bana, or Clapton",
-            "answer": "eric",
-            "normalized": "eric"
-          },
-          {
-            "id": "c98801c7-66ad-4226-9cda-49f5d5fe2266",
-            "clue": "A jewelled band worn on the head",
-            "answer": "tiara",
-            "normalized": "tiara"
-          },
-          {
-            "id": "c69e416d-7de6-4988-a0ff-a245365b1434",
-            "clue": "Stakes upped by players before receiving cards",
-            "answer": "antes",
-            "normalized": "antes"
-          },
-          {
-            "id": "63a547ce-ac03-4c9d-871b-6ff7224f3fdf",
-            "clue": "Classmates or colleagues; educational equals",
-            "answer": "peers",
-            "normalized": "peers"
-          },
-          {
-            "id": "e71adb6f-e685-42ee-b9b2-977c72c22a03",
-            "clue": "Heinrich, German poet censored in the 1930s",
-            "answer": "heine",
-            "normalized": "heine"
-          },
-          {
-            "id": "a296cc44-629a-4b45-a2ee-028b62c45d44",
-            "clue": "To shred cheese with perforated blades",
-            "answer": "grate",
-            "normalized": "grate"
-          },
-          {
-            "id": "3ca3f5d5-6f27-45fd-8b3f-395fdd3ea096",
-            "clue": "One who shoots or ignites",
-            "answer": "firer",
-            "normalized": "firer"
-          },
-          {
-            "id": "de3cad49-364c-46b3-b16d-61e2d093cda9",
-            "clue": "Mama in the Mamas and the Papas",
-            "answer": "cass",
-            "normalized": "cass"
-          },
-          {
-            "id": "fc00943d-df66-431f-9044-2ac5251deee8",
-            "clue": "Dance style with metal plates on shoes",
-            "answer": "tap",
-            "normalized": "tap"
-          }
-        ],
-        "track": "PC|LenC--Y2026M5D24F0"
-      },
-      "mid": {
-        "puzzleId": "19e67cdb-ae38-49ee-bcd8-9e48982ed9ad",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "94c624bd-f2dd-4be7-8fcf-0211bad2a127",
-            "clue": "Term of endearment meaning baby",
-            "answer": "bubs",
-            "normalized": "bubs"
+            "id": "3956a8b5-a3e1-437d-810f-85bcb81a2a46",
+            "clue": "French for \"the\", used with plurals",
+            "answer": "les",
+            "normalized": "les"
           },
           {
-            "id": "1ed8252b-331f-46ce-8175-369c2e6d9725",
-            "clue": "Deep Space Network, for short",
-            "answer": "dsn",
-            "normalized": "dsn"
+            "id": "f9707baa-d055-4542-92f1-2712b73b2664",
+            "clue": "Large amount, great deal",
+            "answer": "a lot",
+            "normalized": "alot"
           },
           {
-            "id": "539a985b-6400-42cb-90f3-bf5eabbb17ec",
-            "clue": "Looking down your nose disapprovingly at something",
-            "answer": "sneering",
-            "normalized": "sneering"
+            "id": "b26bd6ba-df49-4eba-86ca-7a4c9fdf4542",
+            "clue": "A thick piece of cloth used for drying off",
+            "answer": "towel",
+            "normalized": "towel"
           },
           {
-            "id": "ae4a9ce7-58ad-42d1-846e-b3e22812f5d2",
-            "clue": "Venice isle with Cathedral of Santa Maria Assunta",
-            "answer": "torcello",
-            "normalized": "torcello"
+            "id": "5554712f-7b9f-4657-9146-77e8e3ab070e",
+            "clue": "Lobster species with long and thick antenna",
+            "answer": "spiny",
+            "normalized": "spiny"
           },
           {
-            "id": "479aa103-8f16-4e2c-b043-374002d15616",
-            "clue": "By a factor of a million",
-            "answer": "mega",
-            "normalized": "mega"
+            "id": "17eabef2-264e-4860-95cd-9514ae7f6f84",
+            "clue": "Prefix for within or inner",
+            "answer": "endo",
+            "normalized": "endo"
           },
           {
-            "id": "403a0f2b-82b9-4448-8bf3-2126b7e9ac73",
-            "clue": "French raw veg for dipping",
-            "answer": "crudités",
-            "normalized": "crudites"
+            "id": "d6b7f981-b276-46d8-96ab-65da5d2278ba",
+            "clue": "Firearm",
+            "answer": "gun",
+            "normalized": "gun"
           },
           {
-            "id": "7ba72a62-ee50-43e1-9355-5720913cfb55",
-            "clue": "Taylor Swift said Look What You __ in 2017",
-            "answer": "made me do",
-            "normalized": "mademedo"
+            "id": "8f868df2-a5e1-43c2-9908-fbc8841d418c",
+            "clue": "Largest upper body muscles, for short",
+            "answer": "lats",
+            "normalized": "lats"
           },
           {
-            "id": "1a9c86c5-b454-40f9-a818-10ba67205cb1",
-            "clue": "In nutrition, it's recommended daily allowance",
-            "answer": "rda",
-            "normalized": "rda"
+            "id": "5b66f7df-ac74-4a7c-9e8e-1279554899de",
+            "clue": "Get married without telling anyone",
+            "answer": "elope",
+            "normalized": "elope"
           },
           {
-            "id": "e8391619-1569-4c02-8282-3f12d0ab2a00",
-            "clue": "Water movement against the current",
-            "answer": "eddy",
-            "normalized": "eddy"
+            "id": "bdd97d4a-1fc6-415f-9055-ad96c73480bb",
+            "clue": "The act of putting seeds into the soil",
+            "answer": "sowing",
+            "normalized": "sowing"
           },
           {
-            "id": "314b7b8c-c1da-49cc-88a6-4eafcc76d2c9",
-            "clue": "UK time zone for the non-winter months",
-            "answer": "bst",
-            "normalized": "bst"
+            "id": "a91bac37-e977-468f-9038-73ac2838eb8a",
+            "clue": "Ballet leg extension, battement __",
+            "answer": "tendu",
+            "normalized": "tendu"
           },
           {
-            "id": "1ae9125d-b9d3-4c33-b59d-e68300ef9304",
-            "clue": "Spanish for the number one",
-            "answer": "uno",
-            "normalized": "uno"
-          },
-          {
-            "id": "8c1dc8c0-cdab-48a9-8242-e90db34b650a",
-            "clue": "Mysterious Triangle in Atlantic Ocean; shorts",
-            "answer": "bermuda",
-            "normalized": "bermuda"
-          },
-          {
-            "id": "53c48c37-9137-454e-83c1-625389ddbc6d",
-            "clue": "To disengage from an association politically",
-            "answer": "secede",
-            "normalized": "secede"
-          },
-          {
-            "id": "2ed6b686-6175-4942-b21c-5d24901e040d",
-            "clue": "Pupils that are enlarged or swollen",
-            "answer": "dilated",
-            "normalized": "dilated"
-          },
-          {
-            "id": "016b011e-c555-479c-a64f-4747b9584f23",
-            "clue": "US sketch comedy show airing since 1975",
-            "answer": "snl",
-            "normalized": "snl"
-          },
-          {
-            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
-            "clue": "Non-profit charity independent of any government",
-            "answer": "ngo",
-            "normalized": "ngo"
-          },
-          {
-            "id": "fc6ef33f-29d9-44dc-99b8-2adb6a0d2800",
-            "clue": "Ruling government in power",
-            "answer": "regime",
-            "normalized": "regime"
-          },
-          {
-            "id": "022e17cf-7895-4033-835a-42efd2865d5f",
-            "clue": "Three-letter alpha code for Cameroon",
-            "answer": "cmr",
-            "normalized": "cmr"
-          },
-          {
-            "id": "4b7768fe-422d-4856-9ebf-edb500ec7789",
-            "clue": "Totally excellent",
-            "answer": "rad",
-            "normalized": "rad"
-          },
-          {
-            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
-            "clue": "Initialism for Earliest Due Date scheduling",
-            "answer": "edd",
-            "normalized": "edd"
-          },
-          {
-            "id": "43c46c44-60a9-41f4-96e2-7f6b43891b69",
-            "clue": "Bean also known as edamame",
-            "answer": "soy",
-            "normalized": "soy"
+            "id": "ecb05952-7fed-4dcf-a88e-124645251762",
+            "clue": "Big French city that sounds like a big cat",
+            "answer": "lyon",
+            "normalized": "lyon"
           }
         ],
-        "track": "PC|LenC--Y2026M5D24F1"
+        "track": "PC|LenC--Y2026M5D25F0"
+      },
+      "mid": {
+        "puzzleId": "57377c8c-aae1-4948-aea6-e41c41b56bfa",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 6,
+        "answers": [
+          {
+            "id": "dd18d89e-04f8-4491-b219-d6e4a0afc39d",
+            "clue": "Jockeys want this position to be good",
+            "answer": "post",
+            "normalized": "post"
+          },
+          {
+            "id": "8dbc80dc-2b44-4793-9976-cc2990e3c480",
+            "clue": "Jean-Paul __, French companion of de Beauvoir",
+            "answer": "sartre",
+            "normalized": "sartre"
+          },
+          {
+            "id": "037533ee-3efc-4c6c-b7aa-f2e9e19709db",
+            "clue": "Gland that is overactive in Graves' disease",
+            "answer": "thyroid",
+            "normalized": "thyroid"
+          },
+          {
+            "id": "e3c241fa-710f-41ac-85ef-ee0a0a5ee7c4",
+            "clue": "Old cloth used for cleaning",
+            "answer": "rag",
+            "normalized": "rag"
+          },
+          {
+            "id": "681ffa58-4f1d-4573-904c-5b096079ec95",
+            "clue": "Affix at the front of a word meaning \"before\"",
+            "answer": "pre",
+            "normalized": "pre"
+          },
+          {
+            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
+            "clue": "Interest rate across a whole year",
+            "answer": "apr",
+            "normalized": "apr"
+          },
+          {
+            "id": "21c15975-1db2-494b-b09b-437ef54f66e7",
+            "clue": "Ink-filled writing utensil",
+            "answer": "pen",
+            "normalized": "pen"
+          },
+          {
+            "id": "9ff43eb2-3a6c-4275-96e0-6e0bba9091b3",
+            "clue": "Royal headbands",
+            "answer": "diadems",
+            "normalized": "diadems"
+          },
+          {
+            "id": "ea3d1bba-bc7a-4ad8-b42e-d115dbd2093b",
+            "clue": "To last a long time",
+            "answer": "endure",
+            "normalized": "endure"
+          },
+          {
+            "id": "2cb4dad0-f9bb-409d-9738-316fbfd52924",
+            "clue": "Stayin' Alive disco band the Bee __",
+            "answer": "gees",
+            "normalized": "gees"
+          },
+          {
+            "id": "0fc53644-d9fa-4acd-8f3e-ab67ca826738",
+            "clue": "Level on a salary scale",
+            "answer": "pay grade",
+            "normalized": "paygrade"
+          },
+          {
+            "id": "2b8eaf41-fbcf-4017-a139-db4696a143ff",
+            "clue": "Last name of Benjamin, bassist of the Cars",
+            "answer": "orr",
+            "normalized": "orr"
+          },
+          {
+            "id": "b3db79c6-f4f0-42ca-8f35-a057c3e8209d",
+            "clue": "Cork plugs placed in bottles' necks",
+            "answer": "stoppers",
+            "normalized": "stoppers"
+          },
+          {
+            "id": "4d2b94cf-6b06-496f-8cf2-a97c28efdfc1",
+            "clue": "Roman galley with three sets of oars on each side",
+            "answer": "trireme",
+            "normalized": "trireme"
+          },
+          {
+            "id": "c6aefd19-d96d-4dc6-8ed2-60eca0f4e1c7",
+            "clue": "Modeling or carving an image",
+            "answer": "shaping",
+            "normalized": "shaping"
+          },
+          {
+            "id": "b3b3e4ad-b0ef-422e-8f9d-7b925bcfb2af",
+            "clue": "Paradisiacal gardens",
+            "answer": "edens",
+            "normalized": "edens"
+          },
+          {
+            "id": "7ab55bab-0e05-4b35-85cc-b3a4e48e2695",
+            "clue": "Manual job calling for special training",
+            "answer": "trade",
+            "normalized": "trade"
+          },
+          {
+            "id": "6913f600-822d-4c10-814f-cef6dcb3976c",
+            "clue": "What is owed to someone",
+            "answer": "due",
+            "normalized": "due"
+          }
+        ],
+        "track": "PC|LenC--Y2026M5D25F1"
       }
     },
     "latestAvailableEntry": {
@@ -415763,21 +415739,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "KK5MU2gyttbWX6j0Co2GFBD6/IhhVa1fT03FVwImsrjhPpgwwOdoQuT43GY+XFE+4IVSho3nupm6vDpWG4fUygUg6ZlKHvCPyx/eYpnKFZ+l+D8/Vn/Yg2FSZfWQXHw1pvG92YjDcjRJnZZXyPwktP2Mf14GqVAECGRfI5yhDA+iq6QnjZ14GQLMYTkGRSuZCPuDY6cyVA++kFzERZm3ciBnDdVRI1WeZEmRYAj8U+0OvTNRtdvs9qOFlhN78QJKLC7n5hcnpSk9KC2kNbe77oGLK18Xay9LgvsVzelVFLkPb6j5oRnnB8WoC/B7SALK"
+        "AH3iVx0PZWjE7nTMWLXj5A6YwO228Uz2DRbHGvgzSh1dvOtR5v3UBj2+EbvCNuLP00nfKRHekZQtCYRkZPPF+2YS5obvehKaPV3zcgzcJeT/luEpUCY7E3IgqLUDGOuqXIzjBcjDxh7WRHiWisjZqqU78KuD2ueskDTTrw4n1jtV5Fwy/FvgDA/q5bzoSba+vwy81oHgo8jZ6EwBk3zR3kIF9vP1g8HLuC/Z1np9xQ0nS8fQcwO0r3CxpT+BJw7R49MK5hsNFdDZv17I8nvDL7Ce0pbNZlGCNUXTLD+Np2Y="
       ]
     },
     "decrypted": {
-      "Id": "d3ed2dc7-49ec-40e3-9bcc-3bf6022b853b",
-      "Date": "2026-05-24T00:00:00Z",
+      "Id": "237c80da-87d4-465e-acfb-9e0bd935e071",
+      "Date": "2026-05-25T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "stable",
-      "NormalizedPassword": "stable",
+      "Password": "eager",
+      "NormalizedPassword": "eager",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-24T01:12:06.3770000+05:30",
-    "hash": "63c02dad593fedcba987263998169b80",
+    "dtu": "2026-05-25T01:15:31.3880000+05:30",
+    "hash": "f644f5cf4479e2368f994a9e2545ac55",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
