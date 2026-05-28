@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-27T20:31:53.561Z",
+  "generatedAt": "2026-05-28T20:41:07.023Z",
   "today": {
     "year": 2026,
     "month": 5,
-    "day": 28
+    "day": 29
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 51
+        "QuantidadeDeFases": 53
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -30239,7 +30239,7 @@
           "answers": [
             {
               "id": "e5040687-9ee4-4a37-aa28-6fbc62a9daac",
-              "clue": "Close fit cap worn by Catholic nuns",
+              "clue": "Close-fit cap worn by Catholic nuns",
               "answer": "coif",
               "normalized": "coif"
             },
@@ -117480,7 +117480,7 @@
             },
             {
               "id": "6c0a530b-3441-47b4-8600-2d77b083fb66",
-              "clue": "Name, abbreviation of Roxanne",
+              "clue": "Name, short for Roxanne",
               "answer": "roxy",
               "normalized": "roxy"
             },
@@ -130141,7 +130141,7 @@
             },
             {
               "id": "d59a008a-4cfa-4439-be4c-ff39ceb40015",
-              "clue": "What certain dieters avoid, found in pasta (sing.)",
+              "clue": "A low-__ diet limits food like pasta",
               "answer": "carb",
               "normalized": "carb"
             },
@@ -153522,7 +153522,7 @@
             },
             {
               "id": "d59a008a-4cfa-4439-be4c-ff39ceb40015",
-              "clue": "What certain dieters avoid, found in pasta (sing.)",
+              "clue": "A low-__ diet limits food like pasta",
               "answer": "carb",
               "normalized": "carb"
             },
@@ -156284,7 +156284,7 @@
             },
             {
               "id": "6ce41ac4-5da2-4ba2-85a6-546ab410d3c2",
-              "clue": "Underground plant stem, AKA bulbotuber",
+              "clue": "Underground plant stem, aka bulbotuber",
               "answer": "corm",
               "normalized": "corm"
             },
@@ -201477,7 +201477,7 @@
           "answers": [
             {
               "id": "d59a008a-4cfa-4439-be4c-ff39ceb40015",
-              "clue": "What certain dieters avoid, found in pasta (sing.)",
+              "clue": "A low-__ diet limits food like pasta",
               "answer": "carb",
               "normalized": "carb"
             },
@@ -207421,7 +207421,7 @@
             },
             {
               "id": "dea6ef31-3ade-49a8-a88b-62fc7524c2d7",
-              "clue": "Violent dance in the concert pit",
+              "clue": "Highly physical dance in the concert pit",
               "answer": "mosh",
               "normalized": "mosh"
             },
@@ -284126,7 +284126,7 @@
           "answers": [
             {
               "id": "d59a008a-4cfa-4439-be4c-ff39ceb40015",
-              "clue": "What certain dieters avoid, found in pasta (sing.)",
+              "clue": "A low-__ diet limits food like pasta",
               "answer": "carb",
               "normalized": "carb"
             },
@@ -299190,7 +299190,7 @@
             },
             {
               "id": "30b950b2-dc11-4a43-9982-d1735fa6a040",
-              "clue": "Small goose with a black head and neck, aka brent",
+              "clue": "Small goose with a black head and neck",
               "answer": "brant",
               "normalized": "brant"
             },
@@ -314713,7 +314713,7 @@
           "answers": [
             {
               "id": "d59a008a-4cfa-4439-be4c-ff39ceb40015",
-              "clue": "What certain dieters avoid, found in pasta (sing.)",
+              "clue": "A low-__ diet limits food like pasta",
               "answer": "carb",
               "normalized": "carb"
             },
@@ -365282,7 +365282,7 @@
             },
             {
               "id": "5a17b254-906e-47ed-81f4-ed25c74ecf50",
-              "clue": "Thins the herd by killing",
+              "clue": "Removes weaker animals from a herd",
               "answer": "culls",
               "normalized": "culls"
             },
@@ -414771,439 +414771,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-28",
+      "key": "2026-05-29",
       "year": 2026,
       "month": 5,
-      "day": 28,
+      "day": 29,
       "small": {
-        "puzzleId": "7d09cbb6-3dcd-42ea-a2ce-dbdbf66ea528",
+        "puzzleId": "d5b2a885-8e6b-4171-8d82-5044a472e382",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "7ffbe28f-0fe8-4735-a442-599dc2bcd6ca",
+            "clue": "Some people use these whispers to fall asleep",
+            "answer": "asmr",
+            "normalized": "asmr"
+          },
+          {
+            "id": "7404e249-d548-43d0-8f12-a17176d204ef",
+            "clue": "Put away in a safe place",
+            "answer": "stow",
+            "normalized": "stow"
+          },
+          {
+            "id": "94f9174b-274e-4671-a48c-f3757bf77e6b",
+            "clue": "Relating to music made with conventional keys",
+            "answer": "tonal",
+            "normalized": "tonal"
+          },
+          {
+            "id": "7aeda9d6-e5b1-4b37-8ce9-3a26484dd5f9",
+            "clue": "From the country whose capital is Muscat",
+            "answer": "omani",
+            "normalized": "omani"
+          },
+          {
+            "id": "ae1b6796-a3e9-4d24-a2be-2640628b5d52",
+            "clue": "Rock band with electric current name",
+            "answer": "acdc",
+            "normalized": "acdc"
+          },
+          {
+            "id": "6af53700-ba93-450c-b903-cf66857822ad",
+            "clue": "A tree whose fruit is the acorn",
+            "answer": "oak",
+            "normalized": "oak"
+          },
+          {
+            "id": "f5e48bdf-bc33-48e8-bc1d-9d163a1a56b6",
+            "clue": "Regarding, in two words",
+            "answer": "as to",
+            "normalized": "asto"
+          },
+          {
+            "id": "d53d7d63-51ff-4d46-875a-a8fb90d48645",
+            "clue": "Opening in the body created by surgery",
+            "answer": "stoma",
+            "normalized": "stoma"
+          },
+          {
+            "id": "9d01ff43-aa11-4c20-a946-46e8dd598416",
+            "clue": "City state on the French Riviera",
+            "answer": "monaco",
+            "normalized": "monaco"
+          },
+          {
+            "id": "79fb6d6b-30f6-4509-926e-882321497800",
+            "clue": "Small African country, capital Kigali",
+            "answer": "rwanda",
+            "normalized": "rwanda"
+          },
+          {
+            "id": "98678e71-6ed2-4b86-ae41-6fa810670baa",
+            "clue": "Taste with the tongue",
+            "answer": "lick",
+            "normalized": "lick"
+          }
+        ],
+        "track": "PC|LenC--Y2026M5D29F0"
+      },
+      "mid": {
+        "puzzleId": "f219d885-e05a-4b1d-8ffe-01a8468c61ec",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 11,
         "answers": [
           {
-            "id": "4887bc89-c480-4f04-8943-448ca9cf3526",
-            "clue": "Johnson, writer-director of 2022 film Glass Onion",
-            "answer": "rian",
-            "normalized": "rian"
+            "id": "a8516307-8cd0-4cc8-8584-d0e78c45bb07",
+            "clue": "Summertime Sadness singer Del Rey",
+            "answer": "lana",
+            "normalized": "lana"
           },
           {
-            "id": "e31ed6be-4263-4644-b126-e3b914362c44",
-            "clue": "A sensation caused by absence of food",
-            "answer": "hunger",
-            "normalized": "hunger"
+            "id": "806d80c1-8518-4e59-bec7-1a223f7a3f9c",
+            "clue": "Do not resuscitate",
+            "answer": "dnr",
+            "normalized": "dnr"
           },
           {
-            "id": "f2d63098-78ac-485f-8e73-7b0567012d5c",
-            "clue": "Wiccan and pagan celebration of the spring equinox",
-            "answer": "ostara",
-            "normalized": "ostara"
+            "id": "de727529-19ec-4723-ae58-475c303ed643",
+            "clue": "Breakdown of food in the body",
+            "answer": "digestion",
+            "normalized": "digestion"
           },
           {
-            "id": "1e0ebcd0-2613-4098-8e1d-4b599ee8a9e4",
-            "clue": "Develop from an earlier idea or source",
-            "answer": "derive",
-            "normalized": "derive"
+            "id": "34c32424-0f6b-4917-bcad-2f45d3e28523",
+            "clue": "Adam Berg's 2022 thriller starring Noomi Rapace",
+            "answer": "black crab",
+            "normalized": "blackcrab"
           },
           {
-            "id": "18b988cd-69dc-4672-a012-9f26d30c5458",
-            "clue": "Of sound mind",
-            "answer": "sane",
-            "normalized": "sane"
+            "id": "8e01fe53-8b48-451e-b207-80650a02c96f",
+            "clue": "On the __, running from the cops",
+            "answer": "lam",
+            "normalized": "lam"
           },
           {
-            "id": "c5e580d6-127e-4d34-b72c-73f0f1d9172c",
-            "clue": "Ploys, deceptive tricks",
-            "answer": "ruses",
-            "normalized": "ruses"
+            "id": "be2b3d08-ffc2-4ead-bc78-c27d12da69f2",
+            "clue": "First name of Grampa Simpson",
+            "answer": "abe",
+            "normalized": "abe"
           },
           {
-            "id": "37ad6f93-e14b-4de9-9098-9e8fe70253d9",
-            "clue": "Prefix meaning within",
-            "answer": "intra",
-            "normalized": "intra"
+            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
+            "clue": "Possess",
+            "answer": "own",
+            "normalized": "own"
           },
           {
-            "id": "1695ae98-bf4c-492a-b85f-425e6a1219d9",
-            "clue": "Once more",
-            "answer": "again",
-            "normalized": "again"
+            "id": "5457d826-d040-4fc3-b8f1-be946de7556f",
+            "clue": "Third letter of the alphabet, spelled out",
+            "answer": "cee",
+            "normalized": "cee"
           },
           {
-            "id": "b4798f31-8117-40e8-8da9-424acc66108e",
-            "clue": "Fortitude in difficult circumstances",
-            "answer": "nerve",
-            "normalized": "nerve"
+            "id": "ea57be05-c155-48f0-a3c0-7d0f1a351412",
+            "clue": "Mobile dog grooming company in Dumb and Dumber",
+            "answer": "mutt cutts",
+            "normalized": "muttcutts"
           },
           {
-            "id": "495cf354-1897-4d7a-a25a-7a46256abec1",
-            "clue": "Used for carrying bricks over the shoulder",
-            "answer": "hod",
-            "normalized": "hod"
+            "id": "ad4f41c3-40bc-4e67-b12f-54b0a059f286",
+            "clue": "Slang for precise, exact",
+            "answer": "on the nose",
+            "normalized": "onthenose"
           },
           {
-            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
-            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
-            "answer": "rae",
-            "normalized": "rae"
+            "id": "7eae6314-67f4-4519-8995-3326ed79f65f",
+            "clue": "Steamed Chinese dumpling or bun",
+            "answer": "bao",
+            "normalized": "bao"
+          },
+          {
+            "id": "0da65ab2-0ba0-4ad7-8331-5f83d72ee65e",
+            "clue": "Forgetful friend of Nemo",
+            "answer": "dory",
+            "normalized": "dory"
+          },
+          {
+            "id": "589f5a92-ba9d-48b0-ab31-06c925b00134",
+            "clue": "Divine bliss or playful creativity in Hinduism",
+            "answer": "lila",
+            "normalized": "lila"
+          },
+          {
+            "id": "07a63d8f-824d-4180-a99c-0325b14697e3",
+            "clue": "Device used to hold the time stone, Eye of __",
+            "answer": "agamotto",
+            "normalized": "agamotto"
+          },
+          {
+            "id": "0e59b579-56c2-4de1-88a5-f7b582c5945c",
+            "clue": "Japanese firm, was Nippon Electric Company",
+            "answer": "nec",
+            "normalized": "nec"
+          },
+          {
+            "id": "e9df359e-f1fb-499d-aa96-9f002f71edc5",
+            "clue": "Looked at with side-eyes",
+            "answer": "askanced",
+            "normalized": "askanced"
+          },
+          {
+            "id": "9f56c749-0173-46d9-925b-a90c7af1d623",
+            "clue": "Manager of a school, film, production",
+            "answer": "director",
+            "normalized": "director"
+          },
+          {
+            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
+            "clue": "Net Operating Assets in business speak",
+            "answer": "noa",
+            "normalized": "noa"
+          },
+          {
+            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
+            "clue": "Popular music genre, mix of jazz, gospel, blues",
+            "answer": "rnb",
+            "normalized": "rnb"
+          },
+          {
+            "id": "bea3f0e0-128e-4257-ba00-d8d428ce75c1",
+            "clue": "Double, abbreviated",
+            "answer": "dbl",
+            "normalized": "dbl"
+          },
+          {
+            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
+            "clue": "Letters in the logo and motto of Elvis Presley",
+            "answer": "tcb",
+            "normalized": "tcb"
+          },
+          {
+            "id": "3f812fda-57ee-41a3-a966-3421843234a1",
+            "clue": "Internet slang for what the heck",
+            "answer": "wth",
+            "normalized": "wth"
+          },
+          {
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
+          },
+          {
+            "id": "fcb456c0-738f-4e70-a9ae-cd3625201867",
+            "clue": "Suffix that can follow legal, journal or Japan",
+            "answer": "ese",
+            "normalized": "ese"
+          },
+          {
+            "id": "00b98c8e-7b93-4f0b-befd-063cf0699b3f",
+            "clue": "Mafia",
+            "answer": "mob",
+            "normalized": "mob"
+          },
+          {
+            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
+            "clue": "Feminine form of one in Spanish",
+            "answer": "una",
+            "normalized": "una"
+          },
+          {
+            "id": "e2df826b-9e13-4fe8-982c-0cedcb7c4f25",
+            "clue": "Italian one",
+            "answer": "uno",
+            "normalized": "uno"
           }
         ],
-        "track": "PC|LenC--Y2026M5D28F0"
-      },
-      "mid": {
-        "puzzleId": "5a4bcc6f-58e3-4ad1-8b03-eb68dba08771",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 7,
-        "answers": [
-          {
-            "id": "3986f6e8-a964-4f2a-a396-a2774cc2424b",
-            "clue": "Tenzin Gyatso, the 14th Dalai one",
-            "answer": "lama",
-            "normalized": "lama"
-          },
-          {
-            "id": "4045e40e-8588-472c-b4b7-bfe537ca4b32",
-            "clue": "How to say I'll be right there, quickly via text",
-            "answer": "brt",
-            "normalized": "brt"
-          },
-          {
-            "id": "209077e1-81e3-4851-ac6f-68093f338a31",
-            "clue": "Giant screen movie format invented in Canada",
-            "answer": "imax",
-            "normalized": "imax"
-          },
-          {
-            "id": "d718b8ab-0299-4363-bed9-c7c92dd23abd",
-            "clue": "Promissory note",
-            "answer": "iou",
-            "normalized": "iou"
-          },
-          {
-            "id": "64fbbc12-0a51-4d88-9452-db735e041192",
-            "clue": "A recruit, someone who has joined the military",
-            "answer": "enlistee",
-            "normalized": "enlistee"
-          },
-          {
-            "id": "5afcd2b3-470b-4bc9-930c-49ff1997ab29",
-            "clue": "Overjoyed, mega-happy",
-            "answer": "elated",
-            "normalized": "elated"
-          },
-          {
-            "id": "ddf3337c-c031-4b4f-983b-5b7713c53717",
-            "clue": "Separated from other persons or things",
-            "answer": "isolated",
-            "normalized": "isolated"
-          },
-          {
-            "id": "e997985e-63e6-4851-81d8-fc6598ba92aa",
-            "clue": "For the win, in internet slang",
-            "answer": "ftw",
-            "normalized": "ftw"
-          },
-          {
-            "id": "0c7e49e8-9b3c-47bd-81e9-367ef3ebd791",
-            "clue": "Short name, alternative to Teddy",
-            "answer": "theo",
-            "normalized": "theo"
-          },
-          {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
-          },
-          {
-            "id": "011b5835-e8de-4063-81d3-465308c02eec",
-            "clue": "Wish someone a good evening in Italian, buona __",
-            "answer": "sera",
-            "normalized": "sera"
-          },
-          {
-            "id": "106684cc-02dc-48aa-817b-a6b423709431",
-            "clue": "Tell a fib",
-            "answer": "lie",
-            "normalized": "lie"
-          },
-          {
-            "id": "5aaa8b93-5e05-490d-9c00-aceffc7f4904",
-            "clue": "__ International, human rights organization",
-            "answer": "amnesty",
-            "normalized": "amnesty"
-          },
-          {
-            "id": "2901559b-e35c-4938-a277-8f555d34ca5b",
-            "clue": "Mini __, pink/white pillows to top hot chocolate",
-            "answer": "mallows",
-            "normalized": "mallows"
-          },
-          {
-            "id": "374e3531-b7f6-43c4-90d5-da4136b3658d",
-            "clue": "Rotation on a graph with X and Y lines",
-            "answer": "axial",
-            "normalized": "axial"
-          },
-          {
-            "id": "d5cf0c81-a541-42a5-b85c-6053311595f0",
-            "clue": "__ bullet; do something you've been putting off",
-            "answer": "bite the",
-            "normalized": "bitethe"
-          },
-          {
-            "id": "17e966cc-d7af-42ba-aa02-d74fcc919e89",
-            "clue": "Forest cervidae with reddish coats and white rumps",
-            "answer": "roe deer",
-            "normalized": "roedeer"
-          },
-          {
-            "id": "161ed1fe-e9db-4746-8927-dda72677ecc1",
-            "clue": "First three letters of the work week's 2nd day",
-            "answer": "tue",
-            "normalized": "tue"
-          },
-          {
-            "id": "4cff9af1-16c9-4b1e-b8ba-06243a73927e",
-            "clue": "Sports fans often obsess over this area of data",
-            "answer": "stats",
-            "normalized": "stats"
-          },
-          {
-            "id": "ab440ef1-461f-456d-97cb-7a9769318ebd",
-            "clue": "No __, ands or buts",
-            "answer": "ifs",
-            "normalized": "ifs"
-          },
-          {
-            "id": "752677ef-ada7-4c93-993f-9be0c10a1a30",
-            "clue": "Abbreviation for a lifeless incoming patient",
-            "answer": "doa",
-            "normalized": "doa"
-          }
-        ],
-        "track": "PC|LenC--Y2026M5D28F1"
+        "track": "PC|LenC--Y2026M5D29F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-28",
+      "key": "2026-05-29",
       "year": 2026,
       "month": 5,
-      "day": 28,
+      "day": 29,
       "small": {
-        "puzzleId": "7d09cbb6-3dcd-42ea-a2ce-dbdbf66ea528",
+        "puzzleId": "d5b2a885-8e6b-4171-8d82-5044a472e382",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "7ffbe28f-0fe8-4735-a442-599dc2bcd6ca",
+            "clue": "Some people use these whispers to fall asleep",
+            "answer": "asmr",
+            "normalized": "asmr"
+          },
+          {
+            "id": "7404e249-d548-43d0-8f12-a17176d204ef",
+            "clue": "Put away in a safe place",
+            "answer": "stow",
+            "normalized": "stow"
+          },
+          {
+            "id": "94f9174b-274e-4671-a48c-f3757bf77e6b",
+            "clue": "Relating to music made with conventional keys",
+            "answer": "tonal",
+            "normalized": "tonal"
+          },
+          {
+            "id": "7aeda9d6-e5b1-4b37-8ce9-3a26484dd5f9",
+            "clue": "From the country whose capital is Muscat",
+            "answer": "omani",
+            "normalized": "omani"
+          },
+          {
+            "id": "ae1b6796-a3e9-4d24-a2be-2640628b5d52",
+            "clue": "Rock band with electric current name",
+            "answer": "acdc",
+            "normalized": "acdc"
+          },
+          {
+            "id": "6af53700-ba93-450c-b903-cf66857822ad",
+            "clue": "A tree whose fruit is the acorn",
+            "answer": "oak",
+            "normalized": "oak"
+          },
+          {
+            "id": "f5e48bdf-bc33-48e8-bc1d-9d163a1a56b6",
+            "clue": "Regarding, in two words",
+            "answer": "as to",
+            "normalized": "asto"
+          },
+          {
+            "id": "d53d7d63-51ff-4d46-875a-a8fb90d48645",
+            "clue": "Opening in the body created by surgery",
+            "answer": "stoma",
+            "normalized": "stoma"
+          },
+          {
+            "id": "9d01ff43-aa11-4c20-a946-46e8dd598416",
+            "clue": "City state on the French Riviera",
+            "answer": "monaco",
+            "normalized": "monaco"
+          },
+          {
+            "id": "79fb6d6b-30f6-4509-926e-882321497800",
+            "clue": "Small African country, capital Kigali",
+            "answer": "rwanda",
+            "normalized": "rwanda"
+          },
+          {
+            "id": "98678e71-6ed2-4b86-ae41-6fa810670baa",
+            "clue": "Taste with the tongue",
+            "answer": "lick",
+            "normalized": "lick"
+          }
+        ],
+        "track": "PC|LenC--Y2026M5D29F0"
+      },
+      "mid": {
+        "puzzleId": "f219d885-e05a-4b1d-8ffe-01a8468c61ec",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 11,
         "answers": [
           {
-            "id": "4887bc89-c480-4f04-8943-448ca9cf3526",
-            "clue": "Johnson, writer-director of 2022 film Glass Onion",
-            "answer": "rian",
-            "normalized": "rian"
+            "id": "a8516307-8cd0-4cc8-8584-d0e78c45bb07",
+            "clue": "Summertime Sadness singer Del Rey",
+            "answer": "lana",
+            "normalized": "lana"
           },
           {
-            "id": "e31ed6be-4263-4644-b126-e3b914362c44",
-            "clue": "A sensation caused by absence of food",
-            "answer": "hunger",
-            "normalized": "hunger"
+            "id": "806d80c1-8518-4e59-bec7-1a223f7a3f9c",
+            "clue": "Do not resuscitate",
+            "answer": "dnr",
+            "normalized": "dnr"
           },
           {
-            "id": "f2d63098-78ac-485f-8e73-7b0567012d5c",
-            "clue": "Wiccan and pagan celebration of the spring equinox",
-            "answer": "ostara",
-            "normalized": "ostara"
+            "id": "de727529-19ec-4723-ae58-475c303ed643",
+            "clue": "Breakdown of food in the body",
+            "answer": "digestion",
+            "normalized": "digestion"
           },
           {
-            "id": "1e0ebcd0-2613-4098-8e1d-4b599ee8a9e4",
-            "clue": "Develop from an earlier idea or source",
-            "answer": "derive",
-            "normalized": "derive"
+            "id": "34c32424-0f6b-4917-bcad-2f45d3e28523",
+            "clue": "Adam Berg's 2022 thriller starring Noomi Rapace",
+            "answer": "black crab",
+            "normalized": "blackcrab"
           },
           {
-            "id": "18b988cd-69dc-4672-a012-9f26d30c5458",
-            "clue": "Of sound mind",
-            "answer": "sane",
-            "normalized": "sane"
+            "id": "8e01fe53-8b48-451e-b207-80650a02c96f",
+            "clue": "On the __, running from the cops",
+            "answer": "lam",
+            "normalized": "lam"
           },
           {
-            "id": "c5e580d6-127e-4d34-b72c-73f0f1d9172c",
-            "clue": "Ploys, deceptive tricks",
-            "answer": "ruses",
-            "normalized": "ruses"
+            "id": "be2b3d08-ffc2-4ead-bc78-c27d12da69f2",
+            "clue": "First name of Grampa Simpson",
+            "answer": "abe",
+            "normalized": "abe"
           },
           {
-            "id": "37ad6f93-e14b-4de9-9098-9e8fe70253d9",
-            "clue": "Prefix meaning within",
-            "answer": "intra",
-            "normalized": "intra"
+            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
+            "clue": "Possess",
+            "answer": "own",
+            "normalized": "own"
           },
           {
-            "id": "1695ae98-bf4c-492a-b85f-425e6a1219d9",
-            "clue": "Once more",
-            "answer": "again",
-            "normalized": "again"
+            "id": "5457d826-d040-4fc3-b8f1-be946de7556f",
+            "clue": "Third letter of the alphabet, spelled out",
+            "answer": "cee",
+            "normalized": "cee"
           },
           {
-            "id": "b4798f31-8117-40e8-8da9-424acc66108e",
-            "clue": "Fortitude in difficult circumstances",
-            "answer": "nerve",
-            "normalized": "nerve"
+            "id": "ea57be05-c155-48f0-a3c0-7d0f1a351412",
+            "clue": "Mobile dog grooming company in Dumb and Dumber",
+            "answer": "mutt cutts",
+            "normalized": "muttcutts"
           },
           {
-            "id": "495cf354-1897-4d7a-a25a-7a46256abec1",
-            "clue": "Used for carrying bricks over the shoulder",
-            "answer": "hod",
-            "normalized": "hod"
+            "id": "ad4f41c3-40bc-4e67-b12f-54b0a059f286",
+            "clue": "Slang for precise, exact",
+            "answer": "on the nose",
+            "normalized": "onthenose"
           },
           {
-            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
-            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
-            "answer": "rae",
-            "normalized": "rae"
+            "id": "7eae6314-67f4-4519-8995-3326ed79f65f",
+            "clue": "Steamed Chinese dumpling or bun",
+            "answer": "bao",
+            "normalized": "bao"
+          },
+          {
+            "id": "0da65ab2-0ba0-4ad7-8331-5f83d72ee65e",
+            "clue": "Forgetful friend of Nemo",
+            "answer": "dory",
+            "normalized": "dory"
+          },
+          {
+            "id": "589f5a92-ba9d-48b0-ab31-06c925b00134",
+            "clue": "Divine bliss or playful creativity in Hinduism",
+            "answer": "lila",
+            "normalized": "lila"
+          },
+          {
+            "id": "07a63d8f-824d-4180-a99c-0325b14697e3",
+            "clue": "Device used to hold the time stone, Eye of __",
+            "answer": "agamotto",
+            "normalized": "agamotto"
+          },
+          {
+            "id": "0e59b579-56c2-4de1-88a5-f7b582c5945c",
+            "clue": "Japanese firm, was Nippon Electric Company",
+            "answer": "nec",
+            "normalized": "nec"
+          },
+          {
+            "id": "e9df359e-f1fb-499d-aa96-9f002f71edc5",
+            "clue": "Looked at with side-eyes",
+            "answer": "askanced",
+            "normalized": "askanced"
+          },
+          {
+            "id": "9f56c749-0173-46d9-925b-a90c7af1d623",
+            "clue": "Manager of a school, film, production",
+            "answer": "director",
+            "normalized": "director"
+          },
+          {
+            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
+            "clue": "Net Operating Assets in business speak",
+            "answer": "noa",
+            "normalized": "noa"
+          },
+          {
+            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
+            "clue": "Popular music genre, mix of jazz, gospel, blues",
+            "answer": "rnb",
+            "normalized": "rnb"
+          },
+          {
+            "id": "bea3f0e0-128e-4257-ba00-d8d428ce75c1",
+            "clue": "Double, abbreviated",
+            "answer": "dbl",
+            "normalized": "dbl"
+          },
+          {
+            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
+            "clue": "Letters in the logo and motto of Elvis Presley",
+            "answer": "tcb",
+            "normalized": "tcb"
+          },
+          {
+            "id": "3f812fda-57ee-41a3-a966-3421843234a1",
+            "clue": "Internet slang for what the heck",
+            "answer": "wth",
+            "normalized": "wth"
+          },
+          {
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
+          },
+          {
+            "id": "fcb456c0-738f-4e70-a9ae-cd3625201867",
+            "clue": "Suffix that can follow legal, journal or Japan",
+            "answer": "ese",
+            "normalized": "ese"
+          },
+          {
+            "id": "00b98c8e-7b93-4f0b-befd-063cf0699b3f",
+            "clue": "Mafia",
+            "answer": "mob",
+            "normalized": "mob"
+          },
+          {
+            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
+            "clue": "Feminine form of one in Spanish",
+            "answer": "una",
+            "normalized": "una"
+          },
+          {
+            "id": "e2df826b-9e13-4fe8-982c-0cedcb7c4f25",
+            "clue": "Italian one",
+            "answer": "uno",
+            "normalized": "uno"
           }
         ],
-        "track": "PC|LenC--Y2026M5D28F0"
-      },
-      "mid": {
-        "puzzleId": "5a4bcc6f-58e3-4ad1-8b03-eb68dba08771",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 7,
-        "answers": [
-          {
-            "id": "3986f6e8-a964-4f2a-a396-a2774cc2424b",
-            "clue": "Tenzin Gyatso, the 14th Dalai one",
-            "answer": "lama",
-            "normalized": "lama"
-          },
-          {
-            "id": "4045e40e-8588-472c-b4b7-bfe537ca4b32",
-            "clue": "How to say I'll be right there, quickly via text",
-            "answer": "brt",
-            "normalized": "brt"
-          },
-          {
-            "id": "209077e1-81e3-4851-ac6f-68093f338a31",
-            "clue": "Giant screen movie format invented in Canada",
-            "answer": "imax",
-            "normalized": "imax"
-          },
-          {
-            "id": "d718b8ab-0299-4363-bed9-c7c92dd23abd",
-            "clue": "Promissory note",
-            "answer": "iou",
-            "normalized": "iou"
-          },
-          {
-            "id": "64fbbc12-0a51-4d88-9452-db735e041192",
-            "clue": "A recruit, someone who has joined the military",
-            "answer": "enlistee",
-            "normalized": "enlistee"
-          },
-          {
-            "id": "5afcd2b3-470b-4bc9-930c-49ff1997ab29",
-            "clue": "Overjoyed, mega-happy",
-            "answer": "elated",
-            "normalized": "elated"
-          },
-          {
-            "id": "ddf3337c-c031-4b4f-983b-5b7713c53717",
-            "clue": "Separated from other persons or things",
-            "answer": "isolated",
-            "normalized": "isolated"
-          },
-          {
-            "id": "e997985e-63e6-4851-81d8-fc6598ba92aa",
-            "clue": "For the win, in internet slang",
-            "answer": "ftw",
-            "normalized": "ftw"
-          },
-          {
-            "id": "0c7e49e8-9b3c-47bd-81e9-367ef3ebd791",
-            "clue": "Short name, alternative to Teddy",
-            "answer": "theo",
-            "normalized": "theo"
-          },
-          {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
-          },
-          {
-            "id": "011b5835-e8de-4063-81d3-465308c02eec",
-            "clue": "Wish someone a good evening in Italian, buona __",
-            "answer": "sera",
-            "normalized": "sera"
-          },
-          {
-            "id": "106684cc-02dc-48aa-817b-a6b423709431",
-            "clue": "Tell a fib",
-            "answer": "lie",
-            "normalized": "lie"
-          },
-          {
-            "id": "5aaa8b93-5e05-490d-9c00-aceffc7f4904",
-            "clue": "__ International, human rights organization",
-            "answer": "amnesty",
-            "normalized": "amnesty"
-          },
-          {
-            "id": "2901559b-e35c-4938-a277-8f555d34ca5b",
-            "clue": "Mini __, pink/white pillows to top hot chocolate",
-            "answer": "mallows",
-            "normalized": "mallows"
-          },
-          {
-            "id": "374e3531-b7f6-43c4-90d5-da4136b3658d",
-            "clue": "Rotation on a graph with X and Y lines",
-            "answer": "axial",
-            "normalized": "axial"
-          },
-          {
-            "id": "d5cf0c81-a541-42a5-b85c-6053311595f0",
-            "clue": "__ bullet; do something you've been putting off",
-            "answer": "bite the",
-            "normalized": "bitethe"
-          },
-          {
-            "id": "17e966cc-d7af-42ba-aa02-d74fcc919e89",
-            "clue": "Forest cervidae with reddish coats and white rumps",
-            "answer": "roe deer",
-            "normalized": "roedeer"
-          },
-          {
-            "id": "161ed1fe-e9db-4746-8927-dda72677ecc1",
-            "clue": "First three letters of the work week's 2nd day",
-            "answer": "tue",
-            "normalized": "tue"
-          },
-          {
-            "id": "4cff9af1-16c9-4b1e-b8ba-06243a73927e",
-            "clue": "Sports fans often obsess over this area of data",
-            "answer": "stats",
-            "normalized": "stats"
-          },
-          {
-            "id": "ab440ef1-461f-456d-97cb-7a9769318ebd",
-            "clue": "No __, ands or buts",
-            "answer": "ifs",
-            "normalized": "ifs"
-          },
-          {
-            "id": "752677ef-ada7-4c93-993f-9be0c10a1a30",
-            "clue": "Abbreviation for a lifeless incoming patient",
-            "answer": "doa",
-            "normalized": "doa"
-          }
-        ],
-        "track": "PC|LenC--Y2026M5D28F1"
+        "track": "PC|LenC--Y2026M5D29F1"
       }
     },
     "latestAvailableEntry": {
@@ -415451,21 +415523,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "qYmwkfNcdXldC2+K1P+tM+BKiYrH9EapkfZq44ku7Owa58f7hQ409A6ltoAsndb4K30jFLfQkOstKbEPYLJMsMeA2iMLVq2R/+ka23GWBbPyUFGs4AXHGqPmZCwnIGlha9iyma7+uRd2Dv+Avbd9hwp84v4inSR4RuG7F4SaedrNIFZsQXu+x0pgF+gz3U4WNdyKmrCJ0E4VwrD1mTGgKa68pLO26rkmgUuYIfKIfVw3kHZd68u7XQKrZEF7noE8+DjpnVSgrjN9XLvtc7y7A32IwiolM7JlWkWXaMJnY7c="
+        "7kcf8uF1eWiNaGenCri6ls8HBZ5aS0IF5GeJ/TTMkhupzM9/c2KCfmtFFk0yxwuSgTABucRh/LAZuBgOgQLV7wJxEP+AS3KC4FHvCL3Vuk6WT5TWsFPiKFrdbQ40GNNe9YLiyeyx4glgGeNjNC9JqO+aC72Gidrhg+La1X0Pi0osOwQf2Sl4Z5kNOAQOry711+9GtkeMTob7+Ko+dcdv+1AJkIzHyS7T/AUHlq3BIDJ+7ahZ7W/HlCoBvnSNC1qSqTmx+BvCBqtdOtxXMHyID+q1IMpXq1h9WaEzSy1lyNs="
       ]
     },
     "decrypted": {
-      "Id": "7117d849-1f21-42aa-9666-ad1dbe8d88b0",
-      "Date": "2026-05-28T00:00:00Z",
+      "Id": "a79c0850-5963-4ce0-a203-dbaf45deee7a",
+      "Date": "2026-05-29T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "place",
-      "NormalizedPassword": "place",
+      "Password": "toxic",
+      "NormalizedPassword": "toxic",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-28T02:01:53.5610000+05:30",
-    "hash": "4e24b46d50e0b96acf2e979ab046335c",
+    "dtu": "2026-05-29T02:11:07.0230000+05:30",
+    "hash": "2fa51767e18324023ccdc6e826df5611",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
