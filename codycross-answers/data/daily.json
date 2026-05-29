@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-28T20:41:07.023Z",
+  "generatedAt": "2026-05-29T20:40:41.359Z",
   "today": {
     "year": 2026,
     "month": 5,
-    "day": 29
+    "day": 30
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 53
+        "QuantidadeDeFases": 55
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -4049,7 +4049,7 @@
             },
             {
               "id": "064c59e1-29f9-44d0-b6a0-6121aec2b5a3",
-              "clue": "German supermarket",
+              "clue": "German supermarket chain",
               "answer": "aldi",
               "normalized": "aldi"
             },
@@ -10268,7 +10268,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -13878,7 +13878,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -13948,7 +13948,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -26403,7 +26403,7 @@
             },
             {
               "id": "064c59e1-29f9-44d0-b6a0-6121aec2b5a3",
-              "clue": "German supermarket",
+              "clue": "German supermarket chain",
               "answer": "aldi",
               "normalized": "aldi"
             },
@@ -36851,7 +36851,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             }
@@ -41120,7 +41120,7 @@
             },
             {
               "id": "064c59e1-29f9-44d0-b6a0-6121aec2b5a3",
-              "clue": "German supermarket",
+              "clue": "German supermarket chain",
               "answer": "aldi",
               "normalized": "aldi"
             },
@@ -45860,7 +45860,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -60434,7 +60434,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -63970,7 +63970,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -71868,7 +71868,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -72924,7 +72924,7 @@
           "answers": [
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -77995,7 +77995,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -80235,7 +80235,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -82571,7 +82571,7 @@
             },
             {
               "id": "4fdadab7-544a-4769-978c-9ad61d7b037a",
-              "clue": "Power to move quickly, easily, nimbly",
+              "clue": "Ability to move quickly, easily, nimbly",
               "answer": "agility",
               "normalized": "agility"
             },
@@ -88227,7 +88227,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -98600,7 +98600,7 @@
             },
             {
               "id": "5d3c9a56-5a44-4b28-8d21-5a2160ec8c91",
-              "clue": "Ruler of the Persian Empire",
+              "clue": "The title for the ruler in the Persian Empire",
               "answer": "shah",
               "normalized": "shah"
             },
@@ -98702,7 +98702,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -115628,7 +115628,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -121054,7 +121054,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -121514,7 +121514,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -127704,7 +127704,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -132905,7 +132905,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -133059,7 +133059,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -136757,7 +136757,7 @@
             },
             {
               "id": "4fdadab7-544a-4769-978c-9ad61d7b037a",
-              "clue": "Power to move quickly, easily, nimbly",
+              "clue": "Ability to move quickly, easily, nimbly",
               "answer": "agility",
               "normalized": "agility"
             },
@@ -141932,7 +141932,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -147365,7 +147365,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -148743,7 +148743,7 @@
             },
             {
               "id": "4fdadab7-544a-4769-978c-9ad61d7b037a",
-              "clue": "Power to move quickly, easily, nimbly",
+              "clue": "Ability to move quickly, easily, nimbly",
               "answer": "agility",
               "normalized": "agility"
             },
@@ -151421,7 +151421,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -154590,7 +154590,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -155092,7 +155092,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -160068,7 +160068,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -163062,7 +163062,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -170344,7 +170344,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -175739,7 +175739,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -188487,7 +188487,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -194383,7 +194383,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             }
@@ -206943,7 +206943,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -209626,7 +209626,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             }
@@ -213080,7 +213080,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -214266,7 +214266,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -221356,7 +221356,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -230511,7 +230511,7 @@
             },
             {
               "id": "cf488c69-2966-4012-9539-5a1138860f39",
-              "clue": "British metal-tipped ballpoint pen",
+              "clue": "British word for ballpoint pen",
               "answer": "biro",
               "normalized": "biro"
             },
@@ -232075,7 +232075,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -233317,7 +233317,7 @@
             },
             {
               "id": "5d3c9a56-5a44-4b28-8d21-5a2160ec8c91",
-              "clue": "Ruler of the Persian Empire",
+              "clue": "The title for the ruler in the Persian Empire",
               "answer": "shah",
               "normalized": "shah"
             },
@@ -235179,7 +235179,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -237583,7 +237583,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -241899,7 +241899,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -250233,7 +250233,7 @@
           "answers": [
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -250875,7 +250875,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -255789,7 +255789,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -256867,7 +256867,7 @@
             },
             {
               "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-              "clue": "Initialism for short term memory",
+              "clue": "Initialism for short-term memory",
               "answer": "stm",
               "normalized": "stm"
             },
@@ -261758,7 +261758,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -268765,7 +268765,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -271382,7 +271382,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -278165,7 +278165,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -284110,7 +284110,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -296259,7 +296259,7 @@
             },
             {
               "id": "064c59e1-29f9-44d0-b6a0-6121aec2b5a3",
-              "clue": "German supermarket",
+              "clue": "German supermarket chain",
               "answer": "aldi",
               "normalized": "aldi"
             },
@@ -298914,7 +298914,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -300010,7 +300010,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -303716,7 +303716,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -303970,7 +303970,7 @@
             },
             {
               "id": "f5d70c7b-68b4-462d-8dbc-148490767994",
-              "clue": "Zaps with a taser",
+              "clue": "Shocks into stillness",
               "answer": "stuns",
               "normalized": "stuns"
             },
@@ -306505,7 +306505,7 @@
             },
             {
               "id": "064c59e1-29f9-44d0-b6a0-6121aec2b5a3",
-              "clue": "German supermarket",
+              "clue": "German supermarket chain",
               "answer": "aldi",
               "normalized": "aldi"
             },
@@ -317823,7 +317823,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -320444,7 +320444,7 @@
             },
             {
               "id": "b3f42985-3d52-4f83-ada0-ae93b332a23f",
-              "clue": "Fruits from this tree often flavor soft drinks",
+              "clue": "Soft drink flavored by a west African tree",
               "answer": "cola",
               "normalized": "cola"
             },
@@ -321510,7 +321510,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -331751,7 +331751,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -337901,7 +337901,7 @@
             },
             {
               "id": "5d3c9a56-5a44-4b28-8d21-5a2160ec8c91",
-              "clue": "Ruler of the Persian Empire",
+              "clue": "The title for the ruler in the Persian Empire",
               "answer": "shah",
               "normalized": "shah"
             },
@@ -337931,7 +337931,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -352880,7 +352880,7 @@
             },
             {
               "id": "064c59e1-29f9-44d0-b6a0-6121aec2b5a3",
-              "clue": "German supermarket",
+              "clue": "German supermarket chain",
               "answer": "aldi",
               "normalized": "aldi"
             },
@@ -361748,7 +361748,7 @@
             },
             {
               "id": "4fdadab7-544a-4769-978c-9ad61d7b037a",
-              "clue": "Power to move quickly, easily, nimbly",
+              "clue": "Ability to move quickly, easily, nimbly",
               "answer": "agility",
               "normalized": "agility"
             },
@@ -369637,7 +369637,7 @@
             },
             {
               "id": "03ad7bbf-4c13-4e2b-8599-883f3cde1069",
-              "clue": "ISO code for the dirham of United Arab Emirates",
+              "clue": "ISO code for the United Arab Emirates dirham",
               "answer": "aed",
               "normalized": "aed"
             },
@@ -380145,7 +380145,7 @@
             },
             {
               "id": "4fdadab7-544a-4769-978c-9ad61d7b037a",
-              "clue": "Power to move quickly, easily, nimbly",
+              "clue": "Ability to move quickly, easily, nimbly",
               "answer": "agility",
               "normalized": "agility"
             },
@@ -395513,7 +395513,7 @@
             },
             {
               "id": "7cc06cc7-b53e-4267-826b-7e03563e2319",
-              "clue": "To meet the band after a concert; back stage __",
+              "clue": "Meet the band after a concert, back stage __",
               "answer": "access",
               "normalized": "access"
             },
@@ -396355,7 +396355,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -401590,7 +401590,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -414771,511 +414771,451 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-29",
+      "key": "2026-05-30",
       "year": 2026,
       "month": 5,
-      "day": 29,
+      "day": 30,
       "small": {
-        "puzzleId": "d5b2a885-8e6b-4171-8d82-5044a472e382",
+        "puzzleId": "bac0793e-9173-4cfc-b985-8a6e47d2157d",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 8,
         "answers": [
           {
-            "id": "7ffbe28f-0fe8-4735-a442-599dc2bcd6ca",
-            "clue": "Some people use these whispers to fall asleep",
-            "answer": "asmr",
-            "normalized": "asmr"
+            "id": "7b2be154-4312-4d24-936c-0bf35dc94134",
+            "clue": "Thin French pancake",
+            "answer": "crepe",
+            "normalized": "crepe"
           },
           {
-            "id": "7404e249-d548-43d0-8f12-a17176d204ef",
-            "clue": "Put away in a safe place",
-            "answer": "stow",
-            "normalized": "stow"
+            "id": "4e4cd2ec-dc7e-4433-b00e-7b89117b0b3a",
+            "clue": "Ira __, author of Rosemary's Baby",
+            "answer": "levin",
+            "normalized": "levin"
           },
           {
-            "id": "94f9174b-274e-4671-a48c-f3757bf77e6b",
-            "clue": "Relating to music made with conventional keys",
-            "answer": "tonal",
-            "normalized": "tonal"
+            "id": "b3a57e42-c494-4671-94a4-3331afb26855",
+            "clue": "Six balls bowled in cricket, plural",
+            "answer": "overs",
+            "normalized": "overs"
           },
           {
-            "id": "7aeda9d6-e5b1-4b37-8ce9-3a26484dd5f9",
-            "clue": "From the country whose capital is Muscat",
-            "answer": "omani",
-            "normalized": "omani"
+            "id": "0bbf6337-835a-447f-8f7e-946cbbe7ae24",
+            "clue": "Broadcasting live",
+            "answer": "on air",
+            "normalized": "onair"
           },
           {
-            "id": "ae1b6796-a3e9-4d24-a2be-2640628b5d52",
-            "clue": "Rock band with electric current name",
-            "answer": "acdc",
-            "normalized": "acdc"
+            "id": "6f7d1af8-49b9-4fc1-ae55-095afb493791",
+            "clue": "Instruction to someone to release their grip",
+            "answer": "let go",
+            "normalized": "letgo"
           },
           {
-            "id": "6af53700-ba93-450c-b903-cf66857822ad",
-            "clue": "A tree whose fruit is the acorn",
-            "answer": "oak",
-            "normalized": "oak"
+            "id": "e5c82918-47e4-480f-8709-05cd1e0d88da",
+            "clue": "Beehive hairdos were one in the 1960s",
+            "answer": "trend",
+            "normalized": "trend"
           },
           {
-            "id": "f5e48bdf-bc33-48e8-bc1d-9d163a1a56b6",
-            "clue": "Regarding, in two words",
-            "answer": "as to",
-            "normalized": "asto"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "d53d7d63-51ff-4d46-875a-a8fb90d48645",
-            "clue": "Opening in the body created by surgery",
-            "answer": "stoma",
-            "normalized": "stoma"
+            "id": "bf812d5f-87d5-4de7-a3b2-4bf1e7010a48",
+            "clue": "To riot or rise in rebellion",
+            "answer": "revolt",
+            "normalized": "revolt"
           },
           {
-            "id": "9d01ff43-aa11-4c20-a946-46e8dd598416",
-            "clue": "City state on the French Riviera",
-            "answer": "monaco",
-            "normalized": "monaco"
+            "id": "6bfa3405-b99c-45f6-bf34-cde28694b67b",
+            "clue": "More flat",
+            "answer": "evener",
+            "normalized": "evener"
           },
           {
-            "id": "79fb6d6b-30f6-4509-926e-882321497800",
-            "clue": "Small African country, capital Kigali",
-            "answer": "rwanda",
-            "normalized": "rwanda"
+            "id": "49a5c664-e4fa-47d8-ab5e-b6561201d2c6",
+            "clue": "Lawless buccaneer who buries treasure",
+            "answer": "pirate",
+            "normalized": "pirate"
           },
           {
-            "id": "98678e71-6ed2-4b86-ae41-6fa810670baa",
-            "clue": "Taste with the tongue",
-            "answer": "lick",
-            "normalized": "lick"
+            "id": "03b876c6-3350-4073-afab-7d2327492299",
+            "clue": "National identity flag flown on a ship",
+            "answer": "ensign",
+            "normalized": "ensign"
+          },
+          {
+            "id": "b34a2313-3733-400f-a348-e48e478cfcd9",
+            "clue": "Stick for fishing",
+            "answer": "rod",
+            "normalized": "rod"
           }
         ],
-        "track": "PC|LenC--Y2026M5D29F0"
+        "track": "PC|LenC--Y2026M5D30F0"
       },
       "mid": {
-        "puzzleId": "f219d885-e05a-4b1d-8ffe-01a8468c61ec",
+        "puzzleId": "c078c318-88cf-441f-ae46-cf439bff7375",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 11,
+        "version": 3,
         "answers": [
           {
-            "id": "a8516307-8cd0-4cc8-8584-d0e78c45bb07",
-            "clue": "Summertime Sadness singer Del Rey",
-            "answer": "lana",
-            "normalized": "lana"
+            "id": "be44ad30-fa9e-4e20-afc7-2848e8206772",
+            "clue": "According to The Jackson 5, this is as easy as 123",
+            "answer": "abc",
+            "normalized": "abc"
           },
           {
-            "id": "806d80c1-8518-4e59-bec7-1a223f7a3f9c",
-            "clue": "Do not resuscitate",
-            "answer": "dnr",
-            "normalized": "dnr"
+            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+            "clue": "Acronym for a UN Sustainable Development Goal",
+            "answer": "sdg",
+            "normalized": "sdg"
           },
           {
-            "id": "de727529-19ec-4723-ae58-475c303ed643",
-            "clue": "Breakdown of food in the body",
-            "answer": "digestion",
-            "normalized": "digestion"
+            "id": "2dfacf93-265a-4211-9232-86cc2ef19543",
+            "clue": "Military operations between enemies",
+            "answer": "warfare",
+            "normalized": "warfare"
           },
           {
-            "id": "34c32424-0f6b-4917-bcad-2f45d3e28523",
-            "clue": "Adam Berg's 2022 thriller starring Noomi Rapace",
-            "answer": "black crab",
-            "normalized": "blackcrab"
+            "id": "f86c98fb-1d91-4608-89d9-ff1a98026930",
+            "clue": "Never-ending",
+            "answer": "eternal",
+            "normalized": "eternal"
           },
           {
-            "id": "8e01fe53-8b48-451e-b207-80650a02c96f",
-            "clue": "On the __, running from the cops",
-            "answer": "lam",
-            "normalized": "lam"
+            "id": "9646f5d7-61b9-4527-b7f3-ba11be4c359b",
+            "clue": "Female relatives, sisters of parents",
+            "answer": "aunts",
+            "normalized": "aunts"
           },
           {
-            "id": "be2b3d08-ffc2-4ead-bc78-c27d12da69f2",
-            "clue": "First name of Grampa Simpson",
-            "answer": "abe",
-            "normalized": "abe"
+            "id": "5f61b12f-0365-4134-ba8f-c5e9ae5f6446",
+            "clue": "Cute nickname for a cat",
+            "answer": "kitty",
+            "normalized": "kitty"
           },
           {
-            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
-            "clue": "Possess",
-            "answer": "own",
-            "normalized": "own"
+            "id": "1c6a28d1-2a0f-4fed-b71a-4fe482064a72",
+            "clue": "To copy what someone else is doing",
+            "answer": "imitate",
+            "normalized": "imitate"
           },
           {
-            "id": "5457d826-d040-4fc3-b8f1-be946de7556f",
-            "clue": "Third letter of the alphabet, spelled out",
-            "answer": "cee",
-            "normalized": "cee"
+            "id": "450bb512-0387-4b96-81fc-650fd8defc5b",
+            "clue": "This person may be a counselor, mentor, consultant",
+            "answer": "adviser",
+            "normalized": "adviser"
           },
           {
-            "id": "ea57be05-c155-48f0-a3c0-7d0f1a351412",
-            "clue": "Mobile dog grooming company in Dumb and Dumber",
-            "answer": "mutt cutts",
-            "normalized": "muttcutts"
+            "id": "c9b6f3d3-7ac4-4a1c-8312-b2e4da3a8396",
+            "clue": "Lowest award of the Order of the British Empire",
+            "answer": "mbe",
+            "normalized": "mbe"
           },
           {
-            "id": "ad4f41c3-40bc-4e67-b12f-54b0a059f286",
-            "clue": "Slang for precise, exact",
-            "answer": "on the nose",
-            "normalized": "onthenose"
+            "id": "85033b97-e925-48e2-af0e-425574af381a",
+            "clue": "Serbian tennis player, __ Ivanovic",
+            "answer": "ana",
+            "normalized": "ana"
           },
           {
-            "id": "7eae6314-67f4-4519-8995-3326ed79f65f",
-            "clue": "Steamed Chinese dumpling or bun",
-            "answer": "bao",
-            "normalized": "bao"
+            "id": "8852d1fd-049c-4a3b-b44c-716910d99900",
+            "clue": "Shock and __",
+            "answer": "awe",
+            "normalized": "awe"
           },
           {
-            "id": "0da65ab2-0ba0-4ad7-8331-5f83d72ee65e",
-            "clue": "Forgetful friend of Nemo",
-            "answer": "dory",
-            "normalized": "dory"
+            "id": "82e0298f-c6b7-4674-8226-7c9af4e39807",
+            "clue": "Vampiric animal",
+            "answer": "bat",
+            "normalized": "bat"
           },
           {
-            "id": "589f5a92-ba9d-48b0-ab31-06c925b00134",
-            "clue": "Divine bliss or playful creativity in Hinduism",
-            "answer": "lila",
-            "normalized": "lila"
+            "id": "c0101bb3-f21d-4253-bf0c-8df7864348ca",
+            "clue": "Inventive and artistic",
+            "answer": "creative",
+            "normalized": "creative"
           },
           {
-            "id": "07a63d8f-824d-4180-a99c-0325b14697e3",
-            "clue": "Device used to hold the time stone, Eye of __",
-            "answer": "agamotto",
-            "normalized": "agamotto"
+            "id": "11033878-3a20-4e82-9cd2-ef56fd225416",
+            "clue": "Hindu final stage of the ashramas, renunciation",
+            "answer": "sannyasa",
+            "normalized": "sannyasa"
           },
           {
-            "id": "0e59b579-56c2-4de1-88a5-f7b582c5945c",
-            "clue": "Japanese firm, was Nippon Electric Company",
-            "answer": "nec",
-            "normalized": "nec"
+            "id": "3531b85f-a547-4ea8-a9a2-02c558a955fe",
+            "clue": "\"Dang\" or \"darn\" alternative",
+            "answer": "drat",
+            "normalized": "drat"
           },
           {
-            "id": "e9df359e-f1fb-499d-aa96-9f002f71edc5",
-            "clue": "Looked at with side-eyes",
-            "answer": "askanced",
-            "normalized": "askanced"
+            "id": "1c289263-ce97-4309-864e-28e3a3e79bb5",
+            "clue": "Hair stiffening substances",
+            "answer": "gels",
+            "normalized": "gels"
           },
           {
-            "id": "9f56c749-0173-46d9-925b-a90c7af1d623",
-            "clue": "Manager of a school, film, production",
-            "answer": "director",
-            "normalized": "director"
+            "id": "8560e734-2a2c-491d-9011-6b0fedd9679c",
+            "clue": "Little Richard's preferred ice cream, Tutti __",
+            "answer": "frutti",
+            "normalized": "frutti"
           },
           {
-            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
-            "clue": "Net Operating Assets in business speak",
-            "answer": "noa",
-            "normalized": "noa"
+            "id": "be133aa5-746c-4f9f-bbb9-638bea2088e9",
+            "clue": "Entrepreneur and Remington spokesman, Victor",
+            "answer": "kiam",
+            "normalized": "kiam"
           },
           {
-            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
-            "clue": "Popular music genre, mix of jazz, gospel, blues",
-            "answer": "rnb",
-            "normalized": "rnb"
+            "id": "d68901bf-09b4-4fa7-bf8b-3e36943d47f6",
+            "clue": "Online resource with details of movies and actors",
+            "answer": "imdb",
+            "normalized": "imdb"
           },
           {
-            "id": "bea3f0e0-128e-4257-ba00-d8d428ce75c1",
-            "clue": "Double, abbreviated",
-            "answer": "dbl",
-            "normalized": "dbl"
+            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
+            "clue": "The number of toes most people have",
+            "answer": "ten",
+            "normalized": "ten"
           },
           {
-            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
-            "clue": "Letters in the logo and motto of Elvis Presley",
-            "answer": "tcb",
-            "normalized": "tcb"
-          },
-          {
-            "id": "3f812fda-57ee-41a3-a966-3421843234a1",
-            "clue": "Internet slang for what the heck",
-            "answer": "wth",
-            "normalized": "wth"
-          },
-          {
-            "id": "0be5f02d-7636-4089-884f-1210fc340142",
-            "clue": "Online selling platform for creative goods",
-            "answer": "etsy",
-            "normalized": "etsy"
-          },
-          {
-            "id": "fcb456c0-738f-4e70-a9ae-cd3625201867",
-            "clue": "Suffix that can follow legal, journal or Japan",
-            "answer": "ese",
-            "normalized": "ese"
-          },
-          {
-            "id": "00b98c8e-7b93-4f0b-befd-063cf0699b3f",
-            "clue": "Mafia",
-            "answer": "mob",
-            "normalized": "mob"
-          },
-          {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
-          },
-          {
-            "id": "e2df826b-9e13-4fe8-982c-0cedcb7c4f25",
-            "clue": "Italian one",
-            "answer": "uno",
-            "normalized": "uno"
+            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
+            "clue": "Distinct stage in history or evolution",
+            "answer": "era",
+            "normalized": "era"
           }
         ],
-        "track": "PC|LenC--Y2026M5D29F1"
+        "track": "PC|LenC--Y2026M5D30F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-29",
+      "key": "2026-05-30",
       "year": 2026,
       "month": 5,
-      "day": 29,
+      "day": 30,
       "small": {
-        "puzzleId": "d5b2a885-8e6b-4171-8d82-5044a472e382",
+        "puzzleId": "bac0793e-9173-4cfc-b985-8a6e47d2157d",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 8,
         "answers": [
           {
-            "id": "7ffbe28f-0fe8-4735-a442-599dc2bcd6ca",
-            "clue": "Some people use these whispers to fall asleep",
-            "answer": "asmr",
-            "normalized": "asmr"
+            "id": "7b2be154-4312-4d24-936c-0bf35dc94134",
+            "clue": "Thin French pancake",
+            "answer": "crepe",
+            "normalized": "crepe"
           },
           {
-            "id": "7404e249-d548-43d0-8f12-a17176d204ef",
-            "clue": "Put away in a safe place",
-            "answer": "stow",
-            "normalized": "stow"
+            "id": "4e4cd2ec-dc7e-4433-b00e-7b89117b0b3a",
+            "clue": "Ira __, author of Rosemary's Baby",
+            "answer": "levin",
+            "normalized": "levin"
           },
           {
-            "id": "94f9174b-274e-4671-a48c-f3757bf77e6b",
-            "clue": "Relating to music made with conventional keys",
-            "answer": "tonal",
-            "normalized": "tonal"
+            "id": "b3a57e42-c494-4671-94a4-3331afb26855",
+            "clue": "Six balls bowled in cricket, plural",
+            "answer": "overs",
+            "normalized": "overs"
           },
           {
-            "id": "7aeda9d6-e5b1-4b37-8ce9-3a26484dd5f9",
-            "clue": "From the country whose capital is Muscat",
-            "answer": "omani",
-            "normalized": "omani"
+            "id": "0bbf6337-835a-447f-8f7e-946cbbe7ae24",
+            "clue": "Broadcasting live",
+            "answer": "on air",
+            "normalized": "onair"
           },
           {
-            "id": "ae1b6796-a3e9-4d24-a2be-2640628b5d52",
-            "clue": "Rock band with electric current name",
-            "answer": "acdc",
-            "normalized": "acdc"
+            "id": "6f7d1af8-49b9-4fc1-ae55-095afb493791",
+            "clue": "Instruction to someone to release their grip",
+            "answer": "let go",
+            "normalized": "letgo"
           },
           {
-            "id": "6af53700-ba93-450c-b903-cf66857822ad",
-            "clue": "A tree whose fruit is the acorn",
-            "answer": "oak",
-            "normalized": "oak"
+            "id": "e5c82918-47e4-480f-8709-05cd1e0d88da",
+            "clue": "Beehive hairdos were one in the 1960s",
+            "answer": "trend",
+            "normalized": "trend"
           },
           {
-            "id": "f5e48bdf-bc33-48e8-bc1d-9d163a1a56b6",
-            "clue": "Regarding, in two words",
-            "answer": "as to",
-            "normalized": "asto"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "d53d7d63-51ff-4d46-875a-a8fb90d48645",
-            "clue": "Opening in the body created by surgery",
-            "answer": "stoma",
-            "normalized": "stoma"
+            "id": "bf812d5f-87d5-4de7-a3b2-4bf1e7010a48",
+            "clue": "To riot or rise in rebellion",
+            "answer": "revolt",
+            "normalized": "revolt"
           },
           {
-            "id": "9d01ff43-aa11-4c20-a946-46e8dd598416",
-            "clue": "City state on the French Riviera",
-            "answer": "monaco",
-            "normalized": "monaco"
+            "id": "6bfa3405-b99c-45f6-bf34-cde28694b67b",
+            "clue": "More flat",
+            "answer": "evener",
+            "normalized": "evener"
           },
           {
-            "id": "79fb6d6b-30f6-4509-926e-882321497800",
-            "clue": "Small African country, capital Kigali",
-            "answer": "rwanda",
-            "normalized": "rwanda"
+            "id": "49a5c664-e4fa-47d8-ab5e-b6561201d2c6",
+            "clue": "Lawless buccaneer who buries treasure",
+            "answer": "pirate",
+            "normalized": "pirate"
           },
           {
-            "id": "98678e71-6ed2-4b86-ae41-6fa810670baa",
-            "clue": "Taste with the tongue",
-            "answer": "lick",
-            "normalized": "lick"
+            "id": "03b876c6-3350-4073-afab-7d2327492299",
+            "clue": "National identity flag flown on a ship",
+            "answer": "ensign",
+            "normalized": "ensign"
+          },
+          {
+            "id": "b34a2313-3733-400f-a348-e48e478cfcd9",
+            "clue": "Stick for fishing",
+            "answer": "rod",
+            "normalized": "rod"
           }
         ],
-        "track": "PC|LenC--Y2026M5D29F0"
+        "track": "PC|LenC--Y2026M5D30F0"
       },
       "mid": {
-        "puzzleId": "f219d885-e05a-4b1d-8ffe-01a8468c61ec",
+        "puzzleId": "c078c318-88cf-441f-ae46-cf439bff7375",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 11,
+        "version": 3,
         "answers": [
           {
-            "id": "a8516307-8cd0-4cc8-8584-d0e78c45bb07",
-            "clue": "Summertime Sadness singer Del Rey",
-            "answer": "lana",
-            "normalized": "lana"
+            "id": "be44ad30-fa9e-4e20-afc7-2848e8206772",
+            "clue": "According to The Jackson 5, this is as easy as 123",
+            "answer": "abc",
+            "normalized": "abc"
           },
           {
-            "id": "806d80c1-8518-4e59-bec7-1a223f7a3f9c",
-            "clue": "Do not resuscitate",
-            "answer": "dnr",
-            "normalized": "dnr"
+            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+            "clue": "Acronym for a UN Sustainable Development Goal",
+            "answer": "sdg",
+            "normalized": "sdg"
           },
           {
-            "id": "de727529-19ec-4723-ae58-475c303ed643",
-            "clue": "Breakdown of food in the body",
-            "answer": "digestion",
-            "normalized": "digestion"
+            "id": "2dfacf93-265a-4211-9232-86cc2ef19543",
+            "clue": "Military operations between enemies",
+            "answer": "warfare",
+            "normalized": "warfare"
           },
           {
-            "id": "34c32424-0f6b-4917-bcad-2f45d3e28523",
-            "clue": "Adam Berg's 2022 thriller starring Noomi Rapace",
-            "answer": "black crab",
-            "normalized": "blackcrab"
+            "id": "f86c98fb-1d91-4608-89d9-ff1a98026930",
+            "clue": "Never-ending",
+            "answer": "eternal",
+            "normalized": "eternal"
           },
           {
-            "id": "8e01fe53-8b48-451e-b207-80650a02c96f",
-            "clue": "On the __, running from the cops",
-            "answer": "lam",
-            "normalized": "lam"
+            "id": "9646f5d7-61b9-4527-b7f3-ba11be4c359b",
+            "clue": "Female relatives, sisters of parents",
+            "answer": "aunts",
+            "normalized": "aunts"
           },
           {
-            "id": "be2b3d08-ffc2-4ead-bc78-c27d12da69f2",
-            "clue": "First name of Grampa Simpson",
-            "answer": "abe",
-            "normalized": "abe"
+            "id": "5f61b12f-0365-4134-ba8f-c5e9ae5f6446",
+            "clue": "Cute nickname for a cat",
+            "answer": "kitty",
+            "normalized": "kitty"
           },
           {
-            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
-            "clue": "Possess",
-            "answer": "own",
-            "normalized": "own"
+            "id": "1c6a28d1-2a0f-4fed-b71a-4fe482064a72",
+            "clue": "To copy what someone else is doing",
+            "answer": "imitate",
+            "normalized": "imitate"
           },
           {
-            "id": "5457d826-d040-4fc3-b8f1-be946de7556f",
-            "clue": "Third letter of the alphabet, spelled out",
-            "answer": "cee",
-            "normalized": "cee"
+            "id": "450bb512-0387-4b96-81fc-650fd8defc5b",
+            "clue": "This person may be a counselor, mentor, consultant",
+            "answer": "adviser",
+            "normalized": "adviser"
           },
           {
-            "id": "ea57be05-c155-48f0-a3c0-7d0f1a351412",
-            "clue": "Mobile dog grooming company in Dumb and Dumber",
-            "answer": "mutt cutts",
-            "normalized": "muttcutts"
+            "id": "c9b6f3d3-7ac4-4a1c-8312-b2e4da3a8396",
+            "clue": "Lowest award of the Order of the British Empire",
+            "answer": "mbe",
+            "normalized": "mbe"
           },
           {
-            "id": "ad4f41c3-40bc-4e67-b12f-54b0a059f286",
-            "clue": "Slang for precise, exact",
-            "answer": "on the nose",
-            "normalized": "onthenose"
+            "id": "85033b97-e925-48e2-af0e-425574af381a",
+            "clue": "Serbian tennis player, __ Ivanovic",
+            "answer": "ana",
+            "normalized": "ana"
           },
           {
-            "id": "7eae6314-67f4-4519-8995-3326ed79f65f",
-            "clue": "Steamed Chinese dumpling or bun",
-            "answer": "bao",
-            "normalized": "bao"
+            "id": "8852d1fd-049c-4a3b-b44c-716910d99900",
+            "clue": "Shock and __",
+            "answer": "awe",
+            "normalized": "awe"
           },
           {
-            "id": "0da65ab2-0ba0-4ad7-8331-5f83d72ee65e",
-            "clue": "Forgetful friend of Nemo",
-            "answer": "dory",
-            "normalized": "dory"
+            "id": "82e0298f-c6b7-4674-8226-7c9af4e39807",
+            "clue": "Vampiric animal",
+            "answer": "bat",
+            "normalized": "bat"
           },
           {
-            "id": "589f5a92-ba9d-48b0-ab31-06c925b00134",
-            "clue": "Divine bliss or playful creativity in Hinduism",
-            "answer": "lila",
-            "normalized": "lila"
+            "id": "c0101bb3-f21d-4253-bf0c-8df7864348ca",
+            "clue": "Inventive and artistic",
+            "answer": "creative",
+            "normalized": "creative"
           },
           {
-            "id": "07a63d8f-824d-4180-a99c-0325b14697e3",
-            "clue": "Device used to hold the time stone, Eye of __",
-            "answer": "agamotto",
-            "normalized": "agamotto"
+            "id": "11033878-3a20-4e82-9cd2-ef56fd225416",
+            "clue": "Hindu final stage of the ashramas, renunciation",
+            "answer": "sannyasa",
+            "normalized": "sannyasa"
           },
           {
-            "id": "0e59b579-56c2-4de1-88a5-f7b582c5945c",
-            "clue": "Japanese firm, was Nippon Electric Company",
-            "answer": "nec",
-            "normalized": "nec"
+            "id": "3531b85f-a547-4ea8-a9a2-02c558a955fe",
+            "clue": "\"Dang\" or \"darn\" alternative",
+            "answer": "drat",
+            "normalized": "drat"
           },
           {
-            "id": "e9df359e-f1fb-499d-aa96-9f002f71edc5",
-            "clue": "Looked at with side-eyes",
-            "answer": "askanced",
-            "normalized": "askanced"
+            "id": "1c289263-ce97-4309-864e-28e3a3e79bb5",
+            "clue": "Hair stiffening substances",
+            "answer": "gels",
+            "normalized": "gels"
           },
           {
-            "id": "9f56c749-0173-46d9-925b-a90c7af1d623",
-            "clue": "Manager of a school, film, production",
-            "answer": "director",
-            "normalized": "director"
+            "id": "8560e734-2a2c-491d-9011-6b0fedd9679c",
+            "clue": "Little Richard's preferred ice cream, Tutti __",
+            "answer": "frutti",
+            "normalized": "frutti"
           },
           {
-            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
-            "clue": "Net Operating Assets in business speak",
-            "answer": "noa",
-            "normalized": "noa"
+            "id": "be133aa5-746c-4f9f-bbb9-638bea2088e9",
+            "clue": "Entrepreneur and Remington spokesman, Victor",
+            "answer": "kiam",
+            "normalized": "kiam"
           },
           {
-            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
-            "clue": "Popular music genre, mix of jazz, gospel, blues",
-            "answer": "rnb",
-            "normalized": "rnb"
+            "id": "d68901bf-09b4-4fa7-bf8b-3e36943d47f6",
+            "clue": "Online resource with details of movies and actors",
+            "answer": "imdb",
+            "normalized": "imdb"
           },
           {
-            "id": "bea3f0e0-128e-4257-ba00-d8d428ce75c1",
-            "clue": "Double, abbreviated",
-            "answer": "dbl",
-            "normalized": "dbl"
+            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
+            "clue": "The number of toes most people have",
+            "answer": "ten",
+            "normalized": "ten"
           },
           {
-            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
-            "clue": "Letters in the logo and motto of Elvis Presley",
-            "answer": "tcb",
-            "normalized": "tcb"
-          },
-          {
-            "id": "3f812fda-57ee-41a3-a966-3421843234a1",
-            "clue": "Internet slang for what the heck",
-            "answer": "wth",
-            "normalized": "wth"
-          },
-          {
-            "id": "0be5f02d-7636-4089-884f-1210fc340142",
-            "clue": "Online selling platform for creative goods",
-            "answer": "etsy",
-            "normalized": "etsy"
-          },
-          {
-            "id": "fcb456c0-738f-4e70-a9ae-cd3625201867",
-            "clue": "Suffix that can follow legal, journal or Japan",
-            "answer": "ese",
-            "normalized": "ese"
-          },
-          {
-            "id": "00b98c8e-7b93-4f0b-befd-063cf0699b3f",
-            "clue": "Mafia",
-            "answer": "mob",
-            "normalized": "mob"
-          },
-          {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
-          },
-          {
-            "id": "e2df826b-9e13-4fe8-982c-0cedcb7c4f25",
-            "clue": "Italian one",
-            "answer": "uno",
-            "normalized": "uno"
+            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
+            "clue": "Distinct stage in history or evolution",
+            "answer": "era",
+            "normalized": "era"
           }
         ],
-        "track": "PC|LenC--Y2026M5D29F1"
+        "track": "PC|LenC--Y2026M5D30F1"
       }
     },
     "latestAvailableEntry": {
@@ -415523,21 +415463,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "7kcf8uF1eWiNaGenCri6ls8HBZ5aS0IF5GeJ/TTMkhupzM9/c2KCfmtFFk0yxwuSgTABucRh/LAZuBgOgQLV7wJxEP+AS3KC4FHvCL3Vuk6WT5TWsFPiKFrdbQ40GNNe9YLiyeyx4glgGeNjNC9JqO+aC72Gidrhg+La1X0Pi0osOwQf2Sl4Z5kNOAQOry711+9GtkeMTob7+Ko+dcdv+1AJkIzHyS7T/AUHlq3BIDJ+7ahZ7W/HlCoBvnSNC1qSqTmx+BvCBqtdOtxXMHyID+q1IMpXq1h9WaEzSy1lyNs="
+        "PWon83AXnE8rXSiepxWZWLt2kavmR81+rAGvwAK4MrLXuHjmLVUvKjRW50xXmTsISpEcEIS5NQ1aE4rtPKox7Jf/QgeIz6Fv2z+I7UJHftOECxk1cE7tnhIx6pXyd3+v4fzHbdA2ueOQc6xva9DEqB2RDK4UYAXcIz3Um9wWG/wOD2JtmHwd20nEuHH61j1NvyUl0fv2GzIg57NSoIA/vHpl5h/71P8r5Opowa2grMTCGYSDHY37T3Xpayr8SkURb9iAGtx1VnEBefmXqrcJ494WZ07zkGOVaF87ZsAOSEk="
       ]
     },
     "decrypted": {
-      "Id": "a79c0850-5963-4ce0-a203-dbaf45deee7a",
-      "Date": "2026-05-29T00:00:00Z",
+      "Id": "408ff3e8-527b-4daa-94ce-34ce2bf4d919",
+      "Date": "2026-05-30T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "toxic",
-      "NormalizedPassword": "toxic",
+      "Password": "wordy",
+      "NormalizedPassword": "wordy",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-29T02:11:07.0230000+05:30",
-    "hash": "2fa51767e18324023ccdc6e826df5611",
+    "dtu": "2026-05-30T02:10:41.3590000+05:30",
+    "hash": "45d37bbb8c15b8e737fb6719fd0d97b1",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
