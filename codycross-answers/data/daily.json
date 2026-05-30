@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-29T20:40:41.359Z",
+  "generatedAt": "2026-05-30T19:46:55.787Z",
   "today": {
     "year": 2026,
     "month": 5,
-    "day": 30
+    "day": 31
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 55
+        "QuantidadeDeFases": 57
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -166557,7 +166557,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -199869,7 +199869,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -300150,7 +300150,7 @@
             },
             {
               "id": "25e3e84c-535a-4ed4-83db-6e56f6609d72",
-              "clue": "A space rock that strikes the Earth's atmosphere",
+              "clue": "Streak of light caused by space rock",
               "answer": "meteor",
               "normalized": "meteor"
             },
@@ -351406,7 +351406,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -414771,451 +414771,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-30",
+      "key": "2026-05-31",
       "year": 2026,
       "month": 5,
-      "day": 30,
+      "day": 31,
       "small": {
-        "puzzleId": "bac0793e-9173-4cfc-b985-8a6e47d2157d",
+        "puzzleId": "bdd08cea-f6f2-4581-914a-be0d5dae52fb",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 8,
+        "version": 1,
         "answers": [
           {
-            "id": "7b2be154-4312-4d24-936c-0bf35dc94134",
-            "clue": "Thin French pancake",
-            "answer": "crepe",
-            "normalized": "crepe"
+            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
+            "clue": "Dry crust over a wound",
+            "answer": "scab",
+            "normalized": "scab"
           },
           {
-            "id": "4e4cd2ec-dc7e-4433-b00e-7b89117b0b3a",
-            "clue": "Ira __, author of Rosemary's Baby",
-            "answer": "levin",
-            "normalized": "levin"
+            "id": "4afb3572-fcbb-47a6-bc67-e942acf103ec",
+            "clue": "A jungle bird; to repeat something senselessly",
+            "answer": "parrot",
+            "normalized": "parrot"
           },
           {
-            "id": "b3a57e42-c494-4671-94a4-3331afb26855",
-            "clue": "Six balls bowled in cricket, plural",
-            "answer": "overs",
-            "normalized": "overs"
+            "id": "b01bd4ff-e0e8-46dd-824d-7023e038ed05",
+            "clue": "Ancient Egyptian capital established by Akhenaten",
+            "answer": "amarna",
+            "normalized": "amarna"
           },
           {
-            "id": "0bbf6337-835a-447f-8f7e-946cbbe7ae24",
-            "clue": "Broadcasting live",
-            "answer": "on air",
-            "normalized": "onair"
+            "id": "ea007b78-19be-40d0-a96b-581932a4c81d",
+            "clue": "Wall cladding on the face of a house",
+            "answer": "siding",
+            "normalized": "siding"
           },
           {
-            "id": "6f7d1af8-49b9-4fc1-ae55-095afb493791",
-            "clue": "Instruction to someone to release their grip",
-            "answer": "let go",
-            "normalized": "letgo"
+            "id": "40aad60b-b142-4b15-a95a-d8220ff1d782",
+            "clue": "Two equal or nearly equal parts of a whole",
+            "answer": "halves",
+            "normalized": "halves"
           },
           {
-            "id": "e5c82918-47e4-480f-8709-05cd1e0d88da",
-            "clue": "Beehive hairdos were one in the 1960s",
-            "answer": "trend",
-            "normalized": "trend"
+            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
+            "clue": "What to do with the Parents, Dave, and Joe Black",
+            "answer": "meet",
+            "normalized": "meet"
           },
           {
-            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
-            "clue": "Acronym for a chief legal officer",
-            "answer": "clo",
-            "normalized": "clo"
+            "id": "70c1df03-7ff5-46d1-ad53-121ca0e56098",
+            "clue": "He serves green eggs and ham",
+            "answer": "sam i am",
+            "normalized": "samiam"
           },
           {
-            "id": "bf812d5f-87d5-4de7-a3b2-4bf1e7010a48",
-            "clue": "To riot or rise in rebellion",
-            "answer": "revolt",
-            "normalized": "revolt"
+            "id": "b3a44c41-eb84-43f7-991a-40fb74830520",
+            "clue": "Harry Chapin's fatherhood song, Cat's in the __",
+            "answer": "cradle",
+            "normalized": "cradle"
           },
           {
-            "id": "6bfa3405-b99c-45f6-bf34-cde28694b67b",
-            "clue": "More flat",
-            "answer": "evener",
-            "normalized": "evener"
+            "id": "3508566c-bb5a-4ea9-b90b-06e9b5946f6c",
+            "clue": "To reach your destination; to finally happen",
+            "answer": "arrive",
+            "normalized": "arrive"
           },
           {
-            "id": "49a5c664-e4fa-47d8-ab5e-b6561201d2c6",
-            "clue": "Lawless buccaneer who buries treasure",
-            "answer": "pirate",
-            "normalized": "pirate"
+            "id": "d62697f6-5a22-4cd1-a92b-cfec1e093ab3",
+            "clue": "Scotch __, hot chili pepper of the Caribbean",
+            "answer": "bonnet",
+            "normalized": "bonnet"
           },
           {
-            "id": "03b876c6-3350-4073-afab-7d2327492299",
-            "clue": "National identity flag flown on a ship",
-            "answer": "ensign",
-            "normalized": "ensign"
+            "id": "01f64917-dfa3-4cd0-b61a-5ef68c0acd4f",
+            "clue": "Australianism for kiss",
+            "answer": "pash",
+            "normalized": "pash"
           },
           {
-            "id": "b34a2313-3733-400f-a348-e48e478cfcd9",
-            "clue": "Stick for fishing",
-            "answer": "rod",
-            "normalized": "rod"
+            "id": "a9f67751-24df-4911-a4b4-fa7aa8b452a6",
+            "clue": "Clothing labels",
+            "answer": "tags",
+            "normalized": "tags"
           }
         ],
-        "track": "PC|LenC--Y2026M5D30F0"
+        "track": "PC|LenC--Y2026M5D31F0"
       },
       "mid": {
-        "puzzleId": "c078c318-88cf-441f-ae46-cf439bff7375",
+        "puzzleId": "f33ecfe4-18b1-4bb1-9c01-1c7d865809ad",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "be44ad30-fa9e-4e20-afc7-2848e8206772",
-            "clue": "According to The Jackson 5, this is as easy as 123",
-            "answer": "abc",
-            "normalized": "abc"
+            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
+            "clue": "Early US internet company that bought Netscape",
+            "answer": "aol",
+            "normalized": "aol"
           },
           {
-            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
-            "clue": "Acronym for a UN Sustainable Development Goal",
-            "answer": "sdg",
-            "normalized": "sdg"
+            "id": "15939944-dd54-43f5-a212-8eb213233be2",
+            "clue": "Spearheaded",
+            "answer": "led",
+            "normalized": "led"
           },
           {
-            "id": "2dfacf93-265a-4211-9232-86cc2ef19543",
-            "clue": "Military operations between enemies",
-            "answer": "warfare",
-            "normalized": "warfare"
+            "id": "e1191897-5265-41bc-8bc2-acf91145a812",
+            "clue": "The Father, the Son, and the Holy Ghost",
+            "answer": "trinity",
+            "normalized": "trinity"
           },
           {
-            "id": "f86c98fb-1d91-4608-89d9-ff1a98026930",
-            "clue": "Never-ending",
-            "answer": "eternal",
-            "normalized": "eternal"
+            "id": "41b28660-61be-4dcd-9939-a1abc2e37c10",
+            "clue": "__ Vita; 1960 \"good life\" Italian film",
+            "answer": "la dolce",
+            "normalized": "ladolce"
           },
           {
-            "id": "9646f5d7-61b9-4527-b7f3-ba11be4c359b",
-            "clue": "Female relatives, sisters of parents",
-            "answer": "aunts",
-            "normalized": "aunts"
+            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
+            "clue": "Danish Nobel Prize-winning physicist, Niels",
+            "answer": "bohr",
+            "normalized": "bohr"
           },
           {
-            "id": "5f61b12f-0365-4134-ba8f-c5e9ae5f6446",
-            "clue": "Cute nickname for a cat",
-            "answer": "kitty",
-            "normalized": "kitty"
+            "id": "1300615b-4779-40ad-b566-13a5230afaaa",
+            "clue": "Whimper or feeble cry",
+            "answer": "mewl",
+            "normalized": "mewl"
           },
           {
-            "id": "1c6a28d1-2a0f-4fed-b71a-4fe482064a72",
-            "clue": "To copy what someone else is doing",
-            "answer": "imitate",
-            "normalized": "imitate"
+            "id": "5c8a99df-e0e0-4c41-a867-df91714819d8",
+            "clue": "Related to a single cell organism",
+            "answer": "amoebic",
+            "normalized": "amoebic"
           },
           {
-            "id": "450bb512-0387-4b96-81fc-650fd8defc5b",
-            "clue": "This person may be a counselor, mentor, consultant",
-            "answer": "adviser",
-            "normalized": "adviser"
+            "id": "adab6e92-65ed-4fa6-bd15-b64bc9970a13",
+            "clue": "Room where babies sleep, play or get educated",
+            "answer": "nursery",
+            "normalized": "nursery"
           },
           {
-            "id": "c9b6f3d3-7ac4-4a1c-8312-b2e4da3a8396",
-            "clue": "Lowest award of the Order of the British Empire",
-            "answer": "mbe",
-            "normalized": "mbe"
+            "id": "dfd3ceac-d5cd-4c03-a2ee-6ecddab5c781",
+            "clue": "Abbreviation for the business GlaxoSmithKline",
+            "answer": "gsk",
+            "normalized": "gsk"
           },
           {
-            "id": "85033b97-e925-48e2-af0e-425574af381a",
-            "clue": "Serbian tennis player, __ Ivanovic",
-            "answer": "ana",
-            "normalized": "ana"
+            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
+            "clue": "Key typed with Ctrl and Del",
+            "answer": "alt",
+            "normalized": "alt"
           },
           {
-            "id": "8852d1fd-049c-4a3b-b44c-716910d99900",
-            "clue": "Shock and __",
-            "answer": "awe",
-            "normalized": "awe"
+            "id": "101e0994-0e05-4cd8-8de2-145929df87a8",
+            "clue": "Code for Hartsfield-Jackson Atlanta Airport",
+            "answer": "atl",
+            "normalized": "atl"
           },
           {
-            "id": "82e0298f-c6b7-4674-8226-7c9af4e39807",
-            "clue": "Vampiric animal",
-            "answer": "bat",
-            "normalized": "bat"
+            "id": "cd882df8-37e1-42dd-84fc-1faa0d66f152",
+            "clue": "Last name of Anywhere singer Rita",
+            "answer": "ora",
+            "normalized": "ora"
           },
           {
-            "id": "c0101bb3-f21d-4253-bf0c-8df7864348ca",
-            "clue": "Inventive and artistic",
-            "answer": "creative",
-            "normalized": "creative"
+            "id": "ff3a8d8b-b2fa-46c4-b12e-137d1d34a5aa",
+            "clue": "Pot cover",
+            "answer": "lid",
+            "normalized": "lid"
           },
           {
-            "id": "11033878-3a20-4e82-9cd2-ef56fd225416",
-            "clue": "Hindu final stage of the ashramas, renunciation",
-            "answer": "sannyasa",
-            "normalized": "sannyasa"
+            "id": "8eadb724-c8f3-4bf6-9b65-171efdf71a88",
+            "clue": "She adopts the alien \"dog\" Stitch in the movie",
+            "answer": "lilo",
+            "normalized": "lilo"
           },
           {
-            "id": "3531b85f-a547-4ea8-a9a2-02c558a955fe",
-            "clue": "\"Dang\" or \"darn\" alternative",
-            "answer": "drat",
-            "normalized": "drat"
+            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
+            "clue": "To engrave with a technique that uses acid",
+            "answer": "etch",
+            "normalized": "etch"
           },
           {
-            "id": "1c289263-ce97-4309-864e-28e3a3e79bb5",
-            "clue": "Hair stiffening substances",
-            "answer": "gels",
-            "normalized": "gels"
+            "id": "df7b48d0-1c42-46b3-811b-eb94b02cf3d3",
+            "clue": "One who professionally pigments things",
+            "answer": "dyer",
+            "normalized": "dyer"
           },
           {
-            "id": "8560e734-2a2c-491d-9011-6b0fedd9679c",
-            "clue": "Little Richard's preferred ice cream, Tutti __",
-            "answer": "frutti",
-            "normalized": "frutti"
+            "id": "c2ecf9a0-f79b-4e39-b64f-b2ee94e94b8f",
+            "clue": "Aristocrats, people of high social standing",
+            "answer": "nobles",
+            "normalized": "nobles"
           },
           {
-            "id": "be133aa5-746c-4f9f-bbb9-638bea2088e9",
-            "clue": "Entrepreneur and Remington spokesman, Victor",
-            "answer": "kiam",
-            "normalized": "kiam"
+            "id": "504d4f7a-daac-4d70-8cfb-dabb2ca3d6e0",
+            "clue": "Name of Ginny's friend group in Ginny and Georgia",
+            "answer": "mang",
+            "normalized": "mang"
           },
           {
-            "id": "d68901bf-09b4-4fa7-bf8b-3e36943d47f6",
-            "clue": "Online resource with details of movies and actors",
-            "answer": "imdb",
-            "normalized": "imdb"
+            "id": "6db4f313-162c-4454-9ae2-17086e15448b",
+            "clue": "Big Australian birds",
+            "answer": "emus",
+            "normalized": "emus"
           },
           {
-            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
-            "clue": "The number of toes most people have",
-            "answer": "ten",
-            "normalized": "ten"
+            "id": "c59a6ebe-9678-4e8a-9607-f0eaaf83b2f7",
+            "clue": "Busy oneself with chores or employment tasks",
+            "answer": "work",
+            "normalized": "work"
           },
           {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
+            "id": "89107f18-9b54-438c-80ae-df2bc4f29fac",
+            "clue": "This Arthur played Dorothy on The Golden Girls",
+            "answer": "bea",
+            "normalized": "bea"
+          },
+          {
+            "id": "c1a8c98b-d1e5-4120-81d4-30e39c3ec8ef",
+            "clue": "Text lingo for in real life, not on screen",
+            "answer": "irl",
+            "normalized": "irl"
+          },
+          {
+            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
+            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
+            "answer": "cyt",
+            "normalized": "cyt"
           }
         ],
-        "track": "PC|LenC--Y2026M5D30F1"
+        "track": "PC|LenC--Y2026M5D31F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-30",
+      "key": "2026-05-31",
       "year": 2026,
       "month": 5,
-      "day": 30,
+      "day": 31,
       "small": {
-        "puzzleId": "bac0793e-9173-4cfc-b985-8a6e47d2157d",
+        "puzzleId": "bdd08cea-f6f2-4581-914a-be0d5dae52fb",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 8,
+        "version": 1,
         "answers": [
           {
-            "id": "7b2be154-4312-4d24-936c-0bf35dc94134",
-            "clue": "Thin French pancake",
-            "answer": "crepe",
-            "normalized": "crepe"
+            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
+            "clue": "Dry crust over a wound",
+            "answer": "scab",
+            "normalized": "scab"
           },
           {
-            "id": "4e4cd2ec-dc7e-4433-b00e-7b89117b0b3a",
-            "clue": "Ira __, author of Rosemary's Baby",
-            "answer": "levin",
-            "normalized": "levin"
+            "id": "4afb3572-fcbb-47a6-bc67-e942acf103ec",
+            "clue": "A jungle bird; to repeat something senselessly",
+            "answer": "parrot",
+            "normalized": "parrot"
           },
           {
-            "id": "b3a57e42-c494-4671-94a4-3331afb26855",
-            "clue": "Six balls bowled in cricket, plural",
-            "answer": "overs",
-            "normalized": "overs"
+            "id": "b01bd4ff-e0e8-46dd-824d-7023e038ed05",
+            "clue": "Ancient Egyptian capital established by Akhenaten",
+            "answer": "amarna",
+            "normalized": "amarna"
           },
           {
-            "id": "0bbf6337-835a-447f-8f7e-946cbbe7ae24",
-            "clue": "Broadcasting live",
-            "answer": "on air",
-            "normalized": "onair"
+            "id": "ea007b78-19be-40d0-a96b-581932a4c81d",
+            "clue": "Wall cladding on the face of a house",
+            "answer": "siding",
+            "normalized": "siding"
           },
           {
-            "id": "6f7d1af8-49b9-4fc1-ae55-095afb493791",
-            "clue": "Instruction to someone to release their grip",
-            "answer": "let go",
-            "normalized": "letgo"
+            "id": "40aad60b-b142-4b15-a95a-d8220ff1d782",
+            "clue": "Two equal or nearly equal parts of a whole",
+            "answer": "halves",
+            "normalized": "halves"
           },
           {
-            "id": "e5c82918-47e4-480f-8709-05cd1e0d88da",
-            "clue": "Beehive hairdos were one in the 1960s",
-            "answer": "trend",
-            "normalized": "trend"
+            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
+            "clue": "What to do with the Parents, Dave, and Joe Black",
+            "answer": "meet",
+            "normalized": "meet"
           },
           {
-            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
-            "clue": "Acronym for a chief legal officer",
-            "answer": "clo",
-            "normalized": "clo"
+            "id": "70c1df03-7ff5-46d1-ad53-121ca0e56098",
+            "clue": "He serves green eggs and ham",
+            "answer": "sam i am",
+            "normalized": "samiam"
           },
           {
-            "id": "bf812d5f-87d5-4de7-a3b2-4bf1e7010a48",
-            "clue": "To riot or rise in rebellion",
-            "answer": "revolt",
-            "normalized": "revolt"
+            "id": "b3a44c41-eb84-43f7-991a-40fb74830520",
+            "clue": "Harry Chapin's fatherhood song, Cat's in the __",
+            "answer": "cradle",
+            "normalized": "cradle"
           },
           {
-            "id": "6bfa3405-b99c-45f6-bf34-cde28694b67b",
-            "clue": "More flat",
-            "answer": "evener",
-            "normalized": "evener"
+            "id": "3508566c-bb5a-4ea9-b90b-06e9b5946f6c",
+            "clue": "To reach your destination; to finally happen",
+            "answer": "arrive",
+            "normalized": "arrive"
           },
           {
-            "id": "49a5c664-e4fa-47d8-ab5e-b6561201d2c6",
-            "clue": "Lawless buccaneer who buries treasure",
-            "answer": "pirate",
-            "normalized": "pirate"
+            "id": "d62697f6-5a22-4cd1-a92b-cfec1e093ab3",
+            "clue": "Scotch __, hot chili pepper of the Caribbean",
+            "answer": "bonnet",
+            "normalized": "bonnet"
           },
           {
-            "id": "03b876c6-3350-4073-afab-7d2327492299",
-            "clue": "National identity flag flown on a ship",
-            "answer": "ensign",
-            "normalized": "ensign"
+            "id": "01f64917-dfa3-4cd0-b61a-5ef68c0acd4f",
+            "clue": "Australianism for kiss",
+            "answer": "pash",
+            "normalized": "pash"
           },
           {
-            "id": "b34a2313-3733-400f-a348-e48e478cfcd9",
-            "clue": "Stick for fishing",
-            "answer": "rod",
-            "normalized": "rod"
+            "id": "a9f67751-24df-4911-a4b4-fa7aa8b452a6",
+            "clue": "Clothing labels",
+            "answer": "tags",
+            "normalized": "tags"
           }
         ],
-        "track": "PC|LenC--Y2026M5D30F0"
+        "track": "PC|LenC--Y2026M5D31F0"
       },
       "mid": {
-        "puzzleId": "c078c318-88cf-441f-ae46-cf439bff7375",
+        "puzzleId": "f33ecfe4-18b1-4bb1-9c01-1c7d865809ad",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "be44ad30-fa9e-4e20-afc7-2848e8206772",
-            "clue": "According to The Jackson 5, this is as easy as 123",
-            "answer": "abc",
-            "normalized": "abc"
+            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
+            "clue": "Early US internet company that bought Netscape",
+            "answer": "aol",
+            "normalized": "aol"
           },
           {
-            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
-            "clue": "Acronym for a UN Sustainable Development Goal",
-            "answer": "sdg",
-            "normalized": "sdg"
+            "id": "15939944-dd54-43f5-a212-8eb213233be2",
+            "clue": "Spearheaded",
+            "answer": "led",
+            "normalized": "led"
           },
           {
-            "id": "2dfacf93-265a-4211-9232-86cc2ef19543",
-            "clue": "Military operations between enemies",
-            "answer": "warfare",
-            "normalized": "warfare"
+            "id": "e1191897-5265-41bc-8bc2-acf91145a812",
+            "clue": "The Father, the Son, and the Holy Ghost",
+            "answer": "trinity",
+            "normalized": "trinity"
           },
           {
-            "id": "f86c98fb-1d91-4608-89d9-ff1a98026930",
-            "clue": "Never-ending",
-            "answer": "eternal",
-            "normalized": "eternal"
+            "id": "41b28660-61be-4dcd-9939-a1abc2e37c10",
+            "clue": "__ Vita; 1960 \"good life\" Italian film",
+            "answer": "la dolce",
+            "normalized": "ladolce"
           },
           {
-            "id": "9646f5d7-61b9-4527-b7f3-ba11be4c359b",
-            "clue": "Female relatives, sisters of parents",
-            "answer": "aunts",
-            "normalized": "aunts"
+            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
+            "clue": "Danish Nobel Prize-winning physicist, Niels",
+            "answer": "bohr",
+            "normalized": "bohr"
           },
           {
-            "id": "5f61b12f-0365-4134-ba8f-c5e9ae5f6446",
-            "clue": "Cute nickname for a cat",
-            "answer": "kitty",
-            "normalized": "kitty"
+            "id": "1300615b-4779-40ad-b566-13a5230afaaa",
+            "clue": "Whimper or feeble cry",
+            "answer": "mewl",
+            "normalized": "mewl"
           },
           {
-            "id": "1c6a28d1-2a0f-4fed-b71a-4fe482064a72",
-            "clue": "To copy what someone else is doing",
-            "answer": "imitate",
-            "normalized": "imitate"
+            "id": "5c8a99df-e0e0-4c41-a867-df91714819d8",
+            "clue": "Related to a single cell organism",
+            "answer": "amoebic",
+            "normalized": "amoebic"
           },
           {
-            "id": "450bb512-0387-4b96-81fc-650fd8defc5b",
-            "clue": "This person may be a counselor, mentor, consultant",
-            "answer": "adviser",
-            "normalized": "adviser"
+            "id": "adab6e92-65ed-4fa6-bd15-b64bc9970a13",
+            "clue": "Room where babies sleep, play or get educated",
+            "answer": "nursery",
+            "normalized": "nursery"
           },
           {
-            "id": "c9b6f3d3-7ac4-4a1c-8312-b2e4da3a8396",
-            "clue": "Lowest award of the Order of the British Empire",
-            "answer": "mbe",
-            "normalized": "mbe"
+            "id": "dfd3ceac-d5cd-4c03-a2ee-6ecddab5c781",
+            "clue": "Abbreviation for the business GlaxoSmithKline",
+            "answer": "gsk",
+            "normalized": "gsk"
           },
           {
-            "id": "85033b97-e925-48e2-af0e-425574af381a",
-            "clue": "Serbian tennis player, __ Ivanovic",
-            "answer": "ana",
-            "normalized": "ana"
+            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
+            "clue": "Key typed with Ctrl and Del",
+            "answer": "alt",
+            "normalized": "alt"
           },
           {
-            "id": "8852d1fd-049c-4a3b-b44c-716910d99900",
-            "clue": "Shock and __",
-            "answer": "awe",
-            "normalized": "awe"
+            "id": "101e0994-0e05-4cd8-8de2-145929df87a8",
+            "clue": "Code for Hartsfield-Jackson Atlanta Airport",
+            "answer": "atl",
+            "normalized": "atl"
           },
           {
-            "id": "82e0298f-c6b7-4674-8226-7c9af4e39807",
-            "clue": "Vampiric animal",
-            "answer": "bat",
-            "normalized": "bat"
+            "id": "cd882df8-37e1-42dd-84fc-1faa0d66f152",
+            "clue": "Last name of Anywhere singer Rita",
+            "answer": "ora",
+            "normalized": "ora"
           },
           {
-            "id": "c0101bb3-f21d-4253-bf0c-8df7864348ca",
-            "clue": "Inventive and artistic",
-            "answer": "creative",
-            "normalized": "creative"
+            "id": "ff3a8d8b-b2fa-46c4-b12e-137d1d34a5aa",
+            "clue": "Pot cover",
+            "answer": "lid",
+            "normalized": "lid"
           },
           {
-            "id": "11033878-3a20-4e82-9cd2-ef56fd225416",
-            "clue": "Hindu final stage of the ashramas, renunciation",
-            "answer": "sannyasa",
-            "normalized": "sannyasa"
+            "id": "8eadb724-c8f3-4bf6-9b65-171efdf71a88",
+            "clue": "She adopts the alien \"dog\" Stitch in the movie",
+            "answer": "lilo",
+            "normalized": "lilo"
           },
           {
-            "id": "3531b85f-a547-4ea8-a9a2-02c558a955fe",
-            "clue": "\"Dang\" or \"darn\" alternative",
-            "answer": "drat",
-            "normalized": "drat"
+            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
+            "clue": "To engrave with a technique that uses acid",
+            "answer": "etch",
+            "normalized": "etch"
           },
           {
-            "id": "1c289263-ce97-4309-864e-28e3a3e79bb5",
-            "clue": "Hair stiffening substances",
-            "answer": "gels",
-            "normalized": "gels"
+            "id": "df7b48d0-1c42-46b3-811b-eb94b02cf3d3",
+            "clue": "One who professionally pigments things",
+            "answer": "dyer",
+            "normalized": "dyer"
           },
           {
-            "id": "8560e734-2a2c-491d-9011-6b0fedd9679c",
-            "clue": "Little Richard's preferred ice cream, Tutti __",
-            "answer": "frutti",
-            "normalized": "frutti"
+            "id": "c2ecf9a0-f79b-4e39-b64f-b2ee94e94b8f",
+            "clue": "Aristocrats, people of high social standing",
+            "answer": "nobles",
+            "normalized": "nobles"
           },
           {
-            "id": "be133aa5-746c-4f9f-bbb9-638bea2088e9",
-            "clue": "Entrepreneur and Remington spokesman, Victor",
-            "answer": "kiam",
-            "normalized": "kiam"
+            "id": "504d4f7a-daac-4d70-8cfb-dabb2ca3d6e0",
+            "clue": "Name of Ginny's friend group in Ginny and Georgia",
+            "answer": "mang",
+            "normalized": "mang"
           },
           {
-            "id": "d68901bf-09b4-4fa7-bf8b-3e36943d47f6",
-            "clue": "Online resource with details of movies and actors",
-            "answer": "imdb",
-            "normalized": "imdb"
+            "id": "6db4f313-162c-4454-9ae2-17086e15448b",
+            "clue": "Big Australian birds",
+            "answer": "emus",
+            "normalized": "emus"
           },
           {
-            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
-            "clue": "The number of toes most people have",
-            "answer": "ten",
-            "normalized": "ten"
+            "id": "c59a6ebe-9678-4e8a-9607-f0eaaf83b2f7",
+            "clue": "Busy oneself with chores or employment tasks",
+            "answer": "work",
+            "normalized": "work"
           },
           {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
+            "id": "89107f18-9b54-438c-80ae-df2bc4f29fac",
+            "clue": "This Arthur played Dorothy on The Golden Girls",
+            "answer": "bea",
+            "normalized": "bea"
+          },
+          {
+            "id": "c1a8c98b-d1e5-4120-81d4-30e39c3ec8ef",
+            "clue": "Text lingo for in real life, not on screen",
+            "answer": "irl",
+            "normalized": "irl"
+          },
+          {
+            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
+            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
+            "answer": "cyt",
+            "normalized": "cyt"
           }
         ],
-        "track": "PC|LenC--Y2026M5D30F1"
+        "track": "PC|LenC--Y2026M5D31F1"
       }
     },
     "latestAvailableEntry": {
@@ -415463,21 +415487,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "PWon83AXnE8rXSiepxWZWLt2kavmR81+rAGvwAK4MrLXuHjmLVUvKjRW50xXmTsISpEcEIS5NQ1aE4rtPKox7Jf/QgeIz6Fv2z+I7UJHftOECxk1cE7tnhIx6pXyd3+v4fzHbdA2ueOQc6xva9DEqB2RDK4UYAXcIz3Um9wWG/wOD2JtmHwd20nEuHH61j1NvyUl0fv2GzIg57NSoIA/vHpl5h/71P8r5Opowa2grMTCGYSDHY37T3Xpayr8SkURb9iAGtx1VnEBefmXqrcJ494WZ07zkGOVaF87ZsAOSEk="
+        "vRycS52m4f0zzfU57JZexwChBIoQxyszi8uuMEBs3mtRVcA8l3mNLF7K/Qu3MiiBItp3joh8WRxry2EBmnHSNhv9IHOpgkfsIq5I40bnBl7pZ4Cl5c1MiuExhLR5hi1/vxR8HxSI5lvv9NMeFFvGNSUIaskoccQmHUJFks1Z+XyydEbmMN6t9J9T0Fa+nHMrztJaHvlV9VYMNrQVcOWw6kosGN1p1wv5QfMdsYuvp4HVixKV5gZIRhcMJGaZ9nerQVNyF2aeWV8C5snTIiy3MG9Wh9D1P7NmR56ie1eER1oDr2KpQ3z+XL+ZjBGfjHM6"
       ]
     },
     "decrypted": {
-      "Id": "408ff3e8-527b-4daa-94ce-34ce2bf4d919",
-      "Date": "2026-05-30T00:00:00Z",
+      "Id": "1a269134-c7af-4b80-b605-3fa85ac64ade",
+      "Date": "2026-05-31T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "wordy",
-      "NormalizedPassword": "wordy",
+      "Password": "orphan",
+      "NormalizedPassword": "orphan",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-30T02:10:41.3590000+05:30",
-    "hash": "45d37bbb8c15b8e737fb6719fd0d97b1",
+    "dtu": "2026-05-31T01:16:55.7870000+05:30",
+    "hash": "cabfff061c42e95282ccb11c8b48322e",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
