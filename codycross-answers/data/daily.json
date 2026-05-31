@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-30T19:46:55.787Z",
+  "generatedAt": "2026-05-31T19:47:22.317Z",
   "today": {
     "year": 2026,
-    "month": 5,
-    "day": 31
+    "month": 6,
+    "day": 1
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 57
+        "QuantidadeDeFases": 59
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -387,6 +387,230 @@
       }
     ],
     "archiveEntries": [
+      {
+        "key": "2026-06-01",
+        "year": 2026,
+        "month": 6,
+        "day": 1,
+        "small": {
+          "puzzleId": "PC|LenC--Y2026M6D1F0",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "ed393710-fce9-4ce2-b9fe-7ec7e1fc105a",
+              "clue": "Royal gardens in London, near a river",
+              "answer": "kew",
+              "normalized": "kew"
+            },
+            {
+              "id": "8df2b90c-32aa-432c-9c71-c2b80917b77d",
+              "clue": "Oscar's title on Sesame Street",
+              "answer": "grouch",
+              "normalized": "grouch"
+            },
+            {
+              "id": "3b553a0d-02dc-44d0-885f-b59e1d2571ac",
+              "clue": "Scale measuring the darkness of the night sky",
+              "answer": "bortle",
+              "normalized": "bortle"
+            },
+            {
+              "id": "0c92ddb6-74c9-4577-9c61-90e91cdcadbc",
+              "clue": "Perfect vision to aim for",
+              "answer": "ideal",
+              "normalized": "ideal"
+            },
+            {
+              "id": "f51a8324-abc0-4ff7-877b-ee4bfe48a9d1",
+              "clue": "A rare or mysterious object kept for display",
+              "answer": "curio",
+              "normalized": "curio"
+            },
+            {
+              "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
+              "clue": "On or toward the left side of a ship",
+              "answer": "aport",
+              "normalized": "aport"
+            },
+            {
+              "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
+              "clue": "Former Soviet spy agency",
+              "answer": "kgb",
+              "normalized": "kgb"
+            },
+            {
+              "id": "b88dbd05-e71f-4835-a843-9355f168da08",
+              "clue": "Name given to Beethoven's Symphony No. 3",
+              "answer": "eroica",
+              "normalized": "eroica"
+            },
+            {
+              "id": "8e8a8244-87e1-4c4b-b773-eccb4016fad8",
+              "clue": "Affirmative 1980s urban slang and a song by Cameo",
+              "answer": "word up",
+              "normalized": "wordup"
+            },
+            {
+              "id": "d8aa4e3d-d535-4754-930e-130354e9d2a7",
+              "clue": "In __, 1993 \"in the womb\" Nirvana album",
+              "answer": "utero",
+              "normalized": "utero"
+            },
+            {
+              "id": "659daf41-6cc2-4c2a-8a50-f5d5f2fb1d75",
+              "clue": "A French word meaning \"clear\"",
+              "answer": "clair",
+              "normalized": "clair"
+            },
+            {
+              "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
+              "clue": "Ancient Greek serf in Sparta",
+              "answer": "helot",
+              "normalized": "helot"
+            }
+          ],
+          "track": "PC|LenC--Y2026M6D1F0"
+        },
+        "mid": {
+          "puzzleId": "PC|LenC--Y2026M6D1F1",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
+              "clue": "Sandwich made with bacon, lettuce and tomato",
+              "answer": "blt",
+              "normalized": "blt"
+            },
+            {
+              "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
+              "clue": "Word that follows ad to mean an improv",
+              "answer": "lib",
+              "normalized": "lib"
+            },
+            {
+              "id": "2203afb0-b584-49e3-878f-d0306e2b806b",
+              "clue": "Karin __, Bond girl in You Only Live Twice",
+              "answer": "dor",
+              "normalized": "dor"
+            },
+            {
+              "id": "67f67f74-e1b1-48b4-9e90-1806d8c1d9b6",
+              "clue": "Ti __, I love you in Italian",
+              "answer": "amo",
+              "normalized": "amo"
+            },
+            {
+              "id": "c5d05957-c5aa-4cb0-8dff-a8c2cd4a3583",
+              "clue": "It will send you flying in the winter",
+              "answer": "ski jump",
+              "normalized": "skijump"
+            },
+            {
+              "id": "49849a98-bdc4-4026-b283-0001e807d738",
+              "clue": "Six-letter ending for the name of most dinosaurs",
+              "answer": "saurus",
+              "normalized": "saurus"
+            },
+            {
+              "id": "a72f7be9-2bc3-4dc2-8400-0860682e4559",
+              "clue": "Person who kicks the ball to another",
+              "answer": "passer",
+              "normalized": "passer"
+            },
+            {
+              "id": "0d6a6089-dcda-4355-adf4-2d14a0f854e0",
+              "clue": "To voluntarily refrain from doing something",
+              "answer": "abstain",
+              "normalized": "abstain"
+            },
+            {
+              "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
+              "clue": "Energy in our bodies in Chinese medicine tradition",
+              "answer": "chi",
+              "normalized": "chi"
+            },
+            {
+              "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
+              "clue": "Explosive letters",
+              "answer": "tnt",
+              "normalized": "tnt"
+            },
+            {
+              "id": "41840b30-746a-44da-98be-bb7697518030",
+              "clue": "Tic __, Ferrero mint",
+              "answer": "tac",
+              "normalized": "tac"
+            },
+            {
+              "id": "3fbe7f4b-92ad-4552-8343-7e8e8138c932",
+              "clue": "Hard-shelled unhatched chicken",
+              "answer": "egg",
+              "normalized": "egg"
+            },
+            {
+              "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
+              "clue": "Bachelor of Dental Surgery",
+              "answer": "bds",
+              "normalized": "bds"
+            },
+            {
+              "id": "2f0d8657-5ba7-4f87-98df-3eb9bc75c451",
+              "clue": "Lower house of Indian parliament",
+              "answer": "lok sabha",
+              "normalized": "loksabha"
+            },
+            {
+              "id": "3c6f5c5e-30f0-4a8b-a295-6c9b91b77285",
+              "clue": "Era before the Jurassic",
+              "answer": "triassic",
+              "normalized": "triassic"
+            },
+            {
+              "id": "ad8a26c8-e215-4ea3-8c0b-4b20bc5ea91e",
+              "clue": "Crowned with laurel, like a famous poet",
+              "answer": "laureate",
+              "normalized": "laureate"
+            },
+            {
+              "id": "1be774e2-40a6-49e2-8589-0ac4df5d1dc1",
+              "clue": "Ascetic spiritual practice of being bricked up",
+              "answer": "immuring",
+              "normalized": "immuring"
+            },
+            {
+              "id": "9d1056de-10ab-4bcf-a4c8-2eb09968da4b",
+              "clue": "Dances energetically to music",
+              "answer": "bops",
+              "normalized": "bops"
+            },
+            {
+              "id": "f334eb7c-c272-49db-9177-d3e6a6a5ccaf",
+              "clue": "First word in Nike's trademark slogan",
+              "answer": "just",
+              "normalized": "just"
+            },
+            {
+              "id": "0d4bb29e-6a18-45c6-957f-499864d0e525",
+              "clue": "Someone striking a deal with the devil makes one",
+              "answer": "pact",
+              "normalized": "pact"
+            },
+            {
+              "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
+              "clue": "Medical abbreviation for nitroglycerin",
+              "answer": "ntg",
+              "normalized": "ntg"
+            }
+          ],
+          "track": "PC|LenC--Y2026M6D1F1"
+        }
+      },
       {
         "key": "2026-05-31",
         "year": 2026,
@@ -414771,711 +414995,675 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-05-31",
+      "key": "2026-06-01",
       "year": 2026,
-      "month": 5,
-      "day": 31,
+      "month": 6,
+      "day": 1,
       "small": {
-        "puzzleId": "bdd08cea-f6f2-4581-914a-be0d5dae52fb",
+        "puzzleId": "PC|LenC--Y2026M6D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 0,
         "answers": [
           {
-            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
-            "clue": "Dry crust over a wound",
-            "answer": "scab",
-            "normalized": "scab"
+            "id": "ed393710-fce9-4ce2-b9fe-7ec7e1fc105a",
+            "clue": "Royal gardens in London, near a river",
+            "answer": "kew",
+            "normalized": "kew"
           },
           {
-            "id": "4afb3572-fcbb-47a6-bc67-e942acf103ec",
-            "clue": "A jungle bird; to repeat something senselessly",
-            "answer": "parrot",
-            "normalized": "parrot"
+            "id": "8df2b90c-32aa-432c-9c71-c2b80917b77d",
+            "clue": "Oscar's title on Sesame Street",
+            "answer": "grouch",
+            "normalized": "grouch"
           },
           {
-            "id": "b01bd4ff-e0e8-46dd-824d-7023e038ed05",
-            "clue": "Ancient Egyptian capital established by Akhenaten",
-            "answer": "amarna",
-            "normalized": "amarna"
+            "id": "3b553a0d-02dc-44d0-885f-b59e1d2571ac",
+            "clue": "Scale measuring the darkness of the night sky",
+            "answer": "bortle",
+            "normalized": "bortle"
           },
           {
-            "id": "ea007b78-19be-40d0-a96b-581932a4c81d",
-            "clue": "Wall cladding on the face of a house",
-            "answer": "siding",
-            "normalized": "siding"
+            "id": "0c92ddb6-74c9-4577-9c61-90e91cdcadbc",
+            "clue": "Perfect vision to aim for",
+            "answer": "ideal",
+            "normalized": "ideal"
           },
           {
-            "id": "40aad60b-b142-4b15-a95a-d8220ff1d782",
-            "clue": "Two equal or nearly equal parts of a whole",
-            "answer": "halves",
-            "normalized": "halves"
+            "id": "f51a8324-abc0-4ff7-877b-ee4bfe48a9d1",
+            "clue": "A rare or mysterious object kept for display",
+            "answer": "curio",
+            "normalized": "curio"
           },
           {
-            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
-            "clue": "What to do with the Parents, Dave, and Joe Black",
-            "answer": "meet",
-            "normalized": "meet"
+            "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
+            "clue": "On or toward the left side of a ship",
+            "answer": "aport",
+            "normalized": "aport"
           },
           {
-            "id": "70c1df03-7ff5-46d1-ad53-121ca0e56098",
-            "clue": "He serves green eggs and ham",
-            "answer": "sam i am",
-            "normalized": "samiam"
+            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
+            "clue": "Former Soviet spy agency",
+            "answer": "kgb",
+            "normalized": "kgb"
           },
           {
-            "id": "b3a44c41-eb84-43f7-991a-40fb74830520",
-            "clue": "Harry Chapin's fatherhood song, Cat's in the __",
-            "answer": "cradle",
-            "normalized": "cradle"
+            "id": "b88dbd05-e71f-4835-a843-9355f168da08",
+            "clue": "Name given to Beethoven's Symphony No. 3",
+            "answer": "eroica",
+            "normalized": "eroica"
           },
           {
-            "id": "3508566c-bb5a-4ea9-b90b-06e9b5946f6c",
-            "clue": "To reach your destination; to finally happen",
-            "answer": "arrive",
-            "normalized": "arrive"
+            "id": "8e8a8244-87e1-4c4b-b773-eccb4016fad8",
+            "clue": "Affirmative 1980s urban slang and a song by Cameo",
+            "answer": "word up",
+            "normalized": "wordup"
           },
           {
-            "id": "d62697f6-5a22-4cd1-a92b-cfec1e093ab3",
-            "clue": "Scotch __, hot chili pepper of the Caribbean",
-            "answer": "bonnet",
-            "normalized": "bonnet"
+            "id": "d8aa4e3d-d535-4754-930e-130354e9d2a7",
+            "clue": "In __, 1993 \"in the womb\" Nirvana album",
+            "answer": "utero",
+            "normalized": "utero"
           },
           {
-            "id": "01f64917-dfa3-4cd0-b61a-5ef68c0acd4f",
-            "clue": "Australianism for kiss",
-            "answer": "pash",
-            "normalized": "pash"
+            "id": "659daf41-6cc2-4c2a-8a50-f5d5f2fb1d75",
+            "clue": "A French word meaning \"clear\"",
+            "answer": "clair",
+            "normalized": "clair"
           },
           {
-            "id": "a9f67751-24df-4911-a4b4-fa7aa8b452a6",
-            "clue": "Clothing labels",
-            "answer": "tags",
-            "normalized": "tags"
+            "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
+            "clue": "Ancient Greek serf in Sparta",
+            "answer": "helot",
+            "normalized": "helot"
           }
         ],
-        "track": "PC|LenC--Y2026M5D31F0"
+        "track": "PC|LenC--Y2026M6D1F0"
       },
       "mid": {
-        "puzzleId": "f33ecfe4-18b1-4bb1-9c01-1c7d865809ad",
+        "puzzleId": "PC|LenC--Y2026M6D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
-            "clue": "Early US internet company that bought Netscape",
-            "answer": "aol",
-            "normalized": "aol"
+            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
+            "clue": "Sandwich made with bacon, lettuce and tomato",
+            "answer": "blt",
+            "normalized": "blt"
           },
           {
-            "id": "15939944-dd54-43f5-a212-8eb213233be2",
-            "clue": "Spearheaded",
-            "answer": "led",
-            "normalized": "led"
+            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
+            "clue": "Word that follows ad to mean an improv",
+            "answer": "lib",
+            "normalized": "lib"
           },
           {
-            "id": "e1191897-5265-41bc-8bc2-acf91145a812",
-            "clue": "The Father, the Son, and the Holy Ghost",
-            "answer": "trinity",
-            "normalized": "trinity"
+            "id": "2203afb0-b584-49e3-878f-d0306e2b806b",
+            "clue": "Karin __, Bond girl in You Only Live Twice",
+            "answer": "dor",
+            "normalized": "dor"
           },
           {
-            "id": "41b28660-61be-4dcd-9939-a1abc2e37c10",
-            "clue": "__ Vita; 1960 \"good life\" Italian film",
-            "answer": "la dolce",
-            "normalized": "ladolce"
+            "id": "67f67f74-e1b1-48b4-9e90-1806d8c1d9b6",
+            "clue": "Ti __, I love you in Italian",
+            "answer": "amo",
+            "normalized": "amo"
           },
           {
-            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
-            "clue": "Danish Nobel Prize-winning physicist, Niels",
-            "answer": "bohr",
-            "normalized": "bohr"
+            "id": "c5d05957-c5aa-4cb0-8dff-a8c2cd4a3583",
+            "clue": "It will send you flying in the winter",
+            "answer": "ski jump",
+            "normalized": "skijump"
           },
           {
-            "id": "1300615b-4779-40ad-b566-13a5230afaaa",
-            "clue": "Whimper or feeble cry",
-            "answer": "mewl",
-            "normalized": "mewl"
+            "id": "49849a98-bdc4-4026-b283-0001e807d738",
+            "clue": "Six-letter ending for the name of most dinosaurs",
+            "answer": "saurus",
+            "normalized": "saurus"
           },
           {
-            "id": "5c8a99df-e0e0-4c41-a867-df91714819d8",
-            "clue": "Related to a single cell organism",
-            "answer": "amoebic",
-            "normalized": "amoebic"
+            "id": "a72f7be9-2bc3-4dc2-8400-0860682e4559",
+            "clue": "Person who kicks the ball to another",
+            "answer": "passer",
+            "normalized": "passer"
           },
           {
-            "id": "adab6e92-65ed-4fa6-bd15-b64bc9970a13",
-            "clue": "Room where babies sleep, play or get educated",
-            "answer": "nursery",
-            "normalized": "nursery"
+            "id": "0d6a6089-dcda-4355-adf4-2d14a0f854e0",
+            "clue": "To voluntarily refrain from doing something",
+            "answer": "abstain",
+            "normalized": "abstain"
           },
           {
-            "id": "dfd3ceac-d5cd-4c03-a2ee-6ecddab5c781",
-            "clue": "Abbreviation for the business GlaxoSmithKline",
-            "answer": "gsk",
-            "normalized": "gsk"
+            "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
+            "clue": "Energy in our bodies in Chinese medicine tradition",
+            "answer": "chi",
+            "normalized": "chi"
           },
           {
-            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-            "clue": "Key typed with Ctrl and Del",
-            "answer": "alt",
-            "normalized": "alt"
+            "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
+            "clue": "Explosive letters",
+            "answer": "tnt",
+            "normalized": "tnt"
           },
           {
-            "id": "101e0994-0e05-4cd8-8de2-145929df87a8",
-            "clue": "Code for Hartsfield-Jackson Atlanta Airport",
-            "answer": "atl",
-            "normalized": "atl"
+            "id": "41840b30-746a-44da-98be-bb7697518030",
+            "clue": "Tic __, Ferrero mint",
+            "answer": "tac",
+            "normalized": "tac"
           },
           {
-            "id": "cd882df8-37e1-42dd-84fc-1faa0d66f152",
-            "clue": "Last name of Anywhere singer Rita",
-            "answer": "ora",
-            "normalized": "ora"
+            "id": "3fbe7f4b-92ad-4552-8343-7e8e8138c932",
+            "clue": "Hard-shelled unhatched chicken",
+            "answer": "egg",
+            "normalized": "egg"
           },
           {
-            "id": "ff3a8d8b-b2fa-46c4-b12e-137d1d34a5aa",
-            "clue": "Pot cover",
-            "answer": "lid",
-            "normalized": "lid"
+            "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
+            "clue": "Bachelor of Dental Surgery",
+            "answer": "bds",
+            "normalized": "bds"
           },
           {
-            "id": "8eadb724-c8f3-4bf6-9b65-171efdf71a88",
-            "clue": "She adopts the alien \"dog\" Stitch in the movie",
-            "answer": "lilo",
-            "normalized": "lilo"
+            "id": "2f0d8657-5ba7-4f87-98df-3eb9bc75c451",
+            "clue": "Lower house of Indian parliament",
+            "answer": "lok sabha",
+            "normalized": "loksabha"
           },
           {
-            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
-            "clue": "To engrave with a technique that uses acid",
-            "answer": "etch",
-            "normalized": "etch"
+            "id": "3c6f5c5e-30f0-4a8b-a295-6c9b91b77285",
+            "clue": "Era before the Jurassic",
+            "answer": "triassic",
+            "normalized": "triassic"
           },
           {
-            "id": "df7b48d0-1c42-46b3-811b-eb94b02cf3d3",
-            "clue": "One who professionally pigments things",
-            "answer": "dyer",
-            "normalized": "dyer"
+            "id": "ad8a26c8-e215-4ea3-8c0b-4b20bc5ea91e",
+            "clue": "Crowned with laurel, like a famous poet",
+            "answer": "laureate",
+            "normalized": "laureate"
           },
           {
-            "id": "c2ecf9a0-f79b-4e39-b64f-b2ee94e94b8f",
-            "clue": "Aristocrats, people of high social standing",
-            "answer": "nobles",
-            "normalized": "nobles"
+            "id": "1be774e2-40a6-49e2-8589-0ac4df5d1dc1",
+            "clue": "Ascetic spiritual practice of being bricked up",
+            "answer": "immuring",
+            "normalized": "immuring"
           },
           {
-            "id": "504d4f7a-daac-4d70-8cfb-dabb2ca3d6e0",
-            "clue": "Name of Ginny's friend group in Ginny and Georgia",
-            "answer": "mang",
-            "normalized": "mang"
+            "id": "9d1056de-10ab-4bcf-a4c8-2eb09968da4b",
+            "clue": "Dances energetically to music",
+            "answer": "bops",
+            "normalized": "bops"
           },
           {
-            "id": "6db4f313-162c-4454-9ae2-17086e15448b",
-            "clue": "Big Australian birds",
-            "answer": "emus",
-            "normalized": "emus"
+            "id": "f334eb7c-c272-49db-9177-d3e6a6a5ccaf",
+            "clue": "First word in Nike's trademark slogan",
+            "answer": "just",
+            "normalized": "just"
           },
           {
-            "id": "c59a6ebe-9678-4e8a-9607-f0eaaf83b2f7",
-            "clue": "Busy oneself with chores or employment tasks",
-            "answer": "work",
-            "normalized": "work"
+            "id": "0d4bb29e-6a18-45c6-957f-499864d0e525",
+            "clue": "Someone striking a deal with the devil makes one",
+            "answer": "pact",
+            "normalized": "pact"
           },
           {
-            "id": "89107f18-9b54-438c-80ae-df2bc4f29fac",
-            "clue": "This Arthur played Dorothy on The Golden Girls",
-            "answer": "bea",
-            "normalized": "bea"
-          },
-          {
-            "id": "c1a8c98b-d1e5-4120-81d4-30e39c3ec8ef",
-            "clue": "Text lingo for in real life, not on screen",
-            "answer": "irl",
-            "normalized": "irl"
-          },
-          {
-            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
-            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
-            "answer": "cyt",
-            "normalized": "cyt"
+            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
+            "clue": "Medical abbreviation for nitroglycerin",
+            "answer": "ntg",
+            "normalized": "ntg"
           }
         ],
-        "track": "PC|LenC--Y2026M5D31F1"
+        "track": "PC|LenC--Y2026M6D1F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-05-31",
+      "key": "2026-06-01",
       "year": 2026,
-      "month": 5,
-      "day": 31,
+      "month": 6,
+      "day": 1,
       "small": {
-        "puzzleId": "bdd08cea-f6f2-4581-914a-be0d5dae52fb",
+        "puzzleId": "PC|LenC--Y2026M6D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 0,
         "answers": [
           {
-            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
-            "clue": "Dry crust over a wound",
-            "answer": "scab",
-            "normalized": "scab"
+            "id": "ed393710-fce9-4ce2-b9fe-7ec7e1fc105a",
+            "clue": "Royal gardens in London, near a river",
+            "answer": "kew",
+            "normalized": "kew"
           },
           {
-            "id": "4afb3572-fcbb-47a6-bc67-e942acf103ec",
-            "clue": "A jungle bird; to repeat something senselessly",
-            "answer": "parrot",
-            "normalized": "parrot"
+            "id": "8df2b90c-32aa-432c-9c71-c2b80917b77d",
+            "clue": "Oscar's title on Sesame Street",
+            "answer": "grouch",
+            "normalized": "grouch"
           },
           {
-            "id": "b01bd4ff-e0e8-46dd-824d-7023e038ed05",
-            "clue": "Ancient Egyptian capital established by Akhenaten",
-            "answer": "amarna",
-            "normalized": "amarna"
+            "id": "3b553a0d-02dc-44d0-885f-b59e1d2571ac",
+            "clue": "Scale measuring the darkness of the night sky",
+            "answer": "bortle",
+            "normalized": "bortle"
           },
           {
-            "id": "ea007b78-19be-40d0-a96b-581932a4c81d",
-            "clue": "Wall cladding on the face of a house",
-            "answer": "siding",
-            "normalized": "siding"
+            "id": "0c92ddb6-74c9-4577-9c61-90e91cdcadbc",
+            "clue": "Perfect vision to aim for",
+            "answer": "ideal",
+            "normalized": "ideal"
           },
           {
-            "id": "40aad60b-b142-4b15-a95a-d8220ff1d782",
-            "clue": "Two equal or nearly equal parts of a whole",
-            "answer": "halves",
-            "normalized": "halves"
+            "id": "f51a8324-abc0-4ff7-877b-ee4bfe48a9d1",
+            "clue": "A rare or mysterious object kept for display",
+            "answer": "curio",
+            "normalized": "curio"
           },
           {
-            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
-            "clue": "What to do with the Parents, Dave, and Joe Black",
-            "answer": "meet",
-            "normalized": "meet"
+            "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
+            "clue": "On or toward the left side of a ship",
+            "answer": "aport",
+            "normalized": "aport"
           },
           {
-            "id": "70c1df03-7ff5-46d1-ad53-121ca0e56098",
-            "clue": "He serves green eggs and ham",
-            "answer": "sam i am",
-            "normalized": "samiam"
+            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
+            "clue": "Former Soviet spy agency",
+            "answer": "kgb",
+            "normalized": "kgb"
           },
           {
-            "id": "b3a44c41-eb84-43f7-991a-40fb74830520",
-            "clue": "Harry Chapin's fatherhood song, Cat's in the __",
-            "answer": "cradle",
-            "normalized": "cradle"
+            "id": "b88dbd05-e71f-4835-a843-9355f168da08",
+            "clue": "Name given to Beethoven's Symphony No. 3",
+            "answer": "eroica",
+            "normalized": "eroica"
           },
           {
-            "id": "3508566c-bb5a-4ea9-b90b-06e9b5946f6c",
-            "clue": "To reach your destination; to finally happen",
-            "answer": "arrive",
-            "normalized": "arrive"
+            "id": "8e8a8244-87e1-4c4b-b773-eccb4016fad8",
+            "clue": "Affirmative 1980s urban slang and a song by Cameo",
+            "answer": "word up",
+            "normalized": "wordup"
           },
           {
-            "id": "d62697f6-5a22-4cd1-a92b-cfec1e093ab3",
-            "clue": "Scotch __, hot chili pepper of the Caribbean",
-            "answer": "bonnet",
-            "normalized": "bonnet"
+            "id": "d8aa4e3d-d535-4754-930e-130354e9d2a7",
+            "clue": "In __, 1993 \"in the womb\" Nirvana album",
+            "answer": "utero",
+            "normalized": "utero"
           },
           {
-            "id": "01f64917-dfa3-4cd0-b61a-5ef68c0acd4f",
-            "clue": "Australianism for kiss",
-            "answer": "pash",
-            "normalized": "pash"
+            "id": "659daf41-6cc2-4c2a-8a50-f5d5f2fb1d75",
+            "clue": "A French word meaning \"clear\"",
+            "answer": "clair",
+            "normalized": "clair"
           },
           {
-            "id": "a9f67751-24df-4911-a4b4-fa7aa8b452a6",
-            "clue": "Clothing labels",
-            "answer": "tags",
-            "normalized": "tags"
+            "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
+            "clue": "Ancient Greek serf in Sparta",
+            "answer": "helot",
+            "normalized": "helot"
           }
         ],
-        "track": "PC|LenC--Y2026M5D31F0"
+        "track": "PC|LenC--Y2026M6D1F0"
       },
       "mid": {
-        "puzzleId": "f33ecfe4-18b1-4bb1-9c01-1c7d865809ad",
+        "puzzleId": "PC|LenC--Y2026M6D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
-            "clue": "Early US internet company that bought Netscape",
-            "answer": "aol",
-            "normalized": "aol"
+            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
+            "clue": "Sandwich made with bacon, lettuce and tomato",
+            "answer": "blt",
+            "normalized": "blt"
           },
           {
-            "id": "15939944-dd54-43f5-a212-8eb213233be2",
-            "clue": "Spearheaded",
-            "answer": "led",
-            "normalized": "led"
+            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
+            "clue": "Word that follows ad to mean an improv",
+            "answer": "lib",
+            "normalized": "lib"
           },
           {
-            "id": "e1191897-5265-41bc-8bc2-acf91145a812",
-            "clue": "The Father, the Son, and the Holy Ghost",
-            "answer": "trinity",
-            "normalized": "trinity"
+            "id": "2203afb0-b584-49e3-878f-d0306e2b806b",
+            "clue": "Karin __, Bond girl in You Only Live Twice",
+            "answer": "dor",
+            "normalized": "dor"
           },
           {
-            "id": "41b28660-61be-4dcd-9939-a1abc2e37c10",
-            "clue": "__ Vita; 1960 \"good life\" Italian film",
-            "answer": "la dolce",
-            "normalized": "ladolce"
+            "id": "67f67f74-e1b1-48b4-9e90-1806d8c1d9b6",
+            "clue": "Ti __, I love you in Italian",
+            "answer": "amo",
+            "normalized": "amo"
           },
           {
-            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
-            "clue": "Danish Nobel Prize-winning physicist, Niels",
-            "answer": "bohr",
-            "normalized": "bohr"
+            "id": "c5d05957-c5aa-4cb0-8dff-a8c2cd4a3583",
+            "clue": "It will send you flying in the winter",
+            "answer": "ski jump",
+            "normalized": "skijump"
           },
           {
-            "id": "1300615b-4779-40ad-b566-13a5230afaaa",
-            "clue": "Whimper or feeble cry",
-            "answer": "mewl",
-            "normalized": "mewl"
+            "id": "49849a98-bdc4-4026-b283-0001e807d738",
+            "clue": "Six-letter ending for the name of most dinosaurs",
+            "answer": "saurus",
+            "normalized": "saurus"
           },
           {
-            "id": "5c8a99df-e0e0-4c41-a867-df91714819d8",
-            "clue": "Related to a single cell organism",
-            "answer": "amoebic",
-            "normalized": "amoebic"
+            "id": "a72f7be9-2bc3-4dc2-8400-0860682e4559",
+            "clue": "Person who kicks the ball to another",
+            "answer": "passer",
+            "normalized": "passer"
           },
           {
-            "id": "adab6e92-65ed-4fa6-bd15-b64bc9970a13",
-            "clue": "Room where babies sleep, play or get educated",
-            "answer": "nursery",
-            "normalized": "nursery"
+            "id": "0d6a6089-dcda-4355-adf4-2d14a0f854e0",
+            "clue": "To voluntarily refrain from doing something",
+            "answer": "abstain",
+            "normalized": "abstain"
           },
           {
-            "id": "dfd3ceac-d5cd-4c03-a2ee-6ecddab5c781",
-            "clue": "Abbreviation for the business GlaxoSmithKline",
-            "answer": "gsk",
-            "normalized": "gsk"
+            "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
+            "clue": "Energy in our bodies in Chinese medicine tradition",
+            "answer": "chi",
+            "normalized": "chi"
           },
           {
-            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-            "clue": "Key typed with Ctrl and Del",
-            "answer": "alt",
-            "normalized": "alt"
+            "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
+            "clue": "Explosive letters",
+            "answer": "tnt",
+            "normalized": "tnt"
           },
           {
-            "id": "101e0994-0e05-4cd8-8de2-145929df87a8",
-            "clue": "Code for Hartsfield-Jackson Atlanta Airport",
-            "answer": "atl",
-            "normalized": "atl"
+            "id": "41840b30-746a-44da-98be-bb7697518030",
+            "clue": "Tic __, Ferrero mint",
+            "answer": "tac",
+            "normalized": "tac"
           },
           {
-            "id": "cd882df8-37e1-42dd-84fc-1faa0d66f152",
-            "clue": "Last name of Anywhere singer Rita",
-            "answer": "ora",
-            "normalized": "ora"
+            "id": "3fbe7f4b-92ad-4552-8343-7e8e8138c932",
+            "clue": "Hard-shelled unhatched chicken",
+            "answer": "egg",
+            "normalized": "egg"
           },
           {
-            "id": "ff3a8d8b-b2fa-46c4-b12e-137d1d34a5aa",
-            "clue": "Pot cover",
-            "answer": "lid",
-            "normalized": "lid"
+            "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
+            "clue": "Bachelor of Dental Surgery",
+            "answer": "bds",
+            "normalized": "bds"
           },
           {
-            "id": "8eadb724-c8f3-4bf6-9b65-171efdf71a88",
-            "clue": "She adopts the alien \"dog\" Stitch in the movie",
-            "answer": "lilo",
-            "normalized": "lilo"
+            "id": "2f0d8657-5ba7-4f87-98df-3eb9bc75c451",
+            "clue": "Lower house of Indian parliament",
+            "answer": "lok sabha",
+            "normalized": "loksabha"
           },
           {
-            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
-            "clue": "To engrave with a technique that uses acid",
-            "answer": "etch",
-            "normalized": "etch"
+            "id": "3c6f5c5e-30f0-4a8b-a295-6c9b91b77285",
+            "clue": "Era before the Jurassic",
+            "answer": "triassic",
+            "normalized": "triassic"
           },
           {
-            "id": "df7b48d0-1c42-46b3-811b-eb94b02cf3d3",
-            "clue": "One who professionally pigments things",
-            "answer": "dyer",
-            "normalized": "dyer"
+            "id": "ad8a26c8-e215-4ea3-8c0b-4b20bc5ea91e",
+            "clue": "Crowned with laurel, like a famous poet",
+            "answer": "laureate",
+            "normalized": "laureate"
           },
           {
-            "id": "c2ecf9a0-f79b-4e39-b64f-b2ee94e94b8f",
-            "clue": "Aristocrats, people of high social standing",
-            "answer": "nobles",
-            "normalized": "nobles"
+            "id": "1be774e2-40a6-49e2-8589-0ac4df5d1dc1",
+            "clue": "Ascetic spiritual practice of being bricked up",
+            "answer": "immuring",
+            "normalized": "immuring"
           },
           {
-            "id": "504d4f7a-daac-4d70-8cfb-dabb2ca3d6e0",
-            "clue": "Name of Ginny's friend group in Ginny and Georgia",
-            "answer": "mang",
-            "normalized": "mang"
+            "id": "9d1056de-10ab-4bcf-a4c8-2eb09968da4b",
+            "clue": "Dances energetically to music",
+            "answer": "bops",
+            "normalized": "bops"
           },
           {
-            "id": "6db4f313-162c-4454-9ae2-17086e15448b",
-            "clue": "Big Australian birds",
-            "answer": "emus",
-            "normalized": "emus"
+            "id": "f334eb7c-c272-49db-9177-d3e6a6a5ccaf",
+            "clue": "First word in Nike's trademark slogan",
+            "answer": "just",
+            "normalized": "just"
           },
           {
-            "id": "c59a6ebe-9678-4e8a-9607-f0eaaf83b2f7",
-            "clue": "Busy oneself with chores or employment tasks",
-            "answer": "work",
-            "normalized": "work"
+            "id": "0d4bb29e-6a18-45c6-957f-499864d0e525",
+            "clue": "Someone striking a deal with the devil makes one",
+            "answer": "pact",
+            "normalized": "pact"
           },
           {
-            "id": "89107f18-9b54-438c-80ae-df2bc4f29fac",
-            "clue": "This Arthur played Dorothy on The Golden Girls",
-            "answer": "bea",
-            "normalized": "bea"
-          },
-          {
-            "id": "c1a8c98b-d1e5-4120-81d4-30e39c3ec8ef",
-            "clue": "Text lingo for in real life, not on screen",
-            "answer": "irl",
-            "normalized": "irl"
-          },
-          {
-            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
-            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
-            "answer": "cyt",
-            "normalized": "cyt"
+            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
+            "clue": "Medical abbreviation for nitroglycerin",
+            "answer": "ntg",
+            "normalized": "ntg"
           }
         ],
-        "track": "PC|LenC--Y2026M5D31F1"
+        "track": "PC|LenC--Y2026M6D1F1"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-05-31",
+      "key": "2026-06-01",
       "year": 2026,
-      "month": 5,
-      "day": 31,
+      "month": 6,
+      "day": 1,
       "small": {
-        "puzzleId": "bdd08cea-f6f2-4581-914a-be0d5dae52fb",
+        "puzzleId": "PC|LenC--Y2026M6D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 0,
         "answers": [
           {
-            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
-            "clue": "Dry crust over a wound",
-            "answer": "scab",
-            "normalized": "scab"
+            "id": "ed393710-fce9-4ce2-b9fe-7ec7e1fc105a",
+            "clue": "Royal gardens in London, near a river",
+            "answer": "kew",
+            "normalized": "kew"
           },
           {
-            "id": "4afb3572-fcbb-47a6-bc67-e942acf103ec",
-            "clue": "A jungle bird; to repeat something senselessly",
-            "answer": "parrot",
-            "normalized": "parrot"
+            "id": "8df2b90c-32aa-432c-9c71-c2b80917b77d",
+            "clue": "Oscar's title on Sesame Street",
+            "answer": "grouch",
+            "normalized": "grouch"
           },
           {
-            "id": "b01bd4ff-e0e8-46dd-824d-7023e038ed05",
-            "clue": "Ancient Egyptian capital established by Akhenaten",
-            "answer": "amarna",
-            "normalized": "amarna"
+            "id": "3b553a0d-02dc-44d0-885f-b59e1d2571ac",
+            "clue": "Scale measuring the darkness of the night sky",
+            "answer": "bortle",
+            "normalized": "bortle"
           },
           {
-            "id": "ea007b78-19be-40d0-a96b-581932a4c81d",
-            "clue": "Wall cladding on the face of a house",
-            "answer": "siding",
-            "normalized": "siding"
+            "id": "0c92ddb6-74c9-4577-9c61-90e91cdcadbc",
+            "clue": "Perfect vision to aim for",
+            "answer": "ideal",
+            "normalized": "ideal"
           },
           {
-            "id": "40aad60b-b142-4b15-a95a-d8220ff1d782",
-            "clue": "Two equal or nearly equal parts of a whole",
-            "answer": "halves",
-            "normalized": "halves"
+            "id": "f51a8324-abc0-4ff7-877b-ee4bfe48a9d1",
+            "clue": "A rare or mysterious object kept for display",
+            "answer": "curio",
+            "normalized": "curio"
           },
           {
-            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
-            "clue": "What to do with the Parents, Dave, and Joe Black",
-            "answer": "meet",
-            "normalized": "meet"
+            "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
+            "clue": "On or toward the left side of a ship",
+            "answer": "aport",
+            "normalized": "aport"
           },
           {
-            "id": "70c1df03-7ff5-46d1-ad53-121ca0e56098",
-            "clue": "He serves green eggs and ham",
-            "answer": "sam i am",
-            "normalized": "samiam"
+            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
+            "clue": "Former Soviet spy agency",
+            "answer": "kgb",
+            "normalized": "kgb"
           },
           {
-            "id": "b3a44c41-eb84-43f7-991a-40fb74830520",
-            "clue": "Harry Chapin's fatherhood song, Cat's in the __",
-            "answer": "cradle",
-            "normalized": "cradle"
+            "id": "b88dbd05-e71f-4835-a843-9355f168da08",
+            "clue": "Name given to Beethoven's Symphony No. 3",
+            "answer": "eroica",
+            "normalized": "eroica"
           },
           {
-            "id": "3508566c-bb5a-4ea9-b90b-06e9b5946f6c",
-            "clue": "To reach your destination; to finally happen",
-            "answer": "arrive",
-            "normalized": "arrive"
+            "id": "8e8a8244-87e1-4c4b-b773-eccb4016fad8",
+            "clue": "Affirmative 1980s urban slang and a song by Cameo",
+            "answer": "word up",
+            "normalized": "wordup"
           },
           {
-            "id": "d62697f6-5a22-4cd1-a92b-cfec1e093ab3",
-            "clue": "Scotch __, hot chili pepper of the Caribbean",
-            "answer": "bonnet",
-            "normalized": "bonnet"
+            "id": "d8aa4e3d-d535-4754-930e-130354e9d2a7",
+            "clue": "In __, 1993 \"in the womb\" Nirvana album",
+            "answer": "utero",
+            "normalized": "utero"
           },
           {
-            "id": "01f64917-dfa3-4cd0-b61a-5ef68c0acd4f",
-            "clue": "Australianism for kiss",
-            "answer": "pash",
-            "normalized": "pash"
+            "id": "659daf41-6cc2-4c2a-8a50-f5d5f2fb1d75",
+            "clue": "A French word meaning \"clear\"",
+            "answer": "clair",
+            "normalized": "clair"
           },
           {
-            "id": "a9f67751-24df-4911-a4b4-fa7aa8b452a6",
-            "clue": "Clothing labels",
-            "answer": "tags",
-            "normalized": "tags"
+            "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
+            "clue": "Ancient Greek serf in Sparta",
+            "answer": "helot",
+            "normalized": "helot"
           }
         ],
-        "track": "PC|LenC--Y2026M5D31F0"
+        "track": "PC|LenC--Y2026M6D1F0"
       },
       "mid": {
-        "puzzleId": "f33ecfe4-18b1-4bb1-9c01-1c7d865809ad",
+        "puzzleId": "PC|LenC--Y2026M6D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
-            "clue": "Early US internet company that bought Netscape",
-            "answer": "aol",
-            "normalized": "aol"
+            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
+            "clue": "Sandwich made with bacon, lettuce and tomato",
+            "answer": "blt",
+            "normalized": "blt"
           },
           {
-            "id": "15939944-dd54-43f5-a212-8eb213233be2",
-            "clue": "Spearheaded",
-            "answer": "led",
-            "normalized": "led"
+            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
+            "clue": "Word that follows ad to mean an improv",
+            "answer": "lib",
+            "normalized": "lib"
           },
           {
-            "id": "e1191897-5265-41bc-8bc2-acf91145a812",
-            "clue": "The Father, the Son, and the Holy Ghost",
-            "answer": "trinity",
-            "normalized": "trinity"
+            "id": "2203afb0-b584-49e3-878f-d0306e2b806b",
+            "clue": "Karin __, Bond girl in You Only Live Twice",
+            "answer": "dor",
+            "normalized": "dor"
           },
           {
-            "id": "41b28660-61be-4dcd-9939-a1abc2e37c10",
-            "clue": "__ Vita; 1960 \"good life\" Italian film",
-            "answer": "la dolce",
-            "normalized": "ladolce"
+            "id": "67f67f74-e1b1-48b4-9e90-1806d8c1d9b6",
+            "clue": "Ti __, I love you in Italian",
+            "answer": "amo",
+            "normalized": "amo"
           },
           {
-            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
-            "clue": "Danish Nobel Prize-winning physicist, Niels",
-            "answer": "bohr",
-            "normalized": "bohr"
+            "id": "c5d05957-c5aa-4cb0-8dff-a8c2cd4a3583",
+            "clue": "It will send you flying in the winter",
+            "answer": "ski jump",
+            "normalized": "skijump"
           },
           {
-            "id": "1300615b-4779-40ad-b566-13a5230afaaa",
-            "clue": "Whimper or feeble cry",
-            "answer": "mewl",
-            "normalized": "mewl"
+            "id": "49849a98-bdc4-4026-b283-0001e807d738",
+            "clue": "Six-letter ending for the name of most dinosaurs",
+            "answer": "saurus",
+            "normalized": "saurus"
           },
           {
-            "id": "5c8a99df-e0e0-4c41-a867-df91714819d8",
-            "clue": "Related to a single cell organism",
-            "answer": "amoebic",
-            "normalized": "amoebic"
+            "id": "a72f7be9-2bc3-4dc2-8400-0860682e4559",
+            "clue": "Person who kicks the ball to another",
+            "answer": "passer",
+            "normalized": "passer"
           },
           {
-            "id": "adab6e92-65ed-4fa6-bd15-b64bc9970a13",
-            "clue": "Room where babies sleep, play or get educated",
-            "answer": "nursery",
-            "normalized": "nursery"
+            "id": "0d6a6089-dcda-4355-adf4-2d14a0f854e0",
+            "clue": "To voluntarily refrain from doing something",
+            "answer": "abstain",
+            "normalized": "abstain"
           },
           {
-            "id": "dfd3ceac-d5cd-4c03-a2ee-6ecddab5c781",
-            "clue": "Abbreviation for the business GlaxoSmithKline",
-            "answer": "gsk",
-            "normalized": "gsk"
+            "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
+            "clue": "Energy in our bodies in Chinese medicine tradition",
+            "answer": "chi",
+            "normalized": "chi"
           },
           {
-            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-            "clue": "Key typed with Ctrl and Del",
-            "answer": "alt",
-            "normalized": "alt"
+            "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
+            "clue": "Explosive letters",
+            "answer": "tnt",
+            "normalized": "tnt"
           },
           {
-            "id": "101e0994-0e05-4cd8-8de2-145929df87a8",
-            "clue": "Code for Hartsfield-Jackson Atlanta Airport",
-            "answer": "atl",
-            "normalized": "atl"
+            "id": "41840b30-746a-44da-98be-bb7697518030",
+            "clue": "Tic __, Ferrero mint",
+            "answer": "tac",
+            "normalized": "tac"
           },
           {
-            "id": "cd882df8-37e1-42dd-84fc-1faa0d66f152",
-            "clue": "Last name of Anywhere singer Rita",
-            "answer": "ora",
-            "normalized": "ora"
+            "id": "3fbe7f4b-92ad-4552-8343-7e8e8138c932",
+            "clue": "Hard-shelled unhatched chicken",
+            "answer": "egg",
+            "normalized": "egg"
           },
           {
-            "id": "ff3a8d8b-b2fa-46c4-b12e-137d1d34a5aa",
-            "clue": "Pot cover",
-            "answer": "lid",
-            "normalized": "lid"
+            "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
+            "clue": "Bachelor of Dental Surgery",
+            "answer": "bds",
+            "normalized": "bds"
           },
           {
-            "id": "8eadb724-c8f3-4bf6-9b65-171efdf71a88",
-            "clue": "She adopts the alien \"dog\" Stitch in the movie",
-            "answer": "lilo",
-            "normalized": "lilo"
+            "id": "2f0d8657-5ba7-4f87-98df-3eb9bc75c451",
+            "clue": "Lower house of Indian parliament",
+            "answer": "lok sabha",
+            "normalized": "loksabha"
           },
           {
-            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
-            "clue": "To engrave with a technique that uses acid",
-            "answer": "etch",
-            "normalized": "etch"
+            "id": "3c6f5c5e-30f0-4a8b-a295-6c9b91b77285",
+            "clue": "Era before the Jurassic",
+            "answer": "triassic",
+            "normalized": "triassic"
           },
           {
-            "id": "df7b48d0-1c42-46b3-811b-eb94b02cf3d3",
-            "clue": "One who professionally pigments things",
-            "answer": "dyer",
-            "normalized": "dyer"
+            "id": "ad8a26c8-e215-4ea3-8c0b-4b20bc5ea91e",
+            "clue": "Crowned with laurel, like a famous poet",
+            "answer": "laureate",
+            "normalized": "laureate"
           },
           {
-            "id": "c2ecf9a0-f79b-4e39-b64f-b2ee94e94b8f",
-            "clue": "Aristocrats, people of high social standing",
-            "answer": "nobles",
-            "normalized": "nobles"
+            "id": "1be774e2-40a6-49e2-8589-0ac4df5d1dc1",
+            "clue": "Ascetic spiritual practice of being bricked up",
+            "answer": "immuring",
+            "normalized": "immuring"
           },
           {
-            "id": "504d4f7a-daac-4d70-8cfb-dabb2ca3d6e0",
-            "clue": "Name of Ginny's friend group in Ginny and Georgia",
-            "answer": "mang",
-            "normalized": "mang"
+            "id": "9d1056de-10ab-4bcf-a4c8-2eb09968da4b",
+            "clue": "Dances energetically to music",
+            "answer": "bops",
+            "normalized": "bops"
           },
           {
-            "id": "6db4f313-162c-4454-9ae2-17086e15448b",
-            "clue": "Big Australian birds",
-            "answer": "emus",
-            "normalized": "emus"
+            "id": "f334eb7c-c272-49db-9177-d3e6a6a5ccaf",
+            "clue": "First word in Nike's trademark slogan",
+            "answer": "just",
+            "normalized": "just"
           },
           {
-            "id": "c59a6ebe-9678-4e8a-9607-f0eaaf83b2f7",
-            "clue": "Busy oneself with chores or employment tasks",
-            "answer": "work",
-            "normalized": "work"
+            "id": "0d4bb29e-6a18-45c6-957f-499864d0e525",
+            "clue": "Someone striking a deal with the devil makes one",
+            "answer": "pact",
+            "normalized": "pact"
           },
           {
-            "id": "89107f18-9b54-438c-80ae-df2bc4f29fac",
-            "clue": "This Arthur played Dorothy on The Golden Girls",
-            "answer": "bea",
-            "normalized": "bea"
-          },
-          {
-            "id": "c1a8c98b-d1e5-4120-81d4-30e39c3ec8ef",
-            "clue": "Text lingo for in real life, not on screen",
-            "answer": "irl",
-            "normalized": "irl"
-          },
-          {
-            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
-            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
-            "answer": "cyt",
-            "normalized": "cyt"
+            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
+            "clue": "Medical abbreviation for nitroglycerin",
+            "answer": "ntg",
+            "normalized": "ntg"
           }
         ],
-        "track": "PC|LenC--Y2026M5D31F1"
+        "track": "PC|LenC--Y2026M6D1F1"
       }
     },
     "todayPublished": true
@@ -415487,21 +415675,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "vRycS52m4f0zzfU57JZexwChBIoQxyszi8uuMEBs3mtRVcA8l3mNLF7K/Qu3MiiBItp3joh8WRxry2EBmnHSNhv9IHOpgkfsIq5I40bnBl7pZ4Cl5c1MiuExhLR5hi1/vxR8HxSI5lvv9NMeFFvGNSUIaskoccQmHUJFks1Z+XyydEbmMN6t9J9T0Fa+nHMrztJaHvlV9VYMNrQVcOWw6kosGN1p1wv5QfMdsYuvp4HVixKV5gZIRhcMJGaZ9nerQVNyF2aeWV8C5snTIiy3MG9Wh9D1P7NmR56ie1eER1oDr2KpQ3z+XL+ZjBGfjHM6"
+        "BlxdJ5QnIL4ESFvZWn3RiAAfkNEw9ZGbiBnF1xAWePRlSqRGfChLz/fkyAhhsOeySgwnI+u0BEGFSx6LRyqkuZ7Vo4fd8yry4Tf2fNlj9b5YU24aFxwVDqHImLoHUVhrHsYphypx7E9RcIk4l8APgVUsi3+puWjNft9jGLebA+4Y8+HDCbNthwgD8UQ85jv6pbxv3CFECzoZsPlch7GZY40yAt+Rt6Hk6Pnakb50Qo70ZWxeK33GJn/EziQwoBlUJCS+he6eUOnGrSISKBe7CmpT4HaGqZkkMfwVKw9591M="
       ]
     },
     "decrypted": {
-      "Id": "1a269134-c7af-4b80-b605-3fa85ac64ade",
-      "Date": "2026-05-31T00:00:00Z",
+      "Id": "20086a1b-2670-4290-9f67-e7bc08d0ea8b",
+      "Date": "2026-06-01T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "orphan",
-      "NormalizedPassword": "orphan",
+      "Password": "hotel",
+      "NormalizedPassword": "hotel",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-05-31T01:16:55.7870000+05:30",
-    "hash": "cabfff061c42e95282ccb11c8b48322e",
+    "dtu": "2026-06-01T01:17:22.3170000+05:30",
+    "hash": "a54425bd9aef4b0ce3c1b77c431315ad",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
