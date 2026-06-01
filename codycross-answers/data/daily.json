@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-05-31T19:47:22.317Z",
+  "generatedAt": "2026-06-01T21:46:54.381Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 1
+    "day": 2
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 59
+        "QuantidadeDeFases": 61
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -388,227 +388,227 @@
     ],
     "archiveEntries": [
       {
-        "key": "2026-06-01",
+        "key": "2026-06-02",
         "year": 2026,
         "month": 6,
-        "day": 1,
+        "day": 2,
         "small": {
-          "puzzleId": "PC|LenC--Y2026M6D1F0",
+          "puzzleId": "PC|LenC--Y2026M6D2F0",
           "fase": 0,
           "size": 1,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "ed393710-fce9-4ce2-b9fe-7ec7e1fc105a",
-              "clue": "Royal gardens in London, near a river",
-              "answer": "kew",
-              "normalized": "kew"
+              "id": "f1e971e6-fa33-471a-9560-6aaff4afedf9",
+              "clue": "Actress and UNICEF Goodwill Ambassador Farrow",
+              "answer": "mia",
+              "normalized": "mia"
             },
             {
-              "id": "8df2b90c-32aa-432c-9c71-c2b80917b77d",
-              "clue": "Oscar's title on Sesame Street",
-              "answer": "grouch",
-              "normalized": "grouch"
+              "id": "3a9f825f-6e80-4196-b8b3-81c9a73ecc98",
+              "clue": "Australian wild dog",
+              "answer": "dingo",
+              "normalized": "dingo"
             },
             {
-              "id": "3b553a0d-02dc-44d0-885f-b59e1d2571ac",
-              "clue": "Scale measuring the darkness of the night sky",
-              "answer": "bortle",
-              "normalized": "bortle"
+              "id": "d3e3e6a2-2ee5-4b42-8c58-f935f9b84559",
+              "clue": "Microsoft office software for spreadsheets",
+              "answer": "excel",
+              "normalized": "excel"
             },
             {
-              "id": "0c92ddb6-74c9-4577-9c61-90e91cdcadbc",
-              "clue": "Perfect vision to aim for",
-              "answer": "ideal",
-              "normalized": "ideal"
+              "id": "28fc791d-b7ec-4451-9bc1-5328fe62603e",
+              "clue": "__ Bobby McGee, posthumous Janis Joplin hit",
+              "answer": "me and",
+              "normalized": "meand"
             },
             {
-              "id": "f51a8324-abc0-4ff7-877b-ee4bfe48a9d1",
-              "clue": "A rare or mysterious object kept for display",
-              "answer": "curio",
-              "normalized": "curio"
+              "id": "f9888e31-e0b2-42e6-9fe7-8fa55b961b74",
+              "clue": "Initialism for spring clock adjustment in the USA",
+              "answer": "dst",
+              "normalized": "dst"
             },
             {
-              "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
-              "clue": "On or toward the left side of a ship",
-              "answer": "aport",
-              "normalized": "aport"
+              "id": "328da6f8-2f06-4cf0-9b0f-c1cc52d9af52",
+              "clue": "Jumbled up, not separated",
+              "answer": "mixed",
+              "normalized": "mixed"
             },
             {
-              "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
-              "clue": "Former Soviet spy agency",
-              "answer": "kgb",
-              "normalized": "kgb"
+              "id": "c1305a7e-90b8-4356-a157-1898009ec8d8",
+              "clue": "Pre-Spanish-conquest peoples in central Andes",
+              "answer": "incas",
+              "normalized": "incas"
             },
             {
-              "id": "b88dbd05-e71f-4835-a843-9355f168da08",
-              "clue": "Name given to Beethoven's Symphony No. 3",
-              "answer": "eroica",
-              "normalized": "eroica"
+              "id": "7c858d5b-69af-4f53-a415-24c2e51c9323",
+              "clue": "Negotiator between authors and publishers",
+              "answer": "agent",
+              "normalized": "agent"
             },
             {
-              "id": "8e8a8244-87e1-4c4b-b773-eccb4016fad8",
-              "clue": "Affirmative 1980s urban slang and a song by Cameo",
-              "answer": "word up",
-              "normalized": "wordup"
+              "id": "1064b6ac-a783-4b39-926c-0d6c7cb6e388",
+              "clue": "Slang for them, in song about bones, dry bones",
+              "answer": "dem",
+              "normalized": "dem"
             },
             {
-              "id": "d8aa4e3d-d535-4754-930e-130354e9d2a7",
-              "clue": "In __, 1993 \"in the womb\" Nirvana album",
-              "answer": "utero",
-              "normalized": "utero"
-            },
-            {
-              "id": "659daf41-6cc2-4c2a-8a50-f5d5f2fb1d75",
-              "clue": "A French word meaning \"clear\"",
-              "answer": "clair",
-              "normalized": "clair"
-            },
-            {
-              "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
-              "clue": "Ancient Greek serf in Sparta",
-              "answer": "helot",
-              "normalized": "helot"
+              "id": "844af65c-6cc4-4d52-9794-285fd911ba6c",
+              "clue": "Aged, mature, vintage",
+              "answer": "old",
+              "normalized": "old"
             }
           ],
-          "track": "PC|LenC--Y2026M6D1F0"
+          "track": "PC|LenC--Y2026M6D2F0"
         },
         "mid": {
-          "puzzleId": "PC|LenC--Y2026M6D1F1",
+          "puzzleId": "PC|LenC--Y2026M6D2F1",
           "fase": 1,
           "size": 2,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
-              "clue": "Sandwich made with bacon, lettuce and tomato",
-              "answer": "blt",
-              "normalized": "blt"
+              "id": "5fb8b89c-8b1f-4bf5-87c8-11045d26bdc7",
+              "clue": "Broadcast company behind Doctor Who",
+              "answer": "bbc",
+              "normalized": "bbc"
             },
             {
-              "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
-              "clue": "Word that follows ad to mean an improv",
-              "answer": "lib",
-              "normalized": "lib"
+              "id": "34b09dc1-034d-47b6-9ae5-7e510f9dbdd2",
+              "clue": "Initialism for ready for inspection",
+              "answer": "rfi",
+              "normalized": "rfi"
             },
             {
-              "id": "2203afb0-b584-49e3-878f-d0306e2b806b",
-              "clue": "Karin __, Bond girl in You Only Live Twice",
-              "answer": "dor",
-              "normalized": "dor"
+              "id": "7e00e44b-bbeb-40d2-988c-bcf2a8946848",
+              "clue": "Pizza and pasta is this type of food",
+              "answer": "italian",
+              "normalized": "italian"
             },
             {
-              "id": "67f67f74-e1b1-48b4-9e90-1806d8c1d9b6",
-              "clue": "Ti __, I love you in Italian",
-              "answer": "amo",
-              "normalized": "amo"
+              "id": "0c87a1af-ea97-4d23-a1f9-11f4b1b14aa9",
+              "clue": "80s song by Grover Washington Jr., Just the __",
+              "answer": "two of us",
+              "normalized": "twoofus"
             },
             {
-              "id": "c5d05957-c5aa-4cb0-8dff-a8c2cd4a3583",
-              "clue": "It will send you flying in the winter",
-              "answer": "ski jump",
-              "normalized": "skijump"
+              "id": "b5181aba-ef47-4fd1-97b7-9664539d61cd",
+              "clue": "Perfectly behaved man",
+              "answer": "gent",
+              "normalized": "gent"
             },
             {
-              "id": "49849a98-bdc4-4026-b283-0001e807d738",
-              "clue": "Six-letter ending for the name of most dinosaurs",
-              "answer": "saurus",
-              "normalized": "saurus"
+              "id": "dda3007d-cdcb-4df3-a8e2-d59a2e3764dd",
+              "clue": "Native American group from Arizona",
+              "answer": "yuma",
+              "normalized": "yuma"
             },
             {
-              "id": "a72f7be9-2bc3-4dc2-8400-0860682e4559",
-              "clue": "Person who kicks the ball to another",
-              "answer": "passer",
-              "normalized": "passer"
+              "id": "affb3ee6-f40e-4c00-8f7a-55a56c3e3fc6",
+              "clue": "Widely spread apart, skewed",
+              "answer": "asunder",
+              "normalized": "asunder"
             },
             {
-              "id": "0d6a6089-dcda-4355-adf4-2d14a0f854e0",
-              "clue": "To voluntarily refrain from doing something",
-              "answer": "abstain",
-              "normalized": "abstain"
+              "id": "d0034069-94b9-497f-96ae-3d96cfe48ca1",
+              "clue": "Those who let people rent their property",
+              "answer": "leasers",
+              "normalized": "leasers"
             },
             {
-              "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
-              "clue": "Energy in our bodies in Chinese medicine tradition",
-              "answer": "chi",
-              "normalized": "chi"
+              "id": "1605c67e-1890-4d09-8e98-310c6023ad2c",
+              "clue": "Actors Begley and Begley Jr.",
+              "answer": "eds",
+              "normalized": "eds"
             },
             {
-              "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
-              "clue": "Explosive letters",
-              "answer": "tnt",
-              "normalized": "tnt"
+              "id": "0d95fffb-1f44-42b7-9c6a-a38559e42cae",
+              "clue": "Female chest undergarment",
+              "answer": "bra",
+              "normalized": "bra"
             },
             {
-              "id": "41840b30-746a-44da-98be-bb7697518030",
-              "clue": "Tic __, Ferrero mint",
-              "answer": "tac",
-              "normalized": "tac"
+              "id": "a0507a0a-c069-4cef-a47c-f418003b392d",
+              "clue": "Piece of metal sometimes held in a horse's mouth",
+              "answer": "bit",
+              "normalized": "bit"
             },
             {
-              "id": "3fbe7f4b-92ad-4552-8343-7e8e8138c932",
-              "clue": "Hard-shelled unhatched chicken",
-              "answer": "egg",
-              "normalized": "egg"
+              "id": "93e357be-dbf7-4b83-a45d-8039174becd5",
+              "clue": "\"Incidentally\" in text-speak",
+              "answer": "btw",
+              "normalized": "btw"
             },
             {
-              "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
-              "clue": "Bachelor of Dental Surgery",
-              "answer": "bds",
-              "normalized": "bds"
+              "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
+              "clue": "Chemical formula for calcium oxide",
+              "answer": "cao",
+              "normalized": "cao"
             },
             {
-              "id": "2f0d8657-5ba7-4f87-98df-3eb9bc75c451",
-              "clue": "Lower house of Indian parliament",
-              "answer": "lok sabha",
-              "normalized": "loksabha"
+              "id": "41409d2b-f6d6-41f2-b09c-13dd6303e36f",
+              "clue": "Widespread, rampant",
+              "answer": "rife",
+              "normalized": "rife"
             },
             {
-              "id": "3c6f5c5e-30f0-4a8b-a295-6c9b91b77285",
-              "clue": "Era before the Jurassic",
-              "answer": "triassic",
-              "normalized": "triassic"
+              "id": "677b9f0b-8ece-4813-8174-12f5fd070cc3",
+              "clue": "Human with goat legs",
+              "answer": "faun",
+              "normalized": "faun"
             },
             {
-              "id": "ad8a26c8-e215-4ea3-8c0b-4b20bc5ea91e",
-              "clue": "Crowned with laurel, like a famous poet",
-              "answer": "laureate",
-              "normalized": "laureate"
+              "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
+              "clue": "Common abbreviation for institute",
+              "answer": "inst",
+              "normalized": "inst"
             },
             {
-              "id": "1be774e2-40a6-49e2-8589-0ac4df5d1dc1",
-              "clue": "Ascetic spiritual practice of being bricked up",
-              "answer": "immuring",
-              "normalized": "immuring"
+              "id": "14dd13b2-1c7d-40ae-9616-4aabcedc0562",
+              "clue": "70s utopia-dystopia flick, __ Run",
+              "answer": "logans",
+              "normalized": "logans"
             },
             {
-              "id": "9d1056de-10ab-4bcf-a4c8-2eb09968da4b",
-              "clue": "Dances energetically to music",
-              "answer": "bops",
-              "normalized": "bops"
+              "id": "6215fc1d-f8ff-41c0-8435-4ffdae4e6ae1",
+              "clue": "Prestigious university in New Haven, Connecticut",
+              "answer": "yale",
+              "normalized": "yale"
             },
             {
-              "id": "f334eb7c-c272-49db-9177-d3e6a6a5ccaf",
-              "clue": "First word in Nike's trademark slogan",
-              "answer": "just",
-              "normalized": "just"
+              "id": "e8a7ff57-64f5-496d-82a9-801faeab5ea3",
+              "clue": "Previously owned",
+              "answer": "used",
+              "normalized": "used"
             },
             {
-              "id": "0d4bb29e-6a18-45c6-957f-499864d0e525",
-              "clue": "Someone striking a deal with the devil makes one",
-              "answer": "pact",
-              "normalized": "pact"
+              "id": "7057caae-85ef-4efb-a089-f54d904872c2",
+              "clue": "Make-up artists, abbreviated",
+              "answer": "muas",
+              "normalized": "muas"
             },
             {
-              "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
-              "clue": "Medical abbreviation for nitroglycerin",
-              "answer": "ntg",
-              "normalized": "ntg"
+              "id": "aa65d557-f788-4980-a529-02190e90912b",
+              "clue": "Short for Deborah",
+              "answer": "deb",
+              "normalized": "deb"
+            },
+            {
+              "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
+              "clue": "To __ is human",
+              "answer": "err",
+              "normalized": "err"
+            },
+            {
+              "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
+              "clue": "Republic of South Africa",
+              "answer": "rsa",
+              "normalized": "rsa"
             }
           ],
-          "track": "PC|LenC--Y2026M6D1F1"
+          "track": "PC|LenC--Y2026M6D2F1"
         }
       },
       {
@@ -414995,675 +414995,675 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-01",
+      "key": "2026-06-02",
       "year": 2026,
       "month": 6,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M6D1F0",
+        "puzzleId": "PC|LenC--Y2026M6D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "ed393710-fce9-4ce2-b9fe-7ec7e1fc105a",
-            "clue": "Royal gardens in London, near a river",
-            "answer": "kew",
-            "normalized": "kew"
+            "id": "f1e971e6-fa33-471a-9560-6aaff4afedf9",
+            "clue": "Actress and UNICEF Goodwill Ambassador Farrow",
+            "answer": "mia",
+            "normalized": "mia"
           },
           {
-            "id": "8df2b90c-32aa-432c-9c71-c2b80917b77d",
-            "clue": "Oscar's title on Sesame Street",
-            "answer": "grouch",
-            "normalized": "grouch"
+            "id": "3a9f825f-6e80-4196-b8b3-81c9a73ecc98",
+            "clue": "Australian wild dog",
+            "answer": "dingo",
+            "normalized": "dingo"
           },
           {
-            "id": "3b553a0d-02dc-44d0-885f-b59e1d2571ac",
-            "clue": "Scale measuring the darkness of the night sky",
-            "answer": "bortle",
-            "normalized": "bortle"
+            "id": "d3e3e6a2-2ee5-4b42-8c58-f935f9b84559",
+            "clue": "Microsoft office software for spreadsheets",
+            "answer": "excel",
+            "normalized": "excel"
           },
           {
-            "id": "0c92ddb6-74c9-4577-9c61-90e91cdcadbc",
-            "clue": "Perfect vision to aim for",
-            "answer": "ideal",
-            "normalized": "ideal"
+            "id": "28fc791d-b7ec-4451-9bc1-5328fe62603e",
+            "clue": "__ Bobby McGee, posthumous Janis Joplin hit",
+            "answer": "me and",
+            "normalized": "meand"
           },
           {
-            "id": "f51a8324-abc0-4ff7-877b-ee4bfe48a9d1",
-            "clue": "A rare or mysterious object kept for display",
-            "answer": "curio",
-            "normalized": "curio"
+            "id": "f9888e31-e0b2-42e6-9fe7-8fa55b961b74",
+            "clue": "Initialism for spring clock adjustment in the USA",
+            "answer": "dst",
+            "normalized": "dst"
           },
           {
-            "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
-            "clue": "On or toward the left side of a ship",
-            "answer": "aport",
-            "normalized": "aport"
+            "id": "328da6f8-2f06-4cf0-9b0f-c1cc52d9af52",
+            "clue": "Jumbled up, not separated",
+            "answer": "mixed",
+            "normalized": "mixed"
           },
           {
-            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
-            "clue": "Former Soviet spy agency",
-            "answer": "kgb",
-            "normalized": "kgb"
+            "id": "c1305a7e-90b8-4356-a157-1898009ec8d8",
+            "clue": "Pre-Spanish-conquest peoples in central Andes",
+            "answer": "incas",
+            "normalized": "incas"
           },
           {
-            "id": "b88dbd05-e71f-4835-a843-9355f168da08",
-            "clue": "Name given to Beethoven's Symphony No. 3",
-            "answer": "eroica",
-            "normalized": "eroica"
+            "id": "7c858d5b-69af-4f53-a415-24c2e51c9323",
+            "clue": "Negotiator between authors and publishers",
+            "answer": "agent",
+            "normalized": "agent"
           },
           {
-            "id": "8e8a8244-87e1-4c4b-b773-eccb4016fad8",
-            "clue": "Affirmative 1980s urban slang and a song by Cameo",
-            "answer": "word up",
-            "normalized": "wordup"
+            "id": "1064b6ac-a783-4b39-926c-0d6c7cb6e388",
+            "clue": "Slang for them, in song about bones, dry bones",
+            "answer": "dem",
+            "normalized": "dem"
           },
           {
-            "id": "d8aa4e3d-d535-4754-930e-130354e9d2a7",
-            "clue": "In __, 1993 \"in the womb\" Nirvana album",
-            "answer": "utero",
-            "normalized": "utero"
-          },
-          {
-            "id": "659daf41-6cc2-4c2a-8a50-f5d5f2fb1d75",
-            "clue": "A French word meaning \"clear\"",
-            "answer": "clair",
-            "normalized": "clair"
-          },
-          {
-            "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
-            "clue": "Ancient Greek serf in Sparta",
-            "answer": "helot",
-            "normalized": "helot"
+            "id": "844af65c-6cc4-4d52-9794-285fd911ba6c",
+            "clue": "Aged, mature, vintage",
+            "answer": "old",
+            "normalized": "old"
           }
         ],
-        "track": "PC|LenC--Y2026M6D1F0"
+        "track": "PC|LenC--Y2026M6D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M6D1F1",
+        "puzzleId": "PC|LenC--Y2026M6D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
-            "clue": "Sandwich made with bacon, lettuce and tomato",
-            "answer": "blt",
-            "normalized": "blt"
+            "id": "5fb8b89c-8b1f-4bf5-87c8-11045d26bdc7",
+            "clue": "Broadcast company behind Doctor Who",
+            "answer": "bbc",
+            "normalized": "bbc"
           },
           {
-            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
-            "clue": "Word that follows ad to mean an improv",
-            "answer": "lib",
-            "normalized": "lib"
+            "id": "34b09dc1-034d-47b6-9ae5-7e510f9dbdd2",
+            "clue": "Initialism for ready for inspection",
+            "answer": "rfi",
+            "normalized": "rfi"
           },
           {
-            "id": "2203afb0-b584-49e3-878f-d0306e2b806b",
-            "clue": "Karin __, Bond girl in You Only Live Twice",
-            "answer": "dor",
-            "normalized": "dor"
+            "id": "7e00e44b-bbeb-40d2-988c-bcf2a8946848",
+            "clue": "Pizza and pasta is this type of food",
+            "answer": "italian",
+            "normalized": "italian"
           },
           {
-            "id": "67f67f74-e1b1-48b4-9e90-1806d8c1d9b6",
-            "clue": "Ti __, I love you in Italian",
-            "answer": "amo",
-            "normalized": "amo"
+            "id": "0c87a1af-ea97-4d23-a1f9-11f4b1b14aa9",
+            "clue": "80s song by Grover Washington Jr., Just the __",
+            "answer": "two of us",
+            "normalized": "twoofus"
           },
           {
-            "id": "c5d05957-c5aa-4cb0-8dff-a8c2cd4a3583",
-            "clue": "It will send you flying in the winter",
-            "answer": "ski jump",
-            "normalized": "skijump"
+            "id": "b5181aba-ef47-4fd1-97b7-9664539d61cd",
+            "clue": "Perfectly behaved man",
+            "answer": "gent",
+            "normalized": "gent"
           },
           {
-            "id": "49849a98-bdc4-4026-b283-0001e807d738",
-            "clue": "Six-letter ending for the name of most dinosaurs",
-            "answer": "saurus",
-            "normalized": "saurus"
+            "id": "dda3007d-cdcb-4df3-a8e2-d59a2e3764dd",
+            "clue": "Native American group from Arizona",
+            "answer": "yuma",
+            "normalized": "yuma"
           },
           {
-            "id": "a72f7be9-2bc3-4dc2-8400-0860682e4559",
-            "clue": "Person who kicks the ball to another",
-            "answer": "passer",
-            "normalized": "passer"
+            "id": "affb3ee6-f40e-4c00-8f7a-55a56c3e3fc6",
+            "clue": "Widely spread apart, skewed",
+            "answer": "asunder",
+            "normalized": "asunder"
           },
           {
-            "id": "0d6a6089-dcda-4355-adf4-2d14a0f854e0",
-            "clue": "To voluntarily refrain from doing something",
-            "answer": "abstain",
-            "normalized": "abstain"
+            "id": "d0034069-94b9-497f-96ae-3d96cfe48ca1",
+            "clue": "Those who let people rent their property",
+            "answer": "leasers",
+            "normalized": "leasers"
           },
           {
-            "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
-            "clue": "Energy in our bodies in Chinese medicine tradition",
-            "answer": "chi",
-            "normalized": "chi"
+            "id": "1605c67e-1890-4d09-8e98-310c6023ad2c",
+            "clue": "Actors Begley and Begley Jr.",
+            "answer": "eds",
+            "normalized": "eds"
           },
           {
-            "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
-            "clue": "Explosive letters",
-            "answer": "tnt",
-            "normalized": "tnt"
+            "id": "0d95fffb-1f44-42b7-9c6a-a38559e42cae",
+            "clue": "Female chest undergarment",
+            "answer": "bra",
+            "normalized": "bra"
           },
           {
-            "id": "41840b30-746a-44da-98be-bb7697518030",
-            "clue": "Tic __, Ferrero mint",
-            "answer": "tac",
-            "normalized": "tac"
+            "id": "a0507a0a-c069-4cef-a47c-f418003b392d",
+            "clue": "Piece of metal sometimes held in a horse's mouth",
+            "answer": "bit",
+            "normalized": "bit"
           },
           {
-            "id": "3fbe7f4b-92ad-4552-8343-7e8e8138c932",
-            "clue": "Hard-shelled unhatched chicken",
-            "answer": "egg",
-            "normalized": "egg"
+            "id": "93e357be-dbf7-4b83-a45d-8039174becd5",
+            "clue": "\"Incidentally\" in text-speak",
+            "answer": "btw",
+            "normalized": "btw"
           },
           {
-            "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
-            "clue": "Bachelor of Dental Surgery",
-            "answer": "bds",
-            "normalized": "bds"
+            "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
+            "clue": "Chemical formula for calcium oxide",
+            "answer": "cao",
+            "normalized": "cao"
           },
           {
-            "id": "2f0d8657-5ba7-4f87-98df-3eb9bc75c451",
-            "clue": "Lower house of Indian parliament",
-            "answer": "lok sabha",
-            "normalized": "loksabha"
+            "id": "41409d2b-f6d6-41f2-b09c-13dd6303e36f",
+            "clue": "Widespread, rampant",
+            "answer": "rife",
+            "normalized": "rife"
           },
           {
-            "id": "3c6f5c5e-30f0-4a8b-a295-6c9b91b77285",
-            "clue": "Era before the Jurassic",
-            "answer": "triassic",
-            "normalized": "triassic"
+            "id": "677b9f0b-8ece-4813-8174-12f5fd070cc3",
+            "clue": "Human with goat legs",
+            "answer": "faun",
+            "normalized": "faun"
           },
           {
-            "id": "ad8a26c8-e215-4ea3-8c0b-4b20bc5ea91e",
-            "clue": "Crowned with laurel, like a famous poet",
-            "answer": "laureate",
-            "normalized": "laureate"
+            "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
+            "clue": "Common abbreviation for institute",
+            "answer": "inst",
+            "normalized": "inst"
           },
           {
-            "id": "1be774e2-40a6-49e2-8589-0ac4df5d1dc1",
-            "clue": "Ascetic spiritual practice of being bricked up",
-            "answer": "immuring",
-            "normalized": "immuring"
+            "id": "14dd13b2-1c7d-40ae-9616-4aabcedc0562",
+            "clue": "70s utopia-dystopia flick, __ Run",
+            "answer": "logans",
+            "normalized": "logans"
           },
           {
-            "id": "9d1056de-10ab-4bcf-a4c8-2eb09968da4b",
-            "clue": "Dances energetically to music",
-            "answer": "bops",
-            "normalized": "bops"
+            "id": "6215fc1d-f8ff-41c0-8435-4ffdae4e6ae1",
+            "clue": "Prestigious university in New Haven, Connecticut",
+            "answer": "yale",
+            "normalized": "yale"
           },
           {
-            "id": "f334eb7c-c272-49db-9177-d3e6a6a5ccaf",
-            "clue": "First word in Nike's trademark slogan",
-            "answer": "just",
-            "normalized": "just"
+            "id": "e8a7ff57-64f5-496d-82a9-801faeab5ea3",
+            "clue": "Previously owned",
+            "answer": "used",
+            "normalized": "used"
           },
           {
-            "id": "0d4bb29e-6a18-45c6-957f-499864d0e525",
-            "clue": "Someone striking a deal with the devil makes one",
-            "answer": "pact",
-            "normalized": "pact"
+            "id": "7057caae-85ef-4efb-a089-f54d904872c2",
+            "clue": "Make-up artists, abbreviated",
+            "answer": "muas",
+            "normalized": "muas"
           },
           {
-            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
-            "clue": "Medical abbreviation for nitroglycerin",
-            "answer": "ntg",
-            "normalized": "ntg"
+            "id": "aa65d557-f788-4980-a529-02190e90912b",
+            "clue": "Short for Deborah",
+            "answer": "deb",
+            "normalized": "deb"
+          },
+          {
+            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
+            "clue": "To __ is human",
+            "answer": "err",
+            "normalized": "err"
+          },
+          {
+            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
+            "clue": "Republic of South Africa",
+            "answer": "rsa",
+            "normalized": "rsa"
           }
         ],
-        "track": "PC|LenC--Y2026M6D1F1"
+        "track": "PC|LenC--Y2026M6D2F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-01",
+      "key": "2026-06-02",
       "year": 2026,
       "month": 6,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M6D1F0",
+        "puzzleId": "PC|LenC--Y2026M6D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "ed393710-fce9-4ce2-b9fe-7ec7e1fc105a",
-            "clue": "Royal gardens in London, near a river",
-            "answer": "kew",
-            "normalized": "kew"
+            "id": "f1e971e6-fa33-471a-9560-6aaff4afedf9",
+            "clue": "Actress and UNICEF Goodwill Ambassador Farrow",
+            "answer": "mia",
+            "normalized": "mia"
           },
           {
-            "id": "8df2b90c-32aa-432c-9c71-c2b80917b77d",
-            "clue": "Oscar's title on Sesame Street",
-            "answer": "grouch",
-            "normalized": "grouch"
+            "id": "3a9f825f-6e80-4196-b8b3-81c9a73ecc98",
+            "clue": "Australian wild dog",
+            "answer": "dingo",
+            "normalized": "dingo"
           },
           {
-            "id": "3b553a0d-02dc-44d0-885f-b59e1d2571ac",
-            "clue": "Scale measuring the darkness of the night sky",
-            "answer": "bortle",
-            "normalized": "bortle"
+            "id": "d3e3e6a2-2ee5-4b42-8c58-f935f9b84559",
+            "clue": "Microsoft office software for spreadsheets",
+            "answer": "excel",
+            "normalized": "excel"
           },
           {
-            "id": "0c92ddb6-74c9-4577-9c61-90e91cdcadbc",
-            "clue": "Perfect vision to aim for",
-            "answer": "ideal",
-            "normalized": "ideal"
+            "id": "28fc791d-b7ec-4451-9bc1-5328fe62603e",
+            "clue": "__ Bobby McGee, posthumous Janis Joplin hit",
+            "answer": "me and",
+            "normalized": "meand"
           },
           {
-            "id": "f51a8324-abc0-4ff7-877b-ee4bfe48a9d1",
-            "clue": "A rare or mysterious object kept for display",
-            "answer": "curio",
-            "normalized": "curio"
+            "id": "f9888e31-e0b2-42e6-9fe7-8fa55b961b74",
+            "clue": "Initialism for spring clock adjustment in the USA",
+            "answer": "dst",
+            "normalized": "dst"
           },
           {
-            "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
-            "clue": "On or toward the left side of a ship",
-            "answer": "aport",
-            "normalized": "aport"
+            "id": "328da6f8-2f06-4cf0-9b0f-c1cc52d9af52",
+            "clue": "Jumbled up, not separated",
+            "answer": "mixed",
+            "normalized": "mixed"
           },
           {
-            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
-            "clue": "Former Soviet spy agency",
-            "answer": "kgb",
-            "normalized": "kgb"
+            "id": "c1305a7e-90b8-4356-a157-1898009ec8d8",
+            "clue": "Pre-Spanish-conquest peoples in central Andes",
+            "answer": "incas",
+            "normalized": "incas"
           },
           {
-            "id": "b88dbd05-e71f-4835-a843-9355f168da08",
-            "clue": "Name given to Beethoven's Symphony No. 3",
-            "answer": "eroica",
-            "normalized": "eroica"
+            "id": "7c858d5b-69af-4f53-a415-24c2e51c9323",
+            "clue": "Negotiator between authors and publishers",
+            "answer": "agent",
+            "normalized": "agent"
           },
           {
-            "id": "8e8a8244-87e1-4c4b-b773-eccb4016fad8",
-            "clue": "Affirmative 1980s urban slang and a song by Cameo",
-            "answer": "word up",
-            "normalized": "wordup"
+            "id": "1064b6ac-a783-4b39-926c-0d6c7cb6e388",
+            "clue": "Slang for them, in song about bones, dry bones",
+            "answer": "dem",
+            "normalized": "dem"
           },
           {
-            "id": "d8aa4e3d-d535-4754-930e-130354e9d2a7",
-            "clue": "In __, 1993 \"in the womb\" Nirvana album",
-            "answer": "utero",
-            "normalized": "utero"
-          },
-          {
-            "id": "659daf41-6cc2-4c2a-8a50-f5d5f2fb1d75",
-            "clue": "A French word meaning \"clear\"",
-            "answer": "clair",
-            "normalized": "clair"
-          },
-          {
-            "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
-            "clue": "Ancient Greek serf in Sparta",
-            "answer": "helot",
-            "normalized": "helot"
+            "id": "844af65c-6cc4-4d52-9794-285fd911ba6c",
+            "clue": "Aged, mature, vintage",
+            "answer": "old",
+            "normalized": "old"
           }
         ],
-        "track": "PC|LenC--Y2026M6D1F0"
+        "track": "PC|LenC--Y2026M6D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M6D1F1",
+        "puzzleId": "PC|LenC--Y2026M6D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
-            "clue": "Sandwich made with bacon, lettuce and tomato",
-            "answer": "blt",
-            "normalized": "blt"
+            "id": "5fb8b89c-8b1f-4bf5-87c8-11045d26bdc7",
+            "clue": "Broadcast company behind Doctor Who",
+            "answer": "bbc",
+            "normalized": "bbc"
           },
           {
-            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
-            "clue": "Word that follows ad to mean an improv",
-            "answer": "lib",
-            "normalized": "lib"
+            "id": "34b09dc1-034d-47b6-9ae5-7e510f9dbdd2",
+            "clue": "Initialism for ready for inspection",
+            "answer": "rfi",
+            "normalized": "rfi"
           },
           {
-            "id": "2203afb0-b584-49e3-878f-d0306e2b806b",
-            "clue": "Karin __, Bond girl in You Only Live Twice",
-            "answer": "dor",
-            "normalized": "dor"
+            "id": "7e00e44b-bbeb-40d2-988c-bcf2a8946848",
+            "clue": "Pizza and pasta is this type of food",
+            "answer": "italian",
+            "normalized": "italian"
           },
           {
-            "id": "67f67f74-e1b1-48b4-9e90-1806d8c1d9b6",
-            "clue": "Ti __, I love you in Italian",
-            "answer": "amo",
-            "normalized": "amo"
+            "id": "0c87a1af-ea97-4d23-a1f9-11f4b1b14aa9",
+            "clue": "80s song by Grover Washington Jr., Just the __",
+            "answer": "two of us",
+            "normalized": "twoofus"
           },
           {
-            "id": "c5d05957-c5aa-4cb0-8dff-a8c2cd4a3583",
-            "clue": "It will send you flying in the winter",
-            "answer": "ski jump",
-            "normalized": "skijump"
+            "id": "b5181aba-ef47-4fd1-97b7-9664539d61cd",
+            "clue": "Perfectly behaved man",
+            "answer": "gent",
+            "normalized": "gent"
           },
           {
-            "id": "49849a98-bdc4-4026-b283-0001e807d738",
-            "clue": "Six-letter ending for the name of most dinosaurs",
-            "answer": "saurus",
-            "normalized": "saurus"
+            "id": "dda3007d-cdcb-4df3-a8e2-d59a2e3764dd",
+            "clue": "Native American group from Arizona",
+            "answer": "yuma",
+            "normalized": "yuma"
           },
           {
-            "id": "a72f7be9-2bc3-4dc2-8400-0860682e4559",
-            "clue": "Person who kicks the ball to another",
-            "answer": "passer",
-            "normalized": "passer"
+            "id": "affb3ee6-f40e-4c00-8f7a-55a56c3e3fc6",
+            "clue": "Widely spread apart, skewed",
+            "answer": "asunder",
+            "normalized": "asunder"
           },
           {
-            "id": "0d6a6089-dcda-4355-adf4-2d14a0f854e0",
-            "clue": "To voluntarily refrain from doing something",
-            "answer": "abstain",
-            "normalized": "abstain"
+            "id": "d0034069-94b9-497f-96ae-3d96cfe48ca1",
+            "clue": "Those who let people rent their property",
+            "answer": "leasers",
+            "normalized": "leasers"
           },
           {
-            "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
-            "clue": "Energy in our bodies in Chinese medicine tradition",
-            "answer": "chi",
-            "normalized": "chi"
+            "id": "1605c67e-1890-4d09-8e98-310c6023ad2c",
+            "clue": "Actors Begley and Begley Jr.",
+            "answer": "eds",
+            "normalized": "eds"
           },
           {
-            "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
-            "clue": "Explosive letters",
-            "answer": "tnt",
-            "normalized": "tnt"
+            "id": "0d95fffb-1f44-42b7-9c6a-a38559e42cae",
+            "clue": "Female chest undergarment",
+            "answer": "bra",
+            "normalized": "bra"
           },
           {
-            "id": "41840b30-746a-44da-98be-bb7697518030",
-            "clue": "Tic __, Ferrero mint",
-            "answer": "tac",
-            "normalized": "tac"
+            "id": "a0507a0a-c069-4cef-a47c-f418003b392d",
+            "clue": "Piece of metal sometimes held in a horse's mouth",
+            "answer": "bit",
+            "normalized": "bit"
           },
           {
-            "id": "3fbe7f4b-92ad-4552-8343-7e8e8138c932",
-            "clue": "Hard-shelled unhatched chicken",
-            "answer": "egg",
-            "normalized": "egg"
+            "id": "93e357be-dbf7-4b83-a45d-8039174becd5",
+            "clue": "\"Incidentally\" in text-speak",
+            "answer": "btw",
+            "normalized": "btw"
           },
           {
-            "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
-            "clue": "Bachelor of Dental Surgery",
-            "answer": "bds",
-            "normalized": "bds"
+            "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
+            "clue": "Chemical formula for calcium oxide",
+            "answer": "cao",
+            "normalized": "cao"
           },
           {
-            "id": "2f0d8657-5ba7-4f87-98df-3eb9bc75c451",
-            "clue": "Lower house of Indian parliament",
-            "answer": "lok sabha",
-            "normalized": "loksabha"
+            "id": "41409d2b-f6d6-41f2-b09c-13dd6303e36f",
+            "clue": "Widespread, rampant",
+            "answer": "rife",
+            "normalized": "rife"
           },
           {
-            "id": "3c6f5c5e-30f0-4a8b-a295-6c9b91b77285",
-            "clue": "Era before the Jurassic",
-            "answer": "triassic",
-            "normalized": "triassic"
+            "id": "677b9f0b-8ece-4813-8174-12f5fd070cc3",
+            "clue": "Human with goat legs",
+            "answer": "faun",
+            "normalized": "faun"
           },
           {
-            "id": "ad8a26c8-e215-4ea3-8c0b-4b20bc5ea91e",
-            "clue": "Crowned with laurel, like a famous poet",
-            "answer": "laureate",
-            "normalized": "laureate"
+            "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
+            "clue": "Common abbreviation for institute",
+            "answer": "inst",
+            "normalized": "inst"
           },
           {
-            "id": "1be774e2-40a6-49e2-8589-0ac4df5d1dc1",
-            "clue": "Ascetic spiritual practice of being bricked up",
-            "answer": "immuring",
-            "normalized": "immuring"
+            "id": "14dd13b2-1c7d-40ae-9616-4aabcedc0562",
+            "clue": "70s utopia-dystopia flick, __ Run",
+            "answer": "logans",
+            "normalized": "logans"
           },
           {
-            "id": "9d1056de-10ab-4bcf-a4c8-2eb09968da4b",
-            "clue": "Dances energetically to music",
-            "answer": "bops",
-            "normalized": "bops"
+            "id": "6215fc1d-f8ff-41c0-8435-4ffdae4e6ae1",
+            "clue": "Prestigious university in New Haven, Connecticut",
+            "answer": "yale",
+            "normalized": "yale"
           },
           {
-            "id": "f334eb7c-c272-49db-9177-d3e6a6a5ccaf",
-            "clue": "First word in Nike's trademark slogan",
-            "answer": "just",
-            "normalized": "just"
+            "id": "e8a7ff57-64f5-496d-82a9-801faeab5ea3",
+            "clue": "Previously owned",
+            "answer": "used",
+            "normalized": "used"
           },
           {
-            "id": "0d4bb29e-6a18-45c6-957f-499864d0e525",
-            "clue": "Someone striking a deal with the devil makes one",
-            "answer": "pact",
-            "normalized": "pact"
+            "id": "7057caae-85ef-4efb-a089-f54d904872c2",
+            "clue": "Make-up artists, abbreviated",
+            "answer": "muas",
+            "normalized": "muas"
           },
           {
-            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
-            "clue": "Medical abbreviation for nitroglycerin",
-            "answer": "ntg",
-            "normalized": "ntg"
+            "id": "aa65d557-f788-4980-a529-02190e90912b",
+            "clue": "Short for Deborah",
+            "answer": "deb",
+            "normalized": "deb"
+          },
+          {
+            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
+            "clue": "To __ is human",
+            "answer": "err",
+            "normalized": "err"
+          },
+          {
+            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
+            "clue": "Republic of South Africa",
+            "answer": "rsa",
+            "normalized": "rsa"
           }
         ],
-        "track": "PC|LenC--Y2026M6D1F1"
+        "track": "PC|LenC--Y2026M6D2F1"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-06-01",
+      "key": "2026-06-02",
       "year": 2026,
       "month": 6,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M6D1F0",
+        "puzzleId": "PC|LenC--Y2026M6D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "ed393710-fce9-4ce2-b9fe-7ec7e1fc105a",
-            "clue": "Royal gardens in London, near a river",
-            "answer": "kew",
-            "normalized": "kew"
+            "id": "f1e971e6-fa33-471a-9560-6aaff4afedf9",
+            "clue": "Actress and UNICEF Goodwill Ambassador Farrow",
+            "answer": "mia",
+            "normalized": "mia"
           },
           {
-            "id": "8df2b90c-32aa-432c-9c71-c2b80917b77d",
-            "clue": "Oscar's title on Sesame Street",
-            "answer": "grouch",
-            "normalized": "grouch"
+            "id": "3a9f825f-6e80-4196-b8b3-81c9a73ecc98",
+            "clue": "Australian wild dog",
+            "answer": "dingo",
+            "normalized": "dingo"
           },
           {
-            "id": "3b553a0d-02dc-44d0-885f-b59e1d2571ac",
-            "clue": "Scale measuring the darkness of the night sky",
-            "answer": "bortle",
-            "normalized": "bortle"
+            "id": "d3e3e6a2-2ee5-4b42-8c58-f935f9b84559",
+            "clue": "Microsoft office software for spreadsheets",
+            "answer": "excel",
+            "normalized": "excel"
           },
           {
-            "id": "0c92ddb6-74c9-4577-9c61-90e91cdcadbc",
-            "clue": "Perfect vision to aim for",
-            "answer": "ideal",
-            "normalized": "ideal"
+            "id": "28fc791d-b7ec-4451-9bc1-5328fe62603e",
+            "clue": "__ Bobby McGee, posthumous Janis Joplin hit",
+            "answer": "me and",
+            "normalized": "meand"
           },
           {
-            "id": "f51a8324-abc0-4ff7-877b-ee4bfe48a9d1",
-            "clue": "A rare or mysterious object kept for display",
-            "answer": "curio",
-            "normalized": "curio"
+            "id": "f9888e31-e0b2-42e6-9fe7-8fa55b961b74",
+            "clue": "Initialism for spring clock adjustment in the USA",
+            "answer": "dst",
+            "normalized": "dst"
           },
           {
-            "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
-            "clue": "On or toward the left side of a ship",
-            "answer": "aport",
-            "normalized": "aport"
+            "id": "328da6f8-2f06-4cf0-9b0f-c1cc52d9af52",
+            "clue": "Jumbled up, not separated",
+            "answer": "mixed",
+            "normalized": "mixed"
           },
           {
-            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
-            "clue": "Former Soviet spy agency",
-            "answer": "kgb",
-            "normalized": "kgb"
+            "id": "c1305a7e-90b8-4356-a157-1898009ec8d8",
+            "clue": "Pre-Spanish-conquest peoples in central Andes",
+            "answer": "incas",
+            "normalized": "incas"
           },
           {
-            "id": "b88dbd05-e71f-4835-a843-9355f168da08",
-            "clue": "Name given to Beethoven's Symphony No. 3",
-            "answer": "eroica",
-            "normalized": "eroica"
+            "id": "7c858d5b-69af-4f53-a415-24c2e51c9323",
+            "clue": "Negotiator between authors and publishers",
+            "answer": "agent",
+            "normalized": "agent"
           },
           {
-            "id": "8e8a8244-87e1-4c4b-b773-eccb4016fad8",
-            "clue": "Affirmative 1980s urban slang and a song by Cameo",
-            "answer": "word up",
-            "normalized": "wordup"
+            "id": "1064b6ac-a783-4b39-926c-0d6c7cb6e388",
+            "clue": "Slang for them, in song about bones, dry bones",
+            "answer": "dem",
+            "normalized": "dem"
           },
           {
-            "id": "d8aa4e3d-d535-4754-930e-130354e9d2a7",
-            "clue": "In __, 1993 \"in the womb\" Nirvana album",
-            "answer": "utero",
-            "normalized": "utero"
-          },
-          {
-            "id": "659daf41-6cc2-4c2a-8a50-f5d5f2fb1d75",
-            "clue": "A French word meaning \"clear\"",
-            "answer": "clair",
-            "normalized": "clair"
-          },
-          {
-            "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
-            "clue": "Ancient Greek serf in Sparta",
-            "answer": "helot",
-            "normalized": "helot"
+            "id": "844af65c-6cc4-4d52-9794-285fd911ba6c",
+            "clue": "Aged, mature, vintage",
+            "answer": "old",
+            "normalized": "old"
           }
         ],
-        "track": "PC|LenC--Y2026M6D1F0"
+        "track": "PC|LenC--Y2026M6D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M6D1F1",
+        "puzzleId": "PC|LenC--Y2026M6D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
-            "clue": "Sandwich made with bacon, lettuce and tomato",
-            "answer": "blt",
-            "normalized": "blt"
+            "id": "5fb8b89c-8b1f-4bf5-87c8-11045d26bdc7",
+            "clue": "Broadcast company behind Doctor Who",
+            "answer": "bbc",
+            "normalized": "bbc"
           },
           {
-            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
-            "clue": "Word that follows ad to mean an improv",
-            "answer": "lib",
-            "normalized": "lib"
+            "id": "34b09dc1-034d-47b6-9ae5-7e510f9dbdd2",
+            "clue": "Initialism for ready for inspection",
+            "answer": "rfi",
+            "normalized": "rfi"
           },
           {
-            "id": "2203afb0-b584-49e3-878f-d0306e2b806b",
-            "clue": "Karin __, Bond girl in You Only Live Twice",
-            "answer": "dor",
-            "normalized": "dor"
+            "id": "7e00e44b-bbeb-40d2-988c-bcf2a8946848",
+            "clue": "Pizza and pasta is this type of food",
+            "answer": "italian",
+            "normalized": "italian"
           },
           {
-            "id": "67f67f74-e1b1-48b4-9e90-1806d8c1d9b6",
-            "clue": "Ti __, I love you in Italian",
-            "answer": "amo",
-            "normalized": "amo"
+            "id": "0c87a1af-ea97-4d23-a1f9-11f4b1b14aa9",
+            "clue": "80s song by Grover Washington Jr., Just the __",
+            "answer": "two of us",
+            "normalized": "twoofus"
           },
           {
-            "id": "c5d05957-c5aa-4cb0-8dff-a8c2cd4a3583",
-            "clue": "It will send you flying in the winter",
-            "answer": "ski jump",
-            "normalized": "skijump"
+            "id": "b5181aba-ef47-4fd1-97b7-9664539d61cd",
+            "clue": "Perfectly behaved man",
+            "answer": "gent",
+            "normalized": "gent"
           },
           {
-            "id": "49849a98-bdc4-4026-b283-0001e807d738",
-            "clue": "Six-letter ending for the name of most dinosaurs",
-            "answer": "saurus",
-            "normalized": "saurus"
+            "id": "dda3007d-cdcb-4df3-a8e2-d59a2e3764dd",
+            "clue": "Native American group from Arizona",
+            "answer": "yuma",
+            "normalized": "yuma"
           },
           {
-            "id": "a72f7be9-2bc3-4dc2-8400-0860682e4559",
-            "clue": "Person who kicks the ball to another",
-            "answer": "passer",
-            "normalized": "passer"
+            "id": "affb3ee6-f40e-4c00-8f7a-55a56c3e3fc6",
+            "clue": "Widely spread apart, skewed",
+            "answer": "asunder",
+            "normalized": "asunder"
           },
           {
-            "id": "0d6a6089-dcda-4355-adf4-2d14a0f854e0",
-            "clue": "To voluntarily refrain from doing something",
-            "answer": "abstain",
-            "normalized": "abstain"
+            "id": "d0034069-94b9-497f-96ae-3d96cfe48ca1",
+            "clue": "Those who let people rent their property",
+            "answer": "leasers",
+            "normalized": "leasers"
           },
           {
-            "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
-            "clue": "Energy in our bodies in Chinese medicine tradition",
-            "answer": "chi",
-            "normalized": "chi"
+            "id": "1605c67e-1890-4d09-8e98-310c6023ad2c",
+            "clue": "Actors Begley and Begley Jr.",
+            "answer": "eds",
+            "normalized": "eds"
           },
           {
-            "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
-            "clue": "Explosive letters",
-            "answer": "tnt",
-            "normalized": "tnt"
+            "id": "0d95fffb-1f44-42b7-9c6a-a38559e42cae",
+            "clue": "Female chest undergarment",
+            "answer": "bra",
+            "normalized": "bra"
           },
           {
-            "id": "41840b30-746a-44da-98be-bb7697518030",
-            "clue": "Tic __, Ferrero mint",
-            "answer": "tac",
-            "normalized": "tac"
+            "id": "a0507a0a-c069-4cef-a47c-f418003b392d",
+            "clue": "Piece of metal sometimes held in a horse's mouth",
+            "answer": "bit",
+            "normalized": "bit"
           },
           {
-            "id": "3fbe7f4b-92ad-4552-8343-7e8e8138c932",
-            "clue": "Hard-shelled unhatched chicken",
-            "answer": "egg",
-            "normalized": "egg"
+            "id": "93e357be-dbf7-4b83-a45d-8039174becd5",
+            "clue": "\"Incidentally\" in text-speak",
+            "answer": "btw",
+            "normalized": "btw"
           },
           {
-            "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
-            "clue": "Bachelor of Dental Surgery",
-            "answer": "bds",
-            "normalized": "bds"
+            "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
+            "clue": "Chemical formula for calcium oxide",
+            "answer": "cao",
+            "normalized": "cao"
           },
           {
-            "id": "2f0d8657-5ba7-4f87-98df-3eb9bc75c451",
-            "clue": "Lower house of Indian parliament",
-            "answer": "lok sabha",
-            "normalized": "loksabha"
+            "id": "41409d2b-f6d6-41f2-b09c-13dd6303e36f",
+            "clue": "Widespread, rampant",
+            "answer": "rife",
+            "normalized": "rife"
           },
           {
-            "id": "3c6f5c5e-30f0-4a8b-a295-6c9b91b77285",
-            "clue": "Era before the Jurassic",
-            "answer": "triassic",
-            "normalized": "triassic"
+            "id": "677b9f0b-8ece-4813-8174-12f5fd070cc3",
+            "clue": "Human with goat legs",
+            "answer": "faun",
+            "normalized": "faun"
           },
           {
-            "id": "ad8a26c8-e215-4ea3-8c0b-4b20bc5ea91e",
-            "clue": "Crowned with laurel, like a famous poet",
-            "answer": "laureate",
-            "normalized": "laureate"
+            "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
+            "clue": "Common abbreviation for institute",
+            "answer": "inst",
+            "normalized": "inst"
           },
           {
-            "id": "1be774e2-40a6-49e2-8589-0ac4df5d1dc1",
-            "clue": "Ascetic spiritual practice of being bricked up",
-            "answer": "immuring",
-            "normalized": "immuring"
+            "id": "14dd13b2-1c7d-40ae-9616-4aabcedc0562",
+            "clue": "70s utopia-dystopia flick, __ Run",
+            "answer": "logans",
+            "normalized": "logans"
           },
           {
-            "id": "9d1056de-10ab-4bcf-a4c8-2eb09968da4b",
-            "clue": "Dances energetically to music",
-            "answer": "bops",
-            "normalized": "bops"
+            "id": "6215fc1d-f8ff-41c0-8435-4ffdae4e6ae1",
+            "clue": "Prestigious university in New Haven, Connecticut",
+            "answer": "yale",
+            "normalized": "yale"
           },
           {
-            "id": "f334eb7c-c272-49db-9177-d3e6a6a5ccaf",
-            "clue": "First word in Nike's trademark slogan",
-            "answer": "just",
-            "normalized": "just"
+            "id": "e8a7ff57-64f5-496d-82a9-801faeab5ea3",
+            "clue": "Previously owned",
+            "answer": "used",
+            "normalized": "used"
           },
           {
-            "id": "0d4bb29e-6a18-45c6-957f-499864d0e525",
-            "clue": "Someone striking a deal with the devil makes one",
-            "answer": "pact",
-            "normalized": "pact"
+            "id": "7057caae-85ef-4efb-a089-f54d904872c2",
+            "clue": "Make-up artists, abbreviated",
+            "answer": "muas",
+            "normalized": "muas"
           },
           {
-            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
-            "clue": "Medical abbreviation for nitroglycerin",
-            "answer": "ntg",
-            "normalized": "ntg"
+            "id": "aa65d557-f788-4980-a529-02190e90912b",
+            "clue": "Short for Deborah",
+            "answer": "deb",
+            "normalized": "deb"
+          },
+          {
+            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
+            "clue": "To __ is human",
+            "answer": "err",
+            "normalized": "err"
+          },
+          {
+            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
+            "clue": "Republic of South Africa",
+            "answer": "rsa",
+            "normalized": "rsa"
           }
         ],
-        "track": "PC|LenC--Y2026M6D1F1"
+        "track": "PC|LenC--Y2026M6D2F1"
       }
     },
     "todayPublished": true
@@ -415675,21 +415675,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "BlxdJ5QnIL4ESFvZWn3RiAAfkNEw9ZGbiBnF1xAWePRlSqRGfChLz/fkyAhhsOeySgwnI+u0BEGFSx6LRyqkuZ7Vo4fd8yry4Tf2fNlj9b5YU24aFxwVDqHImLoHUVhrHsYphypx7E9RcIk4l8APgVUsi3+puWjNft9jGLebA+4Y8+HDCbNthwgD8UQ85jv6pbxv3CFECzoZsPlch7GZY40yAt+Rt6Hk6Pnakb50Qo70ZWxeK33GJn/EziQwoBlUJCS+he6eUOnGrSISKBe7CmpT4HaGqZkkMfwVKw9591M="
+        "JzzoXcINRmWx/qXEMhD1VMQ9p3Ks7Tecs8++XGRaDckNDcoWM4IGY0uJWXJ9n2Kl5I2sa6Up6T/RMTPGhH1NlSymSj12p8dMlLB2INlKV8Wbx/4XzxK+s54/8IwH52q6f3UeIknhQJFq4hDSLoqlLLHx5EhbKKItHxI9MyIxXD6ZAe/Sk5oZ3v6ArJzJHryqopyg9f/Ymxx52mXCwUfNW/Lm2ts4gvtRu4MFCrSUqmBql+WJ7d589L9DY1d/qhnfI4KZG9Cagydd7D4mZwOPMczLehtpwmQTt+63pCoJc0M="
       ]
     },
     "decrypted": {
-      "Id": "20086a1b-2670-4290-9f67-e7bc08d0ea8b",
-      "Date": "2026-06-01T00:00:00Z",
+      "Id": "fac75004-c281-4dd8-939a-c713bec2b212",
+      "Date": "2026-06-02T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "hotel",
-      "NormalizedPassword": "hotel",
+      "Password": "reuse",
+      "NormalizedPassword": "reuse",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-01T01:17:22.3170000+05:30",
-    "hash": "a54425bd9aef4b0ce3c1b77c431315ad",
+    "dtu": "2026-06-02T03:16:54.3810000+05:30",
+    "hash": "b44bbea90a29a77b603d7a90d2c9a118",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
