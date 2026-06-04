@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-03T21:33:43.371Z",
+  "generatedAt": "2026-06-04T20:30:07.892Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 4
+    "day": 5
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 4
+        "QuantidadeDeFases": 6
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -29193,7 +29193,7 @@
             },
             {
               "id": "c3076040-097c-4b7d-a37c-11954ed61eb8",
-              "clue": "Orange Is the New Black author's first name",
+              "clue": "First name of Orange Is the New Black author",
               "answer": "piper",
               "normalized": "piper"
             },
@@ -421410,391 +421410,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-04",
+      "key": "2026-06-05",
       "year": 2026,
       "month": 6,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "ee1b22b3-9fbc-44da-8114-614027dc60b5",
+        "puzzleId": "a8a52ed4-f453-4751-9432-b3d5e8162ed3",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 8,
+        "version": 4,
         "answers": [
           {
-            "id": "c197dbca-ee1c-425e-b02a-5714d895ec1f",
-            "clue": "Baby cow",
-            "answer": "calf",
-            "normalized": "calf"
+            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
+            "clue": "Its bite is said to have killed Cleopatra",
+            "answer": "asp",
+            "normalized": "asp"
           },
           {
-            "id": "39792dba-62a2-49b6-bb89-8ee4155e8de2",
-            "clue": "Frown",
-            "answer": "lour",
-            "normalized": "lour"
+            "id": "c465c670-daed-403b-9d9f-97b1c6e02765",
+            "clue": "Environmentally friendly",
+            "answer": "green",
+            "normalized": "green"
           },
           {
-            "id": "3818ee6c-8cd3-4174-a4af-f1039cd7fd12",
-            "clue": "Queen Elizabeth kept this type of dog",
-            "answer": "corgi",
-            "normalized": "corgi"
+            "id": "04a20952-9957-44d0-98b4-99fab9a12465",
+            "clue": "Hashtag for women in solidarity against harassment",
+            "answer": "me too",
+            "normalized": "metoo"
           },
           {
-            "id": "a87190b3-72ee-4a5b-9d1b-50432da8c565",
-            "clue": "Money put in at the beginning of a card game",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "5fc1d067-bc36-4eb0-9b9d-79b89859ddbb",
+            "clue": "To contaminate or spoil",
+            "answer": "taint",
+            "normalized": "taint"
           },
           {
-            "id": "64528f12-e7b4-473b-aec3-bf5ee8585535",
-            "clue": "Selection of aromatic hot drinks",
-            "answer": "teas",
-            "normalized": "teas"
+            "id": "98930513-64eb-4b68-88b4-5350a8b0034f",
+            "clue": "Bacterial infection of an eyelid's oil gland",
+            "answer": "stye",
+            "normalized": "stye"
           },
           {
-            "id": "b4e73de3-6dca-45d5-ae70-3943823c1ae9",
-            "clue": "Manufactured copy of a person",
-            "answer": "clone",
-            "normalized": "clone"
+            "id": "3985ba54-d696-4997-b5be-de86c3511670",
+            "clue": "Regions",
+            "answer": "areas",
+            "normalized": "areas"
           },
           {
-            "id": "2576165d-9f9d-495b-bdd0-6d96ecb07cc0",
-            "clue": "The largest artery of the human body",
-            "answer": "aorta",
-            "normalized": "aorta"
+            "id": "ffd34511-2df8-448a-9d49-1c2359e92c10",
+            "clue": "1990s heist movie starring Queen Latifah, __ Off",
+            "answer": "set it",
+            "normalized": "setit"
           },
           {
-            "id": "9cee57e9-ca90-45d3-9ebf-b57cb4daf2f1",
-            "clue": "Small toboggans ridden feet-first in the Olympics",
-            "answer": "luges",
-            "normalized": "luges"
+            "id": "87924b1b-66a3-4527-ad17-256d567eede6",
+            "clue": "Flower with a dense, fluffy bud in white or pink",
+            "answer": "peony",
+            "normalized": "peony"
           },
           {
-            "id": "c678cc89-c984-4aa1-8163-e1a83a26c44f",
-            "clue": "Last day of the working week, in short",
-            "answer": "fri",
-            "normalized": "fri"
+            "id": "ef6194b3-a384-4db9-8591-42a53eab29da",
+            "clue": "Letters indicating time zone in London",
+            "answer": "gmt",
+            "normalized": "gmt"
           },
           {
-            "id": "b5a1c4d9-ae92-458e-835e-cd078b807295",
-            "clue": "Feline animal said to be revered in Ancient Egypt",
-            "answer": "cat",
-            "normalized": "cat"
+            "id": "b76a0ad6-31eb-4a22-b5f2-dedd8371c2e0",
+            "clue": "Short message passed in class",
+            "answer": "note",
+            "normalized": "note"
           }
         ],
-        "track": "PC|LenC--Y2026M6D4F0"
+        "track": "PC|LenC--Y2026M6D5F0"
       },
       "mid": {
-        "puzzleId": "ec2f538b-fe59-4c09-a06d-80fd18257ece",
+        "puzzleId": "d3454309-7f84-42c9-b1be-9fbe441ab9b9",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
-            "clue": "Goes before \"ching\" for a cash register noise",
-            "answer": "cha",
-            "normalized": "cha"
+            "id": "492ac7c2-2637-4e42-aafd-1e0ff69e6e99",
+            "clue": "Just a number, according to older people",
+            "answer": "age",
+            "normalized": "age"
           },
           {
-            "id": "3f349d7f-906d-48ad-a75a-66d82a8443d6",
-            "clue": "Another name for dragon fruit",
-            "answer": "pitaya",
-            "normalized": "pitaya"
+            "id": "001b2d41-2f67-4504-a8e0-9c3a65f59cc5",
+            "clue": "Hepatocyte growth factor, acronym",
+            "answer": "hgf",
+            "normalized": "hgf"
           },
           {
-            "id": "ddf119de-391e-4034-ac51-3474c04a0c7b",
-            "clue": "Sprinting, galloping",
-            "answer": "running",
-            "normalized": "running"
+            "id": "067c7af4-cbaa-476b-86a3-464e3ba6440d",
+            "clue": "Latin for voice",
+            "answer": "vox",
+            "normalized": "vox"
           },
           {
-            "id": "fb7cd11e-d96c-4aa2-b090-a59ff8ee98b1",
-            "clue": "Internet domain for a non-profit",
-            "answer": "org",
-            "normalized": "org"
+            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
+            "clue": "\"To the\" in French, goes before \"mode\"",
+            "answer": "a la",
+            "normalized": "ala"
           },
           {
-            "id": "86bfad60-885b-40cd-9d70-ed076770e4e0",
-            "clue": "Prefix meaning three",
-            "answer": "tri",
-            "normalized": "tri"
+            "id": "82158908-04a7-457c-93d9-965298f40459",
+            "clue": "A university graduate",
+            "answer": "alumnus",
+            "normalized": "alumnus"
           },
           {
-            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
-            "clue": "Camera with a particular kind of lens",
-            "answer": "slr",
-            "normalized": "slr"
+            "id": "2884684f-e007-410d-b987-07d738079d2b",
+            "clue": "Trip on a plane, speedier than by car",
+            "answer": "flight",
+            "normalized": "flight"
           },
           {
-            "id": "78dcead2-c942-4270-ab04-c5b2edf901e8",
-            "clue": "Fleming, who wrote the James Bond books",
-            "answer": "ian",
-            "normalized": "ian"
+            "id": "1f911d65-a5cd-4d93-b8c2-441cbbba5a0c",
+            "clue": "Two-word phrase urging immediate doing",
+            "answer": "act now",
+            "normalized": "actnow"
           },
           {
-            "id": "31c6a6b9-653b-49a7-ba98-e4c9ae557aeb",
-            "clue": "The largest species of gibbon",
-            "answer": "siamang",
-            "normalized": "siamang"
+            "id": "05767793-d7a5-498d-af4b-4922cc213d70",
+            "clue": "Pestered, hounded",
+            "answer": "plagued",
+            "normalized": "plagued"
           },
           {
-            "id": "3033e46a-e757-46a3-b29d-68fa5c6c7895",
-            "clue": "To have something in mind as a goal",
-            "answer": "intend",
-            "normalized": "intend"
+            "id": "694d7648-8c01-4285-84a6-02e6877b1432",
+            "clue": "At the middle of the solar system",
+            "answer": "sun",
+            "normalized": "sun"
           },
           {
-            "id": "f2b32932-282c-43bd-a7f5-8544ede31022",
-            "clue": "Short word that precedes X, Y for eras when born",
-            "answer": "gen",
-            "normalized": "gen"
+            "id": "54b87e06-c7f3-4b41-97e0-7dc0a167f150",
+            "clue": "Spanish for aunt",
+            "answer": "tia",
+            "normalized": "tia"
           },
           {
-            "id": "ce6b98b2-a6ba-42a1-b146-3a8c6765aa38",
-            "clue": "Quick way to say \"can't talk now\" in messaging",
-            "answer": "ctn",
-            "normalized": "ctn"
+            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
+            "clue": "Abbreviation for electronic benefit transfer",
+            "answer": "ebt",
+            "normalized": "ebt"
           },
           {
-            "id": "c1dfede9-9b94-40bc-b351-fa17c671514a",
-            "clue": "Nationality of someone from Port-au-Prince",
-            "answer": "haitian",
-            "normalized": "haitian"
+            "id": "016b011e-c555-479c-a64f-4747b9584f23",
+            "clue": "US sketch comedy show airing since 1975",
+            "answer": "snl",
+            "normalized": "snl"
           },
           {
-            "id": "b7fb3bc0-2894-4394-8a49-6fd6b2917036",
-            "clue": "Favored female author of Libertarians",
-            "answer": "ayn rand",
-            "normalized": "aynrand"
+            "id": "440ca3ca-b27f-4950-b747-e3dfd864d4b8",
+            "clue": "1940s, 50s actress Gardner from Show Boat",
+            "answer": "ava",
+            "normalized": "ava"
           },
           {
-            "id": "98082c8e-c6ca-489c-863c-2024f9b8815a",
-            "clue": "Reverse of knitting, combined with it for ribbing",
-            "answer": "purling",
-            "normalized": "purling"
+            "id": "7a76fb98-0c39-4f32-800b-8acf785ab6a8",
+            "clue": "A driver or putter",
+            "answer": "golf club",
+            "normalized": "golfclub"
           },
           {
-            "id": "5ce94247-f2af-45ff-9fd1-586d6ecb008c",
-            "clue": "Person who is not thankful",
-            "answer": "ingrate",
-            "normalized": "ingrate"
+            "id": "da0c6c4c-f3cf-4a59-bb55-360c2118705d",
+            "clue": "Joyful and celebratory",
+            "answer": "exultant",
+            "normalized": "exultant"
           },
           {
-            "id": "eb27c9c9-4793-4643-a706-30e586dfbe46",
-            "clue": "The process of getting older",
-            "answer": "aging",
-            "normalized": "aging"
+            "id": "20c771e8-96c0-4b50-8c8f-91307dd9aca5",
+            "clue": "Google __, defunct cross-platform IM service",
+            "answer": "hangouts",
+            "normalized": "hangouts"
           },
           {
-            "id": "47f86ab2-20ee-4716-ad42-fc6b2dbe3013",
-            "clue": "Italian racer Valentino __, actor Portia de __",
-            "answer": "rossi",
-            "normalized": "rossi"
+            "id": "272e8772-ab91-4a34-8d34-02d61e4cb2cc",
+            "clue": "German warmed and spiced red wine; Prost!",
+            "answer": "gluhwein",
+            "normalized": "gluhwein"
           },
           {
-            "id": "33f3039a-d51d-4163-be8f-f5b423dd2988",
-            "clue": "They might be \"at Work\" or \"in Black\"",
-            "answer": "men",
-            "normalized": "men"
+            "id": "cefce1bc-1bf2-406a-a279-cb8d34b00ef4",
+            "clue": "Not slow",
+            "answer": "fast",
+            "normalized": "fast"
+          },
+          {
+            "id": "a928f509-8e3a-4395-93a1-f08bc5c9ee92",
+            "clue": "Chinese pottery flourished under this dynasty",
+            "answer": "ming",
+            "normalized": "ming"
+          },
+          {
+            "id": "0c204877-1013-46c8-b8b5-fdc041a66423",
+            "clue": "Recess in a church with an arched or domed roof",
+            "answer": "apse",
+            "normalized": "apse"
+          },
+          {
+            "id": "1b1bb542-8006-4336-9fb5-983a5117bf04",
+            "clue": "Indian lentil dish (no H)",
+            "answer": "dal",
+            "normalized": "dal"
           }
         ],
-        "track": "PC|LenC--Y2026M6D4F1"
+        "track": "PC|LenC--Y2026M6D5F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-04",
+      "key": "2026-06-05",
       "year": 2026,
       "month": 6,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "ee1b22b3-9fbc-44da-8114-614027dc60b5",
+        "puzzleId": "a8a52ed4-f453-4751-9432-b3d5e8162ed3",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 8,
+        "version": 4,
         "answers": [
           {
-            "id": "c197dbca-ee1c-425e-b02a-5714d895ec1f",
-            "clue": "Baby cow",
-            "answer": "calf",
-            "normalized": "calf"
+            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
+            "clue": "Its bite is said to have killed Cleopatra",
+            "answer": "asp",
+            "normalized": "asp"
           },
           {
-            "id": "39792dba-62a2-49b6-bb89-8ee4155e8de2",
-            "clue": "Frown",
-            "answer": "lour",
-            "normalized": "lour"
+            "id": "c465c670-daed-403b-9d9f-97b1c6e02765",
+            "clue": "Environmentally friendly",
+            "answer": "green",
+            "normalized": "green"
           },
           {
-            "id": "3818ee6c-8cd3-4174-a4af-f1039cd7fd12",
-            "clue": "Queen Elizabeth kept this type of dog",
-            "answer": "corgi",
-            "normalized": "corgi"
+            "id": "04a20952-9957-44d0-98b4-99fab9a12465",
+            "clue": "Hashtag for women in solidarity against harassment",
+            "answer": "me too",
+            "normalized": "metoo"
           },
           {
-            "id": "a87190b3-72ee-4a5b-9d1b-50432da8c565",
-            "clue": "Money put in at the beginning of a card game",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "5fc1d067-bc36-4eb0-9b9d-79b89859ddbb",
+            "clue": "To contaminate or spoil",
+            "answer": "taint",
+            "normalized": "taint"
           },
           {
-            "id": "64528f12-e7b4-473b-aec3-bf5ee8585535",
-            "clue": "Selection of aromatic hot drinks",
-            "answer": "teas",
-            "normalized": "teas"
+            "id": "98930513-64eb-4b68-88b4-5350a8b0034f",
+            "clue": "Bacterial infection of an eyelid's oil gland",
+            "answer": "stye",
+            "normalized": "stye"
           },
           {
-            "id": "b4e73de3-6dca-45d5-ae70-3943823c1ae9",
-            "clue": "Manufactured copy of a person",
-            "answer": "clone",
-            "normalized": "clone"
+            "id": "3985ba54-d696-4997-b5be-de86c3511670",
+            "clue": "Regions",
+            "answer": "areas",
+            "normalized": "areas"
           },
           {
-            "id": "2576165d-9f9d-495b-bdd0-6d96ecb07cc0",
-            "clue": "The largest artery of the human body",
-            "answer": "aorta",
-            "normalized": "aorta"
+            "id": "ffd34511-2df8-448a-9d49-1c2359e92c10",
+            "clue": "1990s heist movie starring Queen Latifah, __ Off",
+            "answer": "set it",
+            "normalized": "setit"
           },
           {
-            "id": "9cee57e9-ca90-45d3-9ebf-b57cb4daf2f1",
-            "clue": "Small toboggans ridden feet-first in the Olympics",
-            "answer": "luges",
-            "normalized": "luges"
+            "id": "87924b1b-66a3-4527-ad17-256d567eede6",
+            "clue": "Flower with a dense, fluffy bud in white or pink",
+            "answer": "peony",
+            "normalized": "peony"
           },
           {
-            "id": "c678cc89-c984-4aa1-8163-e1a83a26c44f",
-            "clue": "Last day of the working week, in short",
-            "answer": "fri",
-            "normalized": "fri"
+            "id": "ef6194b3-a384-4db9-8591-42a53eab29da",
+            "clue": "Letters indicating time zone in London",
+            "answer": "gmt",
+            "normalized": "gmt"
           },
           {
-            "id": "b5a1c4d9-ae92-458e-835e-cd078b807295",
-            "clue": "Feline animal said to be revered in Ancient Egypt",
-            "answer": "cat",
-            "normalized": "cat"
+            "id": "b76a0ad6-31eb-4a22-b5f2-dedd8371c2e0",
+            "clue": "Short message passed in class",
+            "answer": "note",
+            "normalized": "note"
           }
         ],
-        "track": "PC|LenC--Y2026M6D4F0"
+        "track": "PC|LenC--Y2026M6D5F0"
       },
       "mid": {
-        "puzzleId": "ec2f538b-fe59-4c09-a06d-80fd18257ece",
+        "puzzleId": "d3454309-7f84-42c9-b1be-9fbe441ab9b9",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
-            "clue": "Goes before \"ching\" for a cash register noise",
-            "answer": "cha",
-            "normalized": "cha"
+            "id": "492ac7c2-2637-4e42-aafd-1e0ff69e6e99",
+            "clue": "Just a number, according to older people",
+            "answer": "age",
+            "normalized": "age"
           },
           {
-            "id": "3f349d7f-906d-48ad-a75a-66d82a8443d6",
-            "clue": "Another name for dragon fruit",
-            "answer": "pitaya",
-            "normalized": "pitaya"
+            "id": "001b2d41-2f67-4504-a8e0-9c3a65f59cc5",
+            "clue": "Hepatocyte growth factor, acronym",
+            "answer": "hgf",
+            "normalized": "hgf"
           },
           {
-            "id": "ddf119de-391e-4034-ac51-3474c04a0c7b",
-            "clue": "Sprinting, galloping",
-            "answer": "running",
-            "normalized": "running"
+            "id": "067c7af4-cbaa-476b-86a3-464e3ba6440d",
+            "clue": "Latin for voice",
+            "answer": "vox",
+            "normalized": "vox"
           },
           {
-            "id": "fb7cd11e-d96c-4aa2-b090-a59ff8ee98b1",
-            "clue": "Internet domain for a non-profit",
-            "answer": "org",
-            "normalized": "org"
+            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
+            "clue": "\"To the\" in French, goes before \"mode\"",
+            "answer": "a la",
+            "normalized": "ala"
           },
           {
-            "id": "86bfad60-885b-40cd-9d70-ed076770e4e0",
-            "clue": "Prefix meaning three",
-            "answer": "tri",
-            "normalized": "tri"
+            "id": "82158908-04a7-457c-93d9-965298f40459",
+            "clue": "A university graduate",
+            "answer": "alumnus",
+            "normalized": "alumnus"
           },
           {
-            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
-            "clue": "Camera with a particular kind of lens",
-            "answer": "slr",
-            "normalized": "slr"
+            "id": "2884684f-e007-410d-b987-07d738079d2b",
+            "clue": "Trip on a plane, speedier than by car",
+            "answer": "flight",
+            "normalized": "flight"
           },
           {
-            "id": "78dcead2-c942-4270-ab04-c5b2edf901e8",
-            "clue": "Fleming, who wrote the James Bond books",
-            "answer": "ian",
-            "normalized": "ian"
+            "id": "1f911d65-a5cd-4d93-b8c2-441cbbba5a0c",
+            "clue": "Two-word phrase urging immediate doing",
+            "answer": "act now",
+            "normalized": "actnow"
           },
           {
-            "id": "31c6a6b9-653b-49a7-ba98-e4c9ae557aeb",
-            "clue": "The largest species of gibbon",
-            "answer": "siamang",
-            "normalized": "siamang"
+            "id": "05767793-d7a5-498d-af4b-4922cc213d70",
+            "clue": "Pestered, hounded",
+            "answer": "plagued",
+            "normalized": "plagued"
           },
           {
-            "id": "3033e46a-e757-46a3-b29d-68fa5c6c7895",
-            "clue": "To have something in mind as a goal",
-            "answer": "intend",
-            "normalized": "intend"
+            "id": "694d7648-8c01-4285-84a6-02e6877b1432",
+            "clue": "At the middle of the solar system",
+            "answer": "sun",
+            "normalized": "sun"
           },
           {
-            "id": "f2b32932-282c-43bd-a7f5-8544ede31022",
-            "clue": "Short word that precedes X, Y for eras when born",
-            "answer": "gen",
-            "normalized": "gen"
+            "id": "54b87e06-c7f3-4b41-97e0-7dc0a167f150",
+            "clue": "Spanish for aunt",
+            "answer": "tia",
+            "normalized": "tia"
           },
           {
-            "id": "ce6b98b2-a6ba-42a1-b146-3a8c6765aa38",
-            "clue": "Quick way to say \"can't talk now\" in messaging",
-            "answer": "ctn",
-            "normalized": "ctn"
+            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
+            "clue": "Abbreviation for electronic benefit transfer",
+            "answer": "ebt",
+            "normalized": "ebt"
           },
           {
-            "id": "c1dfede9-9b94-40bc-b351-fa17c671514a",
-            "clue": "Nationality of someone from Port-au-Prince",
-            "answer": "haitian",
-            "normalized": "haitian"
+            "id": "016b011e-c555-479c-a64f-4747b9584f23",
+            "clue": "US sketch comedy show airing since 1975",
+            "answer": "snl",
+            "normalized": "snl"
           },
           {
-            "id": "b7fb3bc0-2894-4394-8a49-6fd6b2917036",
-            "clue": "Favored female author of Libertarians",
-            "answer": "ayn rand",
-            "normalized": "aynrand"
+            "id": "440ca3ca-b27f-4950-b747-e3dfd864d4b8",
+            "clue": "1940s, 50s actress Gardner from Show Boat",
+            "answer": "ava",
+            "normalized": "ava"
           },
           {
-            "id": "98082c8e-c6ca-489c-863c-2024f9b8815a",
-            "clue": "Reverse of knitting, combined with it for ribbing",
-            "answer": "purling",
-            "normalized": "purling"
+            "id": "7a76fb98-0c39-4f32-800b-8acf785ab6a8",
+            "clue": "A driver or putter",
+            "answer": "golf club",
+            "normalized": "golfclub"
           },
           {
-            "id": "5ce94247-f2af-45ff-9fd1-586d6ecb008c",
-            "clue": "Person who is not thankful",
-            "answer": "ingrate",
-            "normalized": "ingrate"
+            "id": "da0c6c4c-f3cf-4a59-bb55-360c2118705d",
+            "clue": "Joyful and celebratory",
+            "answer": "exultant",
+            "normalized": "exultant"
           },
           {
-            "id": "eb27c9c9-4793-4643-a706-30e586dfbe46",
-            "clue": "The process of getting older",
-            "answer": "aging",
-            "normalized": "aging"
+            "id": "20c771e8-96c0-4b50-8c8f-91307dd9aca5",
+            "clue": "Google __, defunct cross-platform IM service",
+            "answer": "hangouts",
+            "normalized": "hangouts"
           },
           {
-            "id": "47f86ab2-20ee-4716-ad42-fc6b2dbe3013",
-            "clue": "Italian racer Valentino __, actor Portia de __",
-            "answer": "rossi",
-            "normalized": "rossi"
+            "id": "272e8772-ab91-4a34-8d34-02d61e4cb2cc",
+            "clue": "German warmed and spiced red wine; Prost!",
+            "answer": "gluhwein",
+            "normalized": "gluhwein"
           },
           {
-            "id": "33f3039a-d51d-4163-be8f-f5b423dd2988",
-            "clue": "They might be \"at Work\" or \"in Black\"",
-            "answer": "men",
-            "normalized": "men"
+            "id": "cefce1bc-1bf2-406a-a279-cb8d34b00ef4",
+            "clue": "Not slow",
+            "answer": "fast",
+            "normalized": "fast"
+          },
+          {
+            "id": "a928f509-8e3a-4395-93a1-f08bc5c9ee92",
+            "clue": "Chinese pottery flourished under this dynasty",
+            "answer": "ming",
+            "normalized": "ming"
+          },
+          {
+            "id": "0c204877-1013-46c8-b8b5-fdc041a66423",
+            "clue": "Recess in a church with an arched or domed roof",
+            "answer": "apse",
+            "normalized": "apse"
+          },
+          {
+            "id": "1b1bb542-8006-4336-9fb5-983a5117bf04",
+            "clue": "Indian lentil dish (no H)",
+            "answer": "dal",
+            "normalized": "dal"
           }
         ],
-        "track": "PC|LenC--Y2026M6D4F1"
+        "track": "PC|LenC--Y2026M6D5F1"
       }
     },
     "latestAvailableEntry": {
@@ -422030,21 +422066,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "XR+3WhNhPNJjY2/jACQAxzWQlMyj0NIgtb9jwdJf1SFxxMXhio1FcIbCJIlf12r4Kz7CdFDn3ZKkUddn/yqEEZLpPRTTu8onnwhyvd2bVBDTG7E24b1HDnznE4jmiBJESkl2Tflq3/WOo2ywXnTrhA6feSoMefx//7M4PZ/KKLqQmkCDtfHNDrFlzrgaDXRphAhE93J8KdDyhJOFznS0bH/JMFdCVEeadJNvSiEOw5dx8eFJIoMxwLrYu6j70NCkde6fmT8FLRiSiWpCIzw1v5qrfurgwtkKJr1JYgL9Y5w="
+        "a8VoavWrKPjG6ZEdu030JROmYlfz5M1VwSyEaQR4UwsvewOesQGMzV4Ig5ZmjoQlNoAdyonieZHgYe05unuzLchJGN9llTWNt8SLbqhMnGswjohsI2+K+MKxAXgl7b9UpIFtBBiqmivk7aoVDrNwvDUoKtMse7jB/5bgOmYn1024KJpBd43hrqycUclwz73tkcgbkCq81S89OPy8cbFxTkCRGSqG6bcE38T1WSN0e09j/r1z6BtcQGVsfbH0rFS+YL0e1eC6KiNOvygZAKpx3DFDhdvEN5WPNF0j0KgBofw="
       ]
     },
     "decrypted": {
-      "Id": "c16bd86e-596d-4c17-bc6b-fcef8988197b",
-      "Date": "2026-06-04T00:00:00Z",
+      "Id": "2008e66b-591c-4efe-aca9-d178c2abc844",
+      "Date": "2026-06-05T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "flank",
-      "NormalizedPassword": "flank",
+      "Password": "trial",
+      "NormalizedPassword": "trial",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-04T03:03:43.3710000+05:30",
-    "hash": "552e35b14d6909d2e26301decf4c8d25",
+    "dtu": "2026-06-05T02:00:07.8920000+05:30",
+    "hash": "5e3b0979ab3cb66dfc31c35032241219",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
