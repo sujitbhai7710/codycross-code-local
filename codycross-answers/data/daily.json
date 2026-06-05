@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T20:30:07.892Z",
+  "generatedAt": "2026-06-05T20:21:43.887Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 5
+    "day": 6
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 6
+        "QuantidadeDeFases": 8
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -421410,427 +421410,487 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-05",
+      "key": "2026-06-06",
       "year": 2026,
       "month": 6,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "a8a52ed4-f453-4751-9432-b3d5e8162ed3",
+        "puzzleId": "b8490638-01e7-4656-902c-00d4077fe774",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 4,
-        "answers": [
-          {
-            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
-            "clue": "Its bite is said to have killed Cleopatra",
-            "answer": "asp",
-            "normalized": "asp"
-          },
-          {
-            "id": "c465c670-daed-403b-9d9f-97b1c6e02765",
-            "clue": "Environmentally friendly",
-            "answer": "green",
-            "normalized": "green"
-          },
-          {
-            "id": "04a20952-9957-44d0-98b4-99fab9a12465",
-            "clue": "Hashtag for women in solidarity against harassment",
-            "answer": "me too",
-            "normalized": "metoo"
-          },
-          {
-            "id": "5fc1d067-bc36-4eb0-9b9d-79b89859ddbb",
-            "clue": "To contaminate or spoil",
-            "answer": "taint",
-            "normalized": "taint"
-          },
-          {
-            "id": "98930513-64eb-4b68-88b4-5350a8b0034f",
-            "clue": "Bacterial infection of an eyelid's oil gland",
-            "answer": "stye",
-            "normalized": "stye"
-          },
-          {
-            "id": "3985ba54-d696-4997-b5be-de86c3511670",
-            "clue": "Regions",
-            "answer": "areas",
-            "normalized": "areas"
-          },
-          {
-            "id": "ffd34511-2df8-448a-9d49-1c2359e92c10",
-            "clue": "1990s heist movie starring Queen Latifah, __ Off",
-            "answer": "set it",
-            "normalized": "setit"
-          },
-          {
-            "id": "87924b1b-66a3-4527-ad17-256d567eede6",
-            "clue": "Flower with a dense, fluffy bud in white or pink",
-            "answer": "peony",
-            "normalized": "peony"
-          },
-          {
-            "id": "ef6194b3-a384-4db9-8591-42a53eab29da",
-            "clue": "Letters indicating time zone in London",
-            "answer": "gmt",
-            "normalized": "gmt"
-          },
-          {
-            "id": "b76a0ad6-31eb-4a22-b5f2-dedd8371c2e0",
-            "clue": "Short message passed in class",
-            "answer": "note",
-            "normalized": "note"
-          }
-        ],
-        "track": "PC|LenC--Y2026M6D5F0"
-      },
-      "mid": {
-        "puzzleId": "d3454309-7f84-42c9-b1be-9fbe441ab9b9",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "492ac7c2-2637-4e42-aafd-1e0ff69e6e99",
-            "clue": "Just a number, according to older people",
-            "answer": "age",
-            "normalized": "age"
+            "id": "b797fa68-36a8-429d-9f28-0317ff0c88b4",
+            "clue": "Place to find a potholer or spelunker",
+            "answer": "cave",
+            "normalized": "cave"
           },
           {
-            "id": "001b2d41-2f67-4504-a8e0-9c3a65f59cc5",
-            "clue": "Hepatocyte growth factor, acronym",
-            "answer": "hgf",
-            "normalized": "hgf"
+            "id": "ef5287e4-6690-44a6-9b2a-f1bf6dc88f1d",
+            "clue": "Shakespeare's Juliet asked \"What's in __?\"",
+            "answer": "a name",
+            "normalized": "aname"
           },
           {
-            "id": "067c7af4-cbaa-476b-86a3-464e3ba6440d",
-            "clue": "Latin for voice",
-            "answer": "vox",
-            "normalized": "vox"
+            "id": "3923ffbf-3349-4cf5-92ec-79533f44659a",
+            "clue": "Fruits with large stones, like apricots and plums",
+            "answer": "drupes",
+            "normalized": "drupes"
           },
           {
-            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
-            "clue": "\"To the\" in French, goes before \"mode\"",
-            "answer": "a la",
-            "normalized": "ala"
+            "id": "1fe86b25-d867-4513-aa10-6d6f3ab74e1b",
+            "clue": "Parking areas for planes in front of terminals",
+            "answer": "aprons",
+            "normalized": "aprons"
           },
           {
-            "id": "82158908-04a7-457c-93d9-965298f40459",
-            "clue": "A university graduate",
-            "answer": "alumnus",
-            "normalized": "alumnus"
+            "id": "92407e1c-b403-4536-855e-a7c183dc592f",
+            "clue": "A thing or person that is strange or quirky",
+            "answer": "weird",
+            "normalized": "weird"
           },
           {
-            "id": "2884684f-e007-410d-b987-07d738079d2b",
-            "clue": "Trip on a plane, speedier than by car",
-            "answer": "flight",
-            "normalized": "flight"
+            "id": "8429a803-d907-4a56-8b94-9c52529d672e",
+            "clue": "She's the female partner of a lad",
+            "answer": "lass",
+            "normalized": "lass"
           },
           {
-            "id": "1f911d65-a5cd-4d93-b8c2-441cbbba5a0c",
-            "clue": "Two-word phrase urging immediate doing",
-            "answer": "act now",
-            "normalized": "actnow"
+            "id": "ba2053d2-a285-4ce7-b460-d5aecd33a5df",
+            "clue": "Female plant part",
+            "answer": "carpel",
+            "normalized": "carpel"
           },
           {
-            "id": "05767793-d7a5-498d-af4b-4922cc213d70",
-            "clue": "Pestered, hounded",
-            "answer": "plagued",
-            "normalized": "plagued"
+            "id": "05892d5e-9579-4b7e-ba65-2148eeab2c50",
+            "clue": "The failure of the kidneys to produce urine",
+            "answer": "anuria",
+            "normalized": "anuria"
           },
           {
-            "id": "694d7648-8c01-4285-84a6-02e6877b1432",
-            "clue": "At the middle of the solar system",
-            "answer": "sun",
-            "normalized": "sun"
+            "id": "a21dd6a3-dbb0-4197-b120-97be04f2a581",
+            "clue": "Another word for haze or mist, plural",
+            "answer": "vapors",
+            "normalized": "vapors"
           },
           {
-            "id": "54b87e06-c7f3-4b41-97e0-7dc0a167f150",
-            "clue": "Spanish for aunt",
-            "answer": "tia",
-            "normalized": "tia"
+            "id": "75de7374-88df-473a-9fe3-c4b2ebb454fa",
+            "clue": "Edits",
+            "answer": "emends",
+            "normalized": "emends"
           },
           {
-            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
-            "clue": "Abbreviation for electronic benefit transfer",
-            "answer": "ebt",
-            "normalized": "ebt"
+            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
+            "clue": "S, written phonetically as a full word",
+            "answer": "ess",
+            "normalized": "ess"
           },
           {
-            "id": "016b011e-c555-479c-a64f-4747b9584f23",
-            "clue": "US sketch comedy show airing since 1975",
-            "answer": "snl",
-            "normalized": "snl"
-          },
-          {
-            "id": "440ca3ca-b27f-4950-b747-e3dfd864d4b8",
-            "clue": "1940s, 50s actress Gardner from Show Boat",
-            "answer": "ava",
-            "normalized": "ava"
-          },
-          {
-            "id": "7a76fb98-0c39-4f32-800b-8acf785ab6a8",
-            "clue": "A driver or putter",
-            "answer": "golf club",
-            "normalized": "golfclub"
-          },
-          {
-            "id": "da0c6c4c-f3cf-4a59-bb55-360c2118705d",
-            "clue": "Joyful and celebratory",
-            "answer": "exultant",
-            "normalized": "exultant"
-          },
-          {
-            "id": "20c771e8-96c0-4b50-8c8f-91307dd9aca5",
-            "clue": "Google __, defunct cross-platform IM service",
-            "answer": "hangouts",
-            "normalized": "hangouts"
-          },
-          {
-            "id": "272e8772-ab91-4a34-8d34-02d61e4cb2cc",
-            "clue": "German warmed and spiced red wine; Prost!",
-            "answer": "gluhwein",
-            "normalized": "gluhwein"
-          },
-          {
-            "id": "cefce1bc-1bf2-406a-a279-cb8d34b00ef4",
-            "clue": "Not slow",
-            "answer": "fast",
-            "normalized": "fast"
-          },
-          {
-            "id": "a928f509-8e3a-4395-93a1-f08bc5c9ee92",
-            "clue": "Chinese pottery flourished under this dynasty",
-            "answer": "ming",
-            "normalized": "ming"
-          },
-          {
-            "id": "0c204877-1013-46c8-b8b5-fdc041a66423",
-            "clue": "Recess in a church with an arched or domed roof",
-            "answer": "apse",
-            "normalized": "apse"
-          },
-          {
-            "id": "1b1bb542-8006-4336-9fb5-983a5117bf04",
-            "clue": "Indian lentil dish (no H)",
-            "answer": "dal",
-            "normalized": "dal"
+            "id": "41265d1f-660b-43e8-9859-73979fc6fea9",
+            "clue": "Dispense as written, on a medical prescription",
+            "answer": "daw",
+            "normalized": "daw"
           }
         ],
-        "track": "PC|LenC--Y2026M6D5F1"
+        "track": "PC|LenC--Y2026M6D6F0"
+      },
+      "mid": {
+        "puzzleId": "650e1908-0525-4480-9ff4-53793013cd0d",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 5,
+        "answers": [
+          {
+            "id": "ad8f0952-c707-4d56-9c23-b15947af853e",
+            "clue": "Fraudulent con attempt",
+            "answer": "scam",
+            "normalized": "scam"
+          },
+          {
+            "id": "4023b4b2-ab0f-47bb-a0c4-93acd33d0e76",
+            "clue": "White whale hunter",
+            "answer": "ahab",
+            "normalized": "ahab"
+          },
+          {
+            "id": "55cc2766-f69c-4cdb-9e00-7bb3f72bae75",
+            "clue": "What Horton hears in Dr. Seuss story title",
+            "answer": "a who",
+            "normalized": "awho"
+          },
+          {
+            "id": "b9f9c98d-e8a6-49fa-a775-8e440a649410",
+            "clue": "McIlroy the Northern Irish golfer",
+            "answer": "rory",
+            "normalized": "rory"
+          },
+          {
+            "id": "00b7b834-81b5-42f0-adad-4e266673f017",
+            "clue": "Monopoly, Scrabble, etc, bought from a toy store",
+            "answer": "board game",
+            "normalized": "boardgame"
+          },
+          {
+            "id": "fa96c89f-3610-4b49-a703-738d6774379c",
+            "clue": "Highest natural male singing voice",
+            "answer": "tenor",
+            "normalized": "tenor"
+          },
+          {
+            "id": "5433c3fc-657d-498c-9ccb-889e6d792b0f",
+            "clue": "South African word for foreigner, esp British",
+            "answer": "uitlander",
+            "normalized": "uitlander"
+          },
+          {
+            "id": "496cdd74-2f63-4152-b26d-02d960019a52",
+            "clue": "French word for honey",
+            "answer": "miel",
+            "normalized": "miel"
+          },
+          {
+            "id": "f68cbab2-ec92-4145-acd1-18aa5e096995",
+            "clue": "Famous Disney clownfish",
+            "answer": "nemo",
+            "normalized": "nemo"
+          },
+          {
+            "id": "10224069-14e9-41d1-8dad-574dcb344169",
+            "clue": "Spanish surrealist painter and sculptor Joan",
+            "answer": "miro",
+            "normalized": "miro"
+          },
+          {
+            "id": "756d512a-1bcd-4512-8c40-450b4e78c442",
+            "clue": "Andrews, Brockovich, Moran",
+            "answer": "erin",
+            "normalized": "erin"
+          },
+          {
+            "id": "da934134-5409-44f7-9f5c-f399b2251b70",
+            "clue": "Acronym for soprano alto baritone",
+            "answer": "sab",
+            "normalized": "sab"
+          },
+          {
+            "id": "5099c4cc-fd13-4f29-ac71-3e48475c02b2",
+            "clue": "Chief web officer, for short",
+            "answer": "cwo",
+            "normalized": "cwo"
+          },
+          {
+            "id": "5a903c48-90b3-47b2-8d48-c51cd488a869",
+            "clue": "Phrase indicating insanity, as mad as __",
+            "answer": "a hatter",
+            "normalized": "ahatter"
+          },
+          {
+            "id": "2cf0bd4f-2b4d-4260-ba42-802090ad820a",
+            "clue": "Dark cherry used in desserts",
+            "answer": "morello",
+            "normalized": "morello"
+          },
+          {
+            "id": "820a68a0-1dd0-4e48-be6c-a4baca53247e",
+            "clue": "Forest in north-east France",
+            "answer": "argonne",
+            "normalized": "argonne"
+          },
+          {
+            "id": "9fb4daab-a5cc-4854-94a6-adafc547067b",
+            "clue": "Someone who collects and keeps things obsessively",
+            "answer": "hoarder",
+            "normalized": "hoarder"
+          },
+          {
+            "id": "66485089-37ab-4202-9407-05018bf97cdc",
+            "clue": "A limb with fingers",
+            "answer": "arm",
+            "normalized": "arm"
+          },
+          {
+            "id": "121dd5ea-a372-44e8-8fa3-ac24cb592049",
+            "clue": "Ciao, adios, sayonara",
+            "answer": "bye",
+            "normalized": "bye"
+          },
+          {
+            "id": "a442e2c2-e493-4d12-b920-1e49f54352cb",
+            "clue": "Double helix found in cells",
+            "answer": "dna",
+            "normalized": "dna"
+          },
+          {
+            "id": "62d05bee-1b35-4ba2-8313-940990665a13",
+            "clue": "Thinking noise like \"err\" or \"hmm\"",
+            "answer": "umm",
+            "normalized": "umm"
+          },
+          {
+            "id": "77745a38-4303-48c9-8ffd-e437c0ee74ef",
+            "clue": "Three in Roman numerals",
+            "answer": "iii",
+            "normalized": "iii"
+          },
+          {
+            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
+            "clue": "London recording studio founded in 1931",
+            "answer": "emi",
+            "normalized": "emi"
+          },
+          {
+            "id": "adbcb7ad-5928-41d3-ac24-6a14726ead3a",
+            "clue": "Happy Days star Howard who directs movies",
+            "answer": "ron",
+            "normalized": "ron"
+          }
+        ],
+        "track": "PC|LenC--Y2026M6D6F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-05",
+      "key": "2026-06-06",
       "year": 2026,
       "month": 6,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "a8a52ed4-f453-4751-9432-b3d5e8162ed3",
+        "puzzleId": "b8490638-01e7-4656-902c-00d4077fe774",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 4,
-        "answers": [
-          {
-            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
-            "clue": "Its bite is said to have killed Cleopatra",
-            "answer": "asp",
-            "normalized": "asp"
-          },
-          {
-            "id": "c465c670-daed-403b-9d9f-97b1c6e02765",
-            "clue": "Environmentally friendly",
-            "answer": "green",
-            "normalized": "green"
-          },
-          {
-            "id": "04a20952-9957-44d0-98b4-99fab9a12465",
-            "clue": "Hashtag for women in solidarity against harassment",
-            "answer": "me too",
-            "normalized": "metoo"
-          },
-          {
-            "id": "5fc1d067-bc36-4eb0-9b9d-79b89859ddbb",
-            "clue": "To contaminate or spoil",
-            "answer": "taint",
-            "normalized": "taint"
-          },
-          {
-            "id": "98930513-64eb-4b68-88b4-5350a8b0034f",
-            "clue": "Bacterial infection of an eyelid's oil gland",
-            "answer": "stye",
-            "normalized": "stye"
-          },
-          {
-            "id": "3985ba54-d696-4997-b5be-de86c3511670",
-            "clue": "Regions",
-            "answer": "areas",
-            "normalized": "areas"
-          },
-          {
-            "id": "ffd34511-2df8-448a-9d49-1c2359e92c10",
-            "clue": "1990s heist movie starring Queen Latifah, __ Off",
-            "answer": "set it",
-            "normalized": "setit"
-          },
-          {
-            "id": "87924b1b-66a3-4527-ad17-256d567eede6",
-            "clue": "Flower with a dense, fluffy bud in white or pink",
-            "answer": "peony",
-            "normalized": "peony"
-          },
-          {
-            "id": "ef6194b3-a384-4db9-8591-42a53eab29da",
-            "clue": "Letters indicating time zone in London",
-            "answer": "gmt",
-            "normalized": "gmt"
-          },
-          {
-            "id": "b76a0ad6-31eb-4a22-b5f2-dedd8371c2e0",
-            "clue": "Short message passed in class",
-            "answer": "note",
-            "normalized": "note"
-          }
-        ],
-        "track": "PC|LenC--Y2026M6D5F0"
-      },
-      "mid": {
-        "puzzleId": "d3454309-7f84-42c9-b1be-9fbe441ab9b9",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "492ac7c2-2637-4e42-aafd-1e0ff69e6e99",
-            "clue": "Just a number, according to older people",
-            "answer": "age",
-            "normalized": "age"
+            "id": "b797fa68-36a8-429d-9f28-0317ff0c88b4",
+            "clue": "Place to find a potholer or spelunker",
+            "answer": "cave",
+            "normalized": "cave"
           },
           {
-            "id": "001b2d41-2f67-4504-a8e0-9c3a65f59cc5",
-            "clue": "Hepatocyte growth factor, acronym",
-            "answer": "hgf",
-            "normalized": "hgf"
+            "id": "ef5287e4-6690-44a6-9b2a-f1bf6dc88f1d",
+            "clue": "Shakespeare's Juliet asked \"What's in __?\"",
+            "answer": "a name",
+            "normalized": "aname"
           },
           {
-            "id": "067c7af4-cbaa-476b-86a3-464e3ba6440d",
-            "clue": "Latin for voice",
-            "answer": "vox",
-            "normalized": "vox"
+            "id": "3923ffbf-3349-4cf5-92ec-79533f44659a",
+            "clue": "Fruits with large stones, like apricots and plums",
+            "answer": "drupes",
+            "normalized": "drupes"
           },
           {
-            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
-            "clue": "\"To the\" in French, goes before \"mode\"",
-            "answer": "a la",
-            "normalized": "ala"
+            "id": "1fe86b25-d867-4513-aa10-6d6f3ab74e1b",
+            "clue": "Parking areas for planes in front of terminals",
+            "answer": "aprons",
+            "normalized": "aprons"
           },
           {
-            "id": "82158908-04a7-457c-93d9-965298f40459",
-            "clue": "A university graduate",
-            "answer": "alumnus",
-            "normalized": "alumnus"
+            "id": "92407e1c-b403-4536-855e-a7c183dc592f",
+            "clue": "A thing or person that is strange or quirky",
+            "answer": "weird",
+            "normalized": "weird"
           },
           {
-            "id": "2884684f-e007-410d-b987-07d738079d2b",
-            "clue": "Trip on a plane, speedier than by car",
-            "answer": "flight",
-            "normalized": "flight"
+            "id": "8429a803-d907-4a56-8b94-9c52529d672e",
+            "clue": "She's the female partner of a lad",
+            "answer": "lass",
+            "normalized": "lass"
           },
           {
-            "id": "1f911d65-a5cd-4d93-b8c2-441cbbba5a0c",
-            "clue": "Two-word phrase urging immediate doing",
-            "answer": "act now",
-            "normalized": "actnow"
+            "id": "ba2053d2-a285-4ce7-b460-d5aecd33a5df",
+            "clue": "Female plant part",
+            "answer": "carpel",
+            "normalized": "carpel"
           },
           {
-            "id": "05767793-d7a5-498d-af4b-4922cc213d70",
-            "clue": "Pestered, hounded",
-            "answer": "plagued",
-            "normalized": "plagued"
+            "id": "05892d5e-9579-4b7e-ba65-2148eeab2c50",
+            "clue": "The failure of the kidneys to produce urine",
+            "answer": "anuria",
+            "normalized": "anuria"
           },
           {
-            "id": "694d7648-8c01-4285-84a6-02e6877b1432",
-            "clue": "At the middle of the solar system",
-            "answer": "sun",
-            "normalized": "sun"
+            "id": "a21dd6a3-dbb0-4197-b120-97be04f2a581",
+            "clue": "Another word for haze or mist, plural",
+            "answer": "vapors",
+            "normalized": "vapors"
           },
           {
-            "id": "54b87e06-c7f3-4b41-97e0-7dc0a167f150",
-            "clue": "Spanish for aunt",
-            "answer": "tia",
-            "normalized": "tia"
+            "id": "75de7374-88df-473a-9fe3-c4b2ebb454fa",
+            "clue": "Edits",
+            "answer": "emends",
+            "normalized": "emends"
           },
           {
-            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
-            "clue": "Abbreviation for electronic benefit transfer",
-            "answer": "ebt",
-            "normalized": "ebt"
+            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
+            "clue": "S, written phonetically as a full word",
+            "answer": "ess",
+            "normalized": "ess"
           },
           {
-            "id": "016b011e-c555-479c-a64f-4747b9584f23",
-            "clue": "US sketch comedy show airing since 1975",
-            "answer": "snl",
-            "normalized": "snl"
-          },
-          {
-            "id": "440ca3ca-b27f-4950-b747-e3dfd864d4b8",
-            "clue": "1940s, 50s actress Gardner from Show Boat",
-            "answer": "ava",
-            "normalized": "ava"
-          },
-          {
-            "id": "7a76fb98-0c39-4f32-800b-8acf785ab6a8",
-            "clue": "A driver or putter",
-            "answer": "golf club",
-            "normalized": "golfclub"
-          },
-          {
-            "id": "da0c6c4c-f3cf-4a59-bb55-360c2118705d",
-            "clue": "Joyful and celebratory",
-            "answer": "exultant",
-            "normalized": "exultant"
-          },
-          {
-            "id": "20c771e8-96c0-4b50-8c8f-91307dd9aca5",
-            "clue": "Google __, defunct cross-platform IM service",
-            "answer": "hangouts",
-            "normalized": "hangouts"
-          },
-          {
-            "id": "272e8772-ab91-4a34-8d34-02d61e4cb2cc",
-            "clue": "German warmed and spiced red wine; Prost!",
-            "answer": "gluhwein",
-            "normalized": "gluhwein"
-          },
-          {
-            "id": "cefce1bc-1bf2-406a-a279-cb8d34b00ef4",
-            "clue": "Not slow",
-            "answer": "fast",
-            "normalized": "fast"
-          },
-          {
-            "id": "a928f509-8e3a-4395-93a1-f08bc5c9ee92",
-            "clue": "Chinese pottery flourished under this dynasty",
-            "answer": "ming",
-            "normalized": "ming"
-          },
-          {
-            "id": "0c204877-1013-46c8-b8b5-fdc041a66423",
-            "clue": "Recess in a church with an arched or domed roof",
-            "answer": "apse",
-            "normalized": "apse"
-          },
-          {
-            "id": "1b1bb542-8006-4336-9fb5-983a5117bf04",
-            "clue": "Indian lentil dish (no H)",
-            "answer": "dal",
-            "normalized": "dal"
+            "id": "41265d1f-660b-43e8-9859-73979fc6fea9",
+            "clue": "Dispense as written, on a medical prescription",
+            "answer": "daw",
+            "normalized": "daw"
           }
         ],
-        "track": "PC|LenC--Y2026M6D5F1"
+        "track": "PC|LenC--Y2026M6D6F0"
+      },
+      "mid": {
+        "puzzleId": "650e1908-0525-4480-9ff4-53793013cd0d",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 5,
+        "answers": [
+          {
+            "id": "ad8f0952-c707-4d56-9c23-b15947af853e",
+            "clue": "Fraudulent con attempt",
+            "answer": "scam",
+            "normalized": "scam"
+          },
+          {
+            "id": "4023b4b2-ab0f-47bb-a0c4-93acd33d0e76",
+            "clue": "White whale hunter",
+            "answer": "ahab",
+            "normalized": "ahab"
+          },
+          {
+            "id": "55cc2766-f69c-4cdb-9e00-7bb3f72bae75",
+            "clue": "What Horton hears in Dr. Seuss story title",
+            "answer": "a who",
+            "normalized": "awho"
+          },
+          {
+            "id": "b9f9c98d-e8a6-49fa-a775-8e440a649410",
+            "clue": "McIlroy the Northern Irish golfer",
+            "answer": "rory",
+            "normalized": "rory"
+          },
+          {
+            "id": "00b7b834-81b5-42f0-adad-4e266673f017",
+            "clue": "Monopoly, Scrabble, etc, bought from a toy store",
+            "answer": "board game",
+            "normalized": "boardgame"
+          },
+          {
+            "id": "fa96c89f-3610-4b49-a703-738d6774379c",
+            "clue": "Highest natural male singing voice",
+            "answer": "tenor",
+            "normalized": "tenor"
+          },
+          {
+            "id": "5433c3fc-657d-498c-9ccb-889e6d792b0f",
+            "clue": "South African word for foreigner, esp British",
+            "answer": "uitlander",
+            "normalized": "uitlander"
+          },
+          {
+            "id": "496cdd74-2f63-4152-b26d-02d960019a52",
+            "clue": "French word for honey",
+            "answer": "miel",
+            "normalized": "miel"
+          },
+          {
+            "id": "f68cbab2-ec92-4145-acd1-18aa5e096995",
+            "clue": "Famous Disney clownfish",
+            "answer": "nemo",
+            "normalized": "nemo"
+          },
+          {
+            "id": "10224069-14e9-41d1-8dad-574dcb344169",
+            "clue": "Spanish surrealist painter and sculptor Joan",
+            "answer": "miro",
+            "normalized": "miro"
+          },
+          {
+            "id": "756d512a-1bcd-4512-8c40-450b4e78c442",
+            "clue": "Andrews, Brockovich, Moran",
+            "answer": "erin",
+            "normalized": "erin"
+          },
+          {
+            "id": "da934134-5409-44f7-9f5c-f399b2251b70",
+            "clue": "Acronym for soprano alto baritone",
+            "answer": "sab",
+            "normalized": "sab"
+          },
+          {
+            "id": "5099c4cc-fd13-4f29-ac71-3e48475c02b2",
+            "clue": "Chief web officer, for short",
+            "answer": "cwo",
+            "normalized": "cwo"
+          },
+          {
+            "id": "5a903c48-90b3-47b2-8d48-c51cd488a869",
+            "clue": "Phrase indicating insanity, as mad as __",
+            "answer": "a hatter",
+            "normalized": "ahatter"
+          },
+          {
+            "id": "2cf0bd4f-2b4d-4260-ba42-802090ad820a",
+            "clue": "Dark cherry used in desserts",
+            "answer": "morello",
+            "normalized": "morello"
+          },
+          {
+            "id": "820a68a0-1dd0-4e48-be6c-a4baca53247e",
+            "clue": "Forest in north-east France",
+            "answer": "argonne",
+            "normalized": "argonne"
+          },
+          {
+            "id": "9fb4daab-a5cc-4854-94a6-adafc547067b",
+            "clue": "Someone who collects and keeps things obsessively",
+            "answer": "hoarder",
+            "normalized": "hoarder"
+          },
+          {
+            "id": "66485089-37ab-4202-9407-05018bf97cdc",
+            "clue": "A limb with fingers",
+            "answer": "arm",
+            "normalized": "arm"
+          },
+          {
+            "id": "121dd5ea-a372-44e8-8fa3-ac24cb592049",
+            "clue": "Ciao, adios, sayonara",
+            "answer": "bye",
+            "normalized": "bye"
+          },
+          {
+            "id": "a442e2c2-e493-4d12-b920-1e49f54352cb",
+            "clue": "Double helix found in cells",
+            "answer": "dna",
+            "normalized": "dna"
+          },
+          {
+            "id": "62d05bee-1b35-4ba2-8313-940990665a13",
+            "clue": "Thinking noise like \"err\" or \"hmm\"",
+            "answer": "umm",
+            "normalized": "umm"
+          },
+          {
+            "id": "77745a38-4303-48c9-8ffd-e437c0ee74ef",
+            "clue": "Three in Roman numerals",
+            "answer": "iii",
+            "normalized": "iii"
+          },
+          {
+            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
+            "clue": "London recording studio founded in 1931",
+            "answer": "emi",
+            "normalized": "emi"
+          },
+          {
+            "id": "adbcb7ad-5928-41d3-ac24-6a14726ead3a",
+            "clue": "Happy Days star Howard who directs movies",
+            "answer": "ron",
+            "normalized": "ron"
+          }
+        ],
+        "track": "PC|LenC--Y2026M6D6F1"
       }
     },
     "latestAvailableEntry": {
@@ -422066,21 +422126,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "a8VoavWrKPjG6ZEdu030JROmYlfz5M1VwSyEaQR4UwsvewOesQGMzV4Ig5ZmjoQlNoAdyonieZHgYe05unuzLchJGN9llTWNt8SLbqhMnGswjohsI2+K+MKxAXgl7b9UpIFtBBiqmivk7aoVDrNwvDUoKtMse7jB/5bgOmYn1024KJpBd43hrqycUclwz73tkcgbkCq81S89OPy8cbFxTkCRGSqG6bcE38T1WSN0e09j/r1z6BtcQGVsfbH0rFS+YL0e1eC6KiNOvygZAKpx3DFDhdvEN5WPNF0j0KgBofw="
+        "uq+NBnn3i13KhkQVOV27zmCI/w5gED4zTJjLg8fbQlUdPM3FgNXqEjv7ZyMXJEl9o2cWJ/9lFuDKjypsZpbMLSRj3P1Mto6D0MfKBHKQj5ZilrffiQE63UbvZ8qTXWaUoPpmkN5OUjXC2Lfb8aIaQku3uoRXBojVFqr8T9lJYAj7IjlPUiXjGX+gNcHXJqK7sMRdLfBX3rkaEjXYNkwYx88GB6d2l7Lg/fIlH2kPIVJsSCt1EVtrC8NAf+IepSdcrdJRc9H+0ajgYpMlA+TNSTOqn2GtZNHVJjKp5RioMAA="
       ]
     },
     "decrypted": {
-      "Id": "2008e66b-591c-4efe-aca9-d178c2abc844",
-      "Date": "2026-06-05T00:00:00Z",
+      "Id": "2238e23e-5f87-43d9-8ed7-11c2e13cf5f7",
+      "Date": "2026-06-06T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "trial",
-      "NormalizedPassword": "trial",
+      "Password": "oddly",
+      "NormalizedPassword": "oddly",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-05T02:00:07.8920000+05:30",
-    "hash": "5e3b0979ab3cb66dfc31c35032241219",
+    "dtu": "2026-06-06T01:51:43.8870000+05:30",
+    "hash": "6f3d03ae545b41772ea2650be452c1b3",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
