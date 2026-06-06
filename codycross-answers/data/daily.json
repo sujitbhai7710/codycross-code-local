@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-05T20:21:43.887Z",
+  "generatedAt": "2026-06-06T19:51:47.602Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 6
+    "day": 7
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 8
+        "QuantidadeDeFases": 10
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -421410,487 +421410,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-06",
+      "key": "2026-06-07",
       "year": 2026,
       "month": 6,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "b8490638-01e7-4656-902c-00d4077fe774",
+        "puzzleId": "cebee596-624e-4bf9-a13f-a6aae02f1e24",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "b797fa68-36a8-429d-9f28-0317ff0c88b4",
-            "clue": "Place to find a potholer or spelunker",
-            "answer": "cave",
-            "normalized": "cave"
+            "id": "ddaf35b8-1431-4ef7-9cd3-b88cfef94242",
+            "clue": "The C in TLC",
+            "answer": "care",
+            "normalized": "care"
           },
           {
-            "id": "ef5287e4-6690-44a6-9b2a-f1bf6dc88f1d",
-            "clue": "Shakespeare's Juliet asked \"What's in __?\"",
-            "answer": "a name",
-            "normalized": "aname"
+            "id": "e836cb67-e5f8-4a70-a90f-9a325967bdbe",
+            "clue": "Capital expenditure, in short",
+            "answer": "capex",
+            "normalized": "capex"
           },
           {
-            "id": "3923ffbf-3349-4cf5-92ec-79533f44659a",
-            "clue": "Fruits with large stones, like apricots and plums",
-            "answer": "drupes",
-            "normalized": "drupes"
+            "id": "f367332c-f8ae-411c-a531-5b4546b77daf",
+            "clue": "Quarrelsome, have __ on one's shoulder",
+            "answer": "a chip",
+            "normalized": "achip"
           },
           {
-            "id": "1fe86b25-d867-4513-aa10-6d6f3ab74e1b",
-            "clue": "Parking areas for planes in front of terminals",
-            "answer": "aprons",
-            "normalized": "aprons"
+            "id": "c5265349-1223-454f-98b6-b59fb9bd3474",
+            "clue": "Big mud-loving mammal with at least one nose horn",
+            "answer": "rhino",
+            "normalized": "rhino"
           },
           {
-            "id": "92407e1c-b403-4536-855e-a7c183dc592f",
-            "clue": "A thing or person that is strange or quirky",
-            "answer": "weird",
-            "normalized": "weird"
+            "id": "c83ba2aa-4969-4260-999c-9c29d91d0ae2",
+            "clue": "Danson, Turner and Williams",
+            "answer": "teds",
+            "normalized": "teds"
           },
           {
-            "id": "8429a803-d907-4a56-8b94-9c52529d672e",
-            "clue": "She's the female partner of a lad",
-            "answer": "lass",
-            "normalized": "lass"
+            "id": "add578c1-d1bf-4aaf-ae4b-95c4bc536c08",
+            "clue": "Short term computer memory needs regular clearing",
+            "answer": "cache",
+            "normalized": "cache"
           },
           {
-            "id": "ba2053d2-a285-4ce7-b460-d5aecd33a5df",
-            "clue": "Female plant part",
-            "answer": "carpel",
-            "normalized": "carpel"
+            "id": "be8160e4-3d43-41f7-853f-85de427e78fc",
+            "clue": "Tiny sap sucking bug in a swarm that ruins crops",
+            "answer": "aphid",
+            "normalized": "aphid"
           },
           {
-            "id": "05892d5e-9579-4b7e-ba65-2148eeab2c50",
-            "clue": "The failure of the kidneys to produce urine",
-            "answer": "anuria",
-            "normalized": "anuria"
+            "id": "39595c15-ccf7-4ac7-a2e0-130588333744",
+            "clue": "Leather straps gripped tightly by a horse rider",
+            "answer": "reins",
+            "normalized": "reins"
           },
           {
-            "id": "a21dd6a3-dbb0-4197-b120-97be04f2a581",
-            "clue": "Another word for haze or mist, plural",
-            "answer": "vapors",
-            "normalized": "vapors"
+            "id": "bb71c26e-3b2e-447d-a5f3-c70a90d26096",
+            "clue": "Common brand of dry erase markers",
+            "answer": "expo",
+            "normalized": "expo"
           },
           {
-            "id": "75de7374-88df-473a-9fe3-c4b2ebb454fa",
-            "clue": "Edits",
-            "answer": "emends",
-            "normalized": "emends"
-          },
-          {
-            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
-            "clue": "S, written phonetically as a full word",
-            "answer": "ess",
-            "normalized": "ess"
-          },
-          {
-            "id": "41265d1f-660b-43e8-9859-73979fc6fea9",
-            "clue": "Dispense as written, on a medical prescription",
-            "answer": "daw",
-            "normalized": "daw"
+            "id": "067a7eb0-eb24-4b2d-a150-d800483b7d3e",
+            "clue": "Grocery store vehicle",
+            "answer": "cart",
+            "normalized": "cart"
           }
         ],
-        "track": "PC|LenC--Y2026M6D6F0"
+        "track": "PC|LenC--Y2026M6D7F0"
       },
       "mid": {
-        "puzzleId": "650e1908-0525-4480-9ff4-53793013cd0d",
+        "puzzleId": "de567fb0-944e-43b1-8deb-bd3ac3e71562",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 5,
+        "version": 1,
         "answers": [
           {
-            "id": "ad8f0952-c707-4d56-9c23-b15947af853e",
-            "clue": "Fraudulent con attempt",
-            "answer": "scam",
-            "normalized": "scam"
+            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
+            "clue": "Taiwanese laptop and PC company; type of tree",
+            "answer": "acer",
+            "normalized": "acer"
           },
           {
-            "id": "4023b4b2-ab0f-47bb-a0c4-93acd33d0e76",
-            "clue": "White whale hunter",
-            "answer": "ahab",
-            "normalized": "ahab"
+            "id": "51124eee-dbe1-4b62-a719-fb673100a1d2",
+            "clue": "On-air ad campaigns for upcoming radio shows",
+            "answer": "promos",
+            "normalized": "promos"
           },
           {
-            "id": "55cc2766-f69c-4cdb-9e00-7bb3f72bae75",
-            "clue": "What Horton hears in Dr. Seuss story title",
-            "answer": "a who",
-            "normalized": "awho"
+            "id": "5ec1b57d-687e-4654-8261-be0507dfc591",
+            "clue": "Soapy liquid used to clean hair",
+            "answer": "shampoo",
+            "normalized": "shampoo"
           },
           {
-            "id": "b9f9c98d-e8a6-49fa-a775-8e440a649410",
-            "clue": "McIlroy the Northern Irish golfer",
-            "answer": "rory",
-            "normalized": "rory"
+            "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
+            "clue": "Container for Coke and beans",
+            "answer": "can",
+            "normalized": "can"
           },
           {
-            "id": "00b7b834-81b5-42f0-adad-4e266673f017",
-            "clue": "Monopoly, Scrabble, etc, bought from a toy store",
-            "answer": "board game",
-            "normalized": "boardgame"
+            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
+            "clue": "Australian Football League, in short",
+            "answer": "afl",
+            "normalized": "afl"
           },
           {
-            "id": "fa96c89f-3610-4b49-a703-738d6774379c",
-            "clue": "Highest natural male singing voice",
-            "answer": "tenor",
-            "normalized": "tenor"
+            "id": "5c87d2ec-a57e-4824-8fea-0e51e08a013a",
+            "clue": "Curve, bend",
+            "answer": "arc",
+            "normalized": "arc"
           },
           {
-            "id": "5433c3fc-657d-498c-9ccb-889e6d792b0f",
-            "clue": "South African word for foreigner, esp British",
-            "answer": "uitlander",
-            "normalized": "uitlander"
+            "id": "7dce869b-e9da-41ab-9361-e4cc67fc5ec5",
+            "clue": "Short French word to indicate woman's maiden name",
+            "answer": "nee",
+            "normalized": "nee"
           },
           {
-            "id": "496cdd74-2f63-4152-b26d-02d960019a52",
-            "clue": "French word for honey",
-            "answer": "miel",
-            "normalized": "miel"
+            "id": "8c20fe11-3abb-45a8-9735-db321975ba6d",
+            "clue": "Lingers, often illegally",
+            "answer": "loiters",
+            "normalized": "loiters"
           },
           {
-            "id": "f68cbab2-ec92-4145-acd1-18aa5e096995",
-            "clue": "Famous Disney clownfish",
-            "answer": "nemo",
-            "normalized": "nemo"
+            "id": "2032f33f-ec66-4aab-9a92-54be1e94c899",
+            "clue": "Parts of a car body, anagram of Naples",
+            "answer": "panels",
+            "normalized": "panels"
           },
           {
-            "id": "10224069-14e9-41d1-8dad-574dcb344169",
-            "clue": "Spanish surrealist painter and sculptor Joan",
-            "answer": "miro",
-            "normalized": "miro"
+            "id": "4e7bdd99-d49a-4cab-8929-64ea291a9dac",
+            "clue": "Strikes with a hand",
+            "answer": "hits",
+            "normalized": "hits"
           },
           {
-            "id": "756d512a-1bcd-4512-8c40-450b4e78c442",
-            "clue": "Andrews, Brockovich, Moran",
-            "answer": "erin",
-            "normalized": "erin"
+            "id": "8daddf2b-c41a-4df2-87f3-6eaf283c39b0",
+            "clue": "Italian stuffed rice croquettes",
+            "answer": "arancini",
+            "normalized": "arancini"
           },
           {
-            "id": "da934134-5409-44f7-9f5c-f399b2251b70",
-            "clue": "Acronym for soprano alto baritone",
-            "answer": "sab",
-            "normalized": "sab"
+            "id": "8a6a96da-9342-4eb1-ac02-171b018da2e5",
+            "clue": "Most common online domain ending",
+            "answer": "com",
+            "normalized": "com"
           },
           {
-            "id": "5099c4cc-fd13-4f29-ac71-3e48475c02b2",
-            "clue": "Chief web officer, for short",
-            "answer": "cwo",
-            "normalized": "cwo"
+            "id": "22f53114-f2a5-483c-8b3d-9190a1178bee",
+            "clue": "Enlists on a jury",
+            "answer": "empanels",
+            "normalized": "empanels"
           },
           {
-            "id": "5a903c48-90b3-47b2-8d48-c51cd488a869",
-            "clue": "Phrase indicating insanity, as mad as __",
-            "answer": "a hatter",
-            "normalized": "ahatter"
+            "id": "23fd52bb-de10-44d1-8ca8-0e5c0c2608fb",
+            "clue": "Workers high on building tops",
+            "answer": "roofers",
+            "normalized": "roofers"
           },
           {
-            "id": "2cf0bd4f-2b4d-4260-ba42-802090ad820a",
-            "clue": "Dark cherry used in desserts",
-            "answer": "morello",
-            "normalized": "morello"
+            "id": "14f9f7df-610f-42ac-a20f-92de211c9843",
+            "clue": "American __, Triple Crown winner in 2015",
+            "answer": "pharoah",
+            "normalized": "pharoah"
           },
           {
-            "id": "820a68a0-1dd0-4e48-be6c-a4baca53247e",
-            "clue": "Forest in north-east France",
-            "answer": "argonne",
-            "normalized": "argonne"
+            "id": "2a0d1ee7-55d7-47af-a1ce-74df6a73793d",
+            "clue": "The under areas of the feet",
+            "answer": "soles",
+            "normalized": "soles"
           },
           {
-            "id": "9fb4daab-a5cc-4854-94a6-adafc547067b",
-            "clue": "Someone who collects and keeps things obsessively",
-            "answer": "hoarder",
-            "normalized": "hoarder"
+            "id": "3fdbc3b6-e3c0-475b-9e7d-136bc9d93d86",
+            "clue": "Place on the head hair grows out of",
+            "answer": "scalp",
+            "normalized": "scalp"
           },
           {
-            "id": "66485089-37ab-4202-9407-05018bf97cdc",
-            "clue": "A limb with fingers",
-            "answer": "arm",
-            "normalized": "arm"
-          },
-          {
-            "id": "121dd5ea-a372-44e8-8fa3-ac24cb592049",
-            "clue": "Ciao, adios, sayonara",
-            "answer": "bye",
-            "normalized": "bye"
-          },
-          {
-            "id": "a442e2c2-e493-4d12-b920-1e49f54352cb",
-            "clue": "Double helix found in cells",
-            "answer": "dna",
-            "normalized": "dna"
-          },
-          {
-            "id": "62d05bee-1b35-4ba2-8313-940990665a13",
-            "clue": "Thinking noise like \"err\" or \"hmm\"",
-            "answer": "umm",
-            "normalized": "umm"
-          },
-          {
-            "id": "77745a38-4303-48c9-8ffd-e437c0ee74ef",
-            "clue": "Three in Roman numerals",
-            "answer": "iii",
-            "normalized": "iii"
-          },
-          {
-            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
-            "clue": "London recording studio founded in 1931",
-            "answer": "emi",
-            "normalized": "emi"
-          },
-          {
-            "id": "adbcb7ad-5928-41d3-ac24-6a14726ead3a",
-            "clue": "Happy Days star Howard who directs movies",
-            "answer": "ron",
-            "normalized": "ron"
+            "id": "8c4382a3-f00f-44d7-b57d-23b788cc9630",
+            "clue": "Vietnamese New Year",
+            "answer": "tet",
+            "normalized": "tet"
           }
         ],
-        "track": "PC|LenC--Y2026M6D6F1"
+        "track": "PC|LenC--Y2026M6D7F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-06",
+      "key": "2026-06-07",
       "year": 2026,
       "month": 6,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "b8490638-01e7-4656-902c-00d4077fe774",
+        "puzzleId": "cebee596-624e-4bf9-a13f-a6aae02f1e24",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "b797fa68-36a8-429d-9f28-0317ff0c88b4",
-            "clue": "Place to find a potholer or spelunker",
-            "answer": "cave",
-            "normalized": "cave"
+            "id": "ddaf35b8-1431-4ef7-9cd3-b88cfef94242",
+            "clue": "The C in TLC",
+            "answer": "care",
+            "normalized": "care"
           },
           {
-            "id": "ef5287e4-6690-44a6-9b2a-f1bf6dc88f1d",
-            "clue": "Shakespeare's Juliet asked \"What's in __?\"",
-            "answer": "a name",
-            "normalized": "aname"
+            "id": "e836cb67-e5f8-4a70-a90f-9a325967bdbe",
+            "clue": "Capital expenditure, in short",
+            "answer": "capex",
+            "normalized": "capex"
           },
           {
-            "id": "3923ffbf-3349-4cf5-92ec-79533f44659a",
-            "clue": "Fruits with large stones, like apricots and plums",
-            "answer": "drupes",
-            "normalized": "drupes"
+            "id": "f367332c-f8ae-411c-a531-5b4546b77daf",
+            "clue": "Quarrelsome, have __ on one's shoulder",
+            "answer": "a chip",
+            "normalized": "achip"
           },
           {
-            "id": "1fe86b25-d867-4513-aa10-6d6f3ab74e1b",
-            "clue": "Parking areas for planes in front of terminals",
-            "answer": "aprons",
-            "normalized": "aprons"
+            "id": "c5265349-1223-454f-98b6-b59fb9bd3474",
+            "clue": "Big mud-loving mammal with at least one nose horn",
+            "answer": "rhino",
+            "normalized": "rhino"
           },
           {
-            "id": "92407e1c-b403-4536-855e-a7c183dc592f",
-            "clue": "A thing or person that is strange or quirky",
-            "answer": "weird",
-            "normalized": "weird"
+            "id": "c83ba2aa-4969-4260-999c-9c29d91d0ae2",
+            "clue": "Danson, Turner and Williams",
+            "answer": "teds",
+            "normalized": "teds"
           },
           {
-            "id": "8429a803-d907-4a56-8b94-9c52529d672e",
-            "clue": "She's the female partner of a lad",
-            "answer": "lass",
-            "normalized": "lass"
+            "id": "add578c1-d1bf-4aaf-ae4b-95c4bc536c08",
+            "clue": "Short term computer memory needs regular clearing",
+            "answer": "cache",
+            "normalized": "cache"
           },
           {
-            "id": "ba2053d2-a285-4ce7-b460-d5aecd33a5df",
-            "clue": "Female plant part",
-            "answer": "carpel",
-            "normalized": "carpel"
+            "id": "be8160e4-3d43-41f7-853f-85de427e78fc",
+            "clue": "Tiny sap sucking bug in a swarm that ruins crops",
+            "answer": "aphid",
+            "normalized": "aphid"
           },
           {
-            "id": "05892d5e-9579-4b7e-ba65-2148eeab2c50",
-            "clue": "The failure of the kidneys to produce urine",
-            "answer": "anuria",
-            "normalized": "anuria"
+            "id": "39595c15-ccf7-4ac7-a2e0-130588333744",
+            "clue": "Leather straps gripped tightly by a horse rider",
+            "answer": "reins",
+            "normalized": "reins"
           },
           {
-            "id": "a21dd6a3-dbb0-4197-b120-97be04f2a581",
-            "clue": "Another word for haze or mist, plural",
-            "answer": "vapors",
-            "normalized": "vapors"
+            "id": "bb71c26e-3b2e-447d-a5f3-c70a90d26096",
+            "clue": "Common brand of dry erase markers",
+            "answer": "expo",
+            "normalized": "expo"
           },
           {
-            "id": "75de7374-88df-473a-9fe3-c4b2ebb454fa",
-            "clue": "Edits",
-            "answer": "emends",
-            "normalized": "emends"
-          },
-          {
-            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
-            "clue": "S, written phonetically as a full word",
-            "answer": "ess",
-            "normalized": "ess"
-          },
-          {
-            "id": "41265d1f-660b-43e8-9859-73979fc6fea9",
-            "clue": "Dispense as written, on a medical prescription",
-            "answer": "daw",
-            "normalized": "daw"
+            "id": "067a7eb0-eb24-4b2d-a150-d800483b7d3e",
+            "clue": "Grocery store vehicle",
+            "answer": "cart",
+            "normalized": "cart"
           }
         ],
-        "track": "PC|LenC--Y2026M6D6F0"
+        "track": "PC|LenC--Y2026M6D7F0"
       },
       "mid": {
-        "puzzleId": "650e1908-0525-4480-9ff4-53793013cd0d",
+        "puzzleId": "de567fb0-944e-43b1-8deb-bd3ac3e71562",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 5,
+        "version": 1,
         "answers": [
           {
-            "id": "ad8f0952-c707-4d56-9c23-b15947af853e",
-            "clue": "Fraudulent con attempt",
-            "answer": "scam",
-            "normalized": "scam"
+            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
+            "clue": "Taiwanese laptop and PC company; type of tree",
+            "answer": "acer",
+            "normalized": "acer"
           },
           {
-            "id": "4023b4b2-ab0f-47bb-a0c4-93acd33d0e76",
-            "clue": "White whale hunter",
-            "answer": "ahab",
-            "normalized": "ahab"
+            "id": "51124eee-dbe1-4b62-a719-fb673100a1d2",
+            "clue": "On-air ad campaigns for upcoming radio shows",
+            "answer": "promos",
+            "normalized": "promos"
           },
           {
-            "id": "55cc2766-f69c-4cdb-9e00-7bb3f72bae75",
-            "clue": "What Horton hears in Dr. Seuss story title",
-            "answer": "a who",
-            "normalized": "awho"
+            "id": "5ec1b57d-687e-4654-8261-be0507dfc591",
+            "clue": "Soapy liquid used to clean hair",
+            "answer": "shampoo",
+            "normalized": "shampoo"
           },
           {
-            "id": "b9f9c98d-e8a6-49fa-a775-8e440a649410",
-            "clue": "McIlroy the Northern Irish golfer",
-            "answer": "rory",
-            "normalized": "rory"
+            "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
+            "clue": "Container for Coke and beans",
+            "answer": "can",
+            "normalized": "can"
           },
           {
-            "id": "00b7b834-81b5-42f0-adad-4e266673f017",
-            "clue": "Monopoly, Scrabble, etc, bought from a toy store",
-            "answer": "board game",
-            "normalized": "boardgame"
+            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
+            "clue": "Australian Football League, in short",
+            "answer": "afl",
+            "normalized": "afl"
           },
           {
-            "id": "fa96c89f-3610-4b49-a703-738d6774379c",
-            "clue": "Highest natural male singing voice",
-            "answer": "tenor",
-            "normalized": "tenor"
+            "id": "5c87d2ec-a57e-4824-8fea-0e51e08a013a",
+            "clue": "Curve, bend",
+            "answer": "arc",
+            "normalized": "arc"
           },
           {
-            "id": "5433c3fc-657d-498c-9ccb-889e6d792b0f",
-            "clue": "South African word for foreigner, esp British",
-            "answer": "uitlander",
-            "normalized": "uitlander"
+            "id": "7dce869b-e9da-41ab-9361-e4cc67fc5ec5",
+            "clue": "Short French word to indicate woman's maiden name",
+            "answer": "nee",
+            "normalized": "nee"
           },
           {
-            "id": "496cdd74-2f63-4152-b26d-02d960019a52",
-            "clue": "French word for honey",
-            "answer": "miel",
-            "normalized": "miel"
+            "id": "8c20fe11-3abb-45a8-9735-db321975ba6d",
+            "clue": "Lingers, often illegally",
+            "answer": "loiters",
+            "normalized": "loiters"
           },
           {
-            "id": "f68cbab2-ec92-4145-acd1-18aa5e096995",
-            "clue": "Famous Disney clownfish",
-            "answer": "nemo",
-            "normalized": "nemo"
+            "id": "2032f33f-ec66-4aab-9a92-54be1e94c899",
+            "clue": "Parts of a car body, anagram of Naples",
+            "answer": "panels",
+            "normalized": "panels"
           },
           {
-            "id": "10224069-14e9-41d1-8dad-574dcb344169",
-            "clue": "Spanish surrealist painter and sculptor Joan",
-            "answer": "miro",
-            "normalized": "miro"
+            "id": "4e7bdd99-d49a-4cab-8929-64ea291a9dac",
+            "clue": "Strikes with a hand",
+            "answer": "hits",
+            "normalized": "hits"
           },
           {
-            "id": "756d512a-1bcd-4512-8c40-450b4e78c442",
-            "clue": "Andrews, Brockovich, Moran",
-            "answer": "erin",
-            "normalized": "erin"
+            "id": "8daddf2b-c41a-4df2-87f3-6eaf283c39b0",
+            "clue": "Italian stuffed rice croquettes",
+            "answer": "arancini",
+            "normalized": "arancini"
           },
           {
-            "id": "da934134-5409-44f7-9f5c-f399b2251b70",
-            "clue": "Acronym for soprano alto baritone",
-            "answer": "sab",
-            "normalized": "sab"
+            "id": "8a6a96da-9342-4eb1-ac02-171b018da2e5",
+            "clue": "Most common online domain ending",
+            "answer": "com",
+            "normalized": "com"
           },
           {
-            "id": "5099c4cc-fd13-4f29-ac71-3e48475c02b2",
-            "clue": "Chief web officer, for short",
-            "answer": "cwo",
-            "normalized": "cwo"
+            "id": "22f53114-f2a5-483c-8b3d-9190a1178bee",
+            "clue": "Enlists on a jury",
+            "answer": "empanels",
+            "normalized": "empanels"
           },
           {
-            "id": "5a903c48-90b3-47b2-8d48-c51cd488a869",
-            "clue": "Phrase indicating insanity, as mad as __",
-            "answer": "a hatter",
-            "normalized": "ahatter"
+            "id": "23fd52bb-de10-44d1-8ca8-0e5c0c2608fb",
+            "clue": "Workers high on building tops",
+            "answer": "roofers",
+            "normalized": "roofers"
           },
           {
-            "id": "2cf0bd4f-2b4d-4260-ba42-802090ad820a",
-            "clue": "Dark cherry used in desserts",
-            "answer": "morello",
-            "normalized": "morello"
+            "id": "14f9f7df-610f-42ac-a20f-92de211c9843",
+            "clue": "American __, Triple Crown winner in 2015",
+            "answer": "pharoah",
+            "normalized": "pharoah"
           },
           {
-            "id": "820a68a0-1dd0-4e48-be6c-a4baca53247e",
-            "clue": "Forest in north-east France",
-            "answer": "argonne",
-            "normalized": "argonne"
+            "id": "2a0d1ee7-55d7-47af-a1ce-74df6a73793d",
+            "clue": "The under areas of the feet",
+            "answer": "soles",
+            "normalized": "soles"
           },
           {
-            "id": "9fb4daab-a5cc-4854-94a6-adafc547067b",
-            "clue": "Someone who collects and keeps things obsessively",
-            "answer": "hoarder",
-            "normalized": "hoarder"
+            "id": "3fdbc3b6-e3c0-475b-9e7d-136bc9d93d86",
+            "clue": "Place on the head hair grows out of",
+            "answer": "scalp",
+            "normalized": "scalp"
           },
           {
-            "id": "66485089-37ab-4202-9407-05018bf97cdc",
-            "clue": "A limb with fingers",
-            "answer": "arm",
-            "normalized": "arm"
-          },
-          {
-            "id": "121dd5ea-a372-44e8-8fa3-ac24cb592049",
-            "clue": "Ciao, adios, sayonara",
-            "answer": "bye",
-            "normalized": "bye"
-          },
-          {
-            "id": "a442e2c2-e493-4d12-b920-1e49f54352cb",
-            "clue": "Double helix found in cells",
-            "answer": "dna",
-            "normalized": "dna"
-          },
-          {
-            "id": "62d05bee-1b35-4ba2-8313-940990665a13",
-            "clue": "Thinking noise like \"err\" or \"hmm\"",
-            "answer": "umm",
-            "normalized": "umm"
-          },
-          {
-            "id": "77745a38-4303-48c9-8ffd-e437c0ee74ef",
-            "clue": "Three in Roman numerals",
-            "answer": "iii",
-            "normalized": "iii"
-          },
-          {
-            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
-            "clue": "London recording studio founded in 1931",
-            "answer": "emi",
-            "normalized": "emi"
-          },
-          {
-            "id": "adbcb7ad-5928-41d3-ac24-6a14726ead3a",
-            "clue": "Happy Days star Howard who directs movies",
-            "answer": "ron",
-            "normalized": "ron"
+            "id": "8c4382a3-f00f-44d7-b57d-23b788cc9630",
+            "clue": "Vietnamese New Year",
+            "answer": "tet",
+            "normalized": "tet"
           }
         ],
-        "track": "PC|LenC--Y2026M6D6F1"
+        "track": "PC|LenC--Y2026M6D7F1"
       }
     },
     "latestAvailableEntry": {
@@ -422126,21 +422030,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "uq+NBnn3i13KhkQVOV27zmCI/w5gED4zTJjLg8fbQlUdPM3FgNXqEjv7ZyMXJEl9o2cWJ/9lFuDKjypsZpbMLSRj3P1Mto6D0MfKBHKQj5ZilrffiQE63UbvZ8qTXWaUoPpmkN5OUjXC2Lfb8aIaQku3uoRXBojVFqr8T9lJYAj7IjlPUiXjGX+gNcHXJqK7sMRdLfBX3rkaEjXYNkwYx88GB6d2l7Lg/fIlH2kPIVJsSCt1EVtrC8NAf+IepSdcrdJRc9H+0ajgYpMlA+TNSTOqn2GtZNHVJjKp5RioMAA="
+        "jUCTlZTjBaDC6sEwVHs+QsUL61vkXJBDQptXr3NtA00DeqHd0DFQv6FrCAfaVuVcER7RY2hpbNJPrtVNh5XnoC+/MoCYg7ujQ11tsskarCSZss5B6VNpwH63VhsCAP5Hde2n0rKmVClZZd8J8uQ57kgKC0JMwGz4I3ioW6jRnAwJOLEfmZOlzT+djL98Ej64DWn+marGzXDDMIzZEfVWQlXCs9WL30sNVvbfERDcrWWR85sxogK/wYszgG497jOhgU7jHEx+cgEip9+qI7476N2vO9y3i1qC7btjnOwGTFs="
       ]
     },
     "decrypted": {
-      "Id": "2238e23e-5f87-43d9-8ed7-11c2e13cf5f7",
-      "Date": "2026-06-06T00:00:00Z",
+      "Id": "cb4e3f10-e443-41c9-bdc8-6b01fcdd55c9",
+      "Date": "2026-06-07T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "oddly",
-      "NormalizedPassword": "oddly",
+      "Password": "focus",
+      "NormalizedPassword": "focus",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-06T01:51:43.8870000+05:30",
-    "hash": "6f3d03ae545b41772ea2650be452c1b3",
+    "dtu": "2026-06-07T01:21:47.6020000+05:30",
+    "hash": "1f9df845ac1359b0131471115ad12295",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
