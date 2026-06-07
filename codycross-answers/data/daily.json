@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-06T19:51:47.602Z",
+  "generatedAt": "2026-06-07T19:52:55.997Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 7
+    "day": 8
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 10
+        "QuantidadeDeFases": 12
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -421410,391 +421410,451 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-07",
+      "key": "2026-06-08",
       "year": 2026,
       "month": 6,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "cebee596-624e-4bf9-a13f-a6aae02f1e24",
+        "puzzleId": "347010e7-eb81-47ac-804e-43bbaf4b576c",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 6,
         "answers": [
           {
-            "id": "ddaf35b8-1431-4ef7-9cd3-b88cfef94242",
-            "clue": "The C in TLC",
-            "answer": "care",
-            "normalized": "care"
+            "id": "4bc6fd39-0797-40c1-bd24-66b63c334903",
+            "clue": "To have one's emotions heightened by fear or anger",
+            "answer": "upset",
+            "normalized": "upset"
           },
           {
-            "id": "e836cb67-e5f8-4a70-a90f-9a325967bdbe",
-            "clue": "Capital expenditure, in short",
-            "answer": "capex",
-            "normalized": "capex"
+            "id": "ed49718b-1269-40ed-8270-73dab630ff87",
+            "clue": "Red cosmetic used to add flush to cheeks and lips",
+            "answer": "rouge",
+            "normalized": "rouge"
           },
           {
-            "id": "f367332c-f8ae-411c-a531-5b4546b77daf",
-            "clue": "Quarrelsome, have __ on one's shoulder",
-            "answer": "a chip",
-            "normalized": "achip"
+            "id": "3ef69544-67b0-44be-aa76-b4d163a154b2",
+            "clue": "Zodiac sign represented by scales",
+            "answer": "libra",
+            "normalized": "libra"
           },
           {
-            "id": "c5265349-1223-454f-98b6-b59fb9bd3474",
-            "clue": "Big mud-loving mammal with at least one nose horn",
-            "answer": "rhino",
-            "normalized": "rhino"
+            "id": "c87a5c11-2f9d-4f3e-bb3f-2d27824a8304",
+            "clue": "Tool used to sift items",
+            "answer": "sieve",
+            "normalized": "sieve"
           },
           {
-            "id": "c83ba2aa-4969-4260-999c-9c29d91d0ae2",
-            "clue": "Danson, Turner and Williams",
-            "answer": "teds",
-            "normalized": "teds"
+            "id": "29622561-3ef2-4bd3-ac26-1edb37da4fd9",
+            "clue": "Playful water mammal that holds hands with others",
+            "answer": "otter",
+            "normalized": "otter"
           },
           {
-            "id": "add578c1-d1bf-4aaf-ae4b-95c4bc536c08",
-            "clue": "Short term computer memory needs regular clearing",
-            "answer": "cache",
-            "normalized": "cache"
+            "id": "0eb438b2-d180-4043-8ff8-eba26123ba07",
+            "clue": "Long time, __ greeting after years apart",
+            "answer": "no see",
+            "normalized": "nosee"
           },
           {
-            "id": "be8160e4-3d43-41f7-853f-85de427e78fc",
-            "clue": "Tiny sap sucking bug in a swarm that ruins crops",
-            "answer": "aphid",
-            "normalized": "aphid"
+            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
+            "clue": "Web address",
+            "answer": "url",
+            "normalized": "url"
           },
           {
-            "id": "39595c15-ccf7-4ac7-a2e0-130588333744",
-            "clue": "Leather straps gripped tightly by a horse rider",
-            "answer": "reins",
-            "normalized": "reins"
+            "id": "311255bc-208d-4367-af4f-223b7921a4d2",
+            "clue": "Toxin, venom",
+            "answer": "poison",
+            "normalized": "poison"
           },
           {
-            "id": "bb71c26e-3b2e-447d-a5f3-c70a90d26096",
-            "clue": "Common brand of dry erase markers",
-            "answer": "expo",
-            "normalized": "expo"
+            "id": "4a213c87-cc9f-43ee-b702-7fc58b2f366f",
+            "clue": "Volti __, note in music scores to flip a page fast",
+            "answer": "subito",
+            "normalized": "subito"
           },
           {
-            "id": "067a7eb0-eb24-4b2d-a150-d800483b7d3e",
-            "clue": "Grocery store vehicle",
-            "answer": "cart",
-            "normalized": "cart"
+            "id": "c7603258-4086-458e-9ccd-a7ab825db3a3",
+            "clue": "Typically white herons with cascading feathers",
+            "answer": "egrets",
+            "normalized": "egrets"
+          },
+          {
+            "id": "f184cbca-cbcb-45b0-8a27-eeb62e5ab19d",
+            "clue": "Mike __, in Charlie and the Chocolate Factory",
+            "answer": "teavee",
+            "normalized": "teavee"
+          },
+          {
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
           }
         ],
-        "track": "PC|LenC--Y2026M6D7F0"
+        "track": "PC|LenC--Y2026M6D8F0"
       },
       "mid": {
-        "puzzleId": "de567fb0-944e-43b1-8deb-bd3ac3e71562",
+        "puzzleId": "282169ad-399d-40e8-bb63-5ab3de3ac70e",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 5,
         "answers": [
           {
-            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
-            "clue": "Taiwanese laptop and PC company; type of tree",
-            "answer": "acer",
-            "normalized": "acer"
+            "id": "b18f6bc7-af43-44bb-a222-2514dcbe2a46",
+            "clue": "Harry's fellow thief in Home Alone movies",
+            "answer": "marv",
+            "normalized": "marv"
           },
           {
-            "id": "51124eee-dbe1-4b62-a719-fb673100a1d2",
-            "clue": "On-air ad campaigns for upcoming radio shows",
-            "answer": "promos",
-            "normalized": "promos"
+            "id": "5d6adb91-7ecd-4df8-9407-2077dd21f6c1",
+            "clue": "Short name for desktop computers",
+            "answer": "pcs",
+            "normalized": "pcs"
           },
           {
-            "id": "5ec1b57d-687e-4654-8261-be0507dfc591",
-            "clue": "Soapy liquid used to clean hair",
-            "answer": "shampoo",
-            "normalized": "shampoo"
+            "id": "5fcbbc87-5296-4a4f-b0fd-025ed90e9639",
+            "clue": "Soft, mild French cheese with white rind",
+            "answer": "brie",
+            "normalized": "brie"
           },
           {
-            "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
-            "clue": "Container for Coke and beans",
-            "answer": "can",
-            "normalized": "can"
+            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
+            "clue": "Abbreviation for User Access Review",
+            "answer": "uar",
+            "normalized": "uar"
           },
           {
-            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
-            "clue": "Australian Football League, in short",
-            "answer": "afl",
-            "normalized": "afl"
+            "id": "1071ce77-da34-4b42-996d-d62c1e23c55c",
+            "clue": "German-speaking, signing crocodile",
+            "answer": "schnappi",
+            "normalized": "schnappi"
           },
           {
-            "id": "5c87d2ec-a57e-4824-8fea-0e51e08a013a",
-            "clue": "Curve, bend",
-            "answer": "arc",
-            "normalized": "arc"
+            "id": "da8a3e67-5c7f-4d5b-ac62-0db9c5c0f4b9",
+            "clue": "Places one visits often",
+            "answer": "haunts",
+            "normalized": "haunts"
           },
           {
-            "id": "7dce869b-e9da-41ab-9361-e4cc67fc5ec5",
-            "clue": "Short French word to indicate woman's maiden name",
-            "answer": "nee",
-            "normalized": "nee"
+            "id": "85cc492b-19d7-45e1-a9a2-6a1043ffc73c",
+            "clue": "Physicist offered the Presidency of Israel",
+            "answer": "einstein",
+            "normalized": "einstein"
           },
           {
-            "id": "8c20fe11-3abb-45a8-9735-db321975ba6d",
-            "clue": "Lingers, often illegally",
-            "answer": "loiters",
-            "normalized": "loiters"
+            "id": "226484d9-3fba-4c23-b072-a6250b212cf2",
+            "clue": "Barbie's boyfriend",
+            "answer": "ken",
+            "normalized": "ken"
           },
           {
-            "id": "2032f33f-ec66-4aab-9a92-54be1e94c899",
-            "clue": "Parts of a car body, anagram of Naples",
-            "answer": "panels",
-            "normalized": "panels"
+            "id": "811fb042-570c-41f2-99bb-7e7b6f98755d",
+            "clue": "First name of Ferrari founder",
+            "answer": "enzo",
+            "normalized": "enzo"
           },
           {
-            "id": "4e7bdd99-d49a-4cab-8929-64ea291a9dac",
-            "clue": "Strikes with a hand",
-            "answer": "hits",
-            "normalized": "hits"
+            "id": "c52c1af7-8b01-4e0d-b7f7-2ec6fc38c781",
+            "clue": "Europe's space exploration group",
+            "answer": "esa",
+            "normalized": "esa"
           },
           {
-            "id": "8daddf2b-c41a-4df2-87f3-6eaf283c39b0",
-            "clue": "Italian stuffed rice croquettes",
-            "answer": "arancini",
-            "normalized": "arancini"
+            "id": "1ae2f0a9-b69b-4182-946e-ec24ed4b9bb7",
+            "clue": "Dish cooked in liquid and served in gravy",
+            "answer": "stew",
+            "normalized": "stew"
           },
           {
-            "id": "8a6a96da-9342-4eb1-ac02-171b018da2e5",
-            "clue": "Most common online domain ending",
-            "answer": "com",
-            "normalized": "com"
+            "id": "950cad48-10de-4652-ac0d-888e3e9ddf43",
+            "clue": "Megabits per second, in short",
+            "answer": "mbs",
+            "normalized": "mbs"
           },
           {
-            "id": "22f53114-f2a5-483c-8b3d-9190a1178bee",
-            "clue": "Enlists on a jury",
-            "answer": "empanels",
-            "normalized": "empanels"
+            "id": "6ddaaf9a-9fd7-4386-bf8f-01a3ab469c09",
+            "clue": "The __, pop group who started in a comic book",
+            "answer": "archies",
+            "normalized": "archies"
           },
           {
-            "id": "23fd52bb-de10-44d1-8ca8-0e5c0c2608fb",
-            "clue": "Workers high on building tops",
-            "answer": "roofers",
-            "normalized": "roofers"
+            "id": "b7cc823f-03d3-4144-aaff-3d8fa2519d3c",
+            "clue": "Umbrella, Diamonds and We Found Love singer",
+            "answer": "rihanna",
+            "normalized": "rihanna"
           },
           {
-            "id": "14f9f7df-610f-42ac-a20f-92de211c9843",
-            "clue": "American __, Triple Crown winner in 2015",
-            "answer": "pharoah",
-            "normalized": "pharoah"
+            "id": "c045de4d-c932-4335-9d83-9dd6aacb5726",
+            "clue": "Serena Williams' fellow tennis star sister",
+            "answer": "venus",
+            "normalized": "venus"
           },
           {
-            "id": "2a0d1ee7-55d7-47af-a1ce-74df6a73793d",
-            "clue": "The under areas of the feet",
-            "answer": "soles",
-            "normalized": "soles"
+            "id": "b3b29602-7c1a-402c-af22-fa1487a6870f",
+            "clue": "Small camping shelter, misleadingly not for dogs",
+            "answer": "pup tent",
+            "normalized": "puptent"
           },
           {
-            "id": "3fdbc3b6-e3c0-475b-9e7d-136bc9d93d86",
-            "clue": "Place on the head hair grows out of",
-            "answer": "scalp",
-            "normalized": "scalp"
+            "id": "6d5ffda0-ae05-4093-a648-ee1cc28ede7e",
+            "clue": "To turn a boat over in the water",
+            "answer": "capsize",
+            "normalized": "capsize"
           },
           {
-            "id": "8c4382a3-f00f-44d7-b57d-23b788cc9630",
-            "clue": "Vietnamese New Year",
-            "answer": "tet",
-            "normalized": "tet"
+            "id": "10e4f7a8-9ff7-401c-9acd-47f3c3fb15f4",
+            "clue": "__ Lanka",
+            "answer": "sri",
+            "normalized": "sri"
+          },
+          {
+            "id": "c69e416d-7de6-4988-a0ff-a245365b1434",
+            "clue": "Stakes upped by players before receiving cards",
+            "answer": "antes",
+            "normalized": "antes"
+          },
+          {
+            "id": "5c4ada3e-2987-48f2-b50f-f98d73e20091",
+            "clue": "Scrape by, __ out a living",
+            "answer": "eke",
+            "normalized": "eke"
+          },
+          {
+            "id": "662b297b-6c1f-494d-ad86-485e8b7e7732",
+            "clue": "This instant",
+            "answer": "now",
+            "normalized": "now"
           }
         ],
-        "track": "PC|LenC--Y2026M6D7F1"
+        "track": "PC|LenC--Y2026M6D8F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-07",
+      "key": "2026-06-08",
       "year": 2026,
       "month": 6,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "cebee596-624e-4bf9-a13f-a6aae02f1e24",
+        "puzzleId": "347010e7-eb81-47ac-804e-43bbaf4b576c",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 6,
         "answers": [
           {
-            "id": "ddaf35b8-1431-4ef7-9cd3-b88cfef94242",
-            "clue": "The C in TLC",
-            "answer": "care",
-            "normalized": "care"
+            "id": "4bc6fd39-0797-40c1-bd24-66b63c334903",
+            "clue": "To have one's emotions heightened by fear or anger",
+            "answer": "upset",
+            "normalized": "upset"
           },
           {
-            "id": "e836cb67-e5f8-4a70-a90f-9a325967bdbe",
-            "clue": "Capital expenditure, in short",
-            "answer": "capex",
-            "normalized": "capex"
+            "id": "ed49718b-1269-40ed-8270-73dab630ff87",
+            "clue": "Red cosmetic used to add flush to cheeks and lips",
+            "answer": "rouge",
+            "normalized": "rouge"
           },
           {
-            "id": "f367332c-f8ae-411c-a531-5b4546b77daf",
-            "clue": "Quarrelsome, have __ on one's shoulder",
-            "answer": "a chip",
-            "normalized": "achip"
+            "id": "3ef69544-67b0-44be-aa76-b4d163a154b2",
+            "clue": "Zodiac sign represented by scales",
+            "answer": "libra",
+            "normalized": "libra"
           },
           {
-            "id": "c5265349-1223-454f-98b6-b59fb9bd3474",
-            "clue": "Big mud-loving mammal with at least one nose horn",
-            "answer": "rhino",
-            "normalized": "rhino"
+            "id": "c87a5c11-2f9d-4f3e-bb3f-2d27824a8304",
+            "clue": "Tool used to sift items",
+            "answer": "sieve",
+            "normalized": "sieve"
           },
           {
-            "id": "c83ba2aa-4969-4260-999c-9c29d91d0ae2",
-            "clue": "Danson, Turner and Williams",
-            "answer": "teds",
-            "normalized": "teds"
+            "id": "29622561-3ef2-4bd3-ac26-1edb37da4fd9",
+            "clue": "Playful water mammal that holds hands with others",
+            "answer": "otter",
+            "normalized": "otter"
           },
           {
-            "id": "add578c1-d1bf-4aaf-ae4b-95c4bc536c08",
-            "clue": "Short term computer memory needs regular clearing",
-            "answer": "cache",
-            "normalized": "cache"
+            "id": "0eb438b2-d180-4043-8ff8-eba26123ba07",
+            "clue": "Long time, __ greeting after years apart",
+            "answer": "no see",
+            "normalized": "nosee"
           },
           {
-            "id": "be8160e4-3d43-41f7-853f-85de427e78fc",
-            "clue": "Tiny sap sucking bug in a swarm that ruins crops",
-            "answer": "aphid",
-            "normalized": "aphid"
+            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
+            "clue": "Web address",
+            "answer": "url",
+            "normalized": "url"
           },
           {
-            "id": "39595c15-ccf7-4ac7-a2e0-130588333744",
-            "clue": "Leather straps gripped tightly by a horse rider",
-            "answer": "reins",
-            "normalized": "reins"
+            "id": "311255bc-208d-4367-af4f-223b7921a4d2",
+            "clue": "Toxin, venom",
+            "answer": "poison",
+            "normalized": "poison"
           },
           {
-            "id": "bb71c26e-3b2e-447d-a5f3-c70a90d26096",
-            "clue": "Common brand of dry erase markers",
-            "answer": "expo",
-            "normalized": "expo"
+            "id": "4a213c87-cc9f-43ee-b702-7fc58b2f366f",
+            "clue": "Volti __, note in music scores to flip a page fast",
+            "answer": "subito",
+            "normalized": "subito"
           },
           {
-            "id": "067a7eb0-eb24-4b2d-a150-d800483b7d3e",
-            "clue": "Grocery store vehicle",
-            "answer": "cart",
-            "normalized": "cart"
+            "id": "c7603258-4086-458e-9ccd-a7ab825db3a3",
+            "clue": "Typically white herons with cascading feathers",
+            "answer": "egrets",
+            "normalized": "egrets"
+          },
+          {
+            "id": "f184cbca-cbcb-45b0-8a27-eeb62e5ab19d",
+            "clue": "Mike __, in Charlie and the Chocolate Factory",
+            "answer": "teavee",
+            "normalized": "teavee"
+          },
+          {
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
           }
         ],
-        "track": "PC|LenC--Y2026M6D7F0"
+        "track": "PC|LenC--Y2026M6D8F0"
       },
       "mid": {
-        "puzzleId": "de567fb0-944e-43b1-8deb-bd3ac3e71562",
+        "puzzleId": "282169ad-399d-40e8-bb63-5ab3de3ac70e",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 5,
         "answers": [
           {
-            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
-            "clue": "Taiwanese laptop and PC company; type of tree",
-            "answer": "acer",
-            "normalized": "acer"
+            "id": "b18f6bc7-af43-44bb-a222-2514dcbe2a46",
+            "clue": "Harry's fellow thief in Home Alone movies",
+            "answer": "marv",
+            "normalized": "marv"
           },
           {
-            "id": "51124eee-dbe1-4b62-a719-fb673100a1d2",
-            "clue": "On-air ad campaigns for upcoming radio shows",
-            "answer": "promos",
-            "normalized": "promos"
+            "id": "5d6adb91-7ecd-4df8-9407-2077dd21f6c1",
+            "clue": "Short name for desktop computers",
+            "answer": "pcs",
+            "normalized": "pcs"
           },
           {
-            "id": "5ec1b57d-687e-4654-8261-be0507dfc591",
-            "clue": "Soapy liquid used to clean hair",
-            "answer": "shampoo",
-            "normalized": "shampoo"
+            "id": "5fcbbc87-5296-4a4f-b0fd-025ed90e9639",
+            "clue": "Soft, mild French cheese with white rind",
+            "answer": "brie",
+            "normalized": "brie"
           },
           {
-            "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
-            "clue": "Container for Coke and beans",
-            "answer": "can",
-            "normalized": "can"
+            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
+            "clue": "Abbreviation for User Access Review",
+            "answer": "uar",
+            "normalized": "uar"
           },
           {
-            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
-            "clue": "Australian Football League, in short",
-            "answer": "afl",
-            "normalized": "afl"
+            "id": "1071ce77-da34-4b42-996d-d62c1e23c55c",
+            "clue": "German-speaking, signing crocodile",
+            "answer": "schnappi",
+            "normalized": "schnappi"
           },
           {
-            "id": "5c87d2ec-a57e-4824-8fea-0e51e08a013a",
-            "clue": "Curve, bend",
-            "answer": "arc",
-            "normalized": "arc"
+            "id": "da8a3e67-5c7f-4d5b-ac62-0db9c5c0f4b9",
+            "clue": "Places one visits often",
+            "answer": "haunts",
+            "normalized": "haunts"
           },
           {
-            "id": "7dce869b-e9da-41ab-9361-e4cc67fc5ec5",
-            "clue": "Short French word to indicate woman's maiden name",
-            "answer": "nee",
-            "normalized": "nee"
+            "id": "85cc492b-19d7-45e1-a9a2-6a1043ffc73c",
+            "clue": "Physicist offered the Presidency of Israel",
+            "answer": "einstein",
+            "normalized": "einstein"
           },
           {
-            "id": "8c20fe11-3abb-45a8-9735-db321975ba6d",
-            "clue": "Lingers, often illegally",
-            "answer": "loiters",
-            "normalized": "loiters"
+            "id": "226484d9-3fba-4c23-b072-a6250b212cf2",
+            "clue": "Barbie's boyfriend",
+            "answer": "ken",
+            "normalized": "ken"
           },
           {
-            "id": "2032f33f-ec66-4aab-9a92-54be1e94c899",
-            "clue": "Parts of a car body, anagram of Naples",
-            "answer": "panels",
-            "normalized": "panels"
+            "id": "811fb042-570c-41f2-99bb-7e7b6f98755d",
+            "clue": "First name of Ferrari founder",
+            "answer": "enzo",
+            "normalized": "enzo"
           },
           {
-            "id": "4e7bdd99-d49a-4cab-8929-64ea291a9dac",
-            "clue": "Strikes with a hand",
-            "answer": "hits",
-            "normalized": "hits"
+            "id": "c52c1af7-8b01-4e0d-b7f7-2ec6fc38c781",
+            "clue": "Europe's space exploration group",
+            "answer": "esa",
+            "normalized": "esa"
           },
           {
-            "id": "8daddf2b-c41a-4df2-87f3-6eaf283c39b0",
-            "clue": "Italian stuffed rice croquettes",
-            "answer": "arancini",
-            "normalized": "arancini"
+            "id": "1ae2f0a9-b69b-4182-946e-ec24ed4b9bb7",
+            "clue": "Dish cooked in liquid and served in gravy",
+            "answer": "stew",
+            "normalized": "stew"
           },
           {
-            "id": "8a6a96da-9342-4eb1-ac02-171b018da2e5",
-            "clue": "Most common online domain ending",
-            "answer": "com",
-            "normalized": "com"
+            "id": "950cad48-10de-4652-ac0d-888e3e9ddf43",
+            "clue": "Megabits per second, in short",
+            "answer": "mbs",
+            "normalized": "mbs"
           },
           {
-            "id": "22f53114-f2a5-483c-8b3d-9190a1178bee",
-            "clue": "Enlists on a jury",
-            "answer": "empanels",
-            "normalized": "empanels"
+            "id": "6ddaaf9a-9fd7-4386-bf8f-01a3ab469c09",
+            "clue": "The __, pop group who started in a comic book",
+            "answer": "archies",
+            "normalized": "archies"
           },
           {
-            "id": "23fd52bb-de10-44d1-8ca8-0e5c0c2608fb",
-            "clue": "Workers high on building tops",
-            "answer": "roofers",
-            "normalized": "roofers"
+            "id": "b7cc823f-03d3-4144-aaff-3d8fa2519d3c",
+            "clue": "Umbrella, Diamonds and We Found Love singer",
+            "answer": "rihanna",
+            "normalized": "rihanna"
           },
           {
-            "id": "14f9f7df-610f-42ac-a20f-92de211c9843",
-            "clue": "American __, Triple Crown winner in 2015",
-            "answer": "pharoah",
-            "normalized": "pharoah"
+            "id": "c045de4d-c932-4335-9d83-9dd6aacb5726",
+            "clue": "Serena Williams' fellow tennis star sister",
+            "answer": "venus",
+            "normalized": "venus"
           },
           {
-            "id": "2a0d1ee7-55d7-47af-a1ce-74df6a73793d",
-            "clue": "The under areas of the feet",
-            "answer": "soles",
-            "normalized": "soles"
+            "id": "b3b29602-7c1a-402c-af22-fa1487a6870f",
+            "clue": "Small camping shelter, misleadingly not for dogs",
+            "answer": "pup tent",
+            "normalized": "puptent"
           },
           {
-            "id": "3fdbc3b6-e3c0-475b-9e7d-136bc9d93d86",
-            "clue": "Place on the head hair grows out of",
-            "answer": "scalp",
-            "normalized": "scalp"
+            "id": "6d5ffda0-ae05-4093-a648-ee1cc28ede7e",
+            "clue": "To turn a boat over in the water",
+            "answer": "capsize",
+            "normalized": "capsize"
           },
           {
-            "id": "8c4382a3-f00f-44d7-b57d-23b788cc9630",
-            "clue": "Vietnamese New Year",
-            "answer": "tet",
-            "normalized": "tet"
+            "id": "10e4f7a8-9ff7-401c-9acd-47f3c3fb15f4",
+            "clue": "__ Lanka",
+            "answer": "sri",
+            "normalized": "sri"
+          },
+          {
+            "id": "c69e416d-7de6-4988-a0ff-a245365b1434",
+            "clue": "Stakes upped by players before receiving cards",
+            "answer": "antes",
+            "normalized": "antes"
+          },
+          {
+            "id": "5c4ada3e-2987-48f2-b50f-f98d73e20091",
+            "clue": "Scrape by, __ out a living",
+            "answer": "eke",
+            "normalized": "eke"
+          },
+          {
+            "id": "662b297b-6c1f-494d-ad86-485e8b7e7732",
+            "clue": "This instant",
+            "answer": "now",
+            "normalized": "now"
           }
         ],
-        "track": "PC|LenC--Y2026M6D7F1"
+        "track": "PC|LenC--Y2026M6D8F1"
       }
     },
     "latestAvailableEntry": {
@@ -422030,21 +422090,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "jUCTlZTjBaDC6sEwVHs+QsUL61vkXJBDQptXr3NtA00DeqHd0DFQv6FrCAfaVuVcER7RY2hpbNJPrtVNh5XnoC+/MoCYg7ujQ11tsskarCSZss5B6VNpwH63VhsCAP5Hde2n0rKmVClZZd8J8uQ57kgKC0JMwGz4I3ioW6jRnAwJOLEfmZOlzT+djL98Ej64DWn+marGzXDDMIzZEfVWQlXCs9WL30sNVvbfERDcrWWR85sxogK/wYszgG497jOhgU7jHEx+cgEip9+qI7476N2vO9y3i1qC7btjnOwGTFs="
+        "Pb85xeYRlzPJuu5uekT6czRTKn6yUz3mx4rLlOEER0zefAd0PjXnBEQfYdGNnnqRrdECM+erPzTwgDDxqoE0bxTPtAwCCg099HO12h7Z6zYt4gBGeIRPR4cxerEsmSjIXCINbu5irOZkd+Hor+5DRKEwdUnGh8qfGYpOn0GlZXvf+MrTWju66Wejz2m2DSUWoAYcJzNhMEN/zDtImocAJBiNAvjyoXIOlwnOmVMZBpm1gT/YhK8n0wfD2nC44/y3NQD3UH/QHMdPAXj1AX+nSy6XNp6CABYltQ+eY+nXWU8="
       ]
     },
     "decrypted": {
-      "Id": "cb4e3f10-e443-41c9-bdc8-6b01fcdd55c9",
-      "Date": "2026-06-07T00:00:00Z",
+      "Id": "6e487334-9142-495e-9fd0-230abe057817",
+      "Date": "2026-06-08T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "focus",
-      "NormalizedPassword": "focus",
+      "Password": "donor",
+      "NormalizedPassword": "donor",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-07T01:21:47.6020000+05:30",
-    "hash": "1f9df845ac1359b0131471115ad12295",
+    "dtu": "2026-06-08T01:22:55.9970000+05:30",
+    "hash": "2d02322b8e7d2f28ea2fd262f2b4fbdc",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
