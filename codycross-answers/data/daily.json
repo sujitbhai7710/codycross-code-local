@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-10T21:05:21.678Z",
+  "generatedAt": "2026-06-11T20:40:28.570Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 11
+    "day": 12
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 18
+        "QuantidadeDeFases": 20
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -102914,7 +102914,7 @@
             },
             {
               "id": "68df8edc-93ab-4eb9-b948-5156233361bb",
-              "clue": "Male fish fluid for reproduction",
+              "clue": "Reproductive fluid from male fish",
               "answer": "milt",
               "normalized": "milt"
             },
@@ -421410,463 +421410,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-11",
+      "key": "2026-06-12",
       "year": 2026,
       "month": 6,
-      "day": 11,
+      "day": 12,
       "small": {
-        "puzzleId": "f6d39452-7baf-4013-af49-40a77aa94273",
+        "puzzleId": "7266917a-44ac-436c-a434-b02d26db133d",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 15,
+        "version": 1,
         "answers": [
           {
-            "id": "5862b2df-d217-42d9-bdc4-1ab54d397976",
-            "clue": "Graphic novel about WWII Germany; mouse (Ger.)",
-            "answer": "maus",
-            "normalized": "maus"
+            "id": "d0c06e52-8d42-4c68-828b-e6900b522a85",
+            "clue": "A white bird symbolizing peace",
+            "answer": "dove",
+            "normalized": "dove"
           },
           {
-            "id": "5d2acc78-0e65-4b52-b5db-2fb993c15e9d",
-            "clue": "__ Fix, clothing subscription box",
-            "answer": "stitch",
-            "normalized": "stitch"
+            "id": "5321b7c7-4292-4d48-9d28-9c212e41e277",
+            "clue": "Replace this after a golf fairway shot",
+            "answer": "divot",
+            "normalized": "divot"
           },
           {
-            "id": "82f07009-c815-4355-8c1f-c7c4f817cba6",
-            "clue": "Songwriter King, who wrote 118 20th-century hits",
-            "answer": "carole",
-            "normalized": "carole"
+            "id": "bb01e7c7-32b2-4529-996b-851e2ab2df50",
+            "clue": "Dangly bit at the back of throat",
+            "answer": "uvula",
+            "normalized": "uvula"
           },
           {
-            "id": "5e79b6de-44b7-4b19-9f28-b42a37bc30e5",
-            "clue": "Madison Square Garden is an indoor one",
-            "answer": "arena",
-            "normalized": "arena"
+            "id": "5ec09c55-b505-4d3a-90ef-5e886387ea22",
+            "clue": "People from Scotland, Ireland, Wales, or Brittany",
+            "answer": "celts",
+            "normalized": "celts"
           },
           {
-            "id": "ee1167b8-61f3-41ec-99d8-26d7ce61e930",
-            "clue": "Jack's love on the Titanic",
-            "answer": "rose",
-            "normalized": "rose"
+            "id": "5d9c33ee-1143-4587-a557-1bc78e8bb426",
+            "clue": "Spanish for three, or French for very",
+            "answer": "tres",
+            "normalized": "tres"
           },
           {
-            "id": "29464135-368c-45c3-9a7e-2b5efd79acad",
-            "clue": "Swampy areas",
-            "answer": "mires",
-            "normalized": "mires"
+            "id": "17f0de1b-6503-4e1d-861e-c7cca25dc9f6",
+            "clue": "Scuba swimmer",
+            "answer": "diver",
+            "normalized": "diver"
           },
           {
-            "id": "44ff9f43-12e2-4e7c-9013-e8920d05e030",
-            "clue": "Make amends",
-            "answer": "atone",
-            "normalized": "atone"
+            "id": "78473a40-e831-4348-9452-eae142bc3315",
+            "clue": "Small immature ovum",
+            "answer": "ovule",
+            "normalized": "ovule"
           },
           {
-            "id": "f09ede92-a433-4166-88dc-b88d6ad286f4",
-            "clue": "Abbr. for University of California, Los Angeles",
-            "answer": "ucla",
-            "normalized": "ucla"
+            "id": "f07f462d-3793-4242-9f61-01b32e0b7e82",
+            "clue": "Units for measuring electricity",
+            "answer": "volts",
+            "normalized": "volts"
           },
           {
-            "id": "c12ef092-75de-4c26-8c01-5dfcb8355375",
-            "clue": "One who sells seashells on the seashore",
-            "answer": "she",
-            "normalized": "she"
+            "id": "5a4885e4-a3d7-4423-bd37-771675556178",
+            "clue": "Plane landing times",
+            "answer": "etas",
+            "normalized": "etas"
           },
           {
-            "id": "7b5cdf08-bc1c-4343-a715-f97235b287fa",
-            "clue": "Wound remnant",
-            "answer": "scar",
-            "normalized": "scar"
-          },
-          {
-            "id": "6bd19b02-da5b-488f-8ae8-4f4520b41d5c",
-            "clue": "Yam-like root vegetable that originated in Asia",
-            "answer": "taro",
-            "normalized": "taro"
+            "id": "3952e976-bdb6-4099-8491-ff30a9b1f100",
+            "clue": "Channel for wiring",
+            "answer": "duct",
+            "normalized": "duct"
           }
         ],
-        "track": "PC|LenC--Y2026M6D11F0"
+        "track": "PC|LenC--Y2026M6D12F0"
       },
       "mid": {
-        "puzzleId": "24344660-af29-4017-b1e0-0491e7f17949",
+        "puzzleId": "8ac141ce-252a-4cc2-914d-141cdb33486f",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "7896f987-0047-4122-8d1a-e1b82ff7531a",
-            "clue": "Firm hold",
-            "answer": "grip",
-            "normalized": "grip"
+            "id": "c0d28eed-0cab-40b6-ac64-840d003c74dc",
+            "clue": "Common audio file format",
+            "answer": "wav",
+            "normalized": "wav"
           },
           {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
+            "id": "9172f163-46ff-4e8d-89ed-5e1e00cb61b2",
+            "clue": "A tree after it's been chopped down",
+            "answer": "log",
+            "normalized": "log"
           },
           {
-            "id": "98c80c7a-19b2-478b-a47d-d85e1def10dc",
-            "clue": "WWE superstar and TV presenter John",
-            "answer": "cena",
-            "normalized": "cena"
+            "id": "7af32709-a585-408c-b1ab-2368fadccd31",
+            "clue": "Short for the World Trade Organization",
+            "answer": "wto",
+            "normalized": "wto"
           },
           {
-            "id": "86c222d8-0cb6-4675-bf34-d74bf4a9605c",
-            "clue": "Baby seal",
-            "answer": "pup",
-            "normalized": "pup"
+            "id": "171ef860-44e4-4e42-8cf7-77d0a07f1419",
+            "clue": "Latin for hail, goes before Maria in Schubert song",
+            "answer": "ave",
+            "normalized": "ave"
           },
           {
-            "id": "3731d9d2-0ff2-44fe-a52e-7d3d5fa54cd1",
-            "clue": "Ghanaian money",
-            "answer": "cedi",
-            "normalized": "cedi"
+            "id": "aef009fe-cdf6-4dc9-b112-2d9ce96423ab",
+            "clue": "Ground chickpea balls",
+            "answer": "falafel",
+            "normalized": "falafel"
           },
           {
-            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
-            "clue": "Letters in the logo and motto of Elvis Presley",
-            "answer": "tcb",
-            "normalized": "tcb"
+            "id": "a85f4a82-e8d7-44c6-be43-b1feaaf3f7ac",
+            "clue": "Devices that emit focused beams of light",
+            "answer": "lasers",
+            "normalized": "lasers"
           },
           {
-            "id": "efe79e65-f43c-4f91-9ed9-1ba2e5e9bab5",
-            "clue": "One single grain of corn",
-            "answer": "kernel",
-            "normalized": "kernel"
+            "id": "2b4d2514-d1d3-484b-ba06-88aa500876c3",
+            "clue": "Spanish-speaking people",
+            "answer": "latins",
+            "normalized": "latins"
           },
           {
-            "id": "69c6f4eb-02b6-42f9-9f25-e5fcccc427f5",
-            "clue": "10, in French",
-            "answer": "dix",
-            "normalized": "dix"
+            "id": "f209706e-4880-474c-8209-ceb980ff55ef",
+            "clue": "Joined together as one force",
+            "answer": "unified",
+            "normalized": "unified"
           },
           {
-            "id": "68cd5f4c-236e-47ef-b946-dcccb9517882",
-            "clue": "Word said at the end of many prayers",
-            "answer": "amen",
-            "normalized": "amen"
+            "id": "101e0994-0e05-4cd8-8de2-145929df87a8",
+            "clue": "Code for Hartsfield-Jackson Atlanta Airport",
+            "answer": "atl",
+            "normalized": "atl"
           },
           {
-            "id": "95ec85ab-dddc-4246-8237-becfbbf952ff",
-            "clue": "Metallica single with the battlefield soundscape",
-            "answer": "one",
-            "normalized": "one"
+            "id": "5457d826-d040-4fc3-b8f1-be946de7556f",
+            "clue": "Third letter of the alphabet, spelled out",
+            "answer": "cee",
+            "normalized": "cee"
           },
           {
-            "id": "cb2f582f-7e7b-4eaa-aa68-f13d73977cae",
-            "clue": "Apple tablet",
-            "answer": "ipad",
-            "normalized": "ipad"
+            "id": "9b21324d-4c1a-4f31-b7f8-b6fbdaadc0ec",
+            "clue": "Arab country where Abu Dhabi is found",
+            "answer": "uae",
+            "normalized": "uae"
           },
           {
-            "id": "23078e9d-d09c-4a5d-954e-5857b806697c",
-            "clue": "Three-letter alpha code for Bulgaria",
-            "answer": "bgr",
-            "normalized": "bgr"
+            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
+            "clue": "Short for enclosed",
+            "answer": "enc",
+            "normalized": "enc"
           },
           {
-            "id": "503d8650-053c-43df-99cc-aad149fb668b",
-            "clue": "Abbreviation for long range",
-            "answer": "lora",
-            "normalized": "lora"
+            "id": "3f77ef12-5396-4f28-85be-a1b6c553be60",
+            "clue": "International wildlife charity in three letters",
+            "answer": "wwf",
+            "normalized": "wwf"
           },
           {
-            "id": "9879e119-dc51-4884-913b-e89fe29dfb08",
-            "clue": "Gulf Cooperation Council, initialism",
-            "answer": "gcc",
-            "normalized": "gcc"
+            "id": "29db43d4-b46a-4dd1-9968-21d169dc2007",
+            "clue": "Greek heroine and Italian football team",
+            "answer": "atalanta",
+            "normalized": "atalanta"
           },
           {
-            "id": "82f189d0-7df8-4856-9e0d-bbd092ff9153",
-            "clue": "Smelling heavily, overpoweringly",
-            "answer": "reeking",
-            "normalized": "reeking"
+            "id": "98f0261e-f252-4290-94eb-81d9c87d995c",
+            "clue": "Explosive, hot-tempered, unstable",
+            "answer": "volatile",
+            "normalized": "volatile"
           },
           {
-            "id": "1c293442-7ef3-49a9-a6a9-bf0322067701",
-            "clue": "Person who creates A-Z list in a book",
-            "answer": "indexer",
-            "normalized": "indexer"
+            "id": "3d3e170b-150e-4a5b-bee3-c2d69912a120",
+            "clue": "Gran  Teatro __; Venice's \"phoenix\" opera house",
+            "answer": "la fenice",
+            "normalized": "lafenice"
           },
           {
-            "id": "9c2dcc0e-20cb-4b31-bdf2-d3feff29034c",
-            "clue": "A common activity of Bluetooth devices",
-            "answer": "pair",
-            "normalized": "pair"
+            "id": "1e36b8cb-7f2e-48b7-ad2e-5cd9628c6b3b",
+            "clue": "Supervised by, inspected by",
+            "answer": "overseen",
+            "normalized": "overseen"
           },
           {
-            "id": "1030d1c5-c109-4b54-a7ac-e6b6ac307da2",
-            "clue": "Cheerful and fast-paced music",
-            "answer": "up tempo",
-            "normalized": "uptempo"
+            "id": "1c289263-ce97-4309-864e-28e3a3e79bb5",
+            "clue": "Hair stiffening substances",
+            "answer": "gels",
+            "normalized": "gels"
           },
           {
-            "id": "9e605a02-8bd5-44fd-a061-a352a6ca88d4",
-            "clue": "Pertaining to or involving atomic weapons",
-            "answer": "nuclear",
-            "normalized": "nuclear"
+            "id": "cb0a8d52-6de5-43c4-a0f4-4df7a3624d0c",
+            "clue": "Two words meaning in your dreams, you wish",
+            "answer": "as if",
+            "normalized": "asif"
           },
           {
-            "id": "540b18fd-8682-464a-b15f-6aca1af3ec3c",
-            "clue": "All-points bulletin",
-            "answer": "apb",
-            "normalized": "apb"
+            "id": "6c0e396a-436b-4ae3-b1f0-1d1b200fe725",
+            "clue": "Hawaiian cookout",
+            "answer": "luau",
+            "normalized": "luau"
           },
           {
-            "id": "21cb642c-ec1d-4e9b-8c56-ffbba483cbb9",
-            "clue": "Pointed metal spike for hammering into a wall",
-            "answer": "nail",
-            "normalized": "nail"
-          },
-          {
-            "id": "15692b47-8fb0-4e5d-a32d-1f6781a9fdff",
-            "clue": "Three letters asking for your birthday on a form",
-            "answer": "dob",
-            "normalized": "dob"
-          },
-          {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "07ddac76-87c1-4022-85b9-f2a035b9b71d",
+            "clue": "Short form of New Year's Eve month",
+            "answer": "dec",
+            "normalized": "dec"
           }
         ],
-        "track": "PC|LenC--Y2026M6D11F1"
+        "track": "PC|LenC--Y2026M6D12F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-11",
+      "key": "2026-06-12",
       "year": 2026,
       "month": 6,
-      "day": 11,
+      "day": 12,
       "small": {
-        "puzzleId": "f6d39452-7baf-4013-af49-40a77aa94273",
+        "puzzleId": "7266917a-44ac-436c-a434-b02d26db133d",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 15,
+        "version": 1,
         "answers": [
           {
-            "id": "5862b2df-d217-42d9-bdc4-1ab54d397976",
-            "clue": "Graphic novel about WWII Germany; mouse (Ger.)",
-            "answer": "maus",
-            "normalized": "maus"
+            "id": "d0c06e52-8d42-4c68-828b-e6900b522a85",
+            "clue": "A white bird symbolizing peace",
+            "answer": "dove",
+            "normalized": "dove"
           },
           {
-            "id": "5d2acc78-0e65-4b52-b5db-2fb993c15e9d",
-            "clue": "__ Fix, clothing subscription box",
-            "answer": "stitch",
-            "normalized": "stitch"
+            "id": "5321b7c7-4292-4d48-9d28-9c212e41e277",
+            "clue": "Replace this after a golf fairway shot",
+            "answer": "divot",
+            "normalized": "divot"
           },
           {
-            "id": "82f07009-c815-4355-8c1f-c7c4f817cba6",
-            "clue": "Songwriter King, who wrote 118 20th-century hits",
-            "answer": "carole",
-            "normalized": "carole"
+            "id": "bb01e7c7-32b2-4529-996b-851e2ab2df50",
+            "clue": "Dangly bit at the back of throat",
+            "answer": "uvula",
+            "normalized": "uvula"
           },
           {
-            "id": "5e79b6de-44b7-4b19-9f28-b42a37bc30e5",
-            "clue": "Madison Square Garden is an indoor one",
-            "answer": "arena",
-            "normalized": "arena"
+            "id": "5ec09c55-b505-4d3a-90ef-5e886387ea22",
+            "clue": "People from Scotland, Ireland, Wales, or Brittany",
+            "answer": "celts",
+            "normalized": "celts"
           },
           {
-            "id": "ee1167b8-61f3-41ec-99d8-26d7ce61e930",
-            "clue": "Jack's love on the Titanic",
-            "answer": "rose",
-            "normalized": "rose"
+            "id": "5d9c33ee-1143-4587-a557-1bc78e8bb426",
+            "clue": "Spanish for three, or French for very",
+            "answer": "tres",
+            "normalized": "tres"
           },
           {
-            "id": "29464135-368c-45c3-9a7e-2b5efd79acad",
-            "clue": "Swampy areas",
-            "answer": "mires",
-            "normalized": "mires"
+            "id": "17f0de1b-6503-4e1d-861e-c7cca25dc9f6",
+            "clue": "Scuba swimmer",
+            "answer": "diver",
+            "normalized": "diver"
           },
           {
-            "id": "44ff9f43-12e2-4e7c-9013-e8920d05e030",
-            "clue": "Make amends",
-            "answer": "atone",
-            "normalized": "atone"
+            "id": "78473a40-e831-4348-9452-eae142bc3315",
+            "clue": "Small immature ovum",
+            "answer": "ovule",
+            "normalized": "ovule"
           },
           {
-            "id": "f09ede92-a433-4166-88dc-b88d6ad286f4",
-            "clue": "Abbr. for University of California, Los Angeles",
-            "answer": "ucla",
-            "normalized": "ucla"
+            "id": "f07f462d-3793-4242-9f61-01b32e0b7e82",
+            "clue": "Units for measuring electricity",
+            "answer": "volts",
+            "normalized": "volts"
           },
           {
-            "id": "c12ef092-75de-4c26-8c01-5dfcb8355375",
-            "clue": "One who sells seashells on the seashore",
-            "answer": "she",
-            "normalized": "she"
+            "id": "5a4885e4-a3d7-4423-bd37-771675556178",
+            "clue": "Plane landing times",
+            "answer": "etas",
+            "normalized": "etas"
           },
           {
-            "id": "7b5cdf08-bc1c-4343-a715-f97235b287fa",
-            "clue": "Wound remnant",
-            "answer": "scar",
-            "normalized": "scar"
-          },
-          {
-            "id": "6bd19b02-da5b-488f-8ae8-4f4520b41d5c",
-            "clue": "Yam-like root vegetable that originated in Asia",
-            "answer": "taro",
-            "normalized": "taro"
+            "id": "3952e976-bdb6-4099-8491-ff30a9b1f100",
+            "clue": "Channel for wiring",
+            "answer": "duct",
+            "normalized": "duct"
           }
         ],
-        "track": "PC|LenC--Y2026M6D11F0"
+        "track": "PC|LenC--Y2026M6D12F0"
       },
       "mid": {
-        "puzzleId": "24344660-af29-4017-b1e0-0491e7f17949",
+        "puzzleId": "8ac141ce-252a-4cc2-914d-141cdb33486f",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "7896f987-0047-4122-8d1a-e1b82ff7531a",
-            "clue": "Firm hold",
-            "answer": "grip",
-            "normalized": "grip"
+            "id": "c0d28eed-0cab-40b6-ac64-840d003c74dc",
+            "clue": "Common audio file format",
+            "answer": "wav",
+            "normalized": "wav"
           },
           {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
+            "id": "9172f163-46ff-4e8d-89ed-5e1e00cb61b2",
+            "clue": "A tree after it's been chopped down",
+            "answer": "log",
+            "normalized": "log"
           },
           {
-            "id": "98c80c7a-19b2-478b-a47d-d85e1def10dc",
-            "clue": "WWE superstar and TV presenter John",
-            "answer": "cena",
-            "normalized": "cena"
+            "id": "7af32709-a585-408c-b1ab-2368fadccd31",
+            "clue": "Short for the World Trade Organization",
+            "answer": "wto",
+            "normalized": "wto"
           },
           {
-            "id": "86c222d8-0cb6-4675-bf34-d74bf4a9605c",
-            "clue": "Baby seal",
-            "answer": "pup",
-            "normalized": "pup"
+            "id": "171ef860-44e4-4e42-8cf7-77d0a07f1419",
+            "clue": "Latin for hail, goes before Maria in Schubert song",
+            "answer": "ave",
+            "normalized": "ave"
           },
           {
-            "id": "3731d9d2-0ff2-44fe-a52e-7d3d5fa54cd1",
-            "clue": "Ghanaian money",
-            "answer": "cedi",
-            "normalized": "cedi"
+            "id": "aef009fe-cdf6-4dc9-b112-2d9ce96423ab",
+            "clue": "Ground chickpea balls",
+            "answer": "falafel",
+            "normalized": "falafel"
           },
           {
-            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
-            "clue": "Letters in the logo and motto of Elvis Presley",
-            "answer": "tcb",
-            "normalized": "tcb"
+            "id": "a85f4a82-e8d7-44c6-be43-b1feaaf3f7ac",
+            "clue": "Devices that emit focused beams of light",
+            "answer": "lasers",
+            "normalized": "lasers"
           },
           {
-            "id": "efe79e65-f43c-4f91-9ed9-1ba2e5e9bab5",
-            "clue": "One single grain of corn",
-            "answer": "kernel",
-            "normalized": "kernel"
+            "id": "2b4d2514-d1d3-484b-ba06-88aa500876c3",
+            "clue": "Spanish-speaking people",
+            "answer": "latins",
+            "normalized": "latins"
           },
           {
-            "id": "69c6f4eb-02b6-42f9-9f25-e5fcccc427f5",
-            "clue": "10, in French",
-            "answer": "dix",
-            "normalized": "dix"
+            "id": "f209706e-4880-474c-8209-ceb980ff55ef",
+            "clue": "Joined together as one force",
+            "answer": "unified",
+            "normalized": "unified"
           },
           {
-            "id": "68cd5f4c-236e-47ef-b946-dcccb9517882",
-            "clue": "Word said at the end of many prayers",
-            "answer": "amen",
-            "normalized": "amen"
+            "id": "101e0994-0e05-4cd8-8de2-145929df87a8",
+            "clue": "Code for Hartsfield-Jackson Atlanta Airport",
+            "answer": "atl",
+            "normalized": "atl"
           },
           {
-            "id": "95ec85ab-dddc-4246-8237-becfbbf952ff",
-            "clue": "Metallica single with the battlefield soundscape",
-            "answer": "one",
-            "normalized": "one"
+            "id": "5457d826-d040-4fc3-b8f1-be946de7556f",
+            "clue": "Third letter of the alphabet, spelled out",
+            "answer": "cee",
+            "normalized": "cee"
           },
           {
-            "id": "cb2f582f-7e7b-4eaa-aa68-f13d73977cae",
-            "clue": "Apple tablet",
-            "answer": "ipad",
-            "normalized": "ipad"
+            "id": "9b21324d-4c1a-4f31-b7f8-b6fbdaadc0ec",
+            "clue": "Arab country where Abu Dhabi is found",
+            "answer": "uae",
+            "normalized": "uae"
           },
           {
-            "id": "23078e9d-d09c-4a5d-954e-5857b806697c",
-            "clue": "Three-letter alpha code for Bulgaria",
-            "answer": "bgr",
-            "normalized": "bgr"
+            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
+            "clue": "Short for enclosed",
+            "answer": "enc",
+            "normalized": "enc"
           },
           {
-            "id": "503d8650-053c-43df-99cc-aad149fb668b",
-            "clue": "Abbreviation for long range",
-            "answer": "lora",
-            "normalized": "lora"
+            "id": "3f77ef12-5396-4f28-85be-a1b6c553be60",
+            "clue": "International wildlife charity in three letters",
+            "answer": "wwf",
+            "normalized": "wwf"
           },
           {
-            "id": "9879e119-dc51-4884-913b-e89fe29dfb08",
-            "clue": "Gulf Cooperation Council, initialism",
-            "answer": "gcc",
-            "normalized": "gcc"
+            "id": "29db43d4-b46a-4dd1-9968-21d169dc2007",
+            "clue": "Greek heroine and Italian football team",
+            "answer": "atalanta",
+            "normalized": "atalanta"
           },
           {
-            "id": "82f189d0-7df8-4856-9e0d-bbd092ff9153",
-            "clue": "Smelling heavily, overpoweringly",
-            "answer": "reeking",
-            "normalized": "reeking"
+            "id": "98f0261e-f252-4290-94eb-81d9c87d995c",
+            "clue": "Explosive, hot-tempered, unstable",
+            "answer": "volatile",
+            "normalized": "volatile"
           },
           {
-            "id": "1c293442-7ef3-49a9-a6a9-bf0322067701",
-            "clue": "Person who creates A-Z list in a book",
-            "answer": "indexer",
-            "normalized": "indexer"
+            "id": "3d3e170b-150e-4a5b-bee3-c2d69912a120",
+            "clue": "Gran  Teatro __; Venice's \"phoenix\" opera house",
+            "answer": "la fenice",
+            "normalized": "lafenice"
           },
           {
-            "id": "9c2dcc0e-20cb-4b31-bdf2-d3feff29034c",
-            "clue": "A common activity of Bluetooth devices",
-            "answer": "pair",
-            "normalized": "pair"
+            "id": "1e36b8cb-7f2e-48b7-ad2e-5cd9628c6b3b",
+            "clue": "Supervised by, inspected by",
+            "answer": "overseen",
+            "normalized": "overseen"
           },
           {
-            "id": "1030d1c5-c109-4b54-a7ac-e6b6ac307da2",
-            "clue": "Cheerful and fast-paced music",
-            "answer": "up tempo",
-            "normalized": "uptempo"
+            "id": "1c289263-ce97-4309-864e-28e3a3e79bb5",
+            "clue": "Hair stiffening substances",
+            "answer": "gels",
+            "normalized": "gels"
           },
           {
-            "id": "9e605a02-8bd5-44fd-a061-a352a6ca88d4",
-            "clue": "Pertaining to or involving atomic weapons",
-            "answer": "nuclear",
-            "normalized": "nuclear"
+            "id": "cb0a8d52-6de5-43c4-a0f4-4df7a3624d0c",
+            "clue": "Two words meaning in your dreams, you wish",
+            "answer": "as if",
+            "normalized": "asif"
           },
           {
-            "id": "540b18fd-8682-464a-b15f-6aca1af3ec3c",
-            "clue": "All-points bulletin",
-            "answer": "apb",
-            "normalized": "apb"
+            "id": "6c0e396a-436b-4ae3-b1f0-1d1b200fe725",
+            "clue": "Hawaiian cookout",
+            "answer": "luau",
+            "normalized": "luau"
           },
           {
-            "id": "21cb642c-ec1d-4e9b-8c56-ffbba483cbb9",
-            "clue": "Pointed metal spike for hammering into a wall",
-            "answer": "nail",
-            "normalized": "nail"
-          },
-          {
-            "id": "15692b47-8fb0-4e5d-a32d-1f6781a9fdff",
-            "clue": "Three letters asking for your birthday on a form",
-            "answer": "dob",
-            "normalized": "dob"
-          },
-          {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "07ddac76-87c1-4022-85b9-f2a035b9b71d",
+            "clue": "Short form of New Year's Eve month",
+            "answer": "dec",
+            "normalized": "dec"
           }
         ],
-        "track": "PC|LenC--Y2026M6D11F1"
+        "track": "PC|LenC--Y2026M6D12F1"
       }
     },
     "latestAvailableEntry": {
@@ -422102,21 +422066,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "+l7Iv92U/0uK609a9NMlrkO+9XzYbFTvg1ps7vGSlZwb+JaOYEepdpFg/uNxWYQeOPOmZY4HeL9dBnpJJywVWoKnnH4KsJcz37xbhcT1qG+mVO7Bv5BX/2w05hlRqoI0yobIp1vgJP8fxndwTNDJnVa60KhU045ePlavFFWgOk4FwBsR7uiSEDK5SU2qk33/C03MPxqMBZr4cRumMo6aPSbWykAYZkVioVx3M4QqL+G8RdAsOX2QGuquHAYJ3w+CqQwON3YG5US1eTjLcWLr6k/qKmmBWmJyQaNIv76Yp1Y="
+        "PJtWLQ5LMuRfRqs96wzn+2/5HNr1+hZMYqY1B3boIfgtkV3v9F56hP8EB3iNUjhMWIDczxdAO8T7U1nA8FHFYyhNNRYfXGUbhEXnS4tt8GjZIaO4cye3NKgZLOCsK6wThEb7uC8+Kz5CUZ3pJj1tK1OVanoxUsKG5oM3NSTBgV9RQNzD1rvxBQM8jlqodTcO/bfXBDIGH55+5L8+MMTdVNnkqTujg1vq1QsEDmTc2OxCPpg+JKuazrPu8/vcKhFQ8wcDpX9qYCLD8pntJfzKHq8q/IITDum+2ODduIanQYo="
       ]
     },
     "decrypted": {
-      "Id": "813bc267-d8b3-4bb9-b9ec-e478739afe13",
-      "Date": "2026-06-11T00:00:00Z",
+      "Id": "490bf319-4e6b-4de6-b03c-1e7d7ef0fdb1",
+      "Date": "2026-06-12T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "arena",
-      "NormalizedPassword": "arena",
+      "Password": "pitch",
+      "NormalizedPassword": "pitch",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-11T02:35:21.6780000+05:30",
-    "hash": "daf32610a5221901a8107077a0955c60",
+    "dtu": "2026-06-12T02:10:28.5700000+05:30",
+    "hash": "e66f2aba002c02c4022d5e5a4dbf48ab",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
