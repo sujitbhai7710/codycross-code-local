@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-12T20:32:43.940Z",
+  "generatedAt": "2026-06-13T19:59:30.185Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 13
+    "day": 14
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 22
+        "QuantidadeDeFases": 24
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -12702,7 +12702,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             }
@@ -13714,7 +13714,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -41509,7 +41509,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -70788,7 +70788,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -76460,7 +76460,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -82743,7 +82743,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -89665,7 +89665,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -91615,7 +91615,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -112289,7 +112289,7 @@
           "answers": [
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -124928,7 +124928,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -134840,7 +134840,7 @@
           "answers": [
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -148287,7 +148287,7 @@
           "answers": [
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -156113,7 +156113,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -165751,7 +165751,7 @@
           "answers": [
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -169235,7 +169235,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -181422,7 +181422,7 @@
           "answers": [
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -190934,7 +190934,7 @@
           "answers": [
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -218977,7 +218977,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -228685,7 +228685,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -239320,7 +239320,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -247594,7 +247594,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -260900,7 +260900,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             }
@@ -272417,7 +272417,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -301414,7 +301414,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -334742,7 +334742,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -373105,7 +373105,7 @@
             },
             {
               "id": "b9d1553b-8431-49ad-a372-8a841165b014",
-              "clue": "Thrust with a knife",
+              "clue": "Quick poke with a pointed object",
               "answer": "stab",
               "normalized": "stab"
             },
@@ -381015,7 +381015,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -398042,7 +398042,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -403854,7 +403854,7 @@
             },
             {
               "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
-              "clue": "Sums, totals",
+              "clue": "Computes a sum, totals up",
               "answer": "adds",
               "normalized": "adds"
             },
@@ -421410,427 +421410,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-13",
+      "key": "2026-06-14",
       "year": 2026,
       "month": 6,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "ccab900b-7ddd-4c96-9eff-82f12f339ed3",
+        "puzzleId": "43c8b7c3-9d01-48d9-ab43-d1a1d7fa7250",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "685c3cd3-9d7f-4ecf-b631-ba666fe787ac",
-            "clue": "Juniper berry alcoholic drink",
-            "answer": "gin",
-            "normalized": "gin"
+            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
+            "clue": "Army insect that can be fire or leafcutter",
+            "answer": "ant",
+            "normalized": "ant"
           },
           {
-            "id": "055423ff-852e-4deb-a572-774296a69931",
-            "clue": "Argentinian grilled meat",
-            "answer": "asado",
-            "normalized": "asado"
+            "id": "75d36b8a-75a3-439b-82e2-73b29237b465",
+            "clue": "Clothing brand Fruit of the __",
+            "answer": "loom",
+            "normalized": "loom"
           },
           {
-            "id": "50ba0252-60cf-4efe-8a51-30e2fcf32fd6",
-            "clue": "Painful areas on the body",
-            "answer": "sores",
-            "normalized": "sores"
+            "id": "6c177a16-5311-46f1-afb8-acf3d74bc20e",
+            "clue": "Soaking rests in bubbly water",
+            "answer": "baths",
+            "normalized": "baths"
           },
           {
-            "id": "e0cb95fb-1949-4cff-a362-1f6e476715d7",
-            "clue": "Tate, Canadian artist who sang You Broke Me First",
-            "answer": "mcrae",
-            "normalized": "mcrae"
+            "id": "54814bfd-a1d8-4a35-86b3-fb68f4b536e2",
+            "clue": "Norwegian Romantic era composer Edvard",
+            "answer": "grieg",
+            "normalized": "grieg"
           },
           {
-            "id": "067afdbc-f507-4fe5-a3fd-5d09a470dd6f",
-            "clue": "Beam of sunlight",
-            "answer": "ray",
-            "normalized": "ray"
+            "id": "eb53370e-a90f-4a89-9566-14064ee77b3f",
+            "clue": "Choppy kitchen gadget",
+            "answer": "dicer",
+            "normalized": "dicer"
           },
           {
-            "id": "73355a41-de41-4738-a021-eaf9461f94cf",
-            "clue": "Shandling, star of The Larry Sanders Show",
-            "answer": "garry",
-            "normalized": "garry"
+            "id": "0f8595ac-603f-4de6-a27a-ecf95fff03dd",
+            "clue": "Animation frame",
+            "answer": "cel",
+            "normalized": "cel"
           },
           {
-            "id": "8b1aebc5-d975-4c63-80c4-60bfe944cc27",
-            "clue": "Novel thought",
-            "answer": "idea",
-            "normalized": "idea"
+            "id": "8eb45606-9dbf-4cc9-b0f6-f0775965e09d",
+            "clue": "First king of the Visigoths",
+            "answer": "alaric",
+            "normalized": "alaric"
           },
           {
-            "id": "c6359e28-819d-49c1-aeac-a5e13089a1e6",
-            "clue": "Sniffer",
-            "answer": "nose",
-            "normalized": "nose"
+            "id": "6a426327-e12e-4c0d-8d5e-456719c69956",
+            "clue": "Announcement, warning, note",
+            "answer": "notice",
+            "normalized": "notice"
           },
           {
-            "id": "7ffbe28f-0fe8-4735-a442-599dc2bcd6ca",
-            "clue": "Some people use these whispers to fall asleep",
-            "answer": "asmr",
-            "normalized": "asmr"
+            "id": "85c8a481-8f2a-446f-abfa-e93a2e3c69f3",
+            "clue": "Order given to a dog to walk beside its owner",
+            "answer": "to heel",
+            "normalized": "toheel"
           },
           {
-            "id": "c36b3dd7-4251-4dc0-8be8-ffb0838aef6f",
-            "clue": "A type of Caribbean music derived from calypso",
-            "answer": "soca",
-            "normalized": "soca"
+            "id": "9ca5728c-e9e3-4b72-9e33-83ff019e853c",
+            "clue": "Abbreviation for Monsignor",
+            "answer": "msgr",
+            "normalized": "msgr"
+          },
+          {
+            "id": "82a9fcb8-ddf1-4a53-8f26-26cfa637cff0",
+            "clue": "Three-letter code for Bangladesh",
+            "answer": "bgd",
+            "normalized": "bgd"
           }
         ],
-        "track": "PC|LenC--Y2026M6D13F0"
+        "track": "PC|LenC--Y2026M6D14F0"
       },
       "mid": {
-        "puzzleId": "e0cd7536-9762-4b14-ba99-a8b99d2c3794",
+        "puzzleId": "13077d47-27a5-4332-9d7b-9e088611a002",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "d237ce9d-7e8b-4e3e-84b5-01de5c3e5db5",
-            "clue": "Resorts with mineral springs",
-            "answer": "spas",
-            "normalized": "spas"
+            "id": "7f41f8ce-8d69-4152-880d-e01f4fa3603a",
+            "clue": "Common compressed file format for online images",
+            "answer": "jpeg",
+            "normalized": "jpeg"
           },
           {
-            "id": "68ca0578-514f-461d-aadd-fd8c74ef9777",
-            "clue": "Three letters meaning chief information officer",
-            "answer": "cio",
-            "normalized": "cio"
+            "id": "b3273fb6-b300-4b62-84e5-7e0fa7c78020",
+            "clue": "Actress Deborah, played Anna in The King and I",
+            "answer": "kerr",
+            "normalized": "kerr"
           },
           {
-            "id": "e005ad01-3cc0-4c0e-9694-dd5bb4be1047",
-            "clue": "Slow-pitch game with batters, pitchers",
-            "answer": "softball",
-            "normalized": "softball"
+            "id": "ec977a0a-3197-4f43-b0da-bb34fdc2a1ed",
+            "clue": "Low singing voice that actually means \"high\"",
+            "answer": "alto",
+            "normalized": "alto"
           },
           {
-            "id": "c6cd5e3b-f29c-4b76-87f7-8afd289fd156",
-            "clue": "__ cap, work boots that protect on building sites",
-            "answer": "steel toe",
-            "normalized": "steeltoe"
+            "id": "95ab37c3-d7a2-4d40-8455-24a097195bfb",
+            "clue": "Latin for the same, used in referencing",
+            "answer": "idem",
+            "normalized": "idem"
           },
           {
-            "id": "767ef97f-952f-4762-8591-97f5f816c1e0",
-            "clue": "Army-speak for missing from duty",
-            "answer": "awol",
-            "normalized": "awol"
+            "id": "e1c18423-7b31-4a5c-a8c9-ca617536802b",
+            "clue": "Poetry patterns stressing one of three syllables",
+            "answer": "dactylics",
+            "normalized": "dactylics"
           },
           {
-            "id": "8cf51179-c9ca-4f69-a54c-fef270fc01ec",
-            "clue": "To soak edibles in seasoning before cooking",
-            "answer": "marinate",
-            "normalized": "marinate"
+            "id": "12b76925-5e83-4d7d-b1e6-ce460db96aa1",
+            "clue": "Consumed food",
+            "answer": "ate",
+            "normalized": "ate"
           },
           {
-            "id": "6e0e75ba-95b8-40b6-ba68-7fa31ee8f9ca",
-            "clue": "Monopoly cube for making the game quicker",
-            "answer": "speed die",
-            "normalized": "speeddie"
+            "id": "0f31c4dd-aea5-4d82-8087-43922b35f8ef",
+            "clue": "The golden rule, \"Do __ others...\"",
+            "answer": "unto",
+            "normalized": "unto"
           },
           {
-            "id": "15939944-dd54-43f5-a212-8eb213233be2",
-            "clue": "Spearheaded",
-            "answer": "led",
-            "normalized": "led"
+            "id": "04a3864e-cddb-49f5-a143-b093f339d366",
+            "clue": "Sicilian volcano",
+            "answer": "etna",
+            "normalized": "etna"
           },
           {
-            "id": "e19d402b-4fe8-444f-aec2-1b183da0d193",
-            "clue": "15th-century painter Jan van __",
-            "answer": "eyck",
-            "normalized": "eyck"
+            "id": "5fa1db21-4562-439f-af12-3b381acf97bf",
+            "clue": "Assist, help",
+            "answer": "aid",
+            "normalized": "aid"
           },
           {
-            "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-            "clue": "Selective Service System, initials",
-            "answer": "sss",
-            "normalized": "sss"
+            "id": "b907a614-2709-4252-b750-86c0b85bea31",
+            "clue": "Can be wiped and have dirt removed",
+            "answer": "cleanable",
+            "normalized": "cleanable"
           },
           {
-            "id": "29acb32d-92c9-4060-ba66-b3231fbed2e9",
-            "clue": "It sometimes calls the kettle black",
-            "answer": "pot",
-            "normalized": "pot"
+            "id": "f06af40c-270a-42b1-a607-06f45c523c6b",
+            "clue": "An action word",
+            "answer": "verb",
+            "normalized": "verb"
           },
           {
-            "id": "7029b5b1-70f5-4898-92b1-ffb4361cfa78",
-            "clue": "Old term for being afraid of something",
-            "answer": "afeared",
-            "normalized": "afeared"
+            "id": "5dc77a5a-47e7-4f72-ab86-8e18960e16b0",
+            "clue": "Emotional request",
+            "answer": "plea",
+            "normalized": "plea"
           },
           {
-            "id": "8549d7bd-15e2-4e8f-9f97-37a0e8352121",
-            "clue": "Family Guy diabolical toddler",
-            "answer": "stewie",
-            "normalized": "stewie"
+            "id": "11619821-4116-4263-ae05-70b8eaf90346",
+            "clue": "__ Wars, __Trek, or A __ Is Born",
+            "answer": "star",
+            "normalized": "star"
           },
           {
-            "id": "54e197e5-a17e-4689-9a79-58810eafcbcc",
-            "clue": "Term used for a woman with many felines",
-            "answer": "cat lady",
-            "normalized": "catlady"
+            "id": "67e86c18-5ea0-43bf-b6b1-a89c20d13e85",
+            "clue": "John Elroy Sanford's stage name, __ Foxx",
+            "answer": "redd",
+            "normalized": "redd"
           },
           {
-            "id": "18d77e36-a244-4af1-8618-19089f1ff03e",
-            "clue": "UN agency dedicated to promoting labour rights",
-            "answer": "ilo",
-            "normalized": "ilo"
+            "id": "964fc523-2daa-4a74-8388-a1101d42d5d0",
+            "clue": "Pinkett who married Will Smith",
+            "answer": "jada",
+            "normalized": "jada"
           },
           {
-            "id": "d629f766-2973-447c-a36e-582184ec4c4d",
-            "clue": "Often chanted three times at sporting matches",
-            "answer": "ole",
-            "normalized": "ole"
+            "id": "37e60c08-78e7-4bcd-8889-d400786ffa08",
+            "clue": "Blood cell that forms clots",
+            "answer": "platelet",
+            "normalized": "platelet"
           },
           {
-            "id": "77ba8293-cd33-4da7-9c3b-317c72919831",
-            "clue": "Woman with flaxen hair",
-            "answer": "blonde",
-            "normalized": "blonde"
+            "id": "54865032-6d42-4bd5-bfb2-e28d918c05c0",
+            "clue": "And the like (in Latin)",
+            "answer": "et cetera",
+            "normalized": "etcetera"
           },
           {
-            "id": "0ada6c90-6fd9-4c2a-b7a2-77a0ebe9bf6b",
-            "clue": "Average level of the sea, abbreviated",
-            "answer": "msl",
-            "normalized": "msl"
+            "id": "d9d1bf79-cfc4-4b0a-8bf7-077b13780169",
+            "clue": "Received",
+            "answer": "got",
+            "normalized": "got"
           },
           {
-            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
-            "clue": "A tailless primate",
-            "answer": "ape",
-            "normalized": "ape"
+            "id": "6f5672e8-e8e0-4753-a514-57a4ea9970ed",
+            "clue": "An oven to bake clay",
+            "answer": "kiln",
+            "normalized": "kiln"
           },
           {
-            "id": "6a4e7573-6e62-4eb0-ba53-84e71dd16641",
-            "clue": "Tac's partner in a breath mint name",
-            "answer": "tic",
-            "normalized": "tic"
+            "id": "b206598c-ff12-4bf9-9612-be6a9ba62cfe",
+            "clue": "Like text that's capable of being modified",
+            "answer": "editable",
+            "normalized": "editable"
           },
           {
-            "id": "9b03dd5b-358e-4bc3-a74c-47b8b60a303a",
-            "clue": "Exclamation in fright",
-            "answer": "eek",
-            "normalized": "eek"
+            "id": "9ad0c804-c6e5-446e-b914-02f9211e6799",
+            "clue": "Stepped back in horror",
+            "answer": "recoiled",
+            "normalized": "recoiled"
+          },
+          {
+            "id": "872ba640-3a19-4f21-bf7b-852f4e7ee4c1",
+            "clue": "Prefix to British ships that carry mail",
+            "answer": "rms",
+            "normalized": "rms"
+          },
+          {
+            "id": "40c4c92a-3f4c-4c33-b7aa-5a60c3eb9756",
+            "clue": "Money used in China, equal to 10 jiao",
+            "answer": "yuan",
+            "normalized": "yuan"
+          },
+          {
+            "id": "ba307725-095d-4906-b14f-733724f83338",
+            "clue": "Chemical formula for sodium bromide",
+            "answer": "nabr",
+            "normalized": "nabr"
+          },
+          {
+            "id": "e4664179-2060-45b9-ab42-5cdb1ea42b54",
+            "clue": "No longer alive",
+            "answer": "dead",
+            "normalized": "dead"
+          },
+          {
+            "id": "7160cfd8-35a6-4060-a641-4f0cf656efaf",
+            "clue": "US pharmacy chain with red heart logo",
+            "answer": "cvs",
+            "normalized": "cvs"
+          },
+          {
+            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
+            "clue": "Interest rate across a whole year",
+            "answer": "apr",
+            "normalized": "apr"
           }
         ],
-        "track": "PC|LenC--Y2026M6D13F1"
+        "track": "PC|LenC--Y2026M6D14F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-13",
+      "key": "2026-06-14",
       "year": 2026,
       "month": 6,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "ccab900b-7ddd-4c96-9eff-82f12f339ed3",
+        "puzzleId": "43c8b7c3-9d01-48d9-ab43-d1a1d7fa7250",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "685c3cd3-9d7f-4ecf-b631-ba666fe787ac",
-            "clue": "Juniper berry alcoholic drink",
-            "answer": "gin",
-            "normalized": "gin"
+            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
+            "clue": "Army insect that can be fire or leafcutter",
+            "answer": "ant",
+            "normalized": "ant"
           },
           {
-            "id": "055423ff-852e-4deb-a572-774296a69931",
-            "clue": "Argentinian grilled meat",
-            "answer": "asado",
-            "normalized": "asado"
+            "id": "75d36b8a-75a3-439b-82e2-73b29237b465",
+            "clue": "Clothing brand Fruit of the __",
+            "answer": "loom",
+            "normalized": "loom"
           },
           {
-            "id": "50ba0252-60cf-4efe-8a51-30e2fcf32fd6",
-            "clue": "Painful areas on the body",
-            "answer": "sores",
-            "normalized": "sores"
+            "id": "6c177a16-5311-46f1-afb8-acf3d74bc20e",
+            "clue": "Soaking rests in bubbly water",
+            "answer": "baths",
+            "normalized": "baths"
           },
           {
-            "id": "e0cb95fb-1949-4cff-a362-1f6e476715d7",
-            "clue": "Tate, Canadian artist who sang You Broke Me First",
-            "answer": "mcrae",
-            "normalized": "mcrae"
+            "id": "54814bfd-a1d8-4a35-86b3-fb68f4b536e2",
+            "clue": "Norwegian Romantic era composer Edvard",
+            "answer": "grieg",
+            "normalized": "grieg"
           },
           {
-            "id": "067afdbc-f507-4fe5-a3fd-5d09a470dd6f",
-            "clue": "Beam of sunlight",
-            "answer": "ray",
-            "normalized": "ray"
+            "id": "eb53370e-a90f-4a89-9566-14064ee77b3f",
+            "clue": "Choppy kitchen gadget",
+            "answer": "dicer",
+            "normalized": "dicer"
           },
           {
-            "id": "73355a41-de41-4738-a021-eaf9461f94cf",
-            "clue": "Shandling, star of The Larry Sanders Show",
-            "answer": "garry",
-            "normalized": "garry"
+            "id": "0f8595ac-603f-4de6-a27a-ecf95fff03dd",
+            "clue": "Animation frame",
+            "answer": "cel",
+            "normalized": "cel"
           },
           {
-            "id": "8b1aebc5-d975-4c63-80c4-60bfe944cc27",
-            "clue": "Novel thought",
-            "answer": "idea",
-            "normalized": "idea"
+            "id": "8eb45606-9dbf-4cc9-b0f6-f0775965e09d",
+            "clue": "First king of the Visigoths",
+            "answer": "alaric",
+            "normalized": "alaric"
           },
           {
-            "id": "c6359e28-819d-49c1-aeac-a5e13089a1e6",
-            "clue": "Sniffer",
-            "answer": "nose",
-            "normalized": "nose"
+            "id": "6a426327-e12e-4c0d-8d5e-456719c69956",
+            "clue": "Announcement, warning, note",
+            "answer": "notice",
+            "normalized": "notice"
           },
           {
-            "id": "7ffbe28f-0fe8-4735-a442-599dc2bcd6ca",
-            "clue": "Some people use these whispers to fall asleep",
-            "answer": "asmr",
-            "normalized": "asmr"
+            "id": "85c8a481-8f2a-446f-abfa-e93a2e3c69f3",
+            "clue": "Order given to a dog to walk beside its owner",
+            "answer": "to heel",
+            "normalized": "toheel"
           },
           {
-            "id": "c36b3dd7-4251-4dc0-8be8-ffb0838aef6f",
-            "clue": "A type of Caribbean music derived from calypso",
-            "answer": "soca",
-            "normalized": "soca"
+            "id": "9ca5728c-e9e3-4b72-9e33-83ff019e853c",
+            "clue": "Abbreviation for Monsignor",
+            "answer": "msgr",
+            "normalized": "msgr"
+          },
+          {
+            "id": "82a9fcb8-ddf1-4a53-8f26-26cfa637cff0",
+            "clue": "Three-letter code for Bangladesh",
+            "answer": "bgd",
+            "normalized": "bgd"
           }
         ],
-        "track": "PC|LenC--Y2026M6D13F0"
+        "track": "PC|LenC--Y2026M6D14F0"
       },
       "mid": {
-        "puzzleId": "e0cd7536-9762-4b14-ba99-a8b99d2c3794",
+        "puzzleId": "13077d47-27a5-4332-9d7b-9e088611a002",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "d237ce9d-7e8b-4e3e-84b5-01de5c3e5db5",
-            "clue": "Resorts with mineral springs",
-            "answer": "spas",
-            "normalized": "spas"
+            "id": "7f41f8ce-8d69-4152-880d-e01f4fa3603a",
+            "clue": "Common compressed file format for online images",
+            "answer": "jpeg",
+            "normalized": "jpeg"
           },
           {
-            "id": "68ca0578-514f-461d-aadd-fd8c74ef9777",
-            "clue": "Three letters meaning chief information officer",
-            "answer": "cio",
-            "normalized": "cio"
+            "id": "b3273fb6-b300-4b62-84e5-7e0fa7c78020",
+            "clue": "Actress Deborah, played Anna in The King and I",
+            "answer": "kerr",
+            "normalized": "kerr"
           },
           {
-            "id": "e005ad01-3cc0-4c0e-9694-dd5bb4be1047",
-            "clue": "Slow-pitch game with batters, pitchers",
-            "answer": "softball",
-            "normalized": "softball"
+            "id": "ec977a0a-3197-4f43-b0da-bb34fdc2a1ed",
+            "clue": "Low singing voice that actually means \"high\"",
+            "answer": "alto",
+            "normalized": "alto"
           },
           {
-            "id": "c6cd5e3b-f29c-4b76-87f7-8afd289fd156",
-            "clue": "__ cap, work boots that protect on building sites",
-            "answer": "steel toe",
-            "normalized": "steeltoe"
+            "id": "95ab37c3-d7a2-4d40-8455-24a097195bfb",
+            "clue": "Latin for the same, used in referencing",
+            "answer": "idem",
+            "normalized": "idem"
           },
           {
-            "id": "767ef97f-952f-4762-8591-97f5f816c1e0",
-            "clue": "Army-speak for missing from duty",
-            "answer": "awol",
-            "normalized": "awol"
+            "id": "e1c18423-7b31-4a5c-a8c9-ca617536802b",
+            "clue": "Poetry patterns stressing one of three syllables",
+            "answer": "dactylics",
+            "normalized": "dactylics"
           },
           {
-            "id": "8cf51179-c9ca-4f69-a54c-fef270fc01ec",
-            "clue": "To soak edibles in seasoning before cooking",
-            "answer": "marinate",
-            "normalized": "marinate"
+            "id": "12b76925-5e83-4d7d-b1e6-ce460db96aa1",
+            "clue": "Consumed food",
+            "answer": "ate",
+            "normalized": "ate"
           },
           {
-            "id": "6e0e75ba-95b8-40b6-ba68-7fa31ee8f9ca",
-            "clue": "Monopoly cube for making the game quicker",
-            "answer": "speed die",
-            "normalized": "speeddie"
+            "id": "0f31c4dd-aea5-4d82-8087-43922b35f8ef",
+            "clue": "The golden rule, \"Do __ others...\"",
+            "answer": "unto",
+            "normalized": "unto"
           },
           {
-            "id": "15939944-dd54-43f5-a212-8eb213233be2",
-            "clue": "Spearheaded",
-            "answer": "led",
-            "normalized": "led"
+            "id": "04a3864e-cddb-49f5-a143-b093f339d366",
+            "clue": "Sicilian volcano",
+            "answer": "etna",
+            "normalized": "etna"
           },
           {
-            "id": "e19d402b-4fe8-444f-aec2-1b183da0d193",
-            "clue": "15th-century painter Jan van __",
-            "answer": "eyck",
-            "normalized": "eyck"
+            "id": "5fa1db21-4562-439f-af12-3b381acf97bf",
+            "clue": "Assist, help",
+            "answer": "aid",
+            "normalized": "aid"
           },
           {
-            "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-            "clue": "Selective Service System, initials",
-            "answer": "sss",
-            "normalized": "sss"
+            "id": "b907a614-2709-4252-b750-86c0b85bea31",
+            "clue": "Can be wiped and have dirt removed",
+            "answer": "cleanable",
+            "normalized": "cleanable"
           },
           {
-            "id": "29acb32d-92c9-4060-ba66-b3231fbed2e9",
-            "clue": "It sometimes calls the kettle black",
-            "answer": "pot",
-            "normalized": "pot"
+            "id": "f06af40c-270a-42b1-a607-06f45c523c6b",
+            "clue": "An action word",
+            "answer": "verb",
+            "normalized": "verb"
           },
           {
-            "id": "7029b5b1-70f5-4898-92b1-ffb4361cfa78",
-            "clue": "Old term for being afraid of something",
-            "answer": "afeared",
-            "normalized": "afeared"
+            "id": "5dc77a5a-47e7-4f72-ab86-8e18960e16b0",
+            "clue": "Emotional request",
+            "answer": "plea",
+            "normalized": "plea"
           },
           {
-            "id": "8549d7bd-15e2-4e8f-9f97-37a0e8352121",
-            "clue": "Family Guy diabolical toddler",
-            "answer": "stewie",
-            "normalized": "stewie"
+            "id": "11619821-4116-4263-ae05-70b8eaf90346",
+            "clue": "__ Wars, __Trek, or A __ Is Born",
+            "answer": "star",
+            "normalized": "star"
           },
           {
-            "id": "54e197e5-a17e-4689-9a79-58810eafcbcc",
-            "clue": "Term used for a woman with many felines",
-            "answer": "cat lady",
-            "normalized": "catlady"
+            "id": "67e86c18-5ea0-43bf-b6b1-a89c20d13e85",
+            "clue": "John Elroy Sanford's stage name, __ Foxx",
+            "answer": "redd",
+            "normalized": "redd"
           },
           {
-            "id": "18d77e36-a244-4af1-8618-19089f1ff03e",
-            "clue": "UN agency dedicated to promoting labour rights",
-            "answer": "ilo",
-            "normalized": "ilo"
+            "id": "964fc523-2daa-4a74-8388-a1101d42d5d0",
+            "clue": "Pinkett who married Will Smith",
+            "answer": "jada",
+            "normalized": "jada"
           },
           {
-            "id": "d629f766-2973-447c-a36e-582184ec4c4d",
-            "clue": "Often chanted three times at sporting matches",
-            "answer": "ole",
-            "normalized": "ole"
+            "id": "37e60c08-78e7-4bcd-8889-d400786ffa08",
+            "clue": "Blood cell that forms clots",
+            "answer": "platelet",
+            "normalized": "platelet"
           },
           {
-            "id": "77ba8293-cd33-4da7-9c3b-317c72919831",
-            "clue": "Woman with flaxen hair",
-            "answer": "blonde",
-            "normalized": "blonde"
+            "id": "54865032-6d42-4bd5-bfb2-e28d918c05c0",
+            "clue": "And the like (in Latin)",
+            "answer": "et cetera",
+            "normalized": "etcetera"
           },
           {
-            "id": "0ada6c90-6fd9-4c2a-b7a2-77a0ebe9bf6b",
-            "clue": "Average level of the sea, abbreviated",
-            "answer": "msl",
-            "normalized": "msl"
+            "id": "d9d1bf79-cfc4-4b0a-8bf7-077b13780169",
+            "clue": "Received",
+            "answer": "got",
+            "normalized": "got"
           },
           {
-            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
-            "clue": "A tailless primate",
-            "answer": "ape",
-            "normalized": "ape"
+            "id": "6f5672e8-e8e0-4753-a514-57a4ea9970ed",
+            "clue": "An oven to bake clay",
+            "answer": "kiln",
+            "normalized": "kiln"
           },
           {
-            "id": "6a4e7573-6e62-4eb0-ba53-84e71dd16641",
-            "clue": "Tac's partner in a breath mint name",
-            "answer": "tic",
-            "normalized": "tic"
+            "id": "b206598c-ff12-4bf9-9612-be6a9ba62cfe",
+            "clue": "Like text that's capable of being modified",
+            "answer": "editable",
+            "normalized": "editable"
           },
           {
-            "id": "9b03dd5b-358e-4bc3-a74c-47b8b60a303a",
-            "clue": "Exclamation in fright",
-            "answer": "eek",
-            "normalized": "eek"
+            "id": "9ad0c804-c6e5-446e-b914-02f9211e6799",
+            "clue": "Stepped back in horror",
+            "answer": "recoiled",
+            "normalized": "recoiled"
+          },
+          {
+            "id": "872ba640-3a19-4f21-bf7b-852f4e7ee4c1",
+            "clue": "Prefix to British ships that carry mail",
+            "answer": "rms",
+            "normalized": "rms"
+          },
+          {
+            "id": "40c4c92a-3f4c-4c33-b7aa-5a60c3eb9756",
+            "clue": "Money used in China, equal to 10 jiao",
+            "answer": "yuan",
+            "normalized": "yuan"
+          },
+          {
+            "id": "ba307725-095d-4906-b14f-733724f83338",
+            "clue": "Chemical formula for sodium bromide",
+            "answer": "nabr",
+            "normalized": "nabr"
+          },
+          {
+            "id": "e4664179-2060-45b9-ab42-5cdb1ea42b54",
+            "clue": "No longer alive",
+            "answer": "dead",
+            "normalized": "dead"
+          },
+          {
+            "id": "7160cfd8-35a6-4060-a641-4f0cf656efaf",
+            "clue": "US pharmacy chain with red heart logo",
+            "answer": "cvs",
+            "normalized": "cvs"
+          },
+          {
+            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
+            "clue": "Interest rate across a whole year",
+            "answer": "apr",
+            "normalized": "apr"
           }
         ],
-        "track": "PC|LenC--Y2026M6D13F1"
+        "track": "PC|LenC--Y2026M6D14F1"
       }
     },
     "latestAvailableEntry": {
@@ -422066,21 +422150,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "G9z1vBU3Z9F6V3ONM6Kmy1arL2HuWnZY5D41BdN+r5oKy5H9vLyPgTmYg1qMOyO0MptTEEVEtdf5nkQMgzjBuhafMPRs5kWMfikjUXj+OsodsXVnbvQ7v2BVBfwGk3oqp9C/vSplHoqREQWDdcrQoGyKJi1iibQTln+iHS/A3NhjvO42nTYMMCHDQ83ZJhhI908id4U1aZ6UgzfjXVnidp6WD2iKl/iq3vCc/TCwYazPoG51hzA9Qr2nN9M93tL0gKu6ocnzWeF0apiUYjtnymUA31sYCBUrCw23CnneU+c="
+        "syz+9tYE8rHUmN4Ci6kxGWmnf1HIKVjBls9nVXrF0RjOAU0FSkCEJOxE27TvJTS/PnISu6VdbiR+DY5rXWztfFbtSOgSDM1+8Rd9KMBSTC9wZak+9d87fGh2s0HtduDU6RC4hDfAh0MgHlAUvVCVQePhvXpm9Zo3mMo2lpzjL4LpVgFz0uNjSNgqH5mFvwUSzFc1RIWwJZB7lhCq+f7vl450pYpd95CwtCZfIr45R/sZgYOf3WWCz9mBd2RoHjA3FushuMAJjeQHzgkmOzOJsCFNr8K1xD1bZtADJHhS4sk="
       ]
     },
     "decrypted": {
-      "Id": "36d57e68-a22e-45ec-9ef0-3ec9eff92849",
-      "Date": "2026-06-13T00:00:00Z",
+      "Id": "9d8f0d26-fcb5-4fb5-8406-f736c8fff61b",
+      "Date": "2026-06-14T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "dried",
-      "NormalizedPassword": "dried",
+      "Password": "shove",
+      "NormalizedPassword": "shove",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-13T02:02:43.9400000+05:30",
-    "hash": "f2b154e97aec34eb6f5549aee45550c5",
+    "dtu": "2026-06-14T01:29:30.1850000+05:30",
+    "hash": "2ff2ad68a932603ef9c8c5e067fd9bd6",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
