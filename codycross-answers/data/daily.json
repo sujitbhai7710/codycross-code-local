@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-13T19:59:30.185Z",
+  "generatedAt": "2026-06-14T20:03:58.882Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 14
+    "day": 15
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 24
+        "QuantidadeDeFases": 26
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -603,7 +603,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -1781,7 +1781,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -6725,7 +6725,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             }
@@ -11751,7 +11751,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -12972,7 +12972,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -13750,7 +13750,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -21318,7 +21318,7 @@
           "answers": [
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -21708,7 +21708,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -21766,7 +21766,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -21818,7 +21818,7 @@
           "answers": [
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -24766,7 +24766,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -26594,7 +26594,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -28198,7 +28198,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -28480,7 +28480,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -29058,7 +29058,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             }
@@ -34197,7 +34197,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -34618,7 +34618,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -34782,7 +34782,7 @@
           "answers": [
             {
               "id": "bf207314-8b39-47b7-b380-1bdf95ae9dd2",
-              "clue": "In investing, the internal rate of return in short",
+              "clue": "Abbreviation for irregular",
               "answer": "irr",
               "normalized": "irr"
             },
@@ -37264,7 +37264,7 @@
           "answers": [
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -37800,7 +37800,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -41153,7 +41153,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -41933,7 +41933,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -44558,7 +44558,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -46454,7 +46454,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -50360,7 +50360,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -50542,7 +50542,7 @@
             },
             {
               "id": "bf207314-8b39-47b7-b380-1bdf95ae9dd2",
-              "clue": "In investing, the internal rate of return in short",
+              "clue": "Abbreviation for irregular",
               "answer": "irr",
               "normalized": "irr"
             },
@@ -52314,7 +52314,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             }
@@ -52768,7 +52768,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             }
@@ -52974,7 +52974,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -55444,7 +55444,7 @@
             },
             {
               "id": "bf207314-8b39-47b7-b380-1bdf95ae9dd2",
-              "clue": "In investing, the internal rate of return in short",
+              "clue": "Abbreviation for irregular",
               "answer": "irr",
               "normalized": "irr"
             },
@@ -57504,7 +57504,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             }
@@ -63787,7 +63787,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -67630,7 +67630,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -70534,7 +70534,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -75740,7 +75740,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             }
@@ -77360,7 +77360,7 @@
           "answers": [
             {
               "id": "bf207314-8b39-47b7-b380-1bdf95ae9dd2",
-              "clue": "In investing, the internal rate of return in short",
+              "clue": "Abbreviation for irregular",
               "answer": "irr",
               "normalized": "irr"
             },
@@ -78592,7 +78592,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -79288,7 +79288,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -79530,7 +79530,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -80162,7 +80162,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -82507,7 +82507,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -83699,7 +83699,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -84305,7 +84305,7 @@
           "answers": [
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -86297,7 +86297,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -88251,7 +88251,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -91855,7 +91855,7 @@
           "answers": [
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -93405,7 +93405,7 @@
           "answers": [
             {
               "id": "a24b7ec2-69df-41ce-9c99-3b4ed820a4e3",
-              "clue": "Noise made when enjoying delicious food",
+              "clue": "Onomatopoeic sound when enjoying delicious food",
               "answer": "mmm",
               "normalized": "mmm"
             },
@@ -94421,7 +94421,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -96499,7 +96499,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -96553,7 +96553,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -100463,7 +100463,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             }
@@ -101664,7 +101664,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English class for non-English speakers",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -108279,7 +108279,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -111011,7 +111011,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -118337,7 +118337,7 @@
             },
             {
               "id": "bf207314-8b39-47b7-b380-1bdf95ae9dd2",
-              "clue": "In investing, the internal rate of return in short",
+              "clue": "Abbreviation for irregular",
               "answer": "irr",
               "normalized": "irr"
             },
@@ -119711,7 +119711,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -121438,7 +121438,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -127475,7 +127475,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -129139,7 +129139,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -131083,7 +131083,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             }
@@ -133212,7 +133212,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -136291,7 +136291,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -138152,7 +138152,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -142312,7 +142312,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -145030,7 +145030,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -145206,7 +145206,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -149673,7 +149673,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -150045,7 +150045,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -152820,7 +152820,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -158732,7 +158732,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -159516,7 +159516,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -161843,7 +161843,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             }
@@ -164957,7 +164957,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -166335,7 +166335,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -166813,7 +166813,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -170939,7 +170939,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             }
@@ -171339,7 +171339,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -171375,7 +171375,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -175775,7 +175775,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -178981,7 +178981,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -181866,7 +181866,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -182144,7 +182144,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             }
@@ -182502,7 +182502,7 @@
           "answers": [
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -184683,7 +184683,7 @@
           "answers": [
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -187645,7 +187645,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -191636,7 +191636,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -191948,7 +191948,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -192220,7 +192220,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             }
@@ -198546,7 +198546,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -199206,7 +199206,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -200944,7 +200944,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -202996,7 +202996,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -206290,7 +206290,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -210372,7 +210372,7 @@
           "answers": [
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -211850,7 +211850,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -212310,7 +212310,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -214549,7 +214549,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -216541,7 +216541,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -217055,7 +217055,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -219095,7 +219095,7 @@
             },
             {
               "id": "c38521dd-b56f-4bf7-8a1f-6ba9dfc60d4e",
-              "clue": "Little Orphan Annie's dog says this",
+              "clue": "What a dog's bark sounds like",
               "answer": "arf",
               "normalized": "arf"
             },
@@ -220567,7 +220567,7 @@
           "answers": [
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -223655,7 +223655,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -225023,7 +225023,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -233108,7 +233108,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             }
@@ -235860,7 +235860,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -235878,7 +235878,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -237072,7 +237072,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -242548,7 +242548,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -242996,7 +242996,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -245850,7 +245850,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -246068,7 +246068,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -246598,7 +246598,7 @@
           "answers": [
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -248020,7 +248020,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             }
@@ -253674,7 +253674,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             },
@@ -258843,7 +258843,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -260824,7 +260824,7 @@
             },
             {
               "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-              "clue": "Republic of South Africa",
+              "clue": "Short for Republic of South Africa",
               "answer": "rsa",
               "normalized": "rsa"
             }
@@ -271249,7 +271249,7 @@
             },
             {
               "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-              "clue": "Three letters that mean chief strategy officer",
+              "clue": "Corporate executive for sustainability, abbr.",
               "answer": "cso",
               "normalized": "cso"
             },
@@ -279188,7 +279188,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -284638,7 +284638,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -290467,7 +290467,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -292975,7 +292975,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -294179,7 +294179,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             }
@@ -299975,7 +299975,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -302220,7 +302220,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -315580,7 +315580,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             }
@@ -315656,7 +315656,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -322592,7 +322592,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -328750,7 +328750,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -333528,7 +333528,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -335254,7 +335254,7 @@
             },
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -335678,7 +335678,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -335720,7 +335720,7 @@
             },
             {
               "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-              "clue": "Initialism for data distribution service",
+              "clue": "Dental Surgeon's degree, abbr.",
               "answer": "dds",
               "normalized": "dds"
             },
@@ -342708,7 +342708,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -345013,7 +345013,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -348333,7 +348333,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             }
@@ -348922,7 +348922,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -355567,7 +355567,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -357151,7 +357151,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             }
@@ -358323,7 +358323,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -360559,7 +360559,7 @@
           "answers": [
             {
               "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
-              "clue": "Abbreviation for British Summer Time zone",
+              "clue": "UK's timezone during summer",
               "answer": "bst",
               "normalized": "bst"
             },
@@ -366243,7 +366243,7 @@
             },
             {
               "id": "bf207314-8b39-47b7-b380-1bdf95ae9dd2",
-              "clue": "In investing, the internal rate of return in short",
+              "clue": "Abbreviation for irregular",
               "answer": "irr",
               "normalized": "irr"
             },
@@ -373929,7 +373929,7 @@
             },
             {
               "id": "a24b7ec2-69df-41ce-9c99-3b4ed820a4e3",
-              "clue": "Noise made when enjoying delicious food",
+              "clue": "Onomatopoeic sound when enjoying delicious food",
               "answer": "mmm",
               "normalized": "mmm"
             },
@@ -378097,7 +378097,7 @@
             },
             {
               "id": "1a9e7472-805b-4f6e-864f-cf2cb9d57629",
-              "clue": "Digital learning environment",
+              "clue": "Pud___ (rainy day accumulation)",
               "answer": "dle",
               "normalized": "dle"
             },
@@ -381481,7 +381481,7 @@
             },
             {
               "id": "1a9e7472-805b-4f6e-864f-cf2cb9d57629",
-              "clue": "Digital learning environment",
+              "clue": "Pud___ (rainy day accumulation)",
               "answer": "dle",
               "normalized": "dle"
             },
@@ -382707,7 +382707,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -385527,7 +385527,7 @@
           "answers": [
             {
               "id": "a24b7ec2-69df-41ce-9c99-3b4ed820a4e3",
-              "clue": "Noise made when enjoying delicious food",
+              "clue": "Onomatopoeic sound when enjoying delicious food",
               "answer": "mmm",
               "normalized": "mmm"
             },
@@ -399706,7 +399706,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -410994,7 +410994,7 @@
             },
             {
               "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-              "clue": "Drove faster than the limit",
+              "clue": "Another term for drove quickly",
               "answer": "sped",
               "normalized": "sped"
             },
@@ -413363,7 +413363,7 @@
             },
             {
               "id": "1a9e7472-805b-4f6e-864f-cf2cb9d57629",
-              "clue": "Digital learning environment",
+              "clue": "Pud___ (rainy day accumulation)",
               "answer": "dle",
               "normalized": "dle"
             }
@@ -413535,7 +413535,7 @@
             },
             {
               "id": "1a9e7472-805b-4f6e-864f-cf2cb9d57629",
-              "clue": "Digital learning environment",
+              "clue": "Pud___ (rainy day accumulation)",
               "answer": "dle",
               "normalized": "dle"
             }
@@ -415257,7 +415257,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -415369,7 +415369,7 @@
             },
             {
               "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-              "clue": "English as a second language",
+              "clue": "Short for English as a second language",
               "answer": "esl",
               "normalized": "esl"
             },
@@ -421410,511 +421410,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-14",
+      "key": "2026-06-15",
       "year": 2026,
       "month": 6,
-      "day": 14,
+      "day": 15,
       "small": {
-        "puzzleId": "43c8b7c3-9d01-48d9-ab43-d1a1d7fa7250",
+        "puzzleId": "aa4d46fb-f849-4378-872a-05b41ec34322",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 6,
         "answers": [
           {
-            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
-            "clue": "Army insect that can be fire or leafcutter",
-            "answer": "ant",
-            "normalized": "ant"
+            "id": "cd93dcdc-ea0e-43e7-b398-cfefa821999d",
+            "clue": "__ one's nose with a finger to clean it",
+            "answer": "pick",
+            "normalized": "pick"
           },
           {
-            "id": "75d36b8a-75a3-439b-82e2-73b29237b465",
-            "clue": "Clothing brand Fruit of the __",
-            "answer": "loom",
-            "normalized": "loom"
+            "id": "e5e0029b-f0fd-41ea-bac0-bc587224b9c8",
+            "clue": "A light wind",
+            "answer": "breeze",
+            "normalized": "breeze"
           },
           {
-            "id": "6c177a16-5311-46f1-afb8-acf3d74bc20e",
-            "clue": "Soaking rests in bubbly water",
-            "answer": "baths",
-            "normalized": "baths"
+            "id": "9b59e2b7-992a-4bf9-9286-58c31ff52994",
+            "clue": "French cosmetics brand behind the Elvive range",
+            "answer": "loreal",
+            "normalized": "loreal"
           },
           {
-            "id": "54814bfd-a1d8-4a35-86b3-fb68f4b536e2",
-            "clue": "Norwegian Romantic era composer Edvard",
-            "answer": "grieg",
-            "normalized": "grieg"
+            "id": "b317548f-9fc9-4582-95be-8db8376e10d5",
+            "clue": "State categorically; affirm as true",
+            "answer": "assert",
+            "normalized": "assert"
           },
           {
-            "id": "eb53370e-a90f-4a89-9566-14064ee77b3f",
-            "clue": "Choppy kitchen gadget",
-            "answer": "dicer",
-            "normalized": "dicer"
+            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
+            "clue": "Say this twice for a laughter sound",
+            "answer": "hee",
+            "normalized": "hee"
           },
           {
-            "id": "0f8595ac-603f-4de6-a27a-ecf95fff03dd",
-            "clue": "Animation frame",
-            "answer": "cel",
-            "normalized": "cel"
+            "id": "172f25d8-f9f4-4667-bdf0-43a4e7fcd8eb",
+            "clue": "Intrinsically",
+            "answer": "per se",
+            "normalized": "perse"
           },
           {
-            "id": "8eb45606-9dbf-4cc9-b0f6-f0775965e09d",
-            "clue": "First king of the Visigoths",
-            "answer": "alaric",
-            "normalized": "alaric"
+            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
+            "clue": "Largest association for the technical professions",
+            "answer": "ieee",
+            "normalized": "ieee"
           },
           {
-            "id": "6a426327-e12e-4c0d-8d5e-456719c69956",
-            "clue": "Announcement, warning, note",
-            "answer": "notice",
-            "normalized": "notice"
+            "id": "83bd1d67-6b7f-4302-8ed9-807824920b53",
+            "clue": "Russian royal",
+            "answer": "czar",
+            "normalized": "czar"
           },
           {
-            "id": "85c8a481-8f2a-446f-abfa-e93a2e3c69f3",
-            "clue": "Order given to a dog to walk beside its owner",
-            "answer": "to heel",
-            "normalized": "toheel"
+            "id": "61e9579e-a46a-4e33-9aec-bfd2833a7216",
+            "clue": "Salmon that has spawned but hasn't returned to sea",
+            "answer": "kelt",
+            "normalized": "kelt"
           },
           {
-            "id": "9ca5728c-e9e3-4b72-9e33-83ff019e853c",
-            "clue": "Abbreviation for Monsignor",
-            "answer": "msgr",
-            "normalized": "msgr"
+            "id": "4ea3983f-3f7e-42f8-b520-cbe5e14a3f91",
+            "clue": "Meaningless word indicating boredom with the topic",
+            "answer": "blah",
+            "normalized": "blah"
           },
           {
-            "id": "82a9fcb8-ddf1-4a53-8f26-26cfa637cff0",
-            "clue": "Three-letter code for Bangladesh",
-            "answer": "bgd",
-            "normalized": "bgd"
+            "id": "3879fedc-1579-4b40-8829-04782ec5bbe9",
+            "clue": "A flower that has thorns on the stem",
+            "answer": "rose",
+            "normalized": "rose"
           }
         ],
-        "track": "PC|LenC--Y2026M6D14F0"
+        "track": "PC|LenC--Y2026M6D15F0"
       },
       "mid": {
-        "puzzleId": "13077d47-27a5-4332-9d7b-9e088611a002",
+        "puzzleId": "ad0ee4a7-e0bd-408e-a7a3-6140d68b6ef6",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "7f41f8ce-8d69-4152-880d-e01f4fa3603a",
-            "clue": "Common compressed file format for online images",
-            "answer": "jpeg",
-            "normalized": "jpeg"
+            "id": "60fd0e78-8780-4596-95e4-bcd006149861",
+            "clue": "Rogers who divorced Tom Cruise",
+            "answer": "mimi",
+            "normalized": "mimi"
           },
           {
-            "id": "b3273fb6-b300-4b62-84e5-7e0fa7c78020",
-            "clue": "Actress Deborah, played Anna in The King and I",
-            "answer": "kerr",
-            "normalized": "kerr"
+            "id": "dc0ccb8f-e7d6-4404-9df6-dc0dc114916b",
+            "clue": "Domesticated animal, not wild",
+            "answer": "tame",
+            "normalized": "tame"
           },
           {
-            "id": "ec977a0a-3197-4f43-b0da-bb34fdc2a1ed",
-            "clue": "Low singing voice that actually means \"high\"",
-            "answer": "alto",
-            "normalized": "alto"
+            "id": "7a3894bb-ceb6-41c6-9662-b95f446ef630",
+            "clue": "Cliff, ridge",
+            "answer": "crag",
+            "normalized": "crag"
           },
           {
-            "id": "95ab37c3-d7a2-4d40-8455-24a097195bfb",
-            "clue": "Latin for the same, used in referencing",
-            "answer": "idem",
-            "normalized": "idem"
+            "id": "b2955156-95f6-496d-a390-3c5703d74731",
+            "clue": "Once more as if for the first time, a fresh go",
+            "answer": "anew",
+            "normalized": "anew"
           },
           {
-            "id": "e1c18423-7b31-4a5c-a8c9-ca617536802b",
-            "clue": "Poetry patterns stressing one of three syllables",
-            "answer": "dactylics",
-            "normalized": "dactylics"
+            "id": "ec4d98bd-f8da-4a10-89db-1154aad1392c",
+            "clue": "Mix between a schnauzer and poodle",
+            "answer": "schnoodle",
+            "normalized": "schnoodle"
           },
           {
-            "id": "12b76925-5e83-4d7d-b1e6-ce460db96aa1",
-            "clue": "Consumed food",
-            "answer": "ate",
-            "normalized": "ate"
+            "id": "0778ba04-ee28-4687-b99e-dfaa100e4270",
+            "clue": "Battle with lances on horseback",
+            "answer": "joust",
+            "normalized": "joust"
           },
           {
-            "id": "0f31c4dd-aea5-4d82-8087-43922b35f8ef",
-            "clue": "The golden rule, \"Do __ others...\"",
-            "answer": "unto",
-            "normalized": "unto"
+            "id": "5991691b-798e-4916-b7d1-46fc633a8ed8",
+            "clue": "Feldspar mineral abundant on the Moon's surface",
+            "answer": "anorthite",
+            "normalized": "anorthite"
           },
           {
-            "id": "04a3864e-cddb-49f5-a143-b093f339d366",
-            "clue": "Sicilian volcano",
-            "answer": "etna",
-            "normalized": "etna"
+            "id": "ca4fe0ea-6b24-4a19-8b59-c150e6328179",
+            "clue": "Descartes the philosopher",
+            "answer": "rene",
+            "normalized": "rene"
           },
           {
-            "id": "5fa1db21-4562-439f-af12-3b381acf97bf",
-            "clue": "Assist, help",
-            "answer": "aid",
-            "normalized": "aid"
+            "id": "50c5cd89-93b4-43cd-811c-4a1d8f86539c",
+            "clue": "Thick and chewy Japanese noodles",
+            "answer": "udon",
+            "normalized": "udon"
           },
           {
-            "id": "b907a614-2709-4252-b750-86c0b85bea31",
-            "clue": "Can be wiped and have dirt removed",
-            "answer": "cleanable",
-            "normalized": "cleanable"
+            "id": "f0ffabd9-7ed9-403f-b030-3fd703f464a3",
+            "clue": "Mists",
+            "answer": "fogs",
+            "normalized": "fogs"
           },
           {
-            "id": "f06af40c-270a-42b1-a607-06f45c523c6b",
-            "clue": "An action word",
-            "answer": "verb",
-            "normalized": "verb"
+            "id": "46a177f4-81d8-4796-8abe-19c2b75a06eb",
+            "clue": "Archaic word for a deserved reward",
+            "answer": "meed",
+            "normalized": "meed"
           },
           {
-            "id": "5dc77a5a-47e7-4f72-ab86-8e18960e16b0",
-            "clue": "Emotional request",
-            "answer": "plea",
-            "normalized": "plea"
+            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
+            "clue": "Masters of ceremonies, in short",
+            "answer": "mcs",
+            "normalized": "mcs"
           },
           {
-            "id": "11619821-4116-4263-ae05-70b8eaf90346",
-            "clue": "__ Wars, __Trek, or A __ Is Born",
-            "answer": "star",
-            "normalized": "star"
+            "id": "06770cd5-b7c9-43f0-8511-fe0f7559a9ff",
+            "clue": "International Rescue Committee, initialism",
+            "answer": "irc",
+            "normalized": "irc"
           },
           {
-            "id": "67e86c18-5ea0-43bf-b6b1-a89c20d13e85",
-            "clue": "John Elroy Sanford's stage name, __ Foxx",
-            "answer": "redd",
-            "normalized": "redd"
+            "id": "474bbc58-95f9-4708-be36-c42a0d2fce63",
+            "clue": "Chinese dominoes, only more complex",
+            "answer": "mahjong",
+            "normalized": "mahjong"
           },
           {
-            "id": "964fc523-2daa-4a74-8388-a1101d42d5d0",
-            "clue": "Pinkett who married Will Smith",
-            "answer": "jada",
-            "normalized": "jada"
+            "id": "522efcef-ba1d-4f58-80a9-cc0a85b64d6f",
+            "clue": "Pays no attention to",
+            "answer": "ignores",
+            "normalized": "ignores"
           },
           {
-            "id": "37e60c08-78e7-4bcd-8889-d400786ffa08",
-            "clue": "Blood cell that forms clots",
-            "answer": "platelet",
-            "normalized": "platelet"
+            "id": "13bc9178-56f5-4b92-90e1-16c4957063b1",
+            "clue": "Mysterious buzzing sound heard in New Mexican town",
+            "answer": "taos hum",
+            "normalized": "taoshum"
           },
           {
-            "id": "54865032-6d42-4bd5-bfb2-e28d918c05c0",
-            "clue": "And the like (in Latin)",
-            "answer": "et cetera",
-            "normalized": "etcetera"
+            "id": "67a289d5-8380-468a-946e-4678d4efebba",
+            "clue": "Time __ wait for no man",
+            "answer": "and tide",
+            "normalized": "andtide"
           },
           {
-            "id": "d9d1bf79-cfc4-4b0a-8bf7-077b13780169",
-            "clue": "Received",
-            "answer": "got",
-            "normalized": "got"
+            "id": "a425e01f-7092-4049-b28b-22e1c21ce160",
+            "clue": "First name of two Spice Girls",
+            "answer": "mel",
+            "normalized": "mel"
           },
           {
-            "id": "6f5672e8-e8e0-4753-a514-57a4ea9970ed",
-            "clue": "An oven to bake clay",
-            "answer": "kiln",
-            "normalized": "kiln"
+            "id": "b6d1bf62-e959-4390-ad66-13dbb9e5d0f1",
+            "clue": "Female sheep",
+            "answer": "ewe",
+            "normalized": "ewe"
           },
           {
-            "id": "b206598c-ff12-4bf9-9612-be6a9ba62cfe",
-            "clue": "Like text that's capable of being modified",
-            "answer": "editable",
-            "normalized": "editable"
+            "id": "6c072304-5cc9-41d3-9c99-944025e84124",
+            "clue": "Not in",
+            "answer": "out",
+            "normalized": "out"
           },
           {
-            "id": "9ad0c804-c6e5-446e-b914-02f9211e6799",
-            "clue": "Stepped back in horror",
-            "answer": "recoiled",
-            "normalized": "recoiled"
+            "id": "1227fa25-b011-43db-98bb-ebbf5a56d589",
+            "clue": "Dog sound",
+            "answer": "arf",
+            "normalized": "arf"
           },
           {
-            "id": "872ba640-3a19-4f21-bf7b-852f4e7ee4c1",
-            "clue": "Prefix to British ships that carry mail",
-            "answer": "rms",
-            "normalized": "rms"
+            "id": "e114b02b-4888-4f25-90ab-59d0f4fa87a6",
+            "clue": "Keanu Reeves' part in The Matrix",
+            "answer": "neo",
+            "normalized": "neo"
           },
           {
-            "id": "40c4c92a-3f4c-4c33-b7aa-5a60c3eb9756",
-            "clue": "Money used in China, equal to 10 jiao",
-            "answer": "yuan",
-            "normalized": "yuan"
+            "id": "d2e2f5a0-3d9e-4ccd-a98f-924bf66404bf",
+            "clue": "Foot digit",
+            "answer": "toe",
+            "normalized": "toe"
           },
           {
-            "id": "ba307725-095d-4906-b14f-733724f83338",
-            "clue": "Chemical formula for sodium bromide",
-            "answer": "nabr",
-            "normalized": "nabr"
-          },
-          {
-            "id": "e4664179-2060-45b9-ab42-5cdb1ea42b54",
-            "clue": "No longer alive",
-            "answer": "dead",
-            "normalized": "dead"
-          },
-          {
-            "id": "7160cfd8-35a6-4060-a641-4f0cf656efaf",
-            "clue": "US pharmacy chain with red heart logo",
-            "answer": "cvs",
-            "normalized": "cvs"
-          },
-          {
-            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
-            "clue": "Interest rate across a whole year",
-            "answer": "apr",
-            "normalized": "apr"
+            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+            "clue": "Finale",
+            "answer": "end",
+            "normalized": "end"
           }
         ],
-        "track": "PC|LenC--Y2026M6D14F1"
+        "track": "PC|LenC--Y2026M6D15F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-14",
+      "key": "2026-06-15",
       "year": 2026,
       "month": 6,
-      "day": 14,
+      "day": 15,
       "small": {
-        "puzzleId": "43c8b7c3-9d01-48d9-ab43-d1a1d7fa7250",
+        "puzzleId": "aa4d46fb-f849-4378-872a-05b41ec34322",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 6,
         "answers": [
           {
-            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
-            "clue": "Army insect that can be fire or leafcutter",
-            "answer": "ant",
-            "normalized": "ant"
+            "id": "cd93dcdc-ea0e-43e7-b398-cfefa821999d",
+            "clue": "__ one's nose with a finger to clean it",
+            "answer": "pick",
+            "normalized": "pick"
           },
           {
-            "id": "75d36b8a-75a3-439b-82e2-73b29237b465",
-            "clue": "Clothing brand Fruit of the __",
-            "answer": "loom",
-            "normalized": "loom"
+            "id": "e5e0029b-f0fd-41ea-bac0-bc587224b9c8",
+            "clue": "A light wind",
+            "answer": "breeze",
+            "normalized": "breeze"
           },
           {
-            "id": "6c177a16-5311-46f1-afb8-acf3d74bc20e",
-            "clue": "Soaking rests in bubbly water",
-            "answer": "baths",
-            "normalized": "baths"
+            "id": "9b59e2b7-992a-4bf9-9286-58c31ff52994",
+            "clue": "French cosmetics brand behind the Elvive range",
+            "answer": "loreal",
+            "normalized": "loreal"
           },
           {
-            "id": "54814bfd-a1d8-4a35-86b3-fb68f4b536e2",
-            "clue": "Norwegian Romantic era composer Edvard",
-            "answer": "grieg",
-            "normalized": "grieg"
+            "id": "b317548f-9fc9-4582-95be-8db8376e10d5",
+            "clue": "State categorically; affirm as true",
+            "answer": "assert",
+            "normalized": "assert"
           },
           {
-            "id": "eb53370e-a90f-4a89-9566-14064ee77b3f",
-            "clue": "Choppy kitchen gadget",
-            "answer": "dicer",
-            "normalized": "dicer"
+            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
+            "clue": "Say this twice for a laughter sound",
+            "answer": "hee",
+            "normalized": "hee"
           },
           {
-            "id": "0f8595ac-603f-4de6-a27a-ecf95fff03dd",
-            "clue": "Animation frame",
-            "answer": "cel",
-            "normalized": "cel"
+            "id": "172f25d8-f9f4-4667-bdf0-43a4e7fcd8eb",
+            "clue": "Intrinsically",
+            "answer": "per se",
+            "normalized": "perse"
           },
           {
-            "id": "8eb45606-9dbf-4cc9-b0f6-f0775965e09d",
-            "clue": "First king of the Visigoths",
-            "answer": "alaric",
-            "normalized": "alaric"
+            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
+            "clue": "Largest association for the technical professions",
+            "answer": "ieee",
+            "normalized": "ieee"
           },
           {
-            "id": "6a426327-e12e-4c0d-8d5e-456719c69956",
-            "clue": "Announcement, warning, note",
-            "answer": "notice",
-            "normalized": "notice"
+            "id": "83bd1d67-6b7f-4302-8ed9-807824920b53",
+            "clue": "Russian royal",
+            "answer": "czar",
+            "normalized": "czar"
           },
           {
-            "id": "85c8a481-8f2a-446f-abfa-e93a2e3c69f3",
-            "clue": "Order given to a dog to walk beside its owner",
-            "answer": "to heel",
-            "normalized": "toheel"
+            "id": "61e9579e-a46a-4e33-9aec-bfd2833a7216",
+            "clue": "Salmon that has spawned but hasn't returned to sea",
+            "answer": "kelt",
+            "normalized": "kelt"
           },
           {
-            "id": "9ca5728c-e9e3-4b72-9e33-83ff019e853c",
-            "clue": "Abbreviation for Monsignor",
-            "answer": "msgr",
-            "normalized": "msgr"
+            "id": "4ea3983f-3f7e-42f8-b520-cbe5e14a3f91",
+            "clue": "Meaningless word indicating boredom with the topic",
+            "answer": "blah",
+            "normalized": "blah"
           },
           {
-            "id": "82a9fcb8-ddf1-4a53-8f26-26cfa637cff0",
-            "clue": "Three-letter code for Bangladesh",
-            "answer": "bgd",
-            "normalized": "bgd"
+            "id": "3879fedc-1579-4b40-8829-04782ec5bbe9",
+            "clue": "A flower that has thorns on the stem",
+            "answer": "rose",
+            "normalized": "rose"
           }
         ],
-        "track": "PC|LenC--Y2026M6D14F0"
+        "track": "PC|LenC--Y2026M6D15F0"
       },
       "mid": {
-        "puzzleId": "13077d47-27a5-4332-9d7b-9e088611a002",
+        "puzzleId": "ad0ee4a7-e0bd-408e-a7a3-6140d68b6ef6",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "7f41f8ce-8d69-4152-880d-e01f4fa3603a",
-            "clue": "Common compressed file format for online images",
-            "answer": "jpeg",
-            "normalized": "jpeg"
+            "id": "60fd0e78-8780-4596-95e4-bcd006149861",
+            "clue": "Rogers who divorced Tom Cruise",
+            "answer": "mimi",
+            "normalized": "mimi"
           },
           {
-            "id": "b3273fb6-b300-4b62-84e5-7e0fa7c78020",
-            "clue": "Actress Deborah, played Anna in The King and I",
-            "answer": "kerr",
-            "normalized": "kerr"
+            "id": "dc0ccb8f-e7d6-4404-9df6-dc0dc114916b",
+            "clue": "Domesticated animal, not wild",
+            "answer": "tame",
+            "normalized": "tame"
           },
           {
-            "id": "ec977a0a-3197-4f43-b0da-bb34fdc2a1ed",
-            "clue": "Low singing voice that actually means \"high\"",
-            "answer": "alto",
-            "normalized": "alto"
+            "id": "7a3894bb-ceb6-41c6-9662-b95f446ef630",
+            "clue": "Cliff, ridge",
+            "answer": "crag",
+            "normalized": "crag"
           },
           {
-            "id": "95ab37c3-d7a2-4d40-8455-24a097195bfb",
-            "clue": "Latin for the same, used in referencing",
-            "answer": "idem",
-            "normalized": "idem"
+            "id": "b2955156-95f6-496d-a390-3c5703d74731",
+            "clue": "Once more as if for the first time, a fresh go",
+            "answer": "anew",
+            "normalized": "anew"
           },
           {
-            "id": "e1c18423-7b31-4a5c-a8c9-ca617536802b",
-            "clue": "Poetry patterns stressing one of three syllables",
-            "answer": "dactylics",
-            "normalized": "dactylics"
+            "id": "ec4d98bd-f8da-4a10-89db-1154aad1392c",
+            "clue": "Mix between a schnauzer and poodle",
+            "answer": "schnoodle",
+            "normalized": "schnoodle"
           },
           {
-            "id": "12b76925-5e83-4d7d-b1e6-ce460db96aa1",
-            "clue": "Consumed food",
-            "answer": "ate",
-            "normalized": "ate"
+            "id": "0778ba04-ee28-4687-b99e-dfaa100e4270",
+            "clue": "Battle with lances on horseback",
+            "answer": "joust",
+            "normalized": "joust"
           },
           {
-            "id": "0f31c4dd-aea5-4d82-8087-43922b35f8ef",
-            "clue": "The golden rule, \"Do __ others...\"",
-            "answer": "unto",
-            "normalized": "unto"
+            "id": "5991691b-798e-4916-b7d1-46fc633a8ed8",
+            "clue": "Feldspar mineral abundant on the Moon's surface",
+            "answer": "anorthite",
+            "normalized": "anorthite"
           },
           {
-            "id": "04a3864e-cddb-49f5-a143-b093f339d366",
-            "clue": "Sicilian volcano",
-            "answer": "etna",
-            "normalized": "etna"
+            "id": "ca4fe0ea-6b24-4a19-8b59-c150e6328179",
+            "clue": "Descartes the philosopher",
+            "answer": "rene",
+            "normalized": "rene"
           },
           {
-            "id": "5fa1db21-4562-439f-af12-3b381acf97bf",
-            "clue": "Assist, help",
-            "answer": "aid",
-            "normalized": "aid"
+            "id": "50c5cd89-93b4-43cd-811c-4a1d8f86539c",
+            "clue": "Thick and chewy Japanese noodles",
+            "answer": "udon",
+            "normalized": "udon"
           },
           {
-            "id": "b907a614-2709-4252-b750-86c0b85bea31",
-            "clue": "Can be wiped and have dirt removed",
-            "answer": "cleanable",
-            "normalized": "cleanable"
+            "id": "f0ffabd9-7ed9-403f-b030-3fd703f464a3",
+            "clue": "Mists",
+            "answer": "fogs",
+            "normalized": "fogs"
           },
           {
-            "id": "f06af40c-270a-42b1-a607-06f45c523c6b",
-            "clue": "An action word",
-            "answer": "verb",
-            "normalized": "verb"
+            "id": "46a177f4-81d8-4796-8abe-19c2b75a06eb",
+            "clue": "Archaic word for a deserved reward",
+            "answer": "meed",
+            "normalized": "meed"
           },
           {
-            "id": "5dc77a5a-47e7-4f72-ab86-8e18960e16b0",
-            "clue": "Emotional request",
-            "answer": "plea",
-            "normalized": "plea"
+            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
+            "clue": "Masters of ceremonies, in short",
+            "answer": "mcs",
+            "normalized": "mcs"
           },
           {
-            "id": "11619821-4116-4263-ae05-70b8eaf90346",
-            "clue": "__ Wars, __Trek, or A __ Is Born",
-            "answer": "star",
-            "normalized": "star"
+            "id": "06770cd5-b7c9-43f0-8511-fe0f7559a9ff",
+            "clue": "International Rescue Committee, initialism",
+            "answer": "irc",
+            "normalized": "irc"
           },
           {
-            "id": "67e86c18-5ea0-43bf-b6b1-a89c20d13e85",
-            "clue": "John Elroy Sanford's stage name, __ Foxx",
-            "answer": "redd",
-            "normalized": "redd"
+            "id": "474bbc58-95f9-4708-be36-c42a0d2fce63",
+            "clue": "Chinese dominoes, only more complex",
+            "answer": "mahjong",
+            "normalized": "mahjong"
           },
           {
-            "id": "964fc523-2daa-4a74-8388-a1101d42d5d0",
-            "clue": "Pinkett who married Will Smith",
-            "answer": "jada",
-            "normalized": "jada"
+            "id": "522efcef-ba1d-4f58-80a9-cc0a85b64d6f",
+            "clue": "Pays no attention to",
+            "answer": "ignores",
+            "normalized": "ignores"
           },
           {
-            "id": "37e60c08-78e7-4bcd-8889-d400786ffa08",
-            "clue": "Blood cell that forms clots",
-            "answer": "platelet",
-            "normalized": "platelet"
+            "id": "13bc9178-56f5-4b92-90e1-16c4957063b1",
+            "clue": "Mysterious buzzing sound heard in New Mexican town",
+            "answer": "taos hum",
+            "normalized": "taoshum"
           },
           {
-            "id": "54865032-6d42-4bd5-bfb2-e28d918c05c0",
-            "clue": "And the like (in Latin)",
-            "answer": "et cetera",
-            "normalized": "etcetera"
+            "id": "67a289d5-8380-468a-946e-4678d4efebba",
+            "clue": "Time __ wait for no man",
+            "answer": "and tide",
+            "normalized": "andtide"
           },
           {
-            "id": "d9d1bf79-cfc4-4b0a-8bf7-077b13780169",
-            "clue": "Received",
-            "answer": "got",
-            "normalized": "got"
+            "id": "a425e01f-7092-4049-b28b-22e1c21ce160",
+            "clue": "First name of two Spice Girls",
+            "answer": "mel",
+            "normalized": "mel"
           },
           {
-            "id": "6f5672e8-e8e0-4753-a514-57a4ea9970ed",
-            "clue": "An oven to bake clay",
-            "answer": "kiln",
-            "normalized": "kiln"
+            "id": "b6d1bf62-e959-4390-ad66-13dbb9e5d0f1",
+            "clue": "Female sheep",
+            "answer": "ewe",
+            "normalized": "ewe"
           },
           {
-            "id": "b206598c-ff12-4bf9-9612-be6a9ba62cfe",
-            "clue": "Like text that's capable of being modified",
-            "answer": "editable",
-            "normalized": "editable"
+            "id": "6c072304-5cc9-41d3-9c99-944025e84124",
+            "clue": "Not in",
+            "answer": "out",
+            "normalized": "out"
           },
           {
-            "id": "9ad0c804-c6e5-446e-b914-02f9211e6799",
-            "clue": "Stepped back in horror",
-            "answer": "recoiled",
-            "normalized": "recoiled"
+            "id": "1227fa25-b011-43db-98bb-ebbf5a56d589",
+            "clue": "Dog sound",
+            "answer": "arf",
+            "normalized": "arf"
           },
           {
-            "id": "872ba640-3a19-4f21-bf7b-852f4e7ee4c1",
-            "clue": "Prefix to British ships that carry mail",
-            "answer": "rms",
-            "normalized": "rms"
+            "id": "e114b02b-4888-4f25-90ab-59d0f4fa87a6",
+            "clue": "Keanu Reeves' part in The Matrix",
+            "answer": "neo",
+            "normalized": "neo"
           },
           {
-            "id": "40c4c92a-3f4c-4c33-b7aa-5a60c3eb9756",
-            "clue": "Money used in China, equal to 10 jiao",
-            "answer": "yuan",
-            "normalized": "yuan"
+            "id": "d2e2f5a0-3d9e-4ccd-a98f-924bf66404bf",
+            "clue": "Foot digit",
+            "answer": "toe",
+            "normalized": "toe"
           },
           {
-            "id": "ba307725-095d-4906-b14f-733724f83338",
-            "clue": "Chemical formula for sodium bromide",
-            "answer": "nabr",
-            "normalized": "nabr"
-          },
-          {
-            "id": "e4664179-2060-45b9-ab42-5cdb1ea42b54",
-            "clue": "No longer alive",
-            "answer": "dead",
-            "normalized": "dead"
-          },
-          {
-            "id": "7160cfd8-35a6-4060-a641-4f0cf656efaf",
-            "clue": "US pharmacy chain with red heart logo",
-            "answer": "cvs",
-            "normalized": "cvs"
-          },
-          {
-            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
-            "clue": "Interest rate across a whole year",
-            "answer": "apr",
-            "normalized": "apr"
+            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+            "clue": "Finale",
+            "answer": "end",
+            "normalized": "end"
           }
         ],
-        "track": "PC|LenC--Y2026M6D14F1"
+        "track": "PC|LenC--Y2026M6D15F1"
       }
     },
     "latestAvailableEntry": {
@@ -422127,7 +422091,7 @@
           },
           {
             "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-            "clue": "Three letters that mean chief strategy officer",
+            "clue": "Corporate executive for sustainability, abbr.",
             "answer": "cso",
             "normalized": "cso"
           },
@@ -422150,21 +422114,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "syz+9tYE8rHUmN4Ci6kxGWmnf1HIKVjBls9nVXrF0RjOAU0FSkCEJOxE27TvJTS/PnISu6VdbiR+DY5rXWztfFbtSOgSDM1+8Rd9KMBSTC9wZak+9d87fGh2s0HtduDU6RC4hDfAh0MgHlAUvVCVQePhvXpm9Zo3mMo2lpzjL4LpVgFz0uNjSNgqH5mFvwUSzFc1RIWwJZB7lhCq+f7vl450pYpd95CwtCZfIr45R/sZgYOf3WWCz9mBd2RoHjA3FushuMAJjeQHzgkmOzOJsCFNr8K1xD1bZtADJHhS4sk="
+        "HMRWSXmK5P43qxlTF7p55si6Q36XJmfoP1H9kaVI7MZ4PjSlio8pttZMgPgLxLwkcaN9+ts+Z3YwuRUaAMbzExtVabEVmVwuYNQhrqcFSZkPehbJpuUNRQhM97DhgEbbRuDOb4N+SvlyGHL3z/1IcYAIyIMPax4iMZ0xpmojy+WnUhsUHdjByI9UqDag2w9VrJK/x5fR2HolEsUIkGQq0SodvJBan4l5PfaV5TYiW/h4F+aPwX/cFyNMwbsY7JR88THvRzcDgSkuJNukzq+228XIDS1adJAVlPHAjPRnnZ8="
       ]
     },
     "decrypted": {
-      "Id": "9d8f0d26-fcb5-4fb5-8406-f736c8fff61b",
-      "Date": "2026-06-14T00:00:00Z",
+      "Id": "78afef9c-3487-4b35-9a52-5f00b9a27ddb",
+      "Date": "2026-06-15T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "shove",
-      "NormalizedPassword": "shove",
+      "Password": "shift",
+      "NormalizedPassword": "shift",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-14T01:29:30.1850000+05:30",
-    "hash": "2ff2ad68a932603ef9c8c5e067fd9bd6",
+    "dtu": "2026-06-15T01:33:58.8820000+05:30",
+    "hash": "ecf86eab77dd271dddcc1a11e7de371d",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
