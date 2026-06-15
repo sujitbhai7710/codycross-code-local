@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-14T20:03:58.882Z",
+  "generatedAt": "2026-06-15T21:29:19.976Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 15
+    "day": 16
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 26
+        "QuantidadeDeFases": 28
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -897,7 +897,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -4255,7 +4255,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -12454,7 +12454,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -12572,7 +12572,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -23688,7 +23688,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -25956,7 +25956,7 @@
           "answers": [
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -26982,7 +26982,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -28986,7 +28986,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -30803,7 +30803,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -39161,7 +39161,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -43503,7 +43503,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -47810,7 +47810,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             }
@@ -50738,7 +50738,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -58400,7 +58400,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -70528,7 +70528,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -73240,7 +73240,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -79442,7 +79442,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -82272,7 +82272,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -84855,7 +84855,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -87725,7 +87725,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -91637,7 +91637,7 @@
           "answers": [
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -96423,7 +96423,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -101046,7 +101046,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -102502,7 +102502,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             }
@@ -105848,7 +105848,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -112910,7 +112910,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -115721,7 +115721,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -116883,7 +116883,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -118071,7 +118071,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -122440,7 +122440,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -122564,7 +122564,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -125370,7 +125370,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -128331,7 +128331,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -128443,7 +128443,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -133837,7 +133837,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -137722,7 +137722,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -142594,7 +142594,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -145990,7 +145990,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -148831,7 +148831,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -149569,7 +149569,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -167295,7 +167295,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -168339,7 +168339,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Abbreviation for selective service system",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -173728,7 +173728,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             }
@@ -178269,7 +178269,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -188358,7 +188358,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -191548,7 +191548,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -198240,7 +198240,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             }
@@ -200374,7 +200374,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -205030,7 +205030,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -212316,7 +212316,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -215369,7 +215369,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -219379,7 +219379,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             }
@@ -224233,7 +224233,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -228667,7 +228667,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -228851,7 +228851,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -229005,7 +229005,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -235735,7 +235735,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -240180,7 +240180,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -242572,7 +242572,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -248190,7 +248190,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -251272,7 +251272,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -254642,7 +254642,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -257438,7 +257438,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -260445,7 +260445,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -262358,7 +262358,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -274713,7 +274713,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -278451,7 +278451,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -284752,7 +284752,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -286164,7 +286164,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -288711,7 +288711,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             }
@@ -297807,7 +297807,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -306661,7 +306661,7 @@
             },
             {
               "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
-              "clue": "Selective Service System, initials",
+              "clue": "Philippine agency for Social Security",
               "answer": "sss",
               "normalized": "sss"
             },
@@ -309435,7 +309435,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -321990,7 +321990,7 @@
             },
             {
               "id": "d314dde4-8423-4788-8ac7-837a6110f582",
-              "clue": "Autonomic nervous system",
+              "clue": "Common abbreviation for \"answer\"",
               "answer": "ans",
               "normalized": "ans"
             },
@@ -421410,475 +421410,379 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-15",
+      "key": "2026-06-16",
       "year": 2026,
       "month": 6,
-      "day": 15,
+      "day": 16,
       "small": {
-        "puzzleId": "aa4d46fb-f849-4378-872a-05b41ec34322",
+        "puzzleId": "aedeeb3e-e114-4ef4-a1bd-928a3c7eff58",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 6,
-        "answers": [
-          {
-            "id": "cd93dcdc-ea0e-43e7-b398-cfefa821999d",
-            "clue": "__ one's nose with a finger to clean it",
-            "answer": "pick",
-            "normalized": "pick"
-          },
-          {
-            "id": "e5e0029b-f0fd-41ea-bac0-bc587224b9c8",
-            "clue": "A light wind",
-            "answer": "breeze",
-            "normalized": "breeze"
-          },
-          {
-            "id": "9b59e2b7-992a-4bf9-9286-58c31ff52994",
-            "clue": "French cosmetics brand behind the Elvive range",
-            "answer": "loreal",
-            "normalized": "loreal"
-          },
-          {
-            "id": "b317548f-9fc9-4582-95be-8db8376e10d5",
-            "clue": "State categorically; affirm as true",
-            "answer": "assert",
-            "normalized": "assert"
-          },
-          {
-            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
-            "clue": "Say this twice for a laughter sound",
-            "answer": "hee",
-            "normalized": "hee"
-          },
-          {
-            "id": "172f25d8-f9f4-4667-bdf0-43a4e7fcd8eb",
-            "clue": "Intrinsically",
-            "answer": "per se",
-            "normalized": "perse"
-          },
-          {
-            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
-            "clue": "Largest association for the technical professions",
-            "answer": "ieee",
-            "normalized": "ieee"
-          },
-          {
-            "id": "83bd1d67-6b7f-4302-8ed9-807824920b53",
-            "clue": "Russian royal",
-            "answer": "czar",
-            "normalized": "czar"
-          },
-          {
-            "id": "61e9579e-a46a-4e33-9aec-bfd2833a7216",
-            "clue": "Salmon that has spawned but hasn't returned to sea",
-            "answer": "kelt",
-            "normalized": "kelt"
-          },
-          {
-            "id": "4ea3983f-3f7e-42f8-b520-cbe5e14a3f91",
-            "clue": "Meaningless word indicating boredom with the topic",
-            "answer": "blah",
-            "normalized": "blah"
-          },
-          {
-            "id": "3879fedc-1579-4b40-8829-04782ec5bbe9",
-            "clue": "A flower that has thorns on the stem",
-            "answer": "rose",
-            "normalized": "rose"
-          }
-        ],
-        "track": "PC|LenC--Y2026M6D15F0"
-      },
-      "mid": {
-        "puzzleId": "ad0ee4a7-e0bd-408e-a7a3-6140d68b6ef6",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "60fd0e78-8780-4596-95e4-bcd006149861",
-            "clue": "Rogers who divorced Tom Cruise",
-            "answer": "mimi",
-            "normalized": "mimi"
+            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
+            "clue": "Possessive determiner, no apostrophe",
+            "answer": "its",
+            "normalized": "its"
           },
           {
-            "id": "dc0ccb8f-e7d6-4404-9df6-dc0dc114916b",
-            "clue": "Domesticated animal, not wild",
-            "answer": "tame",
-            "normalized": "tame"
+            "id": "6d7a994f-2b60-4eae-ba3c-b49099d79405",
+            "clue": "Tidy, orderly",
+            "answer": "neat",
+            "normalized": "neat"
           },
           {
-            "id": "7a3894bb-ceb6-41c6-9662-b95f446ef630",
-            "clue": "Cliff, ridge",
-            "answer": "crag",
-            "normalized": "crag"
+            "id": "6438b8f1-ea52-4799-b7fb-91214379b420",
+            "clue": "Gushing water at Victoria or Niagara",
+            "answer": "falls",
+            "normalized": "falls"
           },
           {
-            "id": "b2955156-95f6-496d-a390-3c5703d74731",
-            "clue": "Once more as if for the first time, a fresh go",
-            "answer": "anew",
-            "normalized": "anew"
+            "id": "ed44499c-febc-4e05-8aa6-11c4f4a33e92",
+            "clue": "Vein of metal ore",
+            "answer": "lode",
+            "normalized": "lode"
           },
           {
-            "id": "ec4d98bd-f8da-4a10-89db-1154aad1392c",
-            "clue": "Mix between a schnauzer and poodle",
-            "answer": "schnoodle",
-            "normalized": "schnoodle"
+            "id": "aaade41d-ddf2-4122-970f-64728ccd16e0",
+            "clue": "Abbreviation for the Nuclear Regulatory Commission",
+            "answer": "nrc",
+            "normalized": "nrc"
           },
           {
-            "id": "0778ba04-ee28-4687-b99e-dfaa100e4270",
-            "clue": "Battle with lances on horseback",
-            "answer": "joust",
-            "normalized": "joust"
+            "id": "8a3778a9-8704-45f9-a48b-639d2e1af760",
+            "clue": "Previous name of World Netball, initialism",
+            "answer": "inf",
+            "normalized": "inf"
           },
           {
-            "id": "5991691b-798e-4916-b7d1-46fc633a8ed8",
-            "clue": "Feldspar mineral abundant on the Moon's surface",
-            "answer": "anorthite",
-            "normalized": "anorthite"
+            "id": "37f86285-02a0-41bc-9558-50131203b7c3",
+            "clue": "Blue-green",
+            "answer": "teal",
+            "normalized": "teal"
           },
           {
-            "id": "ca4fe0ea-6b24-4a19-8b59-c150e6328179",
-            "clue": "Descartes the philosopher",
-            "answer": "rene",
-            "normalized": "rene"
+            "id": "068ea246-fc14-4a08-a98c-903e7f2c1ed4",
+            "clue": "Place people go to get their hair styled, hair __",
+            "answer": "salon",
+            "normalized": "salon"
           },
           {
-            "id": "50c5cd89-93b4-43cd-811c-4a1d8f86539c",
-            "clue": "Thick and chewy Japanese noodles",
-            "answer": "udon",
-            "normalized": "udon"
+            "id": "de9fe464-b904-4b59-9dee-1748f5a9f32d",
+            "clue": "Too long, didn't read",
+            "answer": "tldr",
+            "normalized": "tldr"
           },
           {
-            "id": "f0ffabd9-7ed9-403f-b030-3fd703f464a3",
-            "clue": "Mists",
-            "answer": "fogs",
-            "normalized": "fogs"
-          },
-          {
-            "id": "46a177f4-81d8-4796-8abe-19c2b75a06eb",
-            "clue": "Archaic word for a deserved reward",
-            "answer": "meed",
-            "normalized": "meed"
-          },
-          {
-            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
-            "clue": "Masters of ceremonies, in short",
-            "answer": "mcs",
-            "normalized": "mcs"
-          },
-          {
-            "id": "06770cd5-b7c9-43f0-8511-fe0f7559a9ff",
-            "clue": "International Rescue Committee, initialism",
-            "answer": "irc",
-            "normalized": "irc"
-          },
-          {
-            "id": "474bbc58-95f9-4708-be36-c42a0d2fce63",
-            "clue": "Chinese dominoes, only more complex",
-            "answer": "mahjong",
-            "normalized": "mahjong"
-          },
-          {
-            "id": "522efcef-ba1d-4f58-80a9-cc0a85b64d6f",
-            "clue": "Pays no attention to",
-            "answer": "ignores",
-            "normalized": "ignores"
-          },
-          {
-            "id": "13bc9178-56f5-4b92-90e1-16c4957063b1",
-            "clue": "Mysterious buzzing sound heard in New Mexican town",
-            "answer": "taos hum",
-            "normalized": "taoshum"
-          },
-          {
-            "id": "67a289d5-8380-468a-946e-4678d4efebba",
-            "clue": "Time __ wait for no man",
-            "answer": "and tide",
-            "normalized": "andtide"
-          },
-          {
-            "id": "a425e01f-7092-4049-b28b-22e1c21ce160",
-            "clue": "First name of two Spice Girls",
-            "answer": "mel",
-            "normalized": "mel"
-          },
-          {
-            "id": "b6d1bf62-e959-4390-ad66-13dbb9e5d0f1",
-            "clue": "Female sheep",
-            "answer": "ewe",
-            "normalized": "ewe"
-          },
-          {
-            "id": "6c072304-5cc9-41d3-9c99-944025e84124",
-            "clue": "Not in",
-            "answer": "out",
-            "normalized": "out"
-          },
-          {
-            "id": "1227fa25-b011-43db-98bb-ebbf5a56d589",
-            "clue": "Dog sound",
-            "answer": "arf",
-            "normalized": "arf"
-          },
-          {
-            "id": "e114b02b-4888-4f25-90ab-59d0f4fa87a6",
-            "clue": "Keanu Reeves' part in The Matrix",
-            "answer": "neo",
-            "normalized": "neo"
-          },
-          {
-            "id": "d2e2f5a0-3d9e-4ccd-a98f-924bf66404bf",
-            "clue": "Foot digit",
-            "answer": "toe",
-            "normalized": "toe"
-          },
-          {
-            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
-            "clue": "Finale",
-            "answer": "end",
-            "normalized": "end"
+            "id": "c6bd775b-591f-4a0b-b52e-eb978f9dbf9d",
+            "clue": "A sixtieth of a min",
+            "answer": "sec",
+            "normalized": "sec"
           }
         ],
-        "track": "PC|LenC--Y2026M6D15F1"
+        "track": "PC|LenC--Y2026M6D16F0"
+      },
+      "mid": {
+        "puzzleId": "b8c5fc63-e28a-4479-af19-6d5ba3825902",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 7,
+        "answers": [
+          {
+            "id": "1ef265b1-1b01-49af-ae5f-f95c929ead6b",
+            "clue": "Bank machine for getting cash out of the wall",
+            "answer": "atm",
+            "normalized": "atm"
+          },
+          {
+            "id": "139f9002-ee4a-4f17-a50f-99ad7131fa81",
+            "clue": "Slime, ooze",
+            "answer": "goo",
+            "normalized": "goo"
+          },
+          {
+            "id": "79500760-c2d8-4abb-90f3-87ce10ff4918",
+            "clue": "Expected at a certain time",
+            "answer": "due",
+            "normalized": "due"
+          },
+          {
+            "id": "56a415c7-a809-4b62-b688-8f6e6c8937cc",
+            "clue": "Expert in tree and shrub care and maintenance",
+            "answer": "arborist",
+            "normalized": "arborist"
+          },
+          {
+            "id": "ca803bdb-f6fc-451b-baa7-a430dc7ef6e9",
+            "clue": "Most windy",
+            "answer": "blowiest",
+            "normalized": "blowiest"
+          },
+          {
+            "id": "f3852d32-9107-4ff0-9a50-fbc991876dc7",
+            "clue": "Used to summon maids or butlers",
+            "answer": "bellpull",
+            "normalized": "bellpull"
+          },
+          {
+            "id": "6867bc87-04bd-4297-862b-dc1b478d2aa6",
+            "clue": "__ de toilette, lightly scented cologne",
+            "answer": "eau",
+            "normalized": "eau"
+          },
+          {
+            "id": "004eb133-86da-4aa8-96f5-3ba8ddf1fd8c",
+            "clue": "Use one's eyes",
+            "answer": "see",
+            "normalized": "see"
+          },
+          {
+            "id": "2a948e34-7b43-4838-95ac-822b528ae2aa",
+            "clue": "Domain name system",
+            "answer": "dns",
+            "normalized": "dns"
+          },
+          {
+            "id": "39a08859-e9e7-4b39-a30a-2d161139f02b",
+            "clue": "French goodbyes in a final and anglicized sense",
+            "answer": "adieus",
+            "normalized": "adieus"
+          },
+          {
+            "id": "31e3b864-bace-47be-994a-61b79b382a6b",
+            "clue": "Struggle, brawl",
+            "answer": "tussle",
+            "normalized": "tussle"
+          },
+          {
+            "id": "477fb6db-1e28-49cf-b4b3-f29894c0193c",
+            "clue": "Spirit, strength of character",
+            "answer": "mettle",
+            "normalized": "mettle"
+          },
+          {
+            "id": "0e413ee2-18ff-42ee-976e-f0eb72088ed3",
+            "clue": "Yammered on and on",
+            "answer": "gabbed",
+            "normalized": "gabbed"
+          },
+          {
+            "id": "5d5aaa51-82ed-43fc-9d85-70da53e0d07c",
+            "clue": "Susan __, author of Orchid Thief",
+            "answer": "orlean",
+            "normalized": "orlean"
+          },
+          {
+            "id": "fc39ddeb-88a2-4d96-9f60-0247647bc451",
+            "clue": "Form of ancient Greek currency and weight",
+            "answer": "obolus",
+            "normalized": "obolus"
+          },
+          {
+            "id": "95f2a1c8-5072-4392-aa87-a83c8e89f66e",
+            "clue": "Wise bird that can rotate its head 270 degrees",
+            "answer": "owl",
+            "normalized": "owl"
+          },
+          {
+            "id": "c16f930c-8c19-4389-bce6-e946a1add10f",
+            "clue": "Initials commonly found on gravestones",
+            "answer": "rip",
+            "normalized": "rip"
+          }
+        ],
+        "track": "PC|LenC--Y2026M6D16F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-15",
+      "key": "2026-06-16",
       "year": 2026,
       "month": 6,
-      "day": 15,
+      "day": 16,
       "small": {
-        "puzzleId": "aa4d46fb-f849-4378-872a-05b41ec34322",
+        "puzzleId": "aedeeb3e-e114-4ef4-a1bd-928a3c7eff58",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 6,
-        "answers": [
-          {
-            "id": "cd93dcdc-ea0e-43e7-b398-cfefa821999d",
-            "clue": "__ one's nose with a finger to clean it",
-            "answer": "pick",
-            "normalized": "pick"
-          },
-          {
-            "id": "e5e0029b-f0fd-41ea-bac0-bc587224b9c8",
-            "clue": "A light wind",
-            "answer": "breeze",
-            "normalized": "breeze"
-          },
-          {
-            "id": "9b59e2b7-992a-4bf9-9286-58c31ff52994",
-            "clue": "French cosmetics brand behind the Elvive range",
-            "answer": "loreal",
-            "normalized": "loreal"
-          },
-          {
-            "id": "b317548f-9fc9-4582-95be-8db8376e10d5",
-            "clue": "State categorically; affirm as true",
-            "answer": "assert",
-            "normalized": "assert"
-          },
-          {
-            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
-            "clue": "Say this twice for a laughter sound",
-            "answer": "hee",
-            "normalized": "hee"
-          },
-          {
-            "id": "172f25d8-f9f4-4667-bdf0-43a4e7fcd8eb",
-            "clue": "Intrinsically",
-            "answer": "per se",
-            "normalized": "perse"
-          },
-          {
-            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
-            "clue": "Largest association for the technical professions",
-            "answer": "ieee",
-            "normalized": "ieee"
-          },
-          {
-            "id": "83bd1d67-6b7f-4302-8ed9-807824920b53",
-            "clue": "Russian royal",
-            "answer": "czar",
-            "normalized": "czar"
-          },
-          {
-            "id": "61e9579e-a46a-4e33-9aec-bfd2833a7216",
-            "clue": "Salmon that has spawned but hasn't returned to sea",
-            "answer": "kelt",
-            "normalized": "kelt"
-          },
-          {
-            "id": "4ea3983f-3f7e-42f8-b520-cbe5e14a3f91",
-            "clue": "Meaningless word indicating boredom with the topic",
-            "answer": "blah",
-            "normalized": "blah"
-          },
-          {
-            "id": "3879fedc-1579-4b40-8829-04782ec5bbe9",
-            "clue": "A flower that has thorns on the stem",
-            "answer": "rose",
-            "normalized": "rose"
-          }
-        ],
-        "track": "PC|LenC--Y2026M6D15F0"
-      },
-      "mid": {
-        "puzzleId": "ad0ee4a7-e0bd-408e-a7a3-6140d68b6ef6",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "60fd0e78-8780-4596-95e4-bcd006149861",
-            "clue": "Rogers who divorced Tom Cruise",
-            "answer": "mimi",
-            "normalized": "mimi"
+            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
+            "clue": "Possessive determiner, no apostrophe",
+            "answer": "its",
+            "normalized": "its"
           },
           {
-            "id": "dc0ccb8f-e7d6-4404-9df6-dc0dc114916b",
-            "clue": "Domesticated animal, not wild",
-            "answer": "tame",
-            "normalized": "tame"
+            "id": "6d7a994f-2b60-4eae-ba3c-b49099d79405",
+            "clue": "Tidy, orderly",
+            "answer": "neat",
+            "normalized": "neat"
           },
           {
-            "id": "7a3894bb-ceb6-41c6-9662-b95f446ef630",
-            "clue": "Cliff, ridge",
-            "answer": "crag",
-            "normalized": "crag"
+            "id": "6438b8f1-ea52-4799-b7fb-91214379b420",
+            "clue": "Gushing water at Victoria or Niagara",
+            "answer": "falls",
+            "normalized": "falls"
           },
           {
-            "id": "b2955156-95f6-496d-a390-3c5703d74731",
-            "clue": "Once more as if for the first time, a fresh go",
-            "answer": "anew",
-            "normalized": "anew"
+            "id": "ed44499c-febc-4e05-8aa6-11c4f4a33e92",
+            "clue": "Vein of metal ore",
+            "answer": "lode",
+            "normalized": "lode"
           },
           {
-            "id": "ec4d98bd-f8da-4a10-89db-1154aad1392c",
-            "clue": "Mix between a schnauzer and poodle",
-            "answer": "schnoodle",
-            "normalized": "schnoodle"
+            "id": "aaade41d-ddf2-4122-970f-64728ccd16e0",
+            "clue": "Abbreviation for the Nuclear Regulatory Commission",
+            "answer": "nrc",
+            "normalized": "nrc"
           },
           {
-            "id": "0778ba04-ee28-4687-b99e-dfaa100e4270",
-            "clue": "Battle with lances on horseback",
-            "answer": "joust",
-            "normalized": "joust"
+            "id": "8a3778a9-8704-45f9-a48b-639d2e1af760",
+            "clue": "Previous name of World Netball, initialism",
+            "answer": "inf",
+            "normalized": "inf"
           },
           {
-            "id": "5991691b-798e-4916-b7d1-46fc633a8ed8",
-            "clue": "Feldspar mineral abundant on the Moon's surface",
-            "answer": "anorthite",
-            "normalized": "anorthite"
+            "id": "37f86285-02a0-41bc-9558-50131203b7c3",
+            "clue": "Blue-green",
+            "answer": "teal",
+            "normalized": "teal"
           },
           {
-            "id": "ca4fe0ea-6b24-4a19-8b59-c150e6328179",
-            "clue": "Descartes the philosopher",
-            "answer": "rene",
-            "normalized": "rene"
+            "id": "068ea246-fc14-4a08-a98c-903e7f2c1ed4",
+            "clue": "Place people go to get their hair styled, hair __",
+            "answer": "salon",
+            "normalized": "salon"
           },
           {
-            "id": "50c5cd89-93b4-43cd-811c-4a1d8f86539c",
-            "clue": "Thick and chewy Japanese noodles",
-            "answer": "udon",
-            "normalized": "udon"
+            "id": "de9fe464-b904-4b59-9dee-1748f5a9f32d",
+            "clue": "Too long, didn't read",
+            "answer": "tldr",
+            "normalized": "tldr"
           },
           {
-            "id": "f0ffabd9-7ed9-403f-b030-3fd703f464a3",
-            "clue": "Mists",
-            "answer": "fogs",
-            "normalized": "fogs"
-          },
-          {
-            "id": "46a177f4-81d8-4796-8abe-19c2b75a06eb",
-            "clue": "Archaic word for a deserved reward",
-            "answer": "meed",
-            "normalized": "meed"
-          },
-          {
-            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
-            "clue": "Masters of ceremonies, in short",
-            "answer": "mcs",
-            "normalized": "mcs"
-          },
-          {
-            "id": "06770cd5-b7c9-43f0-8511-fe0f7559a9ff",
-            "clue": "International Rescue Committee, initialism",
-            "answer": "irc",
-            "normalized": "irc"
-          },
-          {
-            "id": "474bbc58-95f9-4708-be36-c42a0d2fce63",
-            "clue": "Chinese dominoes, only more complex",
-            "answer": "mahjong",
-            "normalized": "mahjong"
-          },
-          {
-            "id": "522efcef-ba1d-4f58-80a9-cc0a85b64d6f",
-            "clue": "Pays no attention to",
-            "answer": "ignores",
-            "normalized": "ignores"
-          },
-          {
-            "id": "13bc9178-56f5-4b92-90e1-16c4957063b1",
-            "clue": "Mysterious buzzing sound heard in New Mexican town",
-            "answer": "taos hum",
-            "normalized": "taoshum"
-          },
-          {
-            "id": "67a289d5-8380-468a-946e-4678d4efebba",
-            "clue": "Time __ wait for no man",
-            "answer": "and tide",
-            "normalized": "andtide"
-          },
-          {
-            "id": "a425e01f-7092-4049-b28b-22e1c21ce160",
-            "clue": "First name of two Spice Girls",
-            "answer": "mel",
-            "normalized": "mel"
-          },
-          {
-            "id": "b6d1bf62-e959-4390-ad66-13dbb9e5d0f1",
-            "clue": "Female sheep",
-            "answer": "ewe",
-            "normalized": "ewe"
-          },
-          {
-            "id": "6c072304-5cc9-41d3-9c99-944025e84124",
-            "clue": "Not in",
-            "answer": "out",
-            "normalized": "out"
-          },
-          {
-            "id": "1227fa25-b011-43db-98bb-ebbf5a56d589",
-            "clue": "Dog sound",
-            "answer": "arf",
-            "normalized": "arf"
-          },
-          {
-            "id": "e114b02b-4888-4f25-90ab-59d0f4fa87a6",
-            "clue": "Keanu Reeves' part in The Matrix",
-            "answer": "neo",
-            "normalized": "neo"
-          },
-          {
-            "id": "d2e2f5a0-3d9e-4ccd-a98f-924bf66404bf",
-            "clue": "Foot digit",
-            "answer": "toe",
-            "normalized": "toe"
-          },
-          {
-            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
-            "clue": "Finale",
-            "answer": "end",
-            "normalized": "end"
+            "id": "c6bd775b-591f-4a0b-b52e-eb978f9dbf9d",
+            "clue": "A sixtieth of a min",
+            "answer": "sec",
+            "normalized": "sec"
           }
         ],
-        "track": "PC|LenC--Y2026M6D15F1"
+        "track": "PC|LenC--Y2026M6D16F0"
+      },
+      "mid": {
+        "puzzleId": "b8c5fc63-e28a-4479-af19-6d5ba3825902",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 7,
+        "answers": [
+          {
+            "id": "1ef265b1-1b01-49af-ae5f-f95c929ead6b",
+            "clue": "Bank machine for getting cash out of the wall",
+            "answer": "atm",
+            "normalized": "atm"
+          },
+          {
+            "id": "139f9002-ee4a-4f17-a50f-99ad7131fa81",
+            "clue": "Slime, ooze",
+            "answer": "goo",
+            "normalized": "goo"
+          },
+          {
+            "id": "79500760-c2d8-4abb-90f3-87ce10ff4918",
+            "clue": "Expected at a certain time",
+            "answer": "due",
+            "normalized": "due"
+          },
+          {
+            "id": "56a415c7-a809-4b62-b688-8f6e6c8937cc",
+            "clue": "Expert in tree and shrub care and maintenance",
+            "answer": "arborist",
+            "normalized": "arborist"
+          },
+          {
+            "id": "ca803bdb-f6fc-451b-baa7-a430dc7ef6e9",
+            "clue": "Most windy",
+            "answer": "blowiest",
+            "normalized": "blowiest"
+          },
+          {
+            "id": "f3852d32-9107-4ff0-9a50-fbc991876dc7",
+            "clue": "Used to summon maids or butlers",
+            "answer": "bellpull",
+            "normalized": "bellpull"
+          },
+          {
+            "id": "6867bc87-04bd-4297-862b-dc1b478d2aa6",
+            "clue": "__ de toilette, lightly scented cologne",
+            "answer": "eau",
+            "normalized": "eau"
+          },
+          {
+            "id": "004eb133-86da-4aa8-96f5-3ba8ddf1fd8c",
+            "clue": "Use one's eyes",
+            "answer": "see",
+            "normalized": "see"
+          },
+          {
+            "id": "2a948e34-7b43-4838-95ac-822b528ae2aa",
+            "clue": "Domain name system",
+            "answer": "dns",
+            "normalized": "dns"
+          },
+          {
+            "id": "39a08859-e9e7-4b39-a30a-2d161139f02b",
+            "clue": "French goodbyes in a final and anglicized sense",
+            "answer": "adieus",
+            "normalized": "adieus"
+          },
+          {
+            "id": "31e3b864-bace-47be-994a-61b79b382a6b",
+            "clue": "Struggle, brawl",
+            "answer": "tussle",
+            "normalized": "tussle"
+          },
+          {
+            "id": "477fb6db-1e28-49cf-b4b3-f29894c0193c",
+            "clue": "Spirit, strength of character",
+            "answer": "mettle",
+            "normalized": "mettle"
+          },
+          {
+            "id": "0e413ee2-18ff-42ee-976e-f0eb72088ed3",
+            "clue": "Yammered on and on",
+            "answer": "gabbed",
+            "normalized": "gabbed"
+          },
+          {
+            "id": "5d5aaa51-82ed-43fc-9d85-70da53e0d07c",
+            "clue": "Susan __, author of Orchid Thief",
+            "answer": "orlean",
+            "normalized": "orlean"
+          },
+          {
+            "id": "fc39ddeb-88a2-4d96-9f60-0247647bc451",
+            "clue": "Form of ancient Greek currency and weight",
+            "answer": "obolus",
+            "normalized": "obolus"
+          },
+          {
+            "id": "95f2a1c8-5072-4392-aa87-a83c8e89f66e",
+            "clue": "Wise bird that can rotate its head 270 degrees",
+            "answer": "owl",
+            "normalized": "owl"
+          },
+          {
+            "id": "c16f930c-8c19-4389-bce6-e946a1add10f",
+            "clue": "Initials commonly found on gravestones",
+            "answer": "rip",
+            "normalized": "rip"
+          }
+        ],
+        "track": "PC|LenC--Y2026M6D16F1"
       }
     },
     "latestAvailableEntry": {
@@ -422114,21 +422018,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "HMRWSXmK5P43qxlTF7p55si6Q36XJmfoP1H9kaVI7MZ4PjSlio8pttZMgPgLxLwkcaN9+ts+Z3YwuRUaAMbzExtVabEVmVwuYNQhrqcFSZkPehbJpuUNRQhM97DhgEbbRuDOb4N+SvlyGHL3z/1IcYAIyIMPax4iMZ0xpmojy+WnUhsUHdjByI9UqDag2w9VrJK/x5fR2HolEsUIkGQq0SodvJBan4l5PfaV5TYiW/h4F+aPwX/cFyNMwbsY7JR88THvRzcDgSkuJNukzq+228XIDS1adJAVlPHAjPRnnZ8="
+        "pQqwwg+wfaP8u1GCXh/kSR5o9q5ealjcUFCfnDEAntDvFe2rE1u9/OrDcXOtAdQkcryq7/gkDMyugHQbUPsXErFa8OwAzSPyW1X+IjrWB9kNqIGhQsYd6IFhh2WNC1y1QC2SIW3sqNshG/pZEYU7/WtpBZbVLadmHaFngQpIvcuKtpjMwI5VkRnWZ/FECDlAkHDGBuBc0g4A2nUapP3RkKuDH5jgqzj+1FPmuwQ189ILNbW8NRaCwNjyyvgUd74zEe4HR/8FZ/RgxzHYo2XSm4QQyStbTNmEKyGLDdUcx0Y="
       ]
     },
     "decrypted": {
-      "Id": "78afef9c-3487-4b35-9a52-5f00b9a27ddb",
-      "Date": "2026-06-15T00:00:00Z",
+      "Id": "cc2342f4-062b-47f5-a887-b8f8a6d23ba2",
+      "Date": "2026-06-16T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "shift",
-      "NormalizedPassword": "shift",
+      "Password": "robot",
+      "NormalizedPassword": "robot",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-15T01:33:58.8820000+05:30",
-    "hash": "ecf86eab77dd271dddcc1a11e7de371d",
+    "dtu": "2026-06-16T02:59:19.9760000+05:30",
+    "hash": "8fdb55c6e26130f04c01c1994cbe3e7a",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
