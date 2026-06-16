@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-15T21:29:19.976Z",
+  "generatedAt": "2026-06-16T21:23:42.790Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 16
+    "day": 17
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 28
+        "QuantidadeDeFases": 30
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -312224,7 +312224,7 @@
             },
             {
               "id": "fd64d569-daec-4376-b4fd-333daf2b8e2a",
-              "clue": "Two separate parts, but not the kind that fights",
+              "clue": "Having two distinct aspects",
               "answer": "dual",
               "normalized": "dual"
             },
@@ -342986,7 +342986,7 @@
             },
             {
               "id": "fd64d569-daec-4376-b4fd-333daf2b8e2a",
-              "clue": "Two separate parts, but not the kind that fights",
+              "clue": "Having two distinct aspects",
               "answer": "dual",
               "normalized": "dual"
             },
@@ -412213,7 +412213,7 @@
             },
             {
               "id": "3c61662b-ecb7-43cf-a09d-54594017e153",
-              "clue": "Deoxyribonucleic Acid",
+              "clue": "Short for Deoxyribonucleic Acid",
               "answer": "dna",
               "normalized": "dna"
             },
@@ -421410,379 +421410,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-16",
+      "key": "2026-06-17",
       "year": 2026,
       "month": 6,
-      "day": 16,
+      "day": 17,
       "small": {
-        "puzzleId": "aedeeb3e-e114-4ef4-a1bd-928a3c7eff58",
+        "puzzleId": "22d424b1-a680-451c-9ec7-bf9d5f2b08ab",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
-            "clue": "Possessive determiner, no apostrophe",
-            "answer": "its",
-            "normalized": "its"
+            "id": "54f1f45a-f7fe-42e7-b664-16e8da97d014",
+            "clue": "Code for Amsterdam Airport Schiphol",
+            "answer": "ams",
+            "normalized": "ams"
           },
           {
-            "id": "6d7a994f-2b60-4eae-ba3c-b49099d79405",
-            "clue": "Tidy, orderly",
-            "answer": "neat",
-            "normalized": "neat"
+            "id": "e237840d-e548-42c3-93c8-ca996a66ab04",
+            "clue": "Quick Draw __ was a gunslinging cartoon in 1959",
+            "answer": "mcgraw",
+            "normalized": "mcgraw"
           },
           {
-            "id": "6438b8f1-ea52-4799-b7fb-91214379b420",
-            "clue": "Gushing water at Victoria or Niagara",
-            "answer": "falls",
-            "normalized": "falls"
+            "id": "29e2ec1b-18af-456a-8dce-2a913b123901",
+            "clue": "It means \"female student\" in Spanish",
+            "answer": "alumna",
+            "normalized": "alumna"
           },
           {
-            "id": "ed44499c-febc-4e05-8aa6-11c4f4a33e92",
-            "clue": "Vein of metal ore",
-            "answer": "lode",
-            "normalized": "lode"
+            "id": "c1af76cd-bb1e-47de-b17c-f4b2f3a7dde9",
+            "clue": "Angela Martin on The Office, Angela __",
+            "answer": "kinsey",
+            "normalized": "kinsey"
           },
           {
-            "id": "aaade41d-ddf2-4122-970f-64728ccd16e0",
-            "clue": "Abbreviation for the Nuclear Regulatory Commission",
-            "answer": "nrc",
-            "normalized": "nrc"
+            "id": "7470e5f9-590c-4745-905f-4b522e94d20a",
+            "clue": "German masculine indefinite article",
+            "answer": "ein",
+            "normalized": "ein"
           },
           {
-            "id": "8a3778a9-8704-45f9-a48b-639d2e1af760",
-            "clue": "Previous name of World Netball, initialism",
-            "answer": "inf",
-            "normalized": "inf"
+            "id": "8035c376-9852-44d4-a858-c70add23f2c6",
+            "clue": "Upper limbs",
+            "answer": "arms",
+            "normalized": "arms"
           },
           {
-            "id": "37f86285-02a0-41bc-9558-50131203b7c3",
-            "clue": "Blue-green",
-            "answer": "teal",
-            "normalized": "teal"
+            "id": "84e3fc3d-4d60-4414-b5a2-34ef0c0f02e6",
+            "clue": "Horse's neck hair",
+            "answer": "mane",
+            "normalized": "mane"
           },
           {
-            "id": "068ea246-fc14-4a08-a98c-903e7f2c1ed4",
-            "clue": "Place people go to get their hair styled, hair __",
-            "answer": "salon",
-            "normalized": "salon"
+            "id": "07bf437a-e81d-40d4-988c-def4f97154f1",
+            "clue": "Rock back and forth in the wind",
+            "answer": "sway",
+            "normalized": "sway"
           },
           {
-            "id": "de9fe464-b904-4b59-9dee-1748f5a9f32d",
-            "clue": "Too long, didn't read",
-            "answer": "tldr",
-            "normalized": "tldr"
+            "id": "6a3e3b04-550e-41b4-81b7-5dba3d764fa1",
+            "clue": "To construct or create something",
+            "answer": "make",
+            "normalized": "make"
           },
           {
-            "id": "c6bd775b-591f-4a0b-b52e-eb978f9dbf9d",
-            "clue": "A sixtieth of a min",
-            "answer": "sec",
-            "normalized": "sec"
+            "id": "d378c30c-6628-4bb1-b88a-5d4182b4c8a7",
+            "clue": "152 in Roman numerals",
+            "answer": "clii",
+            "normalized": "clii"
+          },
+          {
+            "id": "76a8f02e-31ab-42a9-9ca2-2a7afed1f46c",
+            "clue": "Crewman Ben, marooned on Treasure Island",
+            "answer": "gunn",
+            "normalized": "gunn"
           }
         ],
-        "track": "PC|LenC--Y2026M6D16F0"
+        "track": "PC|LenC--Y2026M6D17F0"
       },
       "mid": {
-        "puzzleId": "b8c5fc63-e28a-4479-af19-6d5ba3825902",
+        "puzzleId": "6b4f2c52-d0e8-414d-bf80-c1948d048afd",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 5,
         "answers": [
           {
-            "id": "1ef265b1-1b01-49af-ae5f-f95c929ead6b",
-            "clue": "Bank machine for getting cash out of the wall",
-            "answer": "atm",
-            "normalized": "atm"
+            "id": "531dad1b-4cf4-485e-8eea-bcd998b31dd0",
+            "clue": "Fluent but insincere and shallow",
+            "answer": "glib",
+            "normalized": "glib"
           },
           {
-            "id": "139f9002-ee4a-4f17-a50f-99ad7131fa81",
-            "clue": "Slime, ooze",
-            "answer": "goo",
-            "normalized": "goo"
+            "id": "a0507a0a-c069-4cef-a47c-f418003b392d",
+            "clue": "Piece of metal sometimes held in a horse's mouth",
+            "answer": "bit",
+            "normalized": "bit"
           },
           {
-            "id": "79500760-c2d8-4abb-90f3-87ce10ff4918",
-            "clue": "Expected at a certain time",
-            "answer": "due",
-            "normalized": "due"
+            "id": "945a24e8-ef97-498e-9bef-f320caec352d",
+            "clue": "Luxury Moray whisky brand with types 12 and 18",
+            "answer": "macallan",
+            "normalized": "macallan"
           },
           {
-            "id": "56a415c7-a809-4b62-b688-8f6e6c8937cc",
-            "clue": "Expert in tree and shrub care and maintenance",
-            "answer": "arborist",
-            "normalized": "arborist"
+            "id": "cc3251ee-1bf6-48c1-abac-272e01e0e098",
+            "clue": "The Fox and __, 1981 Disney film",
+            "answer": "the hound",
+            "normalized": "thehound"
           },
           {
-            "id": "ca803bdb-f6fc-451b-baa7-a430dc7ef6e9",
-            "clue": "Most windy",
-            "answer": "blowiest",
-            "normalized": "blowiest"
+            "id": "205915f1-736b-46da-b569-a90b5bdfdd94",
+            "clue": "Wild Carrot flower or Queen Anne's __",
+            "answer": "lace",
+            "normalized": "lace"
           },
           {
-            "id": "f3852d32-9107-4ff0-9a50-fbc991876dc7",
-            "clue": "Used to summon maids or butlers",
-            "answer": "bellpull",
-            "normalized": "bellpull"
+            "id": "f8243a29-f821-4d0b-9cff-78d6287990ae",
+            "clue": "__ personae, Latin phrase for cast of a play",
+            "answer": "dramatis",
+            "normalized": "dramatis"
           },
           {
-            "id": "6867bc87-04bd-4297-862b-dc1b478d2aa6",
-            "clue": "__ de toilette, lightly scented cologne",
-            "answer": "eau",
-            "normalized": "eau"
+            "id": "73318ed2-5380-46e1-a3c7-f06ec640e6cb",
+            "clue": "Writer who writes about the year's events",
+            "answer": "annalist",
+            "normalized": "annalist"
           },
           {
-            "id": "004eb133-86da-4aa8-96f5-3ba8ddf1fd8c",
-            "clue": "Use one's eyes",
-            "answer": "see",
-            "normalized": "see"
+            "id": "c80804f3-693a-4afa-b980-201402e23c19",
+            "clue": "Happy birthday, in short",
+            "answer": "hbd",
+            "normalized": "hbd"
           },
           {
-            "id": "2a948e34-7b43-4838-95ac-822b528ae2aa",
-            "clue": "Domain name system",
-            "answer": "dns",
-            "normalized": "dns"
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
           },
           {
-            "id": "39a08859-e9e7-4b39-a30a-2d161139f02b",
-            "clue": "French goodbyes in a final and anglicized sense",
-            "answer": "adieus",
-            "normalized": "adieus"
+            "id": "ef6194b3-a384-4db9-8591-42a53eab29da",
+            "clue": "Letters indicating time zone in London",
+            "answer": "gmt",
+            "normalized": "gmt"
           },
           {
-            "id": "31e3b864-bace-47be-994a-61b79b382a6b",
-            "clue": "Struggle, brawl",
-            "answer": "tussle",
-            "normalized": "tussle"
+            "id": "af5c92d6-3947-4c6d-9dcb-75b9d2467d06",
+            "clue": "Lithium aluminum hydride",
+            "answer": "lah",
+            "normalized": "lah"
           },
           {
-            "id": "477fb6db-1e28-49cf-b4b3-f29894c0193c",
-            "clue": "Spirit, strength of character",
-            "answer": "mettle",
-            "normalized": "mettle"
+            "id": "2f856dc6-8fc0-4fa2-a41b-3ce311bec8dd",
+            "clue": "Country where Mt. Kirkjufell is located",
+            "answer": "iceland",
+            "normalized": "iceland"
           },
           {
-            "id": "0e413ee2-18ff-42ee-976e-f0eb72088ed3",
-            "clue": "Yammered on and on",
-            "answer": "gabbed",
-            "normalized": "gabbed"
+            "id": "309e73da-7d13-4df3-a55f-e5b0a30a304a",
+            "clue": "Single island of a west Atlantic group",
+            "answer": "bahama",
+            "normalized": "bahama"
           },
           {
-            "id": "5d5aaa51-82ed-43fc-9d85-70da53e0d07c",
-            "clue": "Susan __, author of Orchid Thief",
-            "answer": "orlean",
-            "normalized": "orlean"
+            "id": "8eb8114d-59d9-4306-96eb-7d2d5d2b0367",
+            "clue": "Cerulean passerine bird",
+            "answer": "blue tit",
+            "normalized": "bluetit"
           },
           {
-            "id": "fc39ddeb-88a2-4d96-9f60-0247647bc451",
-            "clue": "Form of ancient Greek currency and weight",
-            "answer": "obolus",
-            "normalized": "obolus"
+            "id": "78dcead2-c942-4270-ab04-c5b2edf901e8",
+            "clue": "Fleming, who wrote the James Bond books",
+            "answer": "ian",
+            "normalized": "ian"
           },
           {
-            "id": "95f2a1c8-5072-4392-aa87-a83c8e89f66e",
-            "clue": "Wise bird that can rotate its head 270 degrees",
-            "answer": "owl",
-            "normalized": "owl"
+            "id": "511d80a8-e7aa-41f2-b3f4-4c0e80c09ec8",
+            "clue": "Currency code for the Tunisian dinar",
+            "answer": "tnd",
+            "normalized": "tnd"
           },
           {
-            "id": "c16f930c-8c19-4389-bce6-e946a1add10f",
-            "clue": "Initials commonly found on gravestones",
-            "answer": "rip",
-            "normalized": "rip"
+            "id": "99e84990-a994-464b-ad5d-01d37bbf17c5",
+            "clue": "Nearby area",
+            "answer": "locale",
+            "normalized": "locale"
+          },
+          {
+            "id": "f866dbaf-bfb4-4cac-9ad2-8add3986382a",
+            "clue": "Comes after Zip-a-Dee-Doo, in the song",
+            "answer": "dah",
+            "normalized": "dah"
+          },
+          {
+            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
+            "clue": "Popular music genre, mix of jazz, gospel, blues",
+            "answer": "rnb",
+            "normalized": "rnb"
+          },
+          {
+            "id": "48300a46-51e2-45e8-989b-d16087205fdc",
+            "clue": "Large artificial satellite",
+            "answer": "iss",
+            "normalized": "iss"
+          },
+          {
+            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
+            "clue": "A pigpen",
+            "answer": "sty",
+            "normalized": "sty"
           }
         ],
-        "track": "PC|LenC--Y2026M6D16F1"
+        "track": "PC|LenC--Y2026M6D17F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-16",
+      "key": "2026-06-17",
       "year": 2026,
       "month": 6,
-      "day": 16,
+      "day": 17,
       "small": {
-        "puzzleId": "aedeeb3e-e114-4ef4-a1bd-928a3c7eff58",
+        "puzzleId": "22d424b1-a680-451c-9ec7-bf9d5f2b08ab",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
-            "clue": "Possessive determiner, no apostrophe",
-            "answer": "its",
-            "normalized": "its"
+            "id": "54f1f45a-f7fe-42e7-b664-16e8da97d014",
+            "clue": "Code for Amsterdam Airport Schiphol",
+            "answer": "ams",
+            "normalized": "ams"
           },
           {
-            "id": "6d7a994f-2b60-4eae-ba3c-b49099d79405",
-            "clue": "Tidy, orderly",
-            "answer": "neat",
-            "normalized": "neat"
+            "id": "e237840d-e548-42c3-93c8-ca996a66ab04",
+            "clue": "Quick Draw __ was a gunslinging cartoon in 1959",
+            "answer": "mcgraw",
+            "normalized": "mcgraw"
           },
           {
-            "id": "6438b8f1-ea52-4799-b7fb-91214379b420",
-            "clue": "Gushing water at Victoria or Niagara",
-            "answer": "falls",
-            "normalized": "falls"
+            "id": "29e2ec1b-18af-456a-8dce-2a913b123901",
+            "clue": "It means \"female student\" in Spanish",
+            "answer": "alumna",
+            "normalized": "alumna"
           },
           {
-            "id": "ed44499c-febc-4e05-8aa6-11c4f4a33e92",
-            "clue": "Vein of metal ore",
-            "answer": "lode",
-            "normalized": "lode"
+            "id": "c1af76cd-bb1e-47de-b17c-f4b2f3a7dde9",
+            "clue": "Angela Martin on The Office, Angela __",
+            "answer": "kinsey",
+            "normalized": "kinsey"
           },
           {
-            "id": "aaade41d-ddf2-4122-970f-64728ccd16e0",
-            "clue": "Abbreviation for the Nuclear Regulatory Commission",
-            "answer": "nrc",
-            "normalized": "nrc"
+            "id": "7470e5f9-590c-4745-905f-4b522e94d20a",
+            "clue": "German masculine indefinite article",
+            "answer": "ein",
+            "normalized": "ein"
           },
           {
-            "id": "8a3778a9-8704-45f9-a48b-639d2e1af760",
-            "clue": "Previous name of World Netball, initialism",
-            "answer": "inf",
-            "normalized": "inf"
+            "id": "8035c376-9852-44d4-a858-c70add23f2c6",
+            "clue": "Upper limbs",
+            "answer": "arms",
+            "normalized": "arms"
           },
           {
-            "id": "37f86285-02a0-41bc-9558-50131203b7c3",
-            "clue": "Blue-green",
-            "answer": "teal",
-            "normalized": "teal"
+            "id": "84e3fc3d-4d60-4414-b5a2-34ef0c0f02e6",
+            "clue": "Horse's neck hair",
+            "answer": "mane",
+            "normalized": "mane"
           },
           {
-            "id": "068ea246-fc14-4a08-a98c-903e7f2c1ed4",
-            "clue": "Place people go to get their hair styled, hair __",
-            "answer": "salon",
-            "normalized": "salon"
+            "id": "07bf437a-e81d-40d4-988c-def4f97154f1",
+            "clue": "Rock back and forth in the wind",
+            "answer": "sway",
+            "normalized": "sway"
           },
           {
-            "id": "de9fe464-b904-4b59-9dee-1748f5a9f32d",
-            "clue": "Too long, didn't read",
-            "answer": "tldr",
-            "normalized": "tldr"
+            "id": "6a3e3b04-550e-41b4-81b7-5dba3d764fa1",
+            "clue": "To construct or create something",
+            "answer": "make",
+            "normalized": "make"
           },
           {
-            "id": "c6bd775b-591f-4a0b-b52e-eb978f9dbf9d",
-            "clue": "A sixtieth of a min",
-            "answer": "sec",
-            "normalized": "sec"
+            "id": "d378c30c-6628-4bb1-b88a-5d4182b4c8a7",
+            "clue": "152 in Roman numerals",
+            "answer": "clii",
+            "normalized": "clii"
+          },
+          {
+            "id": "76a8f02e-31ab-42a9-9ca2-2a7afed1f46c",
+            "clue": "Crewman Ben, marooned on Treasure Island",
+            "answer": "gunn",
+            "normalized": "gunn"
           }
         ],
-        "track": "PC|LenC--Y2026M6D16F0"
+        "track": "PC|LenC--Y2026M6D17F0"
       },
       "mid": {
-        "puzzleId": "b8c5fc63-e28a-4479-af19-6d5ba3825902",
+        "puzzleId": "6b4f2c52-d0e8-414d-bf80-c1948d048afd",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 5,
         "answers": [
           {
-            "id": "1ef265b1-1b01-49af-ae5f-f95c929ead6b",
-            "clue": "Bank machine for getting cash out of the wall",
-            "answer": "atm",
-            "normalized": "atm"
+            "id": "531dad1b-4cf4-485e-8eea-bcd998b31dd0",
+            "clue": "Fluent but insincere and shallow",
+            "answer": "glib",
+            "normalized": "glib"
           },
           {
-            "id": "139f9002-ee4a-4f17-a50f-99ad7131fa81",
-            "clue": "Slime, ooze",
-            "answer": "goo",
-            "normalized": "goo"
+            "id": "a0507a0a-c069-4cef-a47c-f418003b392d",
+            "clue": "Piece of metal sometimes held in a horse's mouth",
+            "answer": "bit",
+            "normalized": "bit"
           },
           {
-            "id": "79500760-c2d8-4abb-90f3-87ce10ff4918",
-            "clue": "Expected at a certain time",
-            "answer": "due",
-            "normalized": "due"
+            "id": "945a24e8-ef97-498e-9bef-f320caec352d",
+            "clue": "Luxury Moray whisky brand with types 12 and 18",
+            "answer": "macallan",
+            "normalized": "macallan"
           },
           {
-            "id": "56a415c7-a809-4b62-b688-8f6e6c8937cc",
-            "clue": "Expert in tree and shrub care and maintenance",
-            "answer": "arborist",
-            "normalized": "arborist"
+            "id": "cc3251ee-1bf6-48c1-abac-272e01e0e098",
+            "clue": "The Fox and __, 1981 Disney film",
+            "answer": "the hound",
+            "normalized": "thehound"
           },
           {
-            "id": "ca803bdb-f6fc-451b-baa7-a430dc7ef6e9",
-            "clue": "Most windy",
-            "answer": "blowiest",
-            "normalized": "blowiest"
+            "id": "205915f1-736b-46da-b569-a90b5bdfdd94",
+            "clue": "Wild Carrot flower or Queen Anne's __",
+            "answer": "lace",
+            "normalized": "lace"
           },
           {
-            "id": "f3852d32-9107-4ff0-9a50-fbc991876dc7",
-            "clue": "Used to summon maids or butlers",
-            "answer": "bellpull",
-            "normalized": "bellpull"
+            "id": "f8243a29-f821-4d0b-9cff-78d6287990ae",
+            "clue": "__ personae, Latin phrase for cast of a play",
+            "answer": "dramatis",
+            "normalized": "dramatis"
           },
           {
-            "id": "6867bc87-04bd-4297-862b-dc1b478d2aa6",
-            "clue": "__ de toilette, lightly scented cologne",
-            "answer": "eau",
-            "normalized": "eau"
+            "id": "73318ed2-5380-46e1-a3c7-f06ec640e6cb",
+            "clue": "Writer who writes about the year's events",
+            "answer": "annalist",
+            "normalized": "annalist"
           },
           {
-            "id": "004eb133-86da-4aa8-96f5-3ba8ddf1fd8c",
-            "clue": "Use one's eyes",
-            "answer": "see",
-            "normalized": "see"
+            "id": "c80804f3-693a-4afa-b980-201402e23c19",
+            "clue": "Happy birthday, in short",
+            "answer": "hbd",
+            "normalized": "hbd"
           },
           {
-            "id": "2a948e34-7b43-4838-95ac-822b528ae2aa",
-            "clue": "Domain name system",
-            "answer": "dns",
-            "normalized": "dns"
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
           },
           {
-            "id": "39a08859-e9e7-4b39-a30a-2d161139f02b",
-            "clue": "French goodbyes in a final and anglicized sense",
-            "answer": "adieus",
-            "normalized": "adieus"
+            "id": "ef6194b3-a384-4db9-8591-42a53eab29da",
+            "clue": "Letters indicating time zone in London",
+            "answer": "gmt",
+            "normalized": "gmt"
           },
           {
-            "id": "31e3b864-bace-47be-994a-61b79b382a6b",
-            "clue": "Struggle, brawl",
-            "answer": "tussle",
-            "normalized": "tussle"
+            "id": "af5c92d6-3947-4c6d-9dcb-75b9d2467d06",
+            "clue": "Lithium aluminum hydride",
+            "answer": "lah",
+            "normalized": "lah"
           },
           {
-            "id": "477fb6db-1e28-49cf-b4b3-f29894c0193c",
-            "clue": "Spirit, strength of character",
-            "answer": "mettle",
-            "normalized": "mettle"
+            "id": "2f856dc6-8fc0-4fa2-a41b-3ce311bec8dd",
+            "clue": "Country where Mt. Kirkjufell is located",
+            "answer": "iceland",
+            "normalized": "iceland"
           },
           {
-            "id": "0e413ee2-18ff-42ee-976e-f0eb72088ed3",
-            "clue": "Yammered on and on",
-            "answer": "gabbed",
-            "normalized": "gabbed"
+            "id": "309e73da-7d13-4df3-a55f-e5b0a30a304a",
+            "clue": "Single island of a west Atlantic group",
+            "answer": "bahama",
+            "normalized": "bahama"
           },
           {
-            "id": "5d5aaa51-82ed-43fc-9d85-70da53e0d07c",
-            "clue": "Susan __, author of Orchid Thief",
-            "answer": "orlean",
-            "normalized": "orlean"
+            "id": "8eb8114d-59d9-4306-96eb-7d2d5d2b0367",
+            "clue": "Cerulean passerine bird",
+            "answer": "blue tit",
+            "normalized": "bluetit"
           },
           {
-            "id": "fc39ddeb-88a2-4d96-9f60-0247647bc451",
-            "clue": "Form of ancient Greek currency and weight",
-            "answer": "obolus",
-            "normalized": "obolus"
+            "id": "78dcead2-c942-4270-ab04-c5b2edf901e8",
+            "clue": "Fleming, who wrote the James Bond books",
+            "answer": "ian",
+            "normalized": "ian"
           },
           {
-            "id": "95f2a1c8-5072-4392-aa87-a83c8e89f66e",
-            "clue": "Wise bird that can rotate its head 270 degrees",
-            "answer": "owl",
-            "normalized": "owl"
+            "id": "511d80a8-e7aa-41f2-b3f4-4c0e80c09ec8",
+            "clue": "Currency code for the Tunisian dinar",
+            "answer": "tnd",
+            "normalized": "tnd"
           },
           {
-            "id": "c16f930c-8c19-4389-bce6-e946a1add10f",
-            "clue": "Initials commonly found on gravestones",
-            "answer": "rip",
-            "normalized": "rip"
+            "id": "99e84990-a994-464b-ad5d-01d37bbf17c5",
+            "clue": "Nearby area",
+            "answer": "locale",
+            "normalized": "locale"
+          },
+          {
+            "id": "f866dbaf-bfb4-4cac-9ad2-8add3986382a",
+            "clue": "Comes after Zip-a-Dee-Doo, in the song",
+            "answer": "dah",
+            "normalized": "dah"
+          },
+          {
+            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
+            "clue": "Popular music genre, mix of jazz, gospel, blues",
+            "answer": "rnb",
+            "normalized": "rnb"
+          },
+          {
+            "id": "48300a46-51e2-45e8-989b-d16087205fdc",
+            "clue": "Large artificial satellite",
+            "answer": "iss",
+            "normalized": "iss"
+          },
+          {
+            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
+            "clue": "A pigpen",
+            "answer": "sty",
+            "normalized": "sty"
           }
         ],
-        "track": "PC|LenC--Y2026M6D16F1"
+        "track": "PC|LenC--Y2026M6D17F1"
       }
     },
     "latestAvailableEntry": {
@@ -422018,21 +422078,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "pQqwwg+wfaP8u1GCXh/kSR5o9q5ealjcUFCfnDEAntDvFe2rE1u9/OrDcXOtAdQkcryq7/gkDMyugHQbUPsXErFa8OwAzSPyW1X+IjrWB9kNqIGhQsYd6IFhh2WNC1y1QC2SIW3sqNshG/pZEYU7/WtpBZbVLadmHaFngQpIvcuKtpjMwI5VkRnWZ/FECDlAkHDGBuBc0g4A2nUapP3RkKuDH5jgqzj+1FPmuwQ189ILNbW8NRaCwNjyyvgUd74zEe4HR/8FZ/RgxzHYo2XSm4QQyStbTNmEKyGLDdUcx0Y="
+        "zHiDDJz8FkEcLijUqbKif4YPvIIwTkEJMOj339moogfpvRiaOnUM0RBwWXrWPIvXfsebW8JiVEH6Ke7Y/S6WdkHDg0AmWfky4yMD/CG1VYdWilUx75H6mBCiorhjbeCWS1JhbV0WDdfIrkIWzAZeXUrTE5FWEiS2qsSYvWxDdtP90u7GTqmdANMO/pgIjIpenaM94zRwznC6vxgmL1k3Oplahwy6oNn9gYlEBW5zVm9VsmL9SR2DbFNmp7s/yh3wxcHRWWsCud9nTlwKoFDFNp/dL+0nryGpG2T/5Q7fGqs="
       ]
     },
     "decrypted": {
-      "Id": "cc2342f4-062b-47f5-a887-b8f8a6d23ba2",
-      "Date": "2026-06-16T00:00:00Z",
+      "Id": "9aff8066-d8f8-449b-9edf-d9693f15d43a",
+      "Date": "2026-06-17T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "robot",
-      "NormalizedPassword": "robot",
+      "Password": "bonus",
+      "NormalizedPassword": "bonus",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-16T02:59:19.9760000+05:30",
-    "hash": "8fdb55c6e26130f04c01c1994cbe3e7a",
+    "dtu": "2026-06-17T02:53:42.7900000+05:30",
+    "hash": "f5061569e46c5bfd315f6273baf0188c",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
