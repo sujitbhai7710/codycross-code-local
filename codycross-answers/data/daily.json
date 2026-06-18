@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-17T20:34:05.809Z",
+  "generatedAt": "2026-06-18T20:42:37.542Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 18
+    "day": 19
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 32
+        "QuantidadeDeFases": 34
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -421410,391 +421410,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-18",
+      "key": "2026-06-19",
       "year": 2026,
       "month": 6,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "47eb6313-7f0b-405f-a2da-e8f8380be6a2",
+        "puzzleId": "d994c0ce-07b1-4187-b7a9-1a760996b668",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "ff878164-0f22-4208-8a1a-c34d0fda72b1",
-            "clue": "Greek god of shepherds who played pipes",
-            "answer": "pan",
-            "normalized": "pan"
+            "id": "e2d2e0e7-2be6-48a0-aaf5-035d11a04d68",
+            "clue": "Three letters to denote a postgrad in sciences",
+            "answer": "msc",
+            "normalized": "msc"
           },
           {
-            "id": "3361e65e-2e71-49fc-8251-6a1bad3938e7",
-            "clue": "Beware of it in March, technically the fifteenth",
-            "answer": "ides",
-            "normalized": "ides"
+            "id": "c879f9e5-33d0-4364-9a92-6a1a31a44fb1",
+            "clue": "Death notice author",
+            "answer": "obiter",
+            "normalized": "obiter"
           },
           {
-            "id": "e56ead22-ce3f-427a-952f-05d31b2190b4",
-            "clue": "Light-brown, like a type of owl",
-            "answer": "tawny",
-            "normalized": "tawny"
+            "id": "cf84c513-9bb4-48a7-a610-47f0d8034fe5",
+            "clue": "Grand __; largest island of Comoros",
+            "answer": "comore",
+            "normalized": "comore"
           },
           {
-            "id": "6221815f-9608-482d-8013-2e439dd1a0c7",
-            "clue": "Golda who was Israeli prime minister",
-            "answer": "meir",
-            "normalized": "meir"
+            "id": "531ee65b-3e3c-4a4e-bc3a-4860d6a872d3",
+            "clue": "Long white radish also called a mooli",
+            "answer": "daikon",
+            "normalized": "daikon"
           },
           {
-            "id": "b4ad1410-6b28-4ba4-aebc-1bfaf0461bf5",
-            "clue": "Revolutions per second",
-            "answer": "rps",
-            "normalized": "rps"
+            "id": "16bcc911-9ff8-474e-9a8e-fcbc04639697",
+            "clue": "Draw in a match",
+            "answer": "tie",
+            "normalized": "tie"
           },
           {
-            "id": "3b1ec0a4-2221-4948-974a-b98d8df0a1ce",
-            "clue": "Large hole covered and used as a trap",
-            "answer": "pit",
-            "normalized": "pit"
+            "id": "0b304772-12e0-4e49-80d2-9316347bfb05",
+            "clue": "Sustainable fashion company with Spine collection",
+            "answer": "mimii",
+            "normalized": "mimii"
           },
           {
-            "id": "5caefa55-f894-4dc0-89d0-e8b4ff14bcc4",
-            "clue": "Mr. Driver who plays this Mr. Sackler on Girls",
-            "answer": "adam",
-            "normalized": "adam"
+            "id": "a727e30b-d7e7-4ff6-aee3-33a841c6be45",
+            "clue": "Tend to a fire or a steam engine",
+            "answer": "stoke",
+            "normalized": "stoke"
           },
           {
-            "id": "bf9357e0-4edc-47c8-b52f-14427e783d7c",
-            "clue": "Less old than, more novel",
-            "answer": "newer",
-            "normalized": "newer"
+            "id": "289cccc7-aee6-4184-bd67-685a1061134f",
+            "clue": "Zero (Sp.)",
+            "answer": "cero",
+            "normalized": "cero"
           },
           {
-            "id": "75262806-87b2-4be3-9286-e1f9ed8cf8fe",
-            "clue": "A word for cut that rhymes with clip",
-            "answer": "snip",
-            "normalized": "snip"
+            "id": "0485ccc7-99ef-421c-a790-9e59237e460f",
+            "clue": "Short way to say obsessive compulsive disorder",
+            "answer": "ocd",
+            "normalized": "ocd"
           },
           {
-            "id": "1ab0c547-a369-4ed2-bf67-0530d45b0f26",
-            "clue": "Abbreviation of 12-month periods",
-            "answer": "yrs",
-            "normalized": "yrs"
+            "id": "5d5c116e-e049-4cc0-a044-de08e5f78969",
+            "clue": "Take a trip on water in a craft",
+            "answer": "boat",
+            "normalized": "boat"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
           }
         ],
-        "track": "PC|LenC--Y2026M6D18F0"
+        "track": "PC|LenC--Y2026M6D19F0"
       },
       "mid": {
-        "puzzleId": "8aec87a9-255a-4e36-a225-4f251fb3877a",
+        "puzzleId": "a58d1169-95c2-4852-ad39-388a9a970245",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "899883e1-0949-4390-986c-05a212bbc042",
-            "clue": "Audible exhalation",
-            "answer": "sigh",
-            "normalized": "sigh"
+            "id": "606316cf-0ca0-438b-9de4-6a89a9804acd",
+            "clue": "Last name of Some Enchanted Evening crooner Perry",
+            "answer": "como",
+            "normalized": "como"
           },
           {
-            "id": "281f2162-7d0a-4282-8b9c-867697da8cad",
-            "clue": "Excessive self-confidence",
-            "answer": "hubris",
-            "normalized": "hubris"
+            "id": "39807f89-42b8-4044-a63f-b9c522a754b0",
+            "clue": "An opening or space between two rocks",
+            "answer": "gap",
+            "normalized": "gap"
           },
           {
-            "id": "dde47d52-467b-4b17-9962-2ad6a49a88ad",
-            "clue": "Attached from the base of a leaf, without a stalk",
-            "answer": "sessile",
-            "normalized": "sessile"
+            "id": "3cecab3b-b756-4827-82ea-10b5f26ab488",
+            "clue": "Tough paper material storage boxes are made from",
+            "answer": "cardboard",
+            "normalized": "cardboard"
           },
           {
-            "id": "77423bf9-90fd-4177-911a-f040c758ffc1",
-            "clue": "Quick word for official ball and strike caller",
-            "answer": "ump",
-            "normalized": "ump"
+            "id": "437879b6-b23c-43af-a944-75807b2f961a",
+            "clue": "Film based on a Russian Grand Duchess' story",
+            "answer": "anastasia",
+            "normalized": "anastasia"
           },
           {
-            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
-            "clue": "Abbreviation for electronic benefit transfer",
-            "answer": "ebt",
-            "normalized": "ebt"
+            "id": "6587ce71-ce79-4b37-a070-8f96916ae8fd",
+            "clue": "Wrestling surface",
+            "answer": "mat",
+            "normalized": "mat"
           },
           {
-            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
-            "clue": "Currency code for the Sierra Leonean leone",
-            "answer": "sle",
-            "normalized": "sle"
+            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
+            "clue": "Australian Football League, in short",
+            "answer": "afl",
+            "normalized": "afl"
           },
           {
-            "id": "db25299a-48be-415a-81f8-61acc9f19154",
-            "clue": "Current animal doctor or a former soldier",
-            "answer": "vet",
-            "normalized": "vet"
+            "id": "8d00bd5a-6133-4237-991f-d70645588002",
+            "clue": "Luke's teacher, __-Wan Kenobi",
+            "answer": "obi",
+            "normalized": "obi"
           },
           {
-            "id": "dcf81006-5848-4c83-bc65-7f9685bcf800",
-            "clue": "Those who give clues",
-            "answer": "hinters",
-            "normalized": "hinters"
+            "id": "79222435-28ed-4ddf-ba9f-af3185e989d3",
+            "clue": "Male plural pronoun for \"they\" in French",
+            "answer": "ils",
+            "normalized": "ils"
           },
           {
-            "id": "7722abbe-0c65-4663-896e-a73d7b35c1da",
-            "clue": "To put something in place, add in pieces",
-            "answer": "insert",
-            "normalized": "insert"
+            "id": "9d097fec-2f09-4971-bce7-9807d103721b",
+            "clue": "Collective nobilities",
+            "answer": "baronages",
+            "normalized": "baronages"
           },
           {
-            "id": "b68012be-96de-42f3-bf66-54eadcc80477",
-            "clue": "Electric and conger fishes",
-            "answer": "eels",
-            "normalized": "eels"
+            "id": "6707d7b9-f5bc-43ec-9e58-65627d6ad20f",
+            "clue": "Photo story, progressing through multiple pictures",
+            "answer": "slideshow",
+            "normalized": "slideshow"
           },
           {
-            "id": "cc6d74ac-4cb9-44ce-b489-df2dea17b067",
-            "clue": "Genre with lots of twists that keeps you guessing",
-            "answer": "suspense",
-            "normalized": "suspense"
+            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
+            "clue": "Relating to the country with Vientiane as capital",
+            "answer": "lao",
+            "normalized": "lao"
           },
           {
-            "id": "d8fb1947-3131-4d4d-881c-79a5e52f77b0",
-            "clue": "Painful digestive complaint (abbrev.)",
-            "answer": "ibs",
-            "normalized": "ibs"
+            "id": "aedb7576-e18c-4ca3-8724-f3d2482876ed",
+            "clue": "Harmful insecticides banned in several nations",
+            "answer": "ddts",
+            "normalized": "ddts"
           },
           {
-            "id": "783284c6-8ddc-4248-acb7-8466cfaf3970",
-            "clue": "Funeral attendees",
-            "answer": "grievers",
-            "normalized": "grievers"
+            "id": "09229066-85a6-40a9-b322-89847b4f4c21",
+            "clue": "Site of Christ's water-into-wine story",
+            "answer": "cana",
+            "normalized": "cana"
           },
           {
-            "id": "4e270c75-485a-41f4-8a70-c79f99e8018c",
-            "clue": "German mathematician David, born in 1862",
-            "answer": "hilbert",
-            "normalized": "hilbert"
+            "id": "514aef61-a87f-4188-bf58-bee5c3378919",
+            "clue": "Liverpool __, 1990s composition by Paul McCartney",
+            "answer": "oratorio",
+            "normalized": "oratorio"
           },
           {
-            "id": "98645266-6760-43d1-8a23-ac0e710ae3f7",
-            "clue": "The bottom edge of a dress, skirt, or coat",
-            "answer": "hemline",
-            "normalized": "hemline"
+            "id": "1cad4346-5c16-4592-be26-4c6de77a664e",
+            "clue": "Medical doctors, abbreviated",
+            "answer": "mds",
+            "normalized": "mds"
           },
           {
-            "id": "7a4cdea5-d87d-455b-a00c-b26662ae0c81",
-            "clue": "Homes of badgers",
-            "answer": "setts",
-            "normalized": "setts"
+            "id": "01e2ff3d-bc24-46da-a7c7-078e9331f352",
+            "clue": "Got possession of an object",
+            "answer": "obtained",
+            "normalized": "obtained"
           },
           {
-            "id": "4d90a62c-e8b6-43e6-9956-2a25d505bedc",
-            "clue": "Japanese food with rolled rice wrapped in seaweed",
-            "answer": "sushi",
-            "normalized": "sushi"
+            "id": "61f07aca-2179-4661-ad72-4d1028d17a81",
+            "clue": "Lamp heated by a jet of burning fuel",
+            "answer": "gaslight",
+            "normalized": "gaslight"
           },
           {
-            "id": "1af272bb-3562-4fbd-aa60-9d31a024cf55",
-            "clue": "__ Aviv, Israeli city",
-            "answer": "tel",
-            "normalized": "tel"
+            "id": "6b60d7d5-526c-42f8-85f3-6385396944ed",
+            "clue": "Ariana Grande's eau de parfum",
+            "answer": "ari",
+            "normalized": "ari"
+          },
+          {
+            "id": "0f0fecc1-f92a-4a64-a23b-62655eb9bc00",
+            "clue": "Showing affection in public",
+            "answer": "pda",
+            "normalized": "pda"
+          },
+          {
+            "id": "172f511c-3ec4-46c4-9f8e-4ef2a6a60dd0",
+            "clue": "A nanny one might be in a teddy bear",
+            "answer": "cam",
+            "normalized": "cam"
+          },
+          {
+            "id": "a725dba3-b7d1-4741-a354-d0e24430eb94",
+            "clue": "Large, blundering and clumsy person",
+            "answer": "oaf",
+            "normalized": "oaf"
+          },
+          {
+            "id": "a9752704-b779-4e46-a8a8-4e566d3059ff",
+            "clue": "Goes after dad to describe middle-aged physique",
+            "answer": "bod",
+            "normalized": "bod"
+          },
+          {
+            "id": "df61566f-44a3-4e17-9841-2fdb89b533dc",
+            "clue": "People born under the sign of the lion",
+            "answer": "leos",
+            "normalized": "leos"
+          },
+          {
+            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
+            "clue": "South-southwest for short",
+            "answer": "ssw",
+            "normalized": "ssw"
+          },
+          {
+            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
+            "clue": "Many deaf people use this language in the UK",
+            "answer": "bsl",
+            "normalized": "bsl"
+          },
+          {
+            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
+            "clue": "\"To the\" in French, goes before \"mode\"",
+            "answer": "a la",
+            "normalized": "ala"
+          },
+          {
+            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
+            "clue": "Autism is formally known as __, abbr.",
+            "answer": "asd",
+            "normalized": "asd"
           }
         ],
-        "track": "PC|LenC--Y2026M6D18F1"
+        "track": "PC|LenC--Y2026M6D19F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-18",
+      "key": "2026-06-19",
       "year": 2026,
       "month": 6,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "47eb6313-7f0b-405f-a2da-e8f8380be6a2",
+        "puzzleId": "d994c0ce-07b1-4187-b7a9-1a760996b668",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "ff878164-0f22-4208-8a1a-c34d0fda72b1",
-            "clue": "Greek god of shepherds who played pipes",
-            "answer": "pan",
-            "normalized": "pan"
+            "id": "e2d2e0e7-2be6-48a0-aaf5-035d11a04d68",
+            "clue": "Three letters to denote a postgrad in sciences",
+            "answer": "msc",
+            "normalized": "msc"
           },
           {
-            "id": "3361e65e-2e71-49fc-8251-6a1bad3938e7",
-            "clue": "Beware of it in March, technically the fifteenth",
-            "answer": "ides",
-            "normalized": "ides"
+            "id": "c879f9e5-33d0-4364-9a92-6a1a31a44fb1",
+            "clue": "Death notice author",
+            "answer": "obiter",
+            "normalized": "obiter"
           },
           {
-            "id": "e56ead22-ce3f-427a-952f-05d31b2190b4",
-            "clue": "Light-brown, like a type of owl",
-            "answer": "tawny",
-            "normalized": "tawny"
+            "id": "cf84c513-9bb4-48a7-a610-47f0d8034fe5",
+            "clue": "Grand __; largest island of Comoros",
+            "answer": "comore",
+            "normalized": "comore"
           },
           {
-            "id": "6221815f-9608-482d-8013-2e439dd1a0c7",
-            "clue": "Golda who was Israeli prime minister",
-            "answer": "meir",
-            "normalized": "meir"
+            "id": "531ee65b-3e3c-4a4e-bc3a-4860d6a872d3",
+            "clue": "Long white radish also called a mooli",
+            "answer": "daikon",
+            "normalized": "daikon"
           },
           {
-            "id": "b4ad1410-6b28-4ba4-aebc-1bfaf0461bf5",
-            "clue": "Revolutions per second",
-            "answer": "rps",
-            "normalized": "rps"
+            "id": "16bcc911-9ff8-474e-9a8e-fcbc04639697",
+            "clue": "Draw in a match",
+            "answer": "tie",
+            "normalized": "tie"
           },
           {
-            "id": "3b1ec0a4-2221-4948-974a-b98d8df0a1ce",
-            "clue": "Large hole covered and used as a trap",
-            "answer": "pit",
-            "normalized": "pit"
+            "id": "0b304772-12e0-4e49-80d2-9316347bfb05",
+            "clue": "Sustainable fashion company with Spine collection",
+            "answer": "mimii",
+            "normalized": "mimii"
           },
           {
-            "id": "5caefa55-f894-4dc0-89d0-e8b4ff14bcc4",
-            "clue": "Mr. Driver who plays this Mr. Sackler on Girls",
-            "answer": "adam",
-            "normalized": "adam"
+            "id": "a727e30b-d7e7-4ff6-aee3-33a841c6be45",
+            "clue": "Tend to a fire or a steam engine",
+            "answer": "stoke",
+            "normalized": "stoke"
           },
           {
-            "id": "bf9357e0-4edc-47c8-b52f-14427e783d7c",
-            "clue": "Less old than, more novel",
-            "answer": "newer",
-            "normalized": "newer"
+            "id": "289cccc7-aee6-4184-bd67-685a1061134f",
+            "clue": "Zero (Sp.)",
+            "answer": "cero",
+            "normalized": "cero"
           },
           {
-            "id": "75262806-87b2-4be3-9286-e1f9ed8cf8fe",
-            "clue": "A word for cut that rhymes with clip",
-            "answer": "snip",
-            "normalized": "snip"
+            "id": "0485ccc7-99ef-421c-a790-9e59237e460f",
+            "clue": "Short way to say obsessive compulsive disorder",
+            "answer": "ocd",
+            "normalized": "ocd"
           },
           {
-            "id": "1ab0c547-a369-4ed2-bf67-0530d45b0f26",
-            "clue": "Abbreviation of 12-month periods",
-            "answer": "yrs",
-            "normalized": "yrs"
+            "id": "5d5c116e-e049-4cc0-a044-de08e5f78969",
+            "clue": "Take a trip on water in a craft",
+            "answer": "boat",
+            "normalized": "boat"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
           }
         ],
-        "track": "PC|LenC--Y2026M6D18F0"
+        "track": "PC|LenC--Y2026M6D19F0"
       },
       "mid": {
-        "puzzleId": "8aec87a9-255a-4e36-a225-4f251fb3877a",
+        "puzzleId": "a58d1169-95c2-4852-ad39-388a9a970245",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "899883e1-0949-4390-986c-05a212bbc042",
-            "clue": "Audible exhalation",
-            "answer": "sigh",
-            "normalized": "sigh"
+            "id": "606316cf-0ca0-438b-9de4-6a89a9804acd",
+            "clue": "Last name of Some Enchanted Evening crooner Perry",
+            "answer": "como",
+            "normalized": "como"
           },
           {
-            "id": "281f2162-7d0a-4282-8b9c-867697da8cad",
-            "clue": "Excessive self-confidence",
-            "answer": "hubris",
-            "normalized": "hubris"
+            "id": "39807f89-42b8-4044-a63f-b9c522a754b0",
+            "clue": "An opening or space between two rocks",
+            "answer": "gap",
+            "normalized": "gap"
           },
           {
-            "id": "dde47d52-467b-4b17-9962-2ad6a49a88ad",
-            "clue": "Attached from the base of a leaf, without a stalk",
-            "answer": "sessile",
-            "normalized": "sessile"
+            "id": "3cecab3b-b756-4827-82ea-10b5f26ab488",
+            "clue": "Tough paper material storage boxes are made from",
+            "answer": "cardboard",
+            "normalized": "cardboard"
           },
           {
-            "id": "77423bf9-90fd-4177-911a-f040c758ffc1",
-            "clue": "Quick word for official ball and strike caller",
-            "answer": "ump",
-            "normalized": "ump"
+            "id": "437879b6-b23c-43af-a944-75807b2f961a",
+            "clue": "Film based on a Russian Grand Duchess' story",
+            "answer": "anastasia",
+            "normalized": "anastasia"
           },
           {
-            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
-            "clue": "Abbreviation for electronic benefit transfer",
-            "answer": "ebt",
-            "normalized": "ebt"
+            "id": "6587ce71-ce79-4b37-a070-8f96916ae8fd",
+            "clue": "Wrestling surface",
+            "answer": "mat",
+            "normalized": "mat"
           },
           {
-            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
-            "clue": "Currency code for the Sierra Leonean leone",
-            "answer": "sle",
-            "normalized": "sle"
+            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
+            "clue": "Australian Football League, in short",
+            "answer": "afl",
+            "normalized": "afl"
           },
           {
-            "id": "db25299a-48be-415a-81f8-61acc9f19154",
-            "clue": "Current animal doctor or a former soldier",
-            "answer": "vet",
-            "normalized": "vet"
+            "id": "8d00bd5a-6133-4237-991f-d70645588002",
+            "clue": "Luke's teacher, __-Wan Kenobi",
+            "answer": "obi",
+            "normalized": "obi"
           },
           {
-            "id": "dcf81006-5848-4c83-bc65-7f9685bcf800",
-            "clue": "Those who give clues",
-            "answer": "hinters",
-            "normalized": "hinters"
+            "id": "79222435-28ed-4ddf-ba9f-af3185e989d3",
+            "clue": "Male plural pronoun for \"they\" in French",
+            "answer": "ils",
+            "normalized": "ils"
           },
           {
-            "id": "7722abbe-0c65-4663-896e-a73d7b35c1da",
-            "clue": "To put something in place, add in pieces",
-            "answer": "insert",
-            "normalized": "insert"
+            "id": "9d097fec-2f09-4971-bce7-9807d103721b",
+            "clue": "Collective nobilities",
+            "answer": "baronages",
+            "normalized": "baronages"
           },
           {
-            "id": "b68012be-96de-42f3-bf66-54eadcc80477",
-            "clue": "Electric and conger fishes",
-            "answer": "eels",
-            "normalized": "eels"
+            "id": "6707d7b9-f5bc-43ec-9e58-65627d6ad20f",
+            "clue": "Photo story, progressing through multiple pictures",
+            "answer": "slideshow",
+            "normalized": "slideshow"
           },
           {
-            "id": "cc6d74ac-4cb9-44ce-b489-df2dea17b067",
-            "clue": "Genre with lots of twists that keeps you guessing",
-            "answer": "suspense",
-            "normalized": "suspense"
+            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
+            "clue": "Relating to the country with Vientiane as capital",
+            "answer": "lao",
+            "normalized": "lao"
           },
           {
-            "id": "d8fb1947-3131-4d4d-881c-79a5e52f77b0",
-            "clue": "Painful digestive complaint (abbrev.)",
-            "answer": "ibs",
-            "normalized": "ibs"
+            "id": "aedb7576-e18c-4ca3-8724-f3d2482876ed",
+            "clue": "Harmful insecticides banned in several nations",
+            "answer": "ddts",
+            "normalized": "ddts"
           },
           {
-            "id": "783284c6-8ddc-4248-acb7-8466cfaf3970",
-            "clue": "Funeral attendees",
-            "answer": "grievers",
-            "normalized": "grievers"
+            "id": "09229066-85a6-40a9-b322-89847b4f4c21",
+            "clue": "Site of Christ's water-into-wine story",
+            "answer": "cana",
+            "normalized": "cana"
           },
           {
-            "id": "4e270c75-485a-41f4-8a70-c79f99e8018c",
-            "clue": "German mathematician David, born in 1862",
-            "answer": "hilbert",
-            "normalized": "hilbert"
+            "id": "514aef61-a87f-4188-bf58-bee5c3378919",
+            "clue": "Liverpool __, 1990s composition by Paul McCartney",
+            "answer": "oratorio",
+            "normalized": "oratorio"
           },
           {
-            "id": "98645266-6760-43d1-8a23-ac0e710ae3f7",
-            "clue": "The bottom edge of a dress, skirt, or coat",
-            "answer": "hemline",
-            "normalized": "hemline"
+            "id": "1cad4346-5c16-4592-be26-4c6de77a664e",
+            "clue": "Medical doctors, abbreviated",
+            "answer": "mds",
+            "normalized": "mds"
           },
           {
-            "id": "7a4cdea5-d87d-455b-a00c-b26662ae0c81",
-            "clue": "Homes of badgers",
-            "answer": "setts",
-            "normalized": "setts"
+            "id": "01e2ff3d-bc24-46da-a7c7-078e9331f352",
+            "clue": "Got possession of an object",
+            "answer": "obtained",
+            "normalized": "obtained"
           },
           {
-            "id": "4d90a62c-e8b6-43e6-9956-2a25d505bedc",
-            "clue": "Japanese food with rolled rice wrapped in seaweed",
-            "answer": "sushi",
-            "normalized": "sushi"
+            "id": "61f07aca-2179-4661-ad72-4d1028d17a81",
+            "clue": "Lamp heated by a jet of burning fuel",
+            "answer": "gaslight",
+            "normalized": "gaslight"
           },
           {
-            "id": "1af272bb-3562-4fbd-aa60-9d31a024cf55",
-            "clue": "__ Aviv, Israeli city",
-            "answer": "tel",
-            "normalized": "tel"
+            "id": "6b60d7d5-526c-42f8-85f3-6385396944ed",
+            "clue": "Ariana Grande's eau de parfum",
+            "answer": "ari",
+            "normalized": "ari"
+          },
+          {
+            "id": "0f0fecc1-f92a-4a64-a23b-62655eb9bc00",
+            "clue": "Showing affection in public",
+            "answer": "pda",
+            "normalized": "pda"
+          },
+          {
+            "id": "172f511c-3ec4-46c4-9f8e-4ef2a6a60dd0",
+            "clue": "A nanny one might be in a teddy bear",
+            "answer": "cam",
+            "normalized": "cam"
+          },
+          {
+            "id": "a725dba3-b7d1-4741-a354-d0e24430eb94",
+            "clue": "Large, blundering and clumsy person",
+            "answer": "oaf",
+            "normalized": "oaf"
+          },
+          {
+            "id": "a9752704-b779-4e46-a8a8-4e566d3059ff",
+            "clue": "Goes after dad to describe middle-aged physique",
+            "answer": "bod",
+            "normalized": "bod"
+          },
+          {
+            "id": "df61566f-44a3-4e17-9841-2fdb89b533dc",
+            "clue": "People born under the sign of the lion",
+            "answer": "leos",
+            "normalized": "leos"
+          },
+          {
+            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
+            "clue": "South-southwest for short",
+            "answer": "ssw",
+            "normalized": "ssw"
+          },
+          {
+            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
+            "clue": "Many deaf people use this language in the UK",
+            "answer": "bsl",
+            "normalized": "bsl"
+          },
+          {
+            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
+            "clue": "\"To the\" in French, goes before \"mode\"",
+            "answer": "a la",
+            "normalized": "ala"
+          },
+          {
+            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
+            "clue": "Autism is formally known as __, abbr.",
+            "answer": "asd",
+            "normalized": "asd"
           }
         ],
-        "track": "PC|LenC--Y2026M6D18F1"
+        "track": "PC|LenC--Y2026M6D19F1"
       }
     },
     "latestAvailableEntry": {
@@ -422030,21 +422150,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "mTidpMqP5xA/nerpqoTXyjU76kwnxfcz/dLKAHMwAIUJzMmLDx5+jcGFA0mKQi+6U8p+syjaaRRLMC6gclIrL6WbUg0xtbS9rsQ1uh9AKhtKvBPAcwUDJlDMRutb6NxF7vRVOQqJNAwkHOXhnm2jHHCbehvKeLV467mBome/0WIMeQPtINifJ+viN9R8RTBMxGrHmjLZ2MZFZSXOfyrBmOvBU/5UnUCkBoTW7hq9a3TORCQ511WwGeHfNqeDTE7wDPqHOoCB4rd/+ONyeR2WjmwHcSA66PkewmPHocXccEg="
+        "4YGVnLFEY0ercUbNRJ8Xf81H4L1dBjEOMqLtqvtMWEdRTFuLxGc3e6jK+pj/25Ijza+4zFP7HpuuZs3qfesUV5nnMp2Huo9JcbRp+fwBOluB+qtIlgT6VrGYPbSG1LzT+YlE30NaIBKTg2u4EHNYl/3cNslqRnCVqW+BzeeDL8z8+KNBJt+As54CRUDbvEPkSDDt1gxhkCEWYi+VYX/bv/fro792eSRgV+2y8d3alNwidU0wYKAORRCkbE9LcMV/iMhN8Dd29F/TOKoRazSpkcF3KtuIUqtnv1XrTK6A6xM="
       ]
     },
     "decrypted": {
-      "Id": "1adf2e64-a3e7-4ebe-a953-5b871192ef8c",
-      "Date": "2026-06-18T00:00:00Z",
+      "Id": "c0805173-6e43-4d30-89de-b91b02f7153c",
+      "Date": "2026-06-19T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "merge",
-      "NormalizedPassword": "merge",
+      "Password": "guess",
+      "NormalizedPassword": "guess",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-18T02:04:05.8090000+05:30",
-    "hash": "4120e96b3a267976533d94519624f21c",
+    "dtu": "2026-06-19T02:12:37.5420000+05:30",
+    "hash": "c102188a5df00beca072ff5c7f761509",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
