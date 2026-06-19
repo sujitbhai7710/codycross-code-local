@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-18T20:42:37.542Z",
+  "generatedAt": "2026-06-19T20:11:31.918Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 19
+    "day": 20
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 34
+        "QuantidadeDeFases": 36
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -219821,7 +219821,7 @@
             },
             {
               "id": "ab223e71-66dc-45f8-a1b9-adeea36280dc",
-              "clue": "Indian festival where people throw bright powder",
+              "clue": "Indian festival where people throw coloured powder",
               "answer": "holi",
               "normalized": "holi"
             },
@@ -288951,7 +288951,7 @@
           "answers": [
             {
               "id": "ab223e71-66dc-45f8-a1b9-adeea36280dc",
-              "clue": "Indian festival where people throw bright powder",
+              "clue": "Indian festival where people throw coloured powder",
               "answer": "holi",
               "normalized": "holi"
             },
@@ -421410,511 +421410,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-19",
+      "key": "2026-06-20",
       "year": 2026,
       "month": 6,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "d994c0ce-07b1-4187-b7a9-1a760996b668",
+        "puzzleId": "75450ce9-0835-4225-bb09-572c79e0d4d0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "e2d2e0e7-2be6-48a0-aaf5-035d11a04d68",
-            "clue": "Three letters to denote a postgrad in sciences",
-            "answer": "msc",
-            "normalized": "msc"
+            "id": "0800ef46-d476-4ed2-877e-a1275e66d313",
+            "clue": "The whole amount",
+            "answer": "all",
+            "normalized": "all"
           },
           {
-            "id": "c879f9e5-33d0-4364-9a92-6a1a31a44fb1",
-            "clue": "Death notice author",
-            "answer": "obiter",
-            "normalized": "obiter"
+            "id": "6bd0c920-3eb5-42b1-a401-5c74f77ae96d",
+            "clue": "Unwanted water goes into these in the ground",
+            "answer": "drain",
+            "normalized": "drain"
           },
           {
-            "id": "cf84c513-9bb4-48a7-a610-47f0d8034fe5",
-            "clue": "Grand __; largest island of Comoros",
-            "answer": "comore",
-            "normalized": "comore"
+            "id": "00e0c1ac-6cd3-4afe-be70-c92f690888a4",
+            "clue": "Chemical formula for silver fulminate",
+            "answer": "agcno",
+            "normalized": "agcno"
           },
           {
-            "id": "531ee65b-3e3c-4a4e-bc3a-4860d6a872d3",
-            "clue": "Long white radish also called a mooli",
-            "answer": "daikon",
-            "normalized": "daikon"
+            "id": "ce15263c-3d8f-4b50-b824-4c1cd914baae",
+            "clue": "Duke __,  muscly video-game tough guy",
+            "answer": "nukem",
+            "normalized": "nukem"
           },
           {
-            "id": "16bcc911-9ff8-474e-9a8e-fcbc04639697",
-            "clue": "Draw in a match",
-            "answer": "tie",
-            "normalized": "tie"
+            "id": "c1016cf8-6a5d-4c0b-9fbd-0d57baedc0bc",
+            "clue": "Carolyn __, Nancy Drew writers' pen name",
+            "answer": "keene",
+            "normalized": "keene"
           },
           {
-            "id": "0b304772-12e0-4e49-80d2-9316347bfb05",
-            "clue": "Sustainable fashion company with Spine collection",
-            "answer": "mimii",
-            "normalized": "mimii"
+            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
+            "clue": "Windows system file extension",
+            "answer": "sys",
+            "normalized": "sys"
           },
           {
-            "id": "a727e30b-d7e7-4ff6-aee3-33a841c6be45",
-            "clue": "Tend to a fire or a steam engine",
-            "answer": "stoke",
-            "normalized": "stoke"
+            "id": "e832ec20-dba3-4a1f-b47d-4aa0d8caabbb",
+            "clue": "Contends, disagrees",
+            "answer": "argues",
+            "normalized": "argues"
           },
           {
-            "id": "289cccc7-aee6-4184-bd67-685a1061134f",
-            "clue": "Zero (Sp.)",
-            "answer": "cero",
-            "normalized": "cero"
+            "id": "28d4a7a0-0fa4-45f7-8ba9-b70665eae2b4",
+            "clue": "Servant, an obedient follower, a footman or valet",
+            "answer": "lackey",
+            "normalized": "lackey"
           },
           {
-            "id": "0485ccc7-99ef-421c-a790-9e59237e460f",
-            "clue": "Short way to say obsessive compulsive disorder",
-            "answer": "ocd",
-            "normalized": "ocd"
+            "id": "a3419487-905e-4025-b9d7-61fc9b3e8a26",
+            "clue": "Household fabrics like towels, bedding, etc.",
+            "answer": "linens",
+            "normalized": "linens"
           },
           {
-            "id": "5d5c116e-e049-4cc0-a044-de08e5f78969",
-            "clue": "Take a trip on water in a craft",
-            "answer": "boat",
-            "normalized": "boat"
+            "id": "00c5e176-109f-4bd6-9201-a6394bc1e731",
+            "clue": "Dark and moist",
+            "answer": "dank",
+            "normalized": "dank"
           },
           {
-            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
-            "clue": "Cartoon Chihuahua paired with cat Stimpy",
-            "answer": "ren",
-            "normalized": "ren"
+            "id": "59c77203-631f-46b6-b6f0-62047d09fe52",
+            "clue": "Alaskan city where the Iditarod ends",
+            "answer": "nome",
+            "normalized": "nome"
           }
         ],
-        "track": "PC|LenC--Y2026M6D19F0"
+        "track": "PC|LenC--Y2026M6D20F0"
       },
       "mid": {
-        "puzzleId": "a58d1169-95c2-4852-ad39-388a9a970245",
+        "puzzleId": "1240e961-7011-4684-b73d-46eb4dfc740a",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "606316cf-0ca0-438b-9de4-6a89a9804acd",
-            "clue": "Last name of Some Enchanted Evening crooner Perry",
-            "answer": "como",
-            "normalized": "como"
+            "id": "7ec2fcb8-98b2-478d-b9cf-f6a39236dd9a",
+            "clue": "In my humble opinion, abbreviation",
+            "answer": "imho",
+            "normalized": "imho"
           },
           {
-            "id": "39807f89-42b8-4044-a63f-b9c522a754b0",
-            "clue": "An opening or space between two rocks",
-            "answer": "gap",
-            "normalized": "gap"
+            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
+            "clue": "Actor Epps of Shooter and House",
+            "answer": "omar",
+            "normalized": "omar"
           },
           {
-            "id": "3cecab3b-b756-4827-82ea-10b5f26ab488",
-            "clue": "Tough paper material storage boxes are made from",
-            "answer": "cardboard",
-            "normalized": "cardboard"
+            "id": "da60ce48-d703-45b8-9221-d723042c4c89",
+            "clue": "Partner to flim",
+            "answer": "flam",
+            "normalized": "flam"
           },
           {
-            "id": "437879b6-b23c-43af-a944-75807b2f961a",
-            "clue": "Film based on a Russian Grand Duchess' story",
-            "answer": "anastasia",
-            "normalized": "anastasia"
+            "id": "b066812c-a2da-4456-90c1-4d46395441f1",
+            "clue": "Not at all",
+            "answer": "nary",
+            "normalized": "nary"
           },
           {
-            "id": "6587ce71-ce79-4b37-a070-8f96916ae8fd",
-            "clue": "Wrestling surface",
-            "answer": "mat",
-            "normalized": "mat"
+            "id": "6edcd1d6-35fc-4524-ae7d-6bd0a172eb2e",
+            "clue": "Cordon __, barrier to prevent disease spreading",
+            "answer": "sanitaire",
+            "normalized": "sanitaire"
           },
           {
-            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
-            "clue": "Australian Football League, in short",
-            "answer": "afl",
-            "normalized": "afl"
+            "id": "8b1c9296-fbd6-4539-b13b-aac7e3410bf1",
+            "clue": "A twisted or knotted lump on a tree",
+            "answer": "gnarl",
+            "normalized": "gnarl"
           },
           {
-            "id": "8d00bd5a-6133-4237-991f-d70645588002",
-            "clue": "Luke's teacher, __-Wan Kenobi",
-            "answer": "obi",
-            "normalized": "obi"
+            "id": "d288e69b-618b-4491-82bd-07a72e1a7a4f",
+            "clue": "Italian baritone of opera and film",
+            "answer": "tito gobbi",
+            "normalized": "titogobbi"
           },
           {
-            "id": "79222435-28ed-4ddf-ba9f-af3185e989d3",
-            "clue": "Male plural pronoun for \"they\" in French",
-            "answer": "ils",
-            "normalized": "ils"
+            "id": "070697db-b277-439c-9188-cfa252ea25af",
+            "clue": "French for blue",
+            "answer": "bleu",
+            "normalized": "bleu"
           },
           {
-            "id": "9d097fec-2f09-4971-bce7-9807d103721b",
-            "clue": "Collective nobilities",
-            "answer": "baronages",
-            "normalized": "baronages"
+            "id": "02ec2be7-35ca-4dbe-9ad1-ad134453abf4",
+            "clue": "Deliberately imperfect music production style",
+            "answer": "lo-fi",
+            "normalized": "lofi"
           },
           {
-            "id": "6707d7b9-f5bc-43ec-9e58-65627d6ad20f",
-            "clue": "Photo story, progressing through multiple pictures",
-            "answer": "slideshow",
-            "normalized": "slideshow"
+            "id": "a88c31b4-02c2-4080-9c6a-82d766604208",
+            "clue": "They make chicks and eggs",
+            "answer": "hens",
+            "normalized": "hens"
           },
           {
-            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
-            "clue": "Relating to the country with Vientiane as capital",
-            "answer": "lao",
-            "normalized": "lao"
+            "id": "f961a3d5-799d-41e8-8ec0-99fb9587a62f",
+            "clue": "Sixty-two in Roman times",
+            "answer": "lxii",
+            "normalized": "lxii"
           },
           {
-            "id": "aedb7576-e18c-4ca3-8724-f3d2482876ed",
-            "clue": "Harmful insecticides banned in several nations",
-            "answer": "ddts",
-            "normalized": "ddts"
+            "id": "ab440ef1-461f-456d-97cb-7a9769318ebd",
+            "clue": "No __, ands or buts",
+            "answer": "ifs",
+            "normalized": "ifs"
           },
           {
-            "id": "09229066-85a6-40a9-b322-89847b4f4c21",
-            "clue": "Site of Christ's water-into-wine story",
-            "answer": "cana",
-            "normalized": "cana"
+            "id": "7d743288-dd7b-47bc-941a-dc48f25c0d75",
+            "clue": "Common writing style that's not APA",
+            "answer": "mla",
+            "normalized": "mla"
           },
           {
-            "id": "514aef61-a87f-4188-bf58-bee5c3378919",
-            "clue": "Liverpool __, 1990s composition by Paul McCartney",
-            "answer": "oratorio",
-            "normalized": "oratorio"
+            "id": "297b849c-e759-405f-b99e-ee1b8b821ac4",
+            "clue": "Surfing move that needs all the fingers or toes",
+            "answer": "hang ten",
+            "normalized": "hangten"
           },
           {
-            "id": "1cad4346-5c16-4592-be26-4c6de77a664e",
-            "clue": "Medical doctors, abbreviated",
-            "answer": "mds",
-            "normalized": "mds"
+            "id": "6042cfd3-ee7d-4317-93b4-16f98a798720",
+            "clue": "Showing signs of bad luck or fortune; foreboding",
+            "answer": "ominous",
+            "normalized": "ominous"
           },
           {
-            "id": "01e2ff3d-bc24-46da-a7c7-078e9331f352",
-            "clue": "Got possession of an object",
-            "answer": "obtained",
-            "normalized": "obtained"
+            "id": "720b30f1-8a12-49b1-a1c8-5a31879852e6",
+            "clue": "Idiom meaning a run of winning or luck",
+            "answer": "on a roll",
+            "normalized": "onaroll"
           },
           {
-            "id": "61f07aca-2179-4661-ad72-4d1028d17a81",
-            "clue": "Lamp heated by a jet of burning fuel",
-            "answer": "gaslight",
-            "normalized": "gaslight"
+            "id": "8b7aaa40-aeed-4cdb-a0bf-81de29733f53",
+            "clue": "Physical or online place to receive correspondence",
+            "answer": "mailbox",
+            "normalized": "mailbox"
           },
           {
-            "id": "6b60d7d5-526c-42f8-85f3-6385396944ed",
-            "clue": "Ariana Grande's eau de parfum",
-            "answer": "ari",
-            "normalized": "ari"
+            "id": "f6646979-00dc-4f13-bf69-73489adc7506",
+            "clue": "Annual subscription-based revenue, abbreviated",
+            "answer": "arr",
+            "normalized": "arr"
           },
           {
-            "id": "0f0fecc1-f92a-4a64-a23b-62655eb9bc00",
-            "clue": "Showing affection in public",
-            "answer": "pda",
-            "normalized": "pda"
+            "id": "357dcff1-bc72-4a54-ab05-15d9096790d3",
+            "clue": "Barley and wheat relative used in beer and bread",
+            "answer": "rye",
+            "normalized": "rye"
           },
           {
-            "id": "172f511c-3ec4-46c4-9f8e-4ef2a6a60dd0",
-            "clue": "A nanny one might be in a teddy bear",
-            "answer": "cam",
-            "normalized": "cam"
+            "id": "975052e1-c1c0-4d7f-995a-bd93892ec615",
+            "clue": "Game where you might be it",
+            "answer": "tag",
+            "normalized": "tag"
           },
           {
-            "id": "a725dba3-b7d1-4741-a354-d0e24430eb94",
-            "clue": "Large, blundering and clumsy person",
-            "answer": "oaf",
-            "normalized": "oaf"
+            "id": "526defa5-a023-432b-a46f-e2d35e1758db",
+            "clue": "\"To be honest\" abbreviated",
+            "answer": "tbh",
+            "normalized": "tbh"
           },
           {
-            "id": "a9752704-b779-4e46-a8a8-4e566d3059ff",
-            "clue": "Goes after dad to describe middle-aged physique",
-            "answer": "bod",
-            "normalized": "bod"
+            "id": "aba63fe2-d08d-48d4-9c8b-8187573bff0b",
+            "clue": "French for island, goes before \"de France\"",
+            "answer": "ile",
+            "normalized": "ile"
           },
           {
-            "id": "df61566f-44a3-4e17-9841-2fdb89b533dc",
-            "clue": "People born under the sign of the lion",
-            "answer": "leos",
-            "normalized": "leos"
+            "id": "a08ac342-6722-4c8a-851b-059157862a3e",
+            "clue": "Short name for the British Film Institute",
+            "answer": "bfi",
+            "normalized": "bfi"
           },
           {
-            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
-            "clue": "South-southwest for short",
-            "answer": "ssw",
-            "normalized": "ssw"
-          },
-          {
-            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
-            "clue": "Many deaf people use this language in the UK",
-            "answer": "bsl",
-            "normalized": "bsl"
-          },
-          {
-            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
-            "clue": "\"To the\" in French, goes before \"mode\"",
-            "answer": "a la",
-            "normalized": "ala"
-          },
-          {
-            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-            "clue": "Autism is formally known as __, abbr.",
-            "answer": "asd",
-            "normalized": "asd"
+            "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
+            "clue": "Jealous eponymous Shakespeare lead, Richard __",
+            "answer": "iii",
+            "normalized": "iii"
           }
         ],
-        "track": "PC|LenC--Y2026M6D19F1"
+        "track": "PC|LenC--Y2026M6D20F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-19",
+      "key": "2026-06-20",
       "year": 2026,
       "month": 6,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "d994c0ce-07b1-4187-b7a9-1a760996b668",
+        "puzzleId": "75450ce9-0835-4225-bb09-572c79e0d4d0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "e2d2e0e7-2be6-48a0-aaf5-035d11a04d68",
-            "clue": "Three letters to denote a postgrad in sciences",
-            "answer": "msc",
-            "normalized": "msc"
+            "id": "0800ef46-d476-4ed2-877e-a1275e66d313",
+            "clue": "The whole amount",
+            "answer": "all",
+            "normalized": "all"
           },
           {
-            "id": "c879f9e5-33d0-4364-9a92-6a1a31a44fb1",
-            "clue": "Death notice author",
-            "answer": "obiter",
-            "normalized": "obiter"
+            "id": "6bd0c920-3eb5-42b1-a401-5c74f77ae96d",
+            "clue": "Unwanted water goes into these in the ground",
+            "answer": "drain",
+            "normalized": "drain"
           },
           {
-            "id": "cf84c513-9bb4-48a7-a610-47f0d8034fe5",
-            "clue": "Grand __; largest island of Comoros",
-            "answer": "comore",
-            "normalized": "comore"
+            "id": "00e0c1ac-6cd3-4afe-be70-c92f690888a4",
+            "clue": "Chemical formula for silver fulminate",
+            "answer": "agcno",
+            "normalized": "agcno"
           },
           {
-            "id": "531ee65b-3e3c-4a4e-bc3a-4860d6a872d3",
-            "clue": "Long white radish also called a mooli",
-            "answer": "daikon",
-            "normalized": "daikon"
+            "id": "ce15263c-3d8f-4b50-b824-4c1cd914baae",
+            "clue": "Duke __,  muscly video-game tough guy",
+            "answer": "nukem",
+            "normalized": "nukem"
           },
           {
-            "id": "16bcc911-9ff8-474e-9a8e-fcbc04639697",
-            "clue": "Draw in a match",
-            "answer": "tie",
-            "normalized": "tie"
+            "id": "c1016cf8-6a5d-4c0b-9fbd-0d57baedc0bc",
+            "clue": "Carolyn __, Nancy Drew writers' pen name",
+            "answer": "keene",
+            "normalized": "keene"
           },
           {
-            "id": "0b304772-12e0-4e49-80d2-9316347bfb05",
-            "clue": "Sustainable fashion company with Spine collection",
-            "answer": "mimii",
-            "normalized": "mimii"
+            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
+            "clue": "Windows system file extension",
+            "answer": "sys",
+            "normalized": "sys"
           },
           {
-            "id": "a727e30b-d7e7-4ff6-aee3-33a841c6be45",
-            "clue": "Tend to a fire or a steam engine",
-            "answer": "stoke",
-            "normalized": "stoke"
+            "id": "e832ec20-dba3-4a1f-b47d-4aa0d8caabbb",
+            "clue": "Contends, disagrees",
+            "answer": "argues",
+            "normalized": "argues"
           },
           {
-            "id": "289cccc7-aee6-4184-bd67-685a1061134f",
-            "clue": "Zero (Sp.)",
-            "answer": "cero",
-            "normalized": "cero"
+            "id": "28d4a7a0-0fa4-45f7-8ba9-b70665eae2b4",
+            "clue": "Servant, an obedient follower, a footman or valet",
+            "answer": "lackey",
+            "normalized": "lackey"
           },
           {
-            "id": "0485ccc7-99ef-421c-a790-9e59237e460f",
-            "clue": "Short way to say obsessive compulsive disorder",
-            "answer": "ocd",
-            "normalized": "ocd"
+            "id": "a3419487-905e-4025-b9d7-61fc9b3e8a26",
+            "clue": "Household fabrics like towels, bedding, etc.",
+            "answer": "linens",
+            "normalized": "linens"
           },
           {
-            "id": "5d5c116e-e049-4cc0-a044-de08e5f78969",
-            "clue": "Take a trip on water in a craft",
-            "answer": "boat",
-            "normalized": "boat"
+            "id": "00c5e176-109f-4bd6-9201-a6394bc1e731",
+            "clue": "Dark and moist",
+            "answer": "dank",
+            "normalized": "dank"
           },
           {
-            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
-            "clue": "Cartoon Chihuahua paired with cat Stimpy",
-            "answer": "ren",
-            "normalized": "ren"
+            "id": "59c77203-631f-46b6-b6f0-62047d09fe52",
+            "clue": "Alaskan city where the Iditarod ends",
+            "answer": "nome",
+            "normalized": "nome"
           }
         ],
-        "track": "PC|LenC--Y2026M6D19F0"
+        "track": "PC|LenC--Y2026M6D20F0"
       },
       "mid": {
-        "puzzleId": "a58d1169-95c2-4852-ad39-388a9a970245",
+        "puzzleId": "1240e961-7011-4684-b73d-46eb4dfc740a",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "606316cf-0ca0-438b-9de4-6a89a9804acd",
-            "clue": "Last name of Some Enchanted Evening crooner Perry",
-            "answer": "como",
-            "normalized": "como"
+            "id": "7ec2fcb8-98b2-478d-b9cf-f6a39236dd9a",
+            "clue": "In my humble opinion, abbreviation",
+            "answer": "imho",
+            "normalized": "imho"
           },
           {
-            "id": "39807f89-42b8-4044-a63f-b9c522a754b0",
-            "clue": "An opening or space between two rocks",
-            "answer": "gap",
-            "normalized": "gap"
+            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
+            "clue": "Actor Epps of Shooter and House",
+            "answer": "omar",
+            "normalized": "omar"
           },
           {
-            "id": "3cecab3b-b756-4827-82ea-10b5f26ab488",
-            "clue": "Tough paper material storage boxes are made from",
-            "answer": "cardboard",
-            "normalized": "cardboard"
+            "id": "da60ce48-d703-45b8-9221-d723042c4c89",
+            "clue": "Partner to flim",
+            "answer": "flam",
+            "normalized": "flam"
           },
           {
-            "id": "437879b6-b23c-43af-a944-75807b2f961a",
-            "clue": "Film based on a Russian Grand Duchess' story",
-            "answer": "anastasia",
-            "normalized": "anastasia"
+            "id": "b066812c-a2da-4456-90c1-4d46395441f1",
+            "clue": "Not at all",
+            "answer": "nary",
+            "normalized": "nary"
           },
           {
-            "id": "6587ce71-ce79-4b37-a070-8f96916ae8fd",
-            "clue": "Wrestling surface",
-            "answer": "mat",
-            "normalized": "mat"
+            "id": "6edcd1d6-35fc-4524-ae7d-6bd0a172eb2e",
+            "clue": "Cordon __, barrier to prevent disease spreading",
+            "answer": "sanitaire",
+            "normalized": "sanitaire"
           },
           {
-            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
-            "clue": "Australian Football League, in short",
-            "answer": "afl",
-            "normalized": "afl"
+            "id": "8b1c9296-fbd6-4539-b13b-aac7e3410bf1",
+            "clue": "A twisted or knotted lump on a tree",
+            "answer": "gnarl",
+            "normalized": "gnarl"
           },
           {
-            "id": "8d00bd5a-6133-4237-991f-d70645588002",
-            "clue": "Luke's teacher, __-Wan Kenobi",
-            "answer": "obi",
-            "normalized": "obi"
+            "id": "d288e69b-618b-4491-82bd-07a72e1a7a4f",
+            "clue": "Italian baritone of opera and film",
+            "answer": "tito gobbi",
+            "normalized": "titogobbi"
           },
           {
-            "id": "79222435-28ed-4ddf-ba9f-af3185e989d3",
-            "clue": "Male plural pronoun for \"they\" in French",
-            "answer": "ils",
-            "normalized": "ils"
+            "id": "070697db-b277-439c-9188-cfa252ea25af",
+            "clue": "French for blue",
+            "answer": "bleu",
+            "normalized": "bleu"
           },
           {
-            "id": "9d097fec-2f09-4971-bce7-9807d103721b",
-            "clue": "Collective nobilities",
-            "answer": "baronages",
-            "normalized": "baronages"
+            "id": "02ec2be7-35ca-4dbe-9ad1-ad134453abf4",
+            "clue": "Deliberately imperfect music production style",
+            "answer": "lo-fi",
+            "normalized": "lofi"
           },
           {
-            "id": "6707d7b9-f5bc-43ec-9e58-65627d6ad20f",
-            "clue": "Photo story, progressing through multiple pictures",
-            "answer": "slideshow",
-            "normalized": "slideshow"
+            "id": "a88c31b4-02c2-4080-9c6a-82d766604208",
+            "clue": "They make chicks and eggs",
+            "answer": "hens",
+            "normalized": "hens"
           },
           {
-            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
-            "clue": "Relating to the country with Vientiane as capital",
-            "answer": "lao",
-            "normalized": "lao"
+            "id": "f961a3d5-799d-41e8-8ec0-99fb9587a62f",
+            "clue": "Sixty-two in Roman times",
+            "answer": "lxii",
+            "normalized": "lxii"
           },
           {
-            "id": "aedb7576-e18c-4ca3-8724-f3d2482876ed",
-            "clue": "Harmful insecticides banned in several nations",
-            "answer": "ddts",
-            "normalized": "ddts"
+            "id": "ab440ef1-461f-456d-97cb-7a9769318ebd",
+            "clue": "No __, ands or buts",
+            "answer": "ifs",
+            "normalized": "ifs"
           },
           {
-            "id": "09229066-85a6-40a9-b322-89847b4f4c21",
-            "clue": "Site of Christ's water-into-wine story",
-            "answer": "cana",
-            "normalized": "cana"
+            "id": "7d743288-dd7b-47bc-941a-dc48f25c0d75",
+            "clue": "Common writing style that's not APA",
+            "answer": "mla",
+            "normalized": "mla"
           },
           {
-            "id": "514aef61-a87f-4188-bf58-bee5c3378919",
-            "clue": "Liverpool __, 1990s composition by Paul McCartney",
-            "answer": "oratorio",
-            "normalized": "oratorio"
+            "id": "297b849c-e759-405f-b99e-ee1b8b821ac4",
+            "clue": "Surfing move that needs all the fingers or toes",
+            "answer": "hang ten",
+            "normalized": "hangten"
           },
           {
-            "id": "1cad4346-5c16-4592-be26-4c6de77a664e",
-            "clue": "Medical doctors, abbreviated",
-            "answer": "mds",
-            "normalized": "mds"
+            "id": "6042cfd3-ee7d-4317-93b4-16f98a798720",
+            "clue": "Showing signs of bad luck or fortune; foreboding",
+            "answer": "ominous",
+            "normalized": "ominous"
           },
           {
-            "id": "01e2ff3d-bc24-46da-a7c7-078e9331f352",
-            "clue": "Got possession of an object",
-            "answer": "obtained",
-            "normalized": "obtained"
+            "id": "720b30f1-8a12-49b1-a1c8-5a31879852e6",
+            "clue": "Idiom meaning a run of winning or luck",
+            "answer": "on a roll",
+            "normalized": "onaroll"
           },
           {
-            "id": "61f07aca-2179-4661-ad72-4d1028d17a81",
-            "clue": "Lamp heated by a jet of burning fuel",
-            "answer": "gaslight",
-            "normalized": "gaslight"
+            "id": "8b7aaa40-aeed-4cdb-a0bf-81de29733f53",
+            "clue": "Physical or online place to receive correspondence",
+            "answer": "mailbox",
+            "normalized": "mailbox"
           },
           {
-            "id": "6b60d7d5-526c-42f8-85f3-6385396944ed",
-            "clue": "Ariana Grande's eau de parfum",
-            "answer": "ari",
-            "normalized": "ari"
+            "id": "f6646979-00dc-4f13-bf69-73489adc7506",
+            "clue": "Annual subscription-based revenue, abbreviated",
+            "answer": "arr",
+            "normalized": "arr"
           },
           {
-            "id": "0f0fecc1-f92a-4a64-a23b-62655eb9bc00",
-            "clue": "Showing affection in public",
-            "answer": "pda",
-            "normalized": "pda"
+            "id": "357dcff1-bc72-4a54-ab05-15d9096790d3",
+            "clue": "Barley and wheat relative used in beer and bread",
+            "answer": "rye",
+            "normalized": "rye"
           },
           {
-            "id": "172f511c-3ec4-46c4-9f8e-4ef2a6a60dd0",
-            "clue": "A nanny one might be in a teddy bear",
-            "answer": "cam",
-            "normalized": "cam"
+            "id": "975052e1-c1c0-4d7f-995a-bd93892ec615",
+            "clue": "Game where you might be it",
+            "answer": "tag",
+            "normalized": "tag"
           },
           {
-            "id": "a725dba3-b7d1-4741-a354-d0e24430eb94",
-            "clue": "Large, blundering and clumsy person",
-            "answer": "oaf",
-            "normalized": "oaf"
+            "id": "526defa5-a023-432b-a46f-e2d35e1758db",
+            "clue": "\"To be honest\" abbreviated",
+            "answer": "tbh",
+            "normalized": "tbh"
           },
           {
-            "id": "a9752704-b779-4e46-a8a8-4e566d3059ff",
-            "clue": "Goes after dad to describe middle-aged physique",
-            "answer": "bod",
-            "normalized": "bod"
+            "id": "aba63fe2-d08d-48d4-9c8b-8187573bff0b",
+            "clue": "French for island, goes before \"de France\"",
+            "answer": "ile",
+            "normalized": "ile"
           },
           {
-            "id": "df61566f-44a3-4e17-9841-2fdb89b533dc",
-            "clue": "People born under the sign of the lion",
-            "answer": "leos",
-            "normalized": "leos"
+            "id": "a08ac342-6722-4c8a-851b-059157862a3e",
+            "clue": "Short name for the British Film Institute",
+            "answer": "bfi",
+            "normalized": "bfi"
           },
           {
-            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
-            "clue": "South-southwest for short",
-            "answer": "ssw",
-            "normalized": "ssw"
-          },
-          {
-            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
-            "clue": "Many deaf people use this language in the UK",
-            "answer": "bsl",
-            "normalized": "bsl"
-          },
-          {
-            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
-            "clue": "\"To the\" in French, goes before \"mode\"",
-            "answer": "a la",
-            "normalized": "ala"
-          },
-          {
-            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-            "clue": "Autism is formally known as __, abbr.",
-            "answer": "asd",
-            "normalized": "asd"
+            "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
+            "clue": "Jealous eponymous Shakespeare lead, Richard __",
+            "answer": "iii",
+            "normalized": "iii"
           }
         ],
-        "track": "PC|LenC--Y2026M6D19F1"
+        "track": "PC|LenC--Y2026M6D20F1"
       }
     },
     "latestAvailableEntry": {
@@ -422150,21 +422114,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "4YGVnLFEY0ercUbNRJ8Xf81H4L1dBjEOMqLtqvtMWEdRTFuLxGc3e6jK+pj/25Ijza+4zFP7HpuuZs3qfesUV5nnMp2Huo9JcbRp+fwBOluB+qtIlgT6VrGYPbSG1LzT+YlE30NaIBKTg2u4EHNYl/3cNslqRnCVqW+BzeeDL8z8+KNBJt+As54CRUDbvEPkSDDt1gxhkCEWYi+VYX/bv/fro792eSRgV+2y8d3alNwidU0wYKAORRCkbE9LcMV/iMhN8Dd29F/TOKoRazSpkcF3KtuIUqtnv1XrTK6A6xM="
+        "jZINx4bTOLOJf6rEMgJtUOft46P+u2Vv3Ee+SWAh/+xGYz5kCHVPoUv8zAUhQov4QbsYaEWiQAaGEf2jzczk/KP03H9HHoWtKn/ghzX7XDgxcudoXIsjX6FHnMt5hRCTEwFfbj9I1wloPMusP2GJQB4+qoPyCToVgAJ5/Ah2q1dm4udkZWLFjDRQSDueWtg+piATqbVjFFDKxnEJNhQ8O/gJzdN6Ws+Qec8rYrsHzorJfHvOgvzmpY+au03yi8eot9z3SO7dAGKCR2y7VAXxyoseHRalsz9IL4RCO8av0Wg="
       ]
     },
     "decrypted": {
-      "Id": "c0805173-6e43-4d30-89de-b91b02f7153c",
-      "Date": "2026-06-19T00:00:00Z",
+      "Id": "e85e2741-b522-4616-b85b-adb53740ac8b",
+      "Date": "2026-06-20T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "guess",
-      "NormalizedPassword": "guess",
+      "Password": "event",
+      "NormalizedPassword": "event",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-19T02:12:37.5420000+05:30",
-    "hash": "c102188a5df00beca072ff5c7f761509",
+    "dtu": "2026-06-20T01:41:31.9180000+05:30",
+    "hash": "f375b093b1d3cfeedb0672f012da87da",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
