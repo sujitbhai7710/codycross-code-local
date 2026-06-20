@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-19T20:11:31.918Z",
+  "generatedAt": "2026-06-20T20:01:48.684Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 20
+    "day": 21
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 36
+        "QuantidadeDeFases": 38
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -44516,7 +44516,7 @@
             },
             {
               "id": "d872f22e-d840-43bd-a70d-59fe49ad9583",
-              "clue": "Crazy (Spa.)",
+              "clue": "Hawaiian comfort dish, __ moco",
               "answer": "loco",
               "normalized": "loco"
             },
@@ -74308,7 +74308,7 @@
             },
             {
               "id": "d872f22e-d840-43bd-a70d-59fe49ad9583",
-              "clue": "Crazy (Spa.)",
+              "clue": "Hawaiian comfort dish, __ moco",
               "answer": "loco",
               "normalized": "loco"
             },
@@ -421410,475 +421410,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-20",
+      "key": "2026-06-21",
       "year": 2026,
       "month": 6,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "75450ce9-0835-4225-bb09-572c79e0d4d0",
+        "puzzleId": "19ab9aca-a693-47d6-a357-080c94c1368f",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "0800ef46-d476-4ed2-877e-a1275e66d313",
-            "clue": "The whole amount",
-            "answer": "all",
-            "normalized": "all"
+            "id": "488539c8-67f4-4592-9dcb-8bdd33864138",
+            "clue": "Move with roller blades",
+            "answer": "skate",
+            "normalized": "skate"
           },
           {
-            "id": "6bd0c920-3eb5-42b1-a401-5c74f77ae96d",
-            "clue": "Unwanted water goes into these in the ground",
-            "answer": "drain",
-            "normalized": "drain"
+            "id": "e42d8f6b-681c-4464-a49f-1260de5df4ab",
+            "clue": "Not behind",
+            "answer": "ahead",
+            "normalized": "ahead"
           },
           {
-            "id": "00e0c1ac-6cd3-4afe-be70-c92f690888a4",
-            "clue": "Chemical formula for silver fulminate",
-            "answer": "agcno",
-            "normalized": "agcno"
+            "id": "12e09b5b-f073-4a73-9d0d-3c52540c3052",
+            "clue": "Unusable material or garbage",
+            "answer": "waste",
+            "normalized": "waste"
           },
           {
-            "id": "ce15263c-3d8f-4b50-b824-4c1cd914baae",
-            "clue": "Duke __,  muscly video-game tough guy",
-            "answer": "nukem",
-            "normalized": "nukem"
+            "id": "85324b45-bfa7-452e-aaf9-1e7eeaffa1af",
+            "clue": "A person, place, or thing",
+            "answer": "noun",
+            "normalized": "noun"
           },
           {
-            "id": "c1016cf8-6a5d-4c0b-9fbd-0d57baedc0bc",
-            "clue": "Carolyn __, Nancy Drew writers' pen name",
-            "answer": "keene",
-            "normalized": "keene"
+            "id": "229640ab-4608-4bf6-889a-39a36000d22c",
+            "clue": "World leaders, for short",
+            "answer": "pms",
+            "normalized": "pms"
           },
           {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
+            "id": "eecc3b99-07bf-4cd2-b000-a0c7045094f4",
+            "clue": "Spied, as in “I spy with my little eye…”",
+            "answer": "saw",
+            "normalized": "saw"
           },
           {
-            "id": "e832ec20-dba3-4a1f-b47d-4aa0d8caabbb",
-            "clue": "Contends, disagrees",
-            "answer": "argues",
-            "normalized": "argues"
+            "id": "b2fd61ad-762d-425b-9f5e-a41193ce76e1",
+            "clue": "Title for Genghis and Kublai",
+            "answer": "khan",
+            "normalized": "khan"
           },
           {
-            "id": "28d4a7a0-0fa4-45f7-8ba9-b70665eae2b4",
-            "clue": "Servant, an obedient follower, a footman or valet",
-            "answer": "lackey",
-            "normalized": "lackey"
+            "id": "f2945296-e333-4ca9-bb3c-f6367def2ec7",
+            "clue": "Writer of fables like The Tortoise and the Hare",
+            "answer": "aesop",
+            "normalized": "aesop"
           },
           {
-            "id": "a3419487-905e-4025-b9d7-61fc9b3e8a26",
-            "clue": "Household fabrics like towels, bedding, etc.",
-            "answer": "linens",
-            "normalized": "linens"
+            "id": "d2383e79-e23f-4486-a4c8-482392878a48",
+            "clue": "Channing who played Magic Mike's Mike",
+            "answer": "tatum",
+            "normalized": "tatum"
           },
           {
-            "id": "00c5e176-109f-4bd6-9201-a6394bc1e731",
-            "clue": "Dark and moist",
-            "answer": "dank",
-            "normalized": "dank"
-          },
-          {
-            "id": "59c77203-631f-46b6-b6f0-62047d09fe52",
-            "clue": "Alaskan city where the Iditarod ends",
-            "answer": "nome",
-            "normalized": "nome"
+            "id": "b3b3e4ad-b0ef-422e-8f9d-7b925bcfb2af",
+            "clue": "Paradisiacal gardens",
+            "answer": "edens",
+            "normalized": "edens"
           }
         ],
-        "track": "PC|LenC--Y2026M6D20F0"
+        "track": "PC|LenC--Y2026M6D21F0"
       },
       "mid": {
-        "puzzleId": "1240e961-7011-4684-b73d-46eb4dfc740a",
+        "puzzleId": "3826b792-f1ea-4938-a1fd-a38daa709e7c",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "7ec2fcb8-98b2-478d-b9cf-f6a39236dd9a",
-            "clue": "In my humble opinion, abbreviation",
-            "answer": "imho",
-            "normalized": "imho"
+            "id": "223ffeb3-ba11-4f1f-9d60-5618429b3f04",
+            "clue": "Dissolve sugar in a cup of tea with a spoon",
+            "answer": "stir",
+            "normalized": "stir"
           },
           {
-            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
-            "clue": "Actor Epps of Shooter and House",
-            "answer": "omar",
-            "normalized": "omar"
+            "id": "c208121e-d2f1-41aa-a0b8-d1d32b0944c6",
+            "clue": "Post __, legal examination of a cause of death",
+            "answer": "mortem",
+            "normalized": "mortem"
           },
           {
-            "id": "da60ce48-d703-45b8-9221-d723042c4c89",
-            "clue": "Partner to flim",
-            "answer": "flam",
-            "normalized": "flam"
+            "id": "1845fb37-806c-4d3f-85d9-7ea247ba4633",
+            "clue": "Cher's comeback, club hit in 1999",
+            "answer": "believe",
+            "normalized": "believe"
           },
           {
-            "id": "b066812c-a2da-4456-90c1-4d46395441f1",
-            "clue": "Not at all",
-            "answer": "nary",
-            "normalized": "nary"
+            "id": "640ca757-21b7-4e02-87b0-906aaf4c426d",
+            "clue": "Affirmative word shouted before queen!",
+            "answer": "yas",
+            "normalized": "yas"
           },
           {
-            "id": "6edcd1d6-35fc-4524-ae7d-6bd0a172eb2e",
-            "clue": "Cordon __, barrier to prevent disease spreading",
-            "answer": "sanitaire",
-            "normalized": "sanitaire"
+            "id": "1a7eee60-d13c-4823-9806-7a2f9985a1e5",
+            "clue": "Abbreviation for rewind on a tape player",
+            "answer": "rew",
+            "normalized": "rew"
           },
           {
-            "id": "8b1c9296-fbd6-4539-b13b-aac7e3410bf1",
-            "clue": "A twisted or knotted lump on a tree",
-            "answer": "gnarl",
-            "normalized": "gnarl"
+            "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
+            "clue": "Explosive letters",
+            "answer": "tnt",
+            "normalized": "tnt"
           },
           {
-            "id": "d288e69b-618b-4491-82bd-07a72e1a7a4f",
-            "clue": "Italian baritone of opera and film",
-            "answer": "tito gobbi",
-            "normalized": "titogobbi"
+            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
+            "clue": "Warm-fermented beer, rhymes with pale",
+            "answer": "ale",
+            "normalized": "ale"
           },
           {
-            "id": "070697db-b277-439c-9188-cfa252ea25af",
-            "clue": "French for blue",
-            "answer": "bleu",
-            "normalized": "bleu"
+            "id": "88d31dfd-7b83-45f6-8b07-b4bf20a38c2c",
+            "clue": "Robbed from a bank, museum, gallery",
+            "answer": "heisted",
+            "normalized": "heisted"
           },
           {
-            "id": "02ec2be7-35ca-4dbe-9ad1-ad134453abf4",
-            "clue": "Deliberately imperfect music production style",
-            "answer": "lo-fi",
-            "normalized": "lofi"
+            "id": "a57a0b18-463f-406a-9d60-7149060715c6",
+            "clue": "Dutch artist, drew optically confusing staircases",
+            "answer": "escher",
+            "normalized": "escher"
           },
           {
-            "id": "a88c31b4-02c2-4080-9c6a-82d766604208",
-            "clue": "They make chicks and eggs",
-            "answer": "hens",
-            "normalized": "hens"
+            "id": "cc3b75a9-2c0b-4465-914f-e68c66a8955f",
+            "clue": "Casual tops without buttons, for short",
+            "answer": "tees",
+            "normalized": "tees"
           },
           {
-            "id": "f961a3d5-799d-41e8-8ec0-99fb9587a62f",
-            "clue": "Sixty-two in Roman times",
-            "answer": "lxii",
-            "normalized": "lxii"
+            "id": "09b34c44-8a56-474a-85dc-1ef39d348b56",
+            "clue": "The summer one is the official end of spring",
+            "answer": "solstice",
+            "normalized": "solstice"
           },
           {
-            "id": "ab440ef1-461f-456d-97cb-7a9769318ebd",
-            "clue": "No __, ands or buts",
-            "answer": "ifs",
-            "normalized": "ifs"
+            "id": "86bfad60-885b-40cd-9d70-ed076770e4e0",
+            "clue": "Prefix meaning three",
+            "answer": "tri",
+            "normalized": "tri"
           },
           {
-            "id": "7d743288-dd7b-47bc-941a-dc48f25c0d75",
-            "clue": "Common writing style that's not APA",
-            "answer": "mla",
-            "normalized": "mla"
+            "id": "4b6a68dd-9de1-4beb-9e72-4a83f58279b5",
+            "clue": "Says, puts into words; anagram of treaties",
+            "answer": "iterates",
+            "normalized": "iterates"
           },
           {
-            "id": "297b849c-e759-405f-b99e-ee1b8b821ac4",
-            "clue": "Surfing move that needs all the fingers or toes",
-            "answer": "hang ten",
-            "normalized": "hangten"
+            "id": "5ddb58a9-6ad5-4472-a856-b2810c2f5986",
+            "clue": "Lively, noisy participant",
+            "answer": "reveler",
+            "normalized": "reveler"
           },
           {
-            "id": "6042cfd3-ee7d-4317-93b4-16f98a798720",
-            "clue": "Showing signs of bad luck or fortune; foreboding",
-            "answer": "ominous",
-            "normalized": "ominous"
+            "id": "3c287d75-096c-45c3-9d00-650b1fda65eb",
+            "clue": "The cruelest or most unkind",
+            "answer": "meanest",
+            "normalized": "meanest"
           },
           {
-            "id": "720b30f1-8a12-49b1-a1c8-5a31879852e6",
-            "clue": "Idiom meaning a run of winning or luck",
-            "answer": "on a roll",
-            "normalized": "onaroll"
+            "id": "01b33a20-5664-4b31-b156-493f309e05bb",
+            "clue": "Made a quiet cat noise",
+            "answer": "mewed",
+            "normalized": "mewed"
           },
           {
-            "id": "8b7aaa40-aeed-4cdb-a0bf-81de29733f53",
-            "clue": "Physical or online place to receive correspondence",
-            "answer": "mailbox",
-            "normalized": "mailbox"
+            "id": "f7223c5c-bb2e-49fa-a177-e0058cf4d738",
+            "clue": "2003 and 2022 film, Cheaper __ Dozen",
+            "answer": "by the",
+            "normalized": "bythe"
           },
           {
-            "id": "f6646979-00dc-4f13-bf69-73489adc7506",
-            "clue": "Annual subscription-based revenue, abbreviated",
-            "answer": "arr",
-            "normalized": "arr"
-          },
-          {
-            "id": "357dcff1-bc72-4a54-ab05-15d9096790d3",
-            "clue": "Barley and wheat relative used in beer and bread",
-            "answer": "rye",
-            "normalized": "rye"
-          },
-          {
-            "id": "975052e1-c1c0-4d7f-995a-bd93892ec615",
-            "clue": "Game where you might be it",
-            "answer": "tag",
-            "normalized": "tag"
-          },
-          {
-            "id": "526defa5-a023-432b-a46f-e2d35e1758db",
-            "clue": "\"To be honest\" abbreviated",
-            "answer": "tbh",
-            "normalized": "tbh"
-          },
-          {
-            "id": "aba63fe2-d08d-48d4-9c8b-8187573bff0b",
-            "clue": "French for island, goes before \"de France\"",
-            "answer": "ile",
-            "normalized": "ile"
-          },
-          {
-            "id": "a08ac342-6722-4c8a-851b-059157862a3e",
-            "clue": "Short name for the British Film Institute",
-            "answer": "bfi",
-            "normalized": "bfi"
-          },
-          {
-            "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-            "clue": "Jealous eponymous Shakespeare lead, Richard __",
-            "answer": "iii",
-            "normalized": "iii"
+            "id": "370a87ee-9e53-4c3a-9502-8fe192538650",
+            "clue": "Feminine pronoun",
+            "answer": "she",
+            "normalized": "she"
           }
         ],
-        "track": "PC|LenC--Y2026M6D20F1"
+        "track": "PC|LenC--Y2026M6D21F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-20",
+      "key": "2026-06-21",
       "year": 2026,
       "month": 6,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "75450ce9-0835-4225-bb09-572c79e0d4d0",
+        "puzzleId": "19ab9aca-a693-47d6-a357-080c94c1368f",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "0800ef46-d476-4ed2-877e-a1275e66d313",
-            "clue": "The whole amount",
-            "answer": "all",
-            "normalized": "all"
+            "id": "488539c8-67f4-4592-9dcb-8bdd33864138",
+            "clue": "Move with roller blades",
+            "answer": "skate",
+            "normalized": "skate"
           },
           {
-            "id": "6bd0c920-3eb5-42b1-a401-5c74f77ae96d",
-            "clue": "Unwanted water goes into these in the ground",
-            "answer": "drain",
-            "normalized": "drain"
+            "id": "e42d8f6b-681c-4464-a49f-1260de5df4ab",
+            "clue": "Not behind",
+            "answer": "ahead",
+            "normalized": "ahead"
           },
           {
-            "id": "00e0c1ac-6cd3-4afe-be70-c92f690888a4",
-            "clue": "Chemical formula for silver fulminate",
-            "answer": "agcno",
-            "normalized": "agcno"
+            "id": "12e09b5b-f073-4a73-9d0d-3c52540c3052",
+            "clue": "Unusable material or garbage",
+            "answer": "waste",
+            "normalized": "waste"
           },
           {
-            "id": "ce15263c-3d8f-4b50-b824-4c1cd914baae",
-            "clue": "Duke __,  muscly video-game tough guy",
-            "answer": "nukem",
-            "normalized": "nukem"
+            "id": "85324b45-bfa7-452e-aaf9-1e7eeaffa1af",
+            "clue": "A person, place, or thing",
+            "answer": "noun",
+            "normalized": "noun"
           },
           {
-            "id": "c1016cf8-6a5d-4c0b-9fbd-0d57baedc0bc",
-            "clue": "Carolyn __, Nancy Drew writers' pen name",
-            "answer": "keene",
-            "normalized": "keene"
+            "id": "229640ab-4608-4bf6-889a-39a36000d22c",
+            "clue": "World leaders, for short",
+            "answer": "pms",
+            "normalized": "pms"
           },
           {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
+            "id": "eecc3b99-07bf-4cd2-b000-a0c7045094f4",
+            "clue": "Spied, as in “I spy with my little eye…”",
+            "answer": "saw",
+            "normalized": "saw"
           },
           {
-            "id": "e832ec20-dba3-4a1f-b47d-4aa0d8caabbb",
-            "clue": "Contends, disagrees",
-            "answer": "argues",
-            "normalized": "argues"
+            "id": "b2fd61ad-762d-425b-9f5e-a41193ce76e1",
+            "clue": "Title for Genghis and Kublai",
+            "answer": "khan",
+            "normalized": "khan"
           },
           {
-            "id": "28d4a7a0-0fa4-45f7-8ba9-b70665eae2b4",
-            "clue": "Servant, an obedient follower, a footman or valet",
-            "answer": "lackey",
-            "normalized": "lackey"
+            "id": "f2945296-e333-4ca9-bb3c-f6367def2ec7",
+            "clue": "Writer of fables like The Tortoise and the Hare",
+            "answer": "aesop",
+            "normalized": "aesop"
           },
           {
-            "id": "a3419487-905e-4025-b9d7-61fc9b3e8a26",
-            "clue": "Household fabrics like towels, bedding, etc.",
-            "answer": "linens",
-            "normalized": "linens"
+            "id": "d2383e79-e23f-4486-a4c8-482392878a48",
+            "clue": "Channing who played Magic Mike's Mike",
+            "answer": "tatum",
+            "normalized": "tatum"
           },
           {
-            "id": "00c5e176-109f-4bd6-9201-a6394bc1e731",
-            "clue": "Dark and moist",
-            "answer": "dank",
-            "normalized": "dank"
-          },
-          {
-            "id": "59c77203-631f-46b6-b6f0-62047d09fe52",
-            "clue": "Alaskan city where the Iditarod ends",
-            "answer": "nome",
-            "normalized": "nome"
+            "id": "b3b3e4ad-b0ef-422e-8f9d-7b925bcfb2af",
+            "clue": "Paradisiacal gardens",
+            "answer": "edens",
+            "normalized": "edens"
           }
         ],
-        "track": "PC|LenC--Y2026M6D20F0"
+        "track": "PC|LenC--Y2026M6D21F0"
       },
       "mid": {
-        "puzzleId": "1240e961-7011-4684-b73d-46eb4dfc740a",
+        "puzzleId": "3826b792-f1ea-4938-a1fd-a38daa709e7c",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "7ec2fcb8-98b2-478d-b9cf-f6a39236dd9a",
-            "clue": "In my humble opinion, abbreviation",
-            "answer": "imho",
-            "normalized": "imho"
+            "id": "223ffeb3-ba11-4f1f-9d60-5618429b3f04",
+            "clue": "Dissolve sugar in a cup of tea with a spoon",
+            "answer": "stir",
+            "normalized": "stir"
           },
           {
-            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
-            "clue": "Actor Epps of Shooter and House",
-            "answer": "omar",
-            "normalized": "omar"
+            "id": "c208121e-d2f1-41aa-a0b8-d1d32b0944c6",
+            "clue": "Post __, legal examination of a cause of death",
+            "answer": "mortem",
+            "normalized": "mortem"
           },
           {
-            "id": "da60ce48-d703-45b8-9221-d723042c4c89",
-            "clue": "Partner to flim",
-            "answer": "flam",
-            "normalized": "flam"
+            "id": "1845fb37-806c-4d3f-85d9-7ea247ba4633",
+            "clue": "Cher's comeback, club hit in 1999",
+            "answer": "believe",
+            "normalized": "believe"
           },
           {
-            "id": "b066812c-a2da-4456-90c1-4d46395441f1",
-            "clue": "Not at all",
-            "answer": "nary",
-            "normalized": "nary"
+            "id": "640ca757-21b7-4e02-87b0-906aaf4c426d",
+            "clue": "Affirmative word shouted before queen!",
+            "answer": "yas",
+            "normalized": "yas"
           },
           {
-            "id": "6edcd1d6-35fc-4524-ae7d-6bd0a172eb2e",
-            "clue": "Cordon __, barrier to prevent disease spreading",
-            "answer": "sanitaire",
-            "normalized": "sanitaire"
+            "id": "1a7eee60-d13c-4823-9806-7a2f9985a1e5",
+            "clue": "Abbreviation for rewind on a tape player",
+            "answer": "rew",
+            "normalized": "rew"
           },
           {
-            "id": "8b1c9296-fbd6-4539-b13b-aac7e3410bf1",
-            "clue": "A twisted or knotted lump on a tree",
-            "answer": "gnarl",
-            "normalized": "gnarl"
+            "id": "f7a3a6f1-57f1-4b8d-a2f7-661ca27107c6",
+            "clue": "Explosive letters",
+            "answer": "tnt",
+            "normalized": "tnt"
           },
           {
-            "id": "d288e69b-618b-4491-82bd-07a72e1a7a4f",
-            "clue": "Italian baritone of opera and film",
-            "answer": "tito gobbi",
-            "normalized": "titogobbi"
+            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
+            "clue": "Warm-fermented beer, rhymes with pale",
+            "answer": "ale",
+            "normalized": "ale"
           },
           {
-            "id": "070697db-b277-439c-9188-cfa252ea25af",
-            "clue": "French for blue",
-            "answer": "bleu",
-            "normalized": "bleu"
+            "id": "88d31dfd-7b83-45f6-8b07-b4bf20a38c2c",
+            "clue": "Robbed from a bank, museum, gallery",
+            "answer": "heisted",
+            "normalized": "heisted"
           },
           {
-            "id": "02ec2be7-35ca-4dbe-9ad1-ad134453abf4",
-            "clue": "Deliberately imperfect music production style",
-            "answer": "lo-fi",
-            "normalized": "lofi"
+            "id": "a57a0b18-463f-406a-9d60-7149060715c6",
+            "clue": "Dutch artist, drew optically confusing staircases",
+            "answer": "escher",
+            "normalized": "escher"
           },
           {
-            "id": "a88c31b4-02c2-4080-9c6a-82d766604208",
-            "clue": "They make chicks and eggs",
-            "answer": "hens",
-            "normalized": "hens"
+            "id": "cc3b75a9-2c0b-4465-914f-e68c66a8955f",
+            "clue": "Casual tops without buttons, for short",
+            "answer": "tees",
+            "normalized": "tees"
           },
           {
-            "id": "f961a3d5-799d-41e8-8ec0-99fb9587a62f",
-            "clue": "Sixty-two in Roman times",
-            "answer": "lxii",
-            "normalized": "lxii"
+            "id": "09b34c44-8a56-474a-85dc-1ef39d348b56",
+            "clue": "The summer one is the official end of spring",
+            "answer": "solstice",
+            "normalized": "solstice"
           },
           {
-            "id": "ab440ef1-461f-456d-97cb-7a9769318ebd",
-            "clue": "No __, ands or buts",
-            "answer": "ifs",
-            "normalized": "ifs"
+            "id": "86bfad60-885b-40cd-9d70-ed076770e4e0",
+            "clue": "Prefix meaning three",
+            "answer": "tri",
+            "normalized": "tri"
           },
           {
-            "id": "7d743288-dd7b-47bc-941a-dc48f25c0d75",
-            "clue": "Common writing style that's not APA",
-            "answer": "mla",
-            "normalized": "mla"
+            "id": "4b6a68dd-9de1-4beb-9e72-4a83f58279b5",
+            "clue": "Says, puts into words; anagram of treaties",
+            "answer": "iterates",
+            "normalized": "iterates"
           },
           {
-            "id": "297b849c-e759-405f-b99e-ee1b8b821ac4",
-            "clue": "Surfing move that needs all the fingers or toes",
-            "answer": "hang ten",
-            "normalized": "hangten"
+            "id": "5ddb58a9-6ad5-4472-a856-b2810c2f5986",
+            "clue": "Lively, noisy participant",
+            "answer": "reveler",
+            "normalized": "reveler"
           },
           {
-            "id": "6042cfd3-ee7d-4317-93b4-16f98a798720",
-            "clue": "Showing signs of bad luck or fortune; foreboding",
-            "answer": "ominous",
-            "normalized": "ominous"
+            "id": "3c287d75-096c-45c3-9d00-650b1fda65eb",
+            "clue": "The cruelest or most unkind",
+            "answer": "meanest",
+            "normalized": "meanest"
           },
           {
-            "id": "720b30f1-8a12-49b1-a1c8-5a31879852e6",
-            "clue": "Idiom meaning a run of winning or luck",
-            "answer": "on a roll",
-            "normalized": "onaroll"
+            "id": "01b33a20-5664-4b31-b156-493f309e05bb",
+            "clue": "Made a quiet cat noise",
+            "answer": "mewed",
+            "normalized": "mewed"
           },
           {
-            "id": "8b7aaa40-aeed-4cdb-a0bf-81de29733f53",
-            "clue": "Physical or online place to receive correspondence",
-            "answer": "mailbox",
-            "normalized": "mailbox"
+            "id": "f7223c5c-bb2e-49fa-a177-e0058cf4d738",
+            "clue": "2003 and 2022 film, Cheaper __ Dozen",
+            "answer": "by the",
+            "normalized": "bythe"
           },
           {
-            "id": "f6646979-00dc-4f13-bf69-73489adc7506",
-            "clue": "Annual subscription-based revenue, abbreviated",
-            "answer": "arr",
-            "normalized": "arr"
-          },
-          {
-            "id": "357dcff1-bc72-4a54-ab05-15d9096790d3",
-            "clue": "Barley and wheat relative used in beer and bread",
-            "answer": "rye",
-            "normalized": "rye"
-          },
-          {
-            "id": "975052e1-c1c0-4d7f-995a-bd93892ec615",
-            "clue": "Game where you might be it",
-            "answer": "tag",
-            "normalized": "tag"
-          },
-          {
-            "id": "526defa5-a023-432b-a46f-e2d35e1758db",
-            "clue": "\"To be honest\" abbreviated",
-            "answer": "tbh",
-            "normalized": "tbh"
-          },
-          {
-            "id": "aba63fe2-d08d-48d4-9c8b-8187573bff0b",
-            "clue": "French for island, goes before \"de France\"",
-            "answer": "ile",
-            "normalized": "ile"
-          },
-          {
-            "id": "a08ac342-6722-4c8a-851b-059157862a3e",
-            "clue": "Short name for the British Film Institute",
-            "answer": "bfi",
-            "normalized": "bfi"
-          },
-          {
-            "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-            "clue": "Jealous eponymous Shakespeare lead, Richard __",
-            "answer": "iii",
-            "normalized": "iii"
+            "id": "370a87ee-9e53-4c3a-9502-8fe192538650",
+            "clue": "Feminine pronoun",
+            "answer": "she",
+            "normalized": "she"
           }
         ],
-        "track": "PC|LenC--Y2026M6D20F1"
+        "track": "PC|LenC--Y2026M6D21F1"
       }
     },
     "latestAvailableEntry": {
@@ -422114,21 +422030,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "jZINx4bTOLOJf6rEMgJtUOft46P+u2Vv3Ee+SWAh/+xGYz5kCHVPoUv8zAUhQov4QbsYaEWiQAaGEf2jzczk/KP03H9HHoWtKn/ghzX7XDgxcudoXIsjX6FHnMt5hRCTEwFfbj9I1wloPMusP2GJQB4+qoPyCToVgAJ5/Ah2q1dm4udkZWLFjDRQSDueWtg+piATqbVjFFDKxnEJNhQ8O/gJzdN6Ws+Qec8rYrsHzorJfHvOgvzmpY+au03yi8eot9z3SO7dAGKCR2y7VAXxyoseHRalsz9IL4RCO8av0Wg="
+        "0B4+iMU0/FdHEOUre9N5vu1EIsv9F7As3wqnOyQXm3vYzkgVbVvtDWZWxLass5ydjkdEKjuDGzqjH+jlU7a+Vvm/zKDGxo88a4TNNZUVRH061UI3VNPHVkLRm/mcJ5zJjGKbDCmwkdA8WgVnher7IU7suD525baMhq7caVVS+1xlKlpjrvxd9pYcm5ESjwWPSfLYTRNkvLFhMG3YC+XGvSOHYwjoQzaSkVZYRyynveOQcf0oEyFDQvql46gDxX8zknLhDSnmJaSTM0pa5EcTDG0sBVMxcaZ9vWMwXQLZ22g="
       ]
     },
     "decrypted": {
-      "Id": "e85e2741-b522-4616-b85b-adb53740ac8b",
-      "Date": "2026-06-20T00:00:00Z",
+      "Id": "5c822522-68bf-4f1e-b32f-8cb2893da2c1",
+      "Date": "2026-06-21T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "event",
-      "NormalizedPassword": "event",
+      "Password": "acorn",
+      "NormalizedPassword": "acorn",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 3,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-20T01:41:31.9180000+05:30",
-    "hash": "f375b093b1d3cfeedb0672f012da87da",
+    "dtu": "2026-06-21T01:31:48.6840000+05:30",
+    "hash": "1f3e7148e4865bd4964d006c25f44039",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
