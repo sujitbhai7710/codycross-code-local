@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-21T20:09:52.129Z",
+  "generatedAt": "2026-06-22T21:17:49.222Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 22
+    "day": 23
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 40
+        "QuantidadeDeFases": 42
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -188340,7 +188340,7 @@
             },
             {
               "id": "27a420a9-67a0-4c8e-914f-9b4986373eea",
-              "clue": "Money spent in Bulgaria until 2026",
+              "clue": "Currency of Bulgaria until 2026",
               "answer": "lev",
               "normalized": "lev"
             },
@@ -194223,7 +194223,7 @@
             },
             {
               "id": "27a420a9-67a0-4c8e-914f-9b4986373eea",
-              "clue": "Money spent in Bulgaria until 2026",
+              "clue": "Currency of Bulgaria until 2026",
               "answer": "lev",
               "normalized": "lev"
             },
@@ -196418,7 +196418,7 @@
             },
             {
               "id": "d8750dd9-1641-4cfe-ad4a-52df10375aa7",
-              "clue": "Hurt a fly",
+              "clue": "Hits a fly",
               "answer": "swat",
               "normalized": "swat"
             },
@@ -233006,7 +233006,7 @@
             },
             {
               "id": "27a420a9-67a0-4c8e-914f-9b4986373eea",
-              "clue": "Money spent in Bulgaria until 2026",
+              "clue": "Currency of Bulgaria until 2026",
               "answer": "lev",
               "normalized": "lev"
             },
@@ -249192,7 +249192,7 @@
             },
             {
               "id": "27a420a9-67a0-4c8e-914f-9b4986373eea",
-              "clue": "Money spent in Bulgaria until 2026",
+              "clue": "Currency of Bulgaria until 2026",
               "answer": "lev",
               "normalized": "lev"
             },
@@ -274301,7 +274301,7 @@
             },
             {
               "id": "27a420a9-67a0-4c8e-914f-9b4986373eea",
-              "clue": "Money spent in Bulgaria until 2026",
+              "clue": "Currency of Bulgaria until 2026",
               "answer": "lev",
               "normalized": "lev"
             },
@@ -282640,7 +282640,7 @@
             },
             {
               "id": "d8750dd9-1641-4cfe-ad4a-52df10375aa7",
-              "clue": "Hurt a fly",
+              "clue": "Hits a fly",
               "answer": "swat",
               "normalized": "swat"
             },
@@ -421410,391 +421410,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-22",
+      "key": "2026-06-23",
       "year": 2026,
       "month": 6,
-      "day": 22,
+      "day": 23,
       "small": {
-        "puzzleId": "5527a283-439a-4468-96fe-61fa0f6d43e7",
+        "puzzleId": "a8efde69-0dde-4f37-9318-75042a010de9",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "4182a1f4-17cb-4a0e-9611-f9101c82c62b",
-            "clue": "Type or genre",
-            "answer": "kind",
-            "normalized": "kind"
+            "id": "bdcb20ab-5dfe-44ee-9077-9bee559a8eae",
+            "clue": "A word for destroy that sounds like raise",
+            "answer": "raze",
+            "normalized": "raze"
           },
           {
-            "id": "d3c89406-d9d3-4cdd-ace5-6f6dac607093",
-            "clue": "An apple __ keeps the doctor away",
-            "answer": "a day",
-            "normalized": "aday"
+            "id": "b15b7ddc-1747-4947-9421-ead4b05b34c5",
+            "clue": "Alan, pioneer of computer science",
+            "answer": "turing",
+            "normalized": "turing"
           },
           {
-            "id": "61c90d61-d0cb-4ed8-8450-b63ffa248b97",
-            "clue": "Cross my heart and hope __",
-            "answer": "to die",
-            "normalized": "todie"
+            "id": "d3c2779d-f523-435d-9b94-e4fdcd33acd1",
+            "clue": "Third-largest city in Denmark",
+            "answer": "odense",
+            "normalized": "odense"
           },
           {
-            "id": "ad8f665a-426e-4a11-bf6b-bdd44423b4b4",
-            "clue": "One ring in a chain",
-            "answer": "link",
-            "normalized": "link"
+            "id": "29c66e6d-8a30-4893-89b8-d0c3ffaa5261",
+            "clue": "Mosquito-borne tropical disease aka breakbone",
+            "answer": "dengue",
+            "normalized": "dengue"
           },
           {
-            "id": "6cb89721-3719-4469-bde6-088d89b09b65",
-            "clue": "Wise herb",
-            "answer": "sage",
-            "normalized": "sage"
+            "id": "4fffe2ae-4c40-4d7d-b742-075889c5fd54",
+            "clue": "Yes, to a pirate",
+            "answer": "aye",
+            "normalized": "aye"
           },
           {
-            "id": "1e9bfd17-878d-4528-aff6-e3a12cf613fa",
-            "clue": "Partner of Kit in confectionery",
-            "answer": "kat",
-            "normalized": "kat"
+            "id": "12d62125-ca61-49e3-a998-fe0e3565fba6",
+            "clue": "Stephanie Tanner's sassy retort \"How __!\"",
+            "answer": "rude",
+            "normalized": "rude"
           },
           {
-            "id": "9e3f9ae5-9f9d-4938-ae0c-81095253210d",
-            "clue": "Kelly Clarkson and Jordin Sparks: American __",
-            "answer": "idols",
-            "normalized": "idols"
+            "id": "5e79b6de-44b7-4b19-9f28-b42a37bc30e5",
+            "clue": "Madison Square Garden is an indoor one",
+            "answer": "arena",
+            "normalized": "arena"
           },
           {
-            "id": "545446b5-c141-48ac-987d-fdabd62bd39b",
-            "clue": "Perfect-10 Romanian gymnast Comaneci",
-            "answer": "nadia",
-            "normalized": "nadia"
+            "id": "6a0e7a7e-d0c3-447c-af04-05f25e4a55ca",
+            "clue": "Bouncy, full of life, enjoyable and exciting",
+            "answer": "zingy",
+            "normalized": "zingy"
           },
           {
-            "id": "4e7f65d0-f156-4fed-bc0a-ee9b732b6ac8",
-            "clue": "To be eager is the same as to be __ for something",
-            "answer": "dying",
-            "normalized": "dying"
+            "id": "483561f3-3350-4b0d-82e4-6b187cd2d522",
+            "clue": "Take place because of something, directly after",
+            "answer": "ensue",
+            "normalized": "ensue"
           },
           {
-            "id": "5c4ada3e-2987-48f2-b50f-f98d73e20091",
-            "clue": "Scrape by, __ out a living",
-            "answer": "eke",
-            "normalized": "eke"
+            "id": "0e800f4a-68e2-4e9e-881a-0b24fc7512db",
+            "clue": "The red fox in Disney's The Fox and the Hound",
+            "answer": "tod",
+            "normalized": "tod"
+          },
+          {
+            "id": "960da549-1d48-4fa2-90a2-840443b91d40",
+            "clue": "Word that precedes whiz when someone is surprised",
+            "answer": "gee",
+            "normalized": "gee"
           }
         ],
-        "track": "PC|LenC--Y2026M6D22F0"
+        "track": "PC|LenC--Y2026M6D23F0"
       },
       "mid": {
-        "puzzleId": "8bee2eaf-bf3b-47fe-96ff-e42f3ab42608",
+        "puzzleId": "46c9901a-a0fe-449c-ab17-1a3538ace7f3",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "e6313aec-8351-4996-89f5-832e4029e948",
-            "clue": "Part of the wheel holding all the spokes in place",
-            "answer": "hub",
-            "normalized": "hub"
+            "id": "0d814d87-b719-4c0b-9ca6-ee5837b58db0",
+            "clue": "Forward movement with one foot",
+            "answer": "step",
+            "normalized": "step"
           },
           {
-            "id": "790bdc2c-8d53-4695-a276-fb80a662ce19",
-            "clue": "Ancient Egyptian goddess and consort of Amun",
-            "answer": "amunet",
-            "normalized": "amunet"
+            "id": "b9d7a269-622c-44fd-be70-5302e4e7141c",
+            "clue": "Los __, National Security lab in New Mexico",
+            "answer": "alamos",
+            "normalized": "alamos"
           },
           {
-            "id": "36f46c5c-978f-42ba-95a6-3a83f1f81528",
-            "clue": "An insect's feeler; an aerial",
-            "answer": "antenna",
-            "normalized": "antenna"
+            "id": "0c66dbfd-4a19-4b57-bdd0-09f57d8c4d18",
+            "clue": "The O in the sports federation IOC",
+            "answer": "olympic",
+            "normalized": "olympic"
           },
           {
-            "id": "3dbe63b2-a226-4bef-b2f0-61bee102dac8",
-            "clue": "South Korean boy band who had a hit with Dynamite",
-            "answer": "bts",
-            "normalized": "bts"
+            "id": "b398c8bb-fb24-43e1-b1ff-1c65f09c7953",
+            "clue": "US TV network with an eyeball logo",
+            "answer": "cbs",
+            "normalized": "cbs"
           },
           {
-            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
-            "clue": "TV commercials",
-            "answer": "ads",
-            "normalized": "ads"
+            "id": "6bd3dc9b-a793-4383-9be1-0c7c94c63a6d",
+            "clue": "Acronym for the Order of St. Augustine",
+            "answer": "osa",
+            "normalized": "osa"
           },
           {
-            "id": "712996a4-277d-4054-8774-a90d9bff6414",
-            "clue": "Boxer Muhammad who was Cassius Clay",
-            "answer": "ali",
-            "normalized": "ali"
+            "id": "8fee0afe-98ee-4117-ab54-11c48f6e807e",
+            "clue": "Famous Egyptian boy king for short",
+            "answer": "tut",
+            "normalized": "tut"
           },
           {
-            "id": "57f6942e-3820-41d0-9fac-3b4245224e10",
-            "clue": "The __, affectionate name for a major NYC museum",
-            "answer": "met",
-            "normalized": "met"
+            "id": "f71731ea-ef88-4841-9e09-85b2304f0d87",
+            "clue": "Didn't lose",
+            "answer": "won",
+            "normalized": "won"
           },
           {
-            "id": "0ca57a1e-9b64-4be9-8370-2386a0c4e4a9",
-            "clue": "Genuine and serious",
-            "answer": "sincere",
-            "normalized": "sincere"
+            "id": "c96b82c3-d2f4-4c28-bf9f-1f47cdce3589",
+            "clue": "__ Like This, Kelly Clarkson's debut song",
+            "answer": "a moment",
+            "normalized": "amoment"
           },
           {
-            "id": "9c642eea-0ab1-4561-ab00-64761a93b5ba",
-            "clue": "Coin __, piles of gold and silver treasure",
-            "answer": "hoards",
-            "normalized": "hoards"
+            "id": "31188a70-55d9-4ef5-936d-e01c24897b64",
+            "clue": "Ocean __, passenger ships that sail on cruises",
+            "answer": "liners",
+            "normalized": "liners"
           },
           {
-            "id": "bc93dff2-264a-447f-a41b-5bc001bf650d",
-            "clue": "Abbreviated name used by actor Nicolas Cage",
-            "answer": "nic",
-            "normalized": "nic"
+            "id": "b690a0da-8dca-418b-bdd0-3108136162b8",
+            "clue": "Daily broadsheets offer this up",
+            "answer": "news",
+            "normalized": "news"
           },
           {
-            "id": "c49bfa01-306b-4c6f-abcf-3846eedd80fd",
-            "clue": "Shade such as red, yellow, pink",
-            "answer": "hue",
-            "normalized": "hue"
+            "id": "13ffa6eb-d4bd-41c3-a1be-3be33585b696",
+            "clue": "US singer with a funky family",
+            "answer": "sly stone",
+            "normalized": "slystone"
           },
           {
-            "id": "bb468440-02eb-4d58-adaf-215aadff64c2",
-            "clue": "Anonymous",
-            "answer": "unnamed",
-            "normalized": "unnamed"
+            "id": "a5522df9-149e-4df1-9f9f-831c8c34ac71",
+            "clue": "Follows Tim in an Aussie chocolate biscuit",
+            "answer": "tam",
+            "normalized": "tam"
           },
           {
-            "id": "fd237ef9-64cd-4f25-a16a-e0445339e7bc",
-            "clue": "They unstraighten pipes",
-            "answer": "benders",
-            "normalized": "benders"
+            "id": "4c892a89-2841-4267-93c4-59df0bb1591e",
+            "clue": "Invests with authority",
+            "answer": "empowers",
+            "normalized": "empowers"
           },
           {
-            "id": "d746b5e7-7a26-4d7e-97c3-ceab5acc63f3",
-            "clue": "Winged insect named for king of the jungle",
-            "answer": "antlion",
-            "normalized": "antlion"
+            "id": "ac16c994-00c1-46be-a254-0252954ad1f8",
+            "clue": "Toxins",
+            "answer": "poisons",
+            "normalized": "poisons"
           },
           {
-            "id": "e70c731c-9bf7-43d1-be45-fdfe24e98a51",
-            "clue": "Biblical peak where Moses got the Ten Commandments",
-            "answer": "mt sinai",
-            "normalized": "mtsinai"
+            "id": "3f7b424c-c205-48df-b712-03a2267007c7",
+            "clue": "Main protein in blood, produced by the liver",
+            "answer": "albumin",
+            "normalized": "albumin"
           },
           {
-            "id": "fb76b113-168a-431e-a023-2a8a5a06acc0",
-            "clue": "Sense perceived with the mouth and tongue",
-            "answer": "taste",
-            "normalized": "taste"
+            "id": "711fc288-c0d0-43d5-85ab-e8c837e4e0b1",
+            "clue": "Limited amounts, like food during a famine",
+            "answer": "scant",
+            "normalized": "scant"
           },
           {
-            "id": "94f66898-686b-44bb-bde9-7513ca3abe28",
-            "clue": "Make one embarrassed or ashamed",
-            "answer": "abash",
-            "normalized": "abash"
+            "id": "f301de0b-822e-4b14-98d6-4b06e51249b3",
+            "clue": "Number system using eight instead of ten as a base",
+            "answer": "octal",
+            "normalized": "octal"
           },
           {
-            "id": "1bfd0133-976e-4c31-bae0-85c22579d57f",
-            "clue": "Three-letter code for the Costa Rican colon",
-            "answer": "crc",
-            "normalized": "crc"
+            "id": "d10b53e9-1a43-4830-a0d9-6106a55da730",
+            "clue": "Quiet noise a cat makes",
+            "answer": "mew",
+            "normalized": "mew"
           }
         ],
-        "track": "PC|LenC--Y2026M6D22F1"
+        "track": "PC|LenC--Y2026M6D23F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-22",
+      "key": "2026-06-23",
       "year": 2026,
       "month": 6,
-      "day": 22,
+      "day": 23,
       "small": {
-        "puzzleId": "5527a283-439a-4468-96fe-61fa0f6d43e7",
+        "puzzleId": "a8efde69-0dde-4f37-9318-75042a010de9",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "4182a1f4-17cb-4a0e-9611-f9101c82c62b",
-            "clue": "Type or genre",
-            "answer": "kind",
-            "normalized": "kind"
+            "id": "bdcb20ab-5dfe-44ee-9077-9bee559a8eae",
+            "clue": "A word for destroy that sounds like raise",
+            "answer": "raze",
+            "normalized": "raze"
           },
           {
-            "id": "d3c89406-d9d3-4cdd-ace5-6f6dac607093",
-            "clue": "An apple __ keeps the doctor away",
-            "answer": "a day",
-            "normalized": "aday"
+            "id": "b15b7ddc-1747-4947-9421-ead4b05b34c5",
+            "clue": "Alan, pioneer of computer science",
+            "answer": "turing",
+            "normalized": "turing"
           },
           {
-            "id": "61c90d61-d0cb-4ed8-8450-b63ffa248b97",
-            "clue": "Cross my heart and hope __",
-            "answer": "to die",
-            "normalized": "todie"
+            "id": "d3c2779d-f523-435d-9b94-e4fdcd33acd1",
+            "clue": "Third-largest city in Denmark",
+            "answer": "odense",
+            "normalized": "odense"
           },
           {
-            "id": "ad8f665a-426e-4a11-bf6b-bdd44423b4b4",
-            "clue": "One ring in a chain",
-            "answer": "link",
-            "normalized": "link"
+            "id": "29c66e6d-8a30-4893-89b8-d0c3ffaa5261",
+            "clue": "Mosquito-borne tropical disease aka breakbone",
+            "answer": "dengue",
+            "normalized": "dengue"
           },
           {
-            "id": "6cb89721-3719-4469-bde6-088d89b09b65",
-            "clue": "Wise herb",
-            "answer": "sage",
-            "normalized": "sage"
+            "id": "4fffe2ae-4c40-4d7d-b742-075889c5fd54",
+            "clue": "Yes, to a pirate",
+            "answer": "aye",
+            "normalized": "aye"
           },
           {
-            "id": "1e9bfd17-878d-4528-aff6-e3a12cf613fa",
-            "clue": "Partner of Kit in confectionery",
-            "answer": "kat",
-            "normalized": "kat"
+            "id": "12d62125-ca61-49e3-a998-fe0e3565fba6",
+            "clue": "Stephanie Tanner's sassy retort \"How __!\"",
+            "answer": "rude",
+            "normalized": "rude"
           },
           {
-            "id": "9e3f9ae5-9f9d-4938-ae0c-81095253210d",
-            "clue": "Kelly Clarkson and Jordin Sparks: American __",
-            "answer": "idols",
-            "normalized": "idols"
+            "id": "5e79b6de-44b7-4b19-9f28-b42a37bc30e5",
+            "clue": "Madison Square Garden is an indoor one",
+            "answer": "arena",
+            "normalized": "arena"
           },
           {
-            "id": "545446b5-c141-48ac-987d-fdabd62bd39b",
-            "clue": "Perfect-10 Romanian gymnast Comaneci",
-            "answer": "nadia",
-            "normalized": "nadia"
+            "id": "6a0e7a7e-d0c3-447c-af04-05f25e4a55ca",
+            "clue": "Bouncy, full of life, enjoyable and exciting",
+            "answer": "zingy",
+            "normalized": "zingy"
           },
           {
-            "id": "4e7f65d0-f156-4fed-bc0a-ee9b732b6ac8",
-            "clue": "To be eager is the same as to be __ for something",
-            "answer": "dying",
-            "normalized": "dying"
+            "id": "483561f3-3350-4b0d-82e4-6b187cd2d522",
+            "clue": "Take place because of something, directly after",
+            "answer": "ensue",
+            "normalized": "ensue"
           },
           {
-            "id": "5c4ada3e-2987-48f2-b50f-f98d73e20091",
-            "clue": "Scrape by, __ out a living",
-            "answer": "eke",
-            "normalized": "eke"
+            "id": "0e800f4a-68e2-4e9e-881a-0b24fc7512db",
+            "clue": "The red fox in Disney's The Fox and the Hound",
+            "answer": "tod",
+            "normalized": "tod"
+          },
+          {
+            "id": "960da549-1d48-4fa2-90a2-840443b91d40",
+            "clue": "Word that precedes whiz when someone is surprised",
+            "answer": "gee",
+            "normalized": "gee"
           }
         ],
-        "track": "PC|LenC--Y2026M6D22F0"
+        "track": "PC|LenC--Y2026M6D23F0"
       },
       "mid": {
-        "puzzleId": "8bee2eaf-bf3b-47fe-96ff-e42f3ab42608",
+        "puzzleId": "46c9901a-a0fe-449c-ab17-1a3538ace7f3",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "e6313aec-8351-4996-89f5-832e4029e948",
-            "clue": "Part of the wheel holding all the spokes in place",
-            "answer": "hub",
-            "normalized": "hub"
+            "id": "0d814d87-b719-4c0b-9ca6-ee5837b58db0",
+            "clue": "Forward movement with one foot",
+            "answer": "step",
+            "normalized": "step"
           },
           {
-            "id": "790bdc2c-8d53-4695-a276-fb80a662ce19",
-            "clue": "Ancient Egyptian goddess and consort of Amun",
-            "answer": "amunet",
-            "normalized": "amunet"
+            "id": "b9d7a269-622c-44fd-be70-5302e4e7141c",
+            "clue": "Los __, National Security lab in New Mexico",
+            "answer": "alamos",
+            "normalized": "alamos"
           },
           {
-            "id": "36f46c5c-978f-42ba-95a6-3a83f1f81528",
-            "clue": "An insect's feeler; an aerial",
-            "answer": "antenna",
-            "normalized": "antenna"
+            "id": "0c66dbfd-4a19-4b57-bdd0-09f57d8c4d18",
+            "clue": "The O in the sports federation IOC",
+            "answer": "olympic",
+            "normalized": "olympic"
           },
           {
-            "id": "3dbe63b2-a226-4bef-b2f0-61bee102dac8",
-            "clue": "South Korean boy band who had a hit with Dynamite",
-            "answer": "bts",
-            "normalized": "bts"
+            "id": "b398c8bb-fb24-43e1-b1ff-1c65f09c7953",
+            "clue": "US TV network with an eyeball logo",
+            "answer": "cbs",
+            "normalized": "cbs"
           },
           {
-            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
-            "clue": "TV commercials",
-            "answer": "ads",
-            "normalized": "ads"
+            "id": "6bd3dc9b-a793-4383-9be1-0c7c94c63a6d",
+            "clue": "Acronym for the Order of St. Augustine",
+            "answer": "osa",
+            "normalized": "osa"
           },
           {
-            "id": "712996a4-277d-4054-8774-a90d9bff6414",
-            "clue": "Boxer Muhammad who was Cassius Clay",
-            "answer": "ali",
-            "normalized": "ali"
+            "id": "8fee0afe-98ee-4117-ab54-11c48f6e807e",
+            "clue": "Famous Egyptian boy king for short",
+            "answer": "tut",
+            "normalized": "tut"
           },
           {
-            "id": "57f6942e-3820-41d0-9fac-3b4245224e10",
-            "clue": "The __, affectionate name for a major NYC museum",
-            "answer": "met",
-            "normalized": "met"
+            "id": "f71731ea-ef88-4841-9e09-85b2304f0d87",
+            "clue": "Didn't lose",
+            "answer": "won",
+            "normalized": "won"
           },
           {
-            "id": "0ca57a1e-9b64-4be9-8370-2386a0c4e4a9",
-            "clue": "Genuine and serious",
-            "answer": "sincere",
-            "normalized": "sincere"
+            "id": "c96b82c3-d2f4-4c28-bf9f-1f47cdce3589",
+            "clue": "__ Like This, Kelly Clarkson's debut song",
+            "answer": "a moment",
+            "normalized": "amoment"
           },
           {
-            "id": "9c642eea-0ab1-4561-ab00-64761a93b5ba",
-            "clue": "Coin __, piles of gold and silver treasure",
-            "answer": "hoards",
-            "normalized": "hoards"
+            "id": "31188a70-55d9-4ef5-936d-e01c24897b64",
+            "clue": "Ocean __, passenger ships that sail on cruises",
+            "answer": "liners",
+            "normalized": "liners"
           },
           {
-            "id": "bc93dff2-264a-447f-a41b-5bc001bf650d",
-            "clue": "Abbreviated name used by actor Nicolas Cage",
-            "answer": "nic",
-            "normalized": "nic"
+            "id": "b690a0da-8dca-418b-bdd0-3108136162b8",
+            "clue": "Daily broadsheets offer this up",
+            "answer": "news",
+            "normalized": "news"
           },
           {
-            "id": "c49bfa01-306b-4c6f-abcf-3846eedd80fd",
-            "clue": "Shade such as red, yellow, pink",
-            "answer": "hue",
-            "normalized": "hue"
+            "id": "13ffa6eb-d4bd-41c3-a1be-3be33585b696",
+            "clue": "US singer with a funky family",
+            "answer": "sly stone",
+            "normalized": "slystone"
           },
           {
-            "id": "bb468440-02eb-4d58-adaf-215aadff64c2",
-            "clue": "Anonymous",
-            "answer": "unnamed",
-            "normalized": "unnamed"
+            "id": "a5522df9-149e-4df1-9f9f-831c8c34ac71",
+            "clue": "Follows Tim in an Aussie chocolate biscuit",
+            "answer": "tam",
+            "normalized": "tam"
           },
           {
-            "id": "fd237ef9-64cd-4f25-a16a-e0445339e7bc",
-            "clue": "They unstraighten pipes",
-            "answer": "benders",
-            "normalized": "benders"
+            "id": "4c892a89-2841-4267-93c4-59df0bb1591e",
+            "clue": "Invests with authority",
+            "answer": "empowers",
+            "normalized": "empowers"
           },
           {
-            "id": "d746b5e7-7a26-4d7e-97c3-ceab5acc63f3",
-            "clue": "Winged insect named for king of the jungle",
-            "answer": "antlion",
-            "normalized": "antlion"
+            "id": "ac16c994-00c1-46be-a254-0252954ad1f8",
+            "clue": "Toxins",
+            "answer": "poisons",
+            "normalized": "poisons"
           },
           {
-            "id": "e70c731c-9bf7-43d1-be45-fdfe24e98a51",
-            "clue": "Biblical peak where Moses got the Ten Commandments",
-            "answer": "mt sinai",
-            "normalized": "mtsinai"
+            "id": "3f7b424c-c205-48df-b712-03a2267007c7",
+            "clue": "Main protein in blood, produced by the liver",
+            "answer": "albumin",
+            "normalized": "albumin"
           },
           {
-            "id": "fb76b113-168a-431e-a023-2a8a5a06acc0",
-            "clue": "Sense perceived with the mouth and tongue",
-            "answer": "taste",
-            "normalized": "taste"
+            "id": "711fc288-c0d0-43d5-85ab-e8c837e4e0b1",
+            "clue": "Limited amounts, like food during a famine",
+            "answer": "scant",
+            "normalized": "scant"
           },
           {
-            "id": "94f66898-686b-44bb-bde9-7513ca3abe28",
-            "clue": "Make one embarrassed or ashamed",
-            "answer": "abash",
-            "normalized": "abash"
+            "id": "f301de0b-822e-4b14-98d6-4b06e51249b3",
+            "clue": "Number system using eight instead of ten as a base",
+            "answer": "octal",
+            "normalized": "octal"
           },
           {
-            "id": "1bfd0133-976e-4c31-bae0-85c22579d57f",
-            "clue": "Three-letter code for the Costa Rican colon",
-            "answer": "crc",
-            "normalized": "crc"
+            "id": "d10b53e9-1a43-4830-a0d9-6106a55da730",
+            "clue": "Quiet noise a cat makes",
+            "answer": "mew",
+            "normalized": "mew"
           }
         ],
-        "track": "PC|LenC--Y2026M6D22F1"
+        "track": "PC|LenC--Y2026M6D23F1"
       }
     },
     "latestAvailableEntry": {
@@ -422030,21 +422042,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "vbIpRlGGxdlMwi4jUFdBktiaPks5YIB2rZIIHrm7PwxAWERSU1NKeb+smprfPJhuO8sL4TCaw+RbrhwJp1g0fupu8Uj5Jkvnym4jED+MATbe1Ejw2HXLApnSOfQj5fkHCVEH4LhSBWTrEGvq1eXAuYeMPFdfgz1OByO5ttq58bvHLVguB2Zr5lniALCV0T/q2NeFTBNP8PPzneFHY7MaBShX+vOVo8DlDIcA/Rm1AH4EzpFnEhO9GBmwHTTsR6cZTknvbmOkSf14jJU5bbznw76RNOQVI00s5IlDGcL09aI="
+        "lyKEvMUFUrUuMkJ1A8+9MLu92/+wCY4u6KyPrUOeGR3WI93CxOJDImoFp0GOQiTSHsCDX8gyoE4vh6fsnr9w3HGchQ2MkaM9ywM+jRedAAZotxpH4d/NQSG+EcoF1GTlSgeD4GCIHNpFUiIks+8BhzQ4JR91Ls7UclqeAVCIUTiSVPYG4qLULhR6k1vrJTIRSN44k1Erc0UGU6PSq6OcDlOuwxxJIDwfM7Kbb0gsJoQh/peYSQz/YczecpUeQFMBh88IriTKOVyTePJ2q+eiIRG+B2p9dLzvbErcllGpGR8="
       ]
     },
     "decrypted": {
-      "Id": "2cb62ff1-4557-47c7-a6d4-947f5794e6d0",
-      "Date": "2026-06-22T00:00:00Z",
+      "Id": "cad0206d-100f-4cc3-ab62-bd8200df55eb",
+      "Date": "2026-06-23T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "genie",
-      "NormalizedPassword": "genie",
+      "Password": "white",
+      "NormalizedPassword": "white",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-22T01:39:52.1290000+05:30",
-    "hash": "2c51f75d1d4121f7d8c0aad93439bc92",
+    "dtu": "2026-06-23T02:47:49.2220000+05:30",
+    "hash": "de461a814093df8c850488c629e8c70c",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
