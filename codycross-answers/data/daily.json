@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-23T20:29:44.025Z",
+  "generatedAt": "2026-06-24T20:15:35.493Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 24
+    "day": 25
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 44
+        "QuantidadeDeFases": 46
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -421640,427 +421640,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-24",
+      "key": "2026-06-25",
       "year": 2026,
       "month": 6,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "c9b327f3-e27e-42b7-b458-99fc104a7b09",
+        "puzzleId": "4ba41b68-0733-4ee8-87d7-21f8c7666ce1",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "1d93d778-a766-43b4-b117-c628d8bdfda2",
-            "clue": "Detailed description of a product's feature",
-            "answer": "spec",
-            "normalized": "spec"
-          },
-          {
-            "id": "8e16d16e-33de-4246-b2e9-7b4b41660f7f",
-            "clue": "Mythical sprite or fairy",
-            "answer": "pixie",
-            "normalized": "pixie"
-          },
-          {
-            "id": "c9234145-fada-4133-8d8c-9ce592ce318d",
-            "clue": "Musical about Eva Perón",
-            "answer": "evita",
-            "normalized": "evita"
-          },
-          {
-            "id": "a1c71d95-c6cc-4bea-b703-f87532a16294",
-            "clue": "Distributes alms",
-            "answer": "doles",
-            "normalized": "doles"
-          },
-          {
-            "id": "937ef681-a4d4-4170-89c3-a760b3d6a1db",
-            "clue": "A student might do it to a teacher's patience",
-            "answer": "test",
-            "normalized": "test"
-          },
-          {
-            "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-            "clue": "Another term for drove quickly",
-            "answer": "sped",
-            "normalized": "sped"
-          },
-          {
-            "id": "b6629ca0-a7b4-4497-ae82-b69a07cbd1a3",
-            "clue": "Compass draws circles with this movement on paper",
-            "answer": "pivot",
-            "normalized": "pivot"
-          },
-          {
-            "id": "1efd39cb-c64c-4794-bac4-5e55319f8f69",
-            "clue": "To banish or expel from one's home or country",
-            "answer": "exile",
-            "normalized": "exile"
-          },
-          {
-            "id": "d500b46c-8cd0-4f78-a7d9-36922ea9da83",
-            "clue": "Quotes someone directly in a book",
-            "answer": "cites",
-            "normalized": "cites"
-          },
-          {
-            "id": "0a2165eb-29a6-4a35-b87b-be41c9fb037e",
-            "clue": "Compass direction where the sun rises",
-            "answer": "east",
-            "normalized": "east"
-          }
-        ],
-        "track": "PC|LenC--Y2026M6D24F0"
-      },
-      "mid": {
-        "puzzleId": "f3e6554c-033a-48e6-83f0-45f02ce8ac3e",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "3531b85f-a547-4ea8-a9a2-02c558a955fe",
-            "clue": "\"Dang\" or \"darn\" alternative",
-            "answer": "drat",
-            "normalized": "drat"
+            "id": "8f7e7a81-474e-42a1-8109-7881d5a50679",
+            "clue": "Muscles worked by crunches and sit-ups",
+            "answer": "abs",
+            "normalized": "abs"
           },
           {
-            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
-            "clue": "Sixth sense, in short",
-            "answer": "esp",
-            "normalized": "esp"
+            "id": "46c0ada2-e767-485e-8dc5-852c1941723d",
+            "clue": "A piece __; simple, not requiring much effort",
+            "answer": "of cake",
+            "normalized": "ofcake"
           },
           {
-            "id": "0018023d-9d3a-4971-beca-e0aff91f8310",
-            "clue": "Hailee Steinfeld and Alesso song, Let __",
-            "answer": "me go",
-            "normalized": "mego"
+            "id": "20a305a5-c95b-4476-95a7-eed3c3eb49f1",
+            "clue": "Capital of Germany",
+            "answer": "berlin",
+            "normalized": "berlin"
           },
           {
-            "id": "0711f67c-e9ab-4d79-929c-b5e3c9168137",
-            "clue": "Word that ends all seven parts of the week",
-            "answer": "day",
-            "normalized": "day"
+            "id": "13855fce-ccd1-493f-80a8-b51f876dc15a",
+            "clue": "Being redundant, serving no purpose",
+            "answer": "otiose",
+            "normalized": "otiose"
           },
           {
-            "id": "091f421d-3995-4d93-985f-b6067d5adbc0",
-            "clue": "It's the fish equivalent to walking",
-            "answer": "swimming",
-            "normalized": "swimming"
+            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
+            "clue": "Shakespeare's much fuss about nothing",
+            "answer": "ado",
+            "normalized": "ado"
           },
           {
-            "id": "d6b28563-a1a0-4ba4-9497-b51aedb9fa8d",
-            "clue": "Unique and unrepeatable",
-            "answer": "one off",
-            "normalized": "oneoff"
+            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
+            "clue": "Pungent, acidic",
+            "answer": "acrid",
+            "normalized": "acrid"
           },
           {
-            "id": "4c466af8-632d-4348-b8ee-794cd583a3ec",
-            "clue": "Weapons and ammo used in combat",
-            "answer": "munition",
-            "normalized": "munition"
+            "id": "6956ca21-51ec-4968-a4d3-9c02ef406fc7",
+            "clue": "The bear in the Jungle Book",
+            "answer": "baloo",
+            "normalized": "baloo"
           },
           {
-            "id": "95ec85ab-dddc-4246-8237-becfbbf952ff",
-            "clue": "Metallica single with the battlefield soundscape",
-            "answer": "one",
-            "normalized": "one"
+            "id": "890c9240-2925-4fd3-b581-c3a8edf83e00",
+            "clue": "Hits the slopes",
+            "answer": "skis",
+            "normalized": "skis"
           },
           {
-            "id": "5d9d0005-e285-4ca6-a3a3-5c5fd89773d2",
-            "clue": "Kilo, mega, giga, __",
-            "answer": "tera",
-            "normalized": "tera"
+            "id": "01a6cac1-f29b-4c18-9bc7-46df9b419851",
+            "clue": "It means \"or best offer\"",
+            "answer": "obo",
+            "normalized": "obo"
           },
           {
-            "id": "20c08fda-d2ae-46a6-98e2-536d4e928dc6",
-            "clue": "Abbreviation for Dance Dance Revolution",
-            "answer": "ddr",
-            "normalized": "ddr"
+            "id": "962bf301-c416-4b36-9ad3-1876917f6dd9",
+            "clue": "Greek white cheese made from sheep's milk",
+            "answer": "feta",
+            "normalized": "feta"
           },
           {
-            "id": "e8391619-1569-4c02-8282-3f12d0ab2a00",
-            "clue": "Water movement against the current",
-            "answer": "eddy",
-            "normalized": "eddy"
-          },
-          {
-            "id": "6ac63f3c-4798-4ce7-ba22-9c6f369ad59f",
-            "clue": "Private messages on e.g. Instagram",
-            "answer": "dms",
-            "normalized": "dms"
-          },
-          {
-            "id": "75ed91f5-025f-4500-888c-4d77444a13ef",
-            "clue": "Spun a videotape back to the beginning",
-            "answer": "rewound",
-            "normalized": "rewound"
-          },
-          {
-            "id": "2c1d630f-d66d-4e24-8eae-4d603705f495",
-            "clue": "Someone who is against legislation or change",
-            "answer": "aginner",
-            "normalized": "aginner"
-          },
-          {
-            "id": "00bab37e-9e7b-4f4f-8779-3f724de3f996",
-            "clue": "Actress Marisa, May Parker in the Marvel Universe",
-            "answer": "tomei",
-            "normalized": "tomei"
-          },
-          {
-            "id": "8463d858-bfef-48d3-be62-d8fe6e8c95fb",
-            "clue": "Instructed morally",
-            "answer": "edified",
-            "normalized": "edified"
-          },
-          {
-            "id": "fc59652a-50f3-4dc0-8386-5e3d5f728d7a",
-            "clue": "__ and Son, 70s NBC sitcom based on BBC show",
-            "answer": "sanford",
-            "normalized": "sanford"
-          },
-          {
-            "id": "46c07511-6d79-4d04-8b84-3da1bc705116",
-            "clue": "Three-letter code for Paraguay's guaraní money",
-            "answer": "pyg",
-            "normalized": "pyg"
-          },
-          {
-            "id": "318b51c1-a44e-4d88-ad2b-ca769887f2c1",
-            "clue": "Raised mound on which a stone castle was built",
-            "answer": "motte",
-            "normalized": "motte"
-          },
-          {
-            "id": "df9cbf91-bcf1-4fad-9632-1cbbf095779f",
-            "clue": "A player-made alteration to a video game",
-            "answer": "mod",
-            "normalized": "mod"
-          },
-          {
-            "id": "04cf4338-0c57-40e1-a930-a9b69a9e9ce6",
-            "clue": "Negative vote",
-            "answer": "nay",
-            "normalized": "nay"
+            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
+            "clue": "East-northeast for short",
+            "answer": "ene",
+            "normalized": "ene"
           }
         ],
-        "track": "PC|LenC--Y2026M6D24F1"
+        "track": "PC|LenC--Y2026M6D25F0"
+      },
+      "mid": {
+        "puzzleId": "ac7b48d4-0a4c-481b-843d-2092529cf394",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "ce6413c4-5e6d-473f-baba-67a47b3b4e8b",
+            "clue": "Prefix larger than mega",
+            "answer": "giga",
+            "normalized": "giga"
+          },
+          {
+            "id": "5bcc7911-b91b-4f22-bb43-44342fb51080",
+            "clue": "Author Cabot, who wrote the Princess Diaries",
+            "answer": "meg",
+            "normalized": "meg"
+          },
+          {
+            "id": "8bacd9e1-f9b6-49e4-aff1-61f40e0ca39d",
+            "clue": "Equestrian sport requiring a good memory",
+            "answer": "dressage",
+            "normalized": "dressage"
+          },
+          {
+            "id": "565e6311-d4d5-4fd0-abe7-c5336a6593e2",
+            "clue": "Change.org is a __ website that makes requests",
+            "answer": "petition",
+            "normalized": "petition"
+          },
+          {
+            "id": "3449a95d-672e-45cf-858b-e205ace1f391",
+            "clue": "Big farm outbuilding",
+            "answer": "barn",
+            "normalized": "barn"
+          },
+          {
+            "id": "50ded017-880b-40f9-85d0-33d7034e7af0",
+            "clue": "Gives out, emits",
+            "answer": "emanates",
+            "normalized": "emanates"
+          },
+          {
+            "id": "36bda93b-91f4-445f-9b9f-cf7e300a0252",
+            "clue": "Eats only what's grown in one's surroundings",
+            "answer": "locavore",
+            "normalized": "locavore"
+          },
+          {
+            "id": "a027e089-7de0-4d52-a1fc-8222850e3bd6",
+            "clue": "An online initialism that means let me know",
+            "answer": "lmk",
+            "normalized": "lmk"
+          },
+          {
+            "id": "6c0a47bd-42cc-4548-bba5-6dfbb3716e25",
+            "clue": "Predator at the top of the food chain",
+            "answer": "apex",
+            "normalized": "apex"
+          },
+          {
+            "id": "0bcb5b84-c554-4e4e-bc04-55a073b830a9",
+            "clue": "Measure of a nation's economic wealth",
+            "answer": "gdp",
+            "normalized": "gdp"
+          },
+          {
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
+          },
+          {
+            "id": "0d9a6e3e-24e4-4643-8d6f-559c060ed40a",
+            "clue": "2021 documentary about The Beatles",
+            "answer": "get back",
+            "normalized": "getback"
+          },
+          {
+            "id": "793256ed-b362-4764-9167-68874154633d",
+            "clue": "Major Korean airline, with red arrowhead logo",
+            "answer": "asiana",
+            "normalized": "asiana"
+          },
+          {
+            "id": "a954e125-1385-4208-91cf-e56f0c2cca55",
+            "clue": "Observation platform on a ship",
+            "answer": "maintop",
+            "normalized": "maintop"
+          },
+          {
+            "id": "1f79df52-f18e-4c6a-ac32-ee6018bd24de",
+            "clue": "Freud's personality theory defined this concept",
+            "answer": "ego",
+            "normalized": "ego"
+          },
+          {
+            "id": "f2b32932-282c-43bd-a7f5-8544ede31022",
+            "clue": "Short word that precedes X, Y for eras when born",
+            "answer": "gen",
+            "normalized": "gen"
+          },
+          {
+            "id": "d22b50dd-6764-4c41-a96e-9de7901c37ab",
+            "clue": "Fitness app that tracks runs and cycle rides",
+            "answer": "strava",
+            "normalized": "strava"
+          },
+          {
+            "id": "c89213ab-7664-4b5e-9e21-15580143b1dd",
+            "clue": "Old measure of length, 45 inches; the 12th letter",
+            "answer": "ell",
+            "normalized": "ell"
+          },
+          {
+            "id": "a900a86a-fe17-4bfc-a53d-7273f2d88510",
+            "clue": "American mother",
+            "answer": "mom",
+            "normalized": "mom"
+          },
+          {
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
+          },
+          {
+            "id": "67982104-2930-4dbe-97a7-0b083f7dd5db",
+            "clue": "It accompanies \"and the City\" in a TV series",
+            "answer": "sex",
+            "normalized": "sex"
+          }
+        ],
+        "track": "PC|LenC--Y2026M6D25F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-24",
+      "key": "2026-06-25",
       "year": 2026,
       "month": 6,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "c9b327f3-e27e-42b7-b458-99fc104a7b09",
+        "puzzleId": "4ba41b68-0733-4ee8-87d7-21f8c7666ce1",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "1d93d778-a766-43b4-b117-c628d8bdfda2",
-            "clue": "Detailed description of a product's feature",
-            "answer": "spec",
-            "normalized": "spec"
-          },
-          {
-            "id": "8e16d16e-33de-4246-b2e9-7b4b41660f7f",
-            "clue": "Mythical sprite or fairy",
-            "answer": "pixie",
-            "normalized": "pixie"
-          },
-          {
-            "id": "c9234145-fada-4133-8d8c-9ce592ce318d",
-            "clue": "Musical about Eva Perón",
-            "answer": "evita",
-            "normalized": "evita"
-          },
-          {
-            "id": "a1c71d95-c6cc-4bea-b703-f87532a16294",
-            "clue": "Distributes alms",
-            "answer": "doles",
-            "normalized": "doles"
-          },
-          {
-            "id": "937ef681-a4d4-4170-89c3-a760b3d6a1db",
-            "clue": "A student might do it to a teacher's patience",
-            "answer": "test",
-            "normalized": "test"
-          },
-          {
-            "id": "466c7885-5d7b-4b99-979e-f52b564ef371",
-            "clue": "Another term for drove quickly",
-            "answer": "sped",
-            "normalized": "sped"
-          },
-          {
-            "id": "b6629ca0-a7b4-4497-ae82-b69a07cbd1a3",
-            "clue": "Compass draws circles with this movement on paper",
-            "answer": "pivot",
-            "normalized": "pivot"
-          },
-          {
-            "id": "1efd39cb-c64c-4794-bac4-5e55319f8f69",
-            "clue": "To banish or expel from one's home or country",
-            "answer": "exile",
-            "normalized": "exile"
-          },
-          {
-            "id": "d500b46c-8cd0-4f78-a7d9-36922ea9da83",
-            "clue": "Quotes someone directly in a book",
-            "answer": "cites",
-            "normalized": "cites"
-          },
-          {
-            "id": "0a2165eb-29a6-4a35-b87b-be41c9fb037e",
-            "clue": "Compass direction where the sun rises",
-            "answer": "east",
-            "normalized": "east"
-          }
-        ],
-        "track": "PC|LenC--Y2026M6D24F0"
-      },
-      "mid": {
-        "puzzleId": "f3e6554c-033a-48e6-83f0-45f02ce8ac3e",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "3531b85f-a547-4ea8-a9a2-02c558a955fe",
-            "clue": "\"Dang\" or \"darn\" alternative",
-            "answer": "drat",
-            "normalized": "drat"
+            "id": "8f7e7a81-474e-42a1-8109-7881d5a50679",
+            "clue": "Muscles worked by crunches and sit-ups",
+            "answer": "abs",
+            "normalized": "abs"
           },
           {
-            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
-            "clue": "Sixth sense, in short",
-            "answer": "esp",
-            "normalized": "esp"
+            "id": "46c0ada2-e767-485e-8dc5-852c1941723d",
+            "clue": "A piece __; simple, not requiring much effort",
+            "answer": "of cake",
+            "normalized": "ofcake"
           },
           {
-            "id": "0018023d-9d3a-4971-beca-e0aff91f8310",
-            "clue": "Hailee Steinfeld and Alesso song, Let __",
-            "answer": "me go",
-            "normalized": "mego"
+            "id": "20a305a5-c95b-4476-95a7-eed3c3eb49f1",
+            "clue": "Capital of Germany",
+            "answer": "berlin",
+            "normalized": "berlin"
           },
           {
-            "id": "0711f67c-e9ab-4d79-929c-b5e3c9168137",
-            "clue": "Word that ends all seven parts of the week",
-            "answer": "day",
-            "normalized": "day"
+            "id": "13855fce-ccd1-493f-80a8-b51f876dc15a",
+            "clue": "Being redundant, serving no purpose",
+            "answer": "otiose",
+            "normalized": "otiose"
           },
           {
-            "id": "091f421d-3995-4d93-985f-b6067d5adbc0",
-            "clue": "It's the fish equivalent to walking",
-            "answer": "swimming",
-            "normalized": "swimming"
+            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
+            "clue": "Shakespeare's much fuss about nothing",
+            "answer": "ado",
+            "normalized": "ado"
           },
           {
-            "id": "d6b28563-a1a0-4ba4-9497-b51aedb9fa8d",
-            "clue": "Unique and unrepeatable",
-            "answer": "one off",
-            "normalized": "oneoff"
+            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
+            "clue": "Pungent, acidic",
+            "answer": "acrid",
+            "normalized": "acrid"
           },
           {
-            "id": "4c466af8-632d-4348-b8ee-794cd583a3ec",
-            "clue": "Weapons and ammo used in combat",
-            "answer": "munition",
-            "normalized": "munition"
+            "id": "6956ca21-51ec-4968-a4d3-9c02ef406fc7",
+            "clue": "The bear in the Jungle Book",
+            "answer": "baloo",
+            "normalized": "baloo"
           },
           {
-            "id": "95ec85ab-dddc-4246-8237-becfbbf952ff",
-            "clue": "Metallica single with the battlefield soundscape",
-            "answer": "one",
-            "normalized": "one"
+            "id": "890c9240-2925-4fd3-b581-c3a8edf83e00",
+            "clue": "Hits the slopes",
+            "answer": "skis",
+            "normalized": "skis"
           },
           {
-            "id": "5d9d0005-e285-4ca6-a3a3-5c5fd89773d2",
-            "clue": "Kilo, mega, giga, __",
-            "answer": "tera",
-            "normalized": "tera"
+            "id": "01a6cac1-f29b-4c18-9bc7-46df9b419851",
+            "clue": "It means \"or best offer\"",
+            "answer": "obo",
+            "normalized": "obo"
           },
           {
-            "id": "20c08fda-d2ae-46a6-98e2-536d4e928dc6",
-            "clue": "Abbreviation for Dance Dance Revolution",
-            "answer": "ddr",
-            "normalized": "ddr"
+            "id": "962bf301-c416-4b36-9ad3-1876917f6dd9",
+            "clue": "Greek white cheese made from sheep's milk",
+            "answer": "feta",
+            "normalized": "feta"
           },
           {
-            "id": "e8391619-1569-4c02-8282-3f12d0ab2a00",
-            "clue": "Water movement against the current",
-            "answer": "eddy",
-            "normalized": "eddy"
-          },
-          {
-            "id": "6ac63f3c-4798-4ce7-ba22-9c6f369ad59f",
-            "clue": "Private messages on e.g. Instagram",
-            "answer": "dms",
-            "normalized": "dms"
-          },
-          {
-            "id": "75ed91f5-025f-4500-888c-4d77444a13ef",
-            "clue": "Spun a videotape back to the beginning",
-            "answer": "rewound",
-            "normalized": "rewound"
-          },
-          {
-            "id": "2c1d630f-d66d-4e24-8eae-4d603705f495",
-            "clue": "Someone who is against legislation or change",
-            "answer": "aginner",
-            "normalized": "aginner"
-          },
-          {
-            "id": "00bab37e-9e7b-4f4f-8779-3f724de3f996",
-            "clue": "Actress Marisa, May Parker in the Marvel Universe",
-            "answer": "tomei",
-            "normalized": "tomei"
-          },
-          {
-            "id": "8463d858-bfef-48d3-be62-d8fe6e8c95fb",
-            "clue": "Instructed morally",
-            "answer": "edified",
-            "normalized": "edified"
-          },
-          {
-            "id": "fc59652a-50f3-4dc0-8386-5e3d5f728d7a",
-            "clue": "__ and Son, 70s NBC sitcom based on BBC show",
-            "answer": "sanford",
-            "normalized": "sanford"
-          },
-          {
-            "id": "46c07511-6d79-4d04-8b84-3da1bc705116",
-            "clue": "Three-letter code for Paraguay's guaraní money",
-            "answer": "pyg",
-            "normalized": "pyg"
-          },
-          {
-            "id": "318b51c1-a44e-4d88-ad2b-ca769887f2c1",
-            "clue": "Raised mound on which a stone castle was built",
-            "answer": "motte",
-            "normalized": "motte"
-          },
-          {
-            "id": "df9cbf91-bcf1-4fad-9632-1cbbf095779f",
-            "clue": "A player-made alteration to a video game",
-            "answer": "mod",
-            "normalized": "mod"
-          },
-          {
-            "id": "04cf4338-0c57-40e1-a930-a9b69a9e9ce6",
-            "clue": "Negative vote",
-            "answer": "nay",
-            "normalized": "nay"
+            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
+            "clue": "East-northeast for short",
+            "answer": "ene",
+            "normalized": "ene"
           }
         ],
-        "track": "PC|LenC--Y2026M6D24F1"
+        "track": "PC|LenC--Y2026M6D25F0"
+      },
+      "mid": {
+        "puzzleId": "ac7b48d4-0a4c-481b-843d-2092529cf394",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "ce6413c4-5e6d-473f-baba-67a47b3b4e8b",
+            "clue": "Prefix larger than mega",
+            "answer": "giga",
+            "normalized": "giga"
+          },
+          {
+            "id": "5bcc7911-b91b-4f22-bb43-44342fb51080",
+            "clue": "Author Cabot, who wrote the Princess Diaries",
+            "answer": "meg",
+            "normalized": "meg"
+          },
+          {
+            "id": "8bacd9e1-f9b6-49e4-aff1-61f40e0ca39d",
+            "clue": "Equestrian sport requiring a good memory",
+            "answer": "dressage",
+            "normalized": "dressage"
+          },
+          {
+            "id": "565e6311-d4d5-4fd0-abe7-c5336a6593e2",
+            "clue": "Change.org is a __ website that makes requests",
+            "answer": "petition",
+            "normalized": "petition"
+          },
+          {
+            "id": "3449a95d-672e-45cf-858b-e205ace1f391",
+            "clue": "Big farm outbuilding",
+            "answer": "barn",
+            "normalized": "barn"
+          },
+          {
+            "id": "50ded017-880b-40f9-85d0-33d7034e7af0",
+            "clue": "Gives out, emits",
+            "answer": "emanates",
+            "normalized": "emanates"
+          },
+          {
+            "id": "36bda93b-91f4-445f-9b9f-cf7e300a0252",
+            "clue": "Eats only what's grown in one's surroundings",
+            "answer": "locavore",
+            "normalized": "locavore"
+          },
+          {
+            "id": "a027e089-7de0-4d52-a1fc-8222850e3bd6",
+            "clue": "An online initialism that means let me know",
+            "answer": "lmk",
+            "normalized": "lmk"
+          },
+          {
+            "id": "6c0a47bd-42cc-4548-bba5-6dfbb3716e25",
+            "clue": "Predator at the top of the food chain",
+            "answer": "apex",
+            "normalized": "apex"
+          },
+          {
+            "id": "0bcb5b84-c554-4e4e-bc04-55a073b830a9",
+            "clue": "Measure of a nation's economic wealth",
+            "answer": "gdp",
+            "normalized": "gdp"
+          },
+          {
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
+          },
+          {
+            "id": "0d9a6e3e-24e4-4643-8d6f-559c060ed40a",
+            "clue": "2021 documentary about The Beatles",
+            "answer": "get back",
+            "normalized": "getback"
+          },
+          {
+            "id": "793256ed-b362-4764-9167-68874154633d",
+            "clue": "Major Korean airline, with red arrowhead logo",
+            "answer": "asiana",
+            "normalized": "asiana"
+          },
+          {
+            "id": "a954e125-1385-4208-91cf-e56f0c2cca55",
+            "clue": "Observation platform on a ship",
+            "answer": "maintop",
+            "normalized": "maintop"
+          },
+          {
+            "id": "1f79df52-f18e-4c6a-ac32-ee6018bd24de",
+            "clue": "Freud's personality theory defined this concept",
+            "answer": "ego",
+            "normalized": "ego"
+          },
+          {
+            "id": "f2b32932-282c-43bd-a7f5-8544ede31022",
+            "clue": "Short word that precedes X, Y for eras when born",
+            "answer": "gen",
+            "normalized": "gen"
+          },
+          {
+            "id": "d22b50dd-6764-4c41-a96e-9de7901c37ab",
+            "clue": "Fitness app that tracks runs and cycle rides",
+            "answer": "strava",
+            "normalized": "strava"
+          },
+          {
+            "id": "c89213ab-7664-4b5e-9e21-15580143b1dd",
+            "clue": "Old measure of length, 45 inches; the 12th letter",
+            "answer": "ell",
+            "normalized": "ell"
+          },
+          {
+            "id": "a900a86a-fe17-4bfc-a53d-7273f2d88510",
+            "clue": "American mother",
+            "answer": "mom",
+            "normalized": "mom"
+          },
+          {
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
+          },
+          {
+            "id": "67982104-2930-4dbe-97a7-0b083f7dd5db",
+            "clue": "It accompanies \"and the City\" in a TV series",
+            "answer": "sex",
+            "normalized": "sex"
+          }
+        ],
+        "track": "PC|LenC--Y2026M6D25F1"
       }
     },
     "latestAvailableEntry": {
@@ -422296,21 +422308,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "L3weHKygyINnCjkoaxJgqxgYWK8EwLeS1tv24JDJf8ztHS7as7k4W89lco+84EX0HWLB7uiIIh0B86hpJtPTmKpp0IM5KGr0I9ojkE5g8nUS1YzSXut49MlnBnAHrh9xiJyYeA+HQmUgQyGux9PArRGYR2SmVg5Ev3PoPUF97LxPOpvWvziqHC4rsreAnfEixqngcQobJ5KyjcabzVCaGpXnxVJV1UBUnSHa/j8iI8MrUmW8WOy8f2bQA1929tdIKh2KeqA8ma7FGTbJ7V0oeES/f8e3vt3WAso9g6Btr4I="
+        "n2KVTT+IFnKUu+ag8cRfwLRx+gM+Qo5Fgngb3/PbR1uy1LefU3s4JBJuxdL7Ekcc/cu6YvIkvBrHgRfX8yIKb19aCu91TX7oxEPFtrugNVc8ZQbCl4vCJddmuC0Ww2U2zNpps7wxsZzk8Qqmp6qek1h/DOg5QVkTINU0Wh/XyQfPRAUqxjkEJUo8UZZUSEYV7Ce5ELYQPrUlPe3tf425+cfcO0jSjO/F94PdvLRfIVuEFHPeeq2ZEl1vyMZ5aXLVJTr4lxLcz6b3/4f2TgM99xaHnmWQNOD5VTtw/x7uh1s="
       ]
     },
     "decrypted": {
-      "Id": "be128fc7-afb6-48f0-99a2-c150b27fd7c6",
-      "Date": "2026-06-24T00:00:00Z",
+      "Id": "71ba1d99-051b-49d4-b364-b5016e19a4c8",
+      "Date": "2026-06-25T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "stone",
-      "NormalizedPassword": "stone",
+      "Password": "gecko",
+      "NormalizedPassword": "gecko",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-24T01:59:44.0250000+05:30",
-    "hash": "4dde412db5e7609db4a60af0735cddd7",
+    "dtu": "2026-06-25T01:45:35.4930000+05:30",
+    "hash": "0e647b97dec53fac55b21595545405e7",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
