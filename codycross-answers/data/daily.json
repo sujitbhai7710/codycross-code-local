@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T20:15:35.493Z",
+  "generatedAt": "2026-06-25T20:28:10.813Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 25
+    "day": 26
   },
   "crossword": {
     "archive": [
@@ -11,13 +11,13 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 46
+        "QuantidadeDeFases": 48
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 5,
-        "QuantidadeDeFases": 61
+        "QuantidadeDeFases": 62
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -12148,7 +12148,142 @@
           ],
           "track": "PC|LenC--Y2026M5D8F0"
         },
-        "mid": null
+        "mid": {
+          "puzzleId": "3bb09ece-c7b5-4161-aaa5-79f431e3ea6b",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 1,
+          "answers": [
+            {
+              "id": "c28fafa9-f992-4a93-ae3b-6793a43ca62c",
+              "clue": "To trade, exchange",
+              "answer": "swap",
+              "normalized": "swap"
+            },
+            {
+              "id": "ecc241fc-f6ba-4fee-ac15-2943afe553b1",
+              "clue": "Short form for a genetically modified organism",
+              "answer": "gmo",
+              "normalized": "gmo"
+            },
+            {
+              "id": "635dd501-54fd-45e7-bcf9-a3b52474611d",
+              "clue": "Ben Affleck thriller about Iran hostage crisis",
+              "answer": "argo",
+              "normalized": "argo"
+            },
+            {
+              "id": "0196d036-e3e3-4ee1-bc4d-e0a9bd6003b8",
+              "clue": "Computer memory with multiplexing circuitry",
+              "answer": "ram",
+              "normalized": "ram"
+            },
+            {
+              "id": "613c9145-094e-456a-8784-498731fb7883",
+              "clue": "Giving way under pressure",
+              "answer": "yielding",
+              "normalized": "yielding"
+            },
+            {
+              "id": "e69c5b02-9479-488b-bf64-6e0d916d3175",
+              "clue": "Stared angrily",
+              "answer": "glared",
+              "normalized": "glared"
+            },
+            {
+              "id": "89c6fbeb-d1bc-4f44-bda7-7ecb22478866",
+              "clue": "In whichever place",
+              "answer": "wherever",
+              "normalized": "wherever"
+            },
+            {
+              "id": "1313fe77-0287-4f89-98ef-35a1b872234f",
+              "clue": "Abbreviation for occupational therapists",
+              "answer": "ots",
+              "normalized": "ots"
+            },
+            {
+              "id": "5481763e-2352-4b6f-86f3-bbe2dddce761",
+              "clue": "Shop that sells cold meats",
+              "answer": "deli",
+              "normalized": "deli"
+            },
+            {
+              "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
+              "clue": "S, written phonetically as a full word",
+              "answer": "ess",
+              "normalized": "ess"
+            },
+            {
+              "id": "a72da4b7-6de8-4eb2-bb8b-b92135b3f85e",
+              "clue": "A small unit of whiskey in Scotland",
+              "answer": "dram",
+              "normalized": "dram"
+            },
+            {
+              "id": "74d66f6c-cb7b-4ead-a9c2-3b0dff9bc266",
+              "clue": "Speak",
+              "answer": "say",
+              "normalized": "say"
+            },
+            {
+              "id": "5feab3f7-e202-463a-a41a-818a8879858d",
+              "clue": "First in flight, popularly",
+              "answer": "wrights",
+              "normalized": "wrights"
+            },
+            {
+              "id": "c85972e0-d8da-4ca5-95ce-d817eeb12ecb",
+              "clue": "Eternal, lasting forever",
+              "answer": "ageless",
+              "normalized": "ageless"
+            },
+            {
+              "id": "3e77ed71-89a2-4e85-8dc4-74b300a162e6",
+              "clue": "Kids' book by Chris van Allsburg, The __ Express",
+              "answer": "polar",
+              "normalized": "polar"
+            },
+            {
+              "id": "f31b86ea-c1cc-47b0-9b0c-5cd3d04d051e",
+              "clue": "Mourner",
+              "answer": "griever",
+              "normalized": "griever"
+            },
+            {
+              "id": "2974b600-feea-440c-9438-b1b9af6d10ff",
+              "clue": "African leader was jailed for 27 years",
+              "answer": "mandela",
+              "normalized": "mandela"
+            },
+            {
+              "id": "09957cc2-8461-4568-abe6-df9a6c8b0982",
+              "clue": "Three letters commonly used to express surprise!",
+              "answer": "omg",
+              "normalized": "omg"
+            },
+            {
+              "id": "a9b9bc83-5299-496f-9b5f-d50d5c0eb4ff",
+              "clue": "Comic book street judge in Mega-City One",
+              "answer": "dredd",
+              "normalized": "dredd"
+            },
+            {
+              "id": "26265084-be7e-4d1e-840a-5ee00d384c4e",
+              "clue": "Oh, __ is me!",
+              "answer": "woe",
+              "normalized": "woe"
+            },
+            {
+              "id": "48be5933-0406-4e9b-8f85-b322990211e5",
+              "clue": "The edge of a basketball hoop",
+              "answer": "rim",
+              "normalized": "rim"
+            }
+          ],
+          "track": "PC|LenC--Y2026M5D8F1"
+        }
       },
       {
         "key": "2026-05-07",
@@ -97289,7 +97424,7 @@
             },
             {
               "id": "05d06746-d2dd-4b44-b306-a302de1a33bf",
-              "clue": "Acronym for the US tax collection agency",
+              "clue": "Initialism for the US tax collection agency",
               "answer": "irs",
               "normalized": "irs"
             },
@@ -97443,7 +97578,7 @@
             },
             {
               "id": "05d06746-d2dd-4b44-b306-a302de1a33bf",
-              "clue": "Acronym for the US tax collection agency",
+              "clue": "Initialism for the US tax collection agency",
               "answer": "irs",
               "normalized": "irs"
             },
@@ -101576,7 +101711,7 @@
             },
             {
               "id": "073b4fd2-896c-4bcf-8894-9b8be7f486f0",
-              "clue": "Muslim term for God",
+              "clue": "Arabic word for God",
               "answer": "allah",
               "normalized": "allah"
             },
@@ -127629,7 +127764,7 @@
             },
             {
               "id": "073b4fd2-896c-4bcf-8894-9b8be7f486f0",
-              "clue": "Muslim term for God",
+              "clue": "Arabic word for God",
               "answer": "allah",
               "normalized": "allah"
             },
@@ -421640,439 +421775,487 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-25",
+      "key": "2026-06-26",
       "year": 2026,
       "month": 6,
-      "day": 25,
+      "day": 26,
       "small": {
-        "puzzleId": "4ba41b68-0733-4ee8-87d7-21f8c7666ce1",
+        "puzzleId": "c3b56784-ddec-4b69-a181-76e1b8c1cef0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 5,
         "answers": [
           {
-            "id": "8f7e7a81-474e-42a1-8109-7881d5a50679",
-            "clue": "Muscles worked by crunches and sit-ups",
-            "answer": "abs",
-            "normalized": "abs"
+            "id": "47a0632c-1746-4a56-bcbd-4c4e45f20ec0",
+            "clue": "Indian draped garment for women",
+            "answer": "sari",
+            "normalized": "sari"
           },
           {
-            "id": "46c0ada2-e767-485e-8dc5-852c1941723d",
-            "clue": "A piece __; simple, not requiring much effort",
-            "answer": "of cake",
-            "normalized": "ofcake"
+            "id": "dc8667c2-b559-44dc-8b4b-fd8589b8d541",
+            "clue": "The opposite of odds",
+            "answer": "evens",
+            "normalized": "evens"
           },
           {
-            "id": "20a305a5-c95b-4476-95a7-eed3c3eb49f1",
-            "clue": "Capital of Germany",
-            "answer": "berlin",
-            "normalized": "berlin"
+            "id": "d7e5ab2f-e8f4-4379-8b14-bd51bc567e9a",
+            "clue": "Propel a canoe",
+            "answer": "paddle",
+            "normalized": "paddle"
           },
           {
-            "id": "13855fce-ccd1-493f-80a8-b51f876dc15a",
-            "clue": "Being redundant, serving no purpose",
-            "answer": "otiose",
-            "normalized": "otiose"
+            "id": "2deda428-f08d-4abd-a6ae-134806beaa7e",
+            "clue": "Neater, less messy than",
+            "answer": "tidier",
+            "normalized": "tidier"
           },
           {
-            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
-            "clue": "Shakespeare's much fuss about nothing",
-            "answer": "ado",
-            "normalized": "ado"
+            "id": "2f4f0b94-b158-4724-a21e-2604bffc869a",
+            "clue": "Crossbred cat, Napoleon Dynamite likes this animal",
+            "answer": "liger",
+            "normalized": "liger"
           },
           {
-            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
-            "clue": "Pungent, acidic",
-            "answer": "acrid",
-            "normalized": "acrid"
+            "id": "4c494969-d791-4419-ada6-7f4394c6ea38",
+            "clue": "Closers for bottles and jars, often screwed on",
+            "answer": "tops",
+            "normalized": "tops"
           },
           {
-            "id": "6956ca21-51ec-4968-a4d3-9c02ef406fc7",
-            "clue": "The bear in the Jungle Book",
-            "answer": "baloo",
-            "normalized": "baloo"
+            "id": "dc661e78-277d-4c89-9273-1d57af4c038d",
+            "clue": "The ninth month, for short",
+            "answer": "sept",
+            "normalized": "sept"
           },
           {
-            "id": "890c9240-2925-4fd3-b581-c3a8edf83e00",
-            "clue": "Hits the slopes",
-            "answer": "skis",
-            "normalized": "skis"
+            "id": "878eff8c-ae5f-4cb6-8863-ad1d1ed96409",
+            "clue": "Make use of an opportunity or service",
+            "answer": "avail",
+            "normalized": "avail"
           },
           {
-            "id": "01a6cac1-f29b-4c18-9bc7-46df9b419851",
-            "clue": "It means \"or best offer\"",
-            "answer": "obo",
-            "normalized": "obo"
+            "id": "5762871d-497d-4616-9b29-17cb6fd3ce1f",
+            "clue": "Social site where users vote on best pieces",
+            "answer": "reddit",
+            "normalized": "reddit"
           },
           {
-            "id": "962bf301-c416-4b36-9ad3-1876917f6dd9",
-            "clue": "Greek white cheese made from sheep's milk",
-            "answer": "feta",
-            "normalized": "feta"
+            "id": "ca21c917-4dca-4538-a263-a123bea27353",
+            "clue": "Dark blueish purple shade",
+            "answer": "indigo",
+            "normalized": "indigo"
           },
           {
-            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-            "clue": "East-northeast for short",
-            "answer": "ene",
-            "normalized": "ene"
+            "id": "ec4a29bf-79ea-4f07-8337-e7791b7ab72f",
+            "clue": "State of altered awareness where dreams are born",
+            "answer": "sleep",
+            "normalized": "sleep"
+          },
+          {
+            "id": "f43d0177-db39-44a5-8614-28224ffa127d",
+            "clue": "Makes a mistake",
+            "answer": "errs",
+            "normalized": "errs"
           }
         ],
-        "track": "PC|LenC--Y2026M6D25F0"
+        "track": "PC|LenC--Y2026M6D26F0"
       },
       "mid": {
-        "puzzleId": "ac7b48d4-0a4c-481b-843d-2092529cf394",
+        "puzzleId": "f9cb3712-6f4b-4a78-bf59-93972c21e857",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 5,
         "answers": [
           {
-            "id": "ce6413c4-5e6d-473f-baba-67a47b3b4e8b",
-            "clue": "Prefix larger than mega",
-            "answer": "giga",
-            "normalized": "giga"
+            "id": "9626f692-dbb8-43e2-a358-2c151ec1c1fe",
+            "clue": "Computer program on a tablet",
+            "answer": "app",
+            "normalized": "app"
           },
           {
-            "id": "5bcc7911-b91b-4f22-bb43-44342fb51080",
-            "clue": "Author Cabot, who wrote the Princess Diaries",
-            "answer": "meg",
-            "normalized": "meg"
+            "id": "4aa73c8c-4a60-4504-aeca-57b3262a6505",
+            "clue": "Dog in the Garfield cartoons",
+            "answer": "odie",
+            "normalized": "odie"
           },
           {
-            "id": "8bacd9e1-f9b6-49e4-aff1-61f40e0ca39d",
-            "clue": "Equestrian sport requiring a good memory",
-            "answer": "dressage",
-            "normalized": "dressage"
+            "id": "b54da8ea-b0f0-4b22-b452-2f9042cad15b",
+            "clue": "Airport code for London Heathrow",
+            "answer": "lhr",
+            "normalized": "lhr"
           },
           {
-            "id": "565e6311-d4d5-4fd0-abe7-c5336a6593e2",
-            "clue": "Change.org is a __ website that makes requests",
-            "answer": "petition",
-            "normalized": "petition"
+            "id": "971f2cd9-c717-4309-9a72-5dd81316a828",
+            "clue": "Solid, hard",
+            "answer": "firm",
+            "normalized": "firm"
           },
           {
-            "id": "3449a95d-672e-45cf-858b-e205ace1f391",
-            "clue": "Big farm outbuilding",
-            "answer": "barn",
-            "normalized": "barn"
+            "id": "c80551e9-d160-4380-aeb5-71771da0714d",
+            "clue": "Email abbreviation, means \"just so you know\"",
+            "answer": "fyi",
+            "normalized": "fyi"
           },
           {
-            "id": "50ded017-880b-40f9-85d0-33d7034e7af0",
-            "clue": "Gives out, emits",
-            "answer": "emanates",
-            "normalized": "emanates"
+            "id": "38363cc6-5771-4926-b430-a20faee37bad",
+            "clue": "Old MacDonald had one of these",
+            "answer": "farm",
+            "normalized": "farm"
           },
           {
-            "id": "36bda93b-91f4-445f-9b9f-cf7e300a0252",
-            "clue": "Eats only what's grown in one's surroundings",
-            "answer": "locavore",
-            "normalized": "locavore"
+            "id": "c3916a1c-a73a-454a-985c-52292015412b",
+            "clue": "Country whose capital is Mogadishu",
+            "answer": "somalia",
+            "normalized": "somalia"
           },
           {
-            "id": "a027e089-7de0-4d52-a1fc-8222850e3bd6",
-            "clue": "An online initialism that means let me know",
-            "answer": "lmk",
-            "normalized": "lmk"
+            "id": "1e51d031-52d7-4e59-b446-48cfc13416d4",
+            "clue": "A metal band worn around the head",
+            "answer": "circlet",
+            "normalized": "circlet"
           },
           {
-            "id": "6c0a47bd-42cc-4548-bba5-6dfbb3716e25",
-            "clue": "Predator at the top of the food chain",
-            "answer": "apex",
-            "normalized": "apex"
+            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
+            "clue": "Taiwanese laptop and PC company; type of tree",
+            "answer": "acer",
+            "normalized": "acer"
           },
           {
-            "id": "0bcb5b84-c554-4e4e-bc04-55a073b830a9",
-            "clue": "Measure of a nation's economic wealth",
-            "answer": "gdp",
-            "normalized": "gdp"
+            "id": "107f7662-634e-4fc3-97f1-07aff746d02b",
+            "clue": "Scoundrel, rascal",
+            "answer": "cad",
+            "normalized": "cad"
           },
           {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
+            "id": "66eb4ce7-e088-4b0f-9ebc-9b6170788197",
+            "clue": "Deployer of Voyager probes",
+            "answer": "nasa",
+            "normalized": "nasa"
           },
           {
-            "id": "0d9a6e3e-24e4-4643-8d6f-559c060ed40a",
-            "clue": "2021 documentary about The Beatles",
-            "answer": "get back",
-            "normalized": "getback"
+            "id": "6a665bba-1f40-42fb-aada-0f492a871544",
+            "clue": "Currency code for the Trinidad and Tobago dollar",
+            "answer": "ttd",
+            "normalized": "ttd"
           },
           {
-            "id": "793256ed-b362-4764-9167-68874154633d",
-            "clue": "Major Korean airline, with red arrowhead logo",
-            "answer": "asiana",
-            "normalized": "asiana"
+            "id": "158aeba4-82b7-40b5-9ce7-fe8dd2ca4577",
+            "clue": "\"Do what I say, or __!\"",
+            "answer": "else",
+            "normalized": "else"
           },
           {
-            "id": "a954e125-1385-4208-91cf-e56f0c2cca55",
-            "clue": "Observation platform on a ship",
-            "answer": "maintop",
-            "normalized": "maintop"
+            "id": "f09cb145-5509-4e5e-90da-5eae8b56f5bc",
+            "clue": "A defined group of objects in mathematics",
+            "answer": "set",
+            "normalized": "set"
           },
           {
-            "id": "1f79df52-f18e-4c6a-ac32-ee6018bd24de",
-            "clue": "Freud's personality theory defined this concept",
-            "answer": "ego",
-            "normalized": "ego"
+            "id": "cd5acc09-4ff1-477e-acc0-d271e0703ac3",
+            "clue": "US sitcom about a furry puppet Alien Life Form",
+            "answer": "alf",
+            "normalized": "alf"
           },
           {
-            "id": "f2b32932-282c-43bd-a7f5-8544ede31022",
-            "clue": "Short word that precedes X, Y for eras when born",
-            "answer": "gen",
-            "normalized": "gen"
+            "id": "de5a5ea6-d4d1-464d-9829-e3792ae828c6",
+            "clue": "Full doctor's exam of a patient",
+            "answer": "physical",
+            "normalized": "physical"
           },
           {
-            "id": "d22b50dd-6764-4c41-a96e-9de7901c37ab",
-            "clue": "Fitness app that tracks runs and cycle rides",
-            "answer": "strava",
-            "normalized": "strava"
+            "id": "184213f2-1682-44eb-8629-9a5ca237ab39",
+            "clue": "Convent authority, below an abbess",
+            "answer": "prioress",
+            "normalized": "prioress"
           },
           {
-            "id": "c89213ab-7664-4b5e-9e21-15580143b1dd",
-            "clue": "Old measure of length, 45 inches; the 12th letter",
-            "answer": "ell",
-            "normalized": "ell"
+            "id": "9764d6d2-4792-4977-b454-a6d31b50dd9a",
+            "clue": "Edible organ meat of an animal, e.g. liver",
+            "answer": "offal",
+            "normalized": "offal"
           },
           {
-            "id": "a900a86a-fe17-4bfc-a53d-7273f2d88510",
-            "clue": "American mother",
-            "answer": "mom",
-            "normalized": "mom"
+            "id": "14801a9f-0181-457e-b09f-9941937acb5c",
+            "clue": "Regional language forms",
+            "answer": "dialects",
+            "normalized": "dialects"
           },
           {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
+            "id": "62945a2f-1886-46d9-a792-b41be5728026",
+            "clue": "Annoy, pester",
+            "answer": "irritate",
+            "normalized": "irritate"
           },
           {
-            "id": "67982104-2930-4dbe-97a7-0b083f7dd5db",
-            "clue": "It accompanies \"and the City\" in a TV series",
-            "answer": "sex",
-            "normalized": "sex"
+            "id": "0005827e-31c0-4030-9f0b-e88fd248546e",
+            "clue": "Jane Austen novel about matchmaking gone wrong",
+            "answer": "emma",
+            "normalized": "emma"
+          },
+          {
+            "id": "e0cb95fb-1949-4cff-a362-1f6e476715d7",
+            "clue": "Tate, Canadian artist who sang You Broke Me First",
+            "answer": "mcrae",
+            "normalized": "mcrae"
+          },
+          {
+            "id": "9f51ba80-f96f-40c5-b7c6-89eaf36d353c",
+            "clue": "Walking stick",
+            "answer": "cane",
+            "normalized": "cane"
+          },
+          {
+            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
+            "clue": "Pest spray that's banned in many countries",
+            "answer": "ddt",
+            "normalized": "ddt"
           }
         ],
-        "track": "PC|LenC--Y2026M6D25F1"
+        "track": "PC|LenC--Y2026M6D26F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-25",
+      "key": "2026-06-26",
       "year": 2026,
       "month": 6,
-      "day": 25,
+      "day": 26,
       "small": {
-        "puzzleId": "4ba41b68-0733-4ee8-87d7-21f8c7666ce1",
+        "puzzleId": "c3b56784-ddec-4b69-a181-76e1b8c1cef0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 5,
         "answers": [
           {
-            "id": "8f7e7a81-474e-42a1-8109-7881d5a50679",
-            "clue": "Muscles worked by crunches and sit-ups",
-            "answer": "abs",
-            "normalized": "abs"
+            "id": "47a0632c-1746-4a56-bcbd-4c4e45f20ec0",
+            "clue": "Indian draped garment for women",
+            "answer": "sari",
+            "normalized": "sari"
           },
           {
-            "id": "46c0ada2-e767-485e-8dc5-852c1941723d",
-            "clue": "A piece __; simple, not requiring much effort",
-            "answer": "of cake",
-            "normalized": "ofcake"
+            "id": "dc8667c2-b559-44dc-8b4b-fd8589b8d541",
+            "clue": "The opposite of odds",
+            "answer": "evens",
+            "normalized": "evens"
           },
           {
-            "id": "20a305a5-c95b-4476-95a7-eed3c3eb49f1",
-            "clue": "Capital of Germany",
-            "answer": "berlin",
-            "normalized": "berlin"
+            "id": "d7e5ab2f-e8f4-4379-8b14-bd51bc567e9a",
+            "clue": "Propel a canoe",
+            "answer": "paddle",
+            "normalized": "paddle"
           },
           {
-            "id": "13855fce-ccd1-493f-80a8-b51f876dc15a",
-            "clue": "Being redundant, serving no purpose",
-            "answer": "otiose",
-            "normalized": "otiose"
+            "id": "2deda428-f08d-4abd-a6ae-134806beaa7e",
+            "clue": "Neater, less messy than",
+            "answer": "tidier",
+            "normalized": "tidier"
           },
           {
-            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
-            "clue": "Shakespeare's much fuss about nothing",
-            "answer": "ado",
-            "normalized": "ado"
+            "id": "2f4f0b94-b158-4724-a21e-2604bffc869a",
+            "clue": "Crossbred cat, Napoleon Dynamite likes this animal",
+            "answer": "liger",
+            "normalized": "liger"
           },
           {
-            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
-            "clue": "Pungent, acidic",
-            "answer": "acrid",
-            "normalized": "acrid"
+            "id": "4c494969-d791-4419-ada6-7f4394c6ea38",
+            "clue": "Closers for bottles and jars, often screwed on",
+            "answer": "tops",
+            "normalized": "tops"
           },
           {
-            "id": "6956ca21-51ec-4968-a4d3-9c02ef406fc7",
-            "clue": "The bear in the Jungle Book",
-            "answer": "baloo",
-            "normalized": "baloo"
+            "id": "dc661e78-277d-4c89-9273-1d57af4c038d",
+            "clue": "The ninth month, for short",
+            "answer": "sept",
+            "normalized": "sept"
           },
           {
-            "id": "890c9240-2925-4fd3-b581-c3a8edf83e00",
-            "clue": "Hits the slopes",
-            "answer": "skis",
-            "normalized": "skis"
+            "id": "878eff8c-ae5f-4cb6-8863-ad1d1ed96409",
+            "clue": "Make use of an opportunity or service",
+            "answer": "avail",
+            "normalized": "avail"
           },
           {
-            "id": "01a6cac1-f29b-4c18-9bc7-46df9b419851",
-            "clue": "It means \"or best offer\"",
-            "answer": "obo",
-            "normalized": "obo"
+            "id": "5762871d-497d-4616-9b29-17cb6fd3ce1f",
+            "clue": "Social site where users vote on best pieces",
+            "answer": "reddit",
+            "normalized": "reddit"
           },
           {
-            "id": "962bf301-c416-4b36-9ad3-1876917f6dd9",
-            "clue": "Greek white cheese made from sheep's milk",
-            "answer": "feta",
-            "normalized": "feta"
+            "id": "ca21c917-4dca-4538-a263-a123bea27353",
+            "clue": "Dark blueish purple shade",
+            "answer": "indigo",
+            "normalized": "indigo"
           },
           {
-            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-            "clue": "East-northeast for short",
-            "answer": "ene",
-            "normalized": "ene"
+            "id": "ec4a29bf-79ea-4f07-8337-e7791b7ab72f",
+            "clue": "State of altered awareness where dreams are born",
+            "answer": "sleep",
+            "normalized": "sleep"
+          },
+          {
+            "id": "f43d0177-db39-44a5-8614-28224ffa127d",
+            "clue": "Makes a mistake",
+            "answer": "errs",
+            "normalized": "errs"
           }
         ],
-        "track": "PC|LenC--Y2026M6D25F0"
+        "track": "PC|LenC--Y2026M6D26F0"
       },
       "mid": {
-        "puzzleId": "ac7b48d4-0a4c-481b-843d-2092529cf394",
+        "puzzleId": "f9cb3712-6f4b-4a78-bf59-93972c21e857",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 5,
         "answers": [
           {
-            "id": "ce6413c4-5e6d-473f-baba-67a47b3b4e8b",
-            "clue": "Prefix larger than mega",
-            "answer": "giga",
-            "normalized": "giga"
+            "id": "9626f692-dbb8-43e2-a358-2c151ec1c1fe",
+            "clue": "Computer program on a tablet",
+            "answer": "app",
+            "normalized": "app"
           },
           {
-            "id": "5bcc7911-b91b-4f22-bb43-44342fb51080",
-            "clue": "Author Cabot, who wrote the Princess Diaries",
-            "answer": "meg",
-            "normalized": "meg"
+            "id": "4aa73c8c-4a60-4504-aeca-57b3262a6505",
+            "clue": "Dog in the Garfield cartoons",
+            "answer": "odie",
+            "normalized": "odie"
           },
           {
-            "id": "8bacd9e1-f9b6-49e4-aff1-61f40e0ca39d",
-            "clue": "Equestrian sport requiring a good memory",
-            "answer": "dressage",
-            "normalized": "dressage"
+            "id": "b54da8ea-b0f0-4b22-b452-2f9042cad15b",
+            "clue": "Airport code for London Heathrow",
+            "answer": "lhr",
+            "normalized": "lhr"
           },
           {
-            "id": "565e6311-d4d5-4fd0-abe7-c5336a6593e2",
-            "clue": "Change.org is a __ website that makes requests",
-            "answer": "petition",
-            "normalized": "petition"
+            "id": "971f2cd9-c717-4309-9a72-5dd81316a828",
+            "clue": "Solid, hard",
+            "answer": "firm",
+            "normalized": "firm"
           },
           {
-            "id": "3449a95d-672e-45cf-858b-e205ace1f391",
-            "clue": "Big farm outbuilding",
-            "answer": "barn",
-            "normalized": "barn"
+            "id": "c80551e9-d160-4380-aeb5-71771da0714d",
+            "clue": "Email abbreviation, means \"just so you know\"",
+            "answer": "fyi",
+            "normalized": "fyi"
           },
           {
-            "id": "50ded017-880b-40f9-85d0-33d7034e7af0",
-            "clue": "Gives out, emits",
-            "answer": "emanates",
-            "normalized": "emanates"
+            "id": "38363cc6-5771-4926-b430-a20faee37bad",
+            "clue": "Old MacDonald had one of these",
+            "answer": "farm",
+            "normalized": "farm"
           },
           {
-            "id": "36bda93b-91f4-445f-9b9f-cf7e300a0252",
-            "clue": "Eats only what's grown in one's surroundings",
-            "answer": "locavore",
-            "normalized": "locavore"
+            "id": "c3916a1c-a73a-454a-985c-52292015412b",
+            "clue": "Country whose capital is Mogadishu",
+            "answer": "somalia",
+            "normalized": "somalia"
           },
           {
-            "id": "a027e089-7de0-4d52-a1fc-8222850e3bd6",
-            "clue": "An online initialism that means let me know",
-            "answer": "lmk",
-            "normalized": "lmk"
+            "id": "1e51d031-52d7-4e59-b446-48cfc13416d4",
+            "clue": "A metal band worn around the head",
+            "answer": "circlet",
+            "normalized": "circlet"
           },
           {
-            "id": "6c0a47bd-42cc-4548-bba5-6dfbb3716e25",
-            "clue": "Predator at the top of the food chain",
-            "answer": "apex",
-            "normalized": "apex"
+            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
+            "clue": "Taiwanese laptop and PC company; type of tree",
+            "answer": "acer",
+            "normalized": "acer"
           },
           {
-            "id": "0bcb5b84-c554-4e4e-bc04-55a073b830a9",
-            "clue": "Measure of a nation's economic wealth",
-            "answer": "gdp",
-            "normalized": "gdp"
+            "id": "107f7662-634e-4fc3-97f1-07aff746d02b",
+            "clue": "Scoundrel, rascal",
+            "answer": "cad",
+            "normalized": "cad"
           },
           {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
+            "id": "66eb4ce7-e088-4b0f-9ebc-9b6170788197",
+            "clue": "Deployer of Voyager probes",
+            "answer": "nasa",
+            "normalized": "nasa"
           },
           {
-            "id": "0d9a6e3e-24e4-4643-8d6f-559c060ed40a",
-            "clue": "2021 documentary about The Beatles",
-            "answer": "get back",
-            "normalized": "getback"
+            "id": "6a665bba-1f40-42fb-aada-0f492a871544",
+            "clue": "Currency code for the Trinidad and Tobago dollar",
+            "answer": "ttd",
+            "normalized": "ttd"
           },
           {
-            "id": "793256ed-b362-4764-9167-68874154633d",
-            "clue": "Major Korean airline, with red arrowhead logo",
-            "answer": "asiana",
-            "normalized": "asiana"
+            "id": "158aeba4-82b7-40b5-9ce7-fe8dd2ca4577",
+            "clue": "\"Do what I say, or __!\"",
+            "answer": "else",
+            "normalized": "else"
           },
           {
-            "id": "a954e125-1385-4208-91cf-e56f0c2cca55",
-            "clue": "Observation platform on a ship",
-            "answer": "maintop",
-            "normalized": "maintop"
+            "id": "f09cb145-5509-4e5e-90da-5eae8b56f5bc",
+            "clue": "A defined group of objects in mathematics",
+            "answer": "set",
+            "normalized": "set"
           },
           {
-            "id": "1f79df52-f18e-4c6a-ac32-ee6018bd24de",
-            "clue": "Freud's personality theory defined this concept",
-            "answer": "ego",
-            "normalized": "ego"
+            "id": "cd5acc09-4ff1-477e-acc0-d271e0703ac3",
+            "clue": "US sitcom about a furry puppet Alien Life Form",
+            "answer": "alf",
+            "normalized": "alf"
           },
           {
-            "id": "f2b32932-282c-43bd-a7f5-8544ede31022",
-            "clue": "Short word that precedes X, Y for eras when born",
-            "answer": "gen",
-            "normalized": "gen"
+            "id": "de5a5ea6-d4d1-464d-9829-e3792ae828c6",
+            "clue": "Full doctor's exam of a patient",
+            "answer": "physical",
+            "normalized": "physical"
           },
           {
-            "id": "d22b50dd-6764-4c41-a96e-9de7901c37ab",
-            "clue": "Fitness app that tracks runs and cycle rides",
-            "answer": "strava",
-            "normalized": "strava"
+            "id": "184213f2-1682-44eb-8629-9a5ca237ab39",
+            "clue": "Convent authority, below an abbess",
+            "answer": "prioress",
+            "normalized": "prioress"
           },
           {
-            "id": "c89213ab-7664-4b5e-9e21-15580143b1dd",
-            "clue": "Old measure of length, 45 inches; the 12th letter",
-            "answer": "ell",
-            "normalized": "ell"
+            "id": "9764d6d2-4792-4977-b454-a6d31b50dd9a",
+            "clue": "Edible organ meat of an animal, e.g. liver",
+            "answer": "offal",
+            "normalized": "offal"
           },
           {
-            "id": "a900a86a-fe17-4bfc-a53d-7273f2d88510",
-            "clue": "American mother",
-            "answer": "mom",
-            "normalized": "mom"
+            "id": "14801a9f-0181-457e-b09f-9941937acb5c",
+            "clue": "Regional language forms",
+            "answer": "dialects",
+            "normalized": "dialects"
           },
           {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
+            "id": "62945a2f-1886-46d9-a792-b41be5728026",
+            "clue": "Annoy, pester",
+            "answer": "irritate",
+            "normalized": "irritate"
           },
           {
-            "id": "67982104-2930-4dbe-97a7-0b083f7dd5db",
-            "clue": "It accompanies \"and the City\" in a TV series",
-            "answer": "sex",
-            "normalized": "sex"
+            "id": "0005827e-31c0-4030-9f0b-e88fd248546e",
+            "clue": "Jane Austen novel about matchmaking gone wrong",
+            "answer": "emma",
+            "normalized": "emma"
+          },
+          {
+            "id": "e0cb95fb-1949-4cff-a362-1f6e476715d7",
+            "clue": "Tate, Canadian artist who sang You Broke Me First",
+            "answer": "mcrae",
+            "normalized": "mcrae"
+          },
+          {
+            "id": "9f51ba80-f96f-40c5-b7c6-89eaf36d353c",
+            "clue": "Walking stick",
+            "answer": "cane",
+            "normalized": "cane"
+          },
+          {
+            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
+            "clue": "Pest spray that's banned in many countries",
+            "answer": "ddt",
+            "normalized": "ddt"
           }
         ],
-        "track": "PC|LenC--Y2026M6D25F1"
+        "track": "PC|LenC--Y2026M6D26F1"
       }
     },
     "latestAvailableEntry": {
@@ -422308,21 +422491,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "n2KVTT+IFnKUu+ag8cRfwLRx+gM+Qo5Fgngb3/PbR1uy1LefU3s4JBJuxdL7Ekcc/cu6YvIkvBrHgRfX8yIKb19aCu91TX7oxEPFtrugNVc8ZQbCl4vCJddmuC0Ww2U2zNpps7wxsZzk8Qqmp6qek1h/DOg5QVkTINU0Wh/XyQfPRAUqxjkEJUo8UZZUSEYV7Ce5ELYQPrUlPe3tf425+cfcO0jSjO/F94PdvLRfIVuEFHPeeq2ZEl1vyMZ5aXLVJTr4lxLcz6b3/4f2TgM99xaHnmWQNOD5VTtw/x7uh1s="
+        "Iyo49gfqApuh/jpsrb3np4VK7eqSIoG6YSzFDTjlY8Kkz+PyFI8F6BGi7QcGJ8/fjZIDWdAo//mAZWF8e2A+u738b3IaY8F+KozEHKTD3pVUaPhyuaJ6PVF+jl9Yb1Zf/CdYUHx7w+1N22OutKkvwazw5rInCjdYy8ZErmmuWiuFaio5JJs8MwPGhXCAyEY6kOw0TqyfYMLBatg3dH2NHKx9EJMFZ739iPwsj6qIDGCXj+4Nmd3d7ECSdoWhbk6NefTD4evHRxg9IyfBQzOR3OE8Dd3hO78GNPw7zK3cE54="
       ]
     },
     "decrypted": {
-      "Id": "71ba1d99-051b-49d4-b364-b5016e19a4c8",
-      "Date": "2026-06-25T00:00:00Z",
+      "Id": "aed488c2-05af-4d71-89e3-db0836046c05",
+      "Date": "2026-06-26T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "gecko",
-      "NormalizedPassword": "gecko",
+      "Password": "owing",
+      "NormalizedPassword": "owing",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-25T01:45:35.4930000+05:30",
-    "hash": "0e647b97dec53fac55b21595545405e7",
+    "dtu": "2026-06-26T01:58:10.8130000+05:30",
+    "hash": "83feb549792a3314cc81dd297da1f91f",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
