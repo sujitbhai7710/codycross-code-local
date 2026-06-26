@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-25T20:28:10.813Z",
+  "generatedAt": "2026-06-26T20:15:33.001Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 26
+    "day": 27
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 48
+        "QuantidadeDeFases": 50
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -64765,7 +64765,7 @@
             },
             {
               "id": "f89c3771-f1a7-47d2-a9eb-a15dbd8c7417",
-              "clue": "Prefix with Greek roots that means flight",
+              "clue": "Prefix from Greek, meaning air",
               "answer": "aero",
               "normalized": "aero"
             },
@@ -86794,7 +86794,7 @@
             },
             {
               "id": "f89c3771-f1a7-47d2-a9eb-a15dbd8c7417",
-              "clue": "Prefix with Greek roots that means flight",
+              "clue": "Prefix from Greek, meaning air",
               "answer": "aero",
               "normalized": "aero"
             },
@@ -92650,7 +92650,7 @@
             },
             {
               "id": "f89c3771-f1a7-47d2-a9eb-a15dbd8c7417",
-              "clue": "Prefix with Greek roots that means flight",
+              "clue": "Prefix from Greek, meaning air",
               "answer": "aero",
               "normalized": "aero"
             },
@@ -102253,7 +102253,7 @@
             },
             {
               "id": "336bc96c-7072-46d4-94e9-5f5385ede738",
-              "clue": "Cattle genus originated from the Latin word",
+              "clue": "Cattle genus originated from the Latin for \"ox\"",
               "answer": "bos",
               "normalized": "bos"
             },
@@ -110916,7 +110916,7 @@
             },
             {
               "id": "bc8939c1-2c34-4da1-adac-bfc7aad3a8be",
-              "clue": "Acronym for Justice League of America",
+              "clue": "Initialism for Justice League of America",
               "answer": "jla",
               "normalized": "jla"
             },
@@ -131182,7 +131182,7 @@
             },
             {
               "id": "1a3c98e0-a8c7-413e-b3d4-7192d4f7c1aa",
-              "clue": "Decommission an army, in short",
+              "clue": "Discharge from military service, informally",
               "answer": "demob",
               "normalized": "demob"
             },
@@ -135395,7 +135395,7 @@
             },
             {
               "id": "1a3c98e0-a8c7-413e-b3d4-7192d4f7c1aa",
-              "clue": "Decommission an army, in short",
+              "clue": "Discharge from military service, informally",
               "answer": "demob",
               "normalized": "demob"
             },
@@ -172782,7 +172782,7 @@
             },
             {
               "id": "f89c3771-f1a7-47d2-a9eb-a15dbd8c7417",
-              "clue": "Prefix with Greek roots that means flight",
+              "clue": "Prefix from Greek, meaning air",
               "answer": "aero",
               "normalized": "aero"
             },
@@ -189229,7 +189229,7 @@
             },
             {
               "id": "d287c21e-a3dc-4f63-a3f9-b00dfcdb52ad",
-              "clue": "Speaking clearly and audibly",
+              "clue": "Audibly, like when speaking",
               "answer": "aloud",
               "normalized": "aloud"
             },
@@ -224580,7 +224580,7 @@
             },
             {
               "id": "1a3c98e0-a8c7-413e-b3d4-7192d4f7c1aa",
-              "clue": "Decommission an army, in short",
+              "clue": "Discharge from military service, informally",
               "answer": "demob",
               "normalized": "demob"
             },
@@ -270070,7 +270070,7 @@
             },
             {
               "id": "f89c3771-f1a7-47d2-a9eb-a15dbd8c7417",
-              "clue": "Prefix with Greek roots that means flight",
+              "clue": "Prefix from Greek, meaning air",
               "answer": "aero",
               "normalized": "aero"
             },
@@ -323369,7 +323369,7 @@
           "answers": [
             {
               "id": "1a3c98e0-a8c7-413e-b3d4-7192d4f7c1aa",
-              "clue": "Decommission an army, in short",
+              "clue": "Discharge from military service, informally",
               "answer": "demob",
               "normalized": "demob"
             },
@@ -357686,7 +357686,7 @@
             },
             {
               "id": "b4a8bbc0-6428-47ae-a20b-f6c469bf20bf",
-              "clue": "My Chemical Romance and Paramore music genre",
+              "clue": "My Chemical Romance music genre",
               "answer": "emo",
               "normalized": "emo"
             },
@@ -370889,7 +370889,7 @@
             },
             {
               "id": "f89c3771-f1a7-47d2-a9eb-a15dbd8c7417",
-              "clue": "Prefix with Greek roots that means flight",
+              "clue": "Prefix from Greek, meaning air",
               "answer": "aero",
               "normalized": "aero"
             },
@@ -421775,487 +421775,379 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-26",
+      "key": "2026-06-27",
       "year": 2026,
       "month": 6,
-      "day": 26,
+      "day": 27,
       "small": {
-        "puzzleId": "c3b56784-ddec-4b69-a181-76e1b8c1cef0",
+        "puzzleId": "38654bf6-4f63-4951-94eb-c58ead3e7775",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 5,
+        "version": 1,
         "answers": [
           {
-            "id": "47a0632c-1746-4a56-bcbd-4c4e45f20ec0",
-            "clue": "Indian draped garment for women",
-            "answer": "sari",
-            "normalized": "sari"
+            "id": "20170a12-2bb6-4fe7-a33b-b29a99d1dbd7",
+            "clue": "Eric who Always Looks on the Bright Side of Life",
+            "answer": "idle",
+            "normalized": "idle"
           },
           {
-            "id": "dc8667c2-b559-44dc-8b4b-fd8589b8d541",
-            "clue": "The opposite of odds",
-            "answer": "evens",
-            "normalized": "evens"
+            "id": "a2942be4-3bcd-4034-a0c9-3f1c003474c0",
+            "clue": "A vegetable that's usually misspelled as union",
+            "answer": "onion",
+            "normalized": "onion"
           },
           {
-            "id": "d7e5ab2f-e8f4-4379-8b14-bd51bc567e9a",
-            "clue": "Propel a canoe",
-            "answer": "paddle",
-            "normalized": "paddle"
+            "id": "917aad2e-c39b-4348-a02c-676e151666fc",
+            "clue": "1978 Stephen King pandemic novel, The __",
+            "answer": "stand",
+            "normalized": "stand"
           },
           {
-            "id": "2deda428-f08d-4abd-a6ae-134806beaa7e",
-            "clue": "Neater, less messy than",
-            "answer": "tidier",
-            "normalized": "tidier"
+            "id": "1701bd18-9806-4548-bcab-283a02611152",
+            "clue": "Imagine, Bad Guy and Born This Way are examples",
+            "answer": "songs",
+            "normalized": "songs"
           },
           {
-            "id": "2f4f0b94-b158-4724-a21e-2604bffc869a",
-            "clue": "Crossbred cat, Napoleon Dynamite likes this animal",
-            "answer": "liger",
-            "normalized": "liger"
+            "id": "9ec0b9e1-b6d1-4442-a542-15f7457f229b",
+            "clue": "Is in debt to someone",
+            "answer": "owes",
+            "normalized": "owes"
           },
           {
-            "id": "4c494969-d791-4419-ada6-7f4394c6ea38",
-            "clue": "Closers for bottles and jars, often screwed on",
-            "answer": "tops",
-            "normalized": "tops"
+            "id": "480ab2ac-3611-4e65-8f73-4de65041ea51",
+            "clue": "Describes being taken along",
+            "answer": "in tow",
+            "normalized": "intow"
           },
           {
-            "id": "dc661e78-277d-4c89-9273-1d57af4c038d",
-            "clue": "The ninth month, for short",
-            "answer": "sept",
-            "normalized": "sept"
+            "id": "3f5080a8-56c6-43c9-9944-9f4fe8afe2cb",
+            "clue": "Keaton who starred in Something's Gotta Give",
+            "answer": "diane",
+            "normalized": "diane"
           },
           {
-            "id": "878eff8c-ae5f-4cb6-8863-ad1d1ed96409",
-            "clue": "Make use of an opportunity or service",
-            "answer": "avail",
-            "normalized": "avail"
+            "id": "2be91b59-9b0a-4563-aa34-cc80b1d82020",
+            "clue": "Yearns, pines for",
+            "answer": "longs",
+            "normalized": "longs"
           },
           {
-            "id": "5762871d-497d-4616-9b29-17cb6fd3ce1f",
-            "clue": "Social site where users vote on best pieces",
-            "answer": "reddit",
-            "normalized": "reddit"
+            "id": "b1c6ec81-c576-4afc-bb35-9a09a94e89fb",
+            "clue": "Comes to a finish",
+            "answer": "ends",
+            "normalized": "ends"
           },
           {
-            "id": "ca21c917-4dca-4538-a263-a123bea27353",
-            "clue": "Dark blueish purple shade",
-            "answer": "indigo",
-            "normalized": "indigo"
-          },
-          {
-            "id": "ec4a29bf-79ea-4f07-8337-e7791b7ab72f",
-            "clue": "State of altered awareness where dreams are born",
-            "answer": "sleep",
-            "normalized": "sleep"
-          },
-          {
-            "id": "f43d0177-db39-44a5-8614-28224ffa127d",
-            "clue": "Makes a mistake",
-            "answer": "errs",
-            "normalized": "errs"
+            "id": "0b0c143c-3a8b-4d20-8b1c-9f57d9a462fe",
+            "clue": "__ buco, Italian dish made with veal",
+            "answer": "osso",
+            "normalized": "osso"
           }
         ],
-        "track": "PC|LenC--Y2026M6D26F0"
+        "track": "PC|LenC--Y2026M6D27F0"
       },
       "mid": {
-        "puzzleId": "f9cb3712-6f4b-4a78-bf59-93972c21e857",
+        "puzzleId": "26203f4d-3ddb-4581-b9ed-07b10c75071a",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 5,
+        "version": 3,
         "answers": [
           {
-            "id": "9626f692-dbb8-43e2-a358-2c151ec1c1fe",
-            "clue": "Computer program on a tablet",
-            "answer": "app",
-            "normalized": "app"
+            "id": "78917036-07b0-482f-9dcc-918595745d37",
+            "clue": "Not a con",
+            "answer": "pro",
+            "normalized": "pro"
           },
           {
-            "id": "4aa73c8c-4a60-4504-aeca-57b3262a6505",
-            "clue": "Dog in the Garfield cartoons",
-            "answer": "odie",
-            "normalized": "odie"
+            "id": "d8059e85-d37a-4127-a471-5d74ecebf117",
+            "clue": "Abbreviation for an audio signal boosting device",
+            "answer": "amp",
+            "normalized": "amp"
           },
           {
-            "id": "b54da8ea-b0f0-4b22-b452-2f9042cad15b",
-            "clue": "Airport code for London Heathrow",
-            "answer": "lhr",
-            "normalized": "lhr"
+            "id": "654090d1-b83e-476b-80f0-bfa67ee8d88d",
+            "clue": "Added to a deadline to mean by midnight that day",
+            "answer": "eod",
+            "normalized": "eod"
           },
           {
-            "id": "971f2cd9-c717-4309-9a72-5dd81316a828",
-            "clue": "Solid, hard",
-            "answer": "firm",
-            "normalized": "firm"
+            "id": "78cc9a2f-0c9b-4165-b8a5-db12ab1e90d2",
+            "clue": "The ceremonial bonding of two people",
+            "answer": "marriage",
+            "normalized": "marriage"
           },
           {
-            "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-            "clue": "Email abbreviation, means \"just so you know\"",
-            "answer": "fyi",
-            "normalized": "fyi"
+            "id": "ed09f1e9-8fe6-4793-b764-5ca55c700fdb",
+            "clue": "Short, knee-length trousers worn for horse riding",
+            "answer": "breeches",
+            "normalized": "breeches"
           },
           {
-            "id": "38363cc6-5771-4926-b430-a20faee37bad",
-            "clue": "Old MacDonald had one of these",
-            "answer": "farm",
-            "normalized": "farm"
+            "id": "bfd034a7-4480-464a-8b0b-d79243f6bdba",
+            "clue": "Those who try",
+            "answer": "essayers",
+            "normalized": "essayers"
           },
           {
-            "id": "c3916a1c-a73a-454a-985c-52292015412b",
-            "clue": "Country whose capital is Mogadishu",
-            "answer": "somalia",
-            "normalized": "somalia"
+            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
+            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
+            "answer": "rae",
+            "normalized": "rae"
           },
           {
-            "id": "1e51d031-52d7-4e59-b446-48cfc13416d4",
-            "clue": "A metal band worn around the head",
-            "answer": "circlet",
-            "normalized": "circlet"
+            "id": "fbdec2a9-34e9-41cb-b0df-fee3385e82ff",
+            "clue": "US government secretive surveillance experts",
+            "answer": "nsa",
+            "normalized": "nsa"
           },
           {
-            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
-            "clue": "Taiwanese laptop and PC company; type of tree",
-            "answer": "acer",
-            "normalized": "acer"
+            "id": "8300e657-e252-41e4-a13a-cdcb8b682996",
+            "clue": "Take a seat",
+            "answer": "sit",
+            "normalized": "sit"
           },
           {
-            "id": "107f7662-634e-4fc3-97f1-07aff746d02b",
-            "clue": "Scoundrel, rascal",
-            "answer": "cad",
-            "normalized": "cad"
+            "id": "cdbbf54a-bbc8-47a3-9172-80074267d3f6",
+            "clue": "A female peacock",
+            "answer": "peahen",
+            "normalized": "peahen"
           },
           {
-            "id": "66eb4ce7-e088-4b0f-9ebc-9b6170788197",
-            "clue": "Deployer of Voyager probes",
-            "answer": "nasa",
-            "normalized": "nasa"
+            "id": "fe82cbe3-b593-4274-9e8a-0800d59d5116",
+            "clue": "Mimi __, Lost In Space actress",
+            "answer": "rogers",
+            "normalized": "rogers"
           },
           {
-            "id": "6a665bba-1f40-42fb-aada-0f492a871544",
-            "clue": "Currency code for the Trinidad and Tobago dollar",
-            "answer": "ttd",
-            "normalized": "ttd"
+            "id": "6bc284f9-2a98-47cf-b4d9-d0d1447e8b52",
+            "clue": "Retired figure skater Oksana Baiul, The Swan of __",
+            "answer": "odessa",
+            "normalized": "odessa"
           },
           {
-            "id": "158aeba4-82b7-40b5-9ce7-fe8dd2ca4577",
-            "clue": "\"Do what I say, or __!\"",
-            "answer": "else",
-            "normalized": "else"
+            "id": "429f7443-fbe6-4d7a-9e08-0576bcde480d",
+            "clue": "Gemstones from the fossil resins of pine trees",
+            "answer": "ambers",
+            "normalized": "ambers"
           },
           {
-            "id": "f09cb145-5509-4e5e-90da-5eae8b56f5bc",
-            "clue": "A defined group of objects in mathematics",
-            "answer": "set",
-            "normalized": "set"
+            "id": "54cf7dc5-d8bb-4226-9a7a-5d30f54f4dc2",
+            "clue": "Producer and Black-ish star __ Martin",
+            "answer": "marsai",
+            "normalized": "marsai"
           },
           {
-            "id": "cd5acc09-4ff1-477e-acc0-d271e0703ac3",
-            "clue": "US sitcom about a furry puppet Alien Life Form",
-            "answer": "alf",
-            "normalized": "alf"
+            "id": "810eb0b7-dad2-4492-b1fd-c5a2724d7533",
+            "clue": "Place ahead of time",
+            "answer": "preset",
+            "normalized": "preset"
           },
           {
-            "id": "de5a5ea6-d4d1-464d-9829-e3792ae828c6",
-            "clue": "Full doctor's exam of a patient",
-            "answer": "physical",
-            "normalized": "physical"
+            "id": "dd778d72-f42c-4ae7-9937-9665c3b5b777",
+            "clue": "Mens __, criminal acceptance of wrongdoing",
+            "answer": "rea",
+            "normalized": "rea"
           },
           {
-            "id": "184213f2-1682-44eb-8629-9a5ca237ab39",
-            "clue": "Convent authority, below an abbess",
-            "answer": "prioress",
-            "normalized": "prioress"
-          },
-          {
-            "id": "9764d6d2-4792-4977-b454-a6d31b50dd9a",
-            "clue": "Edible organ meat of an animal, e.g. liver",
-            "answer": "offal",
-            "normalized": "offal"
-          },
-          {
-            "id": "14801a9f-0181-457e-b09f-9941937acb5c",
-            "clue": "Regional language forms",
-            "answer": "dialects",
-            "normalized": "dialects"
-          },
-          {
-            "id": "62945a2f-1886-46d9-a792-b41be5728026",
-            "clue": "Annoy, pester",
-            "answer": "irritate",
-            "normalized": "irritate"
-          },
-          {
-            "id": "0005827e-31c0-4030-9f0b-e88fd248546e",
-            "clue": "Jane Austen novel about matchmaking gone wrong",
-            "answer": "emma",
-            "normalized": "emma"
-          },
-          {
-            "id": "e0cb95fb-1949-4cff-a362-1f6e476715d7",
-            "clue": "Tate, Canadian artist who sang You Broke Me First",
-            "answer": "mcrae",
-            "normalized": "mcrae"
-          },
-          {
-            "id": "9f51ba80-f96f-40c5-b7c6-89eaf36d353c",
-            "clue": "Walking stick",
-            "answer": "cane",
-            "normalized": "cane"
-          },
-          {
-            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
-            "clue": "Pest spray that's banned in many countries",
-            "answer": "ddt",
-            "normalized": "ddt"
+            "id": "c060d56a-81a1-4a3a-baf1-9c23470208f7",
+            "clue": "Cold, frozen",
+            "answer": "icy",
+            "normalized": "icy"
           }
         ],
-        "track": "PC|LenC--Y2026M6D26F1"
+        "track": "PC|LenC--Y2026M6D27F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-26",
+      "key": "2026-06-27",
       "year": 2026,
       "month": 6,
-      "day": 26,
+      "day": 27,
       "small": {
-        "puzzleId": "c3b56784-ddec-4b69-a181-76e1b8c1cef0",
+        "puzzleId": "38654bf6-4f63-4951-94eb-c58ead3e7775",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 5,
+        "version": 1,
         "answers": [
           {
-            "id": "47a0632c-1746-4a56-bcbd-4c4e45f20ec0",
-            "clue": "Indian draped garment for women",
-            "answer": "sari",
-            "normalized": "sari"
+            "id": "20170a12-2bb6-4fe7-a33b-b29a99d1dbd7",
+            "clue": "Eric who Always Looks on the Bright Side of Life",
+            "answer": "idle",
+            "normalized": "idle"
           },
           {
-            "id": "dc8667c2-b559-44dc-8b4b-fd8589b8d541",
-            "clue": "The opposite of odds",
-            "answer": "evens",
-            "normalized": "evens"
+            "id": "a2942be4-3bcd-4034-a0c9-3f1c003474c0",
+            "clue": "A vegetable that's usually misspelled as union",
+            "answer": "onion",
+            "normalized": "onion"
           },
           {
-            "id": "d7e5ab2f-e8f4-4379-8b14-bd51bc567e9a",
-            "clue": "Propel a canoe",
-            "answer": "paddle",
-            "normalized": "paddle"
+            "id": "917aad2e-c39b-4348-a02c-676e151666fc",
+            "clue": "1978 Stephen King pandemic novel, The __",
+            "answer": "stand",
+            "normalized": "stand"
           },
           {
-            "id": "2deda428-f08d-4abd-a6ae-134806beaa7e",
-            "clue": "Neater, less messy than",
-            "answer": "tidier",
-            "normalized": "tidier"
+            "id": "1701bd18-9806-4548-bcab-283a02611152",
+            "clue": "Imagine, Bad Guy and Born This Way are examples",
+            "answer": "songs",
+            "normalized": "songs"
           },
           {
-            "id": "2f4f0b94-b158-4724-a21e-2604bffc869a",
-            "clue": "Crossbred cat, Napoleon Dynamite likes this animal",
-            "answer": "liger",
-            "normalized": "liger"
+            "id": "9ec0b9e1-b6d1-4442-a542-15f7457f229b",
+            "clue": "Is in debt to someone",
+            "answer": "owes",
+            "normalized": "owes"
           },
           {
-            "id": "4c494969-d791-4419-ada6-7f4394c6ea38",
-            "clue": "Closers for bottles and jars, often screwed on",
-            "answer": "tops",
-            "normalized": "tops"
+            "id": "480ab2ac-3611-4e65-8f73-4de65041ea51",
+            "clue": "Describes being taken along",
+            "answer": "in tow",
+            "normalized": "intow"
           },
           {
-            "id": "dc661e78-277d-4c89-9273-1d57af4c038d",
-            "clue": "The ninth month, for short",
-            "answer": "sept",
-            "normalized": "sept"
+            "id": "3f5080a8-56c6-43c9-9944-9f4fe8afe2cb",
+            "clue": "Keaton who starred in Something's Gotta Give",
+            "answer": "diane",
+            "normalized": "diane"
           },
           {
-            "id": "878eff8c-ae5f-4cb6-8863-ad1d1ed96409",
-            "clue": "Make use of an opportunity or service",
-            "answer": "avail",
-            "normalized": "avail"
+            "id": "2be91b59-9b0a-4563-aa34-cc80b1d82020",
+            "clue": "Yearns, pines for",
+            "answer": "longs",
+            "normalized": "longs"
           },
           {
-            "id": "5762871d-497d-4616-9b29-17cb6fd3ce1f",
-            "clue": "Social site where users vote on best pieces",
-            "answer": "reddit",
-            "normalized": "reddit"
+            "id": "b1c6ec81-c576-4afc-bb35-9a09a94e89fb",
+            "clue": "Comes to a finish",
+            "answer": "ends",
+            "normalized": "ends"
           },
           {
-            "id": "ca21c917-4dca-4538-a263-a123bea27353",
-            "clue": "Dark blueish purple shade",
-            "answer": "indigo",
-            "normalized": "indigo"
-          },
-          {
-            "id": "ec4a29bf-79ea-4f07-8337-e7791b7ab72f",
-            "clue": "State of altered awareness where dreams are born",
-            "answer": "sleep",
-            "normalized": "sleep"
-          },
-          {
-            "id": "f43d0177-db39-44a5-8614-28224ffa127d",
-            "clue": "Makes a mistake",
-            "answer": "errs",
-            "normalized": "errs"
+            "id": "0b0c143c-3a8b-4d20-8b1c-9f57d9a462fe",
+            "clue": "__ buco, Italian dish made with veal",
+            "answer": "osso",
+            "normalized": "osso"
           }
         ],
-        "track": "PC|LenC--Y2026M6D26F0"
+        "track": "PC|LenC--Y2026M6D27F0"
       },
       "mid": {
-        "puzzleId": "f9cb3712-6f4b-4a78-bf59-93972c21e857",
+        "puzzleId": "26203f4d-3ddb-4581-b9ed-07b10c75071a",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 5,
+        "version": 3,
         "answers": [
           {
-            "id": "9626f692-dbb8-43e2-a358-2c151ec1c1fe",
-            "clue": "Computer program on a tablet",
-            "answer": "app",
-            "normalized": "app"
+            "id": "78917036-07b0-482f-9dcc-918595745d37",
+            "clue": "Not a con",
+            "answer": "pro",
+            "normalized": "pro"
           },
           {
-            "id": "4aa73c8c-4a60-4504-aeca-57b3262a6505",
-            "clue": "Dog in the Garfield cartoons",
-            "answer": "odie",
-            "normalized": "odie"
+            "id": "d8059e85-d37a-4127-a471-5d74ecebf117",
+            "clue": "Abbreviation for an audio signal boosting device",
+            "answer": "amp",
+            "normalized": "amp"
           },
           {
-            "id": "b54da8ea-b0f0-4b22-b452-2f9042cad15b",
-            "clue": "Airport code for London Heathrow",
-            "answer": "lhr",
-            "normalized": "lhr"
+            "id": "654090d1-b83e-476b-80f0-bfa67ee8d88d",
+            "clue": "Added to a deadline to mean by midnight that day",
+            "answer": "eod",
+            "normalized": "eod"
           },
           {
-            "id": "971f2cd9-c717-4309-9a72-5dd81316a828",
-            "clue": "Solid, hard",
-            "answer": "firm",
-            "normalized": "firm"
+            "id": "78cc9a2f-0c9b-4165-b8a5-db12ab1e90d2",
+            "clue": "The ceremonial bonding of two people",
+            "answer": "marriage",
+            "normalized": "marriage"
           },
           {
-            "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-            "clue": "Email abbreviation, means \"just so you know\"",
-            "answer": "fyi",
-            "normalized": "fyi"
+            "id": "ed09f1e9-8fe6-4793-b764-5ca55c700fdb",
+            "clue": "Short, knee-length trousers worn for horse riding",
+            "answer": "breeches",
+            "normalized": "breeches"
           },
           {
-            "id": "38363cc6-5771-4926-b430-a20faee37bad",
-            "clue": "Old MacDonald had one of these",
-            "answer": "farm",
-            "normalized": "farm"
+            "id": "bfd034a7-4480-464a-8b0b-d79243f6bdba",
+            "clue": "Those who try",
+            "answer": "essayers",
+            "normalized": "essayers"
           },
           {
-            "id": "c3916a1c-a73a-454a-985c-52292015412b",
-            "clue": "Country whose capital is Mogadishu",
-            "answer": "somalia",
-            "normalized": "somalia"
+            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
+            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
+            "answer": "rae",
+            "normalized": "rae"
           },
           {
-            "id": "1e51d031-52d7-4e59-b446-48cfc13416d4",
-            "clue": "A metal band worn around the head",
-            "answer": "circlet",
-            "normalized": "circlet"
+            "id": "fbdec2a9-34e9-41cb-b0df-fee3385e82ff",
+            "clue": "US government secretive surveillance experts",
+            "answer": "nsa",
+            "normalized": "nsa"
           },
           {
-            "id": "87071341-48cf-4522-ac30-a20074f5ad80",
-            "clue": "Taiwanese laptop and PC company; type of tree",
-            "answer": "acer",
-            "normalized": "acer"
+            "id": "8300e657-e252-41e4-a13a-cdcb8b682996",
+            "clue": "Take a seat",
+            "answer": "sit",
+            "normalized": "sit"
           },
           {
-            "id": "107f7662-634e-4fc3-97f1-07aff746d02b",
-            "clue": "Scoundrel, rascal",
-            "answer": "cad",
-            "normalized": "cad"
+            "id": "cdbbf54a-bbc8-47a3-9172-80074267d3f6",
+            "clue": "A female peacock",
+            "answer": "peahen",
+            "normalized": "peahen"
           },
           {
-            "id": "66eb4ce7-e088-4b0f-9ebc-9b6170788197",
-            "clue": "Deployer of Voyager probes",
-            "answer": "nasa",
-            "normalized": "nasa"
+            "id": "fe82cbe3-b593-4274-9e8a-0800d59d5116",
+            "clue": "Mimi __, Lost In Space actress",
+            "answer": "rogers",
+            "normalized": "rogers"
           },
           {
-            "id": "6a665bba-1f40-42fb-aada-0f492a871544",
-            "clue": "Currency code for the Trinidad and Tobago dollar",
-            "answer": "ttd",
-            "normalized": "ttd"
+            "id": "6bc284f9-2a98-47cf-b4d9-d0d1447e8b52",
+            "clue": "Retired figure skater Oksana Baiul, The Swan of __",
+            "answer": "odessa",
+            "normalized": "odessa"
           },
           {
-            "id": "158aeba4-82b7-40b5-9ce7-fe8dd2ca4577",
-            "clue": "\"Do what I say, or __!\"",
-            "answer": "else",
-            "normalized": "else"
+            "id": "429f7443-fbe6-4d7a-9e08-0576bcde480d",
+            "clue": "Gemstones from the fossil resins of pine trees",
+            "answer": "ambers",
+            "normalized": "ambers"
           },
           {
-            "id": "f09cb145-5509-4e5e-90da-5eae8b56f5bc",
-            "clue": "A defined group of objects in mathematics",
-            "answer": "set",
-            "normalized": "set"
+            "id": "54cf7dc5-d8bb-4226-9a7a-5d30f54f4dc2",
+            "clue": "Producer and Black-ish star __ Martin",
+            "answer": "marsai",
+            "normalized": "marsai"
           },
           {
-            "id": "cd5acc09-4ff1-477e-acc0-d271e0703ac3",
-            "clue": "US sitcom about a furry puppet Alien Life Form",
-            "answer": "alf",
-            "normalized": "alf"
+            "id": "810eb0b7-dad2-4492-b1fd-c5a2724d7533",
+            "clue": "Place ahead of time",
+            "answer": "preset",
+            "normalized": "preset"
           },
           {
-            "id": "de5a5ea6-d4d1-464d-9829-e3792ae828c6",
-            "clue": "Full doctor's exam of a patient",
-            "answer": "physical",
-            "normalized": "physical"
+            "id": "dd778d72-f42c-4ae7-9937-9665c3b5b777",
+            "clue": "Mens __, criminal acceptance of wrongdoing",
+            "answer": "rea",
+            "normalized": "rea"
           },
           {
-            "id": "184213f2-1682-44eb-8629-9a5ca237ab39",
-            "clue": "Convent authority, below an abbess",
-            "answer": "prioress",
-            "normalized": "prioress"
-          },
-          {
-            "id": "9764d6d2-4792-4977-b454-a6d31b50dd9a",
-            "clue": "Edible organ meat of an animal, e.g. liver",
-            "answer": "offal",
-            "normalized": "offal"
-          },
-          {
-            "id": "14801a9f-0181-457e-b09f-9941937acb5c",
-            "clue": "Regional language forms",
-            "answer": "dialects",
-            "normalized": "dialects"
-          },
-          {
-            "id": "62945a2f-1886-46d9-a792-b41be5728026",
-            "clue": "Annoy, pester",
-            "answer": "irritate",
-            "normalized": "irritate"
-          },
-          {
-            "id": "0005827e-31c0-4030-9f0b-e88fd248546e",
-            "clue": "Jane Austen novel about matchmaking gone wrong",
-            "answer": "emma",
-            "normalized": "emma"
-          },
-          {
-            "id": "e0cb95fb-1949-4cff-a362-1f6e476715d7",
-            "clue": "Tate, Canadian artist who sang You Broke Me First",
-            "answer": "mcrae",
-            "normalized": "mcrae"
-          },
-          {
-            "id": "9f51ba80-f96f-40c5-b7c6-89eaf36d353c",
-            "clue": "Walking stick",
-            "answer": "cane",
-            "normalized": "cane"
-          },
-          {
-            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
-            "clue": "Pest spray that's banned in many countries",
-            "answer": "ddt",
-            "normalized": "ddt"
+            "id": "c060d56a-81a1-4a3a-baf1-9c23470208f7",
+            "clue": "Cold, frozen",
+            "answer": "icy",
+            "normalized": "icy"
           }
         ],
-        "track": "PC|LenC--Y2026M6D26F1"
+        "track": "PC|LenC--Y2026M6D27F1"
       }
     },
     "latestAvailableEntry": {
@@ -422491,21 +422383,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "Iyo49gfqApuh/jpsrb3np4VK7eqSIoG6YSzFDTjlY8Kkz+PyFI8F6BGi7QcGJ8/fjZIDWdAo//mAZWF8e2A+u738b3IaY8F+KozEHKTD3pVUaPhyuaJ6PVF+jl9Yb1Zf/CdYUHx7w+1N22OutKkvwazw5rInCjdYy8ZErmmuWiuFaio5JJs8MwPGhXCAyEY6kOw0TqyfYMLBatg3dH2NHKx9EJMFZ739iPwsj6qIDGCXj+4Nmd3d7ECSdoWhbk6NefTD4evHRxg9IyfBQzOR3OE8Dd3hO78GNPw7zK3cE54="
+        "y9EfFB/EDJPGg0U0vIw0TaAfeo9d+j/ghAbP7t+6fM1ZDiYJlz1Yk5a5IQCtBcs0N+p8vdA1XvQhy5GbeWqqgRkFTdrp4taNpvv5xAmE2KzwGArkJ9QijmPuzuNpZujrnbSYtgiQB1XnuftA9PRpKeUCFnR72V6yW6/BVuSOHxyg8e8d6FLqvFVQ9qDZty94OyhNAhyHogUz/Ktj8M9WG/Vpj41fIIWB2OIaZNDt1wZOR6t9/iXpOd/31T0RxeNwpC99aePk3f2nz11FI+/N1GSaSDg8zIevCPlOPTgEil4="
       ]
     },
     "decrypted": {
-      "Id": "aed488c2-05af-4d71-89e3-db0836046c05",
-      "Date": "2026-06-26T00:00:00Z",
+      "Id": "46e209cb-6333-44ca-89e9-0d43598fa65c",
+      "Date": "2026-06-27T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "owing",
-      "NormalizedPassword": "owing",
+      "Password": "jazzy",
+      "NormalizedPassword": "jazzy",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-26T01:58:10.8130000+05:30",
-    "hash": "83feb549792a3314cc81dd297da1f91f",
+    "dtu": "2026-06-27T01:45:33.0010000+05:30",
+    "hash": "130432068ef7990ef351d399cc741ace",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
