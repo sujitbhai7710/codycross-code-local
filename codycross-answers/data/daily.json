@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-26T20:15:33.001Z",
+  "generatedAt": "2026-06-27T19:50:19.094Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 27
+    "day": 28
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 50
+        "QuantidadeDeFases": 52
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -59,7 +59,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2025,
         "Month": 10,
-        "QuantidadeDeFases": 62
+        "QuantidadeDeFases": 61
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -113,13 +113,13 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2025,
         "Month": 1,
-        "QuantidadeDeFases": 58
+        "QuantidadeDeFases": 57
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2024,
         "Month": 12,
-        "QuantidadeDeFases": 61
+        "QuantidadeDeFases": 60
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -215,7 +215,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2023,
         "Month": 8,
-        "QuantidadeDeFases": 62
+        "QuantidadeDeFases": 61
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -8221,7 +8221,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -18841,7 +18841,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -23575,7 +23575,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -55253,7 +55253,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -55623,312 +55623,156 @@
         "month": 10,
         "day": 21,
         "small": {
-          "puzzleId": "fa5f8050-5258-4a6b-9460-a43787472c47",
-          "fase": 0,
-          "size": 2,
+          "puzzleId": "f21ac6bc-11fa-4747-99da-439f3196a7e3",
+          "fase": 1,
+          "size": 1,
           "status": 1,
-          "version": 5,
+          "version": 6,
           "answers": [
             {
-              "id": "7e6580c4-1442-476a-ba58-97d5eaba0843",
-              "clue": "Hollywood is sometimes called this land",
-              "answer": "la la",
-              "normalized": "lala"
+              "id": "4a204674-0e2a-40e1-bb78-06491e5b56c9",
+              "clue": "Financial head of a business",
+              "answer": "cfo",
+              "normalized": "cfo"
             },
             {
-              "id": "9646a65c-4239-493e-b649-9c290a4b1be2",
-              "clue": "Formula One team based in Kannapolis",
-              "answer": "haas",
-              "normalized": "haas"
+              "id": "8bf5c2eb-90a4-4ceb-a140-169ac9645660",
+              "clue": "Venomous hooded snake",
+              "answer": "cobra",
+              "normalized": "cobra"
             },
             {
-              "id": "cf0e2c16-114f-409d-bcf2-d1566797dc51",
-              "clue": "Copied, mimicked like a monkey",
-              "answer": "aped",
-              "normalized": "aped"
+              "id": "3f5f6134-bd24-42fa-9471-268f5b2d28de",
+              "clue": "Trick or __",
+              "answer": "treat",
+              "normalized": "treat"
             },
             {
-              "id": "02f30761-e22e-4bde-be83-aeae12548b1c",
-              "clue": "Jazz singer Fitzgerald",
-              "answer": "ella",
-              "normalized": "ella"
+              "id": "72a82f67-aa36-486a-99c5-01fa1ebf8b56",
+              "clue": "Opera composer of La Traviata and Aida",
+              "answer": "verdi",
+              "normalized": "verdi"
             },
             {
-              "id": "2946fd7f-5cc1-4cdb-a998-85a985c4fa77",
-              "clue": "It takes 1.21 to time travel in Back to the Future",
-              "answer": "gigawatts",
-              "normalized": "gigawatts"
+              "id": "80284ba1-5eec-42c8-8cfe-23e2466e2b15",
+              "clue": "Dirt, earth",
+              "answer": "soil",
+              "normalized": "soil"
             },
             {
-              "id": "47e86c03-41ef-4e17-be78-4d45c660f9a0",
-              "clue": "Performing art originating in 16th-century Italy",
-              "answer": "opera",
-              "normalized": "opera"
+              "id": "cc713637-7eb7-4097-8d9f-f9595a9a8f0a",
+              "clue": "Parasitic insect egg",
+              "answer": "nit",
+              "normalized": "nit"
             },
             {
-              "id": "079ff226-2f88-4cff-89e3-6fdc43773092",
-              "clue": "The final problem that ends one's patience",
-              "answer": "last straw",
-              "normalized": "laststraw"
+              "id": "5a26a8eb-8c29-489f-a266-c602c3f20a28",
+              "clue": "Surveillance camera on a home or business",
+              "answer": "cctv",
+              "normalized": "cctv"
             },
             {
-              "id": "3de51ed2-1829-4c22-aba3-31f09b77a869",
-              "clue": "Another, slightly dated, term for margarine",
-              "answer": "oleo",
-              "normalized": "oleo"
+              "id": "d929840b-1884-466b-9113-a42228657009",
+              "clue": "Warning shouts in golf",
+              "answer": "fores",
+              "normalized": "fores"
             },
             {
-              "id": "7afa35dc-a659-42ea-9ddb-4bb43f425248",
-              "clue": "Seek's opposition",
-              "answer": "hide",
-              "normalized": "hide"
+              "id": "13b53d2b-d114-469a-8918-147b3a1bdb02",
+              "clue": "Shakespeare's King of the Fairies",
+              "answer": "oberon",
+              "normalized": "oberon"
             },
             {
-              "id": "ffcc2345-4bc2-4c15-8a68-4fb24638d792",
-              "clue": "Computing abbreviation for point in time recovery",
-              "answer": "pitr",
-              "normalized": "pitr"
+              "id": "8d119246-f6d3-4372-bee7-964ad96c9778",
+              "clue": "Plural of radius",
+              "answer": "radii",
+              "normalized": "radii"
             },
             {
-              "id": "ee44383e-05a0-45ef-ab30-a0d17d47c35b",
-              "clue": "Singer who released Diamond Life",
-              "answer": "sade",
-              "normalized": "sade"
-            },
-            {
-              "id": "3c033d6b-28f3-4068-a9a7-542e29d07780",
-              "clue": "To fall behind, like slow computers or games",
-              "answer": "lag",
-              "normalized": "lag"
-            },
-            {
-              "id": "7d250803-ea4a-4353-9400-2501dc845448",
-              "clue": "Application programming interface",
-              "answer": "api",
-              "normalized": "api"
-            },
-            {
-              "id": "990fc436-8c78-40b1-99d2-4b637c749a6b",
-              "clue": "Branded box of toy bricks",
-              "answer": "lego set",
-              "normalized": "legoset"
-            },
-            {
-              "id": "30553f3f-5d71-4c8b-83dd-557668e36f11",
-              "clue": "A travel __ lets you access electricity worldwide",
-              "answer": "adaptor",
-              "normalized": "adaptor"
-            },
-            {
-              "id": "ce5330ec-40cc-4039-a4ab-c85f31d0888f",
-              "clue": "Places to make an indoor fire",
-              "answer": "hearths",
-              "normalized": "hearths"
-            },
-            {
-              "id": "20489d8a-9dca-447b-a233-039116dcc98f",
-              "clue": "Pokémon who is the evolved form of Swablu",
-              "answer": "altaria",
-              "normalized": "altaria"
-            },
-            {
-              "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-              "clue": "Key typed with Ctrl and Del",
-              "answer": "alt",
-              "normalized": "alt"
-            },
-            {
-              "id": "17098a00-1acc-4980-b49c-4681e3e48481",
-              "clue": "Special Air Service",
-              "answer": "sas",
-              "normalized": "sas"
-            },
-            {
-              "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director of Scream",
-              "answer": "wes",
-              "normalized": "wes"
-            },
-            {
-              "id": "1e4deca9-1287-4e78-aef7-30d4813a6970",
-              "clue": "Cut branches off a tree or bush",
-              "answer": "lop",
-              "normalized": "lop"
-            },
-            {
-              "id": "712996a4-277d-4054-8774-a90d9bff6414",
-              "clue": "Boxer Muhammad who was Cassius Clay",
-              "answer": "ali",
-              "normalized": "ali"
-            },
-            {
-              "id": "720ead40-efb6-4e94-a48f-40d08381252c",
-              "clue": "Sum",
-              "answer": "add",
-              "normalized": "add"
-            },
-            {
-              "id": "7e0b5683-2fcb-4d8e-ae68-e4e1a36763b0",
-              "clue": "Little, tiny",
-              "answer": "wee",
-              "normalized": "wee"
+              "id": "bf7362f8-e63a-41a8-892d-ef1a0c0d5ee6",
+              "clue": "Slightly skewed, leaning",
+              "answer": "atilt",
+              "normalized": "atilt"
             }
           ],
-          "track": "PC|LenC--Y2025M10D21F0"
+          "track": "PC|LenC--Y2025M10D21F1"
         },
         "mid": {
-          "puzzleId": "fa5f8050-5258-4a6b-9460-a43787472c47",
-          "fase": 0,
-          "size": 2,
+          "puzzleId": "f21ac6bc-11fa-4747-99da-439f3196a7e3",
+          "fase": 1,
+          "size": 1,
           "status": 1,
-          "version": 5,
+          "version": 6,
           "answers": [
             {
-              "id": "7e6580c4-1442-476a-ba58-97d5eaba0843",
-              "clue": "Hollywood is sometimes called this land",
-              "answer": "la la",
-              "normalized": "lala"
+              "id": "4a204674-0e2a-40e1-bb78-06491e5b56c9",
+              "clue": "Financial head of a business",
+              "answer": "cfo",
+              "normalized": "cfo"
             },
             {
-              "id": "9646a65c-4239-493e-b649-9c290a4b1be2",
-              "clue": "Formula One team based in Kannapolis",
-              "answer": "haas",
-              "normalized": "haas"
+              "id": "8bf5c2eb-90a4-4ceb-a140-169ac9645660",
+              "clue": "Venomous hooded snake",
+              "answer": "cobra",
+              "normalized": "cobra"
             },
             {
-              "id": "cf0e2c16-114f-409d-bcf2-d1566797dc51",
-              "clue": "Copied, mimicked like a monkey",
-              "answer": "aped",
-              "normalized": "aped"
+              "id": "3f5f6134-bd24-42fa-9471-268f5b2d28de",
+              "clue": "Trick or __",
+              "answer": "treat",
+              "normalized": "treat"
             },
             {
-              "id": "02f30761-e22e-4bde-be83-aeae12548b1c",
-              "clue": "Jazz singer Fitzgerald",
-              "answer": "ella",
-              "normalized": "ella"
+              "id": "72a82f67-aa36-486a-99c5-01fa1ebf8b56",
+              "clue": "Opera composer of La Traviata and Aida",
+              "answer": "verdi",
+              "normalized": "verdi"
             },
             {
-              "id": "2946fd7f-5cc1-4cdb-a998-85a985c4fa77",
-              "clue": "It takes 1.21 to time travel in Back to the Future",
-              "answer": "gigawatts",
-              "normalized": "gigawatts"
+              "id": "80284ba1-5eec-42c8-8cfe-23e2466e2b15",
+              "clue": "Dirt, earth",
+              "answer": "soil",
+              "normalized": "soil"
             },
             {
-              "id": "47e86c03-41ef-4e17-be78-4d45c660f9a0",
-              "clue": "Performing art originating in 16th-century Italy",
-              "answer": "opera",
-              "normalized": "opera"
+              "id": "cc713637-7eb7-4097-8d9f-f9595a9a8f0a",
+              "clue": "Parasitic insect egg",
+              "answer": "nit",
+              "normalized": "nit"
             },
             {
-              "id": "079ff226-2f88-4cff-89e3-6fdc43773092",
-              "clue": "The final problem that ends one's patience",
-              "answer": "last straw",
-              "normalized": "laststraw"
+              "id": "5a26a8eb-8c29-489f-a266-c602c3f20a28",
+              "clue": "Surveillance camera on a home or business",
+              "answer": "cctv",
+              "normalized": "cctv"
             },
             {
-              "id": "3de51ed2-1829-4c22-aba3-31f09b77a869",
-              "clue": "Another, slightly dated, term for margarine",
-              "answer": "oleo",
-              "normalized": "oleo"
+              "id": "d929840b-1884-466b-9113-a42228657009",
+              "clue": "Warning shouts in golf",
+              "answer": "fores",
+              "normalized": "fores"
             },
             {
-              "id": "7afa35dc-a659-42ea-9ddb-4bb43f425248",
-              "clue": "Seek's opposition",
-              "answer": "hide",
-              "normalized": "hide"
+              "id": "13b53d2b-d114-469a-8918-147b3a1bdb02",
+              "clue": "Shakespeare's King of the Fairies",
+              "answer": "oberon",
+              "normalized": "oberon"
             },
             {
-              "id": "ffcc2345-4bc2-4c15-8a68-4fb24638d792",
-              "clue": "Computing abbreviation for point in time recovery",
-              "answer": "pitr",
-              "normalized": "pitr"
+              "id": "8d119246-f6d3-4372-bee7-964ad96c9778",
+              "clue": "Plural of radius",
+              "answer": "radii",
+              "normalized": "radii"
             },
             {
-              "id": "ee44383e-05a0-45ef-ab30-a0d17d47c35b",
-              "clue": "Singer who released Diamond Life",
-              "answer": "sade",
-              "normalized": "sade"
-            },
-            {
-              "id": "3c033d6b-28f3-4068-a9a7-542e29d07780",
-              "clue": "To fall behind, like slow computers or games",
-              "answer": "lag",
-              "normalized": "lag"
-            },
-            {
-              "id": "7d250803-ea4a-4353-9400-2501dc845448",
-              "clue": "Application programming interface",
-              "answer": "api",
-              "normalized": "api"
-            },
-            {
-              "id": "990fc436-8c78-40b1-99d2-4b637c749a6b",
-              "clue": "Branded box of toy bricks",
-              "answer": "lego set",
-              "normalized": "legoset"
-            },
-            {
-              "id": "30553f3f-5d71-4c8b-83dd-557668e36f11",
-              "clue": "A travel __ lets you access electricity worldwide",
-              "answer": "adaptor",
-              "normalized": "adaptor"
-            },
-            {
-              "id": "ce5330ec-40cc-4039-a4ab-c85f31d0888f",
-              "clue": "Places to make an indoor fire",
-              "answer": "hearths",
-              "normalized": "hearths"
-            },
-            {
-              "id": "20489d8a-9dca-447b-a233-039116dcc98f",
-              "clue": "Pokémon who is the evolved form of Swablu",
-              "answer": "altaria",
-              "normalized": "altaria"
-            },
-            {
-              "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-              "clue": "Key typed with Ctrl and Del",
-              "answer": "alt",
-              "normalized": "alt"
-            },
-            {
-              "id": "17098a00-1acc-4980-b49c-4681e3e48481",
-              "clue": "Special Air Service",
-              "answer": "sas",
-              "normalized": "sas"
-            },
-            {
-              "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-              "clue": "Craven, horror movie director of Scream",
-              "answer": "wes",
-              "normalized": "wes"
-            },
-            {
-              "id": "1e4deca9-1287-4e78-aef7-30d4813a6970",
-              "clue": "Cut branches off a tree or bush",
-              "answer": "lop",
-              "normalized": "lop"
-            },
-            {
-              "id": "712996a4-277d-4054-8774-a90d9bff6414",
-              "clue": "Boxer Muhammad who was Cassius Clay",
-              "answer": "ali",
-              "normalized": "ali"
-            },
-            {
-              "id": "720ead40-efb6-4e94-a48f-40d08381252c",
-              "clue": "Sum",
-              "answer": "add",
-              "normalized": "add"
-            },
-            {
-              "id": "7e0b5683-2fcb-4d8e-ae68-e4e1a36763b0",
-              "clue": "Little, tiny",
-              "answer": "wee",
-              "normalized": "wee"
+              "id": "bf7362f8-e63a-41a8-892d-ef1a0c0d5ee6",
+              "clue": "Slightly skewed, leaning",
+              "answer": "atilt",
+              "normalized": "atilt"
             }
           ],
-          "track": "PC|LenC--Y2025M10D21F0"
+          "track": "PC|LenC--Y2025M10D21F1"
         }
       },
       {
@@ -59637,7 +59481,7 @@
             },
             {
               "id": "d287c490-c710-4eb5-a02f-339118b21003",
-              "clue": "The points each sports team gets; to mark a pastry",
+              "clue": "Points in a game; make shallow cuts in pastry",
               "answer": "score",
               "normalized": "score"
             },
@@ -67405,7 +67249,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -74337,7 +74181,7 @@
             },
             {
               "id": "6db83c45-95bb-47ab-8eef-cdd75f46a33f",
-              "clue": "Rams a fence headfirst, like a goat",
+              "clue": "Hits with the head, like a goat",
               "answer": "butts",
               "normalized": "butts"
             },
@@ -77697,7 +77541,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             }
@@ -86044,7 +85888,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -98887,7 +98731,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -99041,7 +98885,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -111546,7 +111390,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -115280,82 +115124,7 @@
         "year": 2025,
         "month": 1,
         "day": 18,
-        "small": {
-          "puzzleId": "49542def-3246-4db2-9b85-39161a298421",
-          "fase": 0,
-          "size": 1,
-          "status": 1,
-          "version": 3,
-          "answers": [
-            {
-              "id": "9b608a42-37d6-4506-8f01-96130cf3e37b",
-              "clue": "Three-time Grand Slam tennis champ Arthur",
-              "answer": "ashe",
-              "normalized": "ashe"
-            },
-            {
-              "id": "52016899-4caf-4350-933b-8637b0ee6db0",
-              "clue": "The Pooh who lives in the Hundred Acre Wood",
-              "answer": "winnie",
-              "normalized": "winnie"
-            },
-            {
-              "id": "dfcdc2f9-202e-4601-b7f1-41cf05d7c441",
-              "clue": "Spanish word for state",
-              "answer": "estado",
-              "normalized": "estado"
-            },
-            {
-              "id": "6981675b-0e10-4955-b485-adf7c7928458",
-              "clue": "A bicycle with motor-assisted pedal power",
-              "answer": "ebike",
-              "normalized": "ebike"
-            },
-            {
-              "id": "b86710ce-cf48-46a2-96ba-8d3162cf81d5",
-              "clue": "Band that sang Cake by the Ocean",
-              "answer": "dnce",
-              "normalized": "dnce"
-            },
-            {
-              "id": "a9d991c4-811d-49e5-81ba-bbd5053a2263",
-              "clue": "Caper or childish action",
-              "answer": "antic",
-              "normalized": "antic"
-            },
-            {
-              "id": "838e0ef9-a385-4506-8a17-23da59d24c48",
-              "clue": "Main character of the Metal Gear series",
-              "answer": "snake",
-              "normalized": "snake"
-            },
-            {
-              "id": "7afa35dc-a659-42ea-9ddb-4bb43f425248",
-              "clue": "Seek's opposition",
-              "answer": "hide",
-              "normalized": "hide"
-            },
-            {
-              "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
-              "clue": "Equal employment opportunity, initialism",
-              "answer": "eeo",
-              "normalized": "eeo"
-            },
-            {
-              "id": "eea0122d-4b30-4ea2-8209-df3dc173627c",
-              "clue": "Unwanted plant in a garden",
-              "answer": "weed",
-              "normalized": "weed"
-            },
-            {
-              "id": "902fe458-3ec0-4220-ab2c-d90d0b2c9e2d",
-              "clue": "Unique identifying number for a published book",
-              "answer": "isbn",
-              "normalized": "isbn"
-            }
-          ],
-          "track": "PC|LenC--Y2025M1D18F0"
-        },
+        "small": null,
         "mid": {
           "puzzleId": "8f3fa277-2bec-4c18-ba5c-23a12d62735b",
           "fase": 1,
@@ -119546,7 +119315,7 @@
           "answers": [
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -123980,82 +123749,7 @@
         "year": 2024,
         "month": 12,
         "day": 7,
-        "small": {
-          "puzzleId": "a1c98796-7bc1-496b-bb9f-b12a66e763ed",
-          "fase": 0,
-          "size": 1,
-          "status": 1,
-          "version": 1,
-          "answers": [
-            {
-              "id": "6d48a606-1736-44e6-b650-d2a07a5cdd3c",
-              "clue": "Three-letter code for the Botswana pula",
-              "answer": "bwp",
-              "normalized": "bwp"
-            },
-            {
-              "id": "0866718f-050f-4288-8208-a8a023b92ac3",
-              "clue": "There are 24 of these in a day",
-              "answer": "hours",
-              "normalized": "hours"
-            },
-            {
-              "id": "5fa3a55a-df44-4772-83d1-041906a34987",
-              "clue": "Sea platform used for drilling for fuel",
-              "answer": "oil rig",
-              "normalized": "oilrig"
-            },
-            {
-              "id": "a5827f5d-074b-45c7-a17e-b64918ec5040",
-              "clue": "It makes sense",
-              "answer": "adds up",
-              "normalized": "addsup"
-            },
-            {
-              "id": "893b8b4c-b88a-4e24-96e1-14ed4023be86",
-              "clue": "Naps, relaxes, ceases activity",
-              "answer": "rests",
-              "normalized": "rests"
-            },
-            {
-              "id": "63bde436-1fb9-4f34-a0f6-3236309a7b8b",
-              "clue": "Makes bigger and thicker, as text",
-              "answer": "bolds",
-              "normalized": "bolds"
-            },
-            {
-              "id": "3affe744-4d0f-4e0e-9755-751fa17660f9",
-              "clue": "German sausage",
-              "answer": "wurst",
-              "normalized": "wurst"
-            },
-            {
-              "id": "af064bad-4043-419a-b406-e7ecdb042f8a",
-              "clue": "First mass-production hybrid car, made by Toyota",
-              "answer": "prius",
-              "normalized": "prius"
-            },
-            {
-              "id": "7afa35dc-a659-42ea-9ddb-4bb43f425248",
-              "clue": "Seek's opposition",
-              "answer": "hide",
-              "normalized": "hide"
-            },
-            {
-              "id": "d819c271-f0a2-493f-a2ba-e1d2e112e34a",
-              "clue": "Three-letter alpha code for Singapore",
-              "answer": "sgp",
-              "normalized": "sgp"
-            },
-            {
-              "id": "06644b43-fbda-4236-a3e2-7d9bbc19186e",
-              "clue": "Rowboat paddle",
-              "answer": "oar",
-              "normalized": "oar"
-            }
-          ],
-          "track": "PC|LenC--Y2024M12D7F0"
-        },
+        "small": null,
         "mid": {
           "puzzleId": "c09f1615-b65a-4ffa-b714-72bc53bbdf75",
           "fase": 1,
@@ -141557,7 +141251,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -146614,7 +146308,7 @@
             },
             {
               "id": "d287c490-c710-4eb5-a02f-339118b21003",
-              "clue": "The points each sports team gets; to mark a pastry",
+              "clue": "Points in a game; make shallow cuts in pastry",
               "answer": "score",
               "normalized": "score"
             },
@@ -156644,7 +156338,7 @@
           "answers": [
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -196553,7 +196247,7 @@
             },
             {
               "id": "d287c490-c710-4eb5-a02f-339118b21003",
-              "clue": "The points each sports team gets; to mark a pastry",
+              "clue": "Points in a game; make shallow cuts in pastry",
               "answer": "score",
               "normalized": "score"
             },
@@ -199023,7 +198717,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -201733,7 +201427,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -221398,7 +221092,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -228392,276 +228086,144 @@
         "month": 8,
         "day": 10,
         "small": {
-          "puzzleId": "5751059e-9562-4e5e-b2a9-c2903c74c798",
-          "fase": 0,
-          "size": 2,
+          "puzzleId": "8dc8a114-5466-494a-8ed9-93fdc4d1657d",
+          "fase": 1,
+          "size": 1,
           "status": 1,
           "version": 1,
           "answers": [
             {
-              "id": "cc7c3529-28d8-4292-b5dd-f4c5a577505a",
-              "clue": "Spinning music discs",
-              "answer": "cds",
-              "normalized": "cds"
+              "id": "09b8801b-f1a7-45bc-81eb-0194034575be",
+              "clue": "Three-letter nail polish brand founded in 1981",
+              "answer": "opi",
+              "normalized": "opi"
             },
             {
-              "id": "b36da1ec-ba7c-4147-becc-be5add8068c4",
-              "clue": "Exclamation on realizing what something means",
-              "answer": "ohh",
-              "normalized": "ohh"
+              "id": "188cf006-86c0-452f-94f1-c73f9d2df035",
+              "clue": "Repeat this to get the band that sang The Reflex",
+              "answer": "duran",
+              "normalized": "duran"
             },
             {
-              "id": "bab5acdc-4a8d-4aaa-a069-2f18c3104cf0",
-              "clue": "Large Chinese fighting dog with wrinkles",
-              "answer": "shar pei",
-              "normalized": "sharpei"
+              "id": "fd8a1729-94e3-4a03-ac05-c4cc970cd7c2",
+              "clue": "Monarchs of Qatar and Kuwait",
+              "answer": "emirs",
+              "normalized": "emirs"
             },
             {
-              "id": "b953b160-7c93-4640-ac53-7284592d09a5",
-              "clue": "Bobbed on the water's surface",
-              "answer": "floated",
-              "normalized": "floated"
+              "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
+              "clue": "On or toward the left side of a ship",
+              "answer": "aport",
+              "normalized": "aport"
             },
             {
-              "id": "0df2a03a-92e4-4279-8a29-77d0087caf9f",
-              "clue": "Group of lions",
-              "answer": "pride",
-              "normalized": "pride"
+              "id": "1ed8252b-331f-46ce-8175-369c2e6d9725",
+              "clue": "Deep Space Network, for short",
+              "answer": "dsn",
+              "normalized": "dsn"
             },
             {
-              "id": "ccce8abf-fe93-473b-a094-d91caccd3259",
-              "clue": "Statement passed as truth but doubted by others",
-              "answer": "claim",
-              "normalized": "claim"
+              "id": "ce729490-7bd2-4d96-82a0-5e96b8632efe",
+              "clue": "Mythical Greek hunter made into a constellation",
+              "answer": "orion",
+              "normalized": "orion"
             },
             {
-              "id": "f2b72c58-351a-4725-84de-a3faae908a31",
-              "clue": "A set order for doing things",
-              "answer": "routine",
-              "normalized": "routine"
+              "id": "af300d01-675f-4d3f-a875-2246509ffb04",
+              "clue": "Last name of Incredibles family",
+              "answer": "parr",
+              "normalized": "parr"
             },
             {
-              "id": "4b60e947-a5e6-40c6-864e-56ea423bfca8",
-              "clue": "__ Felix, champion 100m, 200m and 400m sprinter",
-              "answer": "allyson",
-              "normalized": "allyson"
+              "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
+              "clue": "Common abbreviation for institute",
+              "answer": "inst",
+              "normalized": "inst"
             },
             {
-              "id": "7eae6314-67f4-4519-8995-3326ed79f65f",
-              "clue": "Steamed Chinese dumpling or bun",
-              "answer": "bao",
-              "normalized": "bao"
+              "id": "e4664179-2060-45b9-ab42-5cdb1ea42b54",
+              "clue": "No longer alive",
+              "answer": "dead",
+              "normalized": "dead"
             },
             {
-              "id": "c9b6f3d3-7ac4-4a1c-8312-b2e4da3a8396",
-              "clue": "Lowest award of the Order of the British Empire",
-              "answer": "mbe",
-              "normalized": "mbe"
-            },
-            {
-              "id": "ed448a63-6078-49c9-a10d-3a99fc5544a6",
-              "clue": "Chemical formula for caesium fluoride",
-              "answer": "csf",
-              "normalized": "csf"
-            },
-            {
-              "id": "dbc5c93f-aa6c-4637-a75d-1c0d432bf78c",
-              "clue": "Parcel delivery company with red and yellow logo",
-              "answer": "dhl",
-              "normalized": "dhl"
-            },
-            {
-              "id": "ea9472eb-82d1-49d5-ad38-3a12a0bdeb78",
-              "clue": "South America's largest city",
-              "answer": "sao paulo",
-              "normalized": "saopaulo"
-            },
-            {
-              "id": "8dd839dd-563a-4f0f-ba41-ee491d61e45d",
-              "clue": "Describes the belief that the glass is always half full",
-              "answer": "optimism",
-              "normalized": "optimism"
-            },
-            {
-              "id": "e16a03fa-bff8-4cc3-9ad2-6fb1c6b96948",
-              "clue": "Listen and remember advice",
-              "answer": "heed",
-              "normalized": "heed"
-            },
-            {
-              "id": "7afa35dc-a659-42ea-9ddb-4bb43f425248",
-              "clue": "Seek's opposition",
-              "answer": "hide",
-              "normalized": "hide"
-            },
-            {
-              "id": "f8417fbf-dc9e-4e0d-a7fe-188806d90579",
-              "clue": "Scarcity",
-              "answer": "rarity",
-              "normalized": "rarity"
-            },
-            {
-              "id": "ae867c04-cbed-46a0-a188-732015021453",
-              "clue": "King, snow or fiddler crustacean",
-              "answer": "crab",
-              "normalized": "crab"
-            },
-            {
-              "id": "983ad782-0e4a-4858-b76f-5ff740308e77",
-              "clue": "Her name was __, she was a showgirl",
-              "answer": "lola",
-              "normalized": "lola"
-            },
-            {
-              "id": "d8c599ea-9b2a-4c32-a282-1424f734d543",
-              "clue": "Jack of the same suit as the starter in cribbage",
-              "answer": "nob",
-              "normalized": "nob"
-            },
-            {
-              "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-              "clue": "East-northeast for short",
-              "answer": "ene",
-              "normalized": "ene"
+              "id": "e9fc06e0-166e-42c0-af9b-84affa5ee61a",
+              "clue": "Baseball refs",
+              "answer": "umps",
+              "normalized": "umps"
             }
           ],
-          "track": "PC|LenC--Y2023M8D10F0"
+          "track": "PC|LenC--Y2023M8D10F1"
         },
         "mid": {
-          "puzzleId": "5751059e-9562-4e5e-b2a9-c2903c74c798",
-          "fase": 0,
-          "size": 2,
+          "puzzleId": "8dc8a114-5466-494a-8ed9-93fdc4d1657d",
+          "fase": 1,
+          "size": 1,
           "status": 1,
           "version": 1,
           "answers": [
             {
-              "id": "cc7c3529-28d8-4292-b5dd-f4c5a577505a",
-              "clue": "Spinning music discs",
-              "answer": "cds",
-              "normalized": "cds"
+              "id": "09b8801b-f1a7-45bc-81eb-0194034575be",
+              "clue": "Three-letter nail polish brand founded in 1981",
+              "answer": "opi",
+              "normalized": "opi"
             },
             {
-              "id": "b36da1ec-ba7c-4147-becc-be5add8068c4",
-              "clue": "Exclamation on realizing what something means",
-              "answer": "ohh",
-              "normalized": "ohh"
+              "id": "188cf006-86c0-452f-94f1-c73f9d2df035",
+              "clue": "Repeat this to get the band that sang The Reflex",
+              "answer": "duran",
+              "normalized": "duran"
             },
             {
-              "id": "bab5acdc-4a8d-4aaa-a069-2f18c3104cf0",
-              "clue": "Large Chinese fighting dog with wrinkles",
-              "answer": "shar pei",
-              "normalized": "sharpei"
+              "id": "fd8a1729-94e3-4a03-ac05-c4cc970cd7c2",
+              "clue": "Monarchs of Qatar and Kuwait",
+              "answer": "emirs",
+              "normalized": "emirs"
             },
             {
-              "id": "b953b160-7c93-4640-ac53-7284592d09a5",
-              "clue": "Bobbed on the water's surface",
-              "answer": "floated",
-              "normalized": "floated"
+              "id": "62060687-714a-4b60-9ae8-a06caf53c30b",
+              "clue": "On or toward the left side of a ship",
+              "answer": "aport",
+              "normalized": "aport"
             },
             {
-              "id": "0df2a03a-92e4-4279-8a29-77d0087caf9f",
-              "clue": "Group of lions",
-              "answer": "pride",
-              "normalized": "pride"
+              "id": "1ed8252b-331f-46ce-8175-369c2e6d9725",
+              "clue": "Deep Space Network, for short",
+              "answer": "dsn",
+              "normalized": "dsn"
             },
             {
-              "id": "ccce8abf-fe93-473b-a094-d91caccd3259",
-              "clue": "Statement passed as truth but doubted by others",
-              "answer": "claim",
-              "normalized": "claim"
+              "id": "ce729490-7bd2-4d96-82a0-5e96b8632efe",
+              "clue": "Mythical Greek hunter made into a constellation",
+              "answer": "orion",
+              "normalized": "orion"
             },
             {
-              "id": "f2b72c58-351a-4725-84de-a3faae908a31",
-              "clue": "A set order for doing things",
-              "answer": "routine",
-              "normalized": "routine"
+              "id": "af300d01-675f-4d3f-a875-2246509ffb04",
+              "clue": "Last name of Incredibles family",
+              "answer": "parr",
+              "normalized": "parr"
             },
             {
-              "id": "4b60e947-a5e6-40c6-864e-56ea423bfca8",
-              "clue": "__ Felix, champion 100m, 200m and 400m sprinter",
-              "answer": "allyson",
-              "normalized": "allyson"
+              "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
+              "clue": "Common abbreviation for institute",
+              "answer": "inst",
+              "normalized": "inst"
             },
             {
-              "id": "7eae6314-67f4-4519-8995-3326ed79f65f",
-              "clue": "Steamed Chinese dumpling or bun",
-              "answer": "bao",
-              "normalized": "bao"
+              "id": "e4664179-2060-45b9-ab42-5cdb1ea42b54",
+              "clue": "No longer alive",
+              "answer": "dead",
+              "normalized": "dead"
             },
             {
-              "id": "c9b6f3d3-7ac4-4a1c-8312-b2e4da3a8396",
-              "clue": "Lowest award of the Order of the British Empire",
-              "answer": "mbe",
-              "normalized": "mbe"
-            },
-            {
-              "id": "ed448a63-6078-49c9-a10d-3a99fc5544a6",
-              "clue": "Chemical formula for caesium fluoride",
-              "answer": "csf",
-              "normalized": "csf"
-            },
-            {
-              "id": "dbc5c93f-aa6c-4637-a75d-1c0d432bf78c",
-              "clue": "Parcel delivery company with red and yellow logo",
-              "answer": "dhl",
-              "normalized": "dhl"
-            },
-            {
-              "id": "ea9472eb-82d1-49d5-ad38-3a12a0bdeb78",
-              "clue": "South America's largest city",
-              "answer": "sao paulo",
-              "normalized": "saopaulo"
-            },
-            {
-              "id": "8dd839dd-563a-4f0f-ba41-ee491d61e45d",
-              "clue": "Describes the belief that the glass is always half full",
-              "answer": "optimism",
-              "normalized": "optimism"
-            },
-            {
-              "id": "e16a03fa-bff8-4cc3-9ad2-6fb1c6b96948",
-              "clue": "Listen and remember advice",
-              "answer": "heed",
-              "normalized": "heed"
-            },
-            {
-              "id": "7afa35dc-a659-42ea-9ddb-4bb43f425248",
-              "clue": "Seek's opposition",
-              "answer": "hide",
-              "normalized": "hide"
-            },
-            {
-              "id": "f8417fbf-dc9e-4e0d-a7fe-188806d90579",
-              "clue": "Scarcity",
-              "answer": "rarity",
-              "normalized": "rarity"
-            },
-            {
-              "id": "ae867c04-cbed-46a0-a188-732015021453",
-              "clue": "King, snow or fiddler crustacean",
-              "answer": "crab",
-              "normalized": "crab"
-            },
-            {
-              "id": "983ad782-0e4a-4858-b76f-5ff740308e77",
-              "clue": "Her name was __, she was a showgirl",
-              "answer": "lola",
-              "normalized": "lola"
-            },
-            {
-              "id": "d8c599ea-9b2a-4c32-a282-1424f734d543",
-              "clue": "Jack of the same suit as the starter in cribbage",
-              "answer": "nob",
-              "normalized": "nob"
-            },
-            {
-              "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-              "clue": "East-northeast for short",
-              "answer": "ene",
-              "normalized": "ene"
+              "id": "e9fc06e0-166e-42c0-af9b-84affa5ee61a",
+              "clue": "Baseball refs",
+              "answer": "umps",
+              "normalized": "umps"
             }
           ],
-          "track": "PC|LenC--Y2023M8D10F0"
+          "track": "PC|LenC--Y2023M8D10F1"
         }
       },
       {
@@ -250417,7 +249979,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -322560,7 +322122,7 @@
             },
             {
               "id": "6f9492c8-554d-4f72-9718-0b1b75c40b3e",
-              "clue": "A Japanese word for seaweed; it's used in sushi",
+              "clue": "A Japanese word for seaweed, it's used in sushi",
               "answer": "nori",
               "normalized": "nori"
             },
@@ -356250,7 +355812,7 @@
             },
             {
               "id": "d287c490-c710-4eb5-a02f-339118b21003",
-              "clue": "The points each sports team gets; to mark a pastry",
+              "clue": "Points in a game; make shallow cuts in pastry",
               "answer": "score",
               "normalized": "score"
             },
@@ -367546,7 +367108,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             }
@@ -404243,7 +403805,7 @@
             },
             {
               "id": "a3301083-31c1-464f-9e19-54c6e82bb223",
-              "clue": "Point a weapon",
+              "clue": "Point to a target",
               "answer": "aim",
               "normalized": "aim"
             },
@@ -408600,7 +408162,7 @@
             },
             {
               "id": "2d8b6efd-c724-4a8a-a1d6-73e7ca60719f",
-              "clue": "Name of Marcia Cross Desperate Housewives role",
+              "clue": "Name of Marcia Cross' Desperate Housewives role",
               "answer": "bree",
               "normalized": "bree"
             },
@@ -421775,379 +421337,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-27",
+      "key": "2026-06-28",
       "year": 2026,
       "month": 6,
-      "day": 27,
+      "day": 28,
       "small": {
-        "puzzleId": "38654bf6-4f63-4951-94eb-c58ead3e7775",
+        "puzzleId": "898facde-2442-42f9-9359-205b36d96261",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 5,
         "answers": [
           {
-            "id": "20170a12-2bb6-4fe7-a33b-b29a99d1dbd7",
-            "clue": "Eric who Always Looks on the Bright Side of Life",
-            "answer": "idle",
-            "normalized": "idle"
+            "id": "9b417f43-8a84-479a-8d01-2816b77b2ef9",
+            "clue": "Goes out like a tide",
+            "answer": "ebbs",
+            "normalized": "ebbs"
           },
           {
-            "id": "a2942be4-3bcd-4034-a0c9-3f1c003474c0",
-            "clue": "A vegetable that's usually misspelled as union",
-            "answer": "onion",
-            "normalized": "onion"
+            "id": "f8bec616-9a04-4f06-b9d9-7c7e5a5d7bcb",
+            "clue": "This city hosts the Louvre Museum",
+            "answer": "paris",
+            "normalized": "paris"
           },
           {
-            "id": "917aad2e-c39b-4348-a02c-676e151666fc",
-            "clue": "1978 Stephen King pandemic novel, The __",
-            "answer": "stand",
-            "normalized": "stand"
+            "id": "b4be9e8e-eb62-4253-b250-30d7be8e6b58",
+            "clue": "Final results summed up",
+            "answer": "totals",
+            "normalized": "totals"
           },
           {
-            "id": "1701bd18-9806-4548-bcab-283a02611152",
-            "clue": "Imagine, Bad Guy and Born This Way are examples",
-            "answer": "songs",
-            "normalized": "songs"
+            "id": "4ee3ad7d-646a-4548-b0db-cae1ea278055",
+            "clue": "Living",
+            "answer": "alive",
+            "normalized": "alive"
           },
           {
-            "id": "9ec0b9e1-b6d1-4442-a542-15f7457f229b",
-            "clue": "Is in debt to someone",
-            "answer": "owes",
-            "normalized": "owes"
+            "id": "3cd2c70a-473c-4fcb-9c14-805176e9c6b7",
+            "clue": "Forearm bone",
+            "answer": "ulna",
+            "normalized": "ulna"
           },
           {
-            "id": "480ab2ac-3611-4e65-8f73-4de65041ea51",
-            "clue": "Describes being taken along",
-            "answer": "in tow",
-            "normalized": "intow"
+            "id": "88edc9b5-dedd-42fc-b8a4-bccda9c2feef",
+            "clue": "Opposite idea of \"dine out\"",
+            "answer": "eat in",
+            "normalized": "eatin"
           },
           {
-            "id": "3f5080a8-56c6-43c9-9944-9f4fe8afe2cb",
-            "clue": "Keaton who starred in Something's Gotta Give",
-            "answer": "diane",
-            "normalized": "diane"
+            "id": "8e2a9904-a956-433c-bff4-b616c3d0f97f",
+            "clue": "Spanish Costa that ends at the French border",
+            "answer": "brava",
+            "normalized": "brava"
           },
           {
-            "id": "2be91b59-9b0a-4563-aa34-cc80b1d82020",
-            "clue": "Yearns, pines for",
-            "answer": "longs",
-            "normalized": "longs"
+            "id": "f6597902-5c7b-489c-9d4f-9cf9ce1d5062",
+            "clue": "Liver secretion",
+            "answer": "bile",
+            "normalized": "bile"
           },
           {
-            "id": "b1c6ec81-c576-4afc-bb35-9a09a94e89fb",
-            "clue": "Comes to a finish",
-            "answer": "ends",
-            "normalized": "ends"
+            "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
+            "clue": "Philippine agency for Social Security",
+            "answer": "sss",
+            "normalized": "sss"
           },
           {
-            "id": "0b0c143c-3a8b-4d20-8b1c-9f57d9a462fe",
-            "clue": "__ buco, Italian dish made with veal",
-            "answer": "osso",
-            "normalized": "osso"
+            "id": "b0ad3a09-3451-4fb3-b4cf-2a20dbf8b58f",
+            "clue": "Often political opinion survey",
+            "answer": "poll",
+            "normalized": "poll"
+          },
+          {
+            "id": "163818b3-6727-40cd-8427-e8619cac2a47",
+            "clue": "Greek letter T",
+            "answer": "tau",
+            "normalized": "tau"
           }
         ],
-        "track": "PC|LenC--Y2026M6D27F0"
+        "track": "PC|LenC--Y2026M6D28F0"
       },
       "mid": {
-        "puzzleId": "26203f4d-3ddb-4581-b9ed-07b10c75071a",
+        "puzzleId": "5995c041-73d6-4598-bcc8-c7d22f3acb9b",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 7,
         "answers": [
           {
-            "id": "78917036-07b0-482f-9dcc-918595745d37",
-            "clue": "Not a con",
-            "answer": "pro",
-            "normalized": "pro"
+            "id": "144e1807-1e9d-4015-b587-40bb0944c8b8",
+            "clue": "Feng __ focuses on Asian theory of balance",
+            "answer": "shui",
+            "normalized": "shui"
           },
           {
-            "id": "d8059e85-d37a-4127-a471-5d74ecebf117",
-            "clue": "Abbreviation for an audio signal boosting device",
-            "answer": "amp",
-            "normalized": "amp"
+            "id": "9b74f3dc-63c8-4932-ba74-7171cdeb76ac",
+            "clue": "Jonathan Harker's wife in Dracula",
+            "answer": "mina",
+            "normalized": "mina"
           },
           {
-            "id": "654090d1-b83e-476b-80f0-bfa67ee8d88d",
-            "clue": "Added to a deadline to mean by midnight that day",
-            "answer": "eod",
-            "normalized": "eod"
+            "id": "82212336-2294-4627-bded-2da3c30524f0",
+            "clue": "Tennis tournament in London",
+            "answer": "wimbledon",
+            "normalized": "wimbledon"
           },
           {
-            "id": "78cc9a2f-0c9b-4165-b8a5-db12ab1e90d2",
-            "clue": "The ceremonial bonding of two people",
-            "answer": "marriage",
-            "normalized": "marriage"
+            "id": "049b4e92-75fc-4a3d-9393-585ca4b19cc9",
+            "clue": "__ sphere, globe of intersecting metal rings",
+            "answer": "armillary",
+            "normalized": "armillary"
           },
           {
-            "id": "ed09f1e9-8fe6-4793-b764-5ca55c700fdb",
-            "clue": "Short, knee-length trousers worn for horse riding",
-            "answer": "breeches",
-            "normalized": "breeches"
+            "id": "58fff0a9-6b5a-4587-8c8d-ef7b83e6830a",
+            "clue": "Manufacturer of telescopes founded in 1972",
+            "answer": "meade",
+            "normalized": "meade"
           },
           {
-            "id": "bfd034a7-4480-464a-8b0b-d79243f6bdba",
-            "clue": "Those who try",
-            "answer": "essayers",
-            "normalized": "essayers"
+            "id": "6f384786-53b6-44a6-8a33-711eee8611e4",
+            "clue": "Tiny island with no vegetation",
+            "answer": "islet",
+            "normalized": "islet"
           },
           {
-            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
-            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
-            "answer": "rae",
-            "normalized": "rae"
+            "id": "2948dbdf-39b5-457c-96b7-6fcb949074ad",
+            "clue": "Where youngsters go while parents work",
+            "answer": "childcare",
+            "normalized": "childcare"
           },
           {
-            "id": "fbdec2a9-34e9-41cb-b0df-fee3385e82ff",
-            "clue": "US government secretive surveillance experts",
-            "answer": "nsa",
-            "normalized": "nsa"
+            "id": "73713d1e-48a7-4c8b-9ed6-54c1dadd9797",
+            "clue": "Chilean town destroyed by wildfire in 2017",
+            "answer": "santa olga",
+            "normalized": "santaolga"
           },
           {
-            "id": "8300e657-e252-41e4-a13a-cdcb8b682996",
-            "clue": "Take a seat",
-            "answer": "sit",
-            "normalized": "sit"
+            "id": "de2aceed-84ec-481f-b577-541b52b2e236",
+            "clue": "Locate something that was missing",
+            "answer": "find",
+            "normalized": "find"
           },
           {
-            "id": "cdbbf54a-bbc8-47a3-9172-80074267d3f6",
-            "clue": "A female peacock",
-            "answer": "peahen",
-            "normalized": "peahen"
+            "id": "9a52f9ff-3f3d-4e36-bf8f-f89be44cc8a8",
+            "clue": "Assign someone with work",
+            "answer": "task",
+            "normalized": "task"
           },
           {
-            "id": "fe82cbe3-b593-4274-9e8a-0800d59d5116",
-            "clue": "Mimi __, Lost In Space actress",
-            "answer": "rogers",
-            "normalized": "rogers"
+            "id": "1c135e48-74f1-4557-94c9-a4afcbb31a44",
+            "clue": "Took a dip and moved through water",
+            "answer": "swam",
+            "normalized": "swam"
           },
           {
-            "id": "6bc284f9-2a98-47cf-b4d9-d0d1447e8b52",
-            "clue": "Retired figure skater Oksana Baiul, The Swan of __",
-            "answer": "odessa",
-            "normalized": "odessa"
+            "id": "5d588e06-4426-4c6e-bf41-82d1614290a5",
+            "clue": "Secure a person's services",
+            "answer": "hire",
+            "normalized": "hire"
           },
           {
-            "id": "429f7443-fbe6-4d7a-9e08-0576bcde480d",
-            "clue": "Gemstones from the fossil resins of pine trees",
-            "answer": "ambers",
-            "normalized": "ambers"
+            "id": "287de892-8448-471c-aa16-adc1f3ca5e98",
+            "clue": "2022 horror film starring Sandra Oh",
+            "answer": "umma",
+            "normalized": "umma"
           },
           {
-            "id": "54cf7dc5-d8bb-4226-9a7a-5d30f54f4dc2",
-            "clue": "Producer and Black-ish star __ Martin",
-            "answer": "marsai",
-            "normalized": "marsai"
+            "id": "23b28869-0b76-401f-a26f-5dffa9223436",
+            "clue": "Latin abbreviation for in the same place",
+            "answer": "ibid",
+            "normalized": "ibid"
           },
           {
-            "id": "810eb0b7-dad2-4492-b1fd-c5a2724d7533",
-            "clue": "Place ahead of time",
-            "answer": "preset",
-            "normalized": "preset"
+            "id": "5080f5bc-9f71-4a1b-a788-8397917bb9c2",
+            "clue": "Gibson, star of Lethal Weapon",
+            "answer": "mel",
+            "normalized": "mel"
           },
           {
-            "id": "dd778d72-f42c-4ae7-9937-9665c3b5b777",
-            "clue": "Mens __, criminal acceptance of wrongdoing",
-            "answer": "rea",
-            "normalized": "rea"
+            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
+            "clue": "International Development Association, initialism",
+            "answer": "ida",
+            "normalized": "ida"
           },
           {
-            "id": "c060d56a-81a1-4a3a-baf1-9c23470208f7",
-            "clue": "Cold, frozen",
-            "answer": "icy",
-            "normalized": "icy"
+            "id": "1dfca015-973c-44fe-ab14-f70df7f6250e",
+            "clue": "Neither's partner",
+            "answer": "nor",
+            "normalized": "nor"
+          },
+          {
+            "id": "431e8f7f-b353-4ade-b2aa-1dafc8baf564",
+            "clue": "Whichever thing",
+            "answer": "any",
+            "normalized": "any"
+          },
+          {
+            "id": "89d9377b-eec1-4d20-b4a1-4e1b7a934aa2",
+            "clue": "Ancient Catalonian city with Seu Vella cathedral",
+            "answer": "lleida",
+            "normalized": "lleida"
+          },
+          {
+            "id": "c9ac4f36-7cf9-4c49-afa1-2e744b27b7de",
+            "clue": "Edinburgh native",
+            "answer": "scot",
+            "normalized": "scot"
+          },
+          {
+            "id": "7e6580c4-1442-476a-ba58-97d5eaba0843",
+            "clue": "Hollywood is sometimes called this land",
+            "answer": "la la",
+            "normalized": "lala"
+          },
+          {
+            "id": "8811dc75-83c6-4ed3-9c30-abbfe68ef2db",
+            "clue": "Units of energy equal to 100 nanojoules",
+            "answer": "ergs",
+            "normalized": "ergs"
+          },
+          {
+            "id": "4392a946-72a5-4f82-9844-1aca63875fee",
+            "clue": "Rot-resistant wood common on boats",
+            "answer": "teak",
+            "normalized": "teak"
+          },
+          {
+            "id": "ed448a63-6078-49c9-a10d-3a99fc5544a6",
+            "clue": "Chemical formula for caesium fluoride",
+            "answer": "csf",
+            "normalized": "csf"
+          },
+          {
+            "id": "cfc18406-be4b-4f5b-9396-1da57f77539a",
+            "clue": "Japanese \"yes\"",
+            "answer": "hai",
+            "normalized": "hai"
+          },
+          {
+            "id": "c7176f96-ecb1-43f7-8ded-a3a6534a5fef",
+            "clue": "Hotel, B&B",
+            "answer": "inn",
+            "normalized": "inn"
+          },
+          {
+            "id": "566e7c44-9de8-4844-b760-3d326a09648c",
+            "clue": "Three letters after a limited company",
+            "answer": "ltd",
+            "normalized": "ltd"
           }
         ],
-        "track": "PC|LenC--Y2026M6D27F1"
+        "track": "PC|LenC--Y2026M6D28F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-27",
+      "key": "2026-06-28",
       "year": 2026,
       "month": 6,
-      "day": 27,
+      "day": 28,
       "small": {
-        "puzzleId": "38654bf6-4f63-4951-94eb-c58ead3e7775",
+        "puzzleId": "898facde-2442-42f9-9359-205b36d96261",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 5,
         "answers": [
           {
-            "id": "20170a12-2bb6-4fe7-a33b-b29a99d1dbd7",
-            "clue": "Eric who Always Looks on the Bright Side of Life",
-            "answer": "idle",
-            "normalized": "idle"
+            "id": "9b417f43-8a84-479a-8d01-2816b77b2ef9",
+            "clue": "Goes out like a tide",
+            "answer": "ebbs",
+            "normalized": "ebbs"
           },
           {
-            "id": "a2942be4-3bcd-4034-a0c9-3f1c003474c0",
-            "clue": "A vegetable that's usually misspelled as union",
-            "answer": "onion",
-            "normalized": "onion"
+            "id": "f8bec616-9a04-4f06-b9d9-7c7e5a5d7bcb",
+            "clue": "This city hosts the Louvre Museum",
+            "answer": "paris",
+            "normalized": "paris"
           },
           {
-            "id": "917aad2e-c39b-4348-a02c-676e151666fc",
-            "clue": "1978 Stephen King pandemic novel, The __",
-            "answer": "stand",
-            "normalized": "stand"
+            "id": "b4be9e8e-eb62-4253-b250-30d7be8e6b58",
+            "clue": "Final results summed up",
+            "answer": "totals",
+            "normalized": "totals"
           },
           {
-            "id": "1701bd18-9806-4548-bcab-283a02611152",
-            "clue": "Imagine, Bad Guy and Born This Way are examples",
-            "answer": "songs",
-            "normalized": "songs"
+            "id": "4ee3ad7d-646a-4548-b0db-cae1ea278055",
+            "clue": "Living",
+            "answer": "alive",
+            "normalized": "alive"
           },
           {
-            "id": "9ec0b9e1-b6d1-4442-a542-15f7457f229b",
-            "clue": "Is in debt to someone",
-            "answer": "owes",
-            "normalized": "owes"
+            "id": "3cd2c70a-473c-4fcb-9c14-805176e9c6b7",
+            "clue": "Forearm bone",
+            "answer": "ulna",
+            "normalized": "ulna"
           },
           {
-            "id": "480ab2ac-3611-4e65-8f73-4de65041ea51",
-            "clue": "Describes being taken along",
-            "answer": "in tow",
-            "normalized": "intow"
+            "id": "88edc9b5-dedd-42fc-b8a4-bccda9c2feef",
+            "clue": "Opposite idea of \"dine out\"",
+            "answer": "eat in",
+            "normalized": "eatin"
           },
           {
-            "id": "3f5080a8-56c6-43c9-9944-9f4fe8afe2cb",
-            "clue": "Keaton who starred in Something's Gotta Give",
-            "answer": "diane",
-            "normalized": "diane"
+            "id": "8e2a9904-a956-433c-bff4-b616c3d0f97f",
+            "clue": "Spanish Costa that ends at the French border",
+            "answer": "brava",
+            "normalized": "brava"
           },
           {
-            "id": "2be91b59-9b0a-4563-aa34-cc80b1d82020",
-            "clue": "Yearns, pines for",
-            "answer": "longs",
-            "normalized": "longs"
+            "id": "f6597902-5c7b-489c-9d4f-9cf9ce1d5062",
+            "clue": "Liver secretion",
+            "answer": "bile",
+            "normalized": "bile"
           },
           {
-            "id": "b1c6ec81-c576-4afc-bb35-9a09a94e89fb",
-            "clue": "Comes to a finish",
-            "answer": "ends",
-            "normalized": "ends"
+            "id": "0b5b781c-5de1-4636-b1e4-56ac001d5b1b",
+            "clue": "Philippine agency for Social Security",
+            "answer": "sss",
+            "normalized": "sss"
           },
           {
-            "id": "0b0c143c-3a8b-4d20-8b1c-9f57d9a462fe",
-            "clue": "__ buco, Italian dish made with veal",
-            "answer": "osso",
-            "normalized": "osso"
+            "id": "b0ad3a09-3451-4fb3-b4cf-2a20dbf8b58f",
+            "clue": "Often political opinion survey",
+            "answer": "poll",
+            "normalized": "poll"
+          },
+          {
+            "id": "163818b3-6727-40cd-8427-e8619cac2a47",
+            "clue": "Greek letter T",
+            "answer": "tau",
+            "normalized": "tau"
           }
         ],
-        "track": "PC|LenC--Y2026M6D27F0"
+        "track": "PC|LenC--Y2026M6D28F0"
       },
       "mid": {
-        "puzzleId": "26203f4d-3ddb-4581-b9ed-07b10c75071a",
+        "puzzleId": "5995c041-73d6-4598-bcc8-c7d22f3acb9b",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 7,
         "answers": [
           {
-            "id": "78917036-07b0-482f-9dcc-918595745d37",
-            "clue": "Not a con",
-            "answer": "pro",
-            "normalized": "pro"
+            "id": "144e1807-1e9d-4015-b587-40bb0944c8b8",
+            "clue": "Feng __ focuses on Asian theory of balance",
+            "answer": "shui",
+            "normalized": "shui"
           },
           {
-            "id": "d8059e85-d37a-4127-a471-5d74ecebf117",
-            "clue": "Abbreviation for an audio signal boosting device",
-            "answer": "amp",
-            "normalized": "amp"
+            "id": "9b74f3dc-63c8-4932-ba74-7171cdeb76ac",
+            "clue": "Jonathan Harker's wife in Dracula",
+            "answer": "mina",
+            "normalized": "mina"
           },
           {
-            "id": "654090d1-b83e-476b-80f0-bfa67ee8d88d",
-            "clue": "Added to a deadline to mean by midnight that day",
-            "answer": "eod",
-            "normalized": "eod"
+            "id": "82212336-2294-4627-bded-2da3c30524f0",
+            "clue": "Tennis tournament in London",
+            "answer": "wimbledon",
+            "normalized": "wimbledon"
           },
           {
-            "id": "78cc9a2f-0c9b-4165-b8a5-db12ab1e90d2",
-            "clue": "The ceremonial bonding of two people",
-            "answer": "marriage",
-            "normalized": "marriage"
+            "id": "049b4e92-75fc-4a3d-9393-585ca4b19cc9",
+            "clue": "__ sphere, globe of intersecting metal rings",
+            "answer": "armillary",
+            "normalized": "armillary"
           },
           {
-            "id": "ed09f1e9-8fe6-4793-b764-5ca55c700fdb",
-            "clue": "Short, knee-length trousers worn for horse riding",
-            "answer": "breeches",
-            "normalized": "breeches"
+            "id": "58fff0a9-6b5a-4587-8c8d-ef7b83e6830a",
+            "clue": "Manufacturer of telescopes founded in 1972",
+            "answer": "meade",
+            "normalized": "meade"
           },
           {
-            "id": "bfd034a7-4480-464a-8b0b-d79243f6bdba",
-            "clue": "Those who try",
-            "answer": "essayers",
-            "normalized": "essayers"
+            "id": "6f384786-53b6-44a6-8a33-711eee8611e4",
+            "clue": "Tiny island with no vegetation",
+            "answer": "islet",
+            "normalized": "islet"
           },
           {
-            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
-            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
-            "answer": "rae",
-            "normalized": "rae"
+            "id": "2948dbdf-39b5-457c-96b7-6fcb949074ad",
+            "clue": "Where youngsters go while parents work",
+            "answer": "childcare",
+            "normalized": "childcare"
           },
           {
-            "id": "fbdec2a9-34e9-41cb-b0df-fee3385e82ff",
-            "clue": "US government secretive surveillance experts",
-            "answer": "nsa",
-            "normalized": "nsa"
+            "id": "73713d1e-48a7-4c8b-9ed6-54c1dadd9797",
+            "clue": "Chilean town destroyed by wildfire in 2017",
+            "answer": "santa olga",
+            "normalized": "santaolga"
           },
           {
-            "id": "8300e657-e252-41e4-a13a-cdcb8b682996",
-            "clue": "Take a seat",
-            "answer": "sit",
-            "normalized": "sit"
+            "id": "de2aceed-84ec-481f-b577-541b52b2e236",
+            "clue": "Locate something that was missing",
+            "answer": "find",
+            "normalized": "find"
           },
           {
-            "id": "cdbbf54a-bbc8-47a3-9172-80074267d3f6",
-            "clue": "A female peacock",
-            "answer": "peahen",
-            "normalized": "peahen"
+            "id": "9a52f9ff-3f3d-4e36-bf8f-f89be44cc8a8",
+            "clue": "Assign someone with work",
+            "answer": "task",
+            "normalized": "task"
           },
           {
-            "id": "fe82cbe3-b593-4274-9e8a-0800d59d5116",
-            "clue": "Mimi __, Lost In Space actress",
-            "answer": "rogers",
-            "normalized": "rogers"
+            "id": "1c135e48-74f1-4557-94c9-a4afcbb31a44",
+            "clue": "Took a dip and moved through water",
+            "answer": "swam",
+            "normalized": "swam"
           },
           {
-            "id": "6bc284f9-2a98-47cf-b4d9-d0d1447e8b52",
-            "clue": "Retired figure skater Oksana Baiul, The Swan of __",
-            "answer": "odessa",
-            "normalized": "odessa"
+            "id": "5d588e06-4426-4c6e-bf41-82d1614290a5",
+            "clue": "Secure a person's services",
+            "answer": "hire",
+            "normalized": "hire"
           },
           {
-            "id": "429f7443-fbe6-4d7a-9e08-0576bcde480d",
-            "clue": "Gemstones from the fossil resins of pine trees",
-            "answer": "ambers",
-            "normalized": "ambers"
+            "id": "287de892-8448-471c-aa16-adc1f3ca5e98",
+            "clue": "2022 horror film starring Sandra Oh",
+            "answer": "umma",
+            "normalized": "umma"
           },
           {
-            "id": "54cf7dc5-d8bb-4226-9a7a-5d30f54f4dc2",
-            "clue": "Producer and Black-ish star __ Martin",
-            "answer": "marsai",
-            "normalized": "marsai"
+            "id": "23b28869-0b76-401f-a26f-5dffa9223436",
+            "clue": "Latin abbreviation for in the same place",
+            "answer": "ibid",
+            "normalized": "ibid"
           },
           {
-            "id": "810eb0b7-dad2-4492-b1fd-c5a2724d7533",
-            "clue": "Place ahead of time",
-            "answer": "preset",
-            "normalized": "preset"
+            "id": "5080f5bc-9f71-4a1b-a788-8397917bb9c2",
+            "clue": "Gibson, star of Lethal Weapon",
+            "answer": "mel",
+            "normalized": "mel"
           },
           {
-            "id": "dd778d72-f42c-4ae7-9937-9665c3b5b777",
-            "clue": "Mens __, criminal acceptance of wrongdoing",
-            "answer": "rea",
-            "normalized": "rea"
+            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
+            "clue": "International Development Association, initialism",
+            "answer": "ida",
+            "normalized": "ida"
           },
           {
-            "id": "c060d56a-81a1-4a3a-baf1-9c23470208f7",
-            "clue": "Cold, frozen",
-            "answer": "icy",
-            "normalized": "icy"
+            "id": "1dfca015-973c-44fe-ab14-f70df7f6250e",
+            "clue": "Neither's partner",
+            "answer": "nor",
+            "normalized": "nor"
+          },
+          {
+            "id": "431e8f7f-b353-4ade-b2aa-1dafc8baf564",
+            "clue": "Whichever thing",
+            "answer": "any",
+            "normalized": "any"
+          },
+          {
+            "id": "89d9377b-eec1-4d20-b4a1-4e1b7a934aa2",
+            "clue": "Ancient Catalonian city with Seu Vella cathedral",
+            "answer": "lleida",
+            "normalized": "lleida"
+          },
+          {
+            "id": "c9ac4f36-7cf9-4c49-afa1-2e744b27b7de",
+            "clue": "Edinburgh native",
+            "answer": "scot",
+            "normalized": "scot"
+          },
+          {
+            "id": "7e6580c4-1442-476a-ba58-97d5eaba0843",
+            "clue": "Hollywood is sometimes called this land",
+            "answer": "la la",
+            "normalized": "lala"
+          },
+          {
+            "id": "8811dc75-83c6-4ed3-9c30-abbfe68ef2db",
+            "clue": "Units of energy equal to 100 nanojoules",
+            "answer": "ergs",
+            "normalized": "ergs"
+          },
+          {
+            "id": "4392a946-72a5-4f82-9844-1aca63875fee",
+            "clue": "Rot-resistant wood common on boats",
+            "answer": "teak",
+            "normalized": "teak"
+          },
+          {
+            "id": "ed448a63-6078-49c9-a10d-3a99fc5544a6",
+            "clue": "Chemical formula for caesium fluoride",
+            "answer": "csf",
+            "normalized": "csf"
+          },
+          {
+            "id": "cfc18406-be4b-4f5b-9396-1da57f77539a",
+            "clue": "Japanese \"yes\"",
+            "answer": "hai",
+            "normalized": "hai"
+          },
+          {
+            "id": "c7176f96-ecb1-43f7-8ded-a3a6534a5fef",
+            "clue": "Hotel, B&B",
+            "answer": "inn",
+            "normalized": "inn"
+          },
+          {
+            "id": "566e7c44-9de8-4844-b760-3d326a09648c",
+            "clue": "Three letters after a limited company",
+            "answer": "ltd",
+            "normalized": "ltd"
           }
         ],
-        "track": "PC|LenC--Y2026M6D27F1"
+        "track": "PC|LenC--Y2026M6D28F1"
       }
     },
     "latestAvailableEntry": {
@@ -422383,21 +422077,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "y9EfFB/EDJPGg0U0vIw0TaAfeo9d+j/ghAbP7t+6fM1ZDiYJlz1Yk5a5IQCtBcs0N+p8vdA1XvQhy5GbeWqqgRkFTdrp4taNpvv5xAmE2KzwGArkJ9QijmPuzuNpZujrnbSYtgiQB1XnuftA9PRpKeUCFnR72V6yW6/BVuSOHxyg8e8d6FLqvFVQ9qDZty94OyhNAhyHogUz/Ktj8M9WG/Vpj41fIIWB2OIaZNDt1wZOR6t9/iXpOd/31T0RxeNwpC99aePk3f2nz11FI+/N1GSaSDg8zIevCPlOPTgEil4="
+        "3A18kDzSUmHGtSXkfkVcLdtlbYiY3Wco++SvmnJ05NHjt15G5TYe9f5MlVt5C35tW+otC59V6r0b33bOECj+eDP56ty+bErAt0i8bNeUnVBfHqhmbCI4dC+/shkTIeE8HRifsDJI2I3VmknlBnkgWJ1YCbY5R+oH4GhV6wvBPotmUp8prlZf9ipa3rtL8Ov9aY6ZAfrANeGaVd4305ekRJcMqLx0d+d8qN7OyLDw+ddy02+pxjSPfiBS7SFyv+DmdKvxmdXhmgT6PiioKlnzwoNG4/G9ndlNPdAKjLOqWs8="
       ]
     },
     "decrypted": {
-      "Id": "46e209cb-6333-44ca-89e9-0d43598fa65c",
-      "Date": "2026-06-27T00:00:00Z",
+      "Id": "4fca01d0-83a3-47d7-bab8-b083f25befc3",
+      "Date": "2026-06-28T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "jazzy",
-      "NormalizedPassword": "jazzy",
+      "Password": "seven",
+      "NormalizedPassword": "seven",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-27T01:45:33.0010000+05:30",
-    "hash": "130432068ef7990ef351d399cc741ace",
+    "dtu": "2026-06-28T01:20:19.0940000+05:30",
+    "hash": "a67462e3a1a988e0d088aeb53884e599",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
