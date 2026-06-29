@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-28T19:50:59.328Z",
+  "generatedAt": "2026-06-29T20:20:15.807Z",
   "today": {
     "year": 2026,
     "month": 6,
-    "day": 29
+    "day": 30
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 54
+        "QuantidadeDeFases": 56
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -26245,7 +26245,7 @@
             },
             {
               "id": "ab29e333-f6d6-40d6-9c94-45d0fe303801",
-              "clue": "Nora __: Awkwafina's real name",
+              "clue": "Nora __, Awkwafina's real name",
               "answer": "lum",
               "normalized": "lum"
             },
@@ -31450,7 +31450,7 @@
             },
             {
               "id": "ab29e333-f6d6-40d6-9c94-45d0fe303801",
-              "clue": "Nora __: Awkwafina's real name",
+              "clue": "Nora __, Awkwafina's real name",
               "answer": "lum",
               "normalized": "lum"
             },
@@ -46437,7 +46437,7 @@
             },
             {
               "id": "ab29e333-f6d6-40d6-9c94-45d0fe303801",
-              "clue": "Nora __: Awkwafina's real name",
+              "clue": "Nora __, Awkwafina's real name",
               "answer": "lum",
               "normalized": "lum"
             }
@@ -65613,7 +65613,7 @@
             },
             {
               "id": "ab29e333-f6d6-40d6-9c94-45d0fe303801",
-              "clue": "Nora __: Awkwafina's real name",
+              "clue": "Nora __, Awkwafina's real name",
               "answer": "lum",
               "normalized": "lum"
             },
@@ -105845,7 +105845,7 @@
             },
             {
               "id": "4341dc91-7ec6-477c-bcfb-dd0f4aec08c9",
-              "clue": "Hid illegal goods somewhere secret",
+              "clue": "Hid something somewhere secret",
               "answer": "stashed",
               "normalized": "stashed"
             },
@@ -117981,7 +117981,7 @@
             },
             {
               "id": "ab29e333-f6d6-40d6-9c94-45d0fe303801",
-              "clue": "Nora __: Awkwafina's real name",
+              "clue": "Nora __, Awkwafina's real name",
               "answer": "lum",
               "normalized": "lum"
             },
@@ -196477,7 +196477,7 @@
             },
             {
               "id": "d8750dd9-1641-4cfe-ad4a-52df10375aa7",
-              "clue": "Hits a fly",
+              "clue": "Hit a fly",
               "answer": "swat",
               "normalized": "swat"
             },
@@ -282567,7 +282567,7 @@
             },
             {
               "id": "d8750dd9-1641-4cfe-ad4a-52df10375aa7",
-              "clue": "Hits a fly",
+              "clue": "Hit a fly",
               "answer": "swat",
               "normalized": "swat"
             },
@@ -407024,7 +407024,7 @@
             },
             {
               "id": "ab29e333-f6d6-40d6-9c94-45d0fe303801",
-              "clue": "Nora __: Awkwafina's real name",
+              "clue": "Nora __, Awkwafina's real name",
               "answer": "lum",
               "normalized": "lum"
             },
@@ -413254,7 +413254,7 @@
             },
             {
               "id": "ab29e333-f6d6-40d6-9c94-45d0fe303801",
-              "clue": "Nora __: Awkwafina's real name",
+              "clue": "Nora __, Awkwafina's real name",
               "answer": "lum",
               "normalized": "lum"
             },
@@ -413426,7 +413426,7 @@
             },
             {
               "id": "ab29e333-f6d6-40d6-9c94-45d0fe303801",
-              "clue": "Nora __: Awkwafina's real name",
+              "clue": "Nora __, Awkwafina's real name",
               "answer": "lum",
               "normalized": "lum"
             },
@@ -421337,439 +421337,451 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-29",
+      "key": "2026-06-30",
       "year": 2026,
       "month": 6,
-      "day": 29,
+      "day": 30,
       "small": {
-        "puzzleId": "a3a1ca3e-cbe9-4dbc-ad3e-e71c18167f67",
+        "puzzleId": "95f553d1-aec7-435b-8a9d-dc7754703337",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "7e7fb31c-3ee7-4409-bb86-70587dd1dccb",
-            "clue": "Play about Thomas More, __ for All Seasons",
-            "answer": "a man",
-            "normalized": "aman"
+            "id": "6e226fe8-ea41-452b-8756-c699726fa258",
+            "clue": "Seeds that hook onto clothes and animal fur",
+            "answer": "burs",
+            "normalized": "burs"
           },
           {
-            "id": "60225d80-4c80-47e1-a38f-dcf9e5727b5a",
-            "clue": "Soap opera star who hosts a morning show, Kelly __",
-            "answer": "ripa",
-            "normalized": "ripa"
+            "id": "2ae70f13-9a62-4703-bfc6-7d6044947a33",
+            "clue": "Thomas Hardy poem, __ Into My Glass",
+            "answer": "i look",
+            "normalized": "ilook"
           },
           {
-            "id": "bc38a111-e0d9-4028-8c9a-bb2b9ef0d9ea",
-            "clue": "Crunchy like lettuce",
-            "answer": "crisp",
-            "normalized": "crisp"
+            "id": "b6f560dc-e731-4e89-85a8-1350ffd20a6f",
+            "clue": "Set of clothing, maybe a special one for sharing",
+            "answer": "outfit",
+            "normalized": "outfit"
           },
           {
-            "id": "dfe43132-e664-4c62-aca8-3345f1fc044e",
-            "clue": "Touch and smell are examples",
-            "answer": "sense",
-            "normalized": "sense"
+            "id": "7b673ed9-86c4-41b3-8a0a-86ba0e24871e",
+            "clue": "Metal utensil usually used to shred cheese",
+            "answer": "grater",
+            "normalized": "grater"
           },
           {
-            "id": "d98c2d44-85c7-420a-a611-9c0fffb1ea58",
-            "clue": "Quickly skim over a document",
-            "answer": "scan",
-            "normalized": "scan"
+            "id": "23afb0a7-a67c-4474-b802-3fafff1e9247",
+            "clue": "Anatomical term for plural of womb",
+            "answer": "uteri",
+            "normalized": "uteri"
           },
           {
-            "id": "541edc13-a5bc-43d0-8eec-4fefa56d564c",
-            "clue": "An embrace with one's arms",
-            "answer": "hug",
-            "normalized": "hug"
+            "id": "5e9c3b1a-f82b-4f98-8e47-9a7dfe567648",
+            "clue": "Historic periods of time",
+            "answer": "eras",
+            "normalized": "eras"
           },
           {
-            "id": "861dafd2-62ad-416b-b7c2-543049655d46",
-            "clue": "Parts of the circumference of a circle; curves",
-            "answer": "arcs",
-            "normalized": "arcs"
+            "id": "0c59d185-f5db-4480-a262-71d71192ee80",
+            "clue": "Short word for a memoir",
+            "answer": "biog",
+            "normalized": "biog"
           },
           {
-            "id": "29464135-368c-45c3-9a7e-2b5efd79acad",
-            "clue": "Swampy areas",
-            "answer": "mires",
-            "normalized": "mires"
+            "id": "d04e37d5-6282-4ca8-b319-870c26f76538",
+            "clue": "Large Australian rock",
+            "answer": "uluru",
+            "normalized": "uluru"
           },
           {
-            "id": "760e8e9a-8eec-4c2f-b229-36907d7abfa2",
-            "clue": "Fingertip of salt people often put in a recipe",
-            "answer": "a pinch",
-            "normalized": "apinch"
+            "id": "d2424c76-452b-470f-b61f-13acd20c28ec",
+            "clue": "Pivot, spin, swivel",
+            "answer": "rotate",
+            "normalized": "rotate"
           },
           {
-            "id": "90c4954d-2260-4390-88f2-4fa3c8c778ec",
-            "clue": "Largest city in The Bahamas",
-            "answer": "nassau",
-            "normalized": "nassau"
+            "id": "d5c4a5d5-fb9f-4deb-a1bf-c947d7607846",
+            "clue": "Antonym of \"harder\"",
+            "answer": "softer",
+            "normalized": "softer"
           },
           {
-            "id": "79bf5833-894a-4f8c-9ec5-44dd447de88f",
-            "clue": "Chinese female tennis player Shuai",
-            "answer": "peng",
-            "normalized": "peng"
+            "id": "841456c9-340c-4853-8d75-2449288326dc",
+            "clue": "Actress-model granddaughter of Charlie Chaplin",
+            "answer": "kiera",
+            "normalized": "kiera"
+          },
+          {
+            "id": "6d05fca5-45b8-4e80-b84f-b9672a53248f",
+            "clue": "Main character in Divergent",
+            "answer": "tris",
+            "normalized": "tris"
           }
         ],
-        "track": "PC|LenC--Y2026M6D29F0"
+        "track": "PC|LenC--Y2026M6D30F0"
       },
       "mid": {
-        "puzzleId": "f469f582-de1c-43dd-9222-e0c6d82fa940",
+        "puzzleId": "1e50074e-2efc-490c-a1b4-92fe61811e4a",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "2dc3fa07-b697-4665-8cd4-a1ff2ccd7c13",
-            "clue": "Common word that goes before nouns",
-            "answer": "the",
-            "normalized": "the"
+            "id": "174acf97-fd36-47a5-9a49-2834735e663f",
+            "clue": "Not the present or the future",
+            "answer": "past",
+            "normalized": "past"
           },
           {
-            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
-            "clue": "High-speed computer storage with no moving parts",
-            "answer": "ssd",
-            "normalized": "ssd"
+            "id": "9c0121ef-0f9a-4833-a81c-b315c21ea4ce",
+            "clue": "Short for rich text format",
+            "answer": "rtf",
+            "normalized": "rtf"
           },
           {
-            "id": "b83b7eca-07a7-4259-b31a-3959c74955b5",
-            "clue": "Three letters that stand for end of message",
-            "answer": "eom",
-            "normalized": "eom"
+            "id": "d77d218f-89c5-4735-83e1-bcd0c3e31a79",
+            "clue": "Minor planetoid or __ Belt",
+            "answer": "asteroid",
+            "normalized": "asteroid"
           },
           {
-            "id": "88153154-da2f-40d6-b90d-09647e263566",
-            "clue": "Me, in French",
-            "answer": "moi",
-            "normalized": "moi"
+            "id": "ea36d94d-f251-4e51-b874-17f4765def34",
+            "clue": "A special magnetic charm or appeal",
+            "answer": "charisma",
+            "normalized": "charisma"
           },
           {
-            "id": "7b8bd0b9-5922-4237-b0a0-78b9442ff62d",
-            "clue": "Lines of Cancer or Capricorn",
-            "answer": "tropics",
-            "normalized": "tropics"
+            "id": "9bf84362-9795-4dbf-95bc-047bcd99c52d",
+            "clue": "__ over, like a puddle in winter",
+            "answer": "ices",
+            "normalized": "ices"
           },
           {
-            "id": "8c58fed9-ed7f-490b-98a3-ea4d14460a54",
-            "clue": "Medical term for inflammation of the ear",
-            "answer": "otitis",
-            "normalized": "otitis"
+            "id": "8d7a7148-0926-494b-ac5a-d0e05eeec8e6",
+            "clue": "In love with Beatrice in Much Ado About Nothing",
+            "answer": "benedick",
+            "normalized": "benedick"
           },
           {
-            "id": "a3c4a039-41be-4f0d-96e4-dc4e9c4b5271",
-            "clue": "Stereotype, overused phrase, expression",
-            "answer": "cliche",
-            "normalized": "cliche"
+            "id": "b48af0c3-4213-4cae-abf8-9e03fbd33afe",
+            "clue": "An attempt to make something untrue look real",
+            "answer": "pretense",
+            "normalized": "pretense"
           },
           {
-            "id": "5b0a08cc-a534-4622-a7a0-7cb8793562e7",
-            "clue": "They hold photos around the neck",
-            "answer": "lockets",
-            "normalized": "lockets"
+            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
+            "clue": "Angry",
+            "answer": "mad",
+            "normalized": "mad"
           },
           {
-            "id": "a838fd39-b5aa-4d50-8168-03e53e6223b9",
-            "clue": "Song American Pie starts \"A long, long time __\"",
-            "answer": "ago",
-            "normalized": "ago"
+            "id": "2e88cc78-1b01-4289-9ed2-f5a4ad38a745",
+            "clue": "Maned big cat",
+            "answer": "lion",
+            "normalized": "lion"
           },
           {
-            "id": "12baf334-d9a6-4669-8528-99bb123c5b3e",
-            "clue": "Mouse relative",
-            "answer": "rat",
-            "normalized": "rat"
+            "id": "6edfabac-dd70-4da2-82e7-91ae6527b31c",
+            "clue": "Classic yellow video game character __-Man",
+            "answer": "pac",
+            "normalized": "pac"
           },
           {
-            "id": "cbdbdb91-2767-47ed-9ed9-5a29fa1ec225",
-            "clue": "Old English letter equivalent to \"w\"",
-            "answer": "wyn",
-            "normalized": "wyn"
+            "id": "76d107da-feee-4ee2-9495-161e97db9113",
+            "clue": "Remains of a fire",
+            "answer": "ash",
+            "normalized": "ash"
           },
           {
-            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
-            "clue": "Camera with a particular kind of lens",
-            "answer": "slr",
-            "normalized": "slr"
+            "id": "fc655ffb-d890-448b-add7-375a1a0614c3",
+            "clue": "A soiled or discolored spot",
+            "answer": "stained",
+            "normalized": "stained"
           },
           {
-            "id": "8c4382a3-f00f-44d7-b57d-23b788cc9630",
-            "clue": "Vietnamese New Year",
-            "answer": "tet",
-            "normalized": "tet"
+            "id": "e1bfa42c-c4b2-4545-91af-edf9d4f5bc9b",
+            "clue": "A trio of verses or lines of poetry",
+            "answer": "tercet",
+            "normalized": "tercet"
           },
           {
-            "id": "24ae789b-8cf2-414b-94ee-5887dbe2cd21",
-            "clue": "The study and measurement of time",
-            "answer": "horology",
-            "normalized": "horology"
+            "id": "10c48222-55de-4413-b13b-e7cfaf67e493",
+            "clue": "Bellini alternative with strawberry",
+            "answer": "rossini",
+            "normalized": "rossini"
           },
           {
-            "id": "f3aa2e90-cae2-4ef8-99e3-db6736e3fa22",
-            "clue": "Icon used as a facial expression",
-            "answer": "emoticon",
-            "normalized": "emoticon"
+            "id": "87179e7c-b286-4756-bccf-ea446fb3758f",
+            "clue": "Burton, director of Corpse Bride and Beetlejuice",
+            "answer": "tim",
+            "normalized": "tim"
           },
           {
-            "id": "4ce502ec-1676-44e1-ada9-5c22137a9667",
-            "clue": "Mr. Burns' loyal assistant",
-            "answer": "smithers",
-            "normalized": "smithers"
+            "id": "0dd5179a-49b4-41e0-88f4-51da63967b6f",
+            "clue": "US agency tasked with protecting public health",
+            "answer": "fda",
+            "normalized": "fda"
           },
           {
-            "id": "65ef56ea-0fe6-4cb3-a555-e9bbec51ae40",
-            "clue": "Relating to the people as a community",
-            "answer": "societal",
-            "normalized": "societal"
+            "id": "12ca6525-e8fd-4608-83a1-05ba1ef412b7",
+            "clue": "Maker of glasses shaped for specific wines",
+            "answer": "riedel",
+            "normalized": "riedel"
           },
           {
-            "id": "78f8de05-1ec7-48c2-b621-70d9a942aa73",
-            "clue": "Insult, especially in the world of hip-hop",
-            "answer": "diss",
-            "normalized": "diss"
+            "id": "3ac07d9b-aa9c-4468-a051-d6f20fc36efd",
+            "clue": "Tempo measurement",
+            "answer": "bpm",
+            "normalized": "bpm"
           },
           {
-            "id": "cd93dcdc-ea0e-43e7-b398-cfefa821999d",
-            "clue": "__ one's nose with a finger to clean it",
-            "answer": "pick",
-            "normalized": "pick"
+            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
+            "clue": "Distinct stage in history or evolution",
+            "answer": "era",
+            "normalized": "era"
           },
           {
-            "id": "66697691-6d8a-49f2-9ea4-a50a8e988f10",
-            "clue": "Bear fingernail",
-            "answer": "claw",
-            "normalized": "claw"
+            "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
+            "clue": "Corporate executive for sustainability, abbr.",
+            "answer": "cso",
+            "normalized": "cso"
           },
           {
-            "id": "e142c33f-aae3-4029-bf9a-0be55daa5935",
-            "clue": "Initialism for short tandem repeat, think DNA",
-            "answer": "str",
-            "normalized": "str"
+            "id": "226484d9-3fba-4c23-b072-a6250b212cf2",
+            "clue": "Barbie's boyfriend",
+            "answer": "ken",
+            "normalized": "ken"
           }
         ],
-        "track": "PC|LenC--Y2026M6D29F1"
+        "track": "PC|LenC--Y2026M6D30F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-29",
+      "key": "2026-06-30",
       "year": 2026,
       "month": 6,
-      "day": 29,
+      "day": 30,
       "small": {
-        "puzzleId": "a3a1ca3e-cbe9-4dbc-ad3e-e71c18167f67",
+        "puzzleId": "95f553d1-aec7-435b-8a9d-dc7754703337",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "7e7fb31c-3ee7-4409-bb86-70587dd1dccb",
-            "clue": "Play about Thomas More, __ for All Seasons",
-            "answer": "a man",
-            "normalized": "aman"
+            "id": "6e226fe8-ea41-452b-8756-c699726fa258",
+            "clue": "Seeds that hook onto clothes and animal fur",
+            "answer": "burs",
+            "normalized": "burs"
           },
           {
-            "id": "60225d80-4c80-47e1-a38f-dcf9e5727b5a",
-            "clue": "Soap opera star who hosts a morning show, Kelly __",
-            "answer": "ripa",
-            "normalized": "ripa"
+            "id": "2ae70f13-9a62-4703-bfc6-7d6044947a33",
+            "clue": "Thomas Hardy poem, __ Into My Glass",
+            "answer": "i look",
+            "normalized": "ilook"
           },
           {
-            "id": "bc38a111-e0d9-4028-8c9a-bb2b9ef0d9ea",
-            "clue": "Crunchy like lettuce",
-            "answer": "crisp",
-            "normalized": "crisp"
+            "id": "b6f560dc-e731-4e89-85a8-1350ffd20a6f",
+            "clue": "Set of clothing, maybe a special one for sharing",
+            "answer": "outfit",
+            "normalized": "outfit"
           },
           {
-            "id": "dfe43132-e664-4c62-aca8-3345f1fc044e",
-            "clue": "Touch and smell are examples",
-            "answer": "sense",
-            "normalized": "sense"
+            "id": "7b673ed9-86c4-41b3-8a0a-86ba0e24871e",
+            "clue": "Metal utensil usually used to shred cheese",
+            "answer": "grater",
+            "normalized": "grater"
           },
           {
-            "id": "d98c2d44-85c7-420a-a611-9c0fffb1ea58",
-            "clue": "Quickly skim over a document",
-            "answer": "scan",
-            "normalized": "scan"
+            "id": "23afb0a7-a67c-4474-b802-3fafff1e9247",
+            "clue": "Anatomical term for plural of womb",
+            "answer": "uteri",
+            "normalized": "uteri"
           },
           {
-            "id": "541edc13-a5bc-43d0-8eec-4fefa56d564c",
-            "clue": "An embrace with one's arms",
-            "answer": "hug",
-            "normalized": "hug"
+            "id": "5e9c3b1a-f82b-4f98-8e47-9a7dfe567648",
+            "clue": "Historic periods of time",
+            "answer": "eras",
+            "normalized": "eras"
           },
           {
-            "id": "861dafd2-62ad-416b-b7c2-543049655d46",
-            "clue": "Parts of the circumference of a circle; curves",
-            "answer": "arcs",
-            "normalized": "arcs"
+            "id": "0c59d185-f5db-4480-a262-71d71192ee80",
+            "clue": "Short word for a memoir",
+            "answer": "biog",
+            "normalized": "biog"
           },
           {
-            "id": "29464135-368c-45c3-9a7e-2b5efd79acad",
-            "clue": "Swampy areas",
-            "answer": "mires",
-            "normalized": "mires"
+            "id": "d04e37d5-6282-4ca8-b319-870c26f76538",
+            "clue": "Large Australian rock",
+            "answer": "uluru",
+            "normalized": "uluru"
           },
           {
-            "id": "760e8e9a-8eec-4c2f-b229-36907d7abfa2",
-            "clue": "Fingertip of salt people often put in a recipe",
-            "answer": "a pinch",
-            "normalized": "apinch"
+            "id": "d2424c76-452b-470f-b61f-13acd20c28ec",
+            "clue": "Pivot, spin, swivel",
+            "answer": "rotate",
+            "normalized": "rotate"
           },
           {
-            "id": "90c4954d-2260-4390-88f2-4fa3c8c778ec",
-            "clue": "Largest city in The Bahamas",
-            "answer": "nassau",
-            "normalized": "nassau"
+            "id": "d5c4a5d5-fb9f-4deb-a1bf-c947d7607846",
+            "clue": "Antonym of \"harder\"",
+            "answer": "softer",
+            "normalized": "softer"
           },
           {
-            "id": "79bf5833-894a-4f8c-9ec5-44dd447de88f",
-            "clue": "Chinese female tennis player Shuai",
-            "answer": "peng",
-            "normalized": "peng"
+            "id": "841456c9-340c-4853-8d75-2449288326dc",
+            "clue": "Actress-model granddaughter of Charlie Chaplin",
+            "answer": "kiera",
+            "normalized": "kiera"
+          },
+          {
+            "id": "6d05fca5-45b8-4e80-b84f-b9672a53248f",
+            "clue": "Main character in Divergent",
+            "answer": "tris",
+            "normalized": "tris"
           }
         ],
-        "track": "PC|LenC--Y2026M6D29F0"
+        "track": "PC|LenC--Y2026M6D30F0"
       },
       "mid": {
-        "puzzleId": "f469f582-de1c-43dd-9222-e0c6d82fa940",
+        "puzzleId": "1e50074e-2efc-490c-a1b4-92fe61811e4a",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "2dc3fa07-b697-4665-8cd4-a1ff2ccd7c13",
-            "clue": "Common word that goes before nouns",
-            "answer": "the",
-            "normalized": "the"
+            "id": "174acf97-fd36-47a5-9a49-2834735e663f",
+            "clue": "Not the present or the future",
+            "answer": "past",
+            "normalized": "past"
           },
           {
-            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
-            "clue": "High-speed computer storage with no moving parts",
-            "answer": "ssd",
-            "normalized": "ssd"
+            "id": "9c0121ef-0f9a-4833-a81c-b315c21ea4ce",
+            "clue": "Short for rich text format",
+            "answer": "rtf",
+            "normalized": "rtf"
           },
           {
-            "id": "b83b7eca-07a7-4259-b31a-3959c74955b5",
-            "clue": "Three letters that stand for end of message",
-            "answer": "eom",
-            "normalized": "eom"
+            "id": "d77d218f-89c5-4735-83e1-bcd0c3e31a79",
+            "clue": "Minor planetoid or __ Belt",
+            "answer": "asteroid",
+            "normalized": "asteroid"
           },
           {
-            "id": "88153154-da2f-40d6-b90d-09647e263566",
-            "clue": "Me, in French",
-            "answer": "moi",
-            "normalized": "moi"
+            "id": "ea36d94d-f251-4e51-b874-17f4765def34",
+            "clue": "A special magnetic charm or appeal",
+            "answer": "charisma",
+            "normalized": "charisma"
           },
           {
-            "id": "7b8bd0b9-5922-4237-b0a0-78b9442ff62d",
-            "clue": "Lines of Cancer or Capricorn",
-            "answer": "tropics",
-            "normalized": "tropics"
+            "id": "9bf84362-9795-4dbf-95bc-047bcd99c52d",
+            "clue": "__ over, like a puddle in winter",
+            "answer": "ices",
+            "normalized": "ices"
           },
           {
-            "id": "8c58fed9-ed7f-490b-98a3-ea4d14460a54",
-            "clue": "Medical term for inflammation of the ear",
-            "answer": "otitis",
-            "normalized": "otitis"
+            "id": "8d7a7148-0926-494b-ac5a-d0e05eeec8e6",
+            "clue": "In love with Beatrice in Much Ado About Nothing",
+            "answer": "benedick",
+            "normalized": "benedick"
           },
           {
-            "id": "a3c4a039-41be-4f0d-96e4-dc4e9c4b5271",
-            "clue": "Stereotype, overused phrase, expression",
-            "answer": "cliche",
-            "normalized": "cliche"
+            "id": "b48af0c3-4213-4cae-abf8-9e03fbd33afe",
+            "clue": "An attempt to make something untrue look real",
+            "answer": "pretense",
+            "normalized": "pretense"
           },
           {
-            "id": "5b0a08cc-a534-4622-a7a0-7cb8793562e7",
-            "clue": "They hold photos around the neck",
-            "answer": "lockets",
-            "normalized": "lockets"
+            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
+            "clue": "Angry",
+            "answer": "mad",
+            "normalized": "mad"
           },
           {
-            "id": "a838fd39-b5aa-4d50-8168-03e53e6223b9",
-            "clue": "Song American Pie starts \"A long, long time __\"",
-            "answer": "ago",
-            "normalized": "ago"
+            "id": "2e88cc78-1b01-4289-9ed2-f5a4ad38a745",
+            "clue": "Maned big cat",
+            "answer": "lion",
+            "normalized": "lion"
           },
           {
-            "id": "12baf334-d9a6-4669-8528-99bb123c5b3e",
-            "clue": "Mouse relative",
-            "answer": "rat",
-            "normalized": "rat"
+            "id": "6edfabac-dd70-4da2-82e7-91ae6527b31c",
+            "clue": "Classic yellow video game character __-Man",
+            "answer": "pac",
+            "normalized": "pac"
           },
           {
-            "id": "cbdbdb91-2767-47ed-9ed9-5a29fa1ec225",
-            "clue": "Old English letter equivalent to \"w\"",
-            "answer": "wyn",
-            "normalized": "wyn"
+            "id": "76d107da-feee-4ee2-9495-161e97db9113",
+            "clue": "Remains of a fire",
+            "answer": "ash",
+            "normalized": "ash"
           },
           {
-            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
-            "clue": "Camera with a particular kind of lens",
-            "answer": "slr",
-            "normalized": "slr"
+            "id": "fc655ffb-d890-448b-add7-375a1a0614c3",
+            "clue": "A soiled or discolored spot",
+            "answer": "stained",
+            "normalized": "stained"
           },
           {
-            "id": "8c4382a3-f00f-44d7-b57d-23b788cc9630",
-            "clue": "Vietnamese New Year",
-            "answer": "tet",
-            "normalized": "tet"
+            "id": "e1bfa42c-c4b2-4545-91af-edf9d4f5bc9b",
+            "clue": "A trio of verses or lines of poetry",
+            "answer": "tercet",
+            "normalized": "tercet"
           },
           {
-            "id": "24ae789b-8cf2-414b-94ee-5887dbe2cd21",
-            "clue": "The study and measurement of time",
-            "answer": "horology",
-            "normalized": "horology"
+            "id": "10c48222-55de-4413-b13b-e7cfaf67e493",
+            "clue": "Bellini alternative with strawberry",
+            "answer": "rossini",
+            "normalized": "rossini"
           },
           {
-            "id": "f3aa2e90-cae2-4ef8-99e3-db6736e3fa22",
-            "clue": "Icon used as a facial expression",
-            "answer": "emoticon",
-            "normalized": "emoticon"
+            "id": "87179e7c-b286-4756-bccf-ea446fb3758f",
+            "clue": "Burton, director of Corpse Bride and Beetlejuice",
+            "answer": "tim",
+            "normalized": "tim"
           },
           {
-            "id": "4ce502ec-1676-44e1-ada9-5c22137a9667",
-            "clue": "Mr. Burns' loyal assistant",
-            "answer": "smithers",
-            "normalized": "smithers"
+            "id": "0dd5179a-49b4-41e0-88f4-51da63967b6f",
+            "clue": "US agency tasked with protecting public health",
+            "answer": "fda",
+            "normalized": "fda"
           },
           {
-            "id": "65ef56ea-0fe6-4cb3-a555-e9bbec51ae40",
-            "clue": "Relating to the people as a community",
-            "answer": "societal",
-            "normalized": "societal"
+            "id": "12ca6525-e8fd-4608-83a1-05ba1ef412b7",
+            "clue": "Maker of glasses shaped for specific wines",
+            "answer": "riedel",
+            "normalized": "riedel"
           },
           {
-            "id": "78f8de05-1ec7-48c2-b621-70d9a942aa73",
-            "clue": "Insult, especially in the world of hip-hop",
-            "answer": "diss",
-            "normalized": "diss"
+            "id": "3ac07d9b-aa9c-4468-a051-d6f20fc36efd",
+            "clue": "Tempo measurement",
+            "answer": "bpm",
+            "normalized": "bpm"
           },
           {
-            "id": "cd93dcdc-ea0e-43e7-b398-cfefa821999d",
-            "clue": "__ one's nose with a finger to clean it",
-            "answer": "pick",
-            "normalized": "pick"
+            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
+            "clue": "Distinct stage in history or evolution",
+            "answer": "era",
+            "normalized": "era"
           },
           {
-            "id": "66697691-6d8a-49f2-9ea4-a50a8e988f10",
-            "clue": "Bear fingernail",
-            "answer": "claw",
-            "normalized": "claw"
+            "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
+            "clue": "Corporate executive for sustainability, abbr.",
+            "answer": "cso",
+            "normalized": "cso"
           },
           {
-            "id": "e142c33f-aae3-4029-bf9a-0be55daa5935",
-            "clue": "Initialism for short tandem repeat, think DNA",
-            "answer": "str",
-            "normalized": "str"
+            "id": "226484d9-3fba-4c23-b072-a6250b212cf2",
+            "clue": "Barbie's boyfriend",
+            "answer": "ken",
+            "normalized": "ken"
           }
         ],
-        "track": "PC|LenC--Y2026M6D29F1"
+        "track": "PC|LenC--Y2026M6D30F1"
       }
     },
     "latestAvailableEntry": {
@@ -422005,21 +422017,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "wuK9ms3kqel5horAqpGAh+7kgZJ1JHQrnA78DkopZ9K+wHKbFhHi4RmCRUGNFfQ/RK0ksg0eRxzUhxhwpjA0pb49fsvLHBY6iV93BZp4W1dCmeHXm/hKCR9kFOi/2eHzWj9ihR9eTPVCG1EZuGh8lmPlrTjy74uktpjESqI236vjzmrZJdb510F0wOc0LsrlE/LEJnOJO2rrl2NwDldsi7Jw/jxApO91AnbOkEKTqoc//9oGNyO9hkpZUmAMu43aTU0yXjH7u67jI8WfHttepBeY1OK3d88mOjmmc0l4kxA="
+        "d8jAL7CIlBt1at/pESDHAzarypBwt3cJjZFDNxx2xS5hjAvqbWLcy3iaeY9dgJtOaJel7OXgiDR4zq8s22I3vI4GIhZsH5WDZ43dn6lhbb8Gnzv5TY3THsjC/g546rIl4AAD+YrICeqn54397HNbdI2naDiCG4E4lZfj8dZr5ZttK7AkdXbppT/5XaqmtjuIMsv0ceLFJ9/BiDLwBsxyTP0ZG2G05OoWFpB7gXvnWm8qZgbJNoBaOVeuwIsUQZ2wFuCsZvYWSJzEKPy2AE2jybWXBH3BzEDGtRO6Wm7w/rI="
       ]
     },
     "decrypted": {
-      "Id": "070c8e1e-1009-44f3-abf6-c03acd4ee5e0",
-      "Date": "2026-06-29T00:00:00Z",
+      "Id": "ec777566-219a-406a-85a3-f590a40277fe",
+      "Date": "2026-06-30T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "would",
-      "NormalizedPassword": "would",
+      "Password": "rhino",
+      "NormalizedPassword": "rhino",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-29T01:20:59.3280000+05:30",
-    "hash": "04bbdb7d4ac01693f3f1064dbbd632f7",
+    "dtu": "2026-06-30T01:50:15.8070000+05:30",
+    "hash": "ead29780a5942cb539b58841baf2439f",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
