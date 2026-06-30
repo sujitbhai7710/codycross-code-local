@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-29T20:20:15.807Z",
+  "generatedAt": "2026-06-30T20:26:04.512Z",
   "today": {
     "year": 2026,
-    "month": 6,
-    "day": 30
+    "month": 7,
+    "day": 1
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 56
+        "QuantidadeDeFases": 58
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -393,6 +393,242 @@
       }
     ],
     "archiveEntries": [
+      {
+        "key": "2026-07-01",
+        "year": 2026,
+        "month": 7,
+        "day": 1,
+        "small": {
+          "puzzleId": "PC|LenC--Y2026M7D1F0",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
+              "clue": "The number of toes most people have",
+              "answer": "ten",
+              "normalized": "ten"
+            },
+            {
+              "id": "1e4c7748-36cc-4b7a-b4a4-99fe4936148e",
+              "clue": "Bob Marley's musical style, originating in Jamaica",
+              "answer": "reggae",
+              "normalized": "reggae"
+            },
+            {
+              "id": "064a74dc-17bd-4ffd-a288-673f67f7120e",
+              "clue": "Get up from lying or sitting; move forward",
+              "answer": "uprise",
+              "normalized": "uprise"
+            },
+            {
+              "id": "bf1493a4-423e-4b0a-bd6c-3fb6564a66f2",
+              "clue": "Moaned, complained, like a bovine",
+              "answer": "beefed",
+              "normalized": "beefed"
+            },
+            {
+              "id": "6d295b16-de7f-4781-b921-307b124b8c64",
+              "clue": "Evergreen tree, Taxus baccata, used in archery",
+              "answer": "yew",
+              "normalized": "yew"
+            },
+            {
+              "id": "fa8681ff-b3cb-4b99-bba3-80240e5dac82",
+              "clue": "Celebrating the end of the workweek",
+              "answer": "tgif",
+              "normalized": "tgif"
+            },
+            {
+              "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
+              "clue": "Relieve pain or tightness",
+              "answer": "ease",
+              "normalized": "ease"
+            },
+            {
+              "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
+              "clue": "Require, necessitate",
+              "answer": "need",
+              "normalized": "need"
+            },
+            {
+              "id": "c65707b2-6bda-4a6c-9632-8da6da9f8574",
+              "clue": "Red birthstone of July",
+              "answer": "ruby",
+              "normalized": "ruby"
+            },
+            {
+              "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
+              "clue": "One of three types of sword used in fencing",
+              "answer": "epee",
+              "normalized": "epee"
+            },
+            {
+              "id": "0b5fd126-5d3a-4a40-aadb-08e094c8eb4a",
+              "clue": "Got bigger",
+              "answer": "grew",
+              "normalized": "grew"
+            }
+          ],
+          "track": "PC|LenC--Y2026M7D1F0"
+        },
+        "mid": {
+          "puzzleId": "PC|LenC--Y2026M7D1F1",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "c13292e2-b9a9-49c7-ae3b-c028a823a84e",
+              "clue": "Leader of a monastery",
+              "answer": "abbot",
+              "normalized": "abbot"
+            },
+            {
+              "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
+              "clue": "Crude name for a male donkey, comes after \"jack\"",
+              "answer": "ass",
+              "normalized": "ass"
+            },
+            {
+              "id": "39428386-f0d8-4776-bc77-8bc9934b93f6",
+              "clue": "Blue __ Shoes, first track on Elvis's debut record",
+              "answer": "suede",
+              "normalized": "suede"
+            },
+            {
+              "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
+              "clue": "One way to abbreviate \"see you tomorrow\" in a text",
+              "answer": "cyt",
+              "normalized": "cyt"
+            },
+            {
+              "id": "21b893d6-9f2a-4981-bac1-3564dbd98e33",
+              "clue": "The Black Jack is a large __ tropical fish",
+              "answer": "predatory",
+              "normalized": "predatory"
+            },
+            {
+              "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
+              "clue": "Web address",
+              "answer": "url",
+              "normalized": "url"
+            },
+            {
+              "id": "d629f766-2973-447c-a36e-582184ec4c4d",
+              "clue": "Often chanted three times at sporting matches",
+              "answer": "ole",
+              "normalized": "ole"
+            },
+            {
+              "id": "b18266b8-34de-422b-a865-e0bb6e3a928b",
+              "clue": "Chris Pratt's Parks and Rec character",
+              "answer": "andy dwyer",
+              "normalized": "andydwyer"
+            },
+            {
+              "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
+              "clue": "Non-disclosure agreement, in short",
+              "answer": "nda",
+              "normalized": "nda"
+            },
+            {
+              "id": "e5d9586e-93f1-4025-8873-51f3d798d49d",
+              "clue": "Frederiksen, re-elected Danish PM in November 2022",
+              "answer": "mette",
+              "normalized": "mette"
+            },
+            {
+              "id": "dfffad4b-a2cd-4a62-855d-b71010ad49b8",
+              "clue": "A reno project you complete without help",
+              "answer": "diy",
+              "normalized": "diy"
+            },
+            {
+              "id": "d7f87cd8-1a19-480e-8639-c4a682d3a482",
+              "clue": "Spotless, not dirty",
+              "answer": "clean",
+              "normalized": "clean"
+            },
+            {
+              "id": "981b7eea-2237-46a4-9818-453d17ee9053",
+              "clue": "Its bite is said to have killed Cleopatra",
+              "answer": "asp",
+              "normalized": "asp"
+            },
+            {
+              "id": "dfadb792-870f-4d27-a22c-bbbd75b1a142",
+              "clue": "African country, home to Lake Tanganyika",
+              "answer": "burundi",
+              "normalized": "burundi"
+            },
+            {
+              "id": "7e2fe762-cea3-4ad9-abf1-55b49483854e",
+              "clue": "Icelandic annual ale celebration",
+              "answer": "beer day",
+              "normalized": "beerday"
+            },
+            {
+              "id": "2a511865-5ef3-4842-894e-ca969e62b655",
+              "clue": "Strangely or unusually",
+              "answer": "oddly",
+              "normalized": "oddly"
+            },
+            {
+              "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
+              "clue": "Leafy drink",
+              "answer": "tea",
+              "normalized": "tea"
+            },
+            {
+              "id": "7516d0ce-778d-42aa-951a-9e066add13cd",
+              "clue": "Assistant, retainer",
+              "answer": "acolyte",
+              "normalized": "acolyte"
+            },
+            {
+              "id": "394edcf2-e350-4f55-ad95-d70c51d8d68f",
+              "clue": "Rita Wright, who sang With You I'm Born Again",
+              "answer": "syreeta",
+              "normalized": "syreeta"
+            },
+            {
+              "id": "4b2d2994-6214-4922-aa51-88935ce83873",
+              "clue": "A pigpen",
+              "answer": "sty",
+              "normalized": "sty"
+            },
+            {
+              "id": "a4f4987d-1da6-4f6a-a825-36c3a97af0af",
+              "clue": "What most of us dry off with after a shower",
+              "answer": "towel",
+              "normalized": "towel"
+            },
+            {
+              "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
+              "clue": "The word that an ampersand stands in for",
+              "answer": "and",
+              "normalized": "and"
+            },
+            {
+              "id": "b8e246c1-9054-4490-b830-203a614665e3",
+              "clue": "It's Like That band, Run-__",
+              "answer": "dmc",
+              "normalized": "dmc"
+            },
+            {
+              "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+              "clue": "Cartoon Chihuahua paired with cat Stimpy",
+              "answer": "ren",
+              "normalized": "ren"
+            }
+          ],
+          "track": "PC|LenC--Y2026M7D1F1"
+        }
+      },
       {
         "key": "2026-06-30",
         "year": 2026,
@@ -116957,7 +117193,7 @@
             },
             {
               "id": "16d84c12-7b65-4c08-9ca3-df07d99c39d2",
-              "clue": "Short form of Kilometers per Hour",
+              "clue": "Short form of kilometres per Hour",
               "answer": "kph",
               "normalized": "kph"
             },
@@ -148070,7 +148306,7 @@
             },
             {
               "id": "16d84c12-7b65-4c08-9ca3-df07d99c39d2",
-              "clue": "Short form of Kilometers per Hour",
+              "clue": "Short form of kilometres per Hour",
               "answer": "kph",
               "normalized": "kph"
             },
@@ -158427,7 +158663,7 @@
             },
             {
               "id": "16d84c12-7b65-4c08-9ca3-df07d99c39d2",
-              "clue": "Short form of Kilometers per Hour",
+              "clue": "Short form of kilometres per Hour",
               "answer": "kph",
               "normalized": "kph"
             },
@@ -234123,7 +234359,7 @@
             },
             {
               "id": "16d84c12-7b65-4c08-9ca3-df07d99c39d2",
-              "clue": "Short form of Kilometers per Hour",
+              "clue": "Short form of kilometres per Hour",
               "answer": "kph",
               "normalized": "kph"
             },
@@ -421337,675 +421573,711 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-06-30",
+      "key": "2026-07-01",
       "year": 2026,
-      "month": 6,
-      "day": 30,
+      "month": 7,
+      "day": 1,
       "small": {
-        "puzzleId": "95f553d1-aec7-435b-8a9d-dc7754703337",
+        "puzzleId": "PC|LenC--Y2026M7D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 0,
         "answers": [
           {
-            "id": "6e226fe8-ea41-452b-8756-c699726fa258",
-            "clue": "Seeds that hook onto clothes and animal fur",
-            "answer": "burs",
-            "normalized": "burs"
+            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
+            "clue": "The number of toes most people have",
+            "answer": "ten",
+            "normalized": "ten"
           },
           {
-            "id": "2ae70f13-9a62-4703-bfc6-7d6044947a33",
-            "clue": "Thomas Hardy poem, __ Into My Glass",
-            "answer": "i look",
-            "normalized": "ilook"
+            "id": "1e4c7748-36cc-4b7a-b4a4-99fe4936148e",
+            "clue": "Bob Marley's musical style, originating in Jamaica",
+            "answer": "reggae",
+            "normalized": "reggae"
           },
           {
-            "id": "b6f560dc-e731-4e89-85a8-1350ffd20a6f",
-            "clue": "Set of clothing, maybe a special one for sharing",
-            "answer": "outfit",
-            "normalized": "outfit"
+            "id": "064a74dc-17bd-4ffd-a288-673f67f7120e",
+            "clue": "Get up from lying or sitting; move forward",
+            "answer": "uprise",
+            "normalized": "uprise"
           },
           {
-            "id": "7b673ed9-86c4-41b3-8a0a-86ba0e24871e",
-            "clue": "Metal utensil usually used to shred cheese",
-            "answer": "grater",
-            "normalized": "grater"
+            "id": "bf1493a4-423e-4b0a-bd6c-3fb6564a66f2",
+            "clue": "Moaned, complained, like a bovine",
+            "answer": "beefed",
+            "normalized": "beefed"
           },
           {
-            "id": "23afb0a7-a67c-4474-b802-3fafff1e9247",
-            "clue": "Anatomical term for plural of womb",
-            "answer": "uteri",
-            "normalized": "uteri"
+            "id": "6d295b16-de7f-4781-b921-307b124b8c64",
+            "clue": "Evergreen tree, Taxus baccata, used in archery",
+            "answer": "yew",
+            "normalized": "yew"
           },
           {
-            "id": "5e9c3b1a-f82b-4f98-8e47-9a7dfe567648",
-            "clue": "Historic periods of time",
-            "answer": "eras",
-            "normalized": "eras"
+            "id": "fa8681ff-b3cb-4b99-bba3-80240e5dac82",
+            "clue": "Celebrating the end of the workweek",
+            "answer": "tgif",
+            "normalized": "tgif"
           },
           {
-            "id": "0c59d185-f5db-4480-a262-71d71192ee80",
-            "clue": "Short word for a memoir",
-            "answer": "biog",
-            "normalized": "biog"
+            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
+            "clue": "Relieve pain or tightness",
+            "answer": "ease",
+            "normalized": "ease"
           },
           {
-            "id": "d04e37d5-6282-4ca8-b319-870c26f76538",
-            "clue": "Large Australian rock",
-            "answer": "uluru",
-            "normalized": "uluru"
+            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
+            "clue": "Require, necessitate",
+            "answer": "need",
+            "normalized": "need"
           },
           {
-            "id": "d2424c76-452b-470f-b61f-13acd20c28ec",
-            "clue": "Pivot, spin, swivel",
-            "answer": "rotate",
-            "normalized": "rotate"
+            "id": "c65707b2-6bda-4a6c-9632-8da6da9f8574",
+            "clue": "Red birthstone of July",
+            "answer": "ruby",
+            "normalized": "ruby"
           },
           {
-            "id": "d5c4a5d5-fb9f-4deb-a1bf-c947d7607846",
-            "clue": "Antonym of \"harder\"",
-            "answer": "softer",
-            "normalized": "softer"
+            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
+            "clue": "One of three types of sword used in fencing",
+            "answer": "epee",
+            "normalized": "epee"
           },
           {
-            "id": "841456c9-340c-4853-8d75-2449288326dc",
-            "clue": "Actress-model granddaughter of Charlie Chaplin",
-            "answer": "kiera",
-            "normalized": "kiera"
-          },
-          {
-            "id": "6d05fca5-45b8-4e80-b84f-b9672a53248f",
-            "clue": "Main character in Divergent",
-            "answer": "tris",
-            "normalized": "tris"
+            "id": "0b5fd126-5d3a-4a40-aadb-08e094c8eb4a",
+            "clue": "Got bigger",
+            "answer": "grew",
+            "normalized": "grew"
           }
         ],
-        "track": "PC|LenC--Y2026M6D30F0"
+        "track": "PC|LenC--Y2026M7D1F0"
       },
       "mid": {
-        "puzzleId": "1e50074e-2efc-490c-a1b4-92fe61811e4a",
+        "puzzleId": "PC|LenC--Y2026M7D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 0,
         "answers": [
           {
-            "id": "174acf97-fd36-47a5-9a49-2834735e663f",
-            "clue": "Not the present or the future",
-            "answer": "past",
-            "normalized": "past"
+            "id": "c13292e2-b9a9-49c7-ae3b-c028a823a84e",
+            "clue": "Leader of a monastery",
+            "answer": "abbot",
+            "normalized": "abbot"
           },
           {
-            "id": "9c0121ef-0f9a-4833-a81c-b315c21ea4ce",
-            "clue": "Short for rich text format",
-            "answer": "rtf",
-            "normalized": "rtf"
+            "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
+            "clue": "Crude name for a male donkey, comes after \"jack\"",
+            "answer": "ass",
+            "normalized": "ass"
           },
           {
-            "id": "d77d218f-89c5-4735-83e1-bcd0c3e31a79",
-            "clue": "Minor planetoid or __ Belt",
-            "answer": "asteroid",
-            "normalized": "asteroid"
+            "id": "39428386-f0d8-4776-bc77-8bc9934b93f6",
+            "clue": "Blue __ Shoes, first track on Elvis's debut record",
+            "answer": "suede",
+            "normalized": "suede"
           },
           {
-            "id": "ea36d94d-f251-4e51-b874-17f4765def34",
-            "clue": "A special magnetic charm or appeal",
-            "answer": "charisma",
-            "normalized": "charisma"
+            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
+            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
+            "answer": "cyt",
+            "normalized": "cyt"
           },
           {
-            "id": "9bf84362-9795-4dbf-95bc-047bcd99c52d",
-            "clue": "__ over, like a puddle in winter",
-            "answer": "ices",
-            "normalized": "ices"
+            "id": "21b893d6-9f2a-4981-bac1-3564dbd98e33",
+            "clue": "The Black Jack is a large __ tropical fish",
+            "answer": "predatory",
+            "normalized": "predatory"
           },
           {
-            "id": "8d7a7148-0926-494b-ac5a-d0e05eeec8e6",
-            "clue": "In love with Beatrice in Much Ado About Nothing",
-            "answer": "benedick",
-            "normalized": "benedick"
+            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
+            "clue": "Web address",
+            "answer": "url",
+            "normalized": "url"
           },
           {
-            "id": "b48af0c3-4213-4cae-abf8-9e03fbd33afe",
-            "clue": "An attempt to make something untrue look real",
-            "answer": "pretense",
-            "normalized": "pretense"
+            "id": "d629f766-2973-447c-a36e-582184ec4c4d",
+            "clue": "Often chanted three times at sporting matches",
+            "answer": "ole",
+            "normalized": "ole"
           },
           {
-            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
-            "clue": "Angry",
-            "answer": "mad",
-            "normalized": "mad"
+            "id": "b18266b8-34de-422b-a865-e0bb6e3a928b",
+            "clue": "Chris Pratt's Parks and Rec character",
+            "answer": "andy dwyer",
+            "normalized": "andydwyer"
           },
           {
-            "id": "2e88cc78-1b01-4289-9ed2-f5a4ad38a745",
-            "clue": "Maned big cat",
-            "answer": "lion",
-            "normalized": "lion"
+            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
+            "clue": "Non-disclosure agreement, in short",
+            "answer": "nda",
+            "normalized": "nda"
           },
           {
-            "id": "6edfabac-dd70-4da2-82e7-91ae6527b31c",
-            "clue": "Classic yellow video game character __-Man",
-            "answer": "pac",
-            "normalized": "pac"
+            "id": "e5d9586e-93f1-4025-8873-51f3d798d49d",
+            "clue": "Frederiksen, re-elected Danish PM in November 2022",
+            "answer": "mette",
+            "normalized": "mette"
           },
           {
-            "id": "76d107da-feee-4ee2-9495-161e97db9113",
-            "clue": "Remains of a fire",
-            "answer": "ash",
-            "normalized": "ash"
+            "id": "dfffad4b-a2cd-4a62-855d-b71010ad49b8",
+            "clue": "A reno project you complete without help",
+            "answer": "diy",
+            "normalized": "diy"
           },
           {
-            "id": "fc655ffb-d890-448b-add7-375a1a0614c3",
-            "clue": "A soiled or discolored spot",
-            "answer": "stained",
-            "normalized": "stained"
+            "id": "d7f87cd8-1a19-480e-8639-c4a682d3a482",
+            "clue": "Spotless, not dirty",
+            "answer": "clean",
+            "normalized": "clean"
           },
           {
-            "id": "e1bfa42c-c4b2-4545-91af-edf9d4f5bc9b",
-            "clue": "A trio of verses or lines of poetry",
-            "answer": "tercet",
-            "normalized": "tercet"
+            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
+            "clue": "Its bite is said to have killed Cleopatra",
+            "answer": "asp",
+            "normalized": "asp"
           },
           {
-            "id": "10c48222-55de-4413-b13b-e7cfaf67e493",
-            "clue": "Bellini alternative with strawberry",
-            "answer": "rossini",
-            "normalized": "rossini"
+            "id": "dfadb792-870f-4d27-a22c-bbbd75b1a142",
+            "clue": "African country, home to Lake Tanganyika",
+            "answer": "burundi",
+            "normalized": "burundi"
           },
           {
-            "id": "87179e7c-b286-4756-bccf-ea446fb3758f",
-            "clue": "Burton, director of Corpse Bride and Beetlejuice",
-            "answer": "tim",
-            "normalized": "tim"
+            "id": "7e2fe762-cea3-4ad9-abf1-55b49483854e",
+            "clue": "Icelandic annual ale celebration",
+            "answer": "beer day",
+            "normalized": "beerday"
           },
           {
-            "id": "0dd5179a-49b4-41e0-88f4-51da63967b6f",
-            "clue": "US agency tasked with protecting public health",
-            "answer": "fda",
-            "normalized": "fda"
+            "id": "2a511865-5ef3-4842-894e-ca969e62b655",
+            "clue": "Strangely or unusually",
+            "answer": "oddly",
+            "normalized": "oddly"
           },
           {
-            "id": "12ca6525-e8fd-4608-83a1-05ba1ef412b7",
-            "clue": "Maker of glasses shaped for specific wines",
-            "answer": "riedel",
-            "normalized": "riedel"
+            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
+            "clue": "Leafy drink",
+            "answer": "tea",
+            "normalized": "tea"
           },
           {
-            "id": "3ac07d9b-aa9c-4468-a051-d6f20fc36efd",
-            "clue": "Tempo measurement",
-            "answer": "bpm",
-            "normalized": "bpm"
+            "id": "7516d0ce-778d-42aa-951a-9e066add13cd",
+            "clue": "Assistant, retainer",
+            "answer": "acolyte",
+            "normalized": "acolyte"
           },
           {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
+            "id": "394edcf2-e350-4f55-ad95-d70c51d8d68f",
+            "clue": "Rita Wright, who sang With You I'm Born Again",
+            "answer": "syreeta",
+            "normalized": "syreeta"
           },
           {
-            "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-            "clue": "Corporate executive for sustainability, abbr.",
-            "answer": "cso",
-            "normalized": "cso"
+            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
+            "clue": "A pigpen",
+            "answer": "sty",
+            "normalized": "sty"
           },
           {
-            "id": "226484d9-3fba-4c23-b072-a6250b212cf2",
-            "clue": "Barbie's boyfriend",
-            "answer": "ken",
-            "normalized": "ken"
+            "id": "a4f4987d-1da6-4f6a-a825-36c3a97af0af",
+            "clue": "What most of us dry off with after a shower",
+            "answer": "towel",
+            "normalized": "towel"
+          },
+          {
+            "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
+            "clue": "The word that an ampersand stands in for",
+            "answer": "and",
+            "normalized": "and"
+          },
+          {
+            "id": "b8e246c1-9054-4490-b830-203a614665e3",
+            "clue": "It's Like That band, Run-__",
+            "answer": "dmc",
+            "normalized": "dmc"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
           }
         ],
-        "track": "PC|LenC--Y2026M6D30F1"
+        "track": "PC|LenC--Y2026M7D1F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-06-30",
+      "key": "2026-07-01",
       "year": 2026,
-      "month": 6,
-      "day": 30,
+      "month": 7,
+      "day": 1,
       "small": {
-        "puzzleId": "95f553d1-aec7-435b-8a9d-dc7754703337",
+        "puzzleId": "PC|LenC--Y2026M7D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 0,
         "answers": [
           {
-            "id": "6e226fe8-ea41-452b-8756-c699726fa258",
-            "clue": "Seeds that hook onto clothes and animal fur",
-            "answer": "burs",
-            "normalized": "burs"
+            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
+            "clue": "The number of toes most people have",
+            "answer": "ten",
+            "normalized": "ten"
           },
           {
-            "id": "2ae70f13-9a62-4703-bfc6-7d6044947a33",
-            "clue": "Thomas Hardy poem, __ Into My Glass",
-            "answer": "i look",
-            "normalized": "ilook"
+            "id": "1e4c7748-36cc-4b7a-b4a4-99fe4936148e",
+            "clue": "Bob Marley's musical style, originating in Jamaica",
+            "answer": "reggae",
+            "normalized": "reggae"
           },
           {
-            "id": "b6f560dc-e731-4e89-85a8-1350ffd20a6f",
-            "clue": "Set of clothing, maybe a special one for sharing",
-            "answer": "outfit",
-            "normalized": "outfit"
+            "id": "064a74dc-17bd-4ffd-a288-673f67f7120e",
+            "clue": "Get up from lying or sitting; move forward",
+            "answer": "uprise",
+            "normalized": "uprise"
           },
           {
-            "id": "7b673ed9-86c4-41b3-8a0a-86ba0e24871e",
-            "clue": "Metal utensil usually used to shred cheese",
-            "answer": "grater",
-            "normalized": "grater"
+            "id": "bf1493a4-423e-4b0a-bd6c-3fb6564a66f2",
+            "clue": "Moaned, complained, like a bovine",
+            "answer": "beefed",
+            "normalized": "beefed"
           },
           {
-            "id": "23afb0a7-a67c-4474-b802-3fafff1e9247",
-            "clue": "Anatomical term for plural of womb",
-            "answer": "uteri",
-            "normalized": "uteri"
+            "id": "6d295b16-de7f-4781-b921-307b124b8c64",
+            "clue": "Evergreen tree, Taxus baccata, used in archery",
+            "answer": "yew",
+            "normalized": "yew"
           },
           {
-            "id": "5e9c3b1a-f82b-4f98-8e47-9a7dfe567648",
-            "clue": "Historic periods of time",
-            "answer": "eras",
-            "normalized": "eras"
+            "id": "fa8681ff-b3cb-4b99-bba3-80240e5dac82",
+            "clue": "Celebrating the end of the workweek",
+            "answer": "tgif",
+            "normalized": "tgif"
           },
           {
-            "id": "0c59d185-f5db-4480-a262-71d71192ee80",
-            "clue": "Short word for a memoir",
-            "answer": "biog",
-            "normalized": "biog"
+            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
+            "clue": "Relieve pain or tightness",
+            "answer": "ease",
+            "normalized": "ease"
           },
           {
-            "id": "d04e37d5-6282-4ca8-b319-870c26f76538",
-            "clue": "Large Australian rock",
-            "answer": "uluru",
-            "normalized": "uluru"
+            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
+            "clue": "Require, necessitate",
+            "answer": "need",
+            "normalized": "need"
           },
           {
-            "id": "d2424c76-452b-470f-b61f-13acd20c28ec",
-            "clue": "Pivot, spin, swivel",
-            "answer": "rotate",
-            "normalized": "rotate"
+            "id": "c65707b2-6bda-4a6c-9632-8da6da9f8574",
+            "clue": "Red birthstone of July",
+            "answer": "ruby",
+            "normalized": "ruby"
           },
           {
-            "id": "d5c4a5d5-fb9f-4deb-a1bf-c947d7607846",
-            "clue": "Antonym of \"harder\"",
-            "answer": "softer",
-            "normalized": "softer"
+            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
+            "clue": "One of three types of sword used in fencing",
+            "answer": "epee",
+            "normalized": "epee"
           },
           {
-            "id": "841456c9-340c-4853-8d75-2449288326dc",
-            "clue": "Actress-model granddaughter of Charlie Chaplin",
-            "answer": "kiera",
-            "normalized": "kiera"
-          },
-          {
-            "id": "6d05fca5-45b8-4e80-b84f-b9672a53248f",
-            "clue": "Main character in Divergent",
-            "answer": "tris",
-            "normalized": "tris"
+            "id": "0b5fd126-5d3a-4a40-aadb-08e094c8eb4a",
+            "clue": "Got bigger",
+            "answer": "grew",
+            "normalized": "grew"
           }
         ],
-        "track": "PC|LenC--Y2026M6D30F0"
+        "track": "PC|LenC--Y2026M7D1F0"
       },
       "mid": {
-        "puzzleId": "1e50074e-2efc-490c-a1b4-92fe61811e4a",
+        "puzzleId": "PC|LenC--Y2026M7D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 0,
         "answers": [
           {
-            "id": "174acf97-fd36-47a5-9a49-2834735e663f",
-            "clue": "Not the present or the future",
-            "answer": "past",
-            "normalized": "past"
+            "id": "c13292e2-b9a9-49c7-ae3b-c028a823a84e",
+            "clue": "Leader of a monastery",
+            "answer": "abbot",
+            "normalized": "abbot"
           },
           {
-            "id": "9c0121ef-0f9a-4833-a81c-b315c21ea4ce",
-            "clue": "Short for rich text format",
-            "answer": "rtf",
-            "normalized": "rtf"
+            "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
+            "clue": "Crude name for a male donkey, comes after \"jack\"",
+            "answer": "ass",
+            "normalized": "ass"
           },
           {
-            "id": "d77d218f-89c5-4735-83e1-bcd0c3e31a79",
-            "clue": "Minor planetoid or __ Belt",
-            "answer": "asteroid",
-            "normalized": "asteroid"
+            "id": "39428386-f0d8-4776-bc77-8bc9934b93f6",
+            "clue": "Blue __ Shoes, first track on Elvis's debut record",
+            "answer": "suede",
+            "normalized": "suede"
           },
           {
-            "id": "ea36d94d-f251-4e51-b874-17f4765def34",
-            "clue": "A special magnetic charm or appeal",
-            "answer": "charisma",
-            "normalized": "charisma"
+            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
+            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
+            "answer": "cyt",
+            "normalized": "cyt"
           },
           {
-            "id": "9bf84362-9795-4dbf-95bc-047bcd99c52d",
-            "clue": "__ over, like a puddle in winter",
-            "answer": "ices",
-            "normalized": "ices"
+            "id": "21b893d6-9f2a-4981-bac1-3564dbd98e33",
+            "clue": "The Black Jack is a large __ tropical fish",
+            "answer": "predatory",
+            "normalized": "predatory"
           },
           {
-            "id": "8d7a7148-0926-494b-ac5a-d0e05eeec8e6",
-            "clue": "In love with Beatrice in Much Ado About Nothing",
-            "answer": "benedick",
-            "normalized": "benedick"
+            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
+            "clue": "Web address",
+            "answer": "url",
+            "normalized": "url"
           },
           {
-            "id": "b48af0c3-4213-4cae-abf8-9e03fbd33afe",
-            "clue": "An attempt to make something untrue look real",
-            "answer": "pretense",
-            "normalized": "pretense"
+            "id": "d629f766-2973-447c-a36e-582184ec4c4d",
+            "clue": "Often chanted three times at sporting matches",
+            "answer": "ole",
+            "normalized": "ole"
           },
           {
-            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
-            "clue": "Angry",
-            "answer": "mad",
-            "normalized": "mad"
+            "id": "b18266b8-34de-422b-a865-e0bb6e3a928b",
+            "clue": "Chris Pratt's Parks and Rec character",
+            "answer": "andy dwyer",
+            "normalized": "andydwyer"
           },
           {
-            "id": "2e88cc78-1b01-4289-9ed2-f5a4ad38a745",
-            "clue": "Maned big cat",
-            "answer": "lion",
-            "normalized": "lion"
+            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
+            "clue": "Non-disclosure agreement, in short",
+            "answer": "nda",
+            "normalized": "nda"
           },
           {
-            "id": "6edfabac-dd70-4da2-82e7-91ae6527b31c",
-            "clue": "Classic yellow video game character __-Man",
-            "answer": "pac",
-            "normalized": "pac"
+            "id": "e5d9586e-93f1-4025-8873-51f3d798d49d",
+            "clue": "Frederiksen, re-elected Danish PM in November 2022",
+            "answer": "mette",
+            "normalized": "mette"
           },
           {
-            "id": "76d107da-feee-4ee2-9495-161e97db9113",
-            "clue": "Remains of a fire",
-            "answer": "ash",
-            "normalized": "ash"
+            "id": "dfffad4b-a2cd-4a62-855d-b71010ad49b8",
+            "clue": "A reno project you complete without help",
+            "answer": "diy",
+            "normalized": "diy"
           },
           {
-            "id": "fc655ffb-d890-448b-add7-375a1a0614c3",
-            "clue": "A soiled or discolored spot",
-            "answer": "stained",
-            "normalized": "stained"
+            "id": "d7f87cd8-1a19-480e-8639-c4a682d3a482",
+            "clue": "Spotless, not dirty",
+            "answer": "clean",
+            "normalized": "clean"
           },
           {
-            "id": "e1bfa42c-c4b2-4545-91af-edf9d4f5bc9b",
-            "clue": "A trio of verses or lines of poetry",
-            "answer": "tercet",
-            "normalized": "tercet"
+            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
+            "clue": "Its bite is said to have killed Cleopatra",
+            "answer": "asp",
+            "normalized": "asp"
           },
           {
-            "id": "10c48222-55de-4413-b13b-e7cfaf67e493",
-            "clue": "Bellini alternative with strawberry",
-            "answer": "rossini",
-            "normalized": "rossini"
+            "id": "dfadb792-870f-4d27-a22c-bbbd75b1a142",
+            "clue": "African country, home to Lake Tanganyika",
+            "answer": "burundi",
+            "normalized": "burundi"
           },
           {
-            "id": "87179e7c-b286-4756-bccf-ea446fb3758f",
-            "clue": "Burton, director of Corpse Bride and Beetlejuice",
-            "answer": "tim",
-            "normalized": "tim"
+            "id": "7e2fe762-cea3-4ad9-abf1-55b49483854e",
+            "clue": "Icelandic annual ale celebration",
+            "answer": "beer day",
+            "normalized": "beerday"
           },
           {
-            "id": "0dd5179a-49b4-41e0-88f4-51da63967b6f",
-            "clue": "US agency tasked with protecting public health",
-            "answer": "fda",
-            "normalized": "fda"
+            "id": "2a511865-5ef3-4842-894e-ca969e62b655",
+            "clue": "Strangely or unusually",
+            "answer": "oddly",
+            "normalized": "oddly"
           },
           {
-            "id": "12ca6525-e8fd-4608-83a1-05ba1ef412b7",
-            "clue": "Maker of glasses shaped for specific wines",
-            "answer": "riedel",
-            "normalized": "riedel"
+            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
+            "clue": "Leafy drink",
+            "answer": "tea",
+            "normalized": "tea"
           },
           {
-            "id": "3ac07d9b-aa9c-4468-a051-d6f20fc36efd",
-            "clue": "Tempo measurement",
-            "answer": "bpm",
-            "normalized": "bpm"
+            "id": "7516d0ce-778d-42aa-951a-9e066add13cd",
+            "clue": "Assistant, retainer",
+            "answer": "acolyte",
+            "normalized": "acolyte"
           },
           {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
+            "id": "394edcf2-e350-4f55-ad95-d70c51d8d68f",
+            "clue": "Rita Wright, who sang With You I'm Born Again",
+            "answer": "syreeta",
+            "normalized": "syreeta"
           },
           {
-            "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-            "clue": "Corporate executive for sustainability, abbr.",
-            "answer": "cso",
-            "normalized": "cso"
+            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
+            "clue": "A pigpen",
+            "answer": "sty",
+            "normalized": "sty"
           },
           {
-            "id": "226484d9-3fba-4c23-b072-a6250b212cf2",
-            "clue": "Barbie's boyfriend",
-            "answer": "ken",
-            "normalized": "ken"
+            "id": "a4f4987d-1da6-4f6a-a825-36c3a97af0af",
+            "clue": "What most of us dry off with after a shower",
+            "answer": "towel",
+            "normalized": "towel"
+          },
+          {
+            "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
+            "clue": "The word that an ampersand stands in for",
+            "answer": "and",
+            "normalized": "and"
+          },
+          {
+            "id": "b8e246c1-9054-4490-b830-203a614665e3",
+            "clue": "It's Like That band, Run-__",
+            "answer": "dmc",
+            "normalized": "dmc"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
           }
         ],
-        "track": "PC|LenC--Y2026M6D30F1"
+        "track": "PC|LenC--Y2026M7D1F1"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-06-30",
+      "key": "2026-07-01",
       "year": 2026,
-      "month": 6,
-      "day": 30,
+      "month": 7,
+      "day": 1,
       "small": {
-        "puzzleId": "95f553d1-aec7-435b-8a9d-dc7754703337",
+        "puzzleId": "PC|LenC--Y2026M7D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 0,
         "answers": [
           {
-            "id": "6e226fe8-ea41-452b-8756-c699726fa258",
-            "clue": "Seeds that hook onto clothes and animal fur",
-            "answer": "burs",
-            "normalized": "burs"
+            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
+            "clue": "The number of toes most people have",
+            "answer": "ten",
+            "normalized": "ten"
           },
           {
-            "id": "2ae70f13-9a62-4703-bfc6-7d6044947a33",
-            "clue": "Thomas Hardy poem, __ Into My Glass",
-            "answer": "i look",
-            "normalized": "ilook"
+            "id": "1e4c7748-36cc-4b7a-b4a4-99fe4936148e",
+            "clue": "Bob Marley's musical style, originating in Jamaica",
+            "answer": "reggae",
+            "normalized": "reggae"
           },
           {
-            "id": "b6f560dc-e731-4e89-85a8-1350ffd20a6f",
-            "clue": "Set of clothing, maybe a special one for sharing",
-            "answer": "outfit",
-            "normalized": "outfit"
+            "id": "064a74dc-17bd-4ffd-a288-673f67f7120e",
+            "clue": "Get up from lying or sitting; move forward",
+            "answer": "uprise",
+            "normalized": "uprise"
           },
           {
-            "id": "7b673ed9-86c4-41b3-8a0a-86ba0e24871e",
-            "clue": "Metal utensil usually used to shred cheese",
-            "answer": "grater",
-            "normalized": "grater"
+            "id": "bf1493a4-423e-4b0a-bd6c-3fb6564a66f2",
+            "clue": "Moaned, complained, like a bovine",
+            "answer": "beefed",
+            "normalized": "beefed"
           },
           {
-            "id": "23afb0a7-a67c-4474-b802-3fafff1e9247",
-            "clue": "Anatomical term for plural of womb",
-            "answer": "uteri",
-            "normalized": "uteri"
+            "id": "6d295b16-de7f-4781-b921-307b124b8c64",
+            "clue": "Evergreen tree, Taxus baccata, used in archery",
+            "answer": "yew",
+            "normalized": "yew"
           },
           {
-            "id": "5e9c3b1a-f82b-4f98-8e47-9a7dfe567648",
-            "clue": "Historic periods of time",
-            "answer": "eras",
-            "normalized": "eras"
+            "id": "fa8681ff-b3cb-4b99-bba3-80240e5dac82",
+            "clue": "Celebrating the end of the workweek",
+            "answer": "tgif",
+            "normalized": "tgif"
           },
           {
-            "id": "0c59d185-f5db-4480-a262-71d71192ee80",
-            "clue": "Short word for a memoir",
-            "answer": "biog",
-            "normalized": "biog"
+            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
+            "clue": "Relieve pain or tightness",
+            "answer": "ease",
+            "normalized": "ease"
           },
           {
-            "id": "d04e37d5-6282-4ca8-b319-870c26f76538",
-            "clue": "Large Australian rock",
-            "answer": "uluru",
-            "normalized": "uluru"
+            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
+            "clue": "Require, necessitate",
+            "answer": "need",
+            "normalized": "need"
           },
           {
-            "id": "d2424c76-452b-470f-b61f-13acd20c28ec",
-            "clue": "Pivot, spin, swivel",
-            "answer": "rotate",
-            "normalized": "rotate"
+            "id": "c65707b2-6bda-4a6c-9632-8da6da9f8574",
+            "clue": "Red birthstone of July",
+            "answer": "ruby",
+            "normalized": "ruby"
           },
           {
-            "id": "d5c4a5d5-fb9f-4deb-a1bf-c947d7607846",
-            "clue": "Antonym of \"harder\"",
-            "answer": "softer",
-            "normalized": "softer"
+            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
+            "clue": "One of three types of sword used in fencing",
+            "answer": "epee",
+            "normalized": "epee"
           },
           {
-            "id": "841456c9-340c-4853-8d75-2449288326dc",
-            "clue": "Actress-model granddaughter of Charlie Chaplin",
-            "answer": "kiera",
-            "normalized": "kiera"
-          },
-          {
-            "id": "6d05fca5-45b8-4e80-b84f-b9672a53248f",
-            "clue": "Main character in Divergent",
-            "answer": "tris",
-            "normalized": "tris"
+            "id": "0b5fd126-5d3a-4a40-aadb-08e094c8eb4a",
+            "clue": "Got bigger",
+            "answer": "grew",
+            "normalized": "grew"
           }
         ],
-        "track": "PC|LenC--Y2026M6D30F0"
+        "track": "PC|LenC--Y2026M7D1F0"
       },
       "mid": {
-        "puzzleId": "1e50074e-2efc-490c-a1b4-92fe61811e4a",
+        "puzzleId": "PC|LenC--Y2026M7D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 0,
         "answers": [
           {
-            "id": "174acf97-fd36-47a5-9a49-2834735e663f",
-            "clue": "Not the present or the future",
-            "answer": "past",
-            "normalized": "past"
+            "id": "c13292e2-b9a9-49c7-ae3b-c028a823a84e",
+            "clue": "Leader of a monastery",
+            "answer": "abbot",
+            "normalized": "abbot"
           },
           {
-            "id": "9c0121ef-0f9a-4833-a81c-b315c21ea4ce",
-            "clue": "Short for rich text format",
-            "answer": "rtf",
-            "normalized": "rtf"
+            "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
+            "clue": "Crude name for a male donkey, comes after \"jack\"",
+            "answer": "ass",
+            "normalized": "ass"
           },
           {
-            "id": "d77d218f-89c5-4735-83e1-bcd0c3e31a79",
-            "clue": "Minor planetoid or __ Belt",
-            "answer": "asteroid",
-            "normalized": "asteroid"
+            "id": "39428386-f0d8-4776-bc77-8bc9934b93f6",
+            "clue": "Blue __ Shoes, first track on Elvis's debut record",
+            "answer": "suede",
+            "normalized": "suede"
           },
           {
-            "id": "ea36d94d-f251-4e51-b874-17f4765def34",
-            "clue": "A special magnetic charm or appeal",
-            "answer": "charisma",
-            "normalized": "charisma"
+            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
+            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
+            "answer": "cyt",
+            "normalized": "cyt"
           },
           {
-            "id": "9bf84362-9795-4dbf-95bc-047bcd99c52d",
-            "clue": "__ over, like a puddle in winter",
-            "answer": "ices",
-            "normalized": "ices"
+            "id": "21b893d6-9f2a-4981-bac1-3564dbd98e33",
+            "clue": "The Black Jack is a large __ tropical fish",
+            "answer": "predatory",
+            "normalized": "predatory"
           },
           {
-            "id": "8d7a7148-0926-494b-ac5a-d0e05eeec8e6",
-            "clue": "In love with Beatrice in Much Ado About Nothing",
-            "answer": "benedick",
-            "normalized": "benedick"
+            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
+            "clue": "Web address",
+            "answer": "url",
+            "normalized": "url"
           },
           {
-            "id": "b48af0c3-4213-4cae-abf8-9e03fbd33afe",
-            "clue": "An attempt to make something untrue look real",
-            "answer": "pretense",
-            "normalized": "pretense"
+            "id": "d629f766-2973-447c-a36e-582184ec4c4d",
+            "clue": "Often chanted three times at sporting matches",
+            "answer": "ole",
+            "normalized": "ole"
           },
           {
-            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
-            "clue": "Angry",
-            "answer": "mad",
-            "normalized": "mad"
+            "id": "b18266b8-34de-422b-a865-e0bb6e3a928b",
+            "clue": "Chris Pratt's Parks and Rec character",
+            "answer": "andy dwyer",
+            "normalized": "andydwyer"
           },
           {
-            "id": "2e88cc78-1b01-4289-9ed2-f5a4ad38a745",
-            "clue": "Maned big cat",
-            "answer": "lion",
-            "normalized": "lion"
+            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
+            "clue": "Non-disclosure agreement, in short",
+            "answer": "nda",
+            "normalized": "nda"
           },
           {
-            "id": "6edfabac-dd70-4da2-82e7-91ae6527b31c",
-            "clue": "Classic yellow video game character __-Man",
-            "answer": "pac",
-            "normalized": "pac"
+            "id": "e5d9586e-93f1-4025-8873-51f3d798d49d",
+            "clue": "Frederiksen, re-elected Danish PM in November 2022",
+            "answer": "mette",
+            "normalized": "mette"
           },
           {
-            "id": "76d107da-feee-4ee2-9495-161e97db9113",
-            "clue": "Remains of a fire",
-            "answer": "ash",
-            "normalized": "ash"
+            "id": "dfffad4b-a2cd-4a62-855d-b71010ad49b8",
+            "clue": "A reno project you complete without help",
+            "answer": "diy",
+            "normalized": "diy"
           },
           {
-            "id": "fc655ffb-d890-448b-add7-375a1a0614c3",
-            "clue": "A soiled or discolored spot",
-            "answer": "stained",
-            "normalized": "stained"
+            "id": "d7f87cd8-1a19-480e-8639-c4a682d3a482",
+            "clue": "Spotless, not dirty",
+            "answer": "clean",
+            "normalized": "clean"
           },
           {
-            "id": "e1bfa42c-c4b2-4545-91af-edf9d4f5bc9b",
-            "clue": "A trio of verses or lines of poetry",
-            "answer": "tercet",
-            "normalized": "tercet"
+            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
+            "clue": "Its bite is said to have killed Cleopatra",
+            "answer": "asp",
+            "normalized": "asp"
           },
           {
-            "id": "10c48222-55de-4413-b13b-e7cfaf67e493",
-            "clue": "Bellini alternative with strawberry",
-            "answer": "rossini",
-            "normalized": "rossini"
+            "id": "dfadb792-870f-4d27-a22c-bbbd75b1a142",
+            "clue": "African country, home to Lake Tanganyika",
+            "answer": "burundi",
+            "normalized": "burundi"
           },
           {
-            "id": "87179e7c-b286-4756-bccf-ea446fb3758f",
-            "clue": "Burton, director of Corpse Bride and Beetlejuice",
-            "answer": "tim",
-            "normalized": "tim"
+            "id": "7e2fe762-cea3-4ad9-abf1-55b49483854e",
+            "clue": "Icelandic annual ale celebration",
+            "answer": "beer day",
+            "normalized": "beerday"
           },
           {
-            "id": "0dd5179a-49b4-41e0-88f4-51da63967b6f",
-            "clue": "US agency tasked with protecting public health",
-            "answer": "fda",
-            "normalized": "fda"
+            "id": "2a511865-5ef3-4842-894e-ca969e62b655",
+            "clue": "Strangely or unusually",
+            "answer": "oddly",
+            "normalized": "oddly"
           },
           {
-            "id": "12ca6525-e8fd-4608-83a1-05ba1ef412b7",
-            "clue": "Maker of glasses shaped for specific wines",
-            "answer": "riedel",
-            "normalized": "riedel"
+            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
+            "clue": "Leafy drink",
+            "answer": "tea",
+            "normalized": "tea"
           },
           {
-            "id": "3ac07d9b-aa9c-4468-a051-d6f20fc36efd",
-            "clue": "Tempo measurement",
-            "answer": "bpm",
-            "normalized": "bpm"
+            "id": "7516d0ce-778d-42aa-951a-9e066add13cd",
+            "clue": "Assistant, retainer",
+            "answer": "acolyte",
+            "normalized": "acolyte"
           },
           {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
+            "id": "394edcf2-e350-4f55-ad95-d70c51d8d68f",
+            "clue": "Rita Wright, who sang With You I'm Born Again",
+            "answer": "syreeta",
+            "normalized": "syreeta"
           },
           {
-            "id": "31cef1b7-ef36-4837-944c-39fa4f8f2587",
-            "clue": "Corporate executive for sustainability, abbr.",
-            "answer": "cso",
-            "normalized": "cso"
+            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
+            "clue": "A pigpen",
+            "answer": "sty",
+            "normalized": "sty"
           },
           {
-            "id": "226484d9-3fba-4c23-b072-a6250b212cf2",
-            "clue": "Barbie's boyfriend",
-            "answer": "ken",
-            "normalized": "ken"
+            "id": "a4f4987d-1da6-4f6a-a825-36c3a97af0af",
+            "clue": "What most of us dry off with after a shower",
+            "answer": "towel",
+            "normalized": "towel"
+          },
+          {
+            "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
+            "clue": "The word that an ampersand stands in for",
+            "answer": "and",
+            "normalized": "and"
+          },
+          {
+            "id": "b8e246c1-9054-4490-b830-203a614665e3",
+            "clue": "It's Like That band, Run-__",
+            "answer": "dmc",
+            "normalized": "dmc"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
           }
         ],
-        "track": "PC|LenC--Y2026M6D30F1"
+        "track": "PC|LenC--Y2026M7D1F1"
       }
     },
     "todayPublished": true
@@ -422017,21 +422289,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "d8jAL7CIlBt1at/pESDHAzarypBwt3cJjZFDNxx2xS5hjAvqbWLcy3iaeY9dgJtOaJel7OXgiDR4zq8s22I3vI4GIhZsH5WDZ43dn6lhbb8Gnzv5TY3THsjC/g546rIl4AAD+YrICeqn54397HNbdI2naDiCG4E4lZfj8dZr5ZttK7AkdXbppT/5XaqmtjuIMsv0ceLFJ9/BiDLwBsxyTP0ZG2G05OoWFpB7gXvnWm8qZgbJNoBaOVeuwIsUQZ2wFuCsZvYWSJzEKPy2AE2jybWXBH3BzEDGtRO6Wm7w/rI="
+        "VR3yOvwnw9rX4swuA1F/m/aPa8wqj4fCFgtjwGl7jMAZMS2EM4UsJ0MX+d5sYORX1msTp0LWF1S5/pg3kZ+IEYZGajrWZaynYdDH2nTwItCtgICQO4n0yYZjMGpAh1X2lGUWhHC+uUpzE9G0YU4UCqauLrFT89TFCfzjZzDGhV0pnMKeZqFecVVu8dlJ5n3My23M7ToJ9z7f7qQ6RUf/xiJVjf1DGDtuPOAxUpnqYCZngnbPSgDtRzRc22FN48PTJQ38Ka/XccxxiGhvKFZWmdfeYBhioesu6XUYV4U+3PE="
       ]
     },
     "decrypted": {
-      "Id": "ec777566-219a-406a-85a3-f590a40277fe",
-      "Date": "2026-06-30T00:00:00Z",
+      "Id": "b89eff38-799b-46cc-8a11-137a74fd6c84",
+      "Date": "2026-07-01T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "rhino",
-      "NormalizedPassword": "rhino",
+      "Password": "maple",
+      "NormalizedPassword": "maple",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-06-30T01:50:15.8070000+05:30",
-    "hash": "ead29780a5942cb539b58841baf2439f",
+    "dtu": "2026-07-01T01:56:04.5120000+05:30",
+    "hash": "e7a9bbd9d5e96ac082e54767f3cd5210",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
