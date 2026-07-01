@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-30T20:26:04.512Z",
+  "generatedAt": "2026-07-01T20:21:02.037Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 1
+    "day": 2
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 58
+        "QuantidadeDeFases": 60
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -394,239 +394,203 @@
     ],
     "archiveEntries": [
       {
-        "key": "2026-07-01",
+        "key": "2026-07-02",
         "year": 2026,
         "month": 7,
-        "day": 1,
+        "day": 2,
         "small": {
-          "puzzleId": "PC|LenC--Y2026M7D1F0",
+          "puzzleId": "PC|LenC--Y2026M7D2F0",
           "fase": 0,
           "size": 1,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
-              "clue": "The number of toes most people have",
-              "answer": "ten",
-              "normalized": "ten"
+              "id": "92af272a-68e6-4494-875d-16d5e425bcda",
+              "clue": "American navy ships have this prefix",
+              "answer": "uss",
+              "normalized": "uss"
             },
             {
-              "id": "1e4c7748-36cc-4b7a-b4a4-99fe4936148e",
-              "clue": "Bob Marley's musical style, originating in Jamaica",
-              "answer": "reggae",
-              "normalized": "reggae"
+              "id": "a4b366b9-508b-49f8-bccf-e88de4a2d8b7",
+              "clue": "Swedish car manufacturer sold to Spyker in 2010",
+              "answer": "saab",
+              "normalized": "saab"
             },
             {
-              "id": "064a74dc-17bd-4ffd-a288-673f67f7120e",
-              "clue": "Get up from lying or sitting; move forward",
-              "answer": "uprise",
-              "normalized": "uprise"
+              "id": "b56e2aad-81e0-4eba-9591-515b5a0f1389",
+              "clue": "The sucking sound made when drinking a smoothie",
+              "answer": "slurp",
+              "normalized": "slurp"
             },
             {
-              "id": "bf1493a4-423e-4b0a-bd6c-3fb6564a66f2",
-              "clue": "Moaned, complained, like a bovine",
-              "answer": "beefed",
-              "normalized": "beefed"
+              "id": "05fed18b-f702-492f-bc98-b7cd99c8a042",
+              "clue": "Happen again",
+              "answer": "recur",
+              "normalized": "recur"
             },
             {
-              "id": "6d295b16-de7f-4781-b921-307b124b8c64",
-              "clue": "Evergreen tree, Taxus baccata, used in archery",
-              "answer": "yew",
-              "normalized": "yew"
+              "id": "a5fe5e88-3901-48a6-b2e5-5aff5367d4d3",
+              "clue": "The shape of a protractor, __-circle",
+              "answer": "semi",
+              "normalized": "semi"
             },
             {
-              "id": "fa8681ff-b3cb-4b99-bba3-80240e5dac82",
-              "clue": "Celebrating the end of the workweek",
-              "answer": "tgif",
-              "normalized": "tgif"
+              "id": "3e036e8c-515f-4962-96fb-42c792be6d81",
+              "clue": "Word following Oedipus or Tyrannosaurus",
+              "answer": "rex",
+              "normalized": "rex"
             },
             {
-              "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
-              "clue": "Relieve pain or tightness",
-              "answer": "ease",
-              "normalized": "ease"
+              "id": "658ec194-5448-4fb4-8e5f-bf19a680a042",
+              "clue": "Abbreviation for old Soviet states",
+              "answer": "ussr",
+              "normalized": "ussr"
             },
             {
-              "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
-              "clue": "Require, necessitate",
-              "answer": "need",
-              "normalized": "need"
+              "id": "5b358316-84d9-4705-a4bf-c08f4c4c1115",
+              "clue": "Figures for the total sold by a business",
+              "answer": "sales",
+              "normalized": "sales"
             },
             {
-              "id": "c65707b2-6bda-4a6c-9632-8da6da9f8574",
-              "clue": "Red birthstone of July",
-              "answer": "ruby",
-              "normalized": "ruby"
+              "id": "5a0879c6-1d7a-4e56-a096-d210c093cbe8",
+              "clue": "Small plate for cups; flying alien transport",
+              "answer": "saucer",
+              "normalized": "saucer"
             },
             {
-              "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
-              "clue": "One of three types of sword used in fencing",
-              "answer": "epee",
-              "normalized": "epee"
+              "id": "76ded965-2fd4-48a5-b35d-5a09d3de09e5",
+              "clue": "Another word for mist or fog",
+              "answer": "brume",
+              "normalized": "brume"
             },
             {
-              "id": "0b5fd126-5d3a-4a40-aadb-08e094c8eb4a",
-              "clue": "Got bigger",
-              "answer": "grew",
-              "normalized": "grew"
+              "id": "c55f0ee2-3107-4b79-a477-448eb5285074",
+              "clue": "Grand __, major race in Formula 1 racing",
+              "answer": "prix",
+              "normalized": "prix"
             }
           ],
-          "track": "PC|LenC--Y2026M7D1F0"
+          "track": "PC|LenC--Y2026M7D2F0"
         },
         "mid": {
-          "puzzleId": "PC|LenC--Y2026M7D1F1",
+          "puzzleId": "PC|LenC--Y2026M7D2F1",
           "fase": 1,
           "size": 2,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "c13292e2-b9a9-49c7-ae3b-c028a823a84e",
-              "clue": "Leader of a monastery",
-              "answer": "abbot",
-              "normalized": "abbot"
+              "id": "d237ce9d-7e8b-4e3e-84b5-01de5c3e5db5",
+              "clue": "Resorts with mineral springs",
+              "answer": "spas",
+              "normalized": "spas"
             },
             {
-              "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
-              "clue": "Crude name for a male donkey, comes after \"jack\"",
-              "answer": "ass",
-              "normalized": "ass"
+              "id": "4a762094-6fa6-4837-bd18-0e897b532ab9",
+              "clue": "Aviation pioneer Earhart",
+              "answer": "amelia",
+              "normalized": "amelia"
             },
             {
-              "id": "39428386-f0d8-4776-bc77-8bc9934b93f6",
-              "clue": "Blue __ Shoes, first track on Elvis's debut record",
-              "answer": "suede",
-              "normalized": "suede"
+              "id": "f8f01ca7-68f1-41f1-9b99-0e7f6805de1d",
+              "clue": "Brazenly obvious, offensive, loud",
+              "answer": "blatant",
+              "normalized": "blatant"
             },
             {
-              "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
-              "clue": "One way to abbreviate \"see you tomorrow\" in a text",
-              "answer": "cyt",
-              "normalized": "cyt"
+              "id": "16465eb0-6742-4048-9a61-830f2bc33904",
+              "clue": "Liberia's three-letter country code",
+              "answer": "lbr",
+              "normalized": "lbr"
             },
             {
-              "id": "21b893d6-9f2a-4981-bac1-3564dbd98e33",
-              "clue": "The Black Jack is a large __ tropical fish",
-              "answer": "predatory",
-              "normalized": "predatory"
+              "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+              "clue": "Acronym for a chief legal officer",
+              "answer": "clo",
+              "normalized": "clo"
             },
             {
-              "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
-              "clue": "Web address",
-              "answer": "url",
-              "normalized": "url"
+              "id": "abc98961-7e85-42f0-9078-b8297afc2e7c",
+              "clue": "A grain plant used in hot cereal and animal feed",
+              "answer": "oat",
+              "normalized": "oat"
             },
             {
-              "id": "d629f766-2973-447c-a36e-582184ec4c4d",
-              "clue": "Often chanted three times at sporting matches",
-              "answer": "ole",
-              "normalized": "ole"
+              "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
+              "clue": "Shiny Happy People band",
+              "answer": "rem",
+              "normalized": "rem"
             },
             {
-              "id": "b18266b8-34de-422b-a865-e0bb6e3a928b",
-              "clue": "Chris Pratt's Parks and Rec character",
-              "answer": "andy dwyer",
-              "normalized": "andydwyer"
+              "id": "b8ed32b7-2315-4036-9397-adf1881789fd",
+              "clue": "Calvin Harris and Dua Lipa song about a smooch",
+              "answer": "one kiss",
+              "normalized": "onekiss"
             },
             {
-              "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-              "clue": "Non-disclosure agreement, in short",
-              "answer": "nda",
-              "normalized": "nda"
+              "id": "22020dbe-1ed8-4a9b-b0e5-b7c7f7770fa6",
+              "clue": "Blanc, gris, Meunier, and noir",
+              "answer": "pinots",
+              "normalized": "pinots"
             },
             {
-              "id": "e5d9586e-93f1-4025-8873-51f3d798d49d",
-              "clue": "Frederiksen, re-elected Danish PM in November 2022",
-              "answer": "mette",
-              "normalized": "mette"
+              "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+              "clue": "Covered in cinders",
+              "answer": "ashy",
+              "normalized": "ashy"
             },
             {
-              "id": "dfffad4b-a2cd-4a62-855d-b71010ad49b8",
-              "clue": "A reno project you complete without help",
-              "answer": "diy",
-              "normalized": "diy"
+              "id": "e691788e-6dca-40f9-8ceb-e94078b03917",
+              "clue": "Neatens, tidies",
+              "answer": "smartens",
+              "normalized": "smartens"
             },
             {
-              "id": "d7f87cd8-1a19-480e-8639-c4a682d3a482",
-              "clue": "Spotless, not dirty",
-              "answer": "clean",
-              "normalized": "clean"
+              "id": "1a7dc923-ceff-4b1f-8e20-bff66bfb0761",
+              "clue": "A cat, or stroke a cat",
+              "answer": "pet",
+              "normalized": "pet"
             },
             {
-              "id": "981b7eea-2237-46a4-9818-453d17ee9053",
-              "clue": "Its bite is said to have killed Cleopatra",
-              "answer": "asp",
-              "normalized": "asp"
+              "id": "033c87bf-ca37-47c8-b641-825f6ffdbad2",
+              "clue": "Speed, eagerness, promptness",
+              "answer": "alacrity",
+              "normalized": "alacrity"
             },
             {
-              "id": "dfadb792-870f-4d27-a22c-bbbd75b1a142",
-              "clue": "African country, home to Lake Tanganyika",
-              "answer": "burundi",
-              "normalized": "burundi"
+              "id": "e1886cd0-de0e-4adb-ab64-2acc08d1cf93",
+              "clue": "Like the Biblical world before Eve ate the fruit",
+              "answer": "sinless",
+              "normalized": "sinless"
             },
             {
-              "id": "7e2fe762-cea3-4ad9-abf1-55b49483854e",
-              "clue": "Icelandic annual ale celebration",
-              "answer": "beer day",
-              "normalized": "beerday"
+              "id": "c1d47505-b6d4-4dd9-bfcd-4da8aa300e04",
+              "clue": "Country in Europe next to N. Macedonia and Greece",
+              "answer": "albania",
+              "normalized": "albania"
             },
             {
-              "id": "2a511865-5ef3-4842-894e-ca969e62b655",
-              "clue": "Strangely or unusually",
-              "answer": "oddly",
-              "normalized": "oddly"
+              "id": "3151a0d4-5ec5-4f04-bcfc-7ea615cee9cc",
+              "clue": "The smallest constituent units of matter",
+              "answer": "atoms",
+              "normalized": "atoms"
             },
             {
-              "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
-              "clue": "Leafy drink",
-              "answer": "tea",
-              "normalized": "tea"
+              "id": "94e12d01-5036-4252-9ea4-a668de4334c2",
+              "clue": "Strange low-frequency sound heard by NOAA in 1997",
+              "answer": "bloop",
+              "normalized": "bloop"
             },
             {
-              "id": "7516d0ce-778d-42aa-951a-9e066add13cd",
-              "clue": "Assistant, retainer",
-              "answer": "acolyte",
-              "normalized": "acolyte"
-            },
-            {
-              "id": "394edcf2-e350-4f55-ad95-d70c51d8d68f",
-              "clue": "Rita Wright, who sang With You I'm Born Again",
-              "answer": "syreeta",
-              "normalized": "syreeta"
-            },
-            {
-              "id": "4b2d2994-6214-4922-aa51-88935ce83873",
-              "clue": "A pigpen",
-              "answer": "sty",
-              "normalized": "sty"
-            },
-            {
-              "id": "a4f4987d-1da6-4f6a-a825-36c3a97af0af",
-              "clue": "What most of us dry off with after a shower",
-              "answer": "towel",
-              "normalized": "towel"
-            },
-            {
-              "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
-              "clue": "The word that an ampersand stands in for",
-              "answer": "and",
-              "normalized": "and"
-            },
-            {
-              "id": "b8e246c1-9054-4490-b830-203a614665e3",
-              "clue": "It's Like That band, Run-__",
-              "answer": "dmc",
-              "normalized": "dmc"
-            },
-            {
-              "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
-              "clue": "Cartoon Chihuahua paired with cat Stimpy",
-              "answer": "ren",
-              "normalized": "ren"
+              "id": "314d9441-68d6-4698-847f-7993b6a4acfb",
+              "clue": "Potassium hydroxide's chemical formula",
+              "answer": "koh",
+              "normalized": "koh"
             }
           ],
-          "track": "PC|LenC--Y2026M7D1F1"
+          "track": "PC|LenC--Y2026M7D2F1"
         }
       },
       {
@@ -3029,7 +2993,7 @@
             },
             {
               "id": "c879f9e5-33d0-4364-9a92-6a1a31a44fb1",
-              "clue": "Death notice author",
+              "clue": "Legal comment made in passing",
               "answer": "obiter",
               "normalized": "obiter"
             },
@@ -421573,711 +421537,603 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-01",
+      "key": "2026-07-02",
       "year": 2026,
       "month": 7,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M7D1F0",
+        "puzzleId": "PC|LenC--Y2026M7D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
-            "clue": "The number of toes most people have",
-            "answer": "ten",
-            "normalized": "ten"
+            "id": "92af272a-68e6-4494-875d-16d5e425bcda",
+            "clue": "American navy ships have this prefix",
+            "answer": "uss",
+            "normalized": "uss"
           },
           {
-            "id": "1e4c7748-36cc-4b7a-b4a4-99fe4936148e",
-            "clue": "Bob Marley's musical style, originating in Jamaica",
-            "answer": "reggae",
-            "normalized": "reggae"
+            "id": "a4b366b9-508b-49f8-bccf-e88de4a2d8b7",
+            "clue": "Swedish car manufacturer sold to Spyker in 2010",
+            "answer": "saab",
+            "normalized": "saab"
           },
           {
-            "id": "064a74dc-17bd-4ffd-a288-673f67f7120e",
-            "clue": "Get up from lying or sitting; move forward",
-            "answer": "uprise",
-            "normalized": "uprise"
+            "id": "b56e2aad-81e0-4eba-9591-515b5a0f1389",
+            "clue": "The sucking sound made when drinking a smoothie",
+            "answer": "slurp",
+            "normalized": "slurp"
           },
           {
-            "id": "bf1493a4-423e-4b0a-bd6c-3fb6564a66f2",
-            "clue": "Moaned, complained, like a bovine",
-            "answer": "beefed",
-            "normalized": "beefed"
+            "id": "05fed18b-f702-492f-bc98-b7cd99c8a042",
+            "clue": "Happen again",
+            "answer": "recur",
+            "normalized": "recur"
           },
           {
-            "id": "6d295b16-de7f-4781-b921-307b124b8c64",
-            "clue": "Evergreen tree, Taxus baccata, used in archery",
-            "answer": "yew",
-            "normalized": "yew"
+            "id": "a5fe5e88-3901-48a6-b2e5-5aff5367d4d3",
+            "clue": "The shape of a protractor, __-circle",
+            "answer": "semi",
+            "normalized": "semi"
           },
           {
-            "id": "fa8681ff-b3cb-4b99-bba3-80240e5dac82",
-            "clue": "Celebrating the end of the workweek",
-            "answer": "tgif",
-            "normalized": "tgif"
+            "id": "3e036e8c-515f-4962-96fb-42c792be6d81",
+            "clue": "Word following Oedipus or Tyrannosaurus",
+            "answer": "rex",
+            "normalized": "rex"
           },
           {
-            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
-            "clue": "Relieve pain or tightness",
-            "answer": "ease",
-            "normalized": "ease"
+            "id": "658ec194-5448-4fb4-8e5f-bf19a680a042",
+            "clue": "Abbreviation for old Soviet states",
+            "answer": "ussr",
+            "normalized": "ussr"
           },
           {
-            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
-            "clue": "Require, necessitate",
-            "answer": "need",
-            "normalized": "need"
+            "id": "5b358316-84d9-4705-a4bf-c08f4c4c1115",
+            "clue": "Figures for the total sold by a business",
+            "answer": "sales",
+            "normalized": "sales"
           },
           {
-            "id": "c65707b2-6bda-4a6c-9632-8da6da9f8574",
-            "clue": "Red birthstone of July",
-            "answer": "ruby",
-            "normalized": "ruby"
+            "id": "5a0879c6-1d7a-4e56-a096-d210c093cbe8",
+            "clue": "Small plate for cups; flying alien transport",
+            "answer": "saucer",
+            "normalized": "saucer"
           },
           {
-            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
-            "clue": "One of three types of sword used in fencing",
-            "answer": "epee",
-            "normalized": "epee"
+            "id": "76ded965-2fd4-48a5-b35d-5a09d3de09e5",
+            "clue": "Another word for mist or fog",
+            "answer": "brume",
+            "normalized": "brume"
           },
           {
-            "id": "0b5fd126-5d3a-4a40-aadb-08e094c8eb4a",
-            "clue": "Got bigger",
-            "answer": "grew",
-            "normalized": "grew"
+            "id": "c55f0ee2-3107-4b79-a477-448eb5285074",
+            "clue": "Grand __, major race in Formula 1 racing",
+            "answer": "prix",
+            "normalized": "prix"
           }
         ],
-        "track": "PC|LenC--Y2026M7D1F0"
+        "track": "PC|LenC--Y2026M7D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M7D1F1",
+        "puzzleId": "PC|LenC--Y2026M7D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c13292e2-b9a9-49c7-ae3b-c028a823a84e",
-            "clue": "Leader of a monastery",
-            "answer": "abbot",
-            "normalized": "abbot"
+            "id": "d237ce9d-7e8b-4e3e-84b5-01de5c3e5db5",
+            "clue": "Resorts with mineral springs",
+            "answer": "spas",
+            "normalized": "spas"
           },
           {
-            "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
-            "clue": "Crude name for a male donkey, comes after \"jack\"",
-            "answer": "ass",
-            "normalized": "ass"
+            "id": "4a762094-6fa6-4837-bd18-0e897b532ab9",
+            "clue": "Aviation pioneer Earhart",
+            "answer": "amelia",
+            "normalized": "amelia"
           },
           {
-            "id": "39428386-f0d8-4776-bc77-8bc9934b93f6",
-            "clue": "Blue __ Shoes, first track on Elvis's debut record",
-            "answer": "suede",
-            "normalized": "suede"
+            "id": "f8f01ca7-68f1-41f1-9b99-0e7f6805de1d",
+            "clue": "Brazenly obvious, offensive, loud",
+            "answer": "blatant",
+            "normalized": "blatant"
           },
           {
-            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
-            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
-            "answer": "cyt",
-            "normalized": "cyt"
+            "id": "16465eb0-6742-4048-9a61-830f2bc33904",
+            "clue": "Liberia's three-letter country code",
+            "answer": "lbr",
+            "normalized": "lbr"
           },
           {
-            "id": "21b893d6-9f2a-4981-bac1-3564dbd98e33",
-            "clue": "The Black Jack is a large __ tropical fish",
-            "answer": "predatory",
-            "normalized": "predatory"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
-            "clue": "Web address",
-            "answer": "url",
-            "normalized": "url"
+            "id": "abc98961-7e85-42f0-9078-b8297afc2e7c",
+            "clue": "A grain plant used in hot cereal and animal feed",
+            "answer": "oat",
+            "normalized": "oat"
           },
           {
-            "id": "d629f766-2973-447c-a36e-582184ec4c4d",
-            "clue": "Often chanted three times at sporting matches",
-            "answer": "ole",
-            "normalized": "ole"
+            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
+            "clue": "Shiny Happy People band",
+            "answer": "rem",
+            "normalized": "rem"
           },
           {
-            "id": "b18266b8-34de-422b-a865-e0bb6e3a928b",
-            "clue": "Chris Pratt's Parks and Rec character",
-            "answer": "andy dwyer",
-            "normalized": "andydwyer"
+            "id": "b8ed32b7-2315-4036-9397-adf1881789fd",
+            "clue": "Calvin Harris and Dua Lipa song about a smooch",
+            "answer": "one kiss",
+            "normalized": "onekiss"
           },
           {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "22020dbe-1ed8-4a9b-b0e5-b7c7f7770fa6",
+            "clue": "Blanc, gris, Meunier, and noir",
+            "answer": "pinots",
+            "normalized": "pinots"
           },
           {
-            "id": "e5d9586e-93f1-4025-8873-51f3d798d49d",
-            "clue": "Frederiksen, re-elected Danish PM in November 2022",
-            "answer": "mette",
-            "normalized": "mette"
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
           },
           {
-            "id": "dfffad4b-a2cd-4a62-855d-b71010ad49b8",
-            "clue": "A reno project you complete without help",
-            "answer": "diy",
-            "normalized": "diy"
+            "id": "e691788e-6dca-40f9-8ceb-e94078b03917",
+            "clue": "Neatens, tidies",
+            "answer": "smartens",
+            "normalized": "smartens"
           },
           {
-            "id": "d7f87cd8-1a19-480e-8639-c4a682d3a482",
-            "clue": "Spotless, not dirty",
-            "answer": "clean",
-            "normalized": "clean"
+            "id": "1a7dc923-ceff-4b1f-8e20-bff66bfb0761",
+            "clue": "A cat, or stroke a cat",
+            "answer": "pet",
+            "normalized": "pet"
           },
           {
-            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
-            "clue": "Its bite is said to have killed Cleopatra",
-            "answer": "asp",
-            "normalized": "asp"
+            "id": "033c87bf-ca37-47c8-b641-825f6ffdbad2",
+            "clue": "Speed, eagerness, promptness",
+            "answer": "alacrity",
+            "normalized": "alacrity"
           },
           {
-            "id": "dfadb792-870f-4d27-a22c-bbbd75b1a142",
-            "clue": "African country, home to Lake Tanganyika",
-            "answer": "burundi",
-            "normalized": "burundi"
+            "id": "e1886cd0-de0e-4adb-ab64-2acc08d1cf93",
+            "clue": "Like the Biblical world before Eve ate the fruit",
+            "answer": "sinless",
+            "normalized": "sinless"
           },
           {
-            "id": "7e2fe762-cea3-4ad9-abf1-55b49483854e",
-            "clue": "Icelandic annual ale celebration",
-            "answer": "beer day",
-            "normalized": "beerday"
+            "id": "c1d47505-b6d4-4dd9-bfcd-4da8aa300e04",
+            "clue": "Country in Europe next to N. Macedonia and Greece",
+            "answer": "albania",
+            "normalized": "albania"
           },
           {
-            "id": "2a511865-5ef3-4842-894e-ca969e62b655",
-            "clue": "Strangely or unusually",
-            "answer": "oddly",
-            "normalized": "oddly"
+            "id": "3151a0d4-5ec5-4f04-bcfc-7ea615cee9cc",
+            "clue": "The smallest constituent units of matter",
+            "answer": "atoms",
+            "normalized": "atoms"
           },
           {
-            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
-            "clue": "Leafy drink",
-            "answer": "tea",
-            "normalized": "tea"
+            "id": "94e12d01-5036-4252-9ea4-a668de4334c2",
+            "clue": "Strange low-frequency sound heard by NOAA in 1997",
+            "answer": "bloop",
+            "normalized": "bloop"
           },
           {
-            "id": "7516d0ce-778d-42aa-951a-9e066add13cd",
-            "clue": "Assistant, retainer",
-            "answer": "acolyte",
-            "normalized": "acolyte"
-          },
-          {
-            "id": "394edcf2-e350-4f55-ad95-d70c51d8d68f",
-            "clue": "Rita Wright, who sang With You I'm Born Again",
-            "answer": "syreeta",
-            "normalized": "syreeta"
-          },
-          {
-            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
-            "clue": "A pigpen",
-            "answer": "sty",
-            "normalized": "sty"
-          },
-          {
-            "id": "a4f4987d-1da6-4f6a-a825-36c3a97af0af",
-            "clue": "What most of us dry off with after a shower",
-            "answer": "towel",
-            "normalized": "towel"
-          },
-          {
-            "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
-            "clue": "The word that an ampersand stands in for",
-            "answer": "and",
-            "normalized": "and"
-          },
-          {
-            "id": "b8e246c1-9054-4490-b830-203a614665e3",
-            "clue": "It's Like That band, Run-__",
-            "answer": "dmc",
-            "normalized": "dmc"
-          },
-          {
-            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
-            "clue": "Cartoon Chihuahua paired with cat Stimpy",
-            "answer": "ren",
-            "normalized": "ren"
+            "id": "314d9441-68d6-4698-847f-7993b6a4acfb",
+            "clue": "Potassium hydroxide's chemical formula",
+            "answer": "koh",
+            "normalized": "koh"
           }
         ],
-        "track": "PC|LenC--Y2026M7D1F1"
+        "track": "PC|LenC--Y2026M7D2F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-01",
+      "key": "2026-07-02",
       "year": 2026,
       "month": 7,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M7D1F0",
+        "puzzleId": "PC|LenC--Y2026M7D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
-            "clue": "The number of toes most people have",
-            "answer": "ten",
-            "normalized": "ten"
+            "id": "92af272a-68e6-4494-875d-16d5e425bcda",
+            "clue": "American navy ships have this prefix",
+            "answer": "uss",
+            "normalized": "uss"
           },
           {
-            "id": "1e4c7748-36cc-4b7a-b4a4-99fe4936148e",
-            "clue": "Bob Marley's musical style, originating in Jamaica",
-            "answer": "reggae",
-            "normalized": "reggae"
+            "id": "a4b366b9-508b-49f8-bccf-e88de4a2d8b7",
+            "clue": "Swedish car manufacturer sold to Spyker in 2010",
+            "answer": "saab",
+            "normalized": "saab"
           },
           {
-            "id": "064a74dc-17bd-4ffd-a288-673f67f7120e",
-            "clue": "Get up from lying or sitting; move forward",
-            "answer": "uprise",
-            "normalized": "uprise"
+            "id": "b56e2aad-81e0-4eba-9591-515b5a0f1389",
+            "clue": "The sucking sound made when drinking a smoothie",
+            "answer": "slurp",
+            "normalized": "slurp"
           },
           {
-            "id": "bf1493a4-423e-4b0a-bd6c-3fb6564a66f2",
-            "clue": "Moaned, complained, like a bovine",
-            "answer": "beefed",
-            "normalized": "beefed"
+            "id": "05fed18b-f702-492f-bc98-b7cd99c8a042",
+            "clue": "Happen again",
+            "answer": "recur",
+            "normalized": "recur"
           },
           {
-            "id": "6d295b16-de7f-4781-b921-307b124b8c64",
-            "clue": "Evergreen tree, Taxus baccata, used in archery",
-            "answer": "yew",
-            "normalized": "yew"
+            "id": "a5fe5e88-3901-48a6-b2e5-5aff5367d4d3",
+            "clue": "The shape of a protractor, __-circle",
+            "answer": "semi",
+            "normalized": "semi"
           },
           {
-            "id": "fa8681ff-b3cb-4b99-bba3-80240e5dac82",
-            "clue": "Celebrating the end of the workweek",
-            "answer": "tgif",
-            "normalized": "tgif"
+            "id": "3e036e8c-515f-4962-96fb-42c792be6d81",
+            "clue": "Word following Oedipus or Tyrannosaurus",
+            "answer": "rex",
+            "normalized": "rex"
           },
           {
-            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
-            "clue": "Relieve pain or tightness",
-            "answer": "ease",
-            "normalized": "ease"
+            "id": "658ec194-5448-4fb4-8e5f-bf19a680a042",
+            "clue": "Abbreviation for old Soviet states",
+            "answer": "ussr",
+            "normalized": "ussr"
           },
           {
-            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
-            "clue": "Require, necessitate",
-            "answer": "need",
-            "normalized": "need"
+            "id": "5b358316-84d9-4705-a4bf-c08f4c4c1115",
+            "clue": "Figures for the total sold by a business",
+            "answer": "sales",
+            "normalized": "sales"
           },
           {
-            "id": "c65707b2-6bda-4a6c-9632-8da6da9f8574",
-            "clue": "Red birthstone of July",
-            "answer": "ruby",
-            "normalized": "ruby"
+            "id": "5a0879c6-1d7a-4e56-a096-d210c093cbe8",
+            "clue": "Small plate for cups; flying alien transport",
+            "answer": "saucer",
+            "normalized": "saucer"
           },
           {
-            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
-            "clue": "One of three types of sword used in fencing",
-            "answer": "epee",
-            "normalized": "epee"
+            "id": "76ded965-2fd4-48a5-b35d-5a09d3de09e5",
+            "clue": "Another word for mist or fog",
+            "answer": "brume",
+            "normalized": "brume"
           },
           {
-            "id": "0b5fd126-5d3a-4a40-aadb-08e094c8eb4a",
-            "clue": "Got bigger",
-            "answer": "grew",
-            "normalized": "grew"
+            "id": "c55f0ee2-3107-4b79-a477-448eb5285074",
+            "clue": "Grand __, major race in Formula 1 racing",
+            "answer": "prix",
+            "normalized": "prix"
           }
         ],
-        "track": "PC|LenC--Y2026M7D1F0"
+        "track": "PC|LenC--Y2026M7D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M7D1F1",
+        "puzzleId": "PC|LenC--Y2026M7D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c13292e2-b9a9-49c7-ae3b-c028a823a84e",
-            "clue": "Leader of a monastery",
-            "answer": "abbot",
-            "normalized": "abbot"
+            "id": "d237ce9d-7e8b-4e3e-84b5-01de5c3e5db5",
+            "clue": "Resorts with mineral springs",
+            "answer": "spas",
+            "normalized": "spas"
           },
           {
-            "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
-            "clue": "Crude name for a male donkey, comes after \"jack\"",
-            "answer": "ass",
-            "normalized": "ass"
+            "id": "4a762094-6fa6-4837-bd18-0e897b532ab9",
+            "clue": "Aviation pioneer Earhart",
+            "answer": "amelia",
+            "normalized": "amelia"
           },
           {
-            "id": "39428386-f0d8-4776-bc77-8bc9934b93f6",
-            "clue": "Blue __ Shoes, first track on Elvis's debut record",
-            "answer": "suede",
-            "normalized": "suede"
+            "id": "f8f01ca7-68f1-41f1-9b99-0e7f6805de1d",
+            "clue": "Brazenly obvious, offensive, loud",
+            "answer": "blatant",
+            "normalized": "blatant"
           },
           {
-            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
-            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
-            "answer": "cyt",
-            "normalized": "cyt"
+            "id": "16465eb0-6742-4048-9a61-830f2bc33904",
+            "clue": "Liberia's three-letter country code",
+            "answer": "lbr",
+            "normalized": "lbr"
           },
           {
-            "id": "21b893d6-9f2a-4981-bac1-3564dbd98e33",
-            "clue": "The Black Jack is a large __ tropical fish",
-            "answer": "predatory",
-            "normalized": "predatory"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
-            "clue": "Web address",
-            "answer": "url",
-            "normalized": "url"
+            "id": "abc98961-7e85-42f0-9078-b8297afc2e7c",
+            "clue": "A grain plant used in hot cereal and animal feed",
+            "answer": "oat",
+            "normalized": "oat"
           },
           {
-            "id": "d629f766-2973-447c-a36e-582184ec4c4d",
-            "clue": "Often chanted three times at sporting matches",
-            "answer": "ole",
-            "normalized": "ole"
+            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
+            "clue": "Shiny Happy People band",
+            "answer": "rem",
+            "normalized": "rem"
           },
           {
-            "id": "b18266b8-34de-422b-a865-e0bb6e3a928b",
-            "clue": "Chris Pratt's Parks and Rec character",
-            "answer": "andy dwyer",
-            "normalized": "andydwyer"
+            "id": "b8ed32b7-2315-4036-9397-adf1881789fd",
+            "clue": "Calvin Harris and Dua Lipa song about a smooch",
+            "answer": "one kiss",
+            "normalized": "onekiss"
           },
           {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "22020dbe-1ed8-4a9b-b0e5-b7c7f7770fa6",
+            "clue": "Blanc, gris, Meunier, and noir",
+            "answer": "pinots",
+            "normalized": "pinots"
           },
           {
-            "id": "e5d9586e-93f1-4025-8873-51f3d798d49d",
-            "clue": "Frederiksen, re-elected Danish PM in November 2022",
-            "answer": "mette",
-            "normalized": "mette"
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
           },
           {
-            "id": "dfffad4b-a2cd-4a62-855d-b71010ad49b8",
-            "clue": "A reno project you complete without help",
-            "answer": "diy",
-            "normalized": "diy"
+            "id": "e691788e-6dca-40f9-8ceb-e94078b03917",
+            "clue": "Neatens, tidies",
+            "answer": "smartens",
+            "normalized": "smartens"
           },
           {
-            "id": "d7f87cd8-1a19-480e-8639-c4a682d3a482",
-            "clue": "Spotless, not dirty",
-            "answer": "clean",
-            "normalized": "clean"
+            "id": "1a7dc923-ceff-4b1f-8e20-bff66bfb0761",
+            "clue": "A cat, or stroke a cat",
+            "answer": "pet",
+            "normalized": "pet"
           },
           {
-            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
-            "clue": "Its bite is said to have killed Cleopatra",
-            "answer": "asp",
-            "normalized": "asp"
+            "id": "033c87bf-ca37-47c8-b641-825f6ffdbad2",
+            "clue": "Speed, eagerness, promptness",
+            "answer": "alacrity",
+            "normalized": "alacrity"
           },
           {
-            "id": "dfadb792-870f-4d27-a22c-bbbd75b1a142",
-            "clue": "African country, home to Lake Tanganyika",
-            "answer": "burundi",
-            "normalized": "burundi"
+            "id": "e1886cd0-de0e-4adb-ab64-2acc08d1cf93",
+            "clue": "Like the Biblical world before Eve ate the fruit",
+            "answer": "sinless",
+            "normalized": "sinless"
           },
           {
-            "id": "7e2fe762-cea3-4ad9-abf1-55b49483854e",
-            "clue": "Icelandic annual ale celebration",
-            "answer": "beer day",
-            "normalized": "beerday"
+            "id": "c1d47505-b6d4-4dd9-bfcd-4da8aa300e04",
+            "clue": "Country in Europe next to N. Macedonia and Greece",
+            "answer": "albania",
+            "normalized": "albania"
           },
           {
-            "id": "2a511865-5ef3-4842-894e-ca969e62b655",
-            "clue": "Strangely or unusually",
-            "answer": "oddly",
-            "normalized": "oddly"
+            "id": "3151a0d4-5ec5-4f04-bcfc-7ea615cee9cc",
+            "clue": "The smallest constituent units of matter",
+            "answer": "atoms",
+            "normalized": "atoms"
           },
           {
-            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
-            "clue": "Leafy drink",
-            "answer": "tea",
-            "normalized": "tea"
+            "id": "94e12d01-5036-4252-9ea4-a668de4334c2",
+            "clue": "Strange low-frequency sound heard by NOAA in 1997",
+            "answer": "bloop",
+            "normalized": "bloop"
           },
           {
-            "id": "7516d0ce-778d-42aa-951a-9e066add13cd",
-            "clue": "Assistant, retainer",
-            "answer": "acolyte",
-            "normalized": "acolyte"
-          },
-          {
-            "id": "394edcf2-e350-4f55-ad95-d70c51d8d68f",
-            "clue": "Rita Wright, who sang With You I'm Born Again",
-            "answer": "syreeta",
-            "normalized": "syreeta"
-          },
-          {
-            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
-            "clue": "A pigpen",
-            "answer": "sty",
-            "normalized": "sty"
-          },
-          {
-            "id": "a4f4987d-1da6-4f6a-a825-36c3a97af0af",
-            "clue": "What most of us dry off with after a shower",
-            "answer": "towel",
-            "normalized": "towel"
-          },
-          {
-            "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
-            "clue": "The word that an ampersand stands in for",
-            "answer": "and",
-            "normalized": "and"
-          },
-          {
-            "id": "b8e246c1-9054-4490-b830-203a614665e3",
-            "clue": "It's Like That band, Run-__",
-            "answer": "dmc",
-            "normalized": "dmc"
-          },
-          {
-            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
-            "clue": "Cartoon Chihuahua paired with cat Stimpy",
-            "answer": "ren",
-            "normalized": "ren"
+            "id": "314d9441-68d6-4698-847f-7993b6a4acfb",
+            "clue": "Potassium hydroxide's chemical formula",
+            "answer": "koh",
+            "normalized": "koh"
           }
         ],
-        "track": "PC|LenC--Y2026M7D1F1"
+        "track": "PC|LenC--Y2026M7D2F1"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-07-01",
+      "key": "2026-07-02",
       "year": 2026,
       "month": 7,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M7D1F0",
+        "puzzleId": "PC|LenC--Y2026M7D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
-            "clue": "The number of toes most people have",
-            "answer": "ten",
-            "normalized": "ten"
+            "id": "92af272a-68e6-4494-875d-16d5e425bcda",
+            "clue": "American navy ships have this prefix",
+            "answer": "uss",
+            "normalized": "uss"
           },
           {
-            "id": "1e4c7748-36cc-4b7a-b4a4-99fe4936148e",
-            "clue": "Bob Marley's musical style, originating in Jamaica",
-            "answer": "reggae",
-            "normalized": "reggae"
+            "id": "a4b366b9-508b-49f8-bccf-e88de4a2d8b7",
+            "clue": "Swedish car manufacturer sold to Spyker in 2010",
+            "answer": "saab",
+            "normalized": "saab"
           },
           {
-            "id": "064a74dc-17bd-4ffd-a288-673f67f7120e",
-            "clue": "Get up from lying or sitting; move forward",
-            "answer": "uprise",
-            "normalized": "uprise"
+            "id": "b56e2aad-81e0-4eba-9591-515b5a0f1389",
+            "clue": "The sucking sound made when drinking a smoothie",
+            "answer": "slurp",
+            "normalized": "slurp"
           },
           {
-            "id": "bf1493a4-423e-4b0a-bd6c-3fb6564a66f2",
-            "clue": "Moaned, complained, like a bovine",
-            "answer": "beefed",
-            "normalized": "beefed"
+            "id": "05fed18b-f702-492f-bc98-b7cd99c8a042",
+            "clue": "Happen again",
+            "answer": "recur",
+            "normalized": "recur"
           },
           {
-            "id": "6d295b16-de7f-4781-b921-307b124b8c64",
-            "clue": "Evergreen tree, Taxus baccata, used in archery",
-            "answer": "yew",
-            "normalized": "yew"
+            "id": "a5fe5e88-3901-48a6-b2e5-5aff5367d4d3",
+            "clue": "The shape of a protractor, __-circle",
+            "answer": "semi",
+            "normalized": "semi"
           },
           {
-            "id": "fa8681ff-b3cb-4b99-bba3-80240e5dac82",
-            "clue": "Celebrating the end of the workweek",
-            "answer": "tgif",
-            "normalized": "tgif"
+            "id": "3e036e8c-515f-4962-96fb-42c792be6d81",
+            "clue": "Word following Oedipus or Tyrannosaurus",
+            "answer": "rex",
+            "normalized": "rex"
           },
           {
-            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
-            "clue": "Relieve pain or tightness",
-            "answer": "ease",
-            "normalized": "ease"
+            "id": "658ec194-5448-4fb4-8e5f-bf19a680a042",
+            "clue": "Abbreviation for old Soviet states",
+            "answer": "ussr",
+            "normalized": "ussr"
           },
           {
-            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
-            "clue": "Require, necessitate",
-            "answer": "need",
-            "normalized": "need"
+            "id": "5b358316-84d9-4705-a4bf-c08f4c4c1115",
+            "clue": "Figures for the total sold by a business",
+            "answer": "sales",
+            "normalized": "sales"
           },
           {
-            "id": "c65707b2-6bda-4a6c-9632-8da6da9f8574",
-            "clue": "Red birthstone of July",
-            "answer": "ruby",
-            "normalized": "ruby"
+            "id": "5a0879c6-1d7a-4e56-a096-d210c093cbe8",
+            "clue": "Small plate for cups; flying alien transport",
+            "answer": "saucer",
+            "normalized": "saucer"
           },
           {
-            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
-            "clue": "One of three types of sword used in fencing",
-            "answer": "epee",
-            "normalized": "epee"
+            "id": "76ded965-2fd4-48a5-b35d-5a09d3de09e5",
+            "clue": "Another word for mist or fog",
+            "answer": "brume",
+            "normalized": "brume"
           },
           {
-            "id": "0b5fd126-5d3a-4a40-aadb-08e094c8eb4a",
-            "clue": "Got bigger",
-            "answer": "grew",
-            "normalized": "grew"
+            "id": "c55f0ee2-3107-4b79-a477-448eb5285074",
+            "clue": "Grand __, major race in Formula 1 racing",
+            "answer": "prix",
+            "normalized": "prix"
           }
         ],
-        "track": "PC|LenC--Y2026M7D1F0"
+        "track": "PC|LenC--Y2026M7D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M7D1F1",
+        "puzzleId": "PC|LenC--Y2026M7D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c13292e2-b9a9-49c7-ae3b-c028a823a84e",
-            "clue": "Leader of a monastery",
-            "answer": "abbot",
-            "normalized": "abbot"
+            "id": "d237ce9d-7e8b-4e3e-84b5-01de5c3e5db5",
+            "clue": "Resorts with mineral springs",
+            "answer": "spas",
+            "normalized": "spas"
           },
           {
-            "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
-            "clue": "Crude name for a male donkey, comes after \"jack\"",
-            "answer": "ass",
-            "normalized": "ass"
+            "id": "4a762094-6fa6-4837-bd18-0e897b532ab9",
+            "clue": "Aviation pioneer Earhart",
+            "answer": "amelia",
+            "normalized": "amelia"
           },
           {
-            "id": "39428386-f0d8-4776-bc77-8bc9934b93f6",
-            "clue": "Blue __ Shoes, first track on Elvis's debut record",
-            "answer": "suede",
-            "normalized": "suede"
+            "id": "f8f01ca7-68f1-41f1-9b99-0e7f6805de1d",
+            "clue": "Brazenly obvious, offensive, loud",
+            "answer": "blatant",
+            "normalized": "blatant"
           },
           {
-            "id": "ea92825b-3b50-4260-9e2c-a1c21ac497ff",
-            "clue": "One way to abbreviate \"see you tomorrow\" in a text",
-            "answer": "cyt",
-            "normalized": "cyt"
+            "id": "16465eb0-6742-4048-9a61-830f2bc33904",
+            "clue": "Liberia's three-letter country code",
+            "answer": "lbr",
+            "normalized": "lbr"
           },
           {
-            "id": "21b893d6-9f2a-4981-bac1-3564dbd98e33",
-            "clue": "The Black Jack is a large __ tropical fish",
-            "answer": "predatory",
-            "normalized": "predatory"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
-            "clue": "Web address",
-            "answer": "url",
-            "normalized": "url"
+            "id": "abc98961-7e85-42f0-9078-b8297afc2e7c",
+            "clue": "A grain plant used in hot cereal and animal feed",
+            "answer": "oat",
+            "normalized": "oat"
           },
           {
-            "id": "d629f766-2973-447c-a36e-582184ec4c4d",
-            "clue": "Often chanted three times at sporting matches",
-            "answer": "ole",
-            "normalized": "ole"
+            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
+            "clue": "Shiny Happy People band",
+            "answer": "rem",
+            "normalized": "rem"
           },
           {
-            "id": "b18266b8-34de-422b-a865-e0bb6e3a928b",
-            "clue": "Chris Pratt's Parks and Rec character",
-            "answer": "andy dwyer",
-            "normalized": "andydwyer"
+            "id": "b8ed32b7-2315-4036-9397-adf1881789fd",
+            "clue": "Calvin Harris and Dua Lipa song about a smooch",
+            "answer": "one kiss",
+            "normalized": "onekiss"
           },
           {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "22020dbe-1ed8-4a9b-b0e5-b7c7f7770fa6",
+            "clue": "Blanc, gris, Meunier, and noir",
+            "answer": "pinots",
+            "normalized": "pinots"
           },
           {
-            "id": "e5d9586e-93f1-4025-8873-51f3d798d49d",
-            "clue": "Frederiksen, re-elected Danish PM in November 2022",
-            "answer": "mette",
-            "normalized": "mette"
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
           },
           {
-            "id": "dfffad4b-a2cd-4a62-855d-b71010ad49b8",
-            "clue": "A reno project you complete without help",
-            "answer": "diy",
-            "normalized": "diy"
+            "id": "e691788e-6dca-40f9-8ceb-e94078b03917",
+            "clue": "Neatens, tidies",
+            "answer": "smartens",
+            "normalized": "smartens"
           },
           {
-            "id": "d7f87cd8-1a19-480e-8639-c4a682d3a482",
-            "clue": "Spotless, not dirty",
-            "answer": "clean",
-            "normalized": "clean"
+            "id": "1a7dc923-ceff-4b1f-8e20-bff66bfb0761",
+            "clue": "A cat, or stroke a cat",
+            "answer": "pet",
+            "normalized": "pet"
           },
           {
-            "id": "981b7eea-2237-46a4-9818-453d17ee9053",
-            "clue": "Its bite is said to have killed Cleopatra",
-            "answer": "asp",
-            "normalized": "asp"
+            "id": "033c87bf-ca37-47c8-b641-825f6ffdbad2",
+            "clue": "Speed, eagerness, promptness",
+            "answer": "alacrity",
+            "normalized": "alacrity"
           },
           {
-            "id": "dfadb792-870f-4d27-a22c-bbbd75b1a142",
-            "clue": "African country, home to Lake Tanganyika",
-            "answer": "burundi",
-            "normalized": "burundi"
+            "id": "e1886cd0-de0e-4adb-ab64-2acc08d1cf93",
+            "clue": "Like the Biblical world before Eve ate the fruit",
+            "answer": "sinless",
+            "normalized": "sinless"
           },
           {
-            "id": "7e2fe762-cea3-4ad9-abf1-55b49483854e",
-            "clue": "Icelandic annual ale celebration",
-            "answer": "beer day",
-            "normalized": "beerday"
+            "id": "c1d47505-b6d4-4dd9-bfcd-4da8aa300e04",
+            "clue": "Country in Europe next to N. Macedonia and Greece",
+            "answer": "albania",
+            "normalized": "albania"
           },
           {
-            "id": "2a511865-5ef3-4842-894e-ca969e62b655",
-            "clue": "Strangely or unusually",
-            "answer": "oddly",
-            "normalized": "oddly"
+            "id": "3151a0d4-5ec5-4f04-bcfc-7ea615cee9cc",
+            "clue": "The smallest constituent units of matter",
+            "answer": "atoms",
+            "normalized": "atoms"
           },
           {
-            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
-            "clue": "Leafy drink",
-            "answer": "tea",
-            "normalized": "tea"
+            "id": "94e12d01-5036-4252-9ea4-a668de4334c2",
+            "clue": "Strange low-frequency sound heard by NOAA in 1997",
+            "answer": "bloop",
+            "normalized": "bloop"
           },
           {
-            "id": "7516d0ce-778d-42aa-951a-9e066add13cd",
-            "clue": "Assistant, retainer",
-            "answer": "acolyte",
-            "normalized": "acolyte"
-          },
-          {
-            "id": "394edcf2-e350-4f55-ad95-d70c51d8d68f",
-            "clue": "Rita Wright, who sang With You I'm Born Again",
-            "answer": "syreeta",
-            "normalized": "syreeta"
-          },
-          {
-            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
-            "clue": "A pigpen",
-            "answer": "sty",
-            "normalized": "sty"
-          },
-          {
-            "id": "a4f4987d-1da6-4f6a-a825-36c3a97af0af",
-            "clue": "What most of us dry off with after a shower",
-            "answer": "towel",
-            "normalized": "towel"
-          },
-          {
-            "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
-            "clue": "The word that an ampersand stands in for",
-            "answer": "and",
-            "normalized": "and"
-          },
-          {
-            "id": "b8e246c1-9054-4490-b830-203a614665e3",
-            "clue": "It's Like That band, Run-__",
-            "answer": "dmc",
-            "normalized": "dmc"
-          },
-          {
-            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
-            "clue": "Cartoon Chihuahua paired with cat Stimpy",
-            "answer": "ren",
-            "normalized": "ren"
+            "id": "314d9441-68d6-4698-847f-7993b6a4acfb",
+            "clue": "Potassium hydroxide's chemical formula",
+            "answer": "koh",
+            "normalized": "koh"
           }
         ],
-        "track": "PC|LenC--Y2026M7D1F1"
+        "track": "PC|LenC--Y2026M7D2F1"
       }
     },
     "todayPublished": true
@@ -422289,21 +422145,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "VR3yOvwnw9rX4swuA1F/m/aPa8wqj4fCFgtjwGl7jMAZMS2EM4UsJ0MX+d5sYORX1msTp0LWF1S5/pg3kZ+IEYZGajrWZaynYdDH2nTwItCtgICQO4n0yYZjMGpAh1X2lGUWhHC+uUpzE9G0YU4UCqauLrFT89TFCfzjZzDGhV0pnMKeZqFecVVu8dlJ5n3My23M7ToJ9z7f7qQ6RUf/xiJVjf1DGDtuPOAxUpnqYCZngnbPSgDtRzRc22FN48PTJQ38Ka/XccxxiGhvKFZWmdfeYBhioesu6XUYV4U+3PE="
+        "z34+YHNuM1plttLdTaLn96f8Lq9WxM84Yg8pfV8d7TrMOR95iQP6FZej3WiDrwyQFgA8i22P8qwygt+uqNX1Q5zZgFOBEaSFNGBlnDnngCaq+VvEF1FF/7Plr2O6OUA7/KfERGVPbhdUx2xCR4Ots481IJq5wfcPWLh2qeaTeXXjmN8XxFLoeddZ5ClAwFJSlpUpBknh5C/d9cg5uBdPvHlrgwPLE0Y2btyn69I3Y5UW7xBT/9QCvLwaa3ARUhHma/gw0/O0jeY8wA7LJkyIluYiJPyykT7bs4ZRF0XAy38="
       ]
     },
     "decrypted": {
-      "Id": "b89eff38-799b-46cc-8a11-137a74fd6c84",
-      "Date": "2026-07-01T00:00:00Z",
+      "Id": "067b48eb-a4a3-43dd-a94e-de9546429146",
+      "Date": "2026-07-02T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "maple",
-      "NormalizedPassword": "maple",
+      "Password": "table",
+      "NormalizedPassword": "table",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-01T01:56:04.5120000+05:30",
-    "hash": "e7a9bbd9d5e96ac082e54767f3cd5210",
+    "dtu": "2026-07-02T01:51:02.0370000+05:30",
+    "hash": "f5e9844cb97bddcb88e4ff79cb2b381e",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
