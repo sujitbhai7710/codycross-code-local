@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T19:58:28.947Z",
+  "generatedAt": "2026-07-03T19:55:57.780Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 3
+    "day": 4
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 2
+        "QuantidadeDeFases": 4
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,427 +428251,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-03",
+      "key": "2026-07-04",
       "year": 2026,
       "month": 7,
-      "day": 3,
+      "day": 4,
       "small": {
-        "puzzleId": "7e66b041-54e7-41a0-aea3-9136609f3c5d",
+        "puzzleId": "32c97235-5705-43d0-be51-53c173e1da30",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 5,
         "answers": [
           {
-            "id": "d4a5963a-933b-4196-ad8a-2170cf90c3b9",
-            "clue": "Salt in French",
-            "answer": "sel",
-            "normalized": "sel"
+            "id": "4c8c47f8-ee7d-4e26-a264-cd097a5d2f06",
+            "clue": "Bean curd that can be firm or soft",
+            "answer": "tofu",
+            "normalized": "tofu"
           },
           {
-            "id": "6b0b2c18-47fd-4f14-84d1-9a3e76f8814a",
-            "clue": "Spanish artist known for his surreal paintings",
-            "answer": "dali",
-            "normalized": "dali"
+            "id": "e2076079-b1c6-4705-a6e7-092e0c2f55ee",
+            "clue": "Undo a lid on a bottle",
+            "answer": "open",
+            "normalized": "open"
           },
           {
-            "id": "d8191d72-6bd3-42bf-86e1-9fb410acadb9",
-            "clue": "Put this word before Sans for a childlike font",
-            "answer": "comic",
-            "normalized": "comic"
+            "id": "a2566acc-11d2-4483-87f5-e3e72db3591d",
+            "clue": "Repeated photo whose words change",
+            "answer": "meme",
+            "normalized": "meme"
           },
           {
-            "id": "51756bbd-ff65-40f4-ab32-7eb430524fc7",
-            "clue": "Clothing with lots of space, not tight",
-            "answer": "loose",
-            "normalized": "loose"
+            "id": "901d304f-e4f8-4691-8c52-899e00916d3a",
+            "clue": "Broadway's Cynthia, played Elphaba in film Wicked",
+            "answer": "erivo",
+            "normalized": "erivo"
           },
           {
-            "id": "2b5f717c-dbb9-4855-9b5b-7298b801faac",
-            "clue": "Burns quote, \"Some books are lies __ end to end\"",
-            "answer": "frae",
-            "normalized": "frae"
+            "id": "b2955156-95f6-496d-a390-3c5703d74731",
+            "clue": "Once more as if for the first time, a fresh go",
+            "answer": "anew",
+            "normalized": "anew"
           },
           {
-            "id": "bfcf2793-a291-4c26-922b-877378bfd41c",
-            "clue": "Polynesian island nation known for fa'a culture",
-            "answer": "samoa",
-            "normalized": "samoa"
+            "id": "196c69aa-1f65-454b-8539-dc153b041805",
+            "clue": "Patchett, Coulter, Taylor",
+            "answer": "ann",
+            "normalized": "ann"
           },
           {
-            "id": "f4b8bfa2-2ff4-4a48-bce9-c8dda11d5910",
-            "clue": "Für __, Beethoven's Bagatelle No. 25",
-            "answer": "elise",
-            "normalized": "elise"
+            "id": "9cc1c978-ab0c-4264-bedc-74a8f1d64fa6",
+            "clue": "A big, dense, scholarly book, a weighty __",
+            "answer": "tome",
+            "normalized": "tome"
           },
           {
-            "id": "52acfb5b-be74-47c7-a7b0-36716c720870",
-            "clue": "More than one louse in a kid's hair",
-            "answer": "lice",
-            "normalized": "lice"
+            "id": "47e86c03-41ef-4e17-be78-4d45c660f9a0",
+            "clue": "Performing art originating in 16th-century Italy",
+            "answer": "opera",
+            "normalized": "opera"
           },
           {
-            "id": "82f14873-f01e-4ff7-94c3-85de95838467",
-            "clue": "Entry to a house",
-            "answer": "door",
-            "normalized": "door"
+            "id": "f1e21e6a-3ce0-4fab-964c-41a6a7c12427",
+            "clue": "2022 Janina Ramirez book about Middle Ages women",
+            "answer": "femina",
+            "normalized": "femina"
           },
           {
-            "id": "acad1d80-d4b3-4fac-98e0-3fb70bfbe9d8",
-            "clue": "Chemical formula for chlorine monofluoride",
-            "answer": "clf",
-            "normalized": "clf"
+            "id": "df8018a7-8c01-4725-9cc6-da25628efb4c",
+            "clue": "Gymnastics event, __ bars",
+            "answer": "uneven",
+            "normalized": "uneven"
+          },
+          {
+            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
+            "clue": "Possess",
+            "answer": "own",
+            "normalized": "own"
           }
         ],
-        "track": "PC|LenC--Y2026M7D3F0"
+        "track": "PC|LenC--Y2026M7D4F0"
       },
       "mid": {
-        "puzzleId": "3b98429e-a43e-4e21-91ef-0f27dc75e364",
+        "puzzleId": "0a1e15eb-eebe-47db-9bba-a48c9db46d4b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "833a702d-1356-4fcf-8cfc-b97eeabea769",
-            "clue": "Silver fluoride expressed as a chemical formula",
-            "answer": "agf",
-            "normalized": "agf"
+            "id": "6836280c-a9bc-4a1e-bc1c-6850e533c0a4",
+            "clue": "Pointed remark, critical comment",
+            "answer": "barb",
+            "normalized": "barb"
           },
           {
-            "id": "8d2a20b5-116f-45aa-b179-b08d1452decf",
-            "clue": "Thermal energy rating in air conditioning units",
-            "answer": "btu",
-            "normalized": "btu"
+            "id": "54ee2fb1-0277-457d-9b4b-7e433b43167e",
+            "clue": "These are forbidden by social customs",
+            "answer": "taboos",
+            "normalized": "taboos"
           },
           {
-            "id": "8e440ade-b7b2-4470-995e-257bc03933c5",
-            "clue": "Former Soviet republic whose capital is Minsk",
-            "answer": "belarus",
-            "normalized": "belarus"
+            "id": "47febbf4-11fb-4e80-8668-6f4b5802dbda",
+            "clue": "Stinging, burning insect that marches",
+            "answer": "fire ant",
+            "normalized": "fireant"
           },
           {
-            "id": "b26004fa-afb2-43b6-8a35-ca5d7bf6ebc5",
-            "clue": "Unfriendly term for someone who sheds tears easily",
-            "answer": "crybaby",
-            "normalized": "crybaby"
+            "id": "09d84970-67f7-48cf-82f7-e9f7cabd2b0d",
+            "clue": "Sphere",
+            "answer": "orb",
+            "normalized": "orb"
           },
           {
-            "id": "82968933-2d67-4e2f-b1e2-86f08531f65f",
-            "clue": "Wired kitchen tool for whipping and combining",
-            "answer": "whisk",
-            "normalized": "whisk"
+            "id": "1d9e0980-aa45-4052-b088-0db86d892150",
+            "clue": "Dame Commander of the Order of the British Empire",
+            "answer": "dbe",
+            "normalized": "dbe"
           },
           {
-            "id": "cbb158f2-b5bc-4249-b8e6-53bc047fd795",
-            "clue": "Formed a trio with Aramis and Porthos",
-            "answer": "athos",
-            "normalized": "athos"
+            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
+            "clue": "A tailless primate",
+            "answer": "ape",
+            "normalized": "ape"
           },
           {
-            "id": "d3c3fd45-24a6-46ae-9198-47a78c664496",
-            "clue": "Grinning unpleasantly",
-            "answer": "leering",
-            "normalized": "leering"
+            "id": "c63720ac-4e77-423f-93a1-9642350cea8a",
+            "clue": "Extinct, flightless bird species from New Zealand",
+            "answer": "moa",
+            "normalized": "moa"
           },
           {
-            "id": "e83bacc9-8627-480c-8386-f815eab1dd38",
-            "clue": "Lens used in lighthouses",
-            "answer": "fresnel",
-            "normalized": "fresnel"
+            "id": "e84e5392-d8a4-4c90-847f-267dbbf2bdaa",
+            "clue": "Of __ Men, Steinbeck story",
+            "answer": "mice and",
+            "normalized": "miceand"
           },
           {
-            "id": "98ef14c8-905b-43b9-8b45-1dc16b42cbe6",
-            "clue": "Suffer from an illness",
-            "answer": "ail",
-            "normalized": "ail"
+            "id": "fbf5b1b2-27a1-4680-859c-116beb5a3ed8",
+            "clue": "Stubs of harvested trees",
+            "answer": "stumps",
+            "normalized": "stumps"
           },
           {
-            "id": "139f9002-ee4a-4f17-a50f-99ad7131fa81",
-            "clue": "Slime, ooze",
-            "answer": "goo",
-            "normalized": "goo"
+            "id": "17f423af-b9e8-4a36-806e-4fbf8ef05cdc",
+            "clue": "Divine father of Perseus",
+            "answer": "zeus",
+            "normalized": "zeus"
           },
           {
-            "id": "be44ad30-fa9e-4e20-afc7-2848e8206772",
-            "clue": "According to The Jackson 5, this is as easy as 123",
-            "answer": "abc",
-            "normalized": "abc"
+            "id": "420cbc1b-60dc-4a91-bc66-aeab860f7aa6",
+            "clue": "An outdoor grill",
+            "answer": "barbecue",
+            "normalized": "barbecue"
           },
           {
-            "id": "706009e0-8807-425b-8e20-23455fb6f8b3",
-            "clue": "Gerund abbreviation",
-            "answer": "ger",
-            "normalized": "ger"
+            "id": "74c862e1-8af3-43f4-b91e-0771f7d77405",
+            "clue": "President Lincoln's nickname, Honest __",
+            "answer": "abe",
+            "normalized": "abe"
           },
           {
-            "id": "f6cceb7e-11ba-4cec-894e-443606df3ece",
-            "clue": "Accounts for the even speed of a machine",
-            "answer": "flywheel",
-            "normalized": "flywheel"
+            "id": "3d04a61a-5b73-4cb6-87f9-d6054eb9dbaf",
+            "clue": "Foldable paper plans for showing you the way",
+            "answer": "roadmaps",
+            "normalized": "roadmaps"
           },
           {
-            "id": "3f4b4ba4-89e7-4454-acb9-a2cb7ab8f7ca",
-            "clue": "Method called pot roasting when using meats",
-            "answer": "braising",
-            "normalized": "braising"
+            "id": "a235e4c7-d68f-45f7-974b-1c92ec0d2a7e",
+            "clue": "French sweets or candies",
+            "answer": "bonbons",
+            "normalized": "bonbons"
           },
           {
-            "id": "25f11d72-8b39-4737-91fa-3a49dc670037",
-            "clue": "Vats, barrels",
-            "answer": "tubs",
-            "normalized": "tubs"
+            "id": "0d562222-0365-4d25-8b01-f8503367a17b",
+            "clue": "Sister ship of Bismarck, sunk in 1944 off Norway",
+            "answer": "tirpitz",
+            "normalized": "tirpitz"
           },
           {
-            "id": "f0568957-8f1e-43e0-b657-9baee2a88a80",
-            "clue": "2024 boxing match: Fury vs. __ in \"Ring of Fire\"",
-            "answer": "usyk",
-            "normalized": "usyk"
+            "id": "b066b022-d473-4960-b05e-d4365baae485",
+            "clue": "Stand in good __, to prove useful in the future",
+            "answer": "stead",
+            "normalized": "stead"
           },
           {
-            "id": "3704f9a1-7d87-4144-bc10-022638ab2186",
-            "clue": "Regards with disgust",
-            "answer": "abhors",
-            "normalized": "abhors"
+            "id": "ecb09135-fa10-4e3f-918b-3c0e164b89dd",
+            "clue": "What an ocean wave does when bubbling white",
+            "answer": "foams",
+            "normalized": "foams"
           },
           {
-            "id": "d646afa8-d554-44ef-bcd3-0ad3f564ade7",
-            "clue": "Former F1 team name, __ Romeo F1 Team Orlen",
-            "answer": "alfa",
-            "normalized": "alfa"
-          },
-          {
-            "id": "f194f340-5d96-4aa8-a2f5-f6d4f8b7ad5c",
-            "clue": "Hatcher the Desperate Housewife",
-            "answer": "teri",
-            "normalized": "teri"
-          },
-          {
-            "id": "e114b02b-4888-4f25-90ab-59d0f4fa87a6",
-            "clue": "Keanu Reeves' part in The Matrix",
-            "answer": "neo",
-            "normalized": "neo"
-          },
-          {
-            "id": "07afb114-121e-4980-87c1-868dd7e88b60",
-            "clue": "Day-__, extremely bright yellow, orange or pink",
-            "answer": "glo",
-            "normalized": "glo"
+            "id": "2ea4d778-4104-446f-9026-8c3ae560c721",
+            "clue": "Ostrich-like flightless bird",
+            "answer": "emu",
+            "normalized": "emu"
           }
         ],
-        "track": "PC|LenC--Y2026M7D3F1"
+        "track": "PC|LenC--Y2026M7D4F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-03",
+      "key": "2026-07-04",
       "year": 2026,
       "month": 7,
-      "day": 3,
+      "day": 4,
       "small": {
-        "puzzleId": "7e66b041-54e7-41a0-aea3-9136609f3c5d",
+        "puzzleId": "32c97235-5705-43d0-be51-53c173e1da30",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 5,
         "answers": [
           {
-            "id": "d4a5963a-933b-4196-ad8a-2170cf90c3b9",
-            "clue": "Salt in French",
-            "answer": "sel",
-            "normalized": "sel"
+            "id": "4c8c47f8-ee7d-4e26-a264-cd097a5d2f06",
+            "clue": "Bean curd that can be firm or soft",
+            "answer": "tofu",
+            "normalized": "tofu"
           },
           {
-            "id": "6b0b2c18-47fd-4f14-84d1-9a3e76f8814a",
-            "clue": "Spanish artist known for his surreal paintings",
-            "answer": "dali",
-            "normalized": "dali"
+            "id": "e2076079-b1c6-4705-a6e7-092e0c2f55ee",
+            "clue": "Undo a lid on a bottle",
+            "answer": "open",
+            "normalized": "open"
           },
           {
-            "id": "d8191d72-6bd3-42bf-86e1-9fb410acadb9",
-            "clue": "Put this word before Sans for a childlike font",
-            "answer": "comic",
-            "normalized": "comic"
+            "id": "a2566acc-11d2-4483-87f5-e3e72db3591d",
+            "clue": "Repeated photo whose words change",
+            "answer": "meme",
+            "normalized": "meme"
           },
           {
-            "id": "51756bbd-ff65-40f4-ab32-7eb430524fc7",
-            "clue": "Clothing with lots of space, not tight",
-            "answer": "loose",
-            "normalized": "loose"
+            "id": "901d304f-e4f8-4691-8c52-899e00916d3a",
+            "clue": "Broadway's Cynthia, played Elphaba in film Wicked",
+            "answer": "erivo",
+            "normalized": "erivo"
           },
           {
-            "id": "2b5f717c-dbb9-4855-9b5b-7298b801faac",
-            "clue": "Burns quote, \"Some books are lies __ end to end\"",
-            "answer": "frae",
-            "normalized": "frae"
+            "id": "b2955156-95f6-496d-a390-3c5703d74731",
+            "clue": "Once more as if for the first time, a fresh go",
+            "answer": "anew",
+            "normalized": "anew"
           },
           {
-            "id": "bfcf2793-a291-4c26-922b-877378bfd41c",
-            "clue": "Polynesian island nation known for fa'a culture",
-            "answer": "samoa",
-            "normalized": "samoa"
+            "id": "196c69aa-1f65-454b-8539-dc153b041805",
+            "clue": "Patchett, Coulter, Taylor",
+            "answer": "ann",
+            "normalized": "ann"
           },
           {
-            "id": "f4b8bfa2-2ff4-4a48-bce9-c8dda11d5910",
-            "clue": "Für __, Beethoven's Bagatelle No. 25",
-            "answer": "elise",
-            "normalized": "elise"
+            "id": "9cc1c978-ab0c-4264-bedc-74a8f1d64fa6",
+            "clue": "A big, dense, scholarly book, a weighty __",
+            "answer": "tome",
+            "normalized": "tome"
           },
           {
-            "id": "52acfb5b-be74-47c7-a7b0-36716c720870",
-            "clue": "More than one louse in a kid's hair",
-            "answer": "lice",
-            "normalized": "lice"
+            "id": "47e86c03-41ef-4e17-be78-4d45c660f9a0",
+            "clue": "Performing art originating in 16th-century Italy",
+            "answer": "opera",
+            "normalized": "opera"
           },
           {
-            "id": "82f14873-f01e-4ff7-94c3-85de95838467",
-            "clue": "Entry to a house",
-            "answer": "door",
-            "normalized": "door"
+            "id": "f1e21e6a-3ce0-4fab-964c-41a6a7c12427",
+            "clue": "2022 Janina Ramirez book about Middle Ages women",
+            "answer": "femina",
+            "normalized": "femina"
           },
           {
-            "id": "acad1d80-d4b3-4fac-98e0-3fb70bfbe9d8",
-            "clue": "Chemical formula for chlorine monofluoride",
-            "answer": "clf",
-            "normalized": "clf"
+            "id": "df8018a7-8c01-4725-9cc6-da25628efb4c",
+            "clue": "Gymnastics event, __ bars",
+            "answer": "uneven",
+            "normalized": "uneven"
+          },
+          {
+            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
+            "clue": "Possess",
+            "answer": "own",
+            "normalized": "own"
           }
         ],
-        "track": "PC|LenC--Y2026M7D3F0"
+        "track": "PC|LenC--Y2026M7D4F0"
       },
       "mid": {
-        "puzzleId": "3b98429e-a43e-4e21-91ef-0f27dc75e364",
+        "puzzleId": "0a1e15eb-eebe-47db-9bba-a48c9db46d4b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "833a702d-1356-4fcf-8cfc-b97eeabea769",
-            "clue": "Silver fluoride expressed as a chemical formula",
-            "answer": "agf",
-            "normalized": "agf"
+            "id": "6836280c-a9bc-4a1e-bc1c-6850e533c0a4",
+            "clue": "Pointed remark, critical comment",
+            "answer": "barb",
+            "normalized": "barb"
           },
           {
-            "id": "8d2a20b5-116f-45aa-b179-b08d1452decf",
-            "clue": "Thermal energy rating in air conditioning units",
-            "answer": "btu",
-            "normalized": "btu"
+            "id": "54ee2fb1-0277-457d-9b4b-7e433b43167e",
+            "clue": "These are forbidden by social customs",
+            "answer": "taboos",
+            "normalized": "taboos"
           },
           {
-            "id": "8e440ade-b7b2-4470-995e-257bc03933c5",
-            "clue": "Former Soviet republic whose capital is Minsk",
-            "answer": "belarus",
-            "normalized": "belarus"
+            "id": "47febbf4-11fb-4e80-8668-6f4b5802dbda",
+            "clue": "Stinging, burning insect that marches",
+            "answer": "fire ant",
+            "normalized": "fireant"
           },
           {
-            "id": "b26004fa-afb2-43b6-8a35-ca5d7bf6ebc5",
-            "clue": "Unfriendly term for someone who sheds tears easily",
-            "answer": "crybaby",
-            "normalized": "crybaby"
+            "id": "09d84970-67f7-48cf-82f7-e9f7cabd2b0d",
+            "clue": "Sphere",
+            "answer": "orb",
+            "normalized": "orb"
           },
           {
-            "id": "82968933-2d67-4e2f-b1e2-86f08531f65f",
-            "clue": "Wired kitchen tool for whipping and combining",
-            "answer": "whisk",
-            "normalized": "whisk"
+            "id": "1d9e0980-aa45-4052-b088-0db86d892150",
+            "clue": "Dame Commander of the Order of the British Empire",
+            "answer": "dbe",
+            "normalized": "dbe"
           },
           {
-            "id": "cbb158f2-b5bc-4249-b8e6-53bc047fd795",
-            "clue": "Formed a trio with Aramis and Porthos",
-            "answer": "athos",
-            "normalized": "athos"
+            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
+            "clue": "A tailless primate",
+            "answer": "ape",
+            "normalized": "ape"
           },
           {
-            "id": "d3c3fd45-24a6-46ae-9198-47a78c664496",
-            "clue": "Grinning unpleasantly",
-            "answer": "leering",
-            "normalized": "leering"
+            "id": "c63720ac-4e77-423f-93a1-9642350cea8a",
+            "clue": "Extinct, flightless bird species from New Zealand",
+            "answer": "moa",
+            "normalized": "moa"
           },
           {
-            "id": "e83bacc9-8627-480c-8386-f815eab1dd38",
-            "clue": "Lens used in lighthouses",
-            "answer": "fresnel",
-            "normalized": "fresnel"
+            "id": "e84e5392-d8a4-4c90-847f-267dbbf2bdaa",
+            "clue": "Of __ Men, Steinbeck story",
+            "answer": "mice and",
+            "normalized": "miceand"
           },
           {
-            "id": "98ef14c8-905b-43b9-8b45-1dc16b42cbe6",
-            "clue": "Suffer from an illness",
-            "answer": "ail",
-            "normalized": "ail"
+            "id": "fbf5b1b2-27a1-4680-859c-116beb5a3ed8",
+            "clue": "Stubs of harvested trees",
+            "answer": "stumps",
+            "normalized": "stumps"
           },
           {
-            "id": "139f9002-ee4a-4f17-a50f-99ad7131fa81",
-            "clue": "Slime, ooze",
-            "answer": "goo",
-            "normalized": "goo"
+            "id": "17f423af-b9e8-4a36-806e-4fbf8ef05cdc",
+            "clue": "Divine father of Perseus",
+            "answer": "zeus",
+            "normalized": "zeus"
           },
           {
-            "id": "be44ad30-fa9e-4e20-afc7-2848e8206772",
-            "clue": "According to The Jackson 5, this is as easy as 123",
-            "answer": "abc",
-            "normalized": "abc"
+            "id": "420cbc1b-60dc-4a91-bc66-aeab860f7aa6",
+            "clue": "An outdoor grill",
+            "answer": "barbecue",
+            "normalized": "barbecue"
           },
           {
-            "id": "706009e0-8807-425b-8e20-23455fb6f8b3",
-            "clue": "Gerund abbreviation",
-            "answer": "ger",
-            "normalized": "ger"
+            "id": "74c862e1-8af3-43f4-b91e-0771f7d77405",
+            "clue": "President Lincoln's nickname, Honest __",
+            "answer": "abe",
+            "normalized": "abe"
           },
           {
-            "id": "f6cceb7e-11ba-4cec-894e-443606df3ece",
-            "clue": "Accounts for the even speed of a machine",
-            "answer": "flywheel",
-            "normalized": "flywheel"
+            "id": "3d04a61a-5b73-4cb6-87f9-d6054eb9dbaf",
+            "clue": "Foldable paper plans for showing you the way",
+            "answer": "roadmaps",
+            "normalized": "roadmaps"
           },
           {
-            "id": "3f4b4ba4-89e7-4454-acb9-a2cb7ab8f7ca",
-            "clue": "Method called pot roasting when using meats",
-            "answer": "braising",
-            "normalized": "braising"
+            "id": "a235e4c7-d68f-45f7-974b-1c92ec0d2a7e",
+            "clue": "French sweets or candies",
+            "answer": "bonbons",
+            "normalized": "bonbons"
           },
           {
-            "id": "25f11d72-8b39-4737-91fa-3a49dc670037",
-            "clue": "Vats, barrels",
-            "answer": "tubs",
-            "normalized": "tubs"
+            "id": "0d562222-0365-4d25-8b01-f8503367a17b",
+            "clue": "Sister ship of Bismarck, sunk in 1944 off Norway",
+            "answer": "tirpitz",
+            "normalized": "tirpitz"
           },
           {
-            "id": "f0568957-8f1e-43e0-b657-9baee2a88a80",
-            "clue": "2024 boxing match: Fury vs. __ in \"Ring of Fire\"",
-            "answer": "usyk",
-            "normalized": "usyk"
+            "id": "b066b022-d473-4960-b05e-d4365baae485",
+            "clue": "Stand in good __, to prove useful in the future",
+            "answer": "stead",
+            "normalized": "stead"
           },
           {
-            "id": "3704f9a1-7d87-4144-bc10-022638ab2186",
-            "clue": "Regards with disgust",
-            "answer": "abhors",
-            "normalized": "abhors"
+            "id": "ecb09135-fa10-4e3f-918b-3c0e164b89dd",
+            "clue": "What an ocean wave does when bubbling white",
+            "answer": "foams",
+            "normalized": "foams"
           },
           {
-            "id": "d646afa8-d554-44ef-bcd3-0ad3f564ade7",
-            "clue": "Former F1 team name, __ Romeo F1 Team Orlen",
-            "answer": "alfa",
-            "normalized": "alfa"
-          },
-          {
-            "id": "f194f340-5d96-4aa8-a2f5-f6d4f8b7ad5c",
-            "clue": "Hatcher the Desperate Housewife",
-            "answer": "teri",
-            "normalized": "teri"
-          },
-          {
-            "id": "e114b02b-4888-4f25-90ab-59d0f4fa87a6",
-            "clue": "Keanu Reeves' part in The Matrix",
-            "answer": "neo",
-            "normalized": "neo"
-          },
-          {
-            "id": "07afb114-121e-4980-87c1-868dd7e88b60",
-            "clue": "Day-__, extremely bright yellow, orange or pink",
-            "answer": "glo",
-            "normalized": "glo"
+            "id": "2ea4d778-4104-446f-9026-8c3ae560c721",
+            "clue": "Ostrich-like flightless bird",
+            "answer": "emu",
+            "normalized": "emu"
           }
         ],
-        "track": "PC|LenC--Y2026M7D3F1"
+        "track": "PC|LenC--Y2026M7D4F1"
       }
     },
     "latestAvailableEntry": {
@@ -428883,21 +428859,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "KyiwkHqVNMka5BXzgNfEQ6NdXyq+so0jMdA2S17ytwfG5KkIwzarzXPTJKnvrNLP/aJ3Zll476spS7CeWFf/IbC9Py2CjVq84CB0HUbInIkyTuYhgFDEGocRuVaoW5Lz664WY8v1DmaPAp0RqaCrwKyVDgBalyPDG10sgT5q7YETrTtapIk28T3XFeqhWmzBv/nhm7HybpEXwztJUHkrC+GRActQpH2ksqTluNNX5eBrks6s8yBniSzXLfURTwK3DDO4K9c1izm04MuKdfCEVZv1hSFhm1tGM1HjDhGq05M="
+        "aV/fv4WI7lJgT6RVPiya5kGDW/B5kHkjrtoA9xskZk9Kn3Pp9g8zK39GJJmFyZvdC9ODIC34n8ajzCl/HJx4oLi+pG1iSwFbRjAE8zcNDBxePwUkBt8Rr47Ignkxb1ao7gI7BZNRq3ZBbxnYUnUPfSiVAwi6a+MD+KnSGYa5DazJvXCsy29KWFnKA0DFrpS8j6d6KWY3uSm+v7VhznVzBOFhMRXZGWoHJ1rDQ8Ha50YGClYwVOtHPBEHdANfiIB24Vg7x92Cnq8dpROr39ymxs8XkpBrw5YqWCvDGeiyjEw="
       ]
     },
     "decrypted": {
-      "Id": "81277ce4-c0ef-4340-b55e-87d5e8b5b65b",
-      "Date": "2026-07-03T00:00:00Z",
+      "Id": "b82969e3-21cd-457f-b0e8-6d3ac64c7018",
+      "Date": "2026-07-04T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "plant",
-      "NormalizedPassword": "plant",
+      "Password": "grill",
+      "NormalizedPassword": "grill",
       "MaxGuesses": 6,
-      "Version": 4,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-03T01:28:28.9470000+05:30",
-    "hash": "119b94c7c1443e5879c1b6b7245f0180",
+    "dtu": "2026-07-04T01:25:57.7800000+05:30",
+    "hash": "026272d0e9a76736ee5623e342d88f0f",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
