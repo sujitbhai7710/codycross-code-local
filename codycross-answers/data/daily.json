@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-03T19:55:57.780Z",
+  "generatedAt": "2026-07-04T19:42:29.896Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 4
+    "day": 5
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 4
+        "QuantidadeDeFases": 6
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,403 +428251,451 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-04",
+      "key": "2026-07-05",
       "year": 2026,
       "month": 7,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "32c97235-5705-43d0-be51-53c173e1da30",
+        "puzzleId": "ab37ee80-1c94-4048-8c2c-911825dd9931",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
+            "clue": "Sea fish used for liver oil",
+            "answer": "cod",
+            "normalized": "cod"
+          },
+          {
+            "id": "3c4af7d0-45dd-4989-a061-fc5e2ac2c4d0",
+            "clue": "Not foul",
+            "answer": "fair",
+            "normalized": "fair"
+          },
+          {
+            "id": "36c9bef9-7f91-409b-b39b-4fb71f7e725a",
+            "clue": "The first cloned sheep",
+            "answer": "dolly",
+            "normalized": "dolly"
+          },
+          {
+            "id": "873e5b15-275a-4107-a09c-2c4a2b7ee4de",
+            "clue": "Dwarf planet discovered in 2005",
+            "answer": "eris",
+            "normalized": "eris"
+          },
+          {
+            "id": "cab17d6c-5c17-47e2-92f1-48c9249e0cce",
+            "clue": "In short, the final authority in some sports",
+            "answer": "ref",
+            "normalized": "ref"
+          },
+          {
+            "id": "dc4fb60b-35a1-4f2a-b0c8-96290231aeeb",
+            "clue": "Person who succeeds the Islamic prophet Muhammad",
+            "answer": "calif",
+            "normalized": "calif"
+          },
+          {
+            "id": "8c39699d-5907-4dfc-9e94-b73087104baa",
+            "clue": "Sunflower, vegetable and olive in cooking",
+            "answer": "oils",
+            "normalized": "oils"
+          },
+          {
+            "id": "efc7647d-48f4-4173-b5cf-99f084e14ae8",
+            "clue": "Not wet",
+            "answer": "dry",
+            "normalized": "dry"
+          },
+          {
+            "id": "db0cb602-fa98-49e9-9659-d51ae795a3f4",
+            "clue": "Opposite of hind leg on a horse",
+            "answer": "fore",
+            "normalized": "fore"
+          },
+          {
+            "id": "230725e0-5050-4205-b7dc-80d3dc3f71a9",
+            "clue": "German masculine article meaning \"the\"",
+            "answer": "der",
+            "normalized": "der"
+          }
+        ],
+        "track": "PC|LenC--Y2026M7D5F0"
+      },
+      "mid": {
+        "puzzleId": "07fa318f-b156-4139-ac9a-308e70eb7a2d",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 5,
         "answers": [
           {
-            "id": "4c8c47f8-ee7d-4e26-a264-cd097a5d2f06",
-            "clue": "Bean curd that can be firm or soft",
-            "answer": "tofu",
-            "normalized": "tofu"
+            "id": "36dece8a-8142-4667-a81d-39dc2679e266",
+            "clue": "Structures that block water",
+            "answer": "dams",
+            "normalized": "dams"
           },
           {
-            "id": "e2076079-b1c6-4705-a6e7-092e0c2f55ee",
-            "clue": "Undo a lid on a bottle",
-            "answer": "open",
-            "normalized": "open"
+            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
+            "clue": "Many deaf people use this language in the UK",
+            "answer": "bsl",
+            "normalized": "bsl"
           },
           {
-            "id": "a2566acc-11d2-4483-87f5-e3e72db3591d",
-            "clue": "Repeated photo whose words change",
-            "answer": "meme",
-            "normalized": "meme"
+            "id": "9c0b552f-8331-4090-984b-52a36e89820e",
+            "clue": "Killer whale",
+            "answer": "orca",
+            "normalized": "orca"
           },
           {
-            "id": "901d304f-e4f8-4691-8c52-899e00916d3a",
-            "clue": "Broadway's Cynthia, played Elphaba in film Wicked",
-            "answer": "erivo",
-            "normalized": "erivo"
+            "id": "9217600d-d718-4073-80f8-f5b4b57a58ec",
+            "clue": "Popular advice, take one step __ time",
+            "answer": "at a",
+            "normalized": "ata"
           },
           {
-            "id": "b2955156-95f6-496d-a390-3c5703d74731",
-            "clue": "Once more as if for the first time, a fresh go",
-            "answer": "anew",
-            "normalized": "anew"
+            "id": "0ab24beb-9bc3-42ab-b04e-14c774af603c",
+            "clue": "Idi, African leader in The Last King of Scotland",
+            "answer": "amin",
+            "normalized": "amin"
           },
           {
-            "id": "196c69aa-1f65-454b-8539-dc153b041805",
-            "clue": "Patchett, Coulter, Taylor",
-            "answer": "ann",
-            "normalized": "ann"
+            "id": "a6e7acce-4929-4525-a110-c1ccdbe6f220",
+            "clue": "Morrison who sang Brown Eyed Girl",
+            "answer": "van",
+            "normalized": "van"
           },
           {
-            "id": "9cc1c978-ab0c-4264-bedc-74a8f1d64fa6",
-            "clue": "A big, dense, scholarly book, a weighty __",
-            "answer": "tome",
-            "normalized": "tome"
+            "id": "fc12268d-1184-4458-b9be-27ad336294ba",
+            "clue": "You want to roll a seven or __ in craps",
+            "answer": "eleven",
+            "normalized": "eleven"
           },
           {
-            "id": "47e86c03-41ef-4e17-be78-4d45c660f9a0",
-            "clue": "Performing art originating in 16th-century Italy",
-            "answer": "opera",
-            "normalized": "opera"
+            "id": "806d80c1-8518-4e59-bec7-1a223f7a3f9c",
+            "clue": "Do not resuscitate",
+            "answer": "dnr",
+            "normalized": "dnr"
           },
           {
-            "id": "f1e21e6a-3ce0-4fab-964c-41a6a7c12427",
-            "clue": "2022 Janina Ramirez book about Middle Ages women",
-            "answer": "femina",
-            "normalized": "femina"
+            "id": "f17238e9-d748-4128-863b-6456a1a21d77",
+            "clue": "Chichen __, Mayan pyramid found in the Yucatan",
+            "answer": "itza",
+            "normalized": "itza"
           },
           {
-            "id": "df8018a7-8c01-4725-9cc6-da25628efb4c",
-            "clue": "Gymnastics event, __ bars",
-            "answer": "uneven",
-            "normalized": "uneven"
+            "id": "0dbd14e6-1d50-43e5-8a68-83dff6067891",
+            "clue": "Christ the Redeemer statue's home",
+            "answer": "rio",
+            "normalized": "rio"
           },
           {
-            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
-            "clue": "Possess",
-            "answer": "own",
-            "normalized": "own"
+            "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
+            "clue": "And the rest, Latin abbreviation for other authors",
+            "answer": "et al",
+            "normalized": "etal"
+          },
+          {
+            "id": "d4ecaa7c-e8d6-49a1-ac9c-15456c7c1b33",
+            "clue": "A low bank or reef made of coral or rock",
+            "answer": "cay",
+            "normalized": "cay"
+          },
+          {
+            "id": "d849ae1f-2986-42f0-a539-5b7f797e558d",
+            "clue": "Partner to Lucille Ball of I Love Lucy",
+            "answer": "desi",
+            "normalized": "desi"
+          },
+          {
+            "id": "752677ef-ada7-4c93-993f-9be0c10a1a30",
+            "clue": "Abbreviation for a lifeless incoming patient",
+            "answer": "doa",
+            "normalized": "doa"
+          },
+          {
+            "id": "8b6c9c3b-cdb6-4c85-87fe-0ac9f8bc4697",
+            "clue": "Country whose capital is Yerevan",
+            "answer": "armenia",
+            "normalized": "armenia"
+          },
+          {
+            "id": "9c4cfefd-d8d4-4f41-80e5-1e61dad9e378",
+            "clue": "Irish golfer Rory, found success at young age",
+            "answer": "mcilroy",
+            "normalized": "mcilroy"
+          },
+          {
+            "id": "18b988cd-69dc-4672-a012-9f26d30c5458",
+            "clue": "Of sound mind",
+            "answer": "sane",
+            "normalized": "sane"
+          },
+          {
+            "id": "2a21c1f2-3701-4f17-b4c9-b7a203c846b5",
+            "clue": "Cut of beef also called a skirt steak",
+            "answer": "bavette",
+            "normalized": "bavette"
+          },
+          {
+            "id": "6fdee685-d880-4ee4-a2fa-ca3af5162ad8",
+            "clue": "Groups of lines in a poem",
+            "answer": "stanzas",
+            "normalized": "stanzas"
+          },
+          {
+            "id": "72de2585-b99e-43e1-917c-f47e65e87457",
+            "clue": "Interconnected computers in a small area",
+            "answer": "lan",
+            "normalized": "lan"
+          },
+          {
+            "id": "9827628b-a6b1-4d5c-bf33-7be29b85b9d5",
+            "clue": "Competed for",
+            "answer": "vied",
+            "normalized": "vied"
+          },
+          {
+            "id": "4b449c80-3ff5-4087-ae5d-67b6f5fa9f0f",
+            "clue": "Democratic Republic of the Congo for short",
+            "answer": "drc",
+            "normalized": "drc"
+          },
+          {
+            "id": "712996a4-277d-4054-8774-a90d9bff6414",
+            "clue": "Boxer Muhammad who was Cassius Clay",
+            "answer": "ali",
+            "normalized": "ali"
           }
         ],
-        "track": "PC|LenC--Y2026M7D4F0"
-      },
-      "mid": {
-        "puzzleId": "0a1e15eb-eebe-47db-9bba-a48c9db46d4b",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "6836280c-a9bc-4a1e-bc1c-6850e533c0a4",
-            "clue": "Pointed remark, critical comment",
-            "answer": "barb",
-            "normalized": "barb"
-          },
-          {
-            "id": "54ee2fb1-0277-457d-9b4b-7e433b43167e",
-            "clue": "These are forbidden by social customs",
-            "answer": "taboos",
-            "normalized": "taboos"
-          },
-          {
-            "id": "47febbf4-11fb-4e80-8668-6f4b5802dbda",
-            "clue": "Stinging, burning insect that marches",
-            "answer": "fire ant",
-            "normalized": "fireant"
-          },
-          {
-            "id": "09d84970-67f7-48cf-82f7-e9f7cabd2b0d",
-            "clue": "Sphere",
-            "answer": "orb",
-            "normalized": "orb"
-          },
-          {
-            "id": "1d9e0980-aa45-4052-b088-0db86d892150",
-            "clue": "Dame Commander of the Order of the British Empire",
-            "answer": "dbe",
-            "normalized": "dbe"
-          },
-          {
-            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
-            "clue": "A tailless primate",
-            "answer": "ape",
-            "normalized": "ape"
-          },
-          {
-            "id": "c63720ac-4e77-423f-93a1-9642350cea8a",
-            "clue": "Extinct, flightless bird species from New Zealand",
-            "answer": "moa",
-            "normalized": "moa"
-          },
-          {
-            "id": "e84e5392-d8a4-4c90-847f-267dbbf2bdaa",
-            "clue": "Of __ Men, Steinbeck story",
-            "answer": "mice and",
-            "normalized": "miceand"
-          },
-          {
-            "id": "fbf5b1b2-27a1-4680-859c-116beb5a3ed8",
-            "clue": "Stubs of harvested trees",
-            "answer": "stumps",
-            "normalized": "stumps"
-          },
-          {
-            "id": "17f423af-b9e8-4a36-806e-4fbf8ef05cdc",
-            "clue": "Divine father of Perseus",
-            "answer": "zeus",
-            "normalized": "zeus"
-          },
-          {
-            "id": "420cbc1b-60dc-4a91-bc66-aeab860f7aa6",
-            "clue": "An outdoor grill",
-            "answer": "barbecue",
-            "normalized": "barbecue"
-          },
-          {
-            "id": "74c862e1-8af3-43f4-b91e-0771f7d77405",
-            "clue": "President Lincoln's nickname, Honest __",
-            "answer": "abe",
-            "normalized": "abe"
-          },
-          {
-            "id": "3d04a61a-5b73-4cb6-87f9-d6054eb9dbaf",
-            "clue": "Foldable paper plans for showing you the way",
-            "answer": "roadmaps",
-            "normalized": "roadmaps"
-          },
-          {
-            "id": "a235e4c7-d68f-45f7-974b-1c92ec0d2a7e",
-            "clue": "French sweets or candies",
-            "answer": "bonbons",
-            "normalized": "bonbons"
-          },
-          {
-            "id": "0d562222-0365-4d25-8b01-f8503367a17b",
-            "clue": "Sister ship of Bismarck, sunk in 1944 off Norway",
-            "answer": "tirpitz",
-            "normalized": "tirpitz"
-          },
-          {
-            "id": "b066b022-d473-4960-b05e-d4365baae485",
-            "clue": "Stand in good __, to prove useful in the future",
-            "answer": "stead",
-            "normalized": "stead"
-          },
-          {
-            "id": "ecb09135-fa10-4e3f-918b-3c0e164b89dd",
-            "clue": "What an ocean wave does when bubbling white",
-            "answer": "foams",
-            "normalized": "foams"
-          },
-          {
-            "id": "2ea4d778-4104-446f-9026-8c3ae560c721",
-            "clue": "Ostrich-like flightless bird",
-            "answer": "emu",
-            "normalized": "emu"
-          }
-        ],
-        "track": "PC|LenC--Y2026M7D4F1"
+        "track": "PC|LenC--Y2026M7D5F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-04",
+      "key": "2026-07-05",
       "year": 2026,
       "month": 7,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "32c97235-5705-43d0-be51-53c173e1da30",
+        "puzzleId": "ab37ee80-1c94-4048-8c2c-911825dd9931",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
+            "clue": "Sea fish used for liver oil",
+            "answer": "cod",
+            "normalized": "cod"
+          },
+          {
+            "id": "3c4af7d0-45dd-4989-a061-fc5e2ac2c4d0",
+            "clue": "Not foul",
+            "answer": "fair",
+            "normalized": "fair"
+          },
+          {
+            "id": "36c9bef9-7f91-409b-b39b-4fb71f7e725a",
+            "clue": "The first cloned sheep",
+            "answer": "dolly",
+            "normalized": "dolly"
+          },
+          {
+            "id": "873e5b15-275a-4107-a09c-2c4a2b7ee4de",
+            "clue": "Dwarf planet discovered in 2005",
+            "answer": "eris",
+            "normalized": "eris"
+          },
+          {
+            "id": "cab17d6c-5c17-47e2-92f1-48c9249e0cce",
+            "clue": "In short, the final authority in some sports",
+            "answer": "ref",
+            "normalized": "ref"
+          },
+          {
+            "id": "dc4fb60b-35a1-4f2a-b0c8-96290231aeeb",
+            "clue": "Person who succeeds the Islamic prophet Muhammad",
+            "answer": "calif",
+            "normalized": "calif"
+          },
+          {
+            "id": "8c39699d-5907-4dfc-9e94-b73087104baa",
+            "clue": "Sunflower, vegetable and olive in cooking",
+            "answer": "oils",
+            "normalized": "oils"
+          },
+          {
+            "id": "efc7647d-48f4-4173-b5cf-99f084e14ae8",
+            "clue": "Not wet",
+            "answer": "dry",
+            "normalized": "dry"
+          },
+          {
+            "id": "db0cb602-fa98-49e9-9659-d51ae795a3f4",
+            "clue": "Opposite of hind leg on a horse",
+            "answer": "fore",
+            "normalized": "fore"
+          },
+          {
+            "id": "230725e0-5050-4205-b7dc-80d3dc3f71a9",
+            "clue": "German masculine article meaning \"the\"",
+            "answer": "der",
+            "normalized": "der"
+          }
+        ],
+        "track": "PC|LenC--Y2026M7D5F0"
+      },
+      "mid": {
+        "puzzleId": "07fa318f-b156-4139-ac9a-308e70eb7a2d",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 5,
         "answers": [
           {
-            "id": "4c8c47f8-ee7d-4e26-a264-cd097a5d2f06",
-            "clue": "Bean curd that can be firm or soft",
-            "answer": "tofu",
-            "normalized": "tofu"
+            "id": "36dece8a-8142-4667-a81d-39dc2679e266",
+            "clue": "Structures that block water",
+            "answer": "dams",
+            "normalized": "dams"
           },
           {
-            "id": "e2076079-b1c6-4705-a6e7-092e0c2f55ee",
-            "clue": "Undo a lid on a bottle",
-            "answer": "open",
-            "normalized": "open"
+            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
+            "clue": "Many deaf people use this language in the UK",
+            "answer": "bsl",
+            "normalized": "bsl"
           },
           {
-            "id": "a2566acc-11d2-4483-87f5-e3e72db3591d",
-            "clue": "Repeated photo whose words change",
-            "answer": "meme",
-            "normalized": "meme"
+            "id": "9c0b552f-8331-4090-984b-52a36e89820e",
+            "clue": "Killer whale",
+            "answer": "orca",
+            "normalized": "orca"
           },
           {
-            "id": "901d304f-e4f8-4691-8c52-899e00916d3a",
-            "clue": "Broadway's Cynthia, played Elphaba in film Wicked",
-            "answer": "erivo",
-            "normalized": "erivo"
+            "id": "9217600d-d718-4073-80f8-f5b4b57a58ec",
+            "clue": "Popular advice, take one step __ time",
+            "answer": "at a",
+            "normalized": "ata"
           },
           {
-            "id": "b2955156-95f6-496d-a390-3c5703d74731",
-            "clue": "Once more as if for the first time, a fresh go",
-            "answer": "anew",
-            "normalized": "anew"
+            "id": "0ab24beb-9bc3-42ab-b04e-14c774af603c",
+            "clue": "Idi, African leader in The Last King of Scotland",
+            "answer": "amin",
+            "normalized": "amin"
           },
           {
-            "id": "196c69aa-1f65-454b-8539-dc153b041805",
-            "clue": "Patchett, Coulter, Taylor",
-            "answer": "ann",
-            "normalized": "ann"
+            "id": "a6e7acce-4929-4525-a110-c1ccdbe6f220",
+            "clue": "Morrison who sang Brown Eyed Girl",
+            "answer": "van",
+            "normalized": "van"
           },
           {
-            "id": "9cc1c978-ab0c-4264-bedc-74a8f1d64fa6",
-            "clue": "A big, dense, scholarly book, a weighty __",
-            "answer": "tome",
-            "normalized": "tome"
+            "id": "fc12268d-1184-4458-b9be-27ad336294ba",
+            "clue": "You want to roll a seven or __ in craps",
+            "answer": "eleven",
+            "normalized": "eleven"
           },
           {
-            "id": "47e86c03-41ef-4e17-be78-4d45c660f9a0",
-            "clue": "Performing art originating in 16th-century Italy",
-            "answer": "opera",
-            "normalized": "opera"
+            "id": "806d80c1-8518-4e59-bec7-1a223f7a3f9c",
+            "clue": "Do not resuscitate",
+            "answer": "dnr",
+            "normalized": "dnr"
           },
           {
-            "id": "f1e21e6a-3ce0-4fab-964c-41a6a7c12427",
-            "clue": "2022 Janina Ramirez book about Middle Ages women",
-            "answer": "femina",
-            "normalized": "femina"
+            "id": "f17238e9-d748-4128-863b-6456a1a21d77",
+            "clue": "Chichen __, Mayan pyramid found in the Yucatan",
+            "answer": "itza",
+            "normalized": "itza"
           },
           {
-            "id": "df8018a7-8c01-4725-9cc6-da25628efb4c",
-            "clue": "Gymnastics event, __ bars",
-            "answer": "uneven",
-            "normalized": "uneven"
+            "id": "0dbd14e6-1d50-43e5-8a68-83dff6067891",
+            "clue": "Christ the Redeemer statue's home",
+            "answer": "rio",
+            "normalized": "rio"
           },
           {
-            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
-            "clue": "Possess",
-            "answer": "own",
-            "normalized": "own"
+            "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
+            "clue": "And the rest, Latin abbreviation for other authors",
+            "answer": "et al",
+            "normalized": "etal"
+          },
+          {
+            "id": "d4ecaa7c-e8d6-49a1-ac9c-15456c7c1b33",
+            "clue": "A low bank or reef made of coral or rock",
+            "answer": "cay",
+            "normalized": "cay"
+          },
+          {
+            "id": "d849ae1f-2986-42f0-a539-5b7f797e558d",
+            "clue": "Partner to Lucille Ball of I Love Lucy",
+            "answer": "desi",
+            "normalized": "desi"
+          },
+          {
+            "id": "752677ef-ada7-4c93-993f-9be0c10a1a30",
+            "clue": "Abbreviation for a lifeless incoming patient",
+            "answer": "doa",
+            "normalized": "doa"
+          },
+          {
+            "id": "8b6c9c3b-cdb6-4c85-87fe-0ac9f8bc4697",
+            "clue": "Country whose capital is Yerevan",
+            "answer": "armenia",
+            "normalized": "armenia"
+          },
+          {
+            "id": "9c4cfefd-d8d4-4f41-80e5-1e61dad9e378",
+            "clue": "Irish golfer Rory, found success at young age",
+            "answer": "mcilroy",
+            "normalized": "mcilroy"
+          },
+          {
+            "id": "18b988cd-69dc-4672-a012-9f26d30c5458",
+            "clue": "Of sound mind",
+            "answer": "sane",
+            "normalized": "sane"
+          },
+          {
+            "id": "2a21c1f2-3701-4f17-b4c9-b7a203c846b5",
+            "clue": "Cut of beef also called a skirt steak",
+            "answer": "bavette",
+            "normalized": "bavette"
+          },
+          {
+            "id": "6fdee685-d880-4ee4-a2fa-ca3af5162ad8",
+            "clue": "Groups of lines in a poem",
+            "answer": "stanzas",
+            "normalized": "stanzas"
+          },
+          {
+            "id": "72de2585-b99e-43e1-917c-f47e65e87457",
+            "clue": "Interconnected computers in a small area",
+            "answer": "lan",
+            "normalized": "lan"
+          },
+          {
+            "id": "9827628b-a6b1-4d5c-bf33-7be29b85b9d5",
+            "clue": "Competed for",
+            "answer": "vied",
+            "normalized": "vied"
+          },
+          {
+            "id": "4b449c80-3ff5-4087-ae5d-67b6f5fa9f0f",
+            "clue": "Democratic Republic of the Congo for short",
+            "answer": "drc",
+            "normalized": "drc"
+          },
+          {
+            "id": "712996a4-277d-4054-8774-a90d9bff6414",
+            "clue": "Boxer Muhammad who was Cassius Clay",
+            "answer": "ali",
+            "normalized": "ali"
           }
         ],
-        "track": "PC|LenC--Y2026M7D4F0"
-      },
-      "mid": {
-        "puzzleId": "0a1e15eb-eebe-47db-9bba-a48c9db46d4b",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "6836280c-a9bc-4a1e-bc1c-6850e533c0a4",
-            "clue": "Pointed remark, critical comment",
-            "answer": "barb",
-            "normalized": "barb"
-          },
-          {
-            "id": "54ee2fb1-0277-457d-9b4b-7e433b43167e",
-            "clue": "These are forbidden by social customs",
-            "answer": "taboos",
-            "normalized": "taboos"
-          },
-          {
-            "id": "47febbf4-11fb-4e80-8668-6f4b5802dbda",
-            "clue": "Stinging, burning insect that marches",
-            "answer": "fire ant",
-            "normalized": "fireant"
-          },
-          {
-            "id": "09d84970-67f7-48cf-82f7-e9f7cabd2b0d",
-            "clue": "Sphere",
-            "answer": "orb",
-            "normalized": "orb"
-          },
-          {
-            "id": "1d9e0980-aa45-4052-b088-0db86d892150",
-            "clue": "Dame Commander of the Order of the British Empire",
-            "answer": "dbe",
-            "normalized": "dbe"
-          },
-          {
-            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
-            "clue": "A tailless primate",
-            "answer": "ape",
-            "normalized": "ape"
-          },
-          {
-            "id": "c63720ac-4e77-423f-93a1-9642350cea8a",
-            "clue": "Extinct, flightless bird species from New Zealand",
-            "answer": "moa",
-            "normalized": "moa"
-          },
-          {
-            "id": "e84e5392-d8a4-4c90-847f-267dbbf2bdaa",
-            "clue": "Of __ Men, Steinbeck story",
-            "answer": "mice and",
-            "normalized": "miceand"
-          },
-          {
-            "id": "fbf5b1b2-27a1-4680-859c-116beb5a3ed8",
-            "clue": "Stubs of harvested trees",
-            "answer": "stumps",
-            "normalized": "stumps"
-          },
-          {
-            "id": "17f423af-b9e8-4a36-806e-4fbf8ef05cdc",
-            "clue": "Divine father of Perseus",
-            "answer": "zeus",
-            "normalized": "zeus"
-          },
-          {
-            "id": "420cbc1b-60dc-4a91-bc66-aeab860f7aa6",
-            "clue": "An outdoor grill",
-            "answer": "barbecue",
-            "normalized": "barbecue"
-          },
-          {
-            "id": "74c862e1-8af3-43f4-b91e-0771f7d77405",
-            "clue": "President Lincoln's nickname, Honest __",
-            "answer": "abe",
-            "normalized": "abe"
-          },
-          {
-            "id": "3d04a61a-5b73-4cb6-87f9-d6054eb9dbaf",
-            "clue": "Foldable paper plans for showing you the way",
-            "answer": "roadmaps",
-            "normalized": "roadmaps"
-          },
-          {
-            "id": "a235e4c7-d68f-45f7-974b-1c92ec0d2a7e",
-            "clue": "French sweets or candies",
-            "answer": "bonbons",
-            "normalized": "bonbons"
-          },
-          {
-            "id": "0d562222-0365-4d25-8b01-f8503367a17b",
-            "clue": "Sister ship of Bismarck, sunk in 1944 off Norway",
-            "answer": "tirpitz",
-            "normalized": "tirpitz"
-          },
-          {
-            "id": "b066b022-d473-4960-b05e-d4365baae485",
-            "clue": "Stand in good __, to prove useful in the future",
-            "answer": "stead",
-            "normalized": "stead"
-          },
-          {
-            "id": "ecb09135-fa10-4e3f-918b-3c0e164b89dd",
-            "clue": "What an ocean wave does when bubbling white",
-            "answer": "foams",
-            "normalized": "foams"
-          },
-          {
-            "id": "2ea4d778-4104-446f-9026-8c3ae560c721",
-            "clue": "Ostrich-like flightless bird",
-            "answer": "emu",
-            "normalized": "emu"
-          }
-        ],
-        "track": "PC|LenC--Y2026M7D4F1"
+        "track": "PC|LenC--Y2026M7D5F1"
       }
     },
     "latestAvailableEntry": {
@@ -428859,21 +428907,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "aV/fv4WI7lJgT6RVPiya5kGDW/B5kHkjrtoA9xskZk9Kn3Pp9g8zK39GJJmFyZvdC9ODIC34n8ajzCl/HJx4oLi+pG1iSwFbRjAE8zcNDBxePwUkBt8Rr47Ignkxb1ao7gI7BZNRq3ZBbxnYUnUPfSiVAwi6a+MD+KnSGYa5DazJvXCsy29KWFnKA0DFrpS8j6d6KWY3uSm+v7VhznVzBOFhMRXZGWoHJ1rDQ8Ha50YGClYwVOtHPBEHdANfiIB24Vg7x92Cnq8dpROr39ymxs8XkpBrw5YqWCvDGeiyjEw="
+        "98VumKqXVbaeoIV97MeV+BVPFEhTFiDRnpHWEwZZrXbTaSGzVThwBS1iZQaiAOG8UWsZmAzO+bKUR8lzdSk+W5T14vlXjPE1N+ZzOcKjMSnjXqIuXR0mH/CxrZFX5QTwpmZjlMF49uOv19zigFLqB7d8IN5OwOUnyYz16aKD+BmvgS4nIOpmU0AHzKQpH+0KvvGBAhh25uFDk0j5xZcN5yTvLh9RNIMkedhqQW4Jv6sDKDh9murqa0j75DwSZZSjbyR5w0Xlzg5Hrwp3NwWWQhtR9Xp5/Tes8OlgMQIyxMs="
       ]
     },
     "decrypted": {
-      "Id": "b82969e3-21cd-457f-b0e8-6d3ac64c7018",
-      "Date": "2026-07-04T00:00:00Z",
+      "Id": "df204ea8-34a1-4f2c-818c-1b13aef449cb",
+      "Date": "2026-07-05T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "grill",
-      "NormalizedPassword": "grill",
+      "Password": "suede",
+      "NormalizedPassword": "suede",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-04T01:25:57.7800000+05:30",
-    "hash": "026272d0e9a76736ee5623e342d88f0f",
+    "dtu": "2026-07-05T01:12:29.8960000+05:30",
+    "hash": "646ccad1b5cff94f0f292e06a9f172fe",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
