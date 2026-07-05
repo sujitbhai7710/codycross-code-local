@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-04T19:42:29.896Z",
+  "generatedAt": "2026-07-05T19:48:28.947Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 5
+    "day": 6
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 6
+        "QuantidadeDeFases": 8
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,451 +428251,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-05",
+      "key": "2026-07-06",
       "year": 2026,
       "month": 7,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "ab37ee80-1c94-4048-8c2c-911825dd9931",
+        "puzzleId": "e1e5c5ec-f4d6-4952-8ac3-305275e647db",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
-            "clue": "Sea fish used for liver oil",
-            "answer": "cod",
-            "normalized": "cod"
+            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
+            "clue": "Former name of Tokyo",
+            "answer": "edo",
+            "normalized": "edo"
           },
           {
-            "id": "3c4af7d0-45dd-4989-a061-fc5e2ac2c4d0",
-            "clue": "Not foul",
-            "answer": "fair",
-            "normalized": "fair"
+            "id": "c3556eb2-4262-4644-bebb-a099868a3bf0",
+            "clue": "Lifted a car with a gadget",
+            "answer": "jacked",
+            "normalized": "jacked"
           },
           {
-            "id": "36c9bef9-7f91-409b-b39b-4fb71f7e725a",
-            "clue": "The first cloned sheep",
-            "answer": "dolly",
-            "normalized": "dolly"
+            "id": "f38c3084-f7e0-47cb-8229-09f0a5cd1ea4",
+            "clue": "Chinua __ wrote Things Fall Apart",
+            "answer": "achebe",
+            "normalized": "achebe"
           },
           {
-            "id": "873e5b15-275a-4107-a09c-2c4a2b7ee4de",
-            "clue": "Dwarf planet discovered in 2005",
-            "answer": "eris",
-            "normalized": "eris"
+            "id": "3bd73f9d-020b-4f67-b9a3-2115043a753b",
+            "clue": "Places where belts are worn",
+            "answer": "waists",
+            "normalized": "waists"
           },
           {
-            "id": "cab17d6c-5c17-47e2-92f1-48c9249e0cce",
-            "clue": "In short, the final authority in some sports",
-            "answer": "ref",
-            "normalized": "ref"
+            "id": "769fc39f-5a82-4f11-8a2f-6a9eb77a9f03",
+            "clue": "Latin three letters to mark an error in writing",
+            "answer": "sic",
+            "normalized": "sic"
           },
           {
-            "id": "dc4fb60b-35a1-4f2a-b0c8-96290231aeeb",
-            "clue": "Person who succeeds the Islamic prophet Muhammad",
-            "answer": "calif",
-            "normalized": "calif"
+            "id": "b46241c3-4ca0-4bbb-a460-8015a1fecc92",
+            "clue": "Uses things frugally so they last longer, __ out",
+            "answer": "ekes",
+            "normalized": "ekes"
           },
           {
-            "id": "8c39699d-5907-4dfc-9e94-b73087104baa",
-            "clue": "Sunflower, vegetable and olive in cooking",
-            "answer": "oils",
-            "normalized": "oils"
+            "id": "f03160a5-09c6-4860-be11-83c4a1c2c2c1",
+            "clue": "Money owed",
+            "answer": "debt",
+            "normalized": "debt"
           },
           {
-            "id": "efc7647d-48f4-4173-b5cf-99f084e14ae8",
-            "clue": "Not wet",
-            "answer": "dry",
-            "normalized": "dry"
+            "id": "ed8c105d-a7cc-4af5-93e1-4ce1b425cccc",
+            "clue": "Ditties, poems",
+            "answer": "odes",
+            "normalized": "odes"
           },
           {
-            "id": "db0cb602-fa98-49e9-9659-d51ae795a3f4",
-            "clue": "Opposite of hind leg on a horse",
-            "answer": "fore",
-            "normalized": "fore"
+            "id": "36952957-9345-4bee-8136-d88b4a7e5798",
+            "clue": "Spielberg movie that kept people out of the ocean",
+            "answer": "jaws",
+            "normalized": "jaws"
           },
           {
-            "id": "230725e0-5050-4205-b7dc-80d3dc3f71a9",
-            "clue": "German masculine article meaning \"the\"",
-            "answer": "der",
-            "normalized": "der"
+            "id": "444e53f9-e9ca-489f-86fe-39b69d71cb37",
+            "clue": "South American berry, popular in health bowls",
+            "answer": "acai",
+            "normalized": "acai"
+          },
+          {
+            "id": "5e376758-6b18-42c2-8bb0-fc86b590d70c",
+            "clue": "Fashionable, in French",
+            "answer": "chic",
+            "normalized": "chic"
           }
         ],
-        "track": "PC|LenC--Y2026M7D5F0"
+        "track": "PC|LenC--Y2026M7D6F0"
       },
       "mid": {
-        "puzzleId": "07fa318f-b156-4139-ac9a-308e70eb7a2d",
+        "puzzleId": "6c1ab589-8f37-488d-b1ed-0b5c0922840c",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 5,
+        "version": 3,
         "answers": [
           {
-            "id": "36dece8a-8142-4667-a81d-39dc2679e266",
-            "clue": "Structures that block water",
-            "answer": "dams",
-            "normalized": "dams"
+            "id": "15875867-c860-4ae4-9996-804e3cdbb35f",
+            "clue": "The __ Men had a hit with Who Let the Dogs Out?",
+            "answer": "baha",
+            "normalized": "baha"
           },
           {
-            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
-            "clue": "Many deaf people use this language in the UK",
-            "answer": "bsl",
-            "normalized": "bsl"
+            "id": "0aff7317-7de7-4dc9-80e3-bdbca244f47d",
+            "clue": "Taiwanese Life of Pi filmmaker __ Lee",
+            "answer": "ang",
+            "normalized": "ang"
           },
           {
-            "id": "9c0b552f-8331-4090-984b-52a36e89820e",
-            "clue": "Killer whale",
-            "answer": "orca",
-            "normalized": "orca"
+            "id": "86b4fd4d-b3df-4dae-a301-79269ceafc1c",
+            "clue": "Eastern and southern West Indies; vacation place",
+            "answer": "caribbean",
+            "normalized": "caribbean"
           },
           {
-            "id": "9217600d-d718-4073-80f8-f5b4b57a58ec",
-            "clue": "Popular advice, take one step __ time",
-            "answer": "at a",
-            "normalized": "ata"
+            "id": "33437e39-31ed-4bdd-9c13-911010901051",
+            "clue": "__ of something; dominated or overtaken by",
+            "answer": "in the grip",
+            "normalized": "inthegrip"
           },
           {
-            "id": "0ab24beb-9bc3-42ab-b04e-14c774af603c",
-            "clue": "Idi, African leader in The Last King of Scotland",
-            "answer": "amin",
-            "normalized": "amin"
+            "id": "88059626-1162-452c-a700-1939ef286f9a",
+            "clue": "Pat at a stain gently to remove",
+            "answer": "dab",
+            "normalized": "dab"
           },
           {
-            "id": "a6e7acce-4929-4525-a110-c1ccdbe6f220",
-            "clue": "Morrison who sang Brown Eyed Girl",
-            "answer": "van",
-            "normalized": "van"
+            "id": "86bfad60-885b-40cd-9d70-ed076770e4e0",
+            "clue": "Prefix meaning three",
+            "answer": "tri",
+            "normalized": "tri"
           },
           {
-            "id": "fc12268d-1184-4458-b9be-27ad336294ba",
-            "clue": "You want to roll a seven or __ in craps",
-            "answer": "eleven",
-            "normalized": "eleven"
+            "id": "b3f5b418-baaf-4724-90d4-cac9d96286a7",
+            "clue": "To play a part on a stage",
+            "answer": "act",
+            "normalized": "act"
           },
           {
-            "id": "806d80c1-8518-4e59-bec7-1a223f7a3f9c",
-            "clue": "Do not resuscitate",
-            "answer": "dnr",
-            "normalized": "dnr"
+            "id": "6103c25d-11d6-44e6-8fdd-e3ffa2ffa4ac",
+            "clue": "One peak among many in a European mountain range",
+            "answer": "alp",
+            "normalized": "alp"
           },
           {
-            "id": "f17238e9-d748-4128-863b-6456a1a21d77",
-            "clue": "Chichen __, Mayan pyramid found in the Yucatan",
-            "answer": "itza",
-            "normalized": "itza"
+            "id": "afdc1c60-b3ee-4c16-acba-cdc178cd2a8a",
+            "clue": "Underwater corroded metal stalactites",
+            "answer": "rusticles",
+            "normalized": "rusticles"
           },
           {
-            "id": "0dbd14e6-1d50-43e5-8a68-83dff6067891",
-            "clue": "Christ the Redeemer statue's home",
-            "answer": "rio",
-            "normalized": "rio"
+            "id": "30dc7b73-26d5-4ede-ad53-e6b1972e7364",
+            "clue": "Forever more, without end",
+            "answer": "eternally",
+            "normalized": "eternally"
           },
           {
-            "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-            "clue": "And the rest, Latin abbreviation for other authors",
-            "answer": "et al",
-            "normalized": "etal"
+            "id": "dd14669d-3cb4-467a-8c18-31cbb4d93abc",
+            "clue": "Middle title of singer Lana Rey",
+            "answer": "del",
+            "normalized": "del"
           },
           {
-            "id": "d4ecaa7c-e8d6-49a1-ac9c-15456c7c1b33",
-            "clue": "A low bank or reef made of coral or rock",
-            "answer": "cay",
-            "normalized": "cay"
+            "id": "5af64a39-9bb5-4fd7-90d6-5a8165dd9c63",
+            "clue": "Spanish painter of The Third of May 1808",
+            "answer": "goya",
+            "normalized": "goya"
           },
           {
-            "id": "d849ae1f-2986-42f0-a539-5b7f797e558d",
-            "clue": "Partner to Lucille Ball of I Love Lucy",
-            "answer": "desi",
-            "normalized": "desi"
+            "id": "0844fd78-bd9b-4603-8c4a-bebeed976421",
+            "clue": "Aussie actor Eric who played The Hulk",
+            "answer": "bana",
+            "normalized": "bana"
           },
           {
-            "id": "752677ef-ada7-4c93-993f-9be0c10a1a30",
-            "clue": "Abbreviation for a lifeless incoming patient",
-            "answer": "doa",
-            "normalized": "doa"
+            "id": "700ccb6f-b8d4-41f1-bf8e-48b0fec56a8e",
+            "clue": "Yearly gallery festival, named like Swiss hometown",
+            "answer": "art basel",
+            "normalized": "artbasel"
           },
           {
-            "id": "8b6c9c3b-cdb6-4c85-87fe-0ac9f8bc4697",
-            "clue": "Country whose capital is Yerevan",
-            "answer": "armenia",
-            "normalized": "armenia"
+            "id": "50ec230f-b2a4-42bd-8d03-bb90e6753ca5",
+            "clue": "His Imperial Highness for short",
+            "answer": "hih",
+            "normalized": "hih"
           },
           {
-            "id": "9c4cfefd-d8d4-4f41-80e5-1e61dad9e378",
-            "clue": "Irish golfer Rory, found success at young age",
-            "answer": "mcilroy",
-            "normalized": "mcilroy"
+            "id": "41f08710-5735-4870-a726-38c84564cef2",
+            "clue": "Aiding and __, knowingly taking part in a crime",
+            "answer": "abetting",
+            "normalized": "abetting"
           },
           {
-            "id": "18b988cd-69dc-4672-a012-9f26d30c5458",
-            "clue": "Of sound mind",
-            "answer": "sane",
-            "normalized": "sane"
+            "id": "7786db9c-4437-4fe0-892c-970d640f846b",
+            "clue": "How a trapeze artist works",
+            "answer": "aerially",
+            "normalized": "aerially"
           },
           {
-            "id": "2a21c1f2-3701-4f17-b4c9-b7a203c846b5",
-            "clue": "Cut of beef also called a skirt steak",
-            "answer": "bavette",
-            "normalized": "bavette"
+            "id": "938df00e-2b1a-4381-9899-1226c7b56fb8",
+            "clue": "Standard chemical for sodium iodide",
+            "answer": "nai",
+            "normalized": "nai"
           },
           {
-            "id": "6fdee685-d880-4ee4-a2fa-ca3af5162ad8",
-            "clue": "Groups of lines in a poem",
-            "answer": "stanzas",
-            "normalized": "stanzas"
+            "id": "5773550d-c16f-42da-af2b-f27a2a2b41d4",
+            "clue": "Abbreviation for Gross National Product",
+            "answer": "gnp",
+            "normalized": "gnp"
           },
           {
-            "id": "72de2585-b99e-43e1-917c-f47e65e87457",
-            "clue": "Interconnected computers in a small area",
-            "answer": "lan",
-            "normalized": "lan"
+            "id": "7c011e73-0242-4278-ac2a-c98c44ca1add",
+            "clue": "UK police Criminal Investigation Department",
+            "answer": "cid",
+            "normalized": "cid"
           },
           {
-            "id": "9827628b-a6b1-4d5c-bf33-7be29b85b9d5",
-            "clue": "Competed for",
-            "answer": "vied",
-            "normalized": "vied"
+            "id": "23078e9d-d09c-4a5d-954e-5857b806697c",
+            "clue": "Three-letter alpha code for Bulgaria",
+            "answer": "bgr",
+            "normalized": "bgr"
           },
           {
-            "id": "4b449c80-3ff5-4087-ae5d-67b6f5fa9f0f",
-            "clue": "Democratic Republic of the Congo for short",
-            "answer": "drc",
-            "normalized": "drc"
+            "id": "53e94dda-480f-4ba1-91a5-1d293ecef14f",
+            "clue": "Initialism for click-through rate",
+            "answer": "ctr",
+            "normalized": "ctr"
           },
           {
-            "id": "712996a4-277d-4054-8774-a90d9bff6414",
-            "clue": "Boxer Muhammad who was Cassius Clay",
-            "answer": "ali",
-            "normalized": "ali"
+            "id": "9039627f-8f5d-4694-8bb8-5250e3be48b7",
+            "clue": "Power actor Loren",
+            "answer": "lela",
+            "normalized": "lela"
+          },
+          {
+            "id": "be87391c-54a4-45e5-8f50-20c15e1bbf2e",
+            "clue": "Gangnam Style singer",
+            "answer": "psy",
+            "normalized": "psy"
+          },
+          {
+            "id": "67f610ea-a2cd-4fa6-a4f4-bb0f8501a584",
+            "clue": "Shade of fire vehicles and stop signs",
+            "answer": "red",
+            "normalized": "red"
+          },
+          {
+            "id": "7299f1de-45fc-4bc4-b966-5468a6042981",
+            "clue": "Aussie word for a utility vehicle",
+            "answer": "ute",
+            "normalized": "ute"
+          },
+          {
+            "id": "f76e54bf-8cb5-4b90-be65-7b5197e6885c",
+            "clue": "Acronym for a chief administrative officer",
+            "answer": "cao",
+            "normalized": "cao"
           }
         ],
-        "track": "PC|LenC--Y2026M7D5F1"
+        "track": "PC|LenC--Y2026M7D6F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-05",
+      "key": "2026-07-06",
       "year": 2026,
       "month": 7,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "ab37ee80-1c94-4048-8c2c-911825dd9931",
+        "puzzleId": "e1e5c5ec-f4d6-4952-8ac3-305275e647db",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
-            "clue": "Sea fish used for liver oil",
-            "answer": "cod",
-            "normalized": "cod"
+            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
+            "clue": "Former name of Tokyo",
+            "answer": "edo",
+            "normalized": "edo"
           },
           {
-            "id": "3c4af7d0-45dd-4989-a061-fc5e2ac2c4d0",
-            "clue": "Not foul",
-            "answer": "fair",
-            "normalized": "fair"
+            "id": "c3556eb2-4262-4644-bebb-a099868a3bf0",
+            "clue": "Lifted a car with a gadget",
+            "answer": "jacked",
+            "normalized": "jacked"
           },
           {
-            "id": "36c9bef9-7f91-409b-b39b-4fb71f7e725a",
-            "clue": "The first cloned sheep",
-            "answer": "dolly",
-            "normalized": "dolly"
+            "id": "f38c3084-f7e0-47cb-8229-09f0a5cd1ea4",
+            "clue": "Chinua __ wrote Things Fall Apart",
+            "answer": "achebe",
+            "normalized": "achebe"
           },
           {
-            "id": "873e5b15-275a-4107-a09c-2c4a2b7ee4de",
-            "clue": "Dwarf planet discovered in 2005",
-            "answer": "eris",
-            "normalized": "eris"
+            "id": "3bd73f9d-020b-4f67-b9a3-2115043a753b",
+            "clue": "Places where belts are worn",
+            "answer": "waists",
+            "normalized": "waists"
           },
           {
-            "id": "cab17d6c-5c17-47e2-92f1-48c9249e0cce",
-            "clue": "In short, the final authority in some sports",
-            "answer": "ref",
-            "normalized": "ref"
+            "id": "769fc39f-5a82-4f11-8a2f-6a9eb77a9f03",
+            "clue": "Latin three letters to mark an error in writing",
+            "answer": "sic",
+            "normalized": "sic"
           },
           {
-            "id": "dc4fb60b-35a1-4f2a-b0c8-96290231aeeb",
-            "clue": "Person who succeeds the Islamic prophet Muhammad",
-            "answer": "calif",
-            "normalized": "calif"
+            "id": "b46241c3-4ca0-4bbb-a460-8015a1fecc92",
+            "clue": "Uses things frugally so they last longer, __ out",
+            "answer": "ekes",
+            "normalized": "ekes"
           },
           {
-            "id": "8c39699d-5907-4dfc-9e94-b73087104baa",
-            "clue": "Sunflower, vegetable and olive in cooking",
-            "answer": "oils",
-            "normalized": "oils"
+            "id": "f03160a5-09c6-4860-be11-83c4a1c2c2c1",
+            "clue": "Money owed",
+            "answer": "debt",
+            "normalized": "debt"
           },
           {
-            "id": "efc7647d-48f4-4173-b5cf-99f084e14ae8",
-            "clue": "Not wet",
-            "answer": "dry",
-            "normalized": "dry"
+            "id": "ed8c105d-a7cc-4af5-93e1-4ce1b425cccc",
+            "clue": "Ditties, poems",
+            "answer": "odes",
+            "normalized": "odes"
           },
           {
-            "id": "db0cb602-fa98-49e9-9659-d51ae795a3f4",
-            "clue": "Opposite of hind leg on a horse",
-            "answer": "fore",
-            "normalized": "fore"
+            "id": "36952957-9345-4bee-8136-d88b4a7e5798",
+            "clue": "Spielberg movie that kept people out of the ocean",
+            "answer": "jaws",
+            "normalized": "jaws"
           },
           {
-            "id": "230725e0-5050-4205-b7dc-80d3dc3f71a9",
-            "clue": "German masculine article meaning \"the\"",
-            "answer": "der",
-            "normalized": "der"
+            "id": "444e53f9-e9ca-489f-86fe-39b69d71cb37",
+            "clue": "South American berry, popular in health bowls",
+            "answer": "acai",
+            "normalized": "acai"
+          },
+          {
+            "id": "5e376758-6b18-42c2-8bb0-fc86b590d70c",
+            "clue": "Fashionable, in French",
+            "answer": "chic",
+            "normalized": "chic"
           }
         ],
-        "track": "PC|LenC--Y2026M7D5F0"
+        "track": "PC|LenC--Y2026M7D6F0"
       },
       "mid": {
-        "puzzleId": "07fa318f-b156-4139-ac9a-308e70eb7a2d",
+        "puzzleId": "6c1ab589-8f37-488d-b1ed-0b5c0922840c",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 5,
+        "version": 3,
         "answers": [
           {
-            "id": "36dece8a-8142-4667-a81d-39dc2679e266",
-            "clue": "Structures that block water",
-            "answer": "dams",
-            "normalized": "dams"
+            "id": "15875867-c860-4ae4-9996-804e3cdbb35f",
+            "clue": "The __ Men had a hit with Who Let the Dogs Out?",
+            "answer": "baha",
+            "normalized": "baha"
           },
           {
-            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
-            "clue": "Many deaf people use this language in the UK",
-            "answer": "bsl",
-            "normalized": "bsl"
+            "id": "0aff7317-7de7-4dc9-80e3-bdbca244f47d",
+            "clue": "Taiwanese Life of Pi filmmaker __ Lee",
+            "answer": "ang",
+            "normalized": "ang"
           },
           {
-            "id": "9c0b552f-8331-4090-984b-52a36e89820e",
-            "clue": "Killer whale",
-            "answer": "orca",
-            "normalized": "orca"
+            "id": "86b4fd4d-b3df-4dae-a301-79269ceafc1c",
+            "clue": "Eastern and southern West Indies; vacation place",
+            "answer": "caribbean",
+            "normalized": "caribbean"
           },
           {
-            "id": "9217600d-d718-4073-80f8-f5b4b57a58ec",
-            "clue": "Popular advice, take one step __ time",
-            "answer": "at a",
-            "normalized": "ata"
+            "id": "33437e39-31ed-4bdd-9c13-911010901051",
+            "clue": "__ of something; dominated or overtaken by",
+            "answer": "in the grip",
+            "normalized": "inthegrip"
           },
           {
-            "id": "0ab24beb-9bc3-42ab-b04e-14c774af603c",
-            "clue": "Idi, African leader in The Last King of Scotland",
-            "answer": "amin",
-            "normalized": "amin"
+            "id": "88059626-1162-452c-a700-1939ef286f9a",
+            "clue": "Pat at a stain gently to remove",
+            "answer": "dab",
+            "normalized": "dab"
           },
           {
-            "id": "a6e7acce-4929-4525-a110-c1ccdbe6f220",
-            "clue": "Morrison who sang Brown Eyed Girl",
-            "answer": "van",
-            "normalized": "van"
+            "id": "86bfad60-885b-40cd-9d70-ed076770e4e0",
+            "clue": "Prefix meaning three",
+            "answer": "tri",
+            "normalized": "tri"
           },
           {
-            "id": "fc12268d-1184-4458-b9be-27ad336294ba",
-            "clue": "You want to roll a seven or __ in craps",
-            "answer": "eleven",
-            "normalized": "eleven"
+            "id": "b3f5b418-baaf-4724-90d4-cac9d96286a7",
+            "clue": "To play a part on a stage",
+            "answer": "act",
+            "normalized": "act"
           },
           {
-            "id": "806d80c1-8518-4e59-bec7-1a223f7a3f9c",
-            "clue": "Do not resuscitate",
-            "answer": "dnr",
-            "normalized": "dnr"
+            "id": "6103c25d-11d6-44e6-8fdd-e3ffa2ffa4ac",
+            "clue": "One peak among many in a European mountain range",
+            "answer": "alp",
+            "normalized": "alp"
           },
           {
-            "id": "f17238e9-d748-4128-863b-6456a1a21d77",
-            "clue": "Chichen __, Mayan pyramid found in the Yucatan",
-            "answer": "itza",
-            "normalized": "itza"
+            "id": "afdc1c60-b3ee-4c16-acba-cdc178cd2a8a",
+            "clue": "Underwater corroded metal stalactites",
+            "answer": "rusticles",
+            "normalized": "rusticles"
           },
           {
-            "id": "0dbd14e6-1d50-43e5-8a68-83dff6067891",
-            "clue": "Christ the Redeemer statue's home",
-            "answer": "rio",
-            "normalized": "rio"
+            "id": "30dc7b73-26d5-4ede-ad53-e6b1972e7364",
+            "clue": "Forever more, without end",
+            "answer": "eternally",
+            "normalized": "eternally"
           },
           {
-            "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-            "clue": "And the rest, Latin abbreviation for other authors",
-            "answer": "et al",
-            "normalized": "etal"
+            "id": "dd14669d-3cb4-467a-8c18-31cbb4d93abc",
+            "clue": "Middle title of singer Lana Rey",
+            "answer": "del",
+            "normalized": "del"
           },
           {
-            "id": "d4ecaa7c-e8d6-49a1-ac9c-15456c7c1b33",
-            "clue": "A low bank or reef made of coral or rock",
-            "answer": "cay",
-            "normalized": "cay"
+            "id": "5af64a39-9bb5-4fd7-90d6-5a8165dd9c63",
+            "clue": "Spanish painter of The Third of May 1808",
+            "answer": "goya",
+            "normalized": "goya"
           },
           {
-            "id": "d849ae1f-2986-42f0-a539-5b7f797e558d",
-            "clue": "Partner to Lucille Ball of I Love Lucy",
-            "answer": "desi",
-            "normalized": "desi"
+            "id": "0844fd78-bd9b-4603-8c4a-bebeed976421",
+            "clue": "Aussie actor Eric who played The Hulk",
+            "answer": "bana",
+            "normalized": "bana"
           },
           {
-            "id": "752677ef-ada7-4c93-993f-9be0c10a1a30",
-            "clue": "Abbreviation for a lifeless incoming patient",
-            "answer": "doa",
-            "normalized": "doa"
+            "id": "700ccb6f-b8d4-41f1-bf8e-48b0fec56a8e",
+            "clue": "Yearly gallery festival, named like Swiss hometown",
+            "answer": "art basel",
+            "normalized": "artbasel"
           },
           {
-            "id": "8b6c9c3b-cdb6-4c85-87fe-0ac9f8bc4697",
-            "clue": "Country whose capital is Yerevan",
-            "answer": "armenia",
-            "normalized": "armenia"
+            "id": "50ec230f-b2a4-42bd-8d03-bb90e6753ca5",
+            "clue": "His Imperial Highness for short",
+            "answer": "hih",
+            "normalized": "hih"
           },
           {
-            "id": "9c4cfefd-d8d4-4f41-80e5-1e61dad9e378",
-            "clue": "Irish golfer Rory, found success at young age",
-            "answer": "mcilroy",
-            "normalized": "mcilroy"
+            "id": "41f08710-5735-4870-a726-38c84564cef2",
+            "clue": "Aiding and __, knowingly taking part in a crime",
+            "answer": "abetting",
+            "normalized": "abetting"
           },
           {
-            "id": "18b988cd-69dc-4672-a012-9f26d30c5458",
-            "clue": "Of sound mind",
-            "answer": "sane",
-            "normalized": "sane"
+            "id": "7786db9c-4437-4fe0-892c-970d640f846b",
+            "clue": "How a trapeze artist works",
+            "answer": "aerially",
+            "normalized": "aerially"
           },
           {
-            "id": "2a21c1f2-3701-4f17-b4c9-b7a203c846b5",
-            "clue": "Cut of beef also called a skirt steak",
-            "answer": "bavette",
-            "normalized": "bavette"
+            "id": "938df00e-2b1a-4381-9899-1226c7b56fb8",
+            "clue": "Standard chemical for sodium iodide",
+            "answer": "nai",
+            "normalized": "nai"
           },
           {
-            "id": "6fdee685-d880-4ee4-a2fa-ca3af5162ad8",
-            "clue": "Groups of lines in a poem",
-            "answer": "stanzas",
-            "normalized": "stanzas"
+            "id": "5773550d-c16f-42da-af2b-f27a2a2b41d4",
+            "clue": "Abbreviation for Gross National Product",
+            "answer": "gnp",
+            "normalized": "gnp"
           },
           {
-            "id": "72de2585-b99e-43e1-917c-f47e65e87457",
-            "clue": "Interconnected computers in a small area",
-            "answer": "lan",
-            "normalized": "lan"
+            "id": "7c011e73-0242-4278-ac2a-c98c44ca1add",
+            "clue": "UK police Criminal Investigation Department",
+            "answer": "cid",
+            "normalized": "cid"
           },
           {
-            "id": "9827628b-a6b1-4d5c-bf33-7be29b85b9d5",
-            "clue": "Competed for",
-            "answer": "vied",
-            "normalized": "vied"
+            "id": "23078e9d-d09c-4a5d-954e-5857b806697c",
+            "clue": "Three-letter alpha code for Bulgaria",
+            "answer": "bgr",
+            "normalized": "bgr"
           },
           {
-            "id": "4b449c80-3ff5-4087-ae5d-67b6f5fa9f0f",
-            "clue": "Democratic Republic of the Congo for short",
-            "answer": "drc",
-            "normalized": "drc"
+            "id": "53e94dda-480f-4ba1-91a5-1d293ecef14f",
+            "clue": "Initialism for click-through rate",
+            "answer": "ctr",
+            "normalized": "ctr"
           },
           {
-            "id": "712996a4-277d-4054-8774-a90d9bff6414",
-            "clue": "Boxer Muhammad who was Cassius Clay",
-            "answer": "ali",
-            "normalized": "ali"
+            "id": "9039627f-8f5d-4694-8bb8-5250e3be48b7",
+            "clue": "Power actor Loren",
+            "answer": "lela",
+            "normalized": "lela"
+          },
+          {
+            "id": "be87391c-54a4-45e5-8f50-20c15e1bbf2e",
+            "clue": "Gangnam Style singer",
+            "answer": "psy",
+            "normalized": "psy"
+          },
+          {
+            "id": "67f610ea-a2cd-4fa6-a4f4-bb0f8501a584",
+            "clue": "Shade of fire vehicles and stop signs",
+            "answer": "red",
+            "normalized": "red"
+          },
+          {
+            "id": "7299f1de-45fc-4bc4-b966-5468a6042981",
+            "clue": "Aussie word for a utility vehicle",
+            "answer": "ute",
+            "normalized": "ute"
+          },
+          {
+            "id": "f76e54bf-8cb5-4b90-be65-7b5197e6885c",
+            "clue": "Acronym for a chief administrative officer",
+            "answer": "cao",
+            "normalized": "cao"
           }
         ],
-        "track": "PC|LenC--Y2026M7D5F1"
+        "track": "PC|LenC--Y2026M7D6F1"
       }
     },
     "latestAvailableEntry": {
@@ -428907,21 +428967,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "98VumKqXVbaeoIV97MeV+BVPFEhTFiDRnpHWEwZZrXbTaSGzVThwBS1iZQaiAOG8UWsZmAzO+bKUR8lzdSk+W5T14vlXjPE1N+ZzOcKjMSnjXqIuXR0mH/CxrZFX5QTwpmZjlMF49uOv19zigFLqB7d8IN5OwOUnyYz16aKD+BmvgS4nIOpmU0AHzKQpH+0KvvGBAhh25uFDk0j5xZcN5yTvLh9RNIMkedhqQW4Jv6sDKDh9murqa0j75DwSZZSjbyR5w0Xlzg5Hrwp3NwWWQhtR9Xp5/Tes8OlgMQIyxMs="
+        "SH5TilBMepa6T2sy4p6AJjNRvApR/QL1WUIAECgwdcRbFdwTVIacEXlvZQnoC41J9/E7IiCzmPD74FnYM2XDFblxHNCijqIevkJL7QtEcGP92Lo0AfD4twpxsAFN1oQcH7mhLgDBKKWDJHCVhgh5pAoESrEg9myX2+4ZLZsmsnmOoWmu0G1vAai7hJm0Qwj1ZB8P0+jg1UeV/gfxu96oOTegpc/COvXQHAXPRh55n5sqOcVmJeOi0ty9QTjqzJSnSbvCH+NBYlBGk1VMpJb8GZ9m9NnaUXtWI7EilNyUv7M="
       ]
     },
     "decrypted": {
-      "Id": "df204ea8-34a1-4f2c-818c-1b13aef449cb",
-      "Date": "2026-07-05T00:00:00Z",
+      "Id": "32e05a62-d75b-4958-a5d7-32deaae42f3c",
+      "Date": "2026-07-06T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "suede",
-      "NormalizedPassword": "suede",
+      "Password": "eerie",
+      "NormalizedPassword": "eerie",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-05T01:12:29.8960000+05:30",
-    "hash": "646ccad1b5cff94f0f292e06a9f172fe",
+    "dtu": "2026-07-06T01:18:28.9470000+05:30",
+    "hash": "b9f32c07375e53e8977e99d3cc88ce7f",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
