@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05T19:48:28.947Z",
+  "generatedAt": "2026-07-06T20:19:42.962Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 6
+    "day": 7
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 8
+        "QuantidadeDeFases": 10
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,511 +428251,451 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-06",
+      "key": "2026-07-07",
       "year": 2026,
       "month": 7,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "e1e5c5ec-f4d6-4952-8ac3-305275e647db",
+        "puzzleId": "77186083-4205-439a-8975-ad251ef571f3",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
-            "clue": "Former name of Tokyo",
-            "answer": "edo",
-            "normalized": "edo"
+            "id": "0d29cdc2-7f41-43e3-8e9b-d6745a343308",
+            "clue": "Chinese smartphone with Reno and Find models",
+            "answer": "oppo",
+            "normalized": "oppo"
           },
           {
-            "id": "c3556eb2-4262-4644-bebb-a099868a3bf0",
-            "clue": "Lifted a car with a gadget",
-            "answer": "jacked",
-            "normalized": "jacked"
+            "id": "aae4df39-ec55-4b77-967d-2f9771c2c00b",
+            "clue": "In accord with fact or reality",
+            "answer": "truth",
+            "normalized": "truth"
           },
           {
-            "id": "f38c3084-f7e0-47cb-8229-09f0a5cd1ea4",
-            "clue": "Chinua __ wrote Things Fall Apart",
-            "answer": "achebe",
-            "normalized": "achebe"
+            "id": "a55fc797-2440-4a2f-a9a7-1bd16bddf45e",
+            "clue": "Humorous, clever",
+            "answer": "witty",
+            "normalized": "witty"
           },
           {
-            "id": "3bd73f9d-020b-4f67-b9a3-2115043a753b",
-            "clue": "Places where belts are worn",
-            "answer": "waists",
-            "normalized": "waists"
+            "id": "0d814d87-b719-4c0b-9ca6-ee5837b58db0",
+            "clue": "Forward movement with one foot",
+            "answer": "step",
+            "normalized": "step"
           },
           {
-            "id": "769fc39f-5a82-4f11-8a2f-6a9eb77a9f03",
-            "clue": "Latin three letters to mark an error in writing",
-            "answer": "sic",
-            "normalized": "sic"
+            "id": "022242f2-7d74-40c3-91be-db24958a4f7f",
+            "clue": "Surname of Charlotte Brontë's book Jane",
+            "answer": "eyre",
+            "normalized": "eyre"
           },
           {
-            "id": "b46241c3-4ca0-4bbb-a460-8015a1fecc92",
-            "clue": "Uses things frugally so they last longer, __ out",
-            "answer": "ekes",
-            "normalized": "ekes"
+            "id": "523ccdad-b27d-4468-b742-0cdc36b8a215",
+            "clue": "On the way, in internet speak",
+            "answer": "otw",
+            "normalized": "otw"
           },
           {
-            "id": "f03160a5-09c6-4860-be11-83c4a1c2c2c1",
-            "clue": "Money owed",
-            "answer": "debt",
-            "normalized": "debt"
+            "id": "8eb151f6-f084-44a6-9dc2-8b21af457cc8",
+            "clue": "Open using force, e.g. a lid",
+            "answer": "prise",
+            "normalized": "prise"
           },
           {
-            "id": "ed8c105d-a7cc-4af5-93e1-4ce1b425cccc",
-            "clue": "Ditties, poems",
-            "answer": "odes",
-            "normalized": "odes"
+            "id": "10d020ee-1c1b-425b-b5bc-a2ca6591af22",
+            "clue": "Paste used to seal cracks or set glass in windows",
+            "answer": "putty",
+            "normalized": "putty"
           },
           {
-            "id": "36952957-9345-4bee-8136-d88b4a7e5798",
-            "clue": "Spielberg movie that kept people out of the ocean",
-            "answer": "jaws",
-            "normalized": "jaws"
+            "id": "29622561-3ef2-4bd3-ac26-1edb37da4fd9",
+            "clue": "Playful water mammal that holds hands with others",
+            "answer": "otter",
+            "normalized": "otter"
           },
           {
-            "id": "444e53f9-e9ca-489f-86fe-39b69d71cb37",
-            "clue": "South American berry, popular in health bowls",
-            "answer": "acai",
-            "normalized": "acai"
-          },
-          {
-            "id": "5e376758-6b18-42c2-8bb0-fc86b590d70c",
-            "clue": "Fashionable, in French",
-            "answer": "chic",
-            "normalized": "chic"
+            "id": "9354be48-8a48-4a97-a0c0-3beec37516e0",
+            "clue": "Enthusiastic promotion",
+            "answer": "hype",
+            "normalized": "hype"
           }
         ],
-        "track": "PC|LenC--Y2026M7D6F0"
+        "track": "PC|LenC--Y2026M7D7F0"
       },
       "mid": {
-        "puzzleId": "6c1ab589-8f37-488d-b1ed-0b5c0922840c",
+        "puzzleId": "9078dced-a1a5-4ad2-bd6d-ffc0a822d554",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 6,
         "answers": [
           {
-            "id": "15875867-c860-4ae4-9996-804e3cdbb35f",
-            "clue": "The __ Men had a hit with Who Let the Dogs Out?",
-            "answer": "baha",
-            "normalized": "baha"
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
           },
           {
-            "id": "0aff7317-7de7-4dc9-80e3-bdbca244f47d",
-            "clue": "Taiwanese Life of Pi filmmaker __ Lee",
-            "answer": "ang",
-            "normalized": "ang"
+            "id": "1256bc08-b78d-4539-89e3-9f57e55df0ff",
+            "clue": "Three letters seen before regal ship names",
+            "answer": "hms",
+            "normalized": "hms"
           },
           {
-            "id": "86b4fd4d-b3df-4dae-a301-79269ceafc1c",
-            "clue": "Eastern and southern West Indies; vacation place",
-            "answer": "caribbean",
-            "normalized": "caribbean"
+            "id": "7ee211b2-486b-482c-bc7a-6ea551040d47",
+            "clue": "Pacific islands, Biblical character aka Jebediah",
+            "answer": "solomon",
+            "normalized": "solomon"
           },
           {
-            "id": "33437e39-31ed-4bdd-9c13-911010901051",
-            "clue": "__ of something; dominated or overtaken by",
-            "answer": "in the grip",
-            "normalized": "inthegrip"
+            "id": "adc12e8f-9384-4050-b5b7-74a93551ac3a",
+            "clue": "__ quo: one thing for another in Latin",
+            "answer": "quid pro",
+            "normalized": "quidpro"
           },
           {
-            "id": "88059626-1162-452c-a700-1939ef286f9a",
-            "clue": "Pat at a stain gently to remove",
-            "answer": "dab",
-            "normalized": "dab"
+            "id": "f766943f-c194-42a0-9d51-943ab4c57f78",
+            "clue": "Boat used by traditional Arabian pearl hunters",
+            "answer": "dhow",
+            "normalized": "dhow"
           },
           {
-            "id": "86bfad60-885b-40cd-9d70-ed076770e4e0",
-            "clue": "Prefix meaning three",
-            "answer": "tri",
-            "normalized": "tri"
+            "id": "473a5989-a53c-47d3-ae61-19548383762b",
+            "clue": "Actress Elisabeth who sounds like footwear",
+            "answer": "shue",
+            "normalized": "shue"
           },
           {
-            "id": "b3f5b418-baaf-4724-90d4-cac9d96286a7",
-            "clue": "To play a part on a stage",
-            "answer": "act",
-            "normalized": "act"
+            "id": "df6c4145-bc61-4978-b271-41aeb607cea0",
+            "clue": "A flight that takes you straight there",
+            "answer": "non stop",
+            "normalized": "nonstop"
           },
           {
-            "id": "6103c25d-11d6-44e6-8fdd-e3ffa2ffa4ac",
-            "clue": "One peak among many in a European mountain range",
-            "answer": "alp",
-            "normalized": "alp"
+            "id": "ff472b08-cfe4-41cc-ab20-51aca7599b47",
+            "clue": "Ancient quarter of a city",
+            "answer": "old town",
+            "normalized": "oldtown"
           },
           {
-            "id": "afdc1c60-b3ee-4c16-acba-cdc178cd2a8a",
-            "clue": "Underwater corroded metal stalactites",
-            "answer": "rusticles",
-            "normalized": "rusticles"
+            "id": "574c56d5-5d09-4012-ac85-1913196e7acb",
+            "clue": "One name for natural order in Chinese philosophy",
+            "answer": "tao",
+            "normalized": "tao"
           },
           {
-            "id": "30dc7b73-26d5-4ede-ad53-e6b1972e7364",
-            "clue": "Forever more, without end",
-            "answer": "eternally",
-            "normalized": "eternally"
+            "id": "722d75bb-0fc4-4332-9033-9abfdecf794c",
+            "clue": "Nope's opposite",
+            "answer": "yep",
+            "normalized": "yep"
           },
           {
-            "id": "dd14669d-3cb4-467a-8c18-31cbb4d93abc",
-            "clue": "Middle title of singer Lana Rey",
-            "answer": "del",
-            "normalized": "del"
+            "id": "b6a94de6-0444-4e59-84db-d6fed01d5368",
+            "clue": "Three letters after an English gentleman's name",
+            "answer": "esq",
+            "normalized": "esq"
           },
           {
-            "id": "5af64a39-9bb5-4fd7-90d6-5a8165dd9c63",
-            "clue": "Spanish painter of The Third of May 1808",
-            "answer": "goya",
-            "normalized": "goya"
+            "id": "bd5041c5-4361-4b5a-9d6d-70e5ac34363c",
+            "clue": "Romania's three-letter country code",
+            "answer": "rou",
+            "normalized": "rou"
           },
           {
-            "id": "0844fd78-bd9b-4603-8c4a-bebeed976421",
-            "clue": "Aussie actor Eric who played The Hulk",
-            "answer": "bana",
-            "normalized": "bana"
+            "id": "0ddfedf3-d691-4f48-a6b7-f143be2cfe12",
+            "clue": "Athlete Manning, director Roth",
+            "answer": "eli",
+            "normalized": "eli"
           },
           {
-            "id": "700ccb6f-b8d4-41f1-bf8e-48b0fec56a8e",
-            "clue": "Yearly gallery festival, named like Swiss hometown",
-            "answer": "art basel",
-            "normalized": "artbasel"
+            "id": "f0ff3915-899b-4e89-9d7e-5642a44eb6a2",
+            "clue": "Sound someone makes when indignant or irritated",
+            "answer": "hmph",
+            "normalized": "hmph"
           },
           {
-            "id": "50ec230f-b2a4-42bd-8d03-bb90e6753ca5",
-            "clue": "His Imperial Highness for short",
-            "answer": "hih",
-            "normalized": "hih"
+            "id": "cf34f125-5ff4-449a-b1cf-911095405aa0",
+            "clue": "Peruvian surrealist poet César",
+            "answer": "moro",
+            "normalized": "moro"
           },
           {
-            "id": "41f08710-5735-4870-a726-38c84564cef2",
-            "clue": "Aiding and __, knowingly taking part in a crime",
-            "answer": "abetting",
-            "normalized": "abetting"
+            "id": "1703d096-f62d-4473-9896-4f34506f67d5",
+            "clue": "In GoT, surname of illegitimate northerner",
+            "answer": "snow",
+            "normalized": "snow"
           },
           {
-            "id": "7786db9c-4437-4fe0-892c-970d640f846b",
-            "clue": "How a trapeze artist works",
-            "answer": "aerially",
-            "normalized": "aerially"
+            "id": "d533cb0b-60d1-43e3-8912-37f6503d9b91",
+            "clue": "The most unusual",
+            "answer": "oddest",
+            "normalized": "oddest"
           },
           {
-            "id": "938df00e-2b1a-4381-9899-1226c7b56fb8",
-            "clue": "Standard chemical for sodium iodide",
-            "answer": "nai",
-            "normalized": "nai"
+            "id": "cddd65ae-fc94-4fed-ac7f-dedcba20f50d",
+            "clue": "Nasal mucus",
+            "answer": "snot",
+            "normalized": "snot"
           },
           {
-            "id": "5773550d-c16f-42da-af2b-f27a2a2b41d4",
-            "clue": "Abbreviation for Gross National Product",
-            "answer": "gnp",
-            "normalized": "gnp"
+            "id": "3537a713-4c68-4099-9d0f-c65dba925c02",
+            "clue": "Spanish greeting",
+            "answer": "hola",
+            "normalized": "hola"
           },
           {
-            "id": "7c011e73-0242-4278-ac2a-c98c44ca1add",
-            "clue": "UK police Criminal Investigation Department",
-            "answer": "cid",
-            "normalized": "cid"
+            "id": "2af6a6bc-1cd2-46a6-8326-10bd207fbcd5",
+            "clue": "To reverse an action",
+            "answer": "undo",
+            "normalized": "undo"
           },
           {
-            "id": "23078e9d-d09c-4a5d-954e-5857b806697c",
-            "clue": "Three-letter alpha code for Bulgaria",
-            "answer": "bgr",
-            "normalized": "bgr"
+            "id": "bbe13723-4c14-417f-a3db-8998600120fc",
+            "clue": "Plaything",
+            "answer": "toy",
+            "normalized": "toy"
           },
           {
-            "id": "53e94dda-480f-4ba1-91a5-1d293ecef14f",
-            "clue": "Initialism for click-through rate",
-            "answer": "ctr",
-            "normalized": "ctr"
+            "id": "71348bef-30b8-46b6-8087-2a89e5ceca43",
+            "clue": "Have an obligation to repay someone",
+            "answer": "owe",
+            "normalized": "owe"
           },
           {
-            "id": "9039627f-8f5d-4694-8bb8-5250e3be48b7",
-            "clue": "Power actor Loren",
-            "answer": "lela",
-            "normalized": "lela"
-          },
-          {
-            "id": "be87391c-54a4-45e5-8f50-20c15e1bbf2e",
-            "clue": "Gangnam Style singer",
-            "answer": "psy",
-            "normalized": "psy"
-          },
-          {
-            "id": "67f610ea-a2cd-4fa6-a4f4-bb0f8501a584",
-            "clue": "Shade of fire vehicles and stop signs",
-            "answer": "red",
-            "normalized": "red"
-          },
-          {
-            "id": "7299f1de-45fc-4bc4-b966-5468a6042981",
-            "clue": "Aussie word for a utility vehicle",
-            "answer": "ute",
-            "normalized": "ute"
-          },
-          {
-            "id": "f76e54bf-8cb5-4b90-be65-7b5197e6885c",
-            "clue": "Acronym for a chief administrative officer",
-            "answer": "cao",
-            "normalized": "cao"
+            "id": "fc08f3fa-7f11-465c-ae97-b07a475f224e",
+            "clue": "Acronym for positive negative positive",
+            "answer": "pnp",
+            "normalized": "pnp"
           }
         ],
-        "track": "PC|LenC--Y2026M7D6F1"
+        "track": "PC|LenC--Y2026M7D7F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-06",
+      "key": "2026-07-07",
       "year": 2026,
       "month": 7,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "e1e5c5ec-f4d6-4952-8ac3-305275e647db",
+        "puzzleId": "77186083-4205-439a-8975-ad251ef571f3",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
-            "clue": "Former name of Tokyo",
-            "answer": "edo",
-            "normalized": "edo"
+            "id": "0d29cdc2-7f41-43e3-8e9b-d6745a343308",
+            "clue": "Chinese smartphone with Reno and Find models",
+            "answer": "oppo",
+            "normalized": "oppo"
           },
           {
-            "id": "c3556eb2-4262-4644-bebb-a099868a3bf0",
-            "clue": "Lifted a car with a gadget",
-            "answer": "jacked",
-            "normalized": "jacked"
+            "id": "aae4df39-ec55-4b77-967d-2f9771c2c00b",
+            "clue": "In accord with fact or reality",
+            "answer": "truth",
+            "normalized": "truth"
           },
           {
-            "id": "f38c3084-f7e0-47cb-8229-09f0a5cd1ea4",
-            "clue": "Chinua __ wrote Things Fall Apart",
-            "answer": "achebe",
-            "normalized": "achebe"
+            "id": "a55fc797-2440-4a2f-a9a7-1bd16bddf45e",
+            "clue": "Humorous, clever",
+            "answer": "witty",
+            "normalized": "witty"
           },
           {
-            "id": "3bd73f9d-020b-4f67-b9a3-2115043a753b",
-            "clue": "Places where belts are worn",
-            "answer": "waists",
-            "normalized": "waists"
+            "id": "0d814d87-b719-4c0b-9ca6-ee5837b58db0",
+            "clue": "Forward movement with one foot",
+            "answer": "step",
+            "normalized": "step"
           },
           {
-            "id": "769fc39f-5a82-4f11-8a2f-6a9eb77a9f03",
-            "clue": "Latin three letters to mark an error in writing",
-            "answer": "sic",
-            "normalized": "sic"
+            "id": "022242f2-7d74-40c3-91be-db24958a4f7f",
+            "clue": "Surname of Charlotte Brontë's book Jane",
+            "answer": "eyre",
+            "normalized": "eyre"
           },
           {
-            "id": "b46241c3-4ca0-4bbb-a460-8015a1fecc92",
-            "clue": "Uses things frugally so they last longer, __ out",
-            "answer": "ekes",
-            "normalized": "ekes"
+            "id": "523ccdad-b27d-4468-b742-0cdc36b8a215",
+            "clue": "On the way, in internet speak",
+            "answer": "otw",
+            "normalized": "otw"
           },
           {
-            "id": "f03160a5-09c6-4860-be11-83c4a1c2c2c1",
-            "clue": "Money owed",
-            "answer": "debt",
-            "normalized": "debt"
+            "id": "8eb151f6-f084-44a6-9dc2-8b21af457cc8",
+            "clue": "Open using force, e.g. a lid",
+            "answer": "prise",
+            "normalized": "prise"
           },
           {
-            "id": "ed8c105d-a7cc-4af5-93e1-4ce1b425cccc",
-            "clue": "Ditties, poems",
-            "answer": "odes",
-            "normalized": "odes"
+            "id": "10d020ee-1c1b-425b-b5bc-a2ca6591af22",
+            "clue": "Paste used to seal cracks or set glass in windows",
+            "answer": "putty",
+            "normalized": "putty"
           },
           {
-            "id": "36952957-9345-4bee-8136-d88b4a7e5798",
-            "clue": "Spielberg movie that kept people out of the ocean",
-            "answer": "jaws",
-            "normalized": "jaws"
+            "id": "29622561-3ef2-4bd3-ac26-1edb37da4fd9",
+            "clue": "Playful water mammal that holds hands with others",
+            "answer": "otter",
+            "normalized": "otter"
           },
           {
-            "id": "444e53f9-e9ca-489f-86fe-39b69d71cb37",
-            "clue": "South American berry, popular in health bowls",
-            "answer": "acai",
-            "normalized": "acai"
-          },
-          {
-            "id": "5e376758-6b18-42c2-8bb0-fc86b590d70c",
-            "clue": "Fashionable, in French",
-            "answer": "chic",
-            "normalized": "chic"
+            "id": "9354be48-8a48-4a97-a0c0-3beec37516e0",
+            "clue": "Enthusiastic promotion",
+            "answer": "hype",
+            "normalized": "hype"
           }
         ],
-        "track": "PC|LenC--Y2026M7D6F0"
+        "track": "PC|LenC--Y2026M7D7F0"
       },
       "mid": {
-        "puzzleId": "6c1ab589-8f37-488d-b1ed-0b5c0922840c",
+        "puzzleId": "9078dced-a1a5-4ad2-bd6d-ffc0a822d554",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 6,
         "answers": [
           {
-            "id": "15875867-c860-4ae4-9996-804e3cdbb35f",
-            "clue": "The __ Men had a hit with Who Let the Dogs Out?",
-            "answer": "baha",
-            "normalized": "baha"
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
           },
           {
-            "id": "0aff7317-7de7-4dc9-80e3-bdbca244f47d",
-            "clue": "Taiwanese Life of Pi filmmaker __ Lee",
-            "answer": "ang",
-            "normalized": "ang"
+            "id": "1256bc08-b78d-4539-89e3-9f57e55df0ff",
+            "clue": "Three letters seen before regal ship names",
+            "answer": "hms",
+            "normalized": "hms"
           },
           {
-            "id": "86b4fd4d-b3df-4dae-a301-79269ceafc1c",
-            "clue": "Eastern and southern West Indies; vacation place",
-            "answer": "caribbean",
-            "normalized": "caribbean"
+            "id": "7ee211b2-486b-482c-bc7a-6ea551040d47",
+            "clue": "Pacific islands, Biblical character aka Jebediah",
+            "answer": "solomon",
+            "normalized": "solomon"
           },
           {
-            "id": "33437e39-31ed-4bdd-9c13-911010901051",
-            "clue": "__ of something; dominated or overtaken by",
-            "answer": "in the grip",
-            "normalized": "inthegrip"
+            "id": "adc12e8f-9384-4050-b5b7-74a93551ac3a",
+            "clue": "__ quo: one thing for another in Latin",
+            "answer": "quid pro",
+            "normalized": "quidpro"
           },
           {
-            "id": "88059626-1162-452c-a700-1939ef286f9a",
-            "clue": "Pat at a stain gently to remove",
-            "answer": "dab",
-            "normalized": "dab"
+            "id": "f766943f-c194-42a0-9d51-943ab4c57f78",
+            "clue": "Boat used by traditional Arabian pearl hunters",
+            "answer": "dhow",
+            "normalized": "dhow"
           },
           {
-            "id": "86bfad60-885b-40cd-9d70-ed076770e4e0",
-            "clue": "Prefix meaning three",
-            "answer": "tri",
-            "normalized": "tri"
+            "id": "473a5989-a53c-47d3-ae61-19548383762b",
+            "clue": "Actress Elisabeth who sounds like footwear",
+            "answer": "shue",
+            "normalized": "shue"
           },
           {
-            "id": "b3f5b418-baaf-4724-90d4-cac9d96286a7",
-            "clue": "To play a part on a stage",
-            "answer": "act",
-            "normalized": "act"
+            "id": "df6c4145-bc61-4978-b271-41aeb607cea0",
+            "clue": "A flight that takes you straight there",
+            "answer": "non stop",
+            "normalized": "nonstop"
           },
           {
-            "id": "6103c25d-11d6-44e6-8fdd-e3ffa2ffa4ac",
-            "clue": "One peak among many in a European mountain range",
-            "answer": "alp",
-            "normalized": "alp"
+            "id": "ff472b08-cfe4-41cc-ab20-51aca7599b47",
+            "clue": "Ancient quarter of a city",
+            "answer": "old town",
+            "normalized": "oldtown"
           },
           {
-            "id": "afdc1c60-b3ee-4c16-acba-cdc178cd2a8a",
-            "clue": "Underwater corroded metal stalactites",
-            "answer": "rusticles",
-            "normalized": "rusticles"
+            "id": "574c56d5-5d09-4012-ac85-1913196e7acb",
+            "clue": "One name for natural order in Chinese philosophy",
+            "answer": "tao",
+            "normalized": "tao"
           },
           {
-            "id": "30dc7b73-26d5-4ede-ad53-e6b1972e7364",
-            "clue": "Forever more, without end",
-            "answer": "eternally",
-            "normalized": "eternally"
+            "id": "722d75bb-0fc4-4332-9033-9abfdecf794c",
+            "clue": "Nope's opposite",
+            "answer": "yep",
+            "normalized": "yep"
           },
           {
-            "id": "dd14669d-3cb4-467a-8c18-31cbb4d93abc",
-            "clue": "Middle title of singer Lana Rey",
-            "answer": "del",
-            "normalized": "del"
+            "id": "b6a94de6-0444-4e59-84db-d6fed01d5368",
+            "clue": "Three letters after an English gentleman's name",
+            "answer": "esq",
+            "normalized": "esq"
           },
           {
-            "id": "5af64a39-9bb5-4fd7-90d6-5a8165dd9c63",
-            "clue": "Spanish painter of The Third of May 1808",
-            "answer": "goya",
-            "normalized": "goya"
+            "id": "bd5041c5-4361-4b5a-9d6d-70e5ac34363c",
+            "clue": "Romania's three-letter country code",
+            "answer": "rou",
+            "normalized": "rou"
           },
           {
-            "id": "0844fd78-bd9b-4603-8c4a-bebeed976421",
-            "clue": "Aussie actor Eric who played The Hulk",
-            "answer": "bana",
-            "normalized": "bana"
+            "id": "0ddfedf3-d691-4f48-a6b7-f143be2cfe12",
+            "clue": "Athlete Manning, director Roth",
+            "answer": "eli",
+            "normalized": "eli"
           },
           {
-            "id": "700ccb6f-b8d4-41f1-bf8e-48b0fec56a8e",
-            "clue": "Yearly gallery festival, named like Swiss hometown",
-            "answer": "art basel",
-            "normalized": "artbasel"
+            "id": "f0ff3915-899b-4e89-9d7e-5642a44eb6a2",
+            "clue": "Sound someone makes when indignant or irritated",
+            "answer": "hmph",
+            "normalized": "hmph"
           },
           {
-            "id": "50ec230f-b2a4-42bd-8d03-bb90e6753ca5",
-            "clue": "His Imperial Highness for short",
-            "answer": "hih",
-            "normalized": "hih"
+            "id": "cf34f125-5ff4-449a-b1cf-911095405aa0",
+            "clue": "Peruvian surrealist poet César",
+            "answer": "moro",
+            "normalized": "moro"
           },
           {
-            "id": "41f08710-5735-4870-a726-38c84564cef2",
-            "clue": "Aiding and __, knowingly taking part in a crime",
-            "answer": "abetting",
-            "normalized": "abetting"
+            "id": "1703d096-f62d-4473-9896-4f34506f67d5",
+            "clue": "In GoT, surname of illegitimate northerner",
+            "answer": "snow",
+            "normalized": "snow"
           },
           {
-            "id": "7786db9c-4437-4fe0-892c-970d640f846b",
-            "clue": "How a trapeze artist works",
-            "answer": "aerially",
-            "normalized": "aerially"
+            "id": "d533cb0b-60d1-43e3-8912-37f6503d9b91",
+            "clue": "The most unusual",
+            "answer": "oddest",
+            "normalized": "oddest"
           },
           {
-            "id": "938df00e-2b1a-4381-9899-1226c7b56fb8",
-            "clue": "Standard chemical for sodium iodide",
-            "answer": "nai",
-            "normalized": "nai"
+            "id": "cddd65ae-fc94-4fed-ac7f-dedcba20f50d",
+            "clue": "Nasal mucus",
+            "answer": "snot",
+            "normalized": "snot"
           },
           {
-            "id": "5773550d-c16f-42da-af2b-f27a2a2b41d4",
-            "clue": "Abbreviation for Gross National Product",
-            "answer": "gnp",
-            "normalized": "gnp"
+            "id": "3537a713-4c68-4099-9d0f-c65dba925c02",
+            "clue": "Spanish greeting",
+            "answer": "hola",
+            "normalized": "hola"
           },
           {
-            "id": "7c011e73-0242-4278-ac2a-c98c44ca1add",
-            "clue": "UK police Criminal Investigation Department",
-            "answer": "cid",
-            "normalized": "cid"
+            "id": "2af6a6bc-1cd2-46a6-8326-10bd207fbcd5",
+            "clue": "To reverse an action",
+            "answer": "undo",
+            "normalized": "undo"
           },
           {
-            "id": "23078e9d-d09c-4a5d-954e-5857b806697c",
-            "clue": "Three-letter alpha code for Bulgaria",
-            "answer": "bgr",
-            "normalized": "bgr"
+            "id": "bbe13723-4c14-417f-a3db-8998600120fc",
+            "clue": "Plaything",
+            "answer": "toy",
+            "normalized": "toy"
           },
           {
-            "id": "53e94dda-480f-4ba1-91a5-1d293ecef14f",
-            "clue": "Initialism for click-through rate",
-            "answer": "ctr",
-            "normalized": "ctr"
+            "id": "71348bef-30b8-46b6-8087-2a89e5ceca43",
+            "clue": "Have an obligation to repay someone",
+            "answer": "owe",
+            "normalized": "owe"
           },
           {
-            "id": "9039627f-8f5d-4694-8bb8-5250e3be48b7",
-            "clue": "Power actor Loren",
-            "answer": "lela",
-            "normalized": "lela"
-          },
-          {
-            "id": "be87391c-54a4-45e5-8f50-20c15e1bbf2e",
-            "clue": "Gangnam Style singer",
-            "answer": "psy",
-            "normalized": "psy"
-          },
-          {
-            "id": "67f610ea-a2cd-4fa6-a4f4-bb0f8501a584",
-            "clue": "Shade of fire vehicles and stop signs",
-            "answer": "red",
-            "normalized": "red"
-          },
-          {
-            "id": "7299f1de-45fc-4bc4-b966-5468a6042981",
-            "clue": "Aussie word for a utility vehicle",
-            "answer": "ute",
-            "normalized": "ute"
-          },
-          {
-            "id": "f76e54bf-8cb5-4b90-be65-7b5197e6885c",
-            "clue": "Acronym for a chief administrative officer",
-            "answer": "cao",
-            "normalized": "cao"
+            "id": "fc08f3fa-7f11-465c-ae97-b07a475f224e",
+            "clue": "Acronym for positive negative positive",
+            "answer": "pnp",
+            "normalized": "pnp"
           }
         ],
-        "track": "PC|LenC--Y2026M7D6F1"
+        "track": "PC|LenC--Y2026M7D7F1"
       }
     },
     "latestAvailableEntry": {
@@ -428967,21 +428907,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "SH5TilBMepa6T2sy4p6AJjNRvApR/QL1WUIAECgwdcRbFdwTVIacEXlvZQnoC41J9/E7IiCzmPD74FnYM2XDFblxHNCijqIevkJL7QtEcGP92Lo0AfD4twpxsAFN1oQcH7mhLgDBKKWDJHCVhgh5pAoESrEg9myX2+4ZLZsmsnmOoWmu0G1vAai7hJm0Qwj1ZB8P0+jg1UeV/gfxu96oOTegpc/COvXQHAXPRh55n5sqOcVmJeOi0ty9QTjqzJSnSbvCH+NBYlBGk1VMpJb8GZ9m9NnaUXtWI7EilNyUv7M="
+        "hbGanSG9Ft5f6YeO6EcCKIQFP64VVwk0BAdxOrFKsSVw/WyM/ZJv9tVuRvy/JQNx1Ximt0WrqIToL8YTh1npQ3WUgqFaTFJtgFqEkQ7yLTamjIufXBv+73/ly/VE+tClcM2rkymOm+k8wh3eEjDuHeM41IXu0+WoQPTBIOR5VQKIm0l9IhQf9NaZhFji5VlgOViqYLBOdBQt0U+sEmjnYnA2BMEN2nAyWh1UOD6JhSXX/va8vJ7JK44IIyxM4X4BgnSL8bHQwfPD/KvOlW0Z8QHLOXHxXhewcc5Km2muTOE="
       ]
     },
     "decrypted": {
-      "Id": "32e05a62-d75b-4958-a5d7-32deaae42f3c",
-      "Date": "2026-07-06T00:00:00Z",
+      "Id": "977f8024-8cb6-4082-9c12-ed55b817b0e8",
+      "Date": "2026-07-07T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "eerie",
-      "NormalizedPassword": "eerie",
+      "Password": "lofty",
+      "NormalizedPassword": "lofty",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-06T01:18:28.9470000+05:30",
-    "hash": "b9f32c07375e53e8977e99d3cc88ce7f",
+    "dtu": "2026-07-07T01:49:42.9620000+05:30",
+    "hash": "7667c8e16117f0a434ce34ab97091242",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
