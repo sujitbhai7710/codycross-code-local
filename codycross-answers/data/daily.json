@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06T20:19:42.962Z",
+  "generatedAt": "2026-07-07T20:21:25.879Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 7
+    "day": 8
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 10
+        "QuantidadeDeFases": 12
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -37444,7 +37444,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -91016,7 +91016,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -97348,7 +97348,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -127577,7 +127577,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -131417,7 +131417,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -149855,7 +149855,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -205713,7 +205713,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -325712,7 +325712,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -333630,7 +333630,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -353380,7 +353380,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -386382,7 +386382,7 @@
             },
             {
               "id": "0349a69b-be16-4f9c-8ed1-c041dd77b04e",
-              "clue": "Terrible first Russian Tsar",
+              "clue": "The 'Terrible' first Russian Tsar",
               "answer": "ivan",
               "normalized": "ivan"
             },
@@ -428251,451 +428251,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-07",
+      "key": "2026-07-08",
       "year": 2026,
       "month": 7,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "77186083-4205-439a-8975-ad251ef571f3",
+        "puzzleId": "435a07b0-82ac-4a30-956d-1cdf44bd3461",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "0d29cdc2-7f41-43e3-8e9b-d6745a343308",
-            "clue": "Chinese smartphone with Reno and Find models",
-            "answer": "oppo",
-            "normalized": "oppo"
+            "id": "e14bffa8-2526-4260-8e06-792131e7bbb2",
+            "clue": "Customs and border protection for short",
+            "answer": "cbp",
+            "normalized": "cbp"
           },
           {
-            "id": "aae4df39-ec55-4b77-967d-2f9771c2c00b",
-            "clue": "In accord with fact or reality",
-            "answer": "truth",
-            "normalized": "truth"
+            "id": "23461899-5250-41f8-94df-ab82207a29c2",
+            "clue": "This cut of meat can be tender",
+            "answer": "loin",
+            "normalized": "loin"
           },
           {
-            "id": "a55fc797-2440-4a2f-a9a7-1bd16bddf45e",
-            "clue": "Humorous, clever",
-            "answer": "witty",
-            "normalized": "witty"
+            "id": "d50fdc64-edc8-4c6d-a298-3c3445255ce9",
+            "clue": "Portuguese explorer of India, __ da Gama",
+            "answer": "vasco",
+            "normalized": "vasco"
           },
           {
-            "id": "0d814d87-b719-4c0b-9ca6-ee5837b58db0",
-            "clue": "Forward movement with one foot",
-            "answer": "step",
-            "normalized": "step"
+            "id": "6fd22444-f9dd-43a3-9083-0c19f5b1b47e",
+            "clue": "Second smallest baleen whale in the world",
+            "answer": "minke",
+            "normalized": "minke"
           },
           {
-            "id": "022242f2-7d74-40c3-91be-db24958a4f7f",
-            "clue": "Surname of Charlotte Brontë's book Jane",
-            "answer": "eyre",
-            "normalized": "eyre"
+            "id": "a071f654-fec2-4bcd-b5c0-a4098239a318",
+            "clue": "Astrological sign associated with the ram",
+            "answer": "aries",
+            "normalized": "aries"
           },
           {
-            "id": "523ccdad-b27d-4468-b742-0cdc36b8a215",
-            "clue": "On the way, in internet speak",
-            "answer": "otw",
-            "normalized": "otw"
+            "id": "f162be9b-3fc4-4941-bff4-9931c8f3b61f",
+            "clue": "Consume food",
+            "answer": "eat",
+            "normalized": "eat"
           },
           {
-            "id": "8eb151f6-f084-44a6-9dc2-8b21af457cc8",
-            "clue": "Open using force, e.g. a lid",
-            "answer": "prise",
-            "normalized": "prise"
+            "id": "5d23a147-c5f2-4d13-ab8d-8069b1d49bb6",
+            "clue": "Marie __, monthly health and beauty magazine",
+            "answer": "claire",
+            "normalized": "claire"
           },
           {
-            "id": "10d020ee-1c1b-425b-b5bc-a2ca6591af22",
-            "clue": "Paste used to seal cracks or set glass in windows",
-            "answer": "putty",
-            "normalized": "putty"
+            "id": "7606cbdb-6258-4424-9114-810d929cc392",
+            "clue": "Its capital is Sarajevo, __ and Herzegovina",
+            "answer": "bosnia",
+            "normalized": "bosnia"
           },
           {
-            "id": "29622561-3ef2-4bd3-ac26-1edb37da4fd9",
-            "clue": "Playful water mammal that holds hands with others",
-            "answer": "otter",
-            "normalized": "otter"
+            "id": "74a4fed4-d244-4ab2-b30b-c20598e3fc6b",
+            "clue": "A pointed post, stake or pole",
+            "answer": "picket",
+            "normalized": "picket"
           },
           {
-            "id": "9354be48-8a48-4a97-a0c0-3beec37516e0",
-            "clue": "Enthusiastic promotion",
-            "answer": "hype",
-            "normalized": "hype"
+            "id": "8b0996b1-0de5-4275-82aa-484ae5a93bd4",
+            "clue": "Negative votes or answers",
+            "answer": "noes",
+            "normalized": "noes"
+          },
+          {
+            "id": "f458826f-558e-4782-b8f7-4471d160ec35",
+            "clue": "Music video award presented by MTV",
+            "answer": "vma",
+            "normalized": "vma"
           }
         ],
-        "track": "PC|LenC--Y2026M7D7F0"
+        "track": "PC|LenC--Y2026M7D8F0"
       },
       "mid": {
-        "puzzleId": "9078dced-a1a5-4ad2-bd6d-ffc0a822d554",
+        "puzzleId": "9c94457f-8a43-46da-8292-cad1597348bd",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 5,
         "answers": [
           {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
+            "id": "d59ecbae-68ed-4825-bb1f-2a11dbfb0dcf",
+            "clue": "Resin secreted by Kerria lacca insects",
+            "answer": "lac",
+            "normalized": "lac"
           },
           {
-            "id": "1256bc08-b78d-4539-89e3-9f57e55df0ff",
-            "clue": "Three letters seen before regal ship names",
-            "answer": "hms",
-            "normalized": "hms"
+            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
+            "clue": "Arctic vehicle pulled by dogs",
+            "answer": "sled",
+            "normalized": "sled"
           },
           {
-            "id": "7ee211b2-486b-482c-bc7a-6ea551040d47",
-            "clue": "Pacific islands, Biblical character aka Jebediah",
-            "answer": "solomon",
-            "normalized": "solomon"
+            "id": "4e990106-7e6a-4f39-b040-888aea3a226f",
+            "clue": "Greek letter; abbreviation used in transportation",
+            "answer": "eta",
+            "normalized": "eta"
           },
           {
-            "id": "adc12e8f-9384-4050-b5b7-74a93551ac3a",
-            "clue": "__ quo: one thing for another in Latin",
-            "answer": "quid pro",
-            "normalized": "quidpro"
+            "id": "919c326c-d7b0-4bac-9d09-b91aa75f53ef",
+            "clue": "A racing yacht that rhymes with taxi",
+            "answer": "maxi",
+            "normalized": "maxi"
           },
           {
-            "id": "f766943f-c194-42a0-9d51-943ab4c57f78",
-            "clue": "Boat used by traditional Arabian pearl hunters",
-            "answer": "dhow",
-            "normalized": "dhow"
+            "id": "669fe0e4-162f-4069-a5ac-256db9b87edb",
+            "clue": "Special effects company founded by George Lucas",
+            "answer": "ilm",
+            "normalized": "ilm"
           },
           {
-            "id": "473a5989-a53c-47d3-ae61-19548383762b",
-            "clue": "Actress Elisabeth who sounds like footwear",
-            "answer": "shue",
-            "normalized": "shue"
+            "id": "11a6f103-8708-4d54-aeb8-55e2aad7a346",
+            "clue": "Bruce Almighty sequel, __ Almighty",
+            "answer": "evan",
+            "normalized": "evan"
           },
           {
-            "id": "df6c4145-bc61-4978-b271-41aeb607cea0",
-            "clue": "A flight that takes you straight there",
-            "answer": "non stop",
-            "normalized": "nonstop"
+            "id": "092b8837-c5bb-4d7c-bbf2-6b42aa2430b4",
+            "clue": "Places that offer political protection to refugees",
+            "answer": "asylums",
+            "normalized": "asylums"
           },
           {
-            "id": "ff472b08-cfe4-41cc-ab20-51aca7599b47",
-            "clue": "Ancient quarter of a city",
-            "answer": "old town",
-            "normalized": "oldtown"
+            "id": "1312070b-28c1-4f50-971a-246828092a6b",
+            "clue": "Device sends medicine to lungs for asthma sufferer",
+            "answer": "inhaler",
+            "normalized": "inhaler"
           },
           {
-            "id": "574c56d5-5d09-4012-ac85-1913196e7acb",
-            "clue": "One name for natural order in Chinese philosophy",
-            "answer": "tao",
-            "normalized": "tao"
+            "id": "ad19e906-e1ed-458f-93a7-d3c01fab7d20",
+            "clue": "Remain, don't move",
+            "answer": "stay",
+            "normalized": "stay"
           },
           {
-            "id": "722d75bb-0fc4-4332-9033-9abfdecf794c",
-            "clue": "Nope's opposite",
-            "answer": "yep",
-            "normalized": "yep"
+            "id": "ecde5c7d-415c-45fd-92a0-6aa3e9d8db33",
+            "clue": "La Bamba band __ Lobos",
+            "answer": "los",
+            "normalized": "los"
           },
           {
-            "id": "b6a94de6-0444-4e59-84db-d6fed01d5368",
-            "clue": "Three letters after an English gentleman's name",
-            "answer": "esq",
-            "normalized": "esq"
+            "id": "2604c7e3-65ca-4630-afc0-141153fec654",
+            "clue": "Initialism for last in, first out",
+            "answer": "lifo",
+            "normalized": "lifo"
           },
           {
-            "id": "bd5041c5-4361-4b5a-9d6d-70e5ac34363c",
-            "clue": "Romania's three-letter country code",
-            "answer": "rou",
-            "normalized": "rou"
+            "id": "cac778d3-353f-403e-bfc4-6d8259455ba8",
+            "clue": "A nickname for a toddler or young kid",
+            "answer": "tot",
+            "normalized": "tot"
           },
           {
-            "id": "0ddfedf3-d691-4f48-a6b7-f143be2cfe12",
-            "clue": "Athlete Manning, director Roth",
-            "answer": "eli",
-            "normalized": "eli"
+            "id": "5143dcda-ea6a-4e40-b596-837e3390397c",
+            "clue": "Sparkling Italian wine from the Piedmont region",
+            "answer": "asti",
+            "normalized": "asti"
           },
           {
-            "id": "f0ff3915-899b-4e89-9d7e-5642a44eb6a2",
-            "clue": "Sound someone makes when indignant or irritated",
-            "answer": "hmph",
-            "normalized": "hmph"
+            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
+            "clue": "The United States' largest association of doctors",
+            "answer": "ama",
+            "normalized": "ama"
           },
           {
-            "id": "cf34f125-5ff4-449a-b1cf-911095405aa0",
-            "clue": "Peruvian surrealist poet César",
-            "answer": "moro",
-            "normalized": "moro"
+            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
+            "clue": "Polynesian flower garland, anagram of \"lie\"",
+            "answer": "lei",
+            "normalized": "lei"
           },
           {
-            "id": "1703d096-f62d-4473-9896-4f34506f67d5",
-            "clue": "In GoT, surname of illegitimate northerner",
-            "answer": "snow",
-            "normalized": "snow"
+            "id": "3abea293-be0b-4ba4-8015-d0e5f75893a1",
+            "clue": "Mythical sunken island mentioned by Plato",
+            "answer": "atlantis",
+            "normalized": "atlantis"
           },
           {
-            "id": "d533cb0b-60d1-43e3-8912-37f6503d9b91",
-            "clue": "The most unusual",
-            "answer": "oddest",
-            "normalized": "oddest"
+            "id": "53005ec4-673c-4c84-96a4-de27de67b3ab",
+            "clue": "Used to operate valves in combustion engines",
+            "answer": "camshaft",
+            "normalized": "camshaft"
           },
           {
-            "id": "cddd65ae-fc94-4fed-ac7f-dedcba20f50d",
-            "clue": "Nasal mucus",
-            "answer": "snot",
-            "normalized": "snot"
+            "id": "87021276-a06d-4584-97f5-791bc0c441f6",
+            "clue": "What olfactory receptors do, nose's job",
+            "answer": "smell",
+            "normalized": "smell"
           },
           {
-            "id": "3537a713-4c68-4099-9d0f-c65dba925c02",
-            "clue": "Spanish greeting",
-            "answer": "hola",
-            "normalized": "hola"
+            "id": "ff118986-b562-4da1-a76e-d36e9fb48cee",
+            "clue": "__ a España, Spain's multi-stage bicycle race",
+            "answer": "la vuelta",
+            "normalized": "lavuelta"
           },
           {
-            "id": "2af6a6bc-1cd2-46a6-8326-10bd207fbcd5",
-            "clue": "To reverse an action",
-            "answer": "undo",
-            "normalized": "undo"
+            "id": "41aadd59-04ea-4afe-9880-34ba8e9871b1",
+            "clue": "Quiet place where students take tests",
+            "answer": "exam room",
+            "normalized": "examroom"
           },
           {
-            "id": "bbe13723-4c14-417f-a3db-8998600120fc",
-            "clue": "Plaything",
-            "answer": "toy",
-            "normalized": "toy"
+            "id": "a8f8b17e-2cce-4136-89f7-90d408c91058",
+            "clue": "Loud and unpleasant noises",
+            "answer": "dins",
+            "normalized": "dins"
           },
           {
-            "id": "71348bef-30b8-46b6-8087-2a89e5ceca43",
-            "clue": "Have an obligation to repay someone",
-            "answer": "owe",
-            "normalized": "owe"
+            "id": "e5620ce6-f1f9-4e12-905b-423a34c9e46f",
+            "clue": "__ Kusama, artist with a fondness for polka dots",
+            "answer": "yayoi",
+            "normalized": "yayoi"
           },
           {
-            "id": "fc08f3fa-7f11-465c-ae97-b07a475f224e",
-            "clue": "Acronym for positive negative positive",
-            "answer": "pnp",
-            "normalized": "pnp"
+            "id": "9e54dc63-4da3-435f-a945-29be1e04c41c",
+            "clue": "Actress Fisher, went from Home and Away to Scooby",
+            "answer": "isla",
+            "normalized": "isla"
+          },
+          {
+            "id": "8b727330-f071-4145-a11a-e6ad24e58263",
+            "clue": "Scheduled time of arrival, in short",
+            "answer": "sta",
+            "normalized": "sta"
           }
         ],
-        "track": "PC|LenC--Y2026M7D7F1"
+        "track": "PC|LenC--Y2026M7D8F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-07",
+      "key": "2026-07-08",
       "year": 2026,
       "month": 7,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "77186083-4205-439a-8975-ad251ef571f3",
+        "puzzleId": "435a07b0-82ac-4a30-956d-1cdf44bd3461",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "0d29cdc2-7f41-43e3-8e9b-d6745a343308",
-            "clue": "Chinese smartphone with Reno and Find models",
-            "answer": "oppo",
-            "normalized": "oppo"
+            "id": "e14bffa8-2526-4260-8e06-792131e7bbb2",
+            "clue": "Customs and border protection for short",
+            "answer": "cbp",
+            "normalized": "cbp"
           },
           {
-            "id": "aae4df39-ec55-4b77-967d-2f9771c2c00b",
-            "clue": "In accord with fact or reality",
-            "answer": "truth",
-            "normalized": "truth"
+            "id": "23461899-5250-41f8-94df-ab82207a29c2",
+            "clue": "This cut of meat can be tender",
+            "answer": "loin",
+            "normalized": "loin"
           },
           {
-            "id": "a55fc797-2440-4a2f-a9a7-1bd16bddf45e",
-            "clue": "Humorous, clever",
-            "answer": "witty",
-            "normalized": "witty"
+            "id": "d50fdc64-edc8-4c6d-a298-3c3445255ce9",
+            "clue": "Portuguese explorer of India, __ da Gama",
+            "answer": "vasco",
+            "normalized": "vasco"
           },
           {
-            "id": "0d814d87-b719-4c0b-9ca6-ee5837b58db0",
-            "clue": "Forward movement with one foot",
-            "answer": "step",
-            "normalized": "step"
+            "id": "6fd22444-f9dd-43a3-9083-0c19f5b1b47e",
+            "clue": "Second smallest baleen whale in the world",
+            "answer": "minke",
+            "normalized": "minke"
           },
           {
-            "id": "022242f2-7d74-40c3-91be-db24958a4f7f",
-            "clue": "Surname of Charlotte Brontë's book Jane",
-            "answer": "eyre",
-            "normalized": "eyre"
+            "id": "a071f654-fec2-4bcd-b5c0-a4098239a318",
+            "clue": "Astrological sign associated with the ram",
+            "answer": "aries",
+            "normalized": "aries"
           },
           {
-            "id": "523ccdad-b27d-4468-b742-0cdc36b8a215",
-            "clue": "On the way, in internet speak",
-            "answer": "otw",
-            "normalized": "otw"
+            "id": "f162be9b-3fc4-4941-bff4-9931c8f3b61f",
+            "clue": "Consume food",
+            "answer": "eat",
+            "normalized": "eat"
           },
           {
-            "id": "8eb151f6-f084-44a6-9dc2-8b21af457cc8",
-            "clue": "Open using force, e.g. a lid",
-            "answer": "prise",
-            "normalized": "prise"
+            "id": "5d23a147-c5f2-4d13-ab8d-8069b1d49bb6",
+            "clue": "Marie __, monthly health and beauty magazine",
+            "answer": "claire",
+            "normalized": "claire"
           },
           {
-            "id": "10d020ee-1c1b-425b-b5bc-a2ca6591af22",
-            "clue": "Paste used to seal cracks or set glass in windows",
-            "answer": "putty",
-            "normalized": "putty"
+            "id": "7606cbdb-6258-4424-9114-810d929cc392",
+            "clue": "Its capital is Sarajevo, __ and Herzegovina",
+            "answer": "bosnia",
+            "normalized": "bosnia"
           },
           {
-            "id": "29622561-3ef2-4bd3-ac26-1edb37da4fd9",
-            "clue": "Playful water mammal that holds hands with others",
-            "answer": "otter",
-            "normalized": "otter"
+            "id": "74a4fed4-d244-4ab2-b30b-c20598e3fc6b",
+            "clue": "A pointed post, stake or pole",
+            "answer": "picket",
+            "normalized": "picket"
           },
           {
-            "id": "9354be48-8a48-4a97-a0c0-3beec37516e0",
-            "clue": "Enthusiastic promotion",
-            "answer": "hype",
-            "normalized": "hype"
+            "id": "8b0996b1-0de5-4275-82aa-484ae5a93bd4",
+            "clue": "Negative votes or answers",
+            "answer": "noes",
+            "normalized": "noes"
+          },
+          {
+            "id": "f458826f-558e-4782-b8f7-4471d160ec35",
+            "clue": "Music video award presented by MTV",
+            "answer": "vma",
+            "normalized": "vma"
           }
         ],
-        "track": "PC|LenC--Y2026M7D7F0"
+        "track": "PC|LenC--Y2026M7D8F0"
       },
       "mid": {
-        "puzzleId": "9078dced-a1a5-4ad2-bd6d-ffc0a822d554",
+        "puzzleId": "9c94457f-8a43-46da-8292-cad1597348bd",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 5,
         "answers": [
           {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
+            "id": "d59ecbae-68ed-4825-bb1f-2a11dbfb0dcf",
+            "clue": "Resin secreted by Kerria lacca insects",
+            "answer": "lac",
+            "normalized": "lac"
           },
           {
-            "id": "1256bc08-b78d-4539-89e3-9f57e55df0ff",
-            "clue": "Three letters seen before regal ship names",
-            "answer": "hms",
-            "normalized": "hms"
+            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
+            "clue": "Arctic vehicle pulled by dogs",
+            "answer": "sled",
+            "normalized": "sled"
           },
           {
-            "id": "7ee211b2-486b-482c-bc7a-6ea551040d47",
-            "clue": "Pacific islands, Biblical character aka Jebediah",
-            "answer": "solomon",
-            "normalized": "solomon"
+            "id": "4e990106-7e6a-4f39-b040-888aea3a226f",
+            "clue": "Greek letter; abbreviation used in transportation",
+            "answer": "eta",
+            "normalized": "eta"
           },
           {
-            "id": "adc12e8f-9384-4050-b5b7-74a93551ac3a",
-            "clue": "__ quo: one thing for another in Latin",
-            "answer": "quid pro",
-            "normalized": "quidpro"
+            "id": "919c326c-d7b0-4bac-9d09-b91aa75f53ef",
+            "clue": "A racing yacht that rhymes with taxi",
+            "answer": "maxi",
+            "normalized": "maxi"
           },
           {
-            "id": "f766943f-c194-42a0-9d51-943ab4c57f78",
-            "clue": "Boat used by traditional Arabian pearl hunters",
-            "answer": "dhow",
-            "normalized": "dhow"
+            "id": "669fe0e4-162f-4069-a5ac-256db9b87edb",
+            "clue": "Special effects company founded by George Lucas",
+            "answer": "ilm",
+            "normalized": "ilm"
           },
           {
-            "id": "473a5989-a53c-47d3-ae61-19548383762b",
-            "clue": "Actress Elisabeth who sounds like footwear",
-            "answer": "shue",
-            "normalized": "shue"
+            "id": "11a6f103-8708-4d54-aeb8-55e2aad7a346",
+            "clue": "Bruce Almighty sequel, __ Almighty",
+            "answer": "evan",
+            "normalized": "evan"
           },
           {
-            "id": "df6c4145-bc61-4978-b271-41aeb607cea0",
-            "clue": "A flight that takes you straight there",
-            "answer": "non stop",
-            "normalized": "nonstop"
+            "id": "092b8837-c5bb-4d7c-bbf2-6b42aa2430b4",
+            "clue": "Places that offer political protection to refugees",
+            "answer": "asylums",
+            "normalized": "asylums"
           },
           {
-            "id": "ff472b08-cfe4-41cc-ab20-51aca7599b47",
-            "clue": "Ancient quarter of a city",
-            "answer": "old town",
-            "normalized": "oldtown"
+            "id": "1312070b-28c1-4f50-971a-246828092a6b",
+            "clue": "Device sends medicine to lungs for asthma sufferer",
+            "answer": "inhaler",
+            "normalized": "inhaler"
           },
           {
-            "id": "574c56d5-5d09-4012-ac85-1913196e7acb",
-            "clue": "One name for natural order in Chinese philosophy",
-            "answer": "tao",
-            "normalized": "tao"
+            "id": "ad19e906-e1ed-458f-93a7-d3c01fab7d20",
+            "clue": "Remain, don't move",
+            "answer": "stay",
+            "normalized": "stay"
           },
           {
-            "id": "722d75bb-0fc4-4332-9033-9abfdecf794c",
-            "clue": "Nope's opposite",
-            "answer": "yep",
-            "normalized": "yep"
+            "id": "ecde5c7d-415c-45fd-92a0-6aa3e9d8db33",
+            "clue": "La Bamba band __ Lobos",
+            "answer": "los",
+            "normalized": "los"
           },
           {
-            "id": "b6a94de6-0444-4e59-84db-d6fed01d5368",
-            "clue": "Three letters after an English gentleman's name",
-            "answer": "esq",
-            "normalized": "esq"
+            "id": "2604c7e3-65ca-4630-afc0-141153fec654",
+            "clue": "Initialism for last in, first out",
+            "answer": "lifo",
+            "normalized": "lifo"
           },
           {
-            "id": "bd5041c5-4361-4b5a-9d6d-70e5ac34363c",
-            "clue": "Romania's three-letter country code",
-            "answer": "rou",
-            "normalized": "rou"
+            "id": "cac778d3-353f-403e-bfc4-6d8259455ba8",
+            "clue": "A nickname for a toddler or young kid",
+            "answer": "tot",
+            "normalized": "tot"
           },
           {
-            "id": "0ddfedf3-d691-4f48-a6b7-f143be2cfe12",
-            "clue": "Athlete Manning, director Roth",
-            "answer": "eli",
-            "normalized": "eli"
+            "id": "5143dcda-ea6a-4e40-b596-837e3390397c",
+            "clue": "Sparkling Italian wine from the Piedmont region",
+            "answer": "asti",
+            "normalized": "asti"
           },
           {
-            "id": "f0ff3915-899b-4e89-9d7e-5642a44eb6a2",
-            "clue": "Sound someone makes when indignant or irritated",
-            "answer": "hmph",
-            "normalized": "hmph"
+            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
+            "clue": "The United States' largest association of doctors",
+            "answer": "ama",
+            "normalized": "ama"
           },
           {
-            "id": "cf34f125-5ff4-449a-b1cf-911095405aa0",
-            "clue": "Peruvian surrealist poet César",
-            "answer": "moro",
-            "normalized": "moro"
+            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
+            "clue": "Polynesian flower garland, anagram of \"lie\"",
+            "answer": "lei",
+            "normalized": "lei"
           },
           {
-            "id": "1703d096-f62d-4473-9896-4f34506f67d5",
-            "clue": "In GoT, surname of illegitimate northerner",
-            "answer": "snow",
-            "normalized": "snow"
+            "id": "3abea293-be0b-4ba4-8015-d0e5f75893a1",
+            "clue": "Mythical sunken island mentioned by Plato",
+            "answer": "atlantis",
+            "normalized": "atlantis"
           },
           {
-            "id": "d533cb0b-60d1-43e3-8912-37f6503d9b91",
-            "clue": "The most unusual",
-            "answer": "oddest",
-            "normalized": "oddest"
+            "id": "53005ec4-673c-4c84-96a4-de27de67b3ab",
+            "clue": "Used to operate valves in combustion engines",
+            "answer": "camshaft",
+            "normalized": "camshaft"
           },
           {
-            "id": "cddd65ae-fc94-4fed-ac7f-dedcba20f50d",
-            "clue": "Nasal mucus",
-            "answer": "snot",
-            "normalized": "snot"
+            "id": "87021276-a06d-4584-97f5-791bc0c441f6",
+            "clue": "What olfactory receptors do, nose's job",
+            "answer": "smell",
+            "normalized": "smell"
           },
           {
-            "id": "3537a713-4c68-4099-9d0f-c65dba925c02",
-            "clue": "Spanish greeting",
-            "answer": "hola",
-            "normalized": "hola"
+            "id": "ff118986-b562-4da1-a76e-d36e9fb48cee",
+            "clue": "__ a España, Spain's multi-stage bicycle race",
+            "answer": "la vuelta",
+            "normalized": "lavuelta"
           },
           {
-            "id": "2af6a6bc-1cd2-46a6-8326-10bd207fbcd5",
-            "clue": "To reverse an action",
-            "answer": "undo",
-            "normalized": "undo"
+            "id": "41aadd59-04ea-4afe-9880-34ba8e9871b1",
+            "clue": "Quiet place where students take tests",
+            "answer": "exam room",
+            "normalized": "examroom"
           },
           {
-            "id": "bbe13723-4c14-417f-a3db-8998600120fc",
-            "clue": "Plaything",
-            "answer": "toy",
-            "normalized": "toy"
+            "id": "a8f8b17e-2cce-4136-89f7-90d408c91058",
+            "clue": "Loud and unpleasant noises",
+            "answer": "dins",
+            "normalized": "dins"
           },
           {
-            "id": "71348bef-30b8-46b6-8087-2a89e5ceca43",
-            "clue": "Have an obligation to repay someone",
-            "answer": "owe",
-            "normalized": "owe"
+            "id": "e5620ce6-f1f9-4e12-905b-423a34c9e46f",
+            "clue": "__ Kusama, artist with a fondness for polka dots",
+            "answer": "yayoi",
+            "normalized": "yayoi"
           },
           {
-            "id": "fc08f3fa-7f11-465c-ae97-b07a475f224e",
-            "clue": "Acronym for positive negative positive",
-            "answer": "pnp",
-            "normalized": "pnp"
+            "id": "9e54dc63-4da3-435f-a945-29be1e04c41c",
+            "clue": "Actress Fisher, went from Home and Away to Scooby",
+            "answer": "isla",
+            "normalized": "isla"
+          },
+          {
+            "id": "8b727330-f071-4145-a11a-e6ad24e58263",
+            "clue": "Scheduled time of arrival, in short",
+            "answer": "sta",
+            "normalized": "sta"
           }
         ],
-        "track": "PC|LenC--Y2026M7D7F1"
+        "track": "PC|LenC--Y2026M7D8F1"
       }
     },
     "latestAvailableEntry": {
@@ -428907,21 +428931,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "hbGanSG9Ft5f6YeO6EcCKIQFP64VVwk0BAdxOrFKsSVw/WyM/ZJv9tVuRvy/JQNx1Ximt0WrqIToL8YTh1npQ3WUgqFaTFJtgFqEkQ7yLTamjIufXBv+73/ly/VE+tClcM2rkymOm+k8wh3eEjDuHeM41IXu0+WoQPTBIOR5VQKIm0l9IhQf9NaZhFji5VlgOViqYLBOdBQt0U+sEmjnYnA2BMEN2nAyWh1UOD6JhSXX/va8vJ7JK44IIyxM4X4BgnSL8bHQwfPD/KvOlW0Z8QHLOXHxXhewcc5Km2muTOE="
+        "eiwdnb7JVv5l49JO+l367EErv6xN7Yef1tE99tCP4eot754ct9dLNvG/A1JP2x6576eBAYb02h5YWmhzaqKGP7TKrNJxn2Nz9hCUmkQ20JxbFh3vMGRryih34TGvm2k/V80dip/lndfWQvbmOpm/OOwvyf1NgHwQS+ilXuU5o4NRfIAmdg29k8Pv3bdAhdA2weyxX2ibB38gl0Opq2dtI5ipdREH0m2Zp6z908A/yhGwgwbY0APR6C+R6UQXQ4trcyJvcoY5t7oABdr4k0AA/pRQjmzwwF+BflUn5/Y8NFk="
       ]
     },
     "decrypted": {
-      "Id": "977f8024-8cb6-4082-9c12-ed55b817b0e8",
-      "Date": "2026-07-07T00:00:00Z",
+      "Id": "6479d285-82ac-4ab1-a91b-374ee7e850fa",
+      "Date": "2026-07-08T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "lofty",
-      "NormalizedPassword": "lofty",
+      "Password": "exact",
+      "NormalizedPassword": "exact",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-07T01:49:42.9620000+05:30",
-    "hash": "7667c8e16117f0a434ce34ab97091242",
+    "dtu": "2026-07-08T01:51:25.8790000+05:30",
+    "hash": "6e0ced564f8873aedf749efcb8c4cea5",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
