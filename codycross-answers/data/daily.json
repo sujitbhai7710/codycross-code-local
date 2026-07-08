@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-07T20:21:25.879Z",
+  "generatedAt": "2026-07-08T19:59:43.955Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 8
+    "day": 9
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 12
+        "QuantidadeDeFases": 14
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,475 +428251,487 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-08",
+      "key": "2026-07-09",
       "year": 2026,
       "month": 7,
-      "day": 8,
+      "day": 9,
       "small": {
-        "puzzleId": "435a07b0-82ac-4a30-956d-1cdf44bd3461",
+        "puzzleId": "1a4f287d-f048-4835-9f87-3015b44e8b58",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
+            "clue": "Initialism for database management systems",
+            "answer": "dbms",
+            "normalized": "dbms"
+          },
+          {
+            "id": "729c0b00-7f9f-45a1-97a0-eae129bab399",
+            "clue": "She has \"gadgets and gizmos aplenty\"",
+            "answer": "ariel",
+            "normalized": "ariel"
+          },
+          {
+            "id": "37e0c261-9d18-43c5-85e1-977c8711faf1",
+            "clue": "Platform or walkway used by fashion models",
+            "answer": "runway",
+            "normalized": "runway"
+          },
+          {
+            "id": "dfcdc2f9-202e-4601-b7f1-41cf05d7c441",
+            "clue": "Spanish word for state",
+            "answer": "estado",
+            "normalized": "estado"
+          },
+          {
+            "id": "9973d8d3-1092-40dc-a69c-8b5f52a10ff4",
+            "clue": "German philosopher whose name rhymes with bagel",
+            "answer": "hegel",
+            "normalized": "hegel"
+          },
+          {
+            "id": "02021b07-b843-479a-9a1b-061667504037",
+            "clue": "A newsroom department devoted to a topic",
+            "answer": "desk",
+            "normalized": "desk"
+          },
+          {
+            "id": "6349b3d1-215b-487c-88d9-c7925d3443ec",
+            "clue": "Risky challenge proposed to someone",
+            "answer": "dare",
+            "normalized": "dare"
+          },
+          {
+            "id": "c51de681-8e8a-4ae6-8a22-da64446284e9",
+            "clue": "Common tool for painters and calligraphers",
+            "answer": "brush",
+            "normalized": "brush"
+          },
+          {
+            "id": "278e60df-fd0b-4b40-b8f7-ac0648b1bc17",
+            "clue": "Coins that have been struck or stamped",
+            "answer": "minted",
+            "normalized": "minted"
+          },
+          {
+            "id": "b2211f5a-b8d8-4084-ba4e-220d16935644",
+            "clue": "A city's stinky problem",
+            "answer": "sewage",
+            "normalized": "sewage"
+          },
+          {
+            "id": "c7fddc6a-d75a-4168-be5d-315338865540",
+            "clue": "Puts cargo on a ship, in olden days",
+            "answer": "lades",
+            "normalized": "lades"
+          },
+          {
+            "id": "dd93deaa-3feb-4948-8396-d91a8d582478",
+            "clue": "The yellow part of an egg",
+            "answer": "yolk",
+            "normalized": "yolk"
+          }
+        ],
+        "track": "PC|LenC--Y2026M7D9F0"
+      },
+      "mid": {
+        "puzzleId": "a2c0b5d8-23b4-40f2-80f1-12fc863bb5c4",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "e14bffa8-2526-4260-8e06-792131e7bbb2",
-            "clue": "Customs and border protection for short",
-            "answer": "cbp",
-            "normalized": "cbp"
+            "id": "2e006489-95f8-478c-a6ef-f87bf31a83af",
+            "clue": "Male swans",
+            "answer": "cobs",
+            "normalized": "cobs"
           },
           {
-            "id": "23461899-5250-41f8-94df-ab82207a29c2",
-            "clue": "This cut of meat can be tender",
-            "answer": "loin",
-            "normalized": "loin"
+            "id": "95ab37c3-d7a2-4d40-8455-24a097195bfb",
+            "clue": "Latin for the same, used in referencing",
+            "answer": "idem",
+            "normalized": "idem"
           },
           {
-            "id": "d50fdc64-edc8-4c6d-a298-3c3445255ce9",
-            "clue": "Portuguese explorer of India, __ da Gama",
-            "answer": "vasco",
-            "normalized": "vasco"
+            "id": "26afdfeb-b2d8-41b8-a643-d1f603e8cad3",
+            "clue": "Song sung by a pair",
+            "answer": "duet",
+            "normalized": "duet"
           },
           {
-            "id": "6fd22444-f9dd-43a3-9083-0c19f5b1b47e",
-            "clue": "Second smallest baleen whale in the world",
-            "answer": "minke",
-            "normalized": "minke"
+            "id": "e33302ec-7284-4817-a76c-5a08690301dc",
+            "clue": "Ukraine-born actress __ Kunis",
+            "answer": "mila",
+            "normalized": "mila"
           },
           {
-            "id": "a071f654-fec2-4bcd-b5c0-a4098239a318",
-            "clue": "Astrological sign associated with the ram",
-            "answer": "aries",
-            "normalized": "aries"
+            "id": "0c2d9886-ad72-4d9c-8135-247054c6afc3",
+            "clue": "John Deere invented this in 1837",
+            "answer": "steel plow",
+            "normalized": "steelplow"
           },
           {
-            "id": "f162be9b-3fc4-4941-bff4-9931c8f3b61f",
-            "clue": "Consume food",
-            "answer": "eat",
-            "normalized": "eat"
+            "id": "138a07ba-d42f-4933-bd9b-c9ea22329a6d",
+            "clue": "Pacific country with a blue and yellow flag",
+            "answer": "palau",
+            "normalized": "palau"
           },
           {
-            "id": "5d23a147-c5f2-4d13-ab8d-8069b1d49bb6",
-            "clue": "Marie __, monthly health and beauty magazine",
-            "answer": "claire",
-            "normalized": "claire"
+            "id": "43ea8f51-286e-4e58-a60a-2e516dd0e3d7",
+            "clue": "Young actor on television or in movies",
+            "answer": "child star",
+            "normalized": "childstar"
           },
           {
-            "id": "7606cbdb-6258-4424-9114-810d929cc392",
-            "clue": "Its capital is Sarajevo, __ and Herzegovina",
-            "answer": "bosnia",
-            "normalized": "bosnia"
+            "id": "3759385f-dbd0-4a21-a4f0-afc2a005f9cf",
+            "clue": "Look for prey in the wild",
+            "answer": "hunt",
+            "normalized": "hunt"
           },
           {
-            "id": "74a4fed4-d244-4ab2-b30b-c20598e3fc6b",
-            "clue": "A pointed post, stake or pole",
-            "answer": "picket",
-            "normalized": "picket"
+            "id": "011b5835-e8de-4063-81d3-465308c02eec",
+            "clue": "Wish someone a good evening in Italian, buona __",
+            "answer": "sera",
+            "normalized": "sera"
           },
           {
-            "id": "8b0996b1-0de5-4275-82aa-484ae5a93bd4",
-            "clue": "Negative votes or answers",
-            "answer": "noes",
-            "normalized": "noes"
+            "id": "15acae89-4a34-47b8-a260-4d04cde965a4",
+            "clue": "Expression of fright or frustration",
+            "answer": "argh",
+            "normalized": "argh"
           },
           {
-            "id": "f458826f-558e-4782-b8f7-4471d160ec35",
-            "clue": "Music video award presented by MTV",
-            "answer": "vma",
-            "normalized": "vma"
+            "id": "e50b8337-477a-474d-b8b8-2768630d30ff",
+            "clue": "Microsoft web browser released with Windows 10",
+            "answer": "edge",
+            "normalized": "edge"
+          },
+          {
+            "id": "cc7c3529-28d8-4292-b5dd-f4c5a577505a",
+            "clue": "Spinning music discs",
+            "answer": "cds",
+            "normalized": "cds"
+          },
+          {
+            "id": "6c072304-5cc9-41d3-9c99-944025e84124",
+            "clue": "Not in",
+            "answer": "out",
+            "normalized": "out"
+          },
+          {
+            "id": "b2e45613-0b9d-44ab-89ba-918241828a80",
+            "clue": "Voicemail sound",
+            "answer": "beeping",
+            "normalized": "beeping"
+          },
+          {
+            "id": "3c447f09-cbf9-40a9-b6a3-c61a41361325",
+            "clue": "Secret scheme",
+            "answer": "stealth",
+            "normalized": "stealth"
+          },
+          {
+            "id": "80339bc3-1df7-481c-be43-7862ef889e3d",
+            "clue": "Inability to reach an agreement, deadlock",
+            "answer": "impasse",
+            "normalized": "impasse"
+          },
+          {
+            "id": "54a2b115-7b58-4fc2-a56b-db77b41f8395",
+            "clue": "With added water, not full strength",
+            "answer": "diluted",
+            "normalized": "diluted"
+          },
+          {
+            "id": "9f6d9856-0d4f-4a81-ace3-e8ae2966b0eb",
+            "clue": "Don't bring this orchestra down with Strange Magic",
+            "answer": "elo",
+            "normalized": "elo"
+          },
+          {
+            "id": "7100037c-a5dd-4b19-a4a9-2bae0b263c2f",
+            "clue": "Gaping mouth",
+            "answer": "maw",
+            "normalized": "maw"
+          },
+          {
+            "id": "f34d3bf3-ea3e-40fa-87cb-d5571e1302a3",
+            "clue": "Low-level design, abbreviated",
+            "answer": "lld",
+            "normalized": "lld"
+          },
+          {
+            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
+            "clue": "Goes before \"ching\" for a cash register noise",
+            "answer": "cha",
+            "normalized": "cha"
+          },
+          {
+            "id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
+            "clue": "Ben-__, Oscar-winning film with Charlton Heston",
+            "answer": "hur",
+            "normalized": "hur"
+          },
+          {
+            "id": "21019e7a-b588-470a-ba51-abe721232063",
+            "clue": "ISO three-letter country code for Argentina",
+            "answer": "arg",
+            "normalized": "arg"
+          },
+          {
+            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
+            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
+            "answer": "rae",
+            "normalized": "rae"
           }
         ],
-        "track": "PC|LenC--Y2026M7D8F0"
-      },
-      "mid": {
-        "puzzleId": "9c94457f-8a43-46da-8292-cad1597348bd",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 5,
-        "answers": [
-          {
-            "id": "d59ecbae-68ed-4825-bb1f-2a11dbfb0dcf",
-            "clue": "Resin secreted by Kerria lacca insects",
-            "answer": "lac",
-            "normalized": "lac"
-          },
-          {
-            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
-            "clue": "Arctic vehicle pulled by dogs",
-            "answer": "sled",
-            "normalized": "sled"
-          },
-          {
-            "id": "4e990106-7e6a-4f39-b040-888aea3a226f",
-            "clue": "Greek letter; abbreviation used in transportation",
-            "answer": "eta",
-            "normalized": "eta"
-          },
-          {
-            "id": "919c326c-d7b0-4bac-9d09-b91aa75f53ef",
-            "clue": "A racing yacht that rhymes with taxi",
-            "answer": "maxi",
-            "normalized": "maxi"
-          },
-          {
-            "id": "669fe0e4-162f-4069-a5ac-256db9b87edb",
-            "clue": "Special effects company founded by George Lucas",
-            "answer": "ilm",
-            "normalized": "ilm"
-          },
-          {
-            "id": "11a6f103-8708-4d54-aeb8-55e2aad7a346",
-            "clue": "Bruce Almighty sequel, __ Almighty",
-            "answer": "evan",
-            "normalized": "evan"
-          },
-          {
-            "id": "092b8837-c5bb-4d7c-bbf2-6b42aa2430b4",
-            "clue": "Places that offer political protection to refugees",
-            "answer": "asylums",
-            "normalized": "asylums"
-          },
-          {
-            "id": "1312070b-28c1-4f50-971a-246828092a6b",
-            "clue": "Device sends medicine to lungs for asthma sufferer",
-            "answer": "inhaler",
-            "normalized": "inhaler"
-          },
-          {
-            "id": "ad19e906-e1ed-458f-93a7-d3c01fab7d20",
-            "clue": "Remain, don't move",
-            "answer": "stay",
-            "normalized": "stay"
-          },
-          {
-            "id": "ecde5c7d-415c-45fd-92a0-6aa3e9d8db33",
-            "clue": "La Bamba band __ Lobos",
-            "answer": "los",
-            "normalized": "los"
-          },
-          {
-            "id": "2604c7e3-65ca-4630-afc0-141153fec654",
-            "clue": "Initialism for last in, first out",
-            "answer": "lifo",
-            "normalized": "lifo"
-          },
-          {
-            "id": "cac778d3-353f-403e-bfc4-6d8259455ba8",
-            "clue": "A nickname for a toddler or young kid",
-            "answer": "tot",
-            "normalized": "tot"
-          },
-          {
-            "id": "5143dcda-ea6a-4e40-b596-837e3390397c",
-            "clue": "Sparkling Italian wine from the Piedmont region",
-            "answer": "asti",
-            "normalized": "asti"
-          },
-          {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
-          },
-          {
-            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
-            "clue": "Polynesian flower garland, anagram of \"lie\"",
-            "answer": "lei",
-            "normalized": "lei"
-          },
-          {
-            "id": "3abea293-be0b-4ba4-8015-d0e5f75893a1",
-            "clue": "Mythical sunken island mentioned by Plato",
-            "answer": "atlantis",
-            "normalized": "atlantis"
-          },
-          {
-            "id": "53005ec4-673c-4c84-96a4-de27de67b3ab",
-            "clue": "Used to operate valves in combustion engines",
-            "answer": "camshaft",
-            "normalized": "camshaft"
-          },
-          {
-            "id": "87021276-a06d-4584-97f5-791bc0c441f6",
-            "clue": "What olfactory receptors do, nose's job",
-            "answer": "smell",
-            "normalized": "smell"
-          },
-          {
-            "id": "ff118986-b562-4da1-a76e-d36e9fb48cee",
-            "clue": "__ a España, Spain's multi-stage bicycle race",
-            "answer": "la vuelta",
-            "normalized": "lavuelta"
-          },
-          {
-            "id": "41aadd59-04ea-4afe-9880-34ba8e9871b1",
-            "clue": "Quiet place where students take tests",
-            "answer": "exam room",
-            "normalized": "examroom"
-          },
-          {
-            "id": "a8f8b17e-2cce-4136-89f7-90d408c91058",
-            "clue": "Loud and unpleasant noises",
-            "answer": "dins",
-            "normalized": "dins"
-          },
-          {
-            "id": "e5620ce6-f1f9-4e12-905b-423a34c9e46f",
-            "clue": "__ Kusama, artist with a fondness for polka dots",
-            "answer": "yayoi",
-            "normalized": "yayoi"
-          },
-          {
-            "id": "9e54dc63-4da3-435f-a945-29be1e04c41c",
-            "clue": "Actress Fisher, went from Home and Away to Scooby",
-            "answer": "isla",
-            "normalized": "isla"
-          },
-          {
-            "id": "8b727330-f071-4145-a11a-e6ad24e58263",
-            "clue": "Scheduled time of arrival, in short",
-            "answer": "sta",
-            "normalized": "sta"
-          }
-        ],
-        "track": "PC|LenC--Y2026M7D8F1"
+        "track": "PC|LenC--Y2026M7D9F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-08",
+      "key": "2026-07-09",
       "year": 2026,
       "month": 7,
-      "day": 8,
+      "day": 9,
       "small": {
-        "puzzleId": "435a07b0-82ac-4a30-956d-1cdf44bd3461",
+        "puzzleId": "1a4f287d-f048-4835-9f87-3015b44e8b58",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
+            "clue": "Initialism for database management systems",
+            "answer": "dbms",
+            "normalized": "dbms"
+          },
+          {
+            "id": "729c0b00-7f9f-45a1-97a0-eae129bab399",
+            "clue": "She has \"gadgets and gizmos aplenty\"",
+            "answer": "ariel",
+            "normalized": "ariel"
+          },
+          {
+            "id": "37e0c261-9d18-43c5-85e1-977c8711faf1",
+            "clue": "Platform or walkway used by fashion models",
+            "answer": "runway",
+            "normalized": "runway"
+          },
+          {
+            "id": "dfcdc2f9-202e-4601-b7f1-41cf05d7c441",
+            "clue": "Spanish word for state",
+            "answer": "estado",
+            "normalized": "estado"
+          },
+          {
+            "id": "9973d8d3-1092-40dc-a69c-8b5f52a10ff4",
+            "clue": "German philosopher whose name rhymes with bagel",
+            "answer": "hegel",
+            "normalized": "hegel"
+          },
+          {
+            "id": "02021b07-b843-479a-9a1b-061667504037",
+            "clue": "A newsroom department devoted to a topic",
+            "answer": "desk",
+            "normalized": "desk"
+          },
+          {
+            "id": "6349b3d1-215b-487c-88d9-c7925d3443ec",
+            "clue": "Risky challenge proposed to someone",
+            "answer": "dare",
+            "normalized": "dare"
+          },
+          {
+            "id": "c51de681-8e8a-4ae6-8a22-da64446284e9",
+            "clue": "Common tool for painters and calligraphers",
+            "answer": "brush",
+            "normalized": "brush"
+          },
+          {
+            "id": "278e60df-fd0b-4b40-b8f7-ac0648b1bc17",
+            "clue": "Coins that have been struck or stamped",
+            "answer": "minted",
+            "normalized": "minted"
+          },
+          {
+            "id": "b2211f5a-b8d8-4084-ba4e-220d16935644",
+            "clue": "A city's stinky problem",
+            "answer": "sewage",
+            "normalized": "sewage"
+          },
+          {
+            "id": "c7fddc6a-d75a-4168-be5d-315338865540",
+            "clue": "Puts cargo on a ship, in olden days",
+            "answer": "lades",
+            "normalized": "lades"
+          },
+          {
+            "id": "dd93deaa-3feb-4948-8396-d91a8d582478",
+            "clue": "The yellow part of an egg",
+            "answer": "yolk",
+            "normalized": "yolk"
+          }
+        ],
+        "track": "PC|LenC--Y2026M7D9F0"
+      },
+      "mid": {
+        "puzzleId": "a2c0b5d8-23b4-40f2-80f1-12fc863bb5c4",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "e14bffa8-2526-4260-8e06-792131e7bbb2",
-            "clue": "Customs and border protection for short",
-            "answer": "cbp",
-            "normalized": "cbp"
+            "id": "2e006489-95f8-478c-a6ef-f87bf31a83af",
+            "clue": "Male swans",
+            "answer": "cobs",
+            "normalized": "cobs"
           },
           {
-            "id": "23461899-5250-41f8-94df-ab82207a29c2",
-            "clue": "This cut of meat can be tender",
-            "answer": "loin",
-            "normalized": "loin"
+            "id": "95ab37c3-d7a2-4d40-8455-24a097195bfb",
+            "clue": "Latin for the same, used in referencing",
+            "answer": "idem",
+            "normalized": "idem"
           },
           {
-            "id": "d50fdc64-edc8-4c6d-a298-3c3445255ce9",
-            "clue": "Portuguese explorer of India, __ da Gama",
-            "answer": "vasco",
-            "normalized": "vasco"
+            "id": "26afdfeb-b2d8-41b8-a643-d1f603e8cad3",
+            "clue": "Song sung by a pair",
+            "answer": "duet",
+            "normalized": "duet"
           },
           {
-            "id": "6fd22444-f9dd-43a3-9083-0c19f5b1b47e",
-            "clue": "Second smallest baleen whale in the world",
-            "answer": "minke",
-            "normalized": "minke"
+            "id": "e33302ec-7284-4817-a76c-5a08690301dc",
+            "clue": "Ukraine-born actress __ Kunis",
+            "answer": "mila",
+            "normalized": "mila"
           },
           {
-            "id": "a071f654-fec2-4bcd-b5c0-a4098239a318",
-            "clue": "Astrological sign associated with the ram",
-            "answer": "aries",
-            "normalized": "aries"
+            "id": "0c2d9886-ad72-4d9c-8135-247054c6afc3",
+            "clue": "John Deere invented this in 1837",
+            "answer": "steel plow",
+            "normalized": "steelplow"
           },
           {
-            "id": "f162be9b-3fc4-4941-bff4-9931c8f3b61f",
-            "clue": "Consume food",
-            "answer": "eat",
-            "normalized": "eat"
+            "id": "138a07ba-d42f-4933-bd9b-c9ea22329a6d",
+            "clue": "Pacific country with a blue and yellow flag",
+            "answer": "palau",
+            "normalized": "palau"
           },
           {
-            "id": "5d23a147-c5f2-4d13-ab8d-8069b1d49bb6",
-            "clue": "Marie __, monthly health and beauty magazine",
-            "answer": "claire",
-            "normalized": "claire"
+            "id": "43ea8f51-286e-4e58-a60a-2e516dd0e3d7",
+            "clue": "Young actor on television or in movies",
+            "answer": "child star",
+            "normalized": "childstar"
           },
           {
-            "id": "7606cbdb-6258-4424-9114-810d929cc392",
-            "clue": "Its capital is Sarajevo, __ and Herzegovina",
-            "answer": "bosnia",
-            "normalized": "bosnia"
+            "id": "3759385f-dbd0-4a21-a4f0-afc2a005f9cf",
+            "clue": "Look for prey in the wild",
+            "answer": "hunt",
+            "normalized": "hunt"
           },
           {
-            "id": "74a4fed4-d244-4ab2-b30b-c20598e3fc6b",
-            "clue": "A pointed post, stake or pole",
-            "answer": "picket",
-            "normalized": "picket"
+            "id": "011b5835-e8de-4063-81d3-465308c02eec",
+            "clue": "Wish someone a good evening in Italian, buona __",
+            "answer": "sera",
+            "normalized": "sera"
           },
           {
-            "id": "8b0996b1-0de5-4275-82aa-484ae5a93bd4",
-            "clue": "Negative votes or answers",
-            "answer": "noes",
-            "normalized": "noes"
+            "id": "15acae89-4a34-47b8-a260-4d04cde965a4",
+            "clue": "Expression of fright or frustration",
+            "answer": "argh",
+            "normalized": "argh"
           },
           {
-            "id": "f458826f-558e-4782-b8f7-4471d160ec35",
-            "clue": "Music video award presented by MTV",
-            "answer": "vma",
-            "normalized": "vma"
+            "id": "e50b8337-477a-474d-b8b8-2768630d30ff",
+            "clue": "Microsoft web browser released with Windows 10",
+            "answer": "edge",
+            "normalized": "edge"
+          },
+          {
+            "id": "cc7c3529-28d8-4292-b5dd-f4c5a577505a",
+            "clue": "Spinning music discs",
+            "answer": "cds",
+            "normalized": "cds"
+          },
+          {
+            "id": "6c072304-5cc9-41d3-9c99-944025e84124",
+            "clue": "Not in",
+            "answer": "out",
+            "normalized": "out"
+          },
+          {
+            "id": "b2e45613-0b9d-44ab-89ba-918241828a80",
+            "clue": "Voicemail sound",
+            "answer": "beeping",
+            "normalized": "beeping"
+          },
+          {
+            "id": "3c447f09-cbf9-40a9-b6a3-c61a41361325",
+            "clue": "Secret scheme",
+            "answer": "stealth",
+            "normalized": "stealth"
+          },
+          {
+            "id": "80339bc3-1df7-481c-be43-7862ef889e3d",
+            "clue": "Inability to reach an agreement, deadlock",
+            "answer": "impasse",
+            "normalized": "impasse"
+          },
+          {
+            "id": "54a2b115-7b58-4fc2-a56b-db77b41f8395",
+            "clue": "With added water, not full strength",
+            "answer": "diluted",
+            "normalized": "diluted"
+          },
+          {
+            "id": "9f6d9856-0d4f-4a81-ace3-e8ae2966b0eb",
+            "clue": "Don't bring this orchestra down with Strange Magic",
+            "answer": "elo",
+            "normalized": "elo"
+          },
+          {
+            "id": "7100037c-a5dd-4b19-a4a9-2bae0b263c2f",
+            "clue": "Gaping mouth",
+            "answer": "maw",
+            "normalized": "maw"
+          },
+          {
+            "id": "f34d3bf3-ea3e-40fa-87cb-d5571e1302a3",
+            "clue": "Low-level design, abbreviated",
+            "answer": "lld",
+            "normalized": "lld"
+          },
+          {
+            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
+            "clue": "Goes before \"ching\" for a cash register noise",
+            "answer": "cha",
+            "normalized": "cha"
+          },
+          {
+            "id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
+            "clue": "Ben-__, Oscar-winning film with Charlton Heston",
+            "answer": "hur",
+            "normalized": "hur"
+          },
+          {
+            "id": "21019e7a-b588-470a-ba51-abe721232063",
+            "clue": "ISO three-letter country code for Argentina",
+            "answer": "arg",
+            "normalized": "arg"
+          },
+          {
+            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
+            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
+            "answer": "rae",
+            "normalized": "rae"
           }
         ],
-        "track": "PC|LenC--Y2026M7D8F0"
-      },
-      "mid": {
-        "puzzleId": "9c94457f-8a43-46da-8292-cad1597348bd",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 5,
-        "answers": [
-          {
-            "id": "d59ecbae-68ed-4825-bb1f-2a11dbfb0dcf",
-            "clue": "Resin secreted by Kerria lacca insects",
-            "answer": "lac",
-            "normalized": "lac"
-          },
-          {
-            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
-            "clue": "Arctic vehicle pulled by dogs",
-            "answer": "sled",
-            "normalized": "sled"
-          },
-          {
-            "id": "4e990106-7e6a-4f39-b040-888aea3a226f",
-            "clue": "Greek letter; abbreviation used in transportation",
-            "answer": "eta",
-            "normalized": "eta"
-          },
-          {
-            "id": "919c326c-d7b0-4bac-9d09-b91aa75f53ef",
-            "clue": "A racing yacht that rhymes with taxi",
-            "answer": "maxi",
-            "normalized": "maxi"
-          },
-          {
-            "id": "669fe0e4-162f-4069-a5ac-256db9b87edb",
-            "clue": "Special effects company founded by George Lucas",
-            "answer": "ilm",
-            "normalized": "ilm"
-          },
-          {
-            "id": "11a6f103-8708-4d54-aeb8-55e2aad7a346",
-            "clue": "Bruce Almighty sequel, __ Almighty",
-            "answer": "evan",
-            "normalized": "evan"
-          },
-          {
-            "id": "092b8837-c5bb-4d7c-bbf2-6b42aa2430b4",
-            "clue": "Places that offer political protection to refugees",
-            "answer": "asylums",
-            "normalized": "asylums"
-          },
-          {
-            "id": "1312070b-28c1-4f50-971a-246828092a6b",
-            "clue": "Device sends medicine to lungs for asthma sufferer",
-            "answer": "inhaler",
-            "normalized": "inhaler"
-          },
-          {
-            "id": "ad19e906-e1ed-458f-93a7-d3c01fab7d20",
-            "clue": "Remain, don't move",
-            "answer": "stay",
-            "normalized": "stay"
-          },
-          {
-            "id": "ecde5c7d-415c-45fd-92a0-6aa3e9d8db33",
-            "clue": "La Bamba band __ Lobos",
-            "answer": "los",
-            "normalized": "los"
-          },
-          {
-            "id": "2604c7e3-65ca-4630-afc0-141153fec654",
-            "clue": "Initialism for last in, first out",
-            "answer": "lifo",
-            "normalized": "lifo"
-          },
-          {
-            "id": "cac778d3-353f-403e-bfc4-6d8259455ba8",
-            "clue": "A nickname for a toddler or young kid",
-            "answer": "tot",
-            "normalized": "tot"
-          },
-          {
-            "id": "5143dcda-ea6a-4e40-b596-837e3390397c",
-            "clue": "Sparkling Italian wine from the Piedmont region",
-            "answer": "asti",
-            "normalized": "asti"
-          },
-          {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
-          },
-          {
-            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
-            "clue": "Polynesian flower garland, anagram of \"lie\"",
-            "answer": "lei",
-            "normalized": "lei"
-          },
-          {
-            "id": "3abea293-be0b-4ba4-8015-d0e5f75893a1",
-            "clue": "Mythical sunken island mentioned by Plato",
-            "answer": "atlantis",
-            "normalized": "atlantis"
-          },
-          {
-            "id": "53005ec4-673c-4c84-96a4-de27de67b3ab",
-            "clue": "Used to operate valves in combustion engines",
-            "answer": "camshaft",
-            "normalized": "camshaft"
-          },
-          {
-            "id": "87021276-a06d-4584-97f5-791bc0c441f6",
-            "clue": "What olfactory receptors do, nose's job",
-            "answer": "smell",
-            "normalized": "smell"
-          },
-          {
-            "id": "ff118986-b562-4da1-a76e-d36e9fb48cee",
-            "clue": "__ a España, Spain's multi-stage bicycle race",
-            "answer": "la vuelta",
-            "normalized": "lavuelta"
-          },
-          {
-            "id": "41aadd59-04ea-4afe-9880-34ba8e9871b1",
-            "clue": "Quiet place where students take tests",
-            "answer": "exam room",
-            "normalized": "examroom"
-          },
-          {
-            "id": "a8f8b17e-2cce-4136-89f7-90d408c91058",
-            "clue": "Loud and unpleasant noises",
-            "answer": "dins",
-            "normalized": "dins"
-          },
-          {
-            "id": "e5620ce6-f1f9-4e12-905b-423a34c9e46f",
-            "clue": "__ Kusama, artist with a fondness for polka dots",
-            "answer": "yayoi",
-            "normalized": "yayoi"
-          },
-          {
-            "id": "9e54dc63-4da3-435f-a945-29be1e04c41c",
-            "clue": "Actress Fisher, went from Home and Away to Scooby",
-            "answer": "isla",
-            "normalized": "isla"
-          },
-          {
-            "id": "8b727330-f071-4145-a11a-e6ad24e58263",
-            "clue": "Scheduled time of arrival, in short",
-            "answer": "sta",
-            "normalized": "sta"
-          }
-        ],
-        "track": "PC|LenC--Y2026M7D8F1"
+        "track": "PC|LenC--Y2026M7D9F1"
       }
     },
     "latestAvailableEntry": {
@@ -428931,21 +428943,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "eiwdnb7JVv5l49JO+l367EErv6xN7Yef1tE99tCP4eot754ct9dLNvG/A1JP2x6576eBAYb02h5YWmhzaqKGP7TKrNJxn2Nz9hCUmkQ20JxbFh3vMGRryih34TGvm2k/V80dip/lndfWQvbmOpm/OOwvyf1NgHwQS+ilXuU5o4NRfIAmdg29k8Pv3bdAhdA2weyxX2ibB38gl0Opq2dtI5ipdREH0m2Zp6z908A/yhGwgwbY0APR6C+R6UQXQ4trcyJvcoY5t7oABdr4k0AA/pRQjmzwwF+BflUn5/Y8NFk="
+        "DzEmgamWJiDBrhYt+xtihq2g1iaSOpFAUcbxHdXfPyl0SNXIjQI/MU/DXfGsMKrIbGsVljRE/e7aa9UDK975G3UqvPL7XTwfdAt3VBmAk+VDJ3zkGT+6GW9LEGHd3ssUBe0gzwf9okTtrAlRxfJEEAHQ1CTdqeA/MjtKMBsuqJIHbKE58+vIrjje5MknDu8qwg5T9nMUqTi7GKa+1VY5G7XTCSSFkXcImPPnh1IOZh4YTNDPcJiwKyDvRXdANlQBz2GKGT3PACP4YU1TIh7Ik4OcxN6gh/4gPrhf8Pmh404="
       ]
     },
     "decrypted": {
-      "Id": "6479d285-82ac-4ab1-a91b-374ee7e850fa",
-      "Date": "2026-07-08T00:00:00Z",
+      "Id": "f84488bd-59cc-4011-821b-885dc39d15f6",
+      "Date": "2026-07-09T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "exact",
-      "NormalizedPassword": "exact",
+      "Password": "polar",
+      "NormalizedPassword": "polar",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-08T01:51:25.8790000+05:30",
-    "hash": "6e0ced564f8873aedf749efcb8c4cea5",
+    "dtu": "2026-07-09T01:29:43.9550000+05:30",
+    "hash": "f6ffa96fa0b4e6b371b08cf27ec3c7e4",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
