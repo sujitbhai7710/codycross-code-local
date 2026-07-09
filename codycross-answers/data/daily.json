@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T19:59:43.955Z",
+  "generatedAt": "2026-07-09T20:15:02.621Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 9
+    "day": 10
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 14
+        "QuantidadeDeFases": 16
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,487 +428251,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-09",
+      "key": "2026-07-10",
       "year": 2026,
       "month": 7,
-      "day": 9,
+      "day": 10,
       "small": {
-        "puzzleId": "1a4f287d-f048-4835-9f87-3015b44e8b58",
+        "puzzleId": "0214a803-2a88-4ae3-a305-71cd8969a8a4",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
-            "clue": "Initialism for database management systems",
-            "answer": "dbms",
-            "normalized": "dbms"
+            "id": "575f43dd-d3be-4f4f-ba94-4fd5b18c5d99",
+            "clue": "Short form of high-definition multimedia interface",
+            "answer": "hdmi",
+            "normalized": "hdmi"
           },
           {
-            "id": "729c0b00-7f9f-45a1-97a0-eae129bab399",
-            "clue": "She has \"gadgets and gizmos aplenty\"",
-            "answer": "ariel",
-            "normalized": "ariel"
+            "id": "0d535cce-29ef-49db-b537-7ae121316736",
+            "clue": "Trying to win someone over romantically",
+            "answer": "wooing",
+            "normalized": "wooing"
           },
           {
-            "id": "37e0c261-9d18-43c5-85e1-977c8711faf1",
-            "clue": "Platform or walkway used by fashion models",
-            "answer": "runway",
-            "normalized": "runway"
+            "id": "6666f20d-be05-4b9c-bdc8-e263e7ab0d80",
+            "clue": "Informal acronym for prefacing an opinion",
+            "answer": "imnsho",
+            "normalized": "imnsho"
           },
           {
-            "id": "dfcdc2f9-202e-4601-b7f1-41cf05d7c441",
-            "clue": "Spanish word for state",
-            "answer": "estado",
-            "normalized": "estado"
+            "id": "d386de97-11e6-4314-af9e-ff403fb7dda3",
+            "clue": "You aren't gonna __, or YAGNI in programming terms",
+            "answer": "need it",
+            "normalized": "needit"
           },
           {
-            "id": "9973d8d3-1092-40dc-a69c-8b5f52a10ff4",
-            "clue": "German philosopher whose name rhymes with bagel",
-            "answer": "hegel",
-            "normalized": "hegel"
+            "id": "7885e220-7cc4-42d1-bd53-46b780dc658b",
+            "clue": "Last name of Cuban activist Enrique",
+            "answer": "ros",
+            "normalized": "ros"
           },
           {
-            "id": "02021b07-b843-479a-9a1b-061667504037",
-            "clue": "A newsroom department devoted to a topic",
-            "answer": "desk",
-            "normalized": "desk"
+            "id": "4df21176-dcb5-44f7-9e5d-f2a0ae6bd897",
+            "clue": "It's where the heart is",
+            "answer": "home",
+            "normalized": "home"
           },
           {
-            "id": "6349b3d1-215b-487c-88d9-c7925d3443ec",
-            "clue": "Risky challenge proposed to someone",
-            "answer": "dare",
-            "normalized": "dare"
+            "id": "875012f4-ded1-49d4-81c4-b48873c71757",
+            "clue": "Turkish kebab, cooked on a vertical rotisserie",
+            "answer": "doner",
+            "normalized": "doner"
           },
           {
-            "id": "c51de681-8e8a-4ae6-8a22-da64446284e9",
-            "clue": "Common tool for painters and calligraphers",
-            "answer": "brush",
-            "normalized": "brush"
+            "id": "dd4ef16a-4398-4538-bca6-7ec152bf2d8a",
+            "clue": "Make an error",
+            "answer": "misdo",
+            "normalized": "misdo"
           },
           {
-            "id": "278e60df-fd0b-4b40-b8f7-ac0648b1bc17",
-            "clue": "Coins that have been struck or stamped",
-            "answer": "minted",
-            "normalized": "minted"
+            "id": "3213010d-c64d-4173-8aca-81d61063722c",
+            "clue": "2023 French crime thriller film, __ Shadow",
+            "answer": "in his",
+            "normalized": "inhis"
           },
           {
-            "id": "b2211f5a-b8d8-4084-ba4e-220d16935644",
-            "clue": "A city's stinky problem",
-            "answer": "sewage",
-            "normalized": "sewage"
+            "id": "fba5ae51-0f23-4a22-9a14-a2ab63f79f9d",
+            "clue": "Come first in a race or competition",
+            "answer": "win",
+            "normalized": "win"
           },
           {
-            "id": "c7fddc6a-d75a-4168-be5d-315338865540",
-            "clue": "Puts cargo on a ship, in olden days",
-            "answer": "lades",
-            "normalized": "lades"
-          },
-          {
-            "id": "dd93deaa-3feb-4948-8396-d91a8d582478",
-            "clue": "The yellow part of an egg",
-            "answer": "yolk",
-            "normalized": "yolk"
+            "id": "d9d1bf79-cfc4-4b0a-8bf7-077b13780169",
+            "clue": "Received",
+            "answer": "got",
+            "normalized": "got"
           }
         ],
-        "track": "PC|LenC--Y2026M7D9F0"
+        "track": "PC|LenC--Y2026M7D10F0"
       },
       "mid": {
-        "puzzleId": "a2c0b5d8-23b4-40f2-80f1-12fc863bb5c4",
+        "puzzleId": "13f7143f-e412-4c99-af1e-164d1649b0be",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "2e006489-95f8-478c-a6ef-f87bf31a83af",
-            "clue": "Male swans",
-            "answer": "cobs",
-            "normalized": "cobs"
+            "id": "ea671875-3114-4662-a927-d839061f55de",
+            "clue": "Son of Cain in the Old Testament",
+            "answer": "enoch",
+            "normalized": "enoch"
           },
           {
-            "id": "95ab37c3-d7a2-4d40-8455-24a097195bfb",
-            "clue": "Latin for the same, used in referencing",
-            "answer": "idem",
-            "normalized": "idem"
+            "id": "229640ab-4608-4bf6-889a-39a36000d22c",
+            "clue": "World leaders, for short",
+            "answer": "pms",
+            "normalized": "pms"
           },
           {
-            "id": "26afdfeb-b2d8-41b8-a643-d1f603e8cad3",
-            "clue": "Song sung by a pair",
-            "answer": "duet",
-            "normalized": "duet"
+            "id": "592ad2e2-6f1c-4b44-b2a2-5495f4478062",
+            "clue": "Abbreviation of a bacterial infection medicine",
+            "answer": "cipro",
+            "normalized": "cipro"
           },
           {
-            "id": "e33302ec-7284-4817-a76c-5a08690301dc",
-            "clue": "Ukraine-born actress __ Kunis",
-            "answer": "mila",
-            "normalized": "mila"
+            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
+            "clue": "Early US internet company that bought Netscape",
+            "answer": "aol",
+            "normalized": "aol"
           },
           {
-            "id": "0c2d9886-ad72-4d9c-8135-247054c6afc3",
-            "clue": "John Deere invented this in 1837",
-            "answer": "steel plow",
-            "normalized": "steelplow"
+            "id": "04b5915a-b48d-4e0c-99a5-98df1887bd94",
+            "clue": "Small, round, azure fruit",
+            "answer": "blueberry",
+            "normalized": "blueberry"
           },
           {
-            "id": "138a07ba-d42f-4933-bd9b-c9ea22329a6d",
-            "clue": "Pacific country with a blue and yellow flag",
-            "answer": "palau",
-            "normalized": "palau"
+            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
+            "clue": "Currency code for the Sierra Leonean leone",
+            "answer": "sle",
+            "normalized": "sle"
           },
           {
-            "id": "43ea8f51-286e-4e58-a60a-2e516dd0e3d7",
-            "clue": "Young actor on television or in movies",
-            "answer": "child star",
-            "normalized": "childstar"
+            "id": "8374cd56-b839-4354-b49c-fc5a101886b8",
+            "clue": "Stop living",
+            "answer": "die",
+            "normalized": "die"
           },
           {
-            "id": "3759385f-dbd0-4a21-a4f0-afc2a005f9cf",
-            "clue": "Look for prey in the wild",
-            "answer": "hunt",
-            "normalized": "hunt"
+            "id": "2c19a8a4-43ff-48fe-992f-b47caf426998",
+            "clue": "Helplessly, worthlessly",
+            "answer": "uselessly",
+            "normalized": "uselessly"
           },
           {
-            "id": "011b5835-e8de-4063-81d3-465308c02eec",
-            "clue": "Wish someone a good evening in Italian, buona __",
-            "answer": "sera",
-            "normalized": "sera"
+            "id": "f3e59a96-9e0c-42ec-acf9-5d2a8475a201",
+            "clue": "French refusal",
+            "answer": "non",
+            "normalized": "non"
           },
           {
-            "id": "15acae89-4a34-47b8-a260-4d04cde965a4",
-            "clue": "Expression of fright or frustration",
-            "answer": "argh",
-            "normalized": "argh"
+            "id": "3f7e4a02-9c0d-4bc0-82f5-9deb61fce419",
+            "clue": "Christmas carols",
+            "answer": "noels",
+            "normalized": "noels"
           },
           {
-            "id": "e50b8337-477a-474d-b8b8-2768630d30ff",
-            "clue": "Microsoft web browser released with Windows 10",
-            "answer": "edge",
-            "normalized": "edge"
+            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
+            "clue": "Army insect that can be fire or leafcutter",
+            "answer": "ant",
+            "normalized": "ant"
           },
           {
-            "id": "cc7c3529-28d8-4292-b5dd-f4c5a577505a",
-            "clue": "Spinning music discs",
-            "answer": "cds",
-            "normalized": "cds"
+            "id": "38691399-fcec-46e5-b9e8-b4056d4d3c59",
+            "clue": "Register for a course",
+            "answer": "enrol",
+            "normalized": "enrol"
           },
           {
-            "id": "6c072304-5cc9-41d3-9c99-944025e84124",
-            "clue": "Not in",
-            "answer": "out",
-            "normalized": "out"
+            "id": "448eed8a-755c-4667-8318-31033455d2cc",
+            "clue": "Abbreviation for the European Central Bank",
+            "answer": "ecb",
+            "normalized": "ecb"
           },
           {
-            "id": "b2e45613-0b9d-44ab-89ba-918241828a80",
-            "clue": "Voicemail sound",
-            "answer": "beeping",
-            "normalized": "beeping"
+            "id": "5f5be8e6-e315-45d6-a92d-4eb9e0e9be55",
+            "clue": "Birgit __, Swedish soprano of Wagnerian songs",
+            "answer": "nilsson",
+            "normalized": "nilsson"
           },
           {
-            "id": "3c447f09-cbf9-40a9-b6a3-c61a41361325",
-            "clue": "Secret scheme",
-            "answer": "stealth",
-            "normalized": "stealth"
+            "id": "dff69eb5-097a-4737-808e-346c1f74634a",
+            "clue": "Lavish and luxurious",
+            "answer": "opulent",
+            "normalized": "opulent"
           },
           {
-            "id": "80339bc3-1df7-481c-be43-7862ef889e3d",
-            "clue": "Inability to reach an agreement, deadlock",
-            "answer": "impasse",
-            "normalized": "impasse"
+            "id": "07ac9987-2441-4b76-9741-69ed699b2717",
+            "clue": "Basket for carrying fish",
+            "answer": "creel",
+            "normalized": "creel"
           },
           {
-            "id": "54a2b115-7b58-4fc2-a56b-db77b41f8395",
-            "clue": "With added water, not full strength",
-            "answer": "diluted",
-            "normalized": "diluted"
+            "id": "f9f8330f-5d07-4076-83c3-1b8c07a4cb9c",
+            "clue": "A male ferret",
+            "answer": "hob",
+            "normalized": "hob"
           },
           {
-            "id": "9f6d9856-0d4f-4a81-ace3-e8ae2966b0eb",
-            "clue": "Don't bring this orchestra down with Strange Magic",
-            "answer": "elo",
-            "normalized": "elo"
+            "id": "57ad9b69-dda6-4357-805e-827c09177159",
+            "clue": "__ Platz, Berlin square named after French capital",
+            "answer": "pariser",
+            "normalized": "pariser"
           },
           {
-            "id": "7100037c-a5dd-4b19-a4a9-2bae0b263c2f",
-            "clue": "Gaping mouth",
-            "answer": "maw",
-            "normalized": "maw"
+            "id": "2cf0bd4f-2b4d-4260-ba42-802090ad820a",
+            "clue": "Dark cherry used in desserts",
+            "answer": "morello",
+            "normalized": "morello"
           },
           {
-            "id": "f34d3bf3-ea3e-40fa-87cb-d5571e1302a3",
-            "clue": "Low-level design, abbreviated",
-            "answer": "lld",
-            "normalized": "lld"
+            "id": "feb467e9-0e74-4ba2-acf5-ec3cdf51378c",
+            "clue": "Cunning like a fox",
+            "answer": "sly",
+            "normalized": "sly"
           },
           {
-            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
-            "clue": "Goes before \"ching\" for a cash register noise",
-            "answer": "cha",
-            "normalized": "cha"
+            "id": "c9c674af-4cb5-4c16-9d90-b3f4ba7aab5f",
+            "clue": "__ Arantes do Nascimento, Pelé's real name",
+            "answer": "edson",
+            "normalized": "edson"
           },
           {
-            "id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
-            "clue": "Ben-__, Oscar-winning film with Charlton Heston",
-            "answer": "hur",
-            "normalized": "hur"
+            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
+            "clue": "Feminine form of one in Spanish",
+            "answer": "una",
+            "normalized": "una"
           },
           {
-            "id": "21019e7a-b588-470a-ba51-abe721232063",
-            "clue": "ISO three-letter country code for Argentina",
-            "answer": "arg",
-            "normalized": "arg"
+            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
+            "clue": "East-northeast for short",
+            "answer": "ene",
+            "normalized": "ene"
           },
           {
-            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
-            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
-            "answer": "rae",
-            "normalized": "rae"
+            "id": "fe564914-7312-4eca-add0-bc1d388b987e",
+            "clue": "Haute couture fashion brand formed 1961, initials",
+            "answer": "ysl",
+            "normalized": "ysl"
           }
         ],
-        "track": "PC|LenC--Y2026M7D9F1"
+        "track": "PC|LenC--Y2026M7D10F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-09",
+      "key": "2026-07-10",
       "year": 2026,
       "month": 7,
-      "day": 9,
+      "day": 10,
       "small": {
-        "puzzleId": "1a4f287d-f048-4835-9f87-3015b44e8b58",
+        "puzzleId": "0214a803-2a88-4ae3-a305-71cd8969a8a4",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
-            "clue": "Initialism for database management systems",
-            "answer": "dbms",
-            "normalized": "dbms"
+            "id": "575f43dd-d3be-4f4f-ba94-4fd5b18c5d99",
+            "clue": "Short form of high-definition multimedia interface",
+            "answer": "hdmi",
+            "normalized": "hdmi"
           },
           {
-            "id": "729c0b00-7f9f-45a1-97a0-eae129bab399",
-            "clue": "She has \"gadgets and gizmos aplenty\"",
-            "answer": "ariel",
-            "normalized": "ariel"
+            "id": "0d535cce-29ef-49db-b537-7ae121316736",
+            "clue": "Trying to win someone over romantically",
+            "answer": "wooing",
+            "normalized": "wooing"
           },
           {
-            "id": "37e0c261-9d18-43c5-85e1-977c8711faf1",
-            "clue": "Platform or walkway used by fashion models",
-            "answer": "runway",
-            "normalized": "runway"
+            "id": "6666f20d-be05-4b9c-bdc8-e263e7ab0d80",
+            "clue": "Informal acronym for prefacing an opinion",
+            "answer": "imnsho",
+            "normalized": "imnsho"
           },
           {
-            "id": "dfcdc2f9-202e-4601-b7f1-41cf05d7c441",
-            "clue": "Spanish word for state",
-            "answer": "estado",
-            "normalized": "estado"
+            "id": "d386de97-11e6-4314-af9e-ff403fb7dda3",
+            "clue": "You aren't gonna __, or YAGNI in programming terms",
+            "answer": "need it",
+            "normalized": "needit"
           },
           {
-            "id": "9973d8d3-1092-40dc-a69c-8b5f52a10ff4",
-            "clue": "German philosopher whose name rhymes with bagel",
-            "answer": "hegel",
-            "normalized": "hegel"
+            "id": "7885e220-7cc4-42d1-bd53-46b780dc658b",
+            "clue": "Last name of Cuban activist Enrique",
+            "answer": "ros",
+            "normalized": "ros"
           },
           {
-            "id": "02021b07-b843-479a-9a1b-061667504037",
-            "clue": "A newsroom department devoted to a topic",
-            "answer": "desk",
-            "normalized": "desk"
+            "id": "4df21176-dcb5-44f7-9e5d-f2a0ae6bd897",
+            "clue": "It's where the heart is",
+            "answer": "home",
+            "normalized": "home"
           },
           {
-            "id": "6349b3d1-215b-487c-88d9-c7925d3443ec",
-            "clue": "Risky challenge proposed to someone",
-            "answer": "dare",
-            "normalized": "dare"
+            "id": "875012f4-ded1-49d4-81c4-b48873c71757",
+            "clue": "Turkish kebab, cooked on a vertical rotisserie",
+            "answer": "doner",
+            "normalized": "doner"
           },
           {
-            "id": "c51de681-8e8a-4ae6-8a22-da64446284e9",
-            "clue": "Common tool for painters and calligraphers",
-            "answer": "brush",
-            "normalized": "brush"
+            "id": "dd4ef16a-4398-4538-bca6-7ec152bf2d8a",
+            "clue": "Make an error",
+            "answer": "misdo",
+            "normalized": "misdo"
           },
           {
-            "id": "278e60df-fd0b-4b40-b8f7-ac0648b1bc17",
-            "clue": "Coins that have been struck or stamped",
-            "answer": "minted",
-            "normalized": "minted"
+            "id": "3213010d-c64d-4173-8aca-81d61063722c",
+            "clue": "2023 French crime thriller film, __ Shadow",
+            "answer": "in his",
+            "normalized": "inhis"
           },
           {
-            "id": "b2211f5a-b8d8-4084-ba4e-220d16935644",
-            "clue": "A city's stinky problem",
-            "answer": "sewage",
-            "normalized": "sewage"
+            "id": "fba5ae51-0f23-4a22-9a14-a2ab63f79f9d",
+            "clue": "Come first in a race or competition",
+            "answer": "win",
+            "normalized": "win"
           },
           {
-            "id": "c7fddc6a-d75a-4168-be5d-315338865540",
-            "clue": "Puts cargo on a ship, in olden days",
-            "answer": "lades",
-            "normalized": "lades"
-          },
-          {
-            "id": "dd93deaa-3feb-4948-8396-d91a8d582478",
-            "clue": "The yellow part of an egg",
-            "answer": "yolk",
-            "normalized": "yolk"
+            "id": "d9d1bf79-cfc4-4b0a-8bf7-077b13780169",
+            "clue": "Received",
+            "answer": "got",
+            "normalized": "got"
           }
         ],
-        "track": "PC|LenC--Y2026M7D9F0"
+        "track": "PC|LenC--Y2026M7D10F0"
       },
       "mid": {
-        "puzzleId": "a2c0b5d8-23b4-40f2-80f1-12fc863bb5c4",
+        "puzzleId": "13f7143f-e412-4c99-af1e-164d1649b0be",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "2e006489-95f8-478c-a6ef-f87bf31a83af",
-            "clue": "Male swans",
-            "answer": "cobs",
-            "normalized": "cobs"
+            "id": "ea671875-3114-4662-a927-d839061f55de",
+            "clue": "Son of Cain in the Old Testament",
+            "answer": "enoch",
+            "normalized": "enoch"
           },
           {
-            "id": "95ab37c3-d7a2-4d40-8455-24a097195bfb",
-            "clue": "Latin for the same, used in referencing",
-            "answer": "idem",
-            "normalized": "idem"
+            "id": "229640ab-4608-4bf6-889a-39a36000d22c",
+            "clue": "World leaders, for short",
+            "answer": "pms",
+            "normalized": "pms"
           },
           {
-            "id": "26afdfeb-b2d8-41b8-a643-d1f603e8cad3",
-            "clue": "Song sung by a pair",
-            "answer": "duet",
-            "normalized": "duet"
+            "id": "592ad2e2-6f1c-4b44-b2a2-5495f4478062",
+            "clue": "Abbreviation of a bacterial infection medicine",
+            "answer": "cipro",
+            "normalized": "cipro"
           },
           {
-            "id": "e33302ec-7284-4817-a76c-5a08690301dc",
-            "clue": "Ukraine-born actress __ Kunis",
-            "answer": "mila",
-            "normalized": "mila"
+            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
+            "clue": "Early US internet company that bought Netscape",
+            "answer": "aol",
+            "normalized": "aol"
           },
           {
-            "id": "0c2d9886-ad72-4d9c-8135-247054c6afc3",
-            "clue": "John Deere invented this in 1837",
-            "answer": "steel plow",
-            "normalized": "steelplow"
+            "id": "04b5915a-b48d-4e0c-99a5-98df1887bd94",
+            "clue": "Small, round, azure fruit",
+            "answer": "blueberry",
+            "normalized": "blueberry"
           },
           {
-            "id": "138a07ba-d42f-4933-bd9b-c9ea22329a6d",
-            "clue": "Pacific country with a blue and yellow flag",
-            "answer": "palau",
-            "normalized": "palau"
+            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
+            "clue": "Currency code for the Sierra Leonean leone",
+            "answer": "sle",
+            "normalized": "sle"
           },
           {
-            "id": "43ea8f51-286e-4e58-a60a-2e516dd0e3d7",
-            "clue": "Young actor on television or in movies",
-            "answer": "child star",
-            "normalized": "childstar"
+            "id": "8374cd56-b839-4354-b49c-fc5a101886b8",
+            "clue": "Stop living",
+            "answer": "die",
+            "normalized": "die"
           },
           {
-            "id": "3759385f-dbd0-4a21-a4f0-afc2a005f9cf",
-            "clue": "Look for prey in the wild",
-            "answer": "hunt",
-            "normalized": "hunt"
+            "id": "2c19a8a4-43ff-48fe-992f-b47caf426998",
+            "clue": "Helplessly, worthlessly",
+            "answer": "uselessly",
+            "normalized": "uselessly"
           },
           {
-            "id": "011b5835-e8de-4063-81d3-465308c02eec",
-            "clue": "Wish someone a good evening in Italian, buona __",
-            "answer": "sera",
-            "normalized": "sera"
+            "id": "f3e59a96-9e0c-42ec-acf9-5d2a8475a201",
+            "clue": "French refusal",
+            "answer": "non",
+            "normalized": "non"
           },
           {
-            "id": "15acae89-4a34-47b8-a260-4d04cde965a4",
-            "clue": "Expression of fright or frustration",
-            "answer": "argh",
-            "normalized": "argh"
+            "id": "3f7e4a02-9c0d-4bc0-82f5-9deb61fce419",
+            "clue": "Christmas carols",
+            "answer": "noels",
+            "normalized": "noels"
           },
           {
-            "id": "e50b8337-477a-474d-b8b8-2768630d30ff",
-            "clue": "Microsoft web browser released with Windows 10",
-            "answer": "edge",
-            "normalized": "edge"
+            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
+            "clue": "Army insect that can be fire or leafcutter",
+            "answer": "ant",
+            "normalized": "ant"
           },
           {
-            "id": "cc7c3529-28d8-4292-b5dd-f4c5a577505a",
-            "clue": "Spinning music discs",
-            "answer": "cds",
-            "normalized": "cds"
+            "id": "38691399-fcec-46e5-b9e8-b4056d4d3c59",
+            "clue": "Register for a course",
+            "answer": "enrol",
+            "normalized": "enrol"
           },
           {
-            "id": "6c072304-5cc9-41d3-9c99-944025e84124",
-            "clue": "Not in",
-            "answer": "out",
-            "normalized": "out"
+            "id": "448eed8a-755c-4667-8318-31033455d2cc",
+            "clue": "Abbreviation for the European Central Bank",
+            "answer": "ecb",
+            "normalized": "ecb"
           },
           {
-            "id": "b2e45613-0b9d-44ab-89ba-918241828a80",
-            "clue": "Voicemail sound",
-            "answer": "beeping",
-            "normalized": "beeping"
+            "id": "5f5be8e6-e315-45d6-a92d-4eb9e0e9be55",
+            "clue": "Birgit __, Swedish soprano of Wagnerian songs",
+            "answer": "nilsson",
+            "normalized": "nilsson"
           },
           {
-            "id": "3c447f09-cbf9-40a9-b6a3-c61a41361325",
-            "clue": "Secret scheme",
-            "answer": "stealth",
-            "normalized": "stealth"
+            "id": "dff69eb5-097a-4737-808e-346c1f74634a",
+            "clue": "Lavish and luxurious",
+            "answer": "opulent",
+            "normalized": "opulent"
           },
           {
-            "id": "80339bc3-1df7-481c-be43-7862ef889e3d",
-            "clue": "Inability to reach an agreement, deadlock",
-            "answer": "impasse",
-            "normalized": "impasse"
+            "id": "07ac9987-2441-4b76-9741-69ed699b2717",
+            "clue": "Basket for carrying fish",
+            "answer": "creel",
+            "normalized": "creel"
           },
           {
-            "id": "54a2b115-7b58-4fc2-a56b-db77b41f8395",
-            "clue": "With added water, not full strength",
-            "answer": "diluted",
-            "normalized": "diluted"
+            "id": "f9f8330f-5d07-4076-83c3-1b8c07a4cb9c",
+            "clue": "A male ferret",
+            "answer": "hob",
+            "normalized": "hob"
           },
           {
-            "id": "9f6d9856-0d4f-4a81-ace3-e8ae2966b0eb",
-            "clue": "Don't bring this orchestra down with Strange Magic",
-            "answer": "elo",
-            "normalized": "elo"
+            "id": "57ad9b69-dda6-4357-805e-827c09177159",
+            "clue": "__ Platz, Berlin square named after French capital",
+            "answer": "pariser",
+            "normalized": "pariser"
           },
           {
-            "id": "7100037c-a5dd-4b19-a4a9-2bae0b263c2f",
-            "clue": "Gaping mouth",
-            "answer": "maw",
-            "normalized": "maw"
+            "id": "2cf0bd4f-2b4d-4260-ba42-802090ad820a",
+            "clue": "Dark cherry used in desserts",
+            "answer": "morello",
+            "normalized": "morello"
           },
           {
-            "id": "f34d3bf3-ea3e-40fa-87cb-d5571e1302a3",
-            "clue": "Low-level design, abbreviated",
-            "answer": "lld",
-            "normalized": "lld"
+            "id": "feb467e9-0e74-4ba2-acf5-ec3cdf51378c",
+            "clue": "Cunning like a fox",
+            "answer": "sly",
+            "normalized": "sly"
           },
           {
-            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
-            "clue": "Goes before \"ching\" for a cash register noise",
-            "answer": "cha",
-            "normalized": "cha"
+            "id": "c9c674af-4cb5-4c16-9d90-b3f4ba7aab5f",
+            "clue": "__ Arantes do Nascimento, Pelé's real name",
+            "answer": "edson",
+            "normalized": "edson"
           },
           {
-            "id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
-            "clue": "Ben-__, Oscar-winning film with Charlton Heston",
-            "answer": "hur",
-            "normalized": "hur"
+            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
+            "clue": "Feminine form of one in Spanish",
+            "answer": "una",
+            "normalized": "una"
           },
           {
-            "id": "21019e7a-b588-470a-ba51-abe721232063",
-            "clue": "ISO three-letter country code for Argentina",
-            "answer": "arg",
-            "normalized": "arg"
+            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
+            "clue": "East-northeast for short",
+            "answer": "ene",
+            "normalized": "ene"
           },
           {
-            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
-            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
-            "answer": "rae",
-            "normalized": "rae"
+            "id": "fe564914-7312-4eca-add0-bc1d388b987e",
+            "clue": "Haute couture fashion brand formed 1961, initials",
+            "answer": "ysl",
+            "normalized": "ysl"
           }
         ],
-        "track": "PC|LenC--Y2026M7D9F1"
+        "track": "PC|LenC--Y2026M7D10F1"
       }
     },
     "latestAvailableEntry": {
@@ -428943,21 +428931,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "DzEmgamWJiDBrhYt+xtihq2g1iaSOpFAUcbxHdXfPyl0SNXIjQI/MU/DXfGsMKrIbGsVljRE/e7aa9UDK975G3UqvPL7XTwfdAt3VBmAk+VDJ3zkGT+6GW9LEGHd3ssUBe0gzwf9okTtrAlRxfJEEAHQ1CTdqeA/MjtKMBsuqJIHbKE58+vIrjje5MknDu8qwg5T9nMUqTi7GKa+1VY5G7XTCSSFkXcImPPnh1IOZh4YTNDPcJiwKyDvRXdANlQBz2GKGT3PACP4YU1TIh7Ik4OcxN6gh/4gPrhf8Pmh404="
+        "8Rg1jtBDeX2SicQHzI+gjOrMO6qzcrMKKG0H5gRofD8Rn3Q/7PcpoLB+QZ1EKD+VWEi+JKu9+8NasPKpkN1TligIJhBmnnZXx0zqAcyoRbyLMrEgNFj/tgqru9VlRfsdT8P0iY0Poy7MdfloFJeTYDmTcnzDrqnHkOzEpypsVXkERcSTrBJ2uxG15u7/qx2/AJlK54Bbwc3+FFCnCUH8b9ZUgLL+MMkwT8p2RtC2jDjBNUgMS/EPwMVsIPmmKG7cfKriOnzzZbKHfRVKWVcFo8EREMEa42Xps1uMyNP6BQU="
       ]
     },
     "decrypted": {
-      "Id": "f84488bd-59cc-4011-821b-885dc39d15f6",
-      "Date": "2026-07-09T00:00:00Z",
+      "Id": "e3360a76-9e90-4030-afdb-d8e730088510",
+      "Date": "2026-07-10T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "polar",
-      "NormalizedPassword": "polar",
+      "Password": "weary",
+      "NormalizedPassword": "weary",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-09T01:29:43.9550000+05:30",
-    "hash": "f6ffa96fa0b4e6b371b08cf27ec3c7e4",
+    "dtu": "2026-07-10T01:45:02.6210000+05:30",
+    "hash": "c30f65b6160f4a8ecab46b3af260d57b",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
