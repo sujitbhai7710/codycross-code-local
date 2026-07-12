@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-11T19:38:41.253Z",
+  "generatedAt": "2026-07-12T19:36:31.622Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 12
+    "day": 13
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 20
+        "QuantidadeDeFases": 22
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -275015,7 +275015,7 @@
             },
             {
               "id": "0ec0f0a8-5383-4160-a2f1-54dbcf9edde5",
-              "clue": "The mother of all those 101 Dalmatians",
+              "clue": "The partner of Pongo in 101 Dalmatians",
               "answer": "perdita",
               "normalized": "perdita"
             },
@@ -428251,439 +428251,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-12",
+      "key": "2026-07-13",
       "year": 2026,
       "month": 7,
-      "day": 12,
+      "day": 13,
       "small": {
-        "puzzleId": "594c0480-9a5a-4c1e-ae90-7ae3af4e0c85",
+        "puzzleId": "8733d832-460e-43ae-b5f8-9b7c229174b3",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "f5e48bdf-bc33-48e8-bc1d-9d163a1a56b6",
-            "clue": "Regarding, in two words",
-            "answer": "as to",
-            "normalized": "asto"
-          },
-          {
-            "id": "23d700dc-f013-41ec-9933-a262526e3aee",
-            "clue": "Distort, slant",
-            "answer": "skew",
-            "normalized": "skew"
-          },
-          {
-            "id": "c1016cf8-6a5d-4c0b-9fbd-0d57baedc0bc",
-            "clue": "Carolyn __, Nancy Drew writers' pen name",
-            "answer": "keene",
-            "normalized": "keene"
-          },
-          {
-            "id": "16cacb1f-8e51-4cb5-b535-284ab53bd5a4",
-            "clue": "Those people over there",
-            "answer": "them",
-            "normalized": "them"
-          },
-          {
-            "id": "2cec5ca4-4c7e-46b7-9413-af7dbb77df63",
-            "clue": "Central Emergency Response Fund, acronym",
-            "answer": "cerf",
-            "normalized": "cerf"
-          },
-          {
-            "id": "28efc90e-1f4f-4d4c-927c-94876d74aaf1",
-            "clue": "Chemist known for law of constant heat summation",
-            "answer": "hess",
-            "normalized": "hess"
-          },
-          {
-            "id": "06c6f894-059f-4d6d-aaae-ed3bfa15ea39",
-            "clue": "To pose a question",
-            "answer": "ask",
-            "normalized": "ask"
-          },
-          {
-            "id": "13ea6ae3-478a-4a26-b829-b787294ad34c",
-            "clue": "Etch A __, drawing toy with metal powder screen",
-            "answer": "sketch",
-            "normalized": "sketch"
-          },
-          {
-            "id": "2919516c-74d7-4163-b43b-b3481bbec2d6",
-            "clue": "Sound of a titter or giggle",
-            "answer": "tee hee",
-            "normalized": "teehee"
-          },
-          {
-            "id": "3cda03d3-d39d-419f-9939-18e89614935b",
-            "clue": "Possessors, holders, proprietors",
-            "answer": "owners",
-            "normalized": "owners"
-          },
-          {
-            "id": "9860ad0d-44c2-48f6-bf2d-ff5d4d355578",
-            "clue": "Abbreviation for electromagnetic fields",
-            "answer": "emfs",
-            "normalized": "emfs"
-          }
-        ],
-        "track": "PC|LenC--Y2026M7D12F0"
-      },
-      "mid": {
-        "puzzleId": "e65deec8-b9ce-49d0-b40e-415a9c956258",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "78687d42-52c9-49ca-83e3-fd92c6450842",
-            "clue": "Suffix meaning that which carries",
-            "answer": "fer",
-            "normalized": "fer"
+            "id": "3a8aaa1b-50ea-4a84-bfe5-0a747a666b53",
+            "clue": "Hearing organ",
+            "answer": "ear",
+            "normalized": "ear"
           },
           {
-            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
-            "clue": "Jack Black movie Shallow __, or 2001 computer",
-            "answer": "hal",
-            "normalized": "hal"
+            "id": "85173108-b18d-4a88-8254-d2670e823166",
+            "clue": "Officer who makes public announcements in a court",
+            "answer": "crier",
+            "normalized": "crier"
           },
           {
-            "id": "8efe4bb3-cf7c-4c4a-960f-5453bc37c16c",
-            "clue": "A demon, or sometimes ogre, in Japanese mythology",
-            "answer": "oni",
-            "normalized": "oni"
+            "id": "2a3ad01f-fc44-4b9d-8ba1-ca9f3080acf1",
+            "clue": "Fictional vigilante played by Antonio Banderas",
+            "answer": "zorro",
+            "normalized": "zorro"
           },
           {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
+            "id": "20596ec6-40c9-47d8-907a-78a693d8a9d9",
+            "clue": "Bid someone this French word before leaving",
+            "answer": "adieu",
+            "normalized": "adieu"
           },
           {
-            "id": "df87791d-a285-4f47-8d41-24cae5d88b35",
-            "clue": "Arguments from which neither side backs down",
-            "answer": "logjams",
-            "normalized": "logjams"
+            "id": "fe3aff99-2372-4fe9-b50d-bcf9227eb96f",
+            "clue": "To take it easy; what one does on vacation",
+            "answer": "relax",
+            "normalized": "relax"
           },
           {
-            "id": "d4b6c67a-b8a6-4a4d-bd3b-b19a76ba7128",
-            "clue": "Himalayan peak, fourth highest in the world",
-            "answer": "lhotse",
-            "normalized": "lhotse"
+            "id": "05a59d5e-9526-4083-a875-5ea0558f2ee7",
+            "clue": "Barrett, early Pink Floyd frontman",
+            "answer": "syd",
+            "normalized": "syd"
           },
           {
-            "id": "694e922d-057b-4a4b-ab57-9dd9624b6aa6",
-            "clue": "One enjoying a swim",
-            "answer": "bather",
-            "normalized": "bather"
+            "id": "fa7dbb5f-2e9c-4554-8ef0-b480008ca2a1",
+            "clue": "Wears away, e.g. soil in a riverbed",
+            "answer": "erodes",
+            "normalized": "erodes"
           },
           {
-            "id": "1a7b51c1-d980-40eb-8a8b-aa77fd7e5c96",
-            "clue": "Timetables, dockets, schedules",
-            "answer": "agendas",
-            "normalized": "agendas"
+            "id": "9db405dd-ea51-4500-b357-75e22db38067",
+            "clue": "In a flighty, breezy manner",
+            "answer": "airily",
+            "normalized": "airily"
           },
           {
-            "id": "067afdbc-f507-4fe5-a3fd-5d09a470dd6f",
-            "clue": "Beam of sunlight",
-            "answer": "ray",
-            "normalized": "ray"
+            "id": "dbb79781-27e9-4992-bb07-4b6c8f824f31",
+            "clue": "Consumed a book again",
+            "answer": "reread",
+            "normalized": "reread"
           },
           {
-            "id": "b1217aa9-7e6b-4f3f-81f6-4ab054d42ad9",
-            "clue": "Least common multiple, initialism",
-            "answer": "lcm",
-            "normalized": "lcm"
+            "id": "83bd1d67-6b7f-4302-8ed9-807824920b53",
+            "clue": "Russian royal",
+            "answer": "czar",
+            "normalized": "czar"
           },
           {
-            "id": "3a13261d-f911-4bfb-a618-b643ee4df692",
-            "clue": "The last night of the year, for short",
-            "answer": "nye",
-            "normalized": "nye"
-          },
-          {
-            "id": "ce55b993-5aac-4de7-9512-12707426555c",
-            "clue": "The opposite of no",
-            "answer": "yes",
-            "normalized": "yes"
-          },
-          {
-            "id": "bea0b710-aa63-4454-b1fa-55ea3292a241",
-            "clue": "Abbreviation for folio",
-            "answer": "fol",
-            "normalized": "fol"
-          },
-          {
-            "id": "21f90e49-96bd-402f-afc8-b2f0417b2d3d",
-            "clue": "The first aircraft to drop an atomic bomb",
-            "answer": "enola gay",
-            "normalized": "enolagay"
-          },
-          {
-            "id": "3042b58c-eb6c-4463-8e79-5a14c6a0bac2",
-            "clue": "Lord Nelson's was injured in the Siege of Calvi",
-            "answer": "right eye",
-            "normalized": "righteye"
-          },
-          {
-            "id": "999bc98d-a11d-49f3-ad49-fb55bf9a63d6",
-            "clue": "Argument reaches explosive proportions; __ debated",
-            "answer": "heatedly",
-            "normalized": "heatedly"
-          },
-          {
-            "id": "558288bc-9ebf-481c-89f0-f07f583bf972",
-            "clue": "Accelerating accumulation of weapons",
-            "answer": "arms race",
-            "normalized": "armsrace"
-          },
-          {
-            "id": "3e076d4a-b3bf-41ab-a157-9cbdde24852c",
-            "clue": "Emit a beam of coherent monochromatic light",
-            "answer": "lase",
-            "normalized": "lase"
-          },
-          {
-            "id": "8fff3486-9742-412c-a009-90333427df82",
-            "clue": "Author of the Book of Revelation",
-            "answer": "john",
-            "normalized": "john"
-          },
-          {
-            "id": "a46eab93-55d1-444d-a13a-6236b5bc2bcd",
-            "clue": "A large outbuilding on a farm",
-            "answer": "barn",
-            "normalized": "barn"
-          },
-          {
-            "id": "46961678-b952-4327-9aa7-821d6facf80f",
-            "clue": "Abbreviation that signifies \"text message\"",
-            "answer": "sms",
-            "normalized": "sms"
+            "id": "0a9678a7-8c2a-43b3-be65-27b3e2cdf877",
+            "clue": "Flour and fat mix used to thicken sauce or gravy",
+            "answer": "roux",
+            "normalized": "roux"
           }
         ],
-        "track": "PC|LenC--Y2026M7D12F1"
+        "track": "PC|LenC--Y2026M7D13F0"
+      },
+      "mid": {
+        "puzzleId": "3cc60874-6d7f-4639-84e2-d9244370d9dd",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "73eb27d5-a92a-43c5-8bf6-e4950c8e1fa7",
+            "clue": "Selects, chooses",
+            "answer": "opts",
+            "normalized": "opts"
+          },
+          {
+            "id": "d02d5e01-5176-486c-8dc1-1c97d0450dac",
+            "clue": "The Tortured Poets Department abbreviation",
+            "answer": "ttpd",
+            "normalized": "ttpd"
+          },
+          {
+            "id": "fbf2913b-a999-45ce-a8ab-7200034e8c4b",
+            "clue": "Hawaiian island known as the \"gathering place\"",
+            "answer": "oahu",
+            "normalized": "oahu"
+          },
+          {
+            "id": "63b3fdcb-cc54-45fd-8053-ecd98fe34230",
+            "clue": "Uplands in northern Germany with the Brocken peak",
+            "answer": "harz",
+            "normalized": "harz"
+          },
+          {
+            "id": "6de6e768-cf95-4419-8f0d-e53859570c1c",
+            "clue": "Made a reservation in advance",
+            "answer": "prebooked",
+            "normalized": "prebooked"
+          },
+          {
+            "id": "ac530b43-e818-40a3-a486-5632d5790a52",
+            "clue": "French term for a dead end, cul-de-__",
+            "answer": "sac",
+            "normalized": "sac"
+          },
+          {
+            "id": "1b95f299-6389-41da-967c-5fe4f39b94a8",
+            "clue": "Regrets, feels sorry for",
+            "answer": "rues",
+            "normalized": "rues"
+          },
+          {
+            "id": "d3f53f6a-4080-409a-bea2-35c7ed7071d2",
+            "clue": "A person who is easily tricked or deceived",
+            "answer": "dupe",
+            "normalized": "dupe"
+          },
+          {
+            "id": "ba18f982-3e63-4a77-bb30-15c6dbe96f10",
+            "clue": "Hairy animal skin",
+            "answer": "fur",
+            "normalized": "fur"
+          },
+          {
+            "id": "d2daa04b-9a85-4541-ac46-2d093c83c1bd",
+            "clue": "First city to be hit with atomic bomb in 1945",
+            "answer": "hiroshima",
+            "normalized": "hiroshima"
+          },
+          {
+            "id": "f53f6231-6ef2-4c02-8cd1-a22f8dee6ac0",
+            "clue": "Instruction to respond to a party invitation",
+            "answer": "rsvp",
+            "normalized": "rsvp"
+          },
+          {
+            "id": "7d42aecd-e2c3-43fe-b840-bc0888df5257",
+            "clue": "Not under, through or around",
+            "answer": "over",
+            "normalized": "over"
+          },
+          {
+            "id": "8b2b1d01-06e6-45c8-bfd8-55b625ab761a",
+            "clue": "Perceives with the eyes",
+            "answer": "sees",
+            "normalized": "sees"
+          },
+          {
+            "id": "cbe03acf-a5d6-435a-80e6-bca42480495b",
+            "clue": "Admit defeat, surrender",
+            "answer": "cede",
+            "normalized": "cede"
+          },
+          {
+            "id": "f38e3005-40cc-462c-9156-de2fae14e0eb",
+            "clue": "Word said after making a mistake",
+            "answer": "oops",
+            "normalized": "oops"
+          },
+          {
+            "id": "0df76528-a9b2-4622-8188-06cc015b1ce1",
+            "clue": "A place of pure bliss or delight; heaven",
+            "answer": "paradise",
+            "normalized": "paradise"
+          },
+          {
+            "id": "04d6fbb7-add6-43e1-9155-19a6f57a89e8",
+            "clue": "Trouble With __; 2012 baseball drama",
+            "answer": "the curve",
+            "normalized": "thecurve"
+          },
+          {
+            "id": "47397307-6bc2-4b64-b6de-cfd86cb14dd9",
+            "clue": "Temporary teacher or long sandwich, for short",
+            "answer": "sub",
+            "normalized": "sub"
+          },
+          {
+            "id": "a2bb10a5-6cfb-4224-8036-79cf30fdd72c",
+            "clue": "Coen brothers' film, O Brother, Where Art __?",
+            "answer": "thou",
+            "normalized": "thou"
+          },
+          {
+            "id": "dd8c88da-9dcf-45dd-b077-5cfcdcadec2d",
+            "clue": "Brubeck composition has atypical time signature",
+            "answer": "take five",
+            "normalized": "takefive"
+          },
+          {
+            "id": "019798fc-c6ba-446f-a94a-71496a2e84ce",
+            "clue": "Missing, __ dead; although no actual proof",
+            "answer": "presumed",
+            "normalized": "presumed"
+          },
+          {
+            "id": "6df6ac98-9ac8-4c2d-9a70-d2f1e3b24b84",
+            "clue": "Algeria's ISO currency code",
+            "answer": "dzd",
+            "normalized": "dzd"
+          },
+          {
+            "id": "03bd7701-c495-4ebe-a5ec-28c0e6b8a49b",
+            "clue": "Galena and hematite",
+            "answer": "ores",
+            "normalized": "ores"
+          },
+          {
+            "id": "922fe506-4b7e-4fc2-aa57-28058cb2c894",
+            "clue": "One who proposes marriage __ the question",
+            "answer": "pops",
+            "normalized": "pops"
+          },
+          {
+            "id": "821be7d6-43ae-4289-ad82-78f414711a35",
+            "clue": "Uncommon, not often encountered",
+            "answer": "rare",
+            "normalized": "rare"
+          },
+          {
+            "id": "a9c2ee0a-8f4d-4b3b-9c79-3ea675db2482",
+            "clue": "Hours, in short",
+            "answer": "hrs",
+            "normalized": "hrs"
+          },
+          {
+            "id": "8d54bef7-885d-4ceb-b2e4-8f5396e425b4",
+            "clue": "Ad __, done as necessary or when needed",
+            "answer": "hoc",
+            "normalized": "hoc"
+          }
+        ],
+        "track": "PC|LenC--Y2026M7D13F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-12",
+      "key": "2026-07-13",
       "year": 2026,
       "month": 7,
-      "day": 12,
+      "day": 13,
       "small": {
-        "puzzleId": "594c0480-9a5a-4c1e-ae90-7ae3af4e0c85",
+        "puzzleId": "8733d832-460e-43ae-b5f8-9b7c229174b3",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "f5e48bdf-bc33-48e8-bc1d-9d163a1a56b6",
-            "clue": "Regarding, in two words",
-            "answer": "as to",
-            "normalized": "asto"
-          },
-          {
-            "id": "23d700dc-f013-41ec-9933-a262526e3aee",
-            "clue": "Distort, slant",
-            "answer": "skew",
-            "normalized": "skew"
-          },
-          {
-            "id": "c1016cf8-6a5d-4c0b-9fbd-0d57baedc0bc",
-            "clue": "Carolyn __, Nancy Drew writers' pen name",
-            "answer": "keene",
-            "normalized": "keene"
-          },
-          {
-            "id": "16cacb1f-8e51-4cb5-b535-284ab53bd5a4",
-            "clue": "Those people over there",
-            "answer": "them",
-            "normalized": "them"
-          },
-          {
-            "id": "2cec5ca4-4c7e-46b7-9413-af7dbb77df63",
-            "clue": "Central Emergency Response Fund, acronym",
-            "answer": "cerf",
-            "normalized": "cerf"
-          },
-          {
-            "id": "28efc90e-1f4f-4d4c-927c-94876d74aaf1",
-            "clue": "Chemist known for law of constant heat summation",
-            "answer": "hess",
-            "normalized": "hess"
-          },
-          {
-            "id": "06c6f894-059f-4d6d-aaae-ed3bfa15ea39",
-            "clue": "To pose a question",
-            "answer": "ask",
-            "normalized": "ask"
-          },
-          {
-            "id": "13ea6ae3-478a-4a26-b829-b787294ad34c",
-            "clue": "Etch A __, drawing toy with metal powder screen",
-            "answer": "sketch",
-            "normalized": "sketch"
-          },
-          {
-            "id": "2919516c-74d7-4163-b43b-b3481bbec2d6",
-            "clue": "Sound of a titter or giggle",
-            "answer": "tee hee",
-            "normalized": "teehee"
-          },
-          {
-            "id": "3cda03d3-d39d-419f-9939-18e89614935b",
-            "clue": "Possessors, holders, proprietors",
-            "answer": "owners",
-            "normalized": "owners"
-          },
-          {
-            "id": "9860ad0d-44c2-48f6-bf2d-ff5d4d355578",
-            "clue": "Abbreviation for electromagnetic fields",
-            "answer": "emfs",
-            "normalized": "emfs"
-          }
-        ],
-        "track": "PC|LenC--Y2026M7D12F0"
-      },
-      "mid": {
-        "puzzleId": "e65deec8-b9ce-49d0-b40e-415a9c956258",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "78687d42-52c9-49ca-83e3-fd92c6450842",
-            "clue": "Suffix meaning that which carries",
-            "answer": "fer",
-            "normalized": "fer"
+            "id": "3a8aaa1b-50ea-4a84-bfe5-0a747a666b53",
+            "clue": "Hearing organ",
+            "answer": "ear",
+            "normalized": "ear"
           },
           {
-            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
-            "clue": "Jack Black movie Shallow __, or 2001 computer",
-            "answer": "hal",
-            "normalized": "hal"
+            "id": "85173108-b18d-4a88-8254-d2670e823166",
+            "clue": "Officer who makes public announcements in a court",
+            "answer": "crier",
+            "normalized": "crier"
           },
           {
-            "id": "8efe4bb3-cf7c-4c4a-960f-5453bc37c16c",
-            "clue": "A demon, or sometimes ogre, in Japanese mythology",
-            "answer": "oni",
-            "normalized": "oni"
+            "id": "2a3ad01f-fc44-4b9d-8ba1-ca9f3080acf1",
+            "clue": "Fictional vigilante played by Antonio Banderas",
+            "answer": "zorro",
+            "normalized": "zorro"
           },
           {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
+            "id": "20596ec6-40c9-47d8-907a-78a693d8a9d9",
+            "clue": "Bid someone this French word before leaving",
+            "answer": "adieu",
+            "normalized": "adieu"
           },
           {
-            "id": "df87791d-a285-4f47-8d41-24cae5d88b35",
-            "clue": "Arguments from which neither side backs down",
-            "answer": "logjams",
-            "normalized": "logjams"
+            "id": "fe3aff99-2372-4fe9-b50d-bcf9227eb96f",
+            "clue": "To take it easy; what one does on vacation",
+            "answer": "relax",
+            "normalized": "relax"
           },
           {
-            "id": "d4b6c67a-b8a6-4a4d-bd3b-b19a76ba7128",
-            "clue": "Himalayan peak, fourth highest in the world",
-            "answer": "lhotse",
-            "normalized": "lhotse"
+            "id": "05a59d5e-9526-4083-a875-5ea0558f2ee7",
+            "clue": "Barrett, early Pink Floyd frontman",
+            "answer": "syd",
+            "normalized": "syd"
           },
           {
-            "id": "694e922d-057b-4a4b-ab57-9dd9624b6aa6",
-            "clue": "One enjoying a swim",
-            "answer": "bather",
-            "normalized": "bather"
+            "id": "fa7dbb5f-2e9c-4554-8ef0-b480008ca2a1",
+            "clue": "Wears away, e.g. soil in a riverbed",
+            "answer": "erodes",
+            "normalized": "erodes"
           },
           {
-            "id": "1a7b51c1-d980-40eb-8a8b-aa77fd7e5c96",
-            "clue": "Timetables, dockets, schedules",
-            "answer": "agendas",
-            "normalized": "agendas"
+            "id": "9db405dd-ea51-4500-b357-75e22db38067",
+            "clue": "In a flighty, breezy manner",
+            "answer": "airily",
+            "normalized": "airily"
           },
           {
-            "id": "067afdbc-f507-4fe5-a3fd-5d09a470dd6f",
-            "clue": "Beam of sunlight",
-            "answer": "ray",
-            "normalized": "ray"
+            "id": "dbb79781-27e9-4992-bb07-4b6c8f824f31",
+            "clue": "Consumed a book again",
+            "answer": "reread",
+            "normalized": "reread"
           },
           {
-            "id": "b1217aa9-7e6b-4f3f-81f6-4ab054d42ad9",
-            "clue": "Least common multiple, initialism",
-            "answer": "lcm",
-            "normalized": "lcm"
+            "id": "83bd1d67-6b7f-4302-8ed9-807824920b53",
+            "clue": "Russian royal",
+            "answer": "czar",
+            "normalized": "czar"
           },
           {
-            "id": "3a13261d-f911-4bfb-a618-b643ee4df692",
-            "clue": "The last night of the year, for short",
-            "answer": "nye",
-            "normalized": "nye"
-          },
-          {
-            "id": "ce55b993-5aac-4de7-9512-12707426555c",
-            "clue": "The opposite of no",
-            "answer": "yes",
-            "normalized": "yes"
-          },
-          {
-            "id": "bea0b710-aa63-4454-b1fa-55ea3292a241",
-            "clue": "Abbreviation for folio",
-            "answer": "fol",
-            "normalized": "fol"
-          },
-          {
-            "id": "21f90e49-96bd-402f-afc8-b2f0417b2d3d",
-            "clue": "The first aircraft to drop an atomic bomb",
-            "answer": "enola gay",
-            "normalized": "enolagay"
-          },
-          {
-            "id": "3042b58c-eb6c-4463-8e79-5a14c6a0bac2",
-            "clue": "Lord Nelson's was injured in the Siege of Calvi",
-            "answer": "right eye",
-            "normalized": "righteye"
-          },
-          {
-            "id": "999bc98d-a11d-49f3-ad49-fb55bf9a63d6",
-            "clue": "Argument reaches explosive proportions; __ debated",
-            "answer": "heatedly",
-            "normalized": "heatedly"
-          },
-          {
-            "id": "558288bc-9ebf-481c-89f0-f07f583bf972",
-            "clue": "Accelerating accumulation of weapons",
-            "answer": "arms race",
-            "normalized": "armsrace"
-          },
-          {
-            "id": "3e076d4a-b3bf-41ab-a157-9cbdde24852c",
-            "clue": "Emit a beam of coherent monochromatic light",
-            "answer": "lase",
-            "normalized": "lase"
-          },
-          {
-            "id": "8fff3486-9742-412c-a009-90333427df82",
-            "clue": "Author of the Book of Revelation",
-            "answer": "john",
-            "normalized": "john"
-          },
-          {
-            "id": "a46eab93-55d1-444d-a13a-6236b5bc2bcd",
-            "clue": "A large outbuilding on a farm",
-            "answer": "barn",
-            "normalized": "barn"
-          },
-          {
-            "id": "46961678-b952-4327-9aa7-821d6facf80f",
-            "clue": "Abbreviation that signifies \"text message\"",
-            "answer": "sms",
-            "normalized": "sms"
+            "id": "0a9678a7-8c2a-43b3-be65-27b3e2cdf877",
+            "clue": "Flour and fat mix used to thicken sauce or gravy",
+            "answer": "roux",
+            "normalized": "roux"
           }
         ],
-        "track": "PC|LenC--Y2026M7D12F1"
+        "track": "PC|LenC--Y2026M7D13F0"
+      },
+      "mid": {
+        "puzzleId": "3cc60874-6d7f-4639-84e2-d9244370d9dd",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "73eb27d5-a92a-43c5-8bf6-e4950c8e1fa7",
+            "clue": "Selects, chooses",
+            "answer": "opts",
+            "normalized": "opts"
+          },
+          {
+            "id": "d02d5e01-5176-486c-8dc1-1c97d0450dac",
+            "clue": "The Tortured Poets Department abbreviation",
+            "answer": "ttpd",
+            "normalized": "ttpd"
+          },
+          {
+            "id": "fbf2913b-a999-45ce-a8ab-7200034e8c4b",
+            "clue": "Hawaiian island known as the \"gathering place\"",
+            "answer": "oahu",
+            "normalized": "oahu"
+          },
+          {
+            "id": "63b3fdcb-cc54-45fd-8053-ecd98fe34230",
+            "clue": "Uplands in northern Germany with the Brocken peak",
+            "answer": "harz",
+            "normalized": "harz"
+          },
+          {
+            "id": "6de6e768-cf95-4419-8f0d-e53859570c1c",
+            "clue": "Made a reservation in advance",
+            "answer": "prebooked",
+            "normalized": "prebooked"
+          },
+          {
+            "id": "ac530b43-e818-40a3-a486-5632d5790a52",
+            "clue": "French term for a dead end, cul-de-__",
+            "answer": "sac",
+            "normalized": "sac"
+          },
+          {
+            "id": "1b95f299-6389-41da-967c-5fe4f39b94a8",
+            "clue": "Regrets, feels sorry for",
+            "answer": "rues",
+            "normalized": "rues"
+          },
+          {
+            "id": "d3f53f6a-4080-409a-bea2-35c7ed7071d2",
+            "clue": "A person who is easily tricked or deceived",
+            "answer": "dupe",
+            "normalized": "dupe"
+          },
+          {
+            "id": "ba18f982-3e63-4a77-bb30-15c6dbe96f10",
+            "clue": "Hairy animal skin",
+            "answer": "fur",
+            "normalized": "fur"
+          },
+          {
+            "id": "d2daa04b-9a85-4541-ac46-2d093c83c1bd",
+            "clue": "First city to be hit with atomic bomb in 1945",
+            "answer": "hiroshima",
+            "normalized": "hiroshima"
+          },
+          {
+            "id": "f53f6231-6ef2-4c02-8cd1-a22f8dee6ac0",
+            "clue": "Instruction to respond to a party invitation",
+            "answer": "rsvp",
+            "normalized": "rsvp"
+          },
+          {
+            "id": "7d42aecd-e2c3-43fe-b840-bc0888df5257",
+            "clue": "Not under, through or around",
+            "answer": "over",
+            "normalized": "over"
+          },
+          {
+            "id": "8b2b1d01-06e6-45c8-bfd8-55b625ab761a",
+            "clue": "Perceives with the eyes",
+            "answer": "sees",
+            "normalized": "sees"
+          },
+          {
+            "id": "cbe03acf-a5d6-435a-80e6-bca42480495b",
+            "clue": "Admit defeat, surrender",
+            "answer": "cede",
+            "normalized": "cede"
+          },
+          {
+            "id": "f38e3005-40cc-462c-9156-de2fae14e0eb",
+            "clue": "Word said after making a mistake",
+            "answer": "oops",
+            "normalized": "oops"
+          },
+          {
+            "id": "0df76528-a9b2-4622-8188-06cc015b1ce1",
+            "clue": "A place of pure bliss or delight; heaven",
+            "answer": "paradise",
+            "normalized": "paradise"
+          },
+          {
+            "id": "04d6fbb7-add6-43e1-9155-19a6f57a89e8",
+            "clue": "Trouble With __; 2012 baseball drama",
+            "answer": "the curve",
+            "normalized": "thecurve"
+          },
+          {
+            "id": "47397307-6bc2-4b64-b6de-cfd86cb14dd9",
+            "clue": "Temporary teacher or long sandwich, for short",
+            "answer": "sub",
+            "normalized": "sub"
+          },
+          {
+            "id": "a2bb10a5-6cfb-4224-8036-79cf30fdd72c",
+            "clue": "Coen brothers' film, O Brother, Where Art __?",
+            "answer": "thou",
+            "normalized": "thou"
+          },
+          {
+            "id": "dd8c88da-9dcf-45dd-b077-5cfcdcadec2d",
+            "clue": "Brubeck composition has atypical time signature",
+            "answer": "take five",
+            "normalized": "takefive"
+          },
+          {
+            "id": "019798fc-c6ba-446f-a94a-71496a2e84ce",
+            "clue": "Missing, __ dead; although no actual proof",
+            "answer": "presumed",
+            "normalized": "presumed"
+          },
+          {
+            "id": "6df6ac98-9ac8-4c2d-9a70-d2f1e3b24b84",
+            "clue": "Algeria's ISO currency code",
+            "answer": "dzd",
+            "normalized": "dzd"
+          },
+          {
+            "id": "03bd7701-c495-4ebe-a5ec-28c0e6b8a49b",
+            "clue": "Galena and hematite",
+            "answer": "ores",
+            "normalized": "ores"
+          },
+          {
+            "id": "922fe506-4b7e-4fc2-aa57-28058cb2c894",
+            "clue": "One who proposes marriage __ the question",
+            "answer": "pops",
+            "normalized": "pops"
+          },
+          {
+            "id": "821be7d6-43ae-4289-ad82-78f414711a35",
+            "clue": "Uncommon, not often encountered",
+            "answer": "rare",
+            "normalized": "rare"
+          },
+          {
+            "id": "a9c2ee0a-8f4d-4b3b-9c79-3ea675db2482",
+            "clue": "Hours, in short",
+            "answer": "hrs",
+            "normalized": "hrs"
+          },
+          {
+            "id": "8d54bef7-885d-4ceb-b2e4-8f5396e425b4",
+            "clue": "Ad __, done as necessary or when needed",
+            "answer": "hoc",
+            "normalized": "hoc"
+          }
+        ],
+        "track": "PC|LenC--Y2026M7D13F1"
       }
     },
     "latestAvailableEntry": {
@@ -428895,21 +428967,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "O+jC4jAbydE+2NhpjJ1BHxhvAgWsCXLrVxpJxXz+mKw92z1o/jyx/C2WmjypfoODmz//8moUiaUmlSNbmGPzd6i7FfHXKP9A8gWzas/nbW1wbz8z4Cxr6oOw++XfXgc+4PC1n7caSirFTnivCIWHS6GQBDSKFb6tB+M/zSxMwmkscfjO9WA726xJGl9SGa9LHhXfkHNoojYHnQjXi4hJ4WfBVKajTYuDWD+ZIe6d+M/YIFVFBVDhD4OED64aP4Pvzuer06p/sy0SQRaREBy6ihPqDQdS22Q2aUqzemPOIxk="
+        "3ALgQo2vH+Y8KAMxkbZIjAgIa60o7U0z01NT95WSj3Cwd7UnoalGWdDEC/NFqfFPF2dQzAhfnMTh7+H5DZdOnBbazahu9MtdJKDijrD6AzhntxxKzb1rwE48A19TuQdxdE0RNe6MPgEiGxBJJ/0MEEuxC5gzeG3ZS/VhJFas8gSt3T3Uox8wLjihZAMbWboowGynKCrBRM6jCsmOEK+4Im56gYdIUOZnxD1JVk0bvJuDxLTzPaLkuYz1BJksbW6SdlIR0J1fVIsWvO/YtO3AE36smi08YgcmPxPwf2xk9ks="
       ]
     },
     "decrypted": {
-      "Id": "b4a32c0d-9865-4991-a276-766d780359f4",
-      "Date": "2026-07-12T00:00:00Z",
+      "Id": "4e2bb027-724d-4296-86d6-e0af0618ec56",
+      "Date": "2026-07-13T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "erase",
-      "NormalizedPassword": "erase",
+      "Password": "sweet",
+      "NormalizedPassword": "sweet",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-12T01:08:41.2530000+05:30",
-    "hash": "0f21fc10da324e7b61cfff90ed6f9e42",
+    "dtu": "2026-07-13T01:06:31.6220000+05:30",
+    "hash": "36522611d366e9d757d23bbfeca9de55",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
