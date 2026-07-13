@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T19:36:31.622Z",
+  "generatedAt": "2026-07-13T19:55:56.450Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 13
+    "day": 14
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 22
+        "QuantidadeDeFases": 24
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -2363,7 +2363,7 @@
             },
             {
               "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-              "clue": "Dove to the home plate",
+              "clue": "Dived to the home plate",
               "answer": "slid",
               "normalized": "slid"
             },
@@ -69854,7 +69854,7 @@
             },
             {
               "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-              "clue": "Dove to the home plate",
+              "clue": "Dived to the home plate",
               "answer": "slid",
               "normalized": "slid"
             },
@@ -106153,7 +106153,7 @@
             },
             {
               "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-              "clue": "Dove to the home plate",
+              "clue": "Dived to the home plate",
               "answer": "slid",
               "normalized": "slid"
             },
@@ -195201,7 +195201,7 @@
           "answers": [
             {
               "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-              "clue": "Dove to the home plate",
+              "clue": "Dived to the home plate",
               "answer": "slid",
               "normalized": "slid"
             },
@@ -209159,7 +209159,7 @@
           "answers": [
             {
               "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-              "clue": "Dove to the home plate",
+              "clue": "Dived to the home plate",
               "answer": "slid",
               "normalized": "slid"
             },
@@ -298514,7 +298514,7 @@
             },
             {
               "id": "ef16dad9-7bcf-4a11-b558-0d61eb5ca353",
-              "clue": "Old name for what is now Microsoft Outlook",
+              "clue": "Old name for what is now Outlook",
               "answer": "hotmail",
               "normalized": "hotmail"
             },
@@ -303264,7 +303264,7 @@
             },
             {
               "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-              "clue": "Dove to the home plate",
+              "clue": "Dived to the home plate",
               "answer": "slid",
               "normalized": "slid"
             },
@@ -343133,7 +343133,7 @@
             },
             {
               "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-              "clue": "Dove to the home plate",
+              "clue": "Dived to the home plate",
               "answer": "slid",
               "normalized": "slid"
             },
@@ -428251,511 +428251,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-13",
+      "key": "2026-07-14",
       "year": 2026,
       "month": 7,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "8733d832-460e-43ae-b5f8-9b7c229174b3",
+        "puzzleId": "7d17a8df-0567-4ece-8099-f22d8e7547a9",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "3a8aaa1b-50ea-4a84-bfe5-0a747a666b53",
-            "clue": "Hearing organ",
-            "answer": "ear",
-            "normalized": "ear"
+            "id": "91dde041-4a1e-4492-a528-a6757ee93d5e",
+            "clue": "Made provisions last longer, __ out",
+            "answer": "eked",
+            "normalized": "eked"
           },
           {
-            "id": "85173108-b18d-4a88-8254-d2670e823166",
-            "clue": "Officer who makes public announcements in a court",
-            "answer": "crier",
-            "normalized": "crier"
+            "id": "eac6f800-1e5b-4dd1-869d-d46c53a2f106",
+            "clue": "Another word for a liquid",
+            "answer": "fluid",
+            "normalized": "fluid"
           },
           {
-            "id": "2a3ad01f-fc44-4b9d-8ba1-ca9f3080acf1",
-            "clue": "Fictional vigilante played by Antonio Banderas",
-            "answer": "zorro",
-            "normalized": "zorro"
+            "id": "3ab8a0d8-050a-45c0-b3ec-8cd3454d15d7",
+            "clue": "Worker who installs ceramics to walls or floors",
+            "answer": "tiler",
+            "normalized": "tiler"
           },
           {
-            "id": "20596ec6-40c9-47d8-907a-78a693d8a9d9",
-            "clue": "Bid someone this French word before leaving",
-            "answer": "adieu",
-            "normalized": "adieu"
+            "id": "479aa103-8f16-4e2c-b043-374002d15616",
+            "clue": "By a factor of a million",
+            "answer": "mega",
+            "normalized": "mega"
           },
           {
-            "id": "fe3aff99-2372-4fe9-b50d-bcf9227eb96f",
-            "clue": "To take it easy; what one does on vacation",
-            "answer": "relax",
-            "normalized": "relax"
+            "id": "db492b9b-a370-44d2-9169-6a533a7673b3",
+            "clue": "City where a Greek myth war was set",
+            "answer": "troy",
+            "normalized": "troy"
           },
           {
-            "id": "05a59d5e-9526-4083-a875-5ea0558f2ee7",
-            "clue": "Barrett, early Pink Floyd frontman",
-            "answer": "syd",
-            "normalized": "syd"
+            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
+            "clue": "The terrestrial phase of an aquatic newt",
+            "answer": "eft",
+            "normalized": "eft"
           },
           {
-            "id": "fa7dbb5f-2e9c-4554-8ef0-b480008ca2a1",
-            "clue": "Wears away, e.g. soil in a riverbed",
-            "answer": "erodes",
-            "normalized": "erodes"
+            "id": "760f2ae9-35ad-49a6-8edf-439bde91f118",
+            "clue": "The Kiss painter Gustav __",
+            "answer": "klimt",
+            "normalized": "klimt"
           },
           {
-            "id": "9db405dd-ea51-4500-b357-75e22db38067",
-            "clue": "In a flighty, breezy manner",
-            "answer": "airily",
-            "normalized": "airily"
+            "id": "4ea4e519-9bcc-4002-a559-cac649dea906",
+            "clue": "Swiss mathematician Leonhard",
+            "answer": "euler",
+            "normalized": "euler"
           },
           {
-            "id": "dbb79781-27e9-4992-bb07-4b6c8f824f31",
-            "clue": "Consumed a book again",
-            "answer": "reread",
-            "normalized": "reread"
+            "id": "b3a6a366-c475-4faa-93bc-1d9aacb2319e",
+            "clue": "Maradona, renowned Argentinian soccer player",
+            "answer": "diego",
+            "normalized": "diego"
           },
           {
-            "id": "83bd1d67-6b7f-4302-8ed9-807824920b53",
-            "clue": "Russian royal",
-            "answer": "czar",
-            "normalized": "czar"
-          },
-          {
-            "id": "0a9678a7-8c2a-43b3-be65-27b3e2cdf877",
-            "clue": "Flour and fat mix used to thicken sauce or gravy",
-            "answer": "roux",
-            "normalized": "roux"
+            "id": "721320ae-5c24-401c-a2f6-3f9b94118c51",
+            "clue": "A group of squirrels is called a scurry or this",
+            "answer": "dray",
+            "normalized": "dray"
           }
         ],
-        "track": "PC|LenC--Y2026M7D13F0"
+        "track": "PC|LenC--Y2026M7D14F0"
       },
       "mid": {
-        "puzzleId": "3cc60874-6d7f-4639-84e2-d9244370d9dd",
+        "puzzleId": "20d27426-1718-4a70-b5e9-28f8e53869bc",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 4,
         "answers": [
           {
-            "id": "73eb27d5-a92a-43c5-8bf6-e4950c8e1fa7",
-            "clue": "Selects, chooses",
-            "answer": "opts",
-            "normalized": "opts"
+            "id": "21902c3b-309a-4a7d-bcda-b1b5efe08c7c",
+            "clue": "Coco Chanel's classic cocktail attire, for short",
+            "answer": "lbd",
+            "normalized": "lbd"
           },
           {
-            "id": "d02d5e01-5176-486c-8dc1-1c97d0450dac",
-            "clue": "The Tortured Poets Department abbreviation",
-            "answer": "ttpd",
-            "normalized": "ttpd"
+            "id": "b811e89e-f420-4622-bd8a-3e696f945632",
+            "clue": "Initialism, referring to a prince or princess",
+            "answer": "hrh",
+            "normalized": "hrh"
           },
           {
-            "id": "fbf2913b-a999-45ce-a8ab-7200034e8c4b",
-            "clue": "Hawaiian island known as the \"gathering place\"",
-            "answer": "oahu",
-            "normalized": "oahu"
+            "id": "abfa56b5-4b41-46f1-871f-b69f39d105cb",
+            "clue": "Astronaut Jemison, first Black woman in space",
+            "answer": "mae",
+            "normalized": "mae"
           },
           {
-            "id": "63b3fdcb-cc54-45fd-8053-ecd98fe34230",
-            "clue": "Uplands in northern Germany with the Brocken peak",
-            "answer": "harz",
-            "normalized": "harz"
+            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
+            "clue": "Equal employment opportunity, initialism",
+            "answer": "eeo",
+            "normalized": "eeo"
           },
           {
-            "id": "6de6e768-cf95-4419-8f0d-e53859570c1c",
-            "clue": "Made a reservation in advance",
-            "answer": "prebooked",
-            "normalized": "prebooked"
+            "id": "5ba33b4b-ff1e-475c-9396-a81fc87ab2d7",
+            "clue": "AFAIK means __ I know",
+            "answer": "as far as",
+            "normalized": "asfaras"
           },
           {
-            "id": "ac530b43-e818-40a3-a486-5632d5790a52",
-            "clue": "French term for a dead end, cul-de-__",
-            "answer": "sac",
-            "normalized": "sac"
+            "id": "9f5735cf-d46e-408b-a539-f6370c39fb17",
+            "clue": "The most veracious",
+            "answer": "truest",
+            "normalized": "truest"
           },
           {
-            "id": "1b95f299-6389-41da-967c-5fe4f39b94a8",
-            "clue": "Regrets, feels sorry for",
-            "answer": "rues",
-            "normalized": "rues"
+            "id": "0cb9b4b2-7a00-4d1b-9e98-90d43f4885c4",
+            "clue": "__ Bridge, Venetian crossing housing rows of shops",
+            "answer": "rialto",
+            "normalized": "rialto"
           },
           {
-            "id": "d3f53f6a-4080-409a-bea2-35c7ed7071d2",
-            "clue": "A person who is easily tricked or deceived",
-            "answer": "dupe",
-            "normalized": "dupe"
+            "id": "92856fd2-432c-44ce-9bac-8610f93d69f9",
+            "clue": "Escaping, anagram of dueling",
+            "answer": "eluding",
+            "normalized": "eluding"
           },
           {
-            "id": "ba18f982-3e63-4a77-bb30-15c6dbe96f10",
-            "clue": "Hairy animal skin",
-            "answer": "fur",
-            "normalized": "fur"
+            "id": "5eb423e2-b0d0-4090-b477-3ca752594d48",
+            "clue": "Three-letter alpha code for Netherlands",
+            "answer": "nld",
+            "normalized": "nld"
           },
           {
-            "id": "d2daa04b-9a85-4541-ac46-2d093c83c1bd",
-            "clue": "First city to be hit with atomic bomb in 1945",
-            "answer": "hiroshima",
-            "normalized": "hiroshima"
+            "id": "3317a183-19f2-4b6a-8f06-b1698bc3cc53",
+            "clue": "Central European Time, abbreviated",
+            "answer": "cet",
+            "normalized": "cet"
           },
           {
-            "id": "f53f6231-6ef2-4c02-8cd1-a22f8dee6ac0",
-            "clue": "Instruction to respond to a party invitation",
-            "answer": "rsvp",
-            "normalized": "rsvp"
+            "id": "ea2df107-5415-4ffe-8d76-9d78e043cce4",
+            "clue": "Desmond, for short",
+            "answer": "des",
+            "normalized": "des"
           },
           {
-            "id": "7d42aecd-e2c3-43fe-b840-bc0888df5257",
-            "clue": "Not under, through or around",
-            "answer": "over",
-            "normalized": "over"
+            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+            "clue": "Acronym for a UN Sustainable Development Goal",
+            "answer": "sdg",
+            "normalized": "sdg"
           },
           {
-            "id": "8b2b1d01-06e6-45c8-bfd8-55b625ab761a",
-            "clue": "Perceives with the eyes",
-            "answer": "sees",
-            "normalized": "sees"
+            "id": "439d8dfb-5a50-4645-93fa-27594879e863",
+            "clue": "Leave me alone",
+            "answer": "lma",
+            "normalized": "lma"
           },
           {
-            "id": "cbe03acf-a5d6-435a-80e6-bca42480495b",
-            "clue": "Admit defeat, surrender",
-            "answer": "cede",
-            "normalized": "cede"
+            "id": "486d7b85-8543-4be8-b0c8-4071fbeb6ce2",
+            "clue": "14 juillet annual French celebration: __ Day",
+            "answer": "bastille",
+            "normalized": "bastille"
           },
           {
-            "id": "f38e3005-40cc-462c-9156-de2fae14e0eb",
-            "clue": "Word said after making a mistake",
-            "answer": "oops",
-            "normalized": "oops"
+            "id": "ae73415e-8d80-4d52-8fed-5e8c6200214d",
+            "clue": "Takes by deception",
+            "answer": "defrauds",
+            "normalized": "defrauds"
           },
           {
-            "id": "0df76528-a9b2-4622-8188-06cc015b1ce1",
-            "clue": "A place of pure bliss or delight; heaven",
-            "answer": "paradise",
-            "normalized": "paradise"
+            "id": "99887161-fc76-4576-babe-c62b74aa8980",
+            "clue": "Those who openly reject the official religion",
+            "answer": "heretics",
+            "normalized": "heretics"
           },
           {
-            "id": "04d6fbb7-add6-43e1-9155-19a6f57a89e8",
-            "clue": "Trouble With __; 2012 baseball drama",
-            "answer": "the curve",
-            "normalized": "thecurve"
+            "id": "eaf53986-fbde-490a-9c69-f81fb49dedd0",
+            "clue": "Argued, thought, figured out",
+            "answer": "reasoned",
+            "normalized": "reasoned"
           },
           {
-            "id": "47397307-6bc2-4b64-b6de-cfd86cb14dd9",
-            "clue": "Temporary teacher or long sandwich, for short",
-            "answer": "sub",
-            "normalized": "sub"
+            "id": "7cad1f6e-0083-4a73-83e2-dc77d492071f",
+            "clue": "Person who throws a party or presents a show",
+            "answer": "host",
+            "normalized": "host"
           },
           {
-            "id": "a2bb10a5-6cfb-4224-8036-79cf30fdd72c",
-            "clue": "Coen brothers' film, O Brother, Where Art __?",
-            "answer": "thou",
-            "normalized": "thou"
+            "id": "cac21609-9e53-40d3-b60a-6e61d4e8ca6d",
+            "clue": "__ Lang Syne",
+            "answer": "auld",
+            "normalized": "auld"
           },
           {
-            "id": "dd8c88da-9dcf-45dd-b077-5cfcdcadec2d",
-            "clue": "Brubeck composition has atypical time signature",
-            "answer": "take five",
-            "normalized": "takefive"
+            "id": "b4f18d5a-8b7a-4c18-86be-1c4e09a3faba",
+            "clue": "To tear into two or more pieces",
+            "answer": "rend",
+            "normalized": "rend"
           },
           {
-            "id": "019798fc-c6ba-446f-a94a-71496a2e84ce",
-            "clue": "Missing, __ dead; although no actual proof",
-            "answer": "presumed",
-            "normalized": "presumed"
-          },
-          {
-            "id": "6df6ac98-9ac8-4c2d-9a70-d2f1e3b24b84",
-            "clue": "Algeria's ISO currency code",
-            "answer": "dzd",
-            "normalized": "dzd"
-          },
-          {
-            "id": "03bd7701-c495-4ebe-a5ec-28c0e6b8a49b",
-            "clue": "Galena and hematite",
-            "answer": "ores",
-            "normalized": "ores"
-          },
-          {
-            "id": "922fe506-4b7e-4fc2-aa57-28058cb2c894",
-            "clue": "One who proposes marriage __ the question",
-            "answer": "pops",
-            "normalized": "pops"
-          },
-          {
-            "id": "821be7d6-43ae-4289-ad82-78f414711a35",
-            "clue": "Uncommon, not often encountered",
-            "answer": "rare",
-            "normalized": "rare"
-          },
-          {
-            "id": "a9c2ee0a-8f4d-4b3b-9c79-3ea675db2482",
-            "clue": "Hours, in short",
-            "answer": "hrs",
-            "normalized": "hrs"
-          },
-          {
-            "id": "8d54bef7-885d-4ceb-b2e4-8f5396e425b4",
-            "clue": "Ad __, done as necessary or when needed",
-            "answer": "hoc",
-            "normalized": "hoc"
+            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
+            "clue": "Quick way of saying you must leave a chat session",
+            "answer": "gtg",
+            "normalized": "gtg"
           }
         ],
-        "track": "PC|LenC--Y2026M7D13F1"
+        "track": "PC|LenC--Y2026M7D14F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-13",
+      "key": "2026-07-14",
       "year": 2026,
       "month": 7,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "8733d832-460e-43ae-b5f8-9b7c229174b3",
+        "puzzleId": "7d17a8df-0567-4ece-8099-f22d8e7547a9",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "3a8aaa1b-50ea-4a84-bfe5-0a747a666b53",
-            "clue": "Hearing organ",
-            "answer": "ear",
-            "normalized": "ear"
+            "id": "91dde041-4a1e-4492-a528-a6757ee93d5e",
+            "clue": "Made provisions last longer, __ out",
+            "answer": "eked",
+            "normalized": "eked"
           },
           {
-            "id": "85173108-b18d-4a88-8254-d2670e823166",
-            "clue": "Officer who makes public announcements in a court",
-            "answer": "crier",
-            "normalized": "crier"
+            "id": "eac6f800-1e5b-4dd1-869d-d46c53a2f106",
+            "clue": "Another word for a liquid",
+            "answer": "fluid",
+            "normalized": "fluid"
           },
           {
-            "id": "2a3ad01f-fc44-4b9d-8ba1-ca9f3080acf1",
-            "clue": "Fictional vigilante played by Antonio Banderas",
-            "answer": "zorro",
-            "normalized": "zorro"
+            "id": "3ab8a0d8-050a-45c0-b3ec-8cd3454d15d7",
+            "clue": "Worker who installs ceramics to walls or floors",
+            "answer": "tiler",
+            "normalized": "tiler"
           },
           {
-            "id": "20596ec6-40c9-47d8-907a-78a693d8a9d9",
-            "clue": "Bid someone this French word before leaving",
-            "answer": "adieu",
-            "normalized": "adieu"
+            "id": "479aa103-8f16-4e2c-b043-374002d15616",
+            "clue": "By a factor of a million",
+            "answer": "mega",
+            "normalized": "mega"
           },
           {
-            "id": "fe3aff99-2372-4fe9-b50d-bcf9227eb96f",
-            "clue": "To take it easy; what one does on vacation",
-            "answer": "relax",
-            "normalized": "relax"
+            "id": "db492b9b-a370-44d2-9169-6a533a7673b3",
+            "clue": "City where a Greek myth war was set",
+            "answer": "troy",
+            "normalized": "troy"
           },
           {
-            "id": "05a59d5e-9526-4083-a875-5ea0558f2ee7",
-            "clue": "Barrett, early Pink Floyd frontman",
-            "answer": "syd",
-            "normalized": "syd"
+            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
+            "clue": "The terrestrial phase of an aquatic newt",
+            "answer": "eft",
+            "normalized": "eft"
           },
           {
-            "id": "fa7dbb5f-2e9c-4554-8ef0-b480008ca2a1",
-            "clue": "Wears away, e.g. soil in a riverbed",
-            "answer": "erodes",
-            "normalized": "erodes"
+            "id": "760f2ae9-35ad-49a6-8edf-439bde91f118",
+            "clue": "The Kiss painter Gustav __",
+            "answer": "klimt",
+            "normalized": "klimt"
           },
           {
-            "id": "9db405dd-ea51-4500-b357-75e22db38067",
-            "clue": "In a flighty, breezy manner",
-            "answer": "airily",
-            "normalized": "airily"
+            "id": "4ea4e519-9bcc-4002-a559-cac649dea906",
+            "clue": "Swiss mathematician Leonhard",
+            "answer": "euler",
+            "normalized": "euler"
           },
           {
-            "id": "dbb79781-27e9-4992-bb07-4b6c8f824f31",
-            "clue": "Consumed a book again",
-            "answer": "reread",
-            "normalized": "reread"
+            "id": "b3a6a366-c475-4faa-93bc-1d9aacb2319e",
+            "clue": "Maradona, renowned Argentinian soccer player",
+            "answer": "diego",
+            "normalized": "diego"
           },
           {
-            "id": "83bd1d67-6b7f-4302-8ed9-807824920b53",
-            "clue": "Russian royal",
-            "answer": "czar",
-            "normalized": "czar"
-          },
-          {
-            "id": "0a9678a7-8c2a-43b3-be65-27b3e2cdf877",
-            "clue": "Flour and fat mix used to thicken sauce or gravy",
-            "answer": "roux",
-            "normalized": "roux"
+            "id": "721320ae-5c24-401c-a2f6-3f9b94118c51",
+            "clue": "A group of squirrels is called a scurry or this",
+            "answer": "dray",
+            "normalized": "dray"
           }
         ],
-        "track": "PC|LenC--Y2026M7D13F0"
+        "track": "PC|LenC--Y2026M7D14F0"
       },
       "mid": {
-        "puzzleId": "3cc60874-6d7f-4639-84e2-d9244370d9dd",
+        "puzzleId": "20d27426-1718-4a70-b5e9-28f8e53869bc",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 4,
         "answers": [
           {
-            "id": "73eb27d5-a92a-43c5-8bf6-e4950c8e1fa7",
-            "clue": "Selects, chooses",
-            "answer": "opts",
-            "normalized": "opts"
+            "id": "21902c3b-309a-4a7d-bcda-b1b5efe08c7c",
+            "clue": "Coco Chanel's classic cocktail attire, for short",
+            "answer": "lbd",
+            "normalized": "lbd"
           },
           {
-            "id": "d02d5e01-5176-486c-8dc1-1c97d0450dac",
-            "clue": "The Tortured Poets Department abbreviation",
-            "answer": "ttpd",
-            "normalized": "ttpd"
+            "id": "b811e89e-f420-4622-bd8a-3e696f945632",
+            "clue": "Initialism, referring to a prince or princess",
+            "answer": "hrh",
+            "normalized": "hrh"
           },
           {
-            "id": "fbf2913b-a999-45ce-a8ab-7200034e8c4b",
-            "clue": "Hawaiian island known as the \"gathering place\"",
-            "answer": "oahu",
-            "normalized": "oahu"
+            "id": "abfa56b5-4b41-46f1-871f-b69f39d105cb",
+            "clue": "Astronaut Jemison, first Black woman in space",
+            "answer": "mae",
+            "normalized": "mae"
           },
           {
-            "id": "63b3fdcb-cc54-45fd-8053-ecd98fe34230",
-            "clue": "Uplands in northern Germany with the Brocken peak",
-            "answer": "harz",
-            "normalized": "harz"
+            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
+            "clue": "Equal employment opportunity, initialism",
+            "answer": "eeo",
+            "normalized": "eeo"
           },
           {
-            "id": "6de6e768-cf95-4419-8f0d-e53859570c1c",
-            "clue": "Made a reservation in advance",
-            "answer": "prebooked",
-            "normalized": "prebooked"
+            "id": "5ba33b4b-ff1e-475c-9396-a81fc87ab2d7",
+            "clue": "AFAIK means __ I know",
+            "answer": "as far as",
+            "normalized": "asfaras"
           },
           {
-            "id": "ac530b43-e818-40a3-a486-5632d5790a52",
-            "clue": "French term for a dead end, cul-de-__",
-            "answer": "sac",
-            "normalized": "sac"
+            "id": "9f5735cf-d46e-408b-a539-f6370c39fb17",
+            "clue": "The most veracious",
+            "answer": "truest",
+            "normalized": "truest"
           },
           {
-            "id": "1b95f299-6389-41da-967c-5fe4f39b94a8",
-            "clue": "Regrets, feels sorry for",
-            "answer": "rues",
-            "normalized": "rues"
+            "id": "0cb9b4b2-7a00-4d1b-9e98-90d43f4885c4",
+            "clue": "__ Bridge, Venetian crossing housing rows of shops",
+            "answer": "rialto",
+            "normalized": "rialto"
           },
           {
-            "id": "d3f53f6a-4080-409a-bea2-35c7ed7071d2",
-            "clue": "A person who is easily tricked or deceived",
-            "answer": "dupe",
-            "normalized": "dupe"
+            "id": "92856fd2-432c-44ce-9bac-8610f93d69f9",
+            "clue": "Escaping, anagram of dueling",
+            "answer": "eluding",
+            "normalized": "eluding"
           },
           {
-            "id": "ba18f982-3e63-4a77-bb30-15c6dbe96f10",
-            "clue": "Hairy animal skin",
-            "answer": "fur",
-            "normalized": "fur"
+            "id": "5eb423e2-b0d0-4090-b477-3ca752594d48",
+            "clue": "Three-letter alpha code for Netherlands",
+            "answer": "nld",
+            "normalized": "nld"
           },
           {
-            "id": "d2daa04b-9a85-4541-ac46-2d093c83c1bd",
-            "clue": "First city to be hit with atomic bomb in 1945",
-            "answer": "hiroshima",
-            "normalized": "hiroshima"
+            "id": "3317a183-19f2-4b6a-8f06-b1698bc3cc53",
+            "clue": "Central European Time, abbreviated",
+            "answer": "cet",
+            "normalized": "cet"
           },
           {
-            "id": "f53f6231-6ef2-4c02-8cd1-a22f8dee6ac0",
-            "clue": "Instruction to respond to a party invitation",
-            "answer": "rsvp",
-            "normalized": "rsvp"
+            "id": "ea2df107-5415-4ffe-8d76-9d78e043cce4",
+            "clue": "Desmond, for short",
+            "answer": "des",
+            "normalized": "des"
           },
           {
-            "id": "7d42aecd-e2c3-43fe-b840-bc0888df5257",
-            "clue": "Not under, through or around",
-            "answer": "over",
-            "normalized": "over"
+            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+            "clue": "Acronym for a UN Sustainable Development Goal",
+            "answer": "sdg",
+            "normalized": "sdg"
           },
           {
-            "id": "8b2b1d01-06e6-45c8-bfd8-55b625ab761a",
-            "clue": "Perceives with the eyes",
-            "answer": "sees",
-            "normalized": "sees"
+            "id": "439d8dfb-5a50-4645-93fa-27594879e863",
+            "clue": "Leave me alone",
+            "answer": "lma",
+            "normalized": "lma"
           },
           {
-            "id": "cbe03acf-a5d6-435a-80e6-bca42480495b",
-            "clue": "Admit defeat, surrender",
-            "answer": "cede",
-            "normalized": "cede"
+            "id": "486d7b85-8543-4be8-b0c8-4071fbeb6ce2",
+            "clue": "14 juillet annual French celebration: __ Day",
+            "answer": "bastille",
+            "normalized": "bastille"
           },
           {
-            "id": "f38e3005-40cc-462c-9156-de2fae14e0eb",
-            "clue": "Word said after making a mistake",
-            "answer": "oops",
-            "normalized": "oops"
+            "id": "ae73415e-8d80-4d52-8fed-5e8c6200214d",
+            "clue": "Takes by deception",
+            "answer": "defrauds",
+            "normalized": "defrauds"
           },
           {
-            "id": "0df76528-a9b2-4622-8188-06cc015b1ce1",
-            "clue": "A place of pure bliss or delight; heaven",
-            "answer": "paradise",
-            "normalized": "paradise"
+            "id": "99887161-fc76-4576-babe-c62b74aa8980",
+            "clue": "Those who openly reject the official religion",
+            "answer": "heretics",
+            "normalized": "heretics"
           },
           {
-            "id": "04d6fbb7-add6-43e1-9155-19a6f57a89e8",
-            "clue": "Trouble With __; 2012 baseball drama",
-            "answer": "the curve",
-            "normalized": "thecurve"
+            "id": "eaf53986-fbde-490a-9c69-f81fb49dedd0",
+            "clue": "Argued, thought, figured out",
+            "answer": "reasoned",
+            "normalized": "reasoned"
           },
           {
-            "id": "47397307-6bc2-4b64-b6de-cfd86cb14dd9",
-            "clue": "Temporary teacher or long sandwich, for short",
-            "answer": "sub",
-            "normalized": "sub"
+            "id": "7cad1f6e-0083-4a73-83e2-dc77d492071f",
+            "clue": "Person who throws a party or presents a show",
+            "answer": "host",
+            "normalized": "host"
           },
           {
-            "id": "a2bb10a5-6cfb-4224-8036-79cf30fdd72c",
-            "clue": "Coen brothers' film, O Brother, Where Art __?",
-            "answer": "thou",
-            "normalized": "thou"
+            "id": "cac21609-9e53-40d3-b60a-6e61d4e8ca6d",
+            "clue": "__ Lang Syne",
+            "answer": "auld",
+            "normalized": "auld"
           },
           {
-            "id": "dd8c88da-9dcf-45dd-b077-5cfcdcadec2d",
-            "clue": "Brubeck composition has atypical time signature",
-            "answer": "take five",
-            "normalized": "takefive"
+            "id": "b4f18d5a-8b7a-4c18-86be-1c4e09a3faba",
+            "clue": "To tear into two or more pieces",
+            "answer": "rend",
+            "normalized": "rend"
           },
           {
-            "id": "019798fc-c6ba-446f-a94a-71496a2e84ce",
-            "clue": "Missing, __ dead; although no actual proof",
-            "answer": "presumed",
-            "normalized": "presumed"
-          },
-          {
-            "id": "6df6ac98-9ac8-4c2d-9a70-d2f1e3b24b84",
-            "clue": "Algeria's ISO currency code",
-            "answer": "dzd",
-            "normalized": "dzd"
-          },
-          {
-            "id": "03bd7701-c495-4ebe-a5ec-28c0e6b8a49b",
-            "clue": "Galena and hematite",
-            "answer": "ores",
-            "normalized": "ores"
-          },
-          {
-            "id": "922fe506-4b7e-4fc2-aa57-28058cb2c894",
-            "clue": "One who proposes marriage __ the question",
-            "answer": "pops",
-            "normalized": "pops"
-          },
-          {
-            "id": "821be7d6-43ae-4289-ad82-78f414711a35",
-            "clue": "Uncommon, not often encountered",
-            "answer": "rare",
-            "normalized": "rare"
-          },
-          {
-            "id": "a9c2ee0a-8f4d-4b3b-9c79-3ea675db2482",
-            "clue": "Hours, in short",
-            "answer": "hrs",
-            "normalized": "hrs"
-          },
-          {
-            "id": "8d54bef7-885d-4ceb-b2e4-8f5396e425b4",
-            "clue": "Ad __, done as necessary or when needed",
-            "answer": "hoc",
-            "normalized": "hoc"
+            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
+            "clue": "Quick way of saying you must leave a chat session",
+            "answer": "gtg",
+            "normalized": "gtg"
           }
         ],
-        "track": "PC|LenC--Y2026M7D13F1"
+        "track": "PC|LenC--Y2026M7D14F1"
       }
     },
     "latestAvailableEntry": {
@@ -428967,21 +428883,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "3ALgQo2vH+Y8KAMxkbZIjAgIa60o7U0z01NT95WSj3Cwd7UnoalGWdDEC/NFqfFPF2dQzAhfnMTh7+H5DZdOnBbazahu9MtdJKDijrD6AzhntxxKzb1rwE48A19TuQdxdE0RNe6MPgEiGxBJJ/0MEEuxC5gzeG3ZS/VhJFas8gSt3T3Uox8wLjihZAMbWboowGynKCrBRM6jCsmOEK+4Im56gYdIUOZnxD1JVk0bvJuDxLTzPaLkuYz1BJksbW6SdlIR0J1fVIsWvO/YtO3AE36smi08YgcmPxPwf2xk9ks="
+        "ysXM78cYVPDItHoEk7Hg/IznKn+7PpYNN07Jl6LgrJcygVOrz3hxjqAnjTNtGUw3cib/gN7BdqmG9F7mhZXEMM5wAMwETmC/VC88ALkeAOkCN/L8fEfJZL3byD8LHuLfsLhpVtelTiG0Ag5XJahGPUsHcedatR88H80DzBV4dNYTyqUeALckf+Oef4PDbwBzX1ueO5umdvq3kO7YVNqKDY7qznX9gek7NqDdwR2XZbxtu4aJ67maDF3zN9S6RYbc7nAM2yGkzoubuxiUGVmSGzKsfRjKP/mYc1awtE7uIHQ="
       ]
     },
     "decrypted": {
-      "Id": "4e2bb027-724d-4296-86d6-e0af0618ec56",
-      "Date": "2026-07-13T00:00:00Z",
+      "Id": "1737d79d-ba76-4ffc-a4ff-323c67ad6f4f",
+      "Date": "2026-07-14T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "sweet",
-      "NormalizedPassword": "sweet",
+      "Password": "peace",
+      "NormalizedPassword": "peace",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-13T01:06:31.6220000+05:30",
-    "hash": "36522611d366e9d757d23bbfeca9de55",
+    "dtu": "2026-07-14T01:25:56.4500000+05:30",
+    "hash": "b94b3a4d38d57c4d4973f7dd9a2f1c30",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
