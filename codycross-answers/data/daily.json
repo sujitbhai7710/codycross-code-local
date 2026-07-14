@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-13T19:55:56.450Z",
+  "generatedAt": "2026-07-14T19:50:19.747Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 14
+    "day": 15
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 24
+        "QuantidadeDeFases": 26
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,427 +428251,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-14",
+      "key": "2026-07-15",
       "year": 2026,
       "month": 7,
-      "day": 14,
+      "day": 15,
       "small": {
-        "puzzleId": "7d17a8df-0567-4ece-8099-f22d8e7547a9",
+        "puzzleId": "e939f824-1b4f-4be7-9508-b8671ba2defe",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "91dde041-4a1e-4492-a528-a6757ee93d5e",
-            "clue": "Made provisions last longer, __ out",
-            "answer": "eked",
-            "normalized": "eked"
+            "id": "27d2fab7-0a34-4c61-ac47-e36836e92709",
+            "clue": "Hydrocyanic acid's chemical formula",
+            "answer": "hcn",
+            "normalized": "hcn"
           },
           {
-            "id": "eac6f800-1e5b-4dd1-869d-d46c53a2f106",
-            "clue": "Another word for a liquid",
-            "answer": "fluid",
-            "normalized": "fluid"
+            "id": "496aafc1-411d-4d80-9e3f-e94af70a7f22",
+            "clue": "European coin first minted in Florence",
+            "answer": "florin",
+            "normalized": "florin"
           },
           {
-            "id": "3ab8a0d8-050a-45c0-b3ec-8cd3454d15d7",
-            "clue": "Worker who installs ceramics to walls or floors",
-            "answer": "tiler",
-            "normalized": "tiler"
+            "id": "3c5d205d-2ebd-4b7c-8b59-63e0bb4f94b4",
+            "clue": "To ventilate",
+            "answer": "aerate",
+            "normalized": "aerate"
           },
           {
-            "id": "479aa103-8f16-4e2c-b043-374002d15616",
-            "clue": "By a factor of a million",
-            "answer": "mega",
-            "normalized": "mega"
+            "id": "5648ac3f-7c5e-4caa-8cb8-dd53fa4eb8b4",
+            "clue": "Wish for, want, crave",
+            "answer": "desire",
+            "normalized": "desire"
           },
           {
-            "id": "db492b9b-a370-44d2-9169-6a533a7673b3",
-            "clue": "City where a Greek myth war was set",
-            "answer": "troy",
-            "normalized": "troy"
+            "id": "1f79df52-f18e-4c6a-ac32-ee6018bd24de",
+            "clue": "Freud's personality theory defined this concept",
+            "answer": "ego",
+            "normalized": "ego"
           },
           {
-            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
-            "clue": "The terrestrial phase of an aquatic newt",
-            "answer": "eft",
-            "normalized": "eft"
+            "id": "a914fbb9-df5b-4d94-978d-dc5d12414a27",
+            "clue": "\"Healthy as a __\"",
+            "answer": "horse",
+            "normalized": "horse"
           },
           {
-            "id": "760f2ae9-35ad-49a6-8edf-439bde91f118",
-            "clue": "The Kiss painter Gustav __",
-            "answer": "klimt",
-            "normalized": "klimt"
+            "id": "609f5b48-2c27-4627-a0b6-829e13a11935",
+            "clue": "Seventh James Bond actor",
+            "answer": "craig",
+            "normalized": "craig"
           },
           {
-            "id": "4ea4e519-9bcc-4002-a559-cac649dea906",
-            "clue": "Swiss mathematician Leonhard",
-            "answer": "euler",
-            "normalized": "euler"
+            "id": "d154121a-05a6-48a1-b513-07cd0097bf8f",
+            "clue": "Type of slow-steeped cold brew coffee, with gas",
+            "answer": "nitro",
+            "normalized": "nitro"
           },
           {
-            "id": "b3a6a366-c475-4faa-93bc-1d9aacb2319e",
-            "clue": "Maradona, renowned Argentinian soccer player",
-            "answer": "diego",
-            "normalized": "diego"
+            "id": "8558bd00-7bce-485a-be60-983392b5052d",
+            "clue": "New craze or trend",
+            "answer": "fad",
+            "normalized": "fad"
           },
           {
-            "id": "721320ae-5c24-401c-a2f6-3f9b94118c51",
-            "clue": "A group of squirrels is called a scurry or this",
-            "answer": "dray",
-            "normalized": "dray"
+            "id": "9934259f-4bc5-48e5-b95a-4eff6a412b5b",
+            "clue": "Martial arts master Bruce __",
+            "answer": "lee",
+            "normalized": "lee"
+          },
+          {
+            "id": "7dce869b-e9da-41ab-9361-e4cc67fc5ec5",
+            "clue": "Short French word to indicate woman's maiden name",
+            "answer": "nee",
+            "normalized": "nee"
           }
         ],
-        "track": "PC|LenC--Y2026M7D14F0"
+        "track": "PC|LenC--Y2026M7D15F0"
       },
       "mid": {
-        "puzzleId": "20d27426-1718-4a70-b5e9-28f8e53869bc",
+        "puzzleId": "3a9e8fe3-5699-4544-b22a-8b77cbdba29e",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 4,
+        "version": 1,
         "answers": [
           {
-            "id": "21902c3b-309a-4a7d-bcda-b1b5efe08c7c",
-            "clue": "Coco Chanel's classic cocktail attire, for short",
-            "answer": "lbd",
-            "normalized": "lbd"
+            "id": "0c204877-1013-46c8-b8b5-fdc041a66423",
+            "clue": "Recess in a church with an arched or domed roof",
+            "answer": "apse",
+            "normalized": "apse"
           },
           {
-            "id": "b811e89e-f420-4622-bd8a-3e696f945632",
-            "clue": "Initialism, referring to a prince or princess",
-            "answer": "hrh",
-            "normalized": "hrh"
+            "id": "d9b6cb26-375d-4149-90db-7a0ad5fa684d",
+            "clue": "Blues guitarist Robert",
+            "answer": "cray",
+            "normalized": "cray"
           },
           {
-            "id": "abfa56b5-4b41-46f1-871f-b69f39d105cb",
-            "clue": "Astronaut Jemison, first Black woman in space",
-            "answer": "mae",
-            "normalized": "mae"
+            "id": "144e1807-1e9d-4015-b587-40bb0944c8b8",
+            "clue": "Feng __ focuses on Asian theory of balance",
+            "answer": "shui",
+            "normalized": "shui"
           },
           {
-            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
-            "clue": "Equal employment opportunity, initialism",
-            "answer": "eeo",
-            "normalized": "eeo"
+            "id": "06123251-1429-4b61-9900-a7fcaa02de26",
+            "clue": "A word for trick that rhymes with muse",
+            "answer": "ruse",
+            "normalized": "ruse"
           },
           {
-            "id": "5ba33b4b-ff1e-475c-9396-a81fc87ab2d7",
-            "clue": "AFAIK means __ I know",
-            "answer": "as far as",
-            "normalized": "asfaras"
+            "id": "ea0a942a-713a-46db-831c-b7cca1d08f2c",
+            "clue": "Lasting winter in Game of Thrones",
+            "answer": "long night",
+            "normalized": "longnight"
           },
           {
-            "id": "9f5735cf-d46e-408b-a539-f6370c39fb17",
-            "clue": "The most veracious",
-            "answer": "truest",
-            "normalized": "truest"
+            "id": "f2a742d0-5618-4f02-9f95-ea9e63413d14",
+            "clue": "Thin, decorative blanket for a bed or furniture",
+            "answer": "throw",
+            "normalized": "throw"
           },
           {
-            "id": "0cb9b4b2-7a00-4d1b-9e98-90d43f4885c4",
-            "clue": "__ Bridge, Venetian crossing housing rows of shops",
-            "answer": "rialto",
-            "normalized": "rialto"
+            "id": "4f02681b-de4d-4394-9ef8-06e9edec0807",
+            "clue": "Icy sphere located beyond the Kuiper Belt",
+            "answer": "oort cloud",
+            "normalized": "oortcloud"
           },
           {
-            "id": "92856fd2-432c-44ce-9bac-8610f93d69f9",
-            "clue": "Escaping, anagram of dueling",
-            "answer": "eluding",
-            "normalized": "eluding"
+            "id": "5d3c9a56-5a44-4b28-8d21-5a2160ec8c91",
+            "clue": "Ruler of the Persian Empire",
+            "answer": "shah",
+            "normalized": "shah"
           },
           {
-            "id": "5eb423e2-b0d0-4090-b477-3ca752594d48",
-            "clue": "Three-letter alpha code for Netherlands",
-            "answer": "nld",
-            "normalized": "nld"
+            "id": "7a13b0ce-460e-4f48-b8a9-579979627751",
+            "clue": "Coastal capital of Togo",
+            "answer": "lome",
+            "normalized": "lome"
           },
           {
-            "id": "3317a183-19f2-4b6a-8f06-b1698bc3cc53",
-            "clue": "Central European Time, abbreviated",
-            "answer": "cet",
-            "normalized": "cet"
+            "id": "57447df1-df9d-46b4-a90a-1686e4dce2ae",
+            "clue": "Units of electric current, abbreviated",
+            "answer": "amps",
+            "normalized": "amps"
           },
           {
-            "id": "ea2df107-5415-4ffe-8d76-9d78e043cce4",
-            "clue": "Desmond, for short",
-            "answer": "des",
-            "normalized": "des"
+            "id": "74fae654-2b57-45f8-9cff-087039e4f3f5",
+            "clue": "Frozen's goofy animated snowman",
+            "answer": "olaf",
+            "normalized": "olaf"
           },
           {
-            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
-            "clue": "Acronym for a UN Sustainable Development Goal",
-            "answer": "sdg",
-            "normalized": "sdg"
+            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
+            "clue": "Common query in early internet chat rooms",
+            "answer": "asl",
+            "normalized": "asl"
           },
           {
-            "id": "439d8dfb-5a50-4645-93fa-27594879e863",
-            "clue": "Leave me alone",
-            "answer": "lma",
-            "normalized": "lma"
+            "id": "f7a1c29a-b291-4d48-b49c-c26b3b0c0a42",
+            "clue": "Vietnamese rice noodle soup",
+            "answer": "pho",
+            "normalized": "pho"
           },
           {
-            "id": "486d7b85-8543-4be8-b0c8-4071fbeb6ce2",
-            "clue": "14 juillet annual French celebration: __ Day",
-            "answer": "bastille",
-            "normalized": "bastille"
+            "id": "dcc110c2-30f9-41df-9a0a-b27f7bad0b05",
+            "clue": "Exceptionally warm spot in a garden or patio",
+            "answer": "suntrap",
+            "normalized": "suntrap"
           },
           {
-            "id": "ae73415e-8d80-4d52-8fed-5e8c6200214d",
-            "clue": "Takes by deception",
-            "answer": "defrauds",
-            "normalized": "defrauds"
+            "id": "991cc052-873e-4ec9-9a1f-7674b4c7004d",
+            "clue": "Two of them make a quarter",
+            "answer": "eighths",
+            "normalized": "eighths"
           },
           {
-            "id": "99887161-fc76-4576-babe-c62b74aa8980",
-            "clue": "Those who openly reject the official religion",
-            "answer": "heretics",
-            "normalized": "heretics"
+            "id": "3c29d63f-d22a-4704-8b23-d5f00b74b47d",
+            "clue": "Spanish-American of pure Spanish descent",
+            "answer": "criollo",
+            "normalized": "criollo"
           },
           {
-            "id": "eaf53986-fbde-490a-9c69-f81fb49dedd0",
-            "clue": "Argued, thought, figured out",
-            "answer": "reasoned",
-            "normalized": "reasoned"
+            "id": "8cbed141-a959-4559-b6b2-4043f1f1d179",
+            "clue": "Thick yarn used to make mini carpets",
+            "answer": "rug wool",
+            "normalized": "rugwool"
           },
           {
-            "id": "7cad1f6e-0083-4a73-83e2-dc77d492071f",
-            "clue": "Person who throws a party or presents a show",
-            "answer": "host",
-            "normalized": "host"
+            "id": "76d107da-feee-4ee2-9495-161e97db9113",
+            "clue": "Remains of a fire",
+            "answer": "ash",
+            "normalized": "ash"
           },
           {
-            "id": "cac21609-9e53-40d3-b60a-6e61d4e8ca6d",
-            "clue": "__ Lang Syne",
-            "answer": "auld",
-            "normalized": "auld"
+            "id": "7b536571-d031-4674-911d-98caf762b36e",
+            "clue": "Not this, but soon",
+            "answer": "yet",
+            "normalized": "yet"
           },
           {
-            "id": "b4f18d5a-8b7a-4c18-86be-1c4e09a3faba",
-            "clue": "To tear into two or more pieces",
-            "answer": "rend",
-            "normalized": "rend"
+            "id": "aaade41d-ddf2-4122-970f-64728ccd16e0",
+            "clue": "Abbreviation for the Nuclear Regulatory Commission",
+            "answer": "nrc",
+            "normalized": "nrc"
           },
           {
-            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
-            "clue": "Quick way of saying you must leave a chat session",
-            "answer": "gtg",
-            "normalized": "gtg"
+            "id": "6bd3dc9b-a793-4383-9be1-0c7c94c63a6d",
+            "clue": "Acronym for the Order of St. Augustine",
+            "answer": "osa",
+            "normalized": "osa"
+          },
+          {
+            "id": "a8ab5dcd-ff51-4e07-98bd-a4856fd3e18f",
+            "clue": "Measure of electrical resistance",
+            "answer": "ohm",
+            "normalized": "ohm"
+          },
+          {
+            "id": "54a8bd3c-54e2-42e7-8d6d-6214fa8bbdb3",
+            "clue": "Kill Bill actress Thurman",
+            "answer": "uma",
+            "normalized": "uma"
+          },
+          {
+            "id": "7534e7e7-dce1-4f9e-84e6-213119561a77",
+            "clue": "Band __ Leppard",
+            "answer": "def",
+            "normalized": "def"
           }
         ],
-        "track": "PC|LenC--Y2026M7D14F1"
+        "track": "PC|LenC--Y2026M7D15F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-14",
+      "key": "2026-07-15",
       "year": 2026,
       "month": 7,
-      "day": 14,
+      "day": 15,
       "small": {
-        "puzzleId": "7d17a8df-0567-4ece-8099-f22d8e7547a9",
+        "puzzleId": "e939f824-1b4f-4be7-9508-b8671ba2defe",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "91dde041-4a1e-4492-a528-a6757ee93d5e",
-            "clue": "Made provisions last longer, __ out",
-            "answer": "eked",
-            "normalized": "eked"
+            "id": "27d2fab7-0a34-4c61-ac47-e36836e92709",
+            "clue": "Hydrocyanic acid's chemical formula",
+            "answer": "hcn",
+            "normalized": "hcn"
           },
           {
-            "id": "eac6f800-1e5b-4dd1-869d-d46c53a2f106",
-            "clue": "Another word for a liquid",
-            "answer": "fluid",
-            "normalized": "fluid"
+            "id": "496aafc1-411d-4d80-9e3f-e94af70a7f22",
+            "clue": "European coin first minted in Florence",
+            "answer": "florin",
+            "normalized": "florin"
           },
           {
-            "id": "3ab8a0d8-050a-45c0-b3ec-8cd3454d15d7",
-            "clue": "Worker who installs ceramics to walls or floors",
-            "answer": "tiler",
-            "normalized": "tiler"
+            "id": "3c5d205d-2ebd-4b7c-8b59-63e0bb4f94b4",
+            "clue": "To ventilate",
+            "answer": "aerate",
+            "normalized": "aerate"
           },
           {
-            "id": "479aa103-8f16-4e2c-b043-374002d15616",
-            "clue": "By a factor of a million",
-            "answer": "mega",
-            "normalized": "mega"
+            "id": "5648ac3f-7c5e-4caa-8cb8-dd53fa4eb8b4",
+            "clue": "Wish for, want, crave",
+            "answer": "desire",
+            "normalized": "desire"
           },
           {
-            "id": "db492b9b-a370-44d2-9169-6a533a7673b3",
-            "clue": "City where a Greek myth war was set",
-            "answer": "troy",
-            "normalized": "troy"
+            "id": "1f79df52-f18e-4c6a-ac32-ee6018bd24de",
+            "clue": "Freud's personality theory defined this concept",
+            "answer": "ego",
+            "normalized": "ego"
           },
           {
-            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
-            "clue": "The terrestrial phase of an aquatic newt",
-            "answer": "eft",
-            "normalized": "eft"
+            "id": "a914fbb9-df5b-4d94-978d-dc5d12414a27",
+            "clue": "\"Healthy as a __\"",
+            "answer": "horse",
+            "normalized": "horse"
           },
           {
-            "id": "760f2ae9-35ad-49a6-8edf-439bde91f118",
-            "clue": "The Kiss painter Gustav __",
-            "answer": "klimt",
-            "normalized": "klimt"
+            "id": "609f5b48-2c27-4627-a0b6-829e13a11935",
+            "clue": "Seventh James Bond actor",
+            "answer": "craig",
+            "normalized": "craig"
           },
           {
-            "id": "4ea4e519-9bcc-4002-a559-cac649dea906",
-            "clue": "Swiss mathematician Leonhard",
-            "answer": "euler",
-            "normalized": "euler"
+            "id": "d154121a-05a6-48a1-b513-07cd0097bf8f",
+            "clue": "Type of slow-steeped cold brew coffee, with gas",
+            "answer": "nitro",
+            "normalized": "nitro"
           },
           {
-            "id": "b3a6a366-c475-4faa-93bc-1d9aacb2319e",
-            "clue": "Maradona, renowned Argentinian soccer player",
-            "answer": "diego",
-            "normalized": "diego"
+            "id": "8558bd00-7bce-485a-be60-983392b5052d",
+            "clue": "New craze or trend",
+            "answer": "fad",
+            "normalized": "fad"
           },
           {
-            "id": "721320ae-5c24-401c-a2f6-3f9b94118c51",
-            "clue": "A group of squirrels is called a scurry or this",
-            "answer": "dray",
-            "normalized": "dray"
+            "id": "9934259f-4bc5-48e5-b95a-4eff6a412b5b",
+            "clue": "Martial arts master Bruce __",
+            "answer": "lee",
+            "normalized": "lee"
+          },
+          {
+            "id": "7dce869b-e9da-41ab-9361-e4cc67fc5ec5",
+            "clue": "Short French word to indicate woman's maiden name",
+            "answer": "nee",
+            "normalized": "nee"
           }
         ],
-        "track": "PC|LenC--Y2026M7D14F0"
+        "track": "PC|LenC--Y2026M7D15F0"
       },
       "mid": {
-        "puzzleId": "20d27426-1718-4a70-b5e9-28f8e53869bc",
+        "puzzleId": "3a9e8fe3-5699-4544-b22a-8b77cbdba29e",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 4,
+        "version": 1,
         "answers": [
           {
-            "id": "21902c3b-309a-4a7d-bcda-b1b5efe08c7c",
-            "clue": "Coco Chanel's classic cocktail attire, for short",
-            "answer": "lbd",
-            "normalized": "lbd"
+            "id": "0c204877-1013-46c8-b8b5-fdc041a66423",
+            "clue": "Recess in a church with an arched or domed roof",
+            "answer": "apse",
+            "normalized": "apse"
           },
           {
-            "id": "b811e89e-f420-4622-bd8a-3e696f945632",
-            "clue": "Initialism, referring to a prince or princess",
-            "answer": "hrh",
-            "normalized": "hrh"
+            "id": "d9b6cb26-375d-4149-90db-7a0ad5fa684d",
+            "clue": "Blues guitarist Robert",
+            "answer": "cray",
+            "normalized": "cray"
           },
           {
-            "id": "abfa56b5-4b41-46f1-871f-b69f39d105cb",
-            "clue": "Astronaut Jemison, first Black woman in space",
-            "answer": "mae",
-            "normalized": "mae"
+            "id": "144e1807-1e9d-4015-b587-40bb0944c8b8",
+            "clue": "Feng __ focuses on Asian theory of balance",
+            "answer": "shui",
+            "normalized": "shui"
           },
           {
-            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
-            "clue": "Equal employment opportunity, initialism",
-            "answer": "eeo",
-            "normalized": "eeo"
+            "id": "06123251-1429-4b61-9900-a7fcaa02de26",
+            "clue": "A word for trick that rhymes with muse",
+            "answer": "ruse",
+            "normalized": "ruse"
           },
           {
-            "id": "5ba33b4b-ff1e-475c-9396-a81fc87ab2d7",
-            "clue": "AFAIK means __ I know",
-            "answer": "as far as",
-            "normalized": "asfaras"
+            "id": "ea0a942a-713a-46db-831c-b7cca1d08f2c",
+            "clue": "Lasting winter in Game of Thrones",
+            "answer": "long night",
+            "normalized": "longnight"
           },
           {
-            "id": "9f5735cf-d46e-408b-a539-f6370c39fb17",
-            "clue": "The most veracious",
-            "answer": "truest",
-            "normalized": "truest"
+            "id": "f2a742d0-5618-4f02-9f95-ea9e63413d14",
+            "clue": "Thin, decorative blanket for a bed or furniture",
+            "answer": "throw",
+            "normalized": "throw"
           },
           {
-            "id": "0cb9b4b2-7a00-4d1b-9e98-90d43f4885c4",
-            "clue": "__ Bridge, Venetian crossing housing rows of shops",
-            "answer": "rialto",
-            "normalized": "rialto"
+            "id": "4f02681b-de4d-4394-9ef8-06e9edec0807",
+            "clue": "Icy sphere located beyond the Kuiper Belt",
+            "answer": "oort cloud",
+            "normalized": "oortcloud"
           },
           {
-            "id": "92856fd2-432c-44ce-9bac-8610f93d69f9",
-            "clue": "Escaping, anagram of dueling",
-            "answer": "eluding",
-            "normalized": "eluding"
+            "id": "5d3c9a56-5a44-4b28-8d21-5a2160ec8c91",
+            "clue": "Ruler of the Persian Empire",
+            "answer": "shah",
+            "normalized": "shah"
           },
           {
-            "id": "5eb423e2-b0d0-4090-b477-3ca752594d48",
-            "clue": "Three-letter alpha code for Netherlands",
-            "answer": "nld",
-            "normalized": "nld"
+            "id": "7a13b0ce-460e-4f48-b8a9-579979627751",
+            "clue": "Coastal capital of Togo",
+            "answer": "lome",
+            "normalized": "lome"
           },
           {
-            "id": "3317a183-19f2-4b6a-8f06-b1698bc3cc53",
-            "clue": "Central European Time, abbreviated",
-            "answer": "cet",
-            "normalized": "cet"
+            "id": "57447df1-df9d-46b4-a90a-1686e4dce2ae",
+            "clue": "Units of electric current, abbreviated",
+            "answer": "amps",
+            "normalized": "amps"
           },
           {
-            "id": "ea2df107-5415-4ffe-8d76-9d78e043cce4",
-            "clue": "Desmond, for short",
-            "answer": "des",
-            "normalized": "des"
+            "id": "74fae654-2b57-45f8-9cff-087039e4f3f5",
+            "clue": "Frozen's goofy animated snowman",
+            "answer": "olaf",
+            "normalized": "olaf"
           },
           {
-            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
-            "clue": "Acronym for a UN Sustainable Development Goal",
-            "answer": "sdg",
-            "normalized": "sdg"
+            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
+            "clue": "Common query in early internet chat rooms",
+            "answer": "asl",
+            "normalized": "asl"
           },
           {
-            "id": "439d8dfb-5a50-4645-93fa-27594879e863",
-            "clue": "Leave me alone",
-            "answer": "lma",
-            "normalized": "lma"
+            "id": "f7a1c29a-b291-4d48-b49c-c26b3b0c0a42",
+            "clue": "Vietnamese rice noodle soup",
+            "answer": "pho",
+            "normalized": "pho"
           },
           {
-            "id": "486d7b85-8543-4be8-b0c8-4071fbeb6ce2",
-            "clue": "14 juillet annual French celebration: __ Day",
-            "answer": "bastille",
-            "normalized": "bastille"
+            "id": "dcc110c2-30f9-41df-9a0a-b27f7bad0b05",
+            "clue": "Exceptionally warm spot in a garden or patio",
+            "answer": "suntrap",
+            "normalized": "suntrap"
           },
           {
-            "id": "ae73415e-8d80-4d52-8fed-5e8c6200214d",
-            "clue": "Takes by deception",
-            "answer": "defrauds",
-            "normalized": "defrauds"
+            "id": "991cc052-873e-4ec9-9a1f-7674b4c7004d",
+            "clue": "Two of them make a quarter",
+            "answer": "eighths",
+            "normalized": "eighths"
           },
           {
-            "id": "99887161-fc76-4576-babe-c62b74aa8980",
-            "clue": "Those who openly reject the official religion",
-            "answer": "heretics",
-            "normalized": "heretics"
+            "id": "3c29d63f-d22a-4704-8b23-d5f00b74b47d",
+            "clue": "Spanish-American of pure Spanish descent",
+            "answer": "criollo",
+            "normalized": "criollo"
           },
           {
-            "id": "eaf53986-fbde-490a-9c69-f81fb49dedd0",
-            "clue": "Argued, thought, figured out",
-            "answer": "reasoned",
-            "normalized": "reasoned"
+            "id": "8cbed141-a959-4559-b6b2-4043f1f1d179",
+            "clue": "Thick yarn used to make mini carpets",
+            "answer": "rug wool",
+            "normalized": "rugwool"
           },
           {
-            "id": "7cad1f6e-0083-4a73-83e2-dc77d492071f",
-            "clue": "Person who throws a party or presents a show",
-            "answer": "host",
-            "normalized": "host"
+            "id": "76d107da-feee-4ee2-9495-161e97db9113",
+            "clue": "Remains of a fire",
+            "answer": "ash",
+            "normalized": "ash"
           },
           {
-            "id": "cac21609-9e53-40d3-b60a-6e61d4e8ca6d",
-            "clue": "__ Lang Syne",
-            "answer": "auld",
-            "normalized": "auld"
+            "id": "7b536571-d031-4674-911d-98caf762b36e",
+            "clue": "Not this, but soon",
+            "answer": "yet",
+            "normalized": "yet"
           },
           {
-            "id": "b4f18d5a-8b7a-4c18-86be-1c4e09a3faba",
-            "clue": "To tear into two or more pieces",
-            "answer": "rend",
-            "normalized": "rend"
+            "id": "aaade41d-ddf2-4122-970f-64728ccd16e0",
+            "clue": "Abbreviation for the Nuclear Regulatory Commission",
+            "answer": "nrc",
+            "normalized": "nrc"
           },
           {
-            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
-            "clue": "Quick way of saying you must leave a chat session",
-            "answer": "gtg",
-            "normalized": "gtg"
+            "id": "6bd3dc9b-a793-4383-9be1-0c7c94c63a6d",
+            "clue": "Acronym for the Order of St. Augustine",
+            "answer": "osa",
+            "normalized": "osa"
+          },
+          {
+            "id": "a8ab5dcd-ff51-4e07-98bd-a4856fd3e18f",
+            "clue": "Measure of electrical resistance",
+            "answer": "ohm",
+            "normalized": "ohm"
+          },
+          {
+            "id": "54a8bd3c-54e2-42e7-8d6d-6214fa8bbdb3",
+            "clue": "Kill Bill actress Thurman",
+            "answer": "uma",
+            "normalized": "uma"
+          },
+          {
+            "id": "7534e7e7-dce1-4f9e-84e6-213119561a77",
+            "clue": "Band __ Leppard",
+            "answer": "def",
+            "normalized": "def"
           }
         ],
-        "track": "PC|LenC--Y2026M7D14F1"
+        "track": "PC|LenC--Y2026M7D15F1"
       }
     },
     "latestAvailableEntry": {
@@ -428883,21 +428931,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "ysXM78cYVPDItHoEk7Hg/IznKn+7PpYNN07Jl6LgrJcygVOrz3hxjqAnjTNtGUw3cib/gN7BdqmG9F7mhZXEMM5wAMwETmC/VC88ALkeAOkCN/L8fEfJZL3byD8LHuLfsLhpVtelTiG0Ag5XJahGPUsHcedatR88H80DzBV4dNYTyqUeALckf+Oef4PDbwBzX1ueO5umdvq3kO7YVNqKDY7qznX9gek7NqDdwR2XZbxtu4aJ67maDF3zN9S6RYbc7nAM2yGkzoubuxiUGVmSGzKsfRjKP/mYc1awtE7uIHQ="
+        "/RwJGm+If8hvj0Avy8aIWUvgPseBXCv3jMJSZ7nXAi31hqTjH5NoXC1XowVZLNwZqw2Huni5WF2+Gmon/Vu1WZ+M1qtpu2Y8dy/7v8lRnve43yTERfO2zwDjI8SJsXC4T5hozOHno/Zbebv0ZvEZMHLW/y04yuJ042BUpeUAwfRGW2tRfRZFnVhWBaA7UreoMMS8qoM2Dh3Vtz/hEBfljRS95HFXFDHhCQC7b6p8b23N5QXE4hV7NPIP8H2tF22V1kBZD4tCJRQQ9Ad5sOhWNcZBxBUBYhSxq7qetnft6RQ="
       ]
     },
     "decrypted": {
-      "Id": "1737d79d-ba76-4ffc-a4ff-323c67ad6f4f",
-      "Date": "2026-07-14T00:00:00Z",
+      "Id": "80ce17d5-d6bc-4b89-84c3-0925ab09cd61",
+      "Date": "2026-07-15T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "peace",
-      "NormalizedPassword": "peace",
+      "Password": "mound",
+      "NormalizedPassword": "mound",
       "MaxGuesses": 6,
       "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-14T01:25:56.4500000+05:30",
-    "hash": "b94b3a4d38d57c4d4973f7dd9a2f1c30",
+    "dtu": "2026-07-15T01:20:19.7470000+05:30",
+    "hash": "f0e6645b7f2ba8ef5a0481e8d2e6dd4a",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
