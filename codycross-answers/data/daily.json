@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T19:38:21.904Z",
+  "generatedAt": "2026-07-17T19:37:50.683Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 17
+    "day": 18
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 30
+        "QuantidadeDeFases": 32
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,427 +428251,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-17",
+      "key": "2026-07-18",
       "year": 2026,
       "month": 7,
-      "day": 17,
+      "day": 18,
       "small": {
-        "puzzleId": "9b445bbf-f183-4647-862c-dd09ad5b07e4",
+        "puzzleId": "6fc99733-1ec2-49b4-96de-1cfe999f70c6",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "e9d89645-94ba-4c8b-aa91-93b27988e41a",
-            "clue": "Chemical formula for aluminum monobromide",
-            "answer": "albr",
-            "normalized": "albr"
+            "id": "d8918c37-724f-4225-856b-0f55b478c293",
+            "clue": "Ice precipitation associated with thunderstorms",
+            "answer": "hail",
+            "normalized": "hail"
           },
           {
-            "id": "4e16c796-323e-4a0f-a901-037bcaa6a74c",
-            "clue": "Smiley face or other small image",
-            "answer": "emoji",
-            "normalized": "emoji"
+            "id": "706c879b-f1a0-4f28-a46e-005759927e22",
+            "clue": "German model Klum",
+            "answer": "heidi",
+            "normalized": "heidi"
           },
           {
-            "id": "5321b7c7-4292-4d48-9d28-9c212e41e277",
-            "clue": "Replace this after a golf fairway shot",
-            "answer": "divot",
-            "normalized": "divot"
+            "id": "573c3fec-adbb-46ec-be02-3e13dd6a7743",
+            "clue": "Forename of President Mandela of South Africa",
+            "answer": "nelson",
+            "normalized": "nelson"
           },
           {
-            "id": "bcc2e6aa-ea2a-4dec-89f9-d80943276679",
-            "clue": "End of __, conclusion, final chapter",
-            "answer": "an era",
-            "normalized": "anera"
+            "id": "d3380b04-f92d-4f3e-a866-e77732019e5d",
+            "clue": "Question intensely, or cook",
+            "answer": "grill",
+            "normalized": "grill"
           },
           {
-            "id": "80f99d15-a9fa-4d18-966b-9505b84e5689",
-            "clue": "Extraterrestrial Robin Williams played on TV",
-            "answer": "mork",
-            "normalized": "mork"
+            "id": "57cd3c7f-d740-4134-9e35-2e8c45416830",
+            "clue": "Double-reed woodwind common in orchestras",
+            "answer": "oboe",
+            "normalized": "oboe"
           },
           {
-            "id": "8f994cae-bbc7-42d7-aad7-58fa84bcebd9",
-            "clue": "Type of acids that combine to form proteins",
-            "answer": "amino",
-            "normalized": "amino"
+            "id": "fdd17798-c7b7-4196-810f-3efeb2cfb431",
+            "clue": "Sunny prefix that precedes -trope and -centric",
+            "answer": "helio",
+            "normalized": "helio"
           },
           {
-            "id": "331fae84-1828-4afe-977a-e7f3356fd876",
-            "clue": "Romantic partner",
-            "answer": "lover",
-            "normalized": "lover"
+            "id": "3178ee66-129b-438d-8d3f-4614e83fd0de",
+            "clue": "A passage between rows of shelves in a supermarket",
+            "answer": "aisle",
+            "normalized": "aisle"
           },
           {
-            "id": "b464320f-b2dc-45ec-9bbe-e21b5561475f",
-            "clue": "Swan-wearing Icelandic musician",
-            "answer": "bjork",
-            "normalized": "bjork"
+            "id": "8414acb5-dee5-4c81-b227-c867d717f064",
+            "clue": "Object of worship that represents a god",
+            "answer": "idol",
+            "normalized": "idol"
           },
           {
-            "id": "18fe1783-45f0-4409-a37c-0de9dd2b7730",
-            "clue": "Willy Russell wrote about educating her",
-            "answer": "rita",
-            "normalized": "rita"
+            "id": "19e7fac9-e756-4c36-8307-fa808b0a54a4",
+            "clue": "Goes before Manuel for Hamilton's Miranda",
+            "answer": "lin",
+            "normalized": "lin"
           },
           {
-            "id": "a7ebb879-66bc-4eeb-97ef-5a21b0326448",
-            "clue": "Dutch cheese with waxy red coating",
-            "answer": "edam",
-            "normalized": "edam"
+            "id": "cb7b2957-4f75-49de-8d62-30eff8e83108",
+            "clue": "Plant used as food seasoning",
+            "answer": "herb",
+            "normalized": "herb"
+          },
+          {
+            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
+            "clue": "Non-profit charity independent of any government",
+            "answer": "ngo",
+            "normalized": "ngo"
           }
         ],
-        "track": "PC|LenC--Y2026M7D17F0"
+        "track": "PC|LenC--Y2026M7D18F0"
       },
       "mid": {
-        "puzzleId": "6aad78b8-a69f-4a93-9834-af07347b6e7a",
+        "puzzleId": "253dfbf9-b885-4bba-a68a-630351552711",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "da79c1bc-b655-431d-8078-8624545a3994",
-            "clue": "Short term for \"operations\" used in the military",
-            "answer": "ops",
-            "normalized": "ops"
+            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
+            "clue": "US taxpayers report to this revenue service",
+            "answer": "irs",
+            "normalized": "irs"
           },
           {
-            "id": "57b5681d-bffd-4de9-b834-674143730f3d",
-            "clue": "Neck garment to catch food from messy babies",
-            "answer": "bib",
-            "normalized": "bib"
+            "id": "ad8fccb5-ba8d-44e5-a0e5-2d0943f2b26e",
+            "clue": "Home to a growing baby in pregnancy",
+            "answer": "womb",
+            "normalized": "womb"
           },
           {
-            "id": "55c8ebb9-2e9a-4f35-93dc-6a9ff335805d",
-            "clue": "For a reason, to do something due to something else",
-            "answer": "because",
-            "normalized": "because"
+            "id": "50c383e1-f22e-4159-9ac9-077deb9d235d",
+            "clue": "3-letter nickname for the internet",
+            "answer": "net",
+            "normalized": "net"
           },
           {
-            "id": "4fc56f6f-60fa-4d59-9390-484b454990e5",
-            "clue": "Attached sheets of paper together",
-            "answer": "stapled",
-            "normalized": "stapled"
+            "id": "44c973c9-50fa-4114-8abf-999e7caec241",
+            "clue": "Not up close, from a distance",
+            "answer": "afar",
+            "normalized": "afar"
           },
           {
-            "id": "360f0b5e-bdaa-429a-9bd3-99bd9b1e30b4",
-            "clue": "Actors play these in movies",
-            "answer": "roles",
-            "normalized": "roles"
+            "id": "20c08fda-d2ae-46a6-98e2-536d4e928dc6",
+            "clue": "Abbreviation for Dance Dance Revolution",
+            "answer": "ddr",
+            "normalized": "ddr"
           },
           {
-            "id": "a79d2c97-f1d1-4da9-8f13-e5ef89290afc",
-            "clue": "Canadian-American actor sisters Meg and Jennifer",
-            "answer": "tilly",
-            "normalized": "tilly"
+            "id": "24a188b7-4902-4863-8c59-19409f7bcb70",
+            "clue": "Dog in Peter Pan",
+            "answer": "nana",
+            "normalized": "nana"
           },
           {
-            "id": "c6f4ead4-830f-4dd4-9444-40be3b412e73",
-            "clue": "Tall four-sided pillar which ends in a pyramidion",
-            "answer": "obelisk",
-            "normalized": "obelisk"
+            "id": "e3767226-9efd-4784-8432-76cbd4853ec2",
+            "clue": "Tympanic membrane, loud music can perforate it",
+            "answer": "eardrum",
+            "normalized": "eardrum"
           },
           {
-            "id": "d096f76c-5d5e-4995-a3cd-a93cfb62b08f",
-            "clue": "A word used as a substitute for a related entity",
-            "answer": "metonym",
-            "normalized": "metonym"
+            "id": "d5e563cf-96f2-458f-b6cb-e637472dd1f5",
+            "clue": "Jellyfishes",
+            "answer": "medusae",
+            "normalized": "medusae"
           },
           {
-            "id": "fa52a55c-2c9b-4d42-817c-b7dd1c689d8b",
-            "clue": "Short for exterior",
-            "answer": "ext",
-            "normalized": "ext"
+            "id": "d68901bf-09b4-4fa7-bf8b-3e36943d47f6",
+            "clue": "Online resource with details of movies and actors",
+            "answer": "imdb",
+            "normalized": "imdb"
           },
           {
-            "id": "858d99bf-d0ce-4524-9dda-c60ffa76783b",
-            "clue": "Game Show Network, acronym",
-            "answer": "gsn",
-            "normalized": "gsn"
+            "id": "07afb114-121e-4980-87c1-868dd7e88b60",
+            "clue": "Day-__, extremely bright yellow, orange or pink",
+            "answer": "glo",
+            "normalized": "glo"
           },
           {
-            "id": "6ac4f354-372c-41e4-ad1b-8938ba9427a9",
-            "clue": "Abbreviation for obstetricians",
-            "answer": "obs",
-            "normalized": "obs"
+            "id": "aadc6aec-f271-43ea-b864-82fc73be4445",
+            "clue": "The opposite of buy",
+            "answer": "sell",
+            "normalized": "sell"
           },
           {
-            "id": "1a7dc923-ceff-4b1f-8e20-bff66bfb0761",
-            "clue": "A cat, or stroke a cat",
-            "answer": "pet",
-            "normalized": "pet"
+            "id": "f7a56148-c98e-4b5d-ba2e-51c50dc827df",
+            "clue": "Phonetic text slang for \"Oh, I see\"",
+            "answer": "oic",
+            "normalized": "oic"
           },
           {
-            "id": "2ddfabe3-b1ad-4fc6-afe1-b6bee296f2b2",
-            "clue": "Gone With the Wind heroine, __ O'Hara",
-            "answer": "scarlett",
-            "normalized": "scarlett"
+            "id": "df9d337d-9dac-4d68-9aef-ac68a7c3a1d4",
+            "clue": "I have bark but no bite",
+            "answer": "tree",
+            "normalized": "tree"
           },
           {
-            "id": "048678fa-1aef-4d83-9607-b4547b80b881",
-            "clue": "Mistreating a junior, both physically and verbally",
-            "answer": "bullying",
-            "normalized": "bullying"
+            "id": "cc713637-7eb7-4097-8d9f-f9595a9a8f0a",
+            "clue": "Parasitic insect egg",
+            "answer": "nit",
+            "normalized": "nit"
           },
           {
-            "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
-            "clue": "Phrase that confirms you've understood",
-            "answer": "i see",
-            "normalized": "isee"
+            "id": "17e7c9a3-0f85-48fd-ab67-7f21f91a13f8",
+            "clue": "Three-letter country code for India",
+            "answer": "ind",
+            "normalized": "ind"
           },
           {
-            "id": "09bd7919-50da-4af5-81c1-295da5abbafe",
-            "clue": "Places to sleep that could be king-sized",
-            "answer": "beds",
-            "normalized": "beds"
+            "id": "0c6fdea1-f42e-409c-986a-82ef69f3aa5b",
+            "clue": "Christ the __, famous statue in Rio de Janeiro",
+            "answer": "redeemer",
+            "normalized": "redeemer"
           },
           {
-            "id": "2e2ca175-ce19-4a72-8058-b6d99abbfd08",
-            "clue": "__ 11, the first moon-landing craft",
-            "answer": "apollo",
-            "normalized": "apollo"
+            "id": "d12cb841-4ffd-4941-8535-eb3bb850bc1d",
+            "clue": "Split your legs apart in gymnastics",
+            "answer": "straddle",
+            "normalized": "straddle"
           },
           {
-            "id": "9cc1c978-ab0c-4264-bedc-74a8f1d64fa6",
-            "clue": "A big, dense, scholarly book, a weighty __",
-            "answer": "tome",
-            "normalized": "tome"
+            "id": "f7fc265f-4fe8-471a-847c-fa2e12542117",
+            "clue": "Magic sticks used in the wizarding world",
+            "answer": "wands",
+            "normalized": "wands"
           },
           {
-            "id": "7f4abb98-40b8-47ce-bc27-847d9ac68934",
-            "clue": "Wild goat with large, curved horns",
-            "answer": "ibex",
-            "normalized": "ibex"
+            "id": "3c4a7947-8dd4-407f-8e87-6bdcd3194503",
+            "clue": "Catherine __, mother of Mary I, Queen of England",
+            "answer": "of aragon",
+            "normalized": "ofaragon"
           },
           {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
+            "id": "b9631c95-f96e-437d-88c7-10984f1c7fc3",
+            "clue": "Last king of Portugal; in power from 1908-1910",
+            "answer": "manuel ii",
+            "normalized": "manuelii"
           },
           {
-            "id": "4fdb8fde-cc5a-40aa-843a-0f96b3f8415f",
-            "clue": "\"Kill me now\" in text, when something is boring",
-            "answer": "kmn",
-            "normalized": "kmn"
+            "id": "f3027d62-5c13-4b01-b53b-8b244bdcb341",
+            "clue": "Stoker, creator of Gothic horror novel Dracula",
+            "answer": "bram",
+            "normalized": "bram"
+          },
+          {
+            "id": "38487a8c-ff62-4422-8acc-6725446dd2a2",
+            "clue": "The name of the currency used in Russia",
+            "answer": "ruble",
+            "normalized": "ruble"
+          },
+          {
+            "id": "5702090d-0a6a-4a49-a1f6-8599586fa568",
+            "clue": "Fog of tiny water droplets",
+            "answer": "mist",
+            "normalized": "mist"
+          },
+          {
+            "id": "6e0751f5-a6d0-4d76-9419-3d1789df8244",
+            "clue": "Halloween is during this month, in short",
+            "answer": "oct",
+            "normalized": "oct"
           }
         ],
-        "track": "PC|LenC--Y2026M7D17F1"
+        "track": "PC|LenC--Y2026M7D18F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-17",
+      "key": "2026-07-18",
       "year": 2026,
       "month": 7,
-      "day": 17,
+      "day": 18,
       "small": {
-        "puzzleId": "9b445bbf-f183-4647-862c-dd09ad5b07e4",
+        "puzzleId": "6fc99733-1ec2-49b4-96de-1cfe999f70c6",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "e9d89645-94ba-4c8b-aa91-93b27988e41a",
-            "clue": "Chemical formula for aluminum monobromide",
-            "answer": "albr",
-            "normalized": "albr"
+            "id": "d8918c37-724f-4225-856b-0f55b478c293",
+            "clue": "Ice precipitation associated with thunderstorms",
+            "answer": "hail",
+            "normalized": "hail"
           },
           {
-            "id": "4e16c796-323e-4a0f-a901-037bcaa6a74c",
-            "clue": "Smiley face or other small image",
-            "answer": "emoji",
-            "normalized": "emoji"
+            "id": "706c879b-f1a0-4f28-a46e-005759927e22",
+            "clue": "German model Klum",
+            "answer": "heidi",
+            "normalized": "heidi"
           },
           {
-            "id": "5321b7c7-4292-4d48-9d28-9c212e41e277",
-            "clue": "Replace this after a golf fairway shot",
-            "answer": "divot",
-            "normalized": "divot"
+            "id": "573c3fec-adbb-46ec-be02-3e13dd6a7743",
+            "clue": "Forename of President Mandela of South Africa",
+            "answer": "nelson",
+            "normalized": "nelson"
           },
           {
-            "id": "bcc2e6aa-ea2a-4dec-89f9-d80943276679",
-            "clue": "End of __, conclusion, final chapter",
-            "answer": "an era",
-            "normalized": "anera"
+            "id": "d3380b04-f92d-4f3e-a866-e77732019e5d",
+            "clue": "Question intensely, or cook",
+            "answer": "grill",
+            "normalized": "grill"
           },
           {
-            "id": "80f99d15-a9fa-4d18-966b-9505b84e5689",
-            "clue": "Extraterrestrial Robin Williams played on TV",
-            "answer": "mork",
-            "normalized": "mork"
+            "id": "57cd3c7f-d740-4134-9e35-2e8c45416830",
+            "clue": "Double-reed woodwind common in orchestras",
+            "answer": "oboe",
+            "normalized": "oboe"
           },
           {
-            "id": "8f994cae-bbc7-42d7-aad7-58fa84bcebd9",
-            "clue": "Type of acids that combine to form proteins",
-            "answer": "amino",
-            "normalized": "amino"
+            "id": "fdd17798-c7b7-4196-810f-3efeb2cfb431",
+            "clue": "Sunny prefix that precedes -trope and -centric",
+            "answer": "helio",
+            "normalized": "helio"
           },
           {
-            "id": "331fae84-1828-4afe-977a-e7f3356fd876",
-            "clue": "Romantic partner",
-            "answer": "lover",
-            "normalized": "lover"
+            "id": "3178ee66-129b-438d-8d3f-4614e83fd0de",
+            "clue": "A passage between rows of shelves in a supermarket",
+            "answer": "aisle",
+            "normalized": "aisle"
           },
           {
-            "id": "b464320f-b2dc-45ec-9bbe-e21b5561475f",
-            "clue": "Swan-wearing Icelandic musician",
-            "answer": "bjork",
-            "normalized": "bjork"
+            "id": "8414acb5-dee5-4c81-b227-c867d717f064",
+            "clue": "Object of worship that represents a god",
+            "answer": "idol",
+            "normalized": "idol"
           },
           {
-            "id": "18fe1783-45f0-4409-a37c-0de9dd2b7730",
-            "clue": "Willy Russell wrote about educating her",
-            "answer": "rita",
-            "normalized": "rita"
+            "id": "19e7fac9-e756-4c36-8307-fa808b0a54a4",
+            "clue": "Goes before Manuel for Hamilton's Miranda",
+            "answer": "lin",
+            "normalized": "lin"
           },
           {
-            "id": "a7ebb879-66bc-4eeb-97ef-5a21b0326448",
-            "clue": "Dutch cheese with waxy red coating",
-            "answer": "edam",
-            "normalized": "edam"
+            "id": "cb7b2957-4f75-49de-8d62-30eff8e83108",
+            "clue": "Plant used as food seasoning",
+            "answer": "herb",
+            "normalized": "herb"
+          },
+          {
+            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
+            "clue": "Non-profit charity independent of any government",
+            "answer": "ngo",
+            "normalized": "ngo"
           }
         ],
-        "track": "PC|LenC--Y2026M7D17F0"
+        "track": "PC|LenC--Y2026M7D18F0"
       },
       "mid": {
-        "puzzleId": "6aad78b8-a69f-4a93-9834-af07347b6e7a",
+        "puzzleId": "253dfbf9-b885-4bba-a68a-630351552711",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "da79c1bc-b655-431d-8078-8624545a3994",
-            "clue": "Short term for \"operations\" used in the military",
-            "answer": "ops",
-            "normalized": "ops"
+            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
+            "clue": "US taxpayers report to this revenue service",
+            "answer": "irs",
+            "normalized": "irs"
           },
           {
-            "id": "57b5681d-bffd-4de9-b834-674143730f3d",
-            "clue": "Neck garment to catch food from messy babies",
-            "answer": "bib",
-            "normalized": "bib"
+            "id": "ad8fccb5-ba8d-44e5-a0e5-2d0943f2b26e",
+            "clue": "Home to a growing baby in pregnancy",
+            "answer": "womb",
+            "normalized": "womb"
           },
           {
-            "id": "55c8ebb9-2e9a-4f35-93dc-6a9ff335805d",
-            "clue": "For a reason, to do something due to something else",
-            "answer": "because",
-            "normalized": "because"
+            "id": "50c383e1-f22e-4159-9ac9-077deb9d235d",
+            "clue": "3-letter nickname for the internet",
+            "answer": "net",
+            "normalized": "net"
           },
           {
-            "id": "4fc56f6f-60fa-4d59-9390-484b454990e5",
-            "clue": "Attached sheets of paper together",
-            "answer": "stapled",
-            "normalized": "stapled"
+            "id": "44c973c9-50fa-4114-8abf-999e7caec241",
+            "clue": "Not up close, from a distance",
+            "answer": "afar",
+            "normalized": "afar"
           },
           {
-            "id": "360f0b5e-bdaa-429a-9bd3-99bd9b1e30b4",
-            "clue": "Actors play these in movies",
-            "answer": "roles",
-            "normalized": "roles"
+            "id": "20c08fda-d2ae-46a6-98e2-536d4e928dc6",
+            "clue": "Abbreviation for Dance Dance Revolution",
+            "answer": "ddr",
+            "normalized": "ddr"
           },
           {
-            "id": "a79d2c97-f1d1-4da9-8f13-e5ef89290afc",
-            "clue": "Canadian-American actor sisters Meg and Jennifer",
-            "answer": "tilly",
-            "normalized": "tilly"
+            "id": "24a188b7-4902-4863-8c59-19409f7bcb70",
+            "clue": "Dog in Peter Pan",
+            "answer": "nana",
+            "normalized": "nana"
           },
           {
-            "id": "c6f4ead4-830f-4dd4-9444-40be3b412e73",
-            "clue": "Tall four-sided pillar which ends in a pyramidion",
-            "answer": "obelisk",
-            "normalized": "obelisk"
+            "id": "e3767226-9efd-4784-8432-76cbd4853ec2",
+            "clue": "Tympanic membrane, loud music can perforate it",
+            "answer": "eardrum",
+            "normalized": "eardrum"
           },
           {
-            "id": "d096f76c-5d5e-4995-a3cd-a93cfb62b08f",
-            "clue": "A word used as a substitute for a related entity",
-            "answer": "metonym",
-            "normalized": "metonym"
+            "id": "d5e563cf-96f2-458f-b6cb-e637472dd1f5",
+            "clue": "Jellyfishes",
+            "answer": "medusae",
+            "normalized": "medusae"
           },
           {
-            "id": "fa52a55c-2c9b-4d42-817c-b7dd1c689d8b",
-            "clue": "Short for exterior",
-            "answer": "ext",
-            "normalized": "ext"
+            "id": "d68901bf-09b4-4fa7-bf8b-3e36943d47f6",
+            "clue": "Online resource with details of movies and actors",
+            "answer": "imdb",
+            "normalized": "imdb"
           },
           {
-            "id": "858d99bf-d0ce-4524-9dda-c60ffa76783b",
-            "clue": "Game Show Network, acronym",
-            "answer": "gsn",
-            "normalized": "gsn"
+            "id": "07afb114-121e-4980-87c1-868dd7e88b60",
+            "clue": "Day-__, extremely bright yellow, orange or pink",
+            "answer": "glo",
+            "normalized": "glo"
           },
           {
-            "id": "6ac4f354-372c-41e4-ad1b-8938ba9427a9",
-            "clue": "Abbreviation for obstetricians",
-            "answer": "obs",
-            "normalized": "obs"
+            "id": "aadc6aec-f271-43ea-b864-82fc73be4445",
+            "clue": "The opposite of buy",
+            "answer": "sell",
+            "normalized": "sell"
           },
           {
-            "id": "1a7dc923-ceff-4b1f-8e20-bff66bfb0761",
-            "clue": "A cat, or stroke a cat",
-            "answer": "pet",
-            "normalized": "pet"
+            "id": "f7a56148-c98e-4b5d-ba2e-51c50dc827df",
+            "clue": "Phonetic text slang for \"Oh, I see\"",
+            "answer": "oic",
+            "normalized": "oic"
           },
           {
-            "id": "2ddfabe3-b1ad-4fc6-afe1-b6bee296f2b2",
-            "clue": "Gone With the Wind heroine, __ O'Hara",
-            "answer": "scarlett",
-            "normalized": "scarlett"
+            "id": "df9d337d-9dac-4d68-9aef-ac68a7c3a1d4",
+            "clue": "I have bark but no bite",
+            "answer": "tree",
+            "normalized": "tree"
           },
           {
-            "id": "048678fa-1aef-4d83-9607-b4547b80b881",
-            "clue": "Mistreating a junior, both physically and verbally",
-            "answer": "bullying",
-            "normalized": "bullying"
+            "id": "cc713637-7eb7-4097-8d9f-f9595a9a8f0a",
+            "clue": "Parasitic insect egg",
+            "answer": "nit",
+            "normalized": "nit"
           },
           {
-            "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
-            "clue": "Phrase that confirms you've understood",
-            "answer": "i see",
-            "normalized": "isee"
+            "id": "17e7c9a3-0f85-48fd-ab67-7f21f91a13f8",
+            "clue": "Three-letter country code for India",
+            "answer": "ind",
+            "normalized": "ind"
           },
           {
-            "id": "09bd7919-50da-4af5-81c1-295da5abbafe",
-            "clue": "Places to sleep that could be king-sized",
-            "answer": "beds",
-            "normalized": "beds"
+            "id": "0c6fdea1-f42e-409c-986a-82ef69f3aa5b",
+            "clue": "Christ the __, famous statue in Rio de Janeiro",
+            "answer": "redeemer",
+            "normalized": "redeemer"
           },
           {
-            "id": "2e2ca175-ce19-4a72-8058-b6d99abbfd08",
-            "clue": "__ 11, the first moon-landing craft",
-            "answer": "apollo",
-            "normalized": "apollo"
+            "id": "d12cb841-4ffd-4941-8535-eb3bb850bc1d",
+            "clue": "Split your legs apart in gymnastics",
+            "answer": "straddle",
+            "normalized": "straddle"
           },
           {
-            "id": "9cc1c978-ab0c-4264-bedc-74a8f1d64fa6",
-            "clue": "A big, dense, scholarly book, a weighty __",
-            "answer": "tome",
-            "normalized": "tome"
+            "id": "f7fc265f-4fe8-471a-847c-fa2e12542117",
+            "clue": "Magic sticks used in the wizarding world",
+            "answer": "wands",
+            "normalized": "wands"
           },
           {
-            "id": "7f4abb98-40b8-47ce-bc27-847d9ac68934",
-            "clue": "Wild goat with large, curved horns",
-            "answer": "ibex",
-            "normalized": "ibex"
+            "id": "3c4a7947-8dd4-407f-8e87-6bdcd3194503",
+            "clue": "Catherine __, mother of Mary I, Queen of England",
+            "answer": "of aragon",
+            "normalized": "ofaragon"
           },
           {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
+            "id": "b9631c95-f96e-437d-88c7-10984f1c7fc3",
+            "clue": "Last king of Portugal; in power from 1908-1910",
+            "answer": "manuel ii",
+            "normalized": "manuelii"
           },
           {
-            "id": "4fdb8fde-cc5a-40aa-843a-0f96b3f8415f",
-            "clue": "\"Kill me now\" in text, when something is boring",
-            "answer": "kmn",
-            "normalized": "kmn"
+            "id": "f3027d62-5c13-4b01-b53b-8b244bdcb341",
+            "clue": "Stoker, creator of Gothic horror novel Dracula",
+            "answer": "bram",
+            "normalized": "bram"
+          },
+          {
+            "id": "38487a8c-ff62-4422-8acc-6725446dd2a2",
+            "clue": "The name of the currency used in Russia",
+            "answer": "ruble",
+            "normalized": "ruble"
+          },
+          {
+            "id": "5702090d-0a6a-4a49-a1f6-8599586fa568",
+            "clue": "Fog of tiny water droplets",
+            "answer": "mist",
+            "normalized": "mist"
+          },
+          {
+            "id": "6e0751f5-a6d0-4d76-9419-3d1789df8244",
+            "clue": "Halloween is during this month, in short",
+            "answer": "oct",
+            "normalized": "oct"
           }
         ],
-        "track": "PC|LenC--Y2026M7D17F1"
+        "track": "PC|LenC--Y2026M7D18F1"
       }
     },
     "latestAvailableEntry": {
@@ -428883,21 +428931,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "rYGcbGJxRED4IM5q7BaR9Quj3GATRWCRq0e6Y9gG1OJpwVGjnaExe+V/QXtVkhIzKNeo9FxuvhlZftf10o9fAsuS1jeAfhdZd25qC/ZXKm6mhWcdPzOAqHuNdfF817A6B83/8kRtNH8YeXXed3wb0s3ej4Az5LqtmTF6cIlEoM9NMFJ9ixt0w+qy2H2fwm+jzpDMdJ3E1mJQX5DXNlHQgY+pIJUYZhThCYSgrXuhm9HzJDG8R/2SiSBTcPQhLuHVh148iBS1Bk5emo9j3MATKn8IGNXPHwVZq6/wSeHXRIs="
+        "Zf01UpSwV1wLcCioXoDRuHtqrDxtiq/tc0UZV6pIPxpxhgguwyg8O3eBtcnQUHpD1iTtO3T7tkMiYIP2AawC5rcZR3Ts+ngGfv4Dt/A7gojkxpjGJoTRj9tW/P7CIQPNMmEZeu3cEI/j4Of1A5dxdyrtl/hAZZ5FxwXqQ+MJhexFK1iCZQ5iY1pApW1FlTfoP0iIW4sbPLmOAS9FfNxjX8dgvEqEOMy8u1l3xaoaiha3kJR0Cs1DbBwJR5CBuya/f1WHNhi/sA8a2OP12FYLCT971gboSrafP32RgvqbdLw="
       ]
     },
     "decrypted": {
-      "Id": "6d8ac5c2-292a-49f1-82f4-47fc73843ce2",
-      "Date": "2026-07-17T00:00:00Z",
+      "Id": "213312e0-c6d6-4cba-ae2e-c519161db217",
+      "Date": "2026-07-18T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "click",
-      "NormalizedPassword": "click",
+      "Password": "greet",
+      "NormalizedPassword": "greet",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-17T01:08:21.9040000+05:30",
-    "hash": "1184101c56bc7e38bf5fd57cbbadbb60",
+    "dtu": "2026-07-18T01:07:50.6830000+05:30",
+    "hash": "23e113b163ad93654f30a0b8cbfa3722",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
