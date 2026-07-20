@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T19:37:50.016Z",
+  "generatedAt": "2026-07-20T20:02:47.338Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 20
+    "day": 21
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 36
+        "QuantidadeDeFases": 38
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -164020,7 +164020,7 @@
             },
             {
               "id": "7a94912e-75e4-4873-a31f-2d6aae0e303f",
-              "clue": "Middle English word for a temple",
+              "clue": "Archaic word for a temple or shrine",
               "answer": "fane",
               "normalized": "fane"
             },
@@ -428251,391 +428251,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-20",
+      "key": "2026-07-21",
       "year": 2026,
       "month": 7,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "16b67b4a-d0ef-4143-b184-c406983a468d",
+        "puzzleId": "34ac9bd9-e0c7-4c4e-bac3-587c2255e51f",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "fe392c47-72a3-4122-b958-3642de80ba77",
-            "clue": "Ask for the impossible, \"cry for the __\"",
-            "answer": "moon",
-            "normalized": "moon"
+            "id": "f6849df7-4412-426c-b3b3-deebdf994234",
+            "clue": "Three-letter country code for Great Britain",
+            "answer": "gbr",
+            "normalized": "gbr"
           },
           {
-            "id": "fea0e888-39ed-43b7-ac55-9caaad49eeef",
-            "clue": "Special minister sent abroad by government",
-            "answer": "envoy",
-            "normalized": "envoy"
+            "id": "739f7b3a-eaf7-427b-af3b-8f27988922dd",
+            "clue": "Former Cuban president, brother of Fidel",
+            "answer": "raul",
+            "normalized": "raul"
           },
           {
-            "id": "ed8a2bc2-0ace-4e8b-b2b8-9fe4326b0e85",
-            "clue": "A step over a fence on the boundary of a field",
-            "answer": "stile",
-            "normalized": "stile"
+            "id": "f2d25d1c-d702-4d50-a2ae-b15ee4ab986b",
+            "clue": "Providing feedback or constructive criticism",
+            "answer": "input",
+            "normalized": "input"
           },
           {
-            "id": "b9d378b3-d59a-470d-a1cc-0a4d547cbc52",
-            "clue": "Christmas giver of gifts to the nice",
-            "answer": "santa",
-            "normalized": "santa"
+            "id": "7b6bf992-8f83-4fc6-8cb3-42234a4597ba",
+            "clue": "Billy Blanks' 1990s workout videos",
+            "answer": "tae bo",
+            "normalized": "taebo"
           },
           {
-            "id": "a096dfd7-fe95-4374-8383-2be36197d0f4",
-            "clue": "Person of same social group as another",
-            "answer": "peer",
-            "normalized": "peer"
+            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
+            "clue": "Require, necessitate",
+            "answer": "need",
+            "normalized": "need"
           },
           {
-            "id": "5dff5a8e-6be1-44b0-bf22-f03b9069b767",
-            "clue": "Disarray, clutter, heaps",
-            "answer": "mess",
-            "normalized": "mess"
+            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
+            "clue": "Autism is formally known as, abbr.",
+            "answer": "asd",
+            "normalized": "asd"
           },
           {
-            "id": "1a5a5a03-ca21-454e-9ed6-4e00bf567ef9",
-            "clue": "Free-flowing, readily available",
-            "answer": "on tap",
-            "normalized": "ontap"
+            "id": "08dcc74f-0034-4450-98bb-0363bbdda7da",
+            "clue": "Tiny piece of stone or courage and perseverance",
+            "answer": "grit",
+            "normalized": "grit"
           },
           {
-            "id": "e77a5cde-2229-4ba3-9dd4-3b3fb679dce5",
-            "clue": "Sheep-like",
-            "answer": "ovine",
-            "normalized": "ovine"
+            "id": "615130a0-fd74-46cf-9ff0-3972d640e2f0",
+            "clue": "A yellow fruit monkeys like",
+            "answer": "banana",
+            "normalized": "banana"
           },
           {
-            "id": "adb75363-daea-490b-ae16-a0c79980a174",
-            "clue": "Prince of Tides and Cape Fear actor Nick",
-            "answer": "nolte",
-            "normalized": "nolte"
+            "id": "cd54f0df-e293-49f6-aab9-efab1ee91ed1",
+            "clue": "Spend these in India or Mauritius",
+            "answer": "rupees",
+            "normalized": "rupees"
           },
           {
-            "id": "f82087a7-ebf4-40ca-ae1b-5a78881ed9aa",
-            "clue": "365 days, usually",
-            "answer": "year",
-            "normalized": "year"
+            "id": "a08e268a-2860-4b9f-a9df-6a23cf659444",
+            "clue": "Oiled, like a bike chain",
+            "answer": "lubed",
+            "normalized": "lubed"
+          },
+          {
+            "id": "0e800f4a-68e2-4e9e-881a-0b24fc7512db",
+            "clue": "The red fox in Disney's The Fox and the Hound",
+            "answer": "tod",
+            "normalized": "tod"
           }
         ],
-        "track": "PC|LenC--Y2026M7D20F0"
+        "track": "PC|LenC--Y2026M7D21F0"
       },
       "mid": {
-        "puzzleId": "a34035e1-6838-4110-b625-f5658f994708",
+        "puzzleId": "cdfba3ab-ef32-4da0-81dd-cd12999ff926",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "0c2e8486-5449-48c3-b814-7fe9522df882",
-            "clue": "Chess piece located at each of the four corners",
-            "answer": "rook",
-            "normalized": "rook"
+            "id": "119fafb7-91a5-4355-9141-492838ad997a",
+            "clue": "Female chicken",
+            "answer": "hen",
+            "normalized": "hen"
           },
           {
-            "id": "91cd3e43-75c6-4f84-92f0-2db71985fc5e",
-            "clue": "Repeat broadcasts of TV series",
-            "answer": "reruns",
-            "normalized": "reruns"
+            "id": "9152ad59-63c5-4326-92e2-50908ba249fe",
+            "clue": "Hollow stones lined with crystals",
+            "answer": "geodes",
+            "normalized": "geodes"
           },
           {
-            "id": "72814e5b-814d-41f1-a6cc-92217dc99a0c",
-            "clue": "Spanish drink mixing red wine and fruits",
-            "answer": "sangria",
-            "normalized": "sangria"
+            "id": "d131f39a-b5c4-4ffb-b515-81b0d65782d6",
+            "clue": "Country where French Fries originated",
+            "answer": "belgium",
+            "normalized": "belgium"
           },
           {
-            "id": "5099c4cc-fd13-4f29-ac71-3e48475c02b2",
-            "clue": "Chief web officer, for short",
-            "answer": "cwo",
-            "normalized": "cwo"
+            "id": "89469b13-d68f-4ed0-91f1-7e213a6914ed",
+            "clue": "Valuable deposit of minerals in a rock formation",
+            "answer": "ore",
+            "normalized": "ore"
           },
           {
-            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
-            "clue": "Australian Football League, in short",
-            "answer": "afl",
-            "normalized": "afl"
+            "id": "1e02b9dd-7d5e-45ee-b6b7-f7c5ef688b43",
+            "clue": "Code of Germany's Frankfurt airport",
+            "answer": "fra",
+            "normalized": "fra"
           },
           {
-            "id": "124dc47f-82c7-4627-bed1-7e9d55040310",
-            "clue": "Dictionary abbreviation for verb-refining words",
-            "answer": "adv",
-            "normalized": "adv"
+            "id": "bd9f827a-5da3-4fcf-b7d3-92bc9b55d798",
+            "clue": "Mixed martial arts are also known as this",
+            "answer": "mma",
+            "normalized": "mma"
           },
           {
-            "id": "48be5933-0406-4e9b-8f85-b322990211e5",
-            "clue": "The edge of a basketball hoop",
-            "answer": "rim",
-            "normalized": "rim"
+            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
+            "clue": "Note scribbled to someone after borrowing money",
+            "answer": "iou",
+            "normalized": "iou"
           },
           {
-            "id": "4dcfb417-51d7-4c47-8ce1-7b4de3471576",
-            "clue": "Very similar, like two legumes, __ pod",
-            "answer": "peas in a",
-            "normalized": "peasina"
+            "id": "058fe786-dd3a-4e0f-b03f-8fab7e6aede7",
+            "clue": "Large cattle species native to Southeast Asia",
+            "answer": "banteng",
+            "normalized": "banteng"
           },
           {
-            "id": "0aa1720b-da18-419b-a1dc-716c6348d4d6",
-            "clue": "Having a meal",
-            "answer": "eating",
-            "normalized": "eating"
+            "id": "1270b916-a421-4fd5-8092-122e5a863a13",
+            "clue": "Hair or beard netting; or woolen hat-scarf combos",
+            "answer": "snoods",
+            "normalized": "snoods"
           },
           {
-            "id": "6e156928-90f2-4597-be57-ddcdd5263dbd",
-            "clue": "Pendergast series book The Cabinet of Dr. __",
-            "answer": "leng",
-            "normalized": "leng"
+            "id": "10e4f7a8-9ff7-401c-9acd-47f3c3fb15f4",
+            "clue": "__ Lanka",
+            "answer": "sri",
+            "normalized": "sri"
           },
           {
-            "id": "1bee6ad8-8891-4b81-a407-3961063b4a66",
-            "clue": "To do up; make improvements to a building",
-            "answer": "renovate",
-            "normalized": "renovate"
+            "id": "f12ebf82-ab76-4bbe-a1cf-bbfc7eb41b71",
+            "clue": "A domesticated pig",
+            "answer": "hog",
+            "normalized": "hog"
           },
           {
-            "id": "fb7cd11e-d96c-4aa2-b090-a59ff8ee98b1",
-            "clue": "Internet domain for a non-profit",
-            "answer": "org",
-            "normalized": "org"
+            "id": "8463d858-bfef-48d3-be62-d8fe6e8c95fb",
+            "clue": "Instructed morally",
+            "answer": "edified",
+            "normalized": "edified"
           },
           {
-            "id": "e6cc0a65-53a2-4f44-9edb-bae98ab8b374",
-            "clue": "Health tracker designed to be worn on your finger",
-            "answer": "oura ring",
-            "normalized": "ouraring"
+            "id": "db06fac7-66df-4a18-922b-438028ed8b5d",
+            "clue": "Nerve cells that transmit information",
+            "answer": "neurons",
+            "normalized": "neurons"
           },
           {
-            "id": "936eefd9-ada8-4de5-b657-637e458d7d4e",
-            "clue": "Stabbing, piercing",
-            "answer": "knifing",
-            "normalized": "knifing"
+            "id": "ff83f00f-2663-4fce-b1f5-2ad3deafda69",
+            "clue": "People from Germany",
+            "answer": "germans",
+            "normalized": "germans"
           },
           {
-            "id": "f9ff896b-0f3d-4787-b5d3-0d5abcc03374",
-            "clue": "Instance of being treated unfairly",
-            "answer": "raw deal",
-            "normalized": "rawdeal"
+            "id": "ca5f23ac-95cf-4ff9-858d-550b9b346201",
+            "clue": "Queen of France who married the King of England",
+            "answer": "eleanor",
+            "normalized": "eleanor"
           },
           {
-            "id": "ce293bd9-c44d-46b0-9aaa-a079221be70a",
-            "clue": "Mexican-American actress and director Hayek",
-            "answer": "salma",
-            "normalized": "salma"
+            "id": "ed70d796-8200-496b-878e-844128656ac5",
+            "clue": "The Hobbit's dragon foe",
+            "answer": "smaug",
+            "normalized": "smaug"
           },
           {
-            "id": "53923ba6-9170-4722-840d-f2a50b16cc2f",
-            "clue": "Five letters completing the words land- or sea-",
-            "answer": "scape",
-            "normalized": "scape"
+            "id": "5b515e06-bc03-47d5-b1a8-14fda389418b",
+            "clue": "Exploding devices",
+            "answer": "bombs",
+            "normalized": "bombs"
           },
           {
-            "id": "71489eae-dcbc-4712-b8a7-e0fe32ec2c3d",
-            "clue": "Immoral act, religiously",
-            "answer": "sin",
-            "normalized": "sin"
+            "id": "7dd234be-327a-4e70-b222-0fc076eb00f4",
+            "clue": "French informal object form of “you”",
+            "answer": "toi",
+            "normalized": "toi"
           }
         ],
-        "track": "PC|LenC--Y2026M7D20F1"
+        "track": "PC|LenC--Y2026M7D21F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-20",
+      "key": "2026-07-21",
       "year": 2026,
       "month": 7,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "16b67b4a-d0ef-4143-b184-c406983a468d",
+        "puzzleId": "34ac9bd9-e0c7-4c4e-bac3-587c2255e51f",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "fe392c47-72a3-4122-b958-3642de80ba77",
-            "clue": "Ask for the impossible, \"cry for the __\"",
-            "answer": "moon",
-            "normalized": "moon"
+            "id": "f6849df7-4412-426c-b3b3-deebdf994234",
+            "clue": "Three-letter country code for Great Britain",
+            "answer": "gbr",
+            "normalized": "gbr"
           },
           {
-            "id": "fea0e888-39ed-43b7-ac55-9caaad49eeef",
-            "clue": "Special minister sent abroad by government",
-            "answer": "envoy",
-            "normalized": "envoy"
+            "id": "739f7b3a-eaf7-427b-af3b-8f27988922dd",
+            "clue": "Former Cuban president, brother of Fidel",
+            "answer": "raul",
+            "normalized": "raul"
           },
           {
-            "id": "ed8a2bc2-0ace-4e8b-b2b8-9fe4326b0e85",
-            "clue": "A step over a fence on the boundary of a field",
-            "answer": "stile",
-            "normalized": "stile"
+            "id": "f2d25d1c-d702-4d50-a2ae-b15ee4ab986b",
+            "clue": "Providing feedback or constructive criticism",
+            "answer": "input",
+            "normalized": "input"
           },
           {
-            "id": "b9d378b3-d59a-470d-a1cc-0a4d547cbc52",
-            "clue": "Christmas giver of gifts to the nice",
-            "answer": "santa",
-            "normalized": "santa"
+            "id": "7b6bf992-8f83-4fc6-8cb3-42234a4597ba",
+            "clue": "Billy Blanks' 1990s workout videos",
+            "answer": "tae bo",
+            "normalized": "taebo"
           },
           {
-            "id": "a096dfd7-fe95-4374-8383-2be36197d0f4",
-            "clue": "Person of same social group as another",
-            "answer": "peer",
-            "normalized": "peer"
+            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
+            "clue": "Require, necessitate",
+            "answer": "need",
+            "normalized": "need"
           },
           {
-            "id": "5dff5a8e-6be1-44b0-bf22-f03b9069b767",
-            "clue": "Disarray, clutter, heaps",
-            "answer": "mess",
-            "normalized": "mess"
+            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
+            "clue": "Autism is formally known as, abbr.",
+            "answer": "asd",
+            "normalized": "asd"
           },
           {
-            "id": "1a5a5a03-ca21-454e-9ed6-4e00bf567ef9",
-            "clue": "Free-flowing, readily available",
-            "answer": "on tap",
-            "normalized": "ontap"
+            "id": "08dcc74f-0034-4450-98bb-0363bbdda7da",
+            "clue": "Tiny piece of stone or courage and perseverance",
+            "answer": "grit",
+            "normalized": "grit"
           },
           {
-            "id": "e77a5cde-2229-4ba3-9dd4-3b3fb679dce5",
-            "clue": "Sheep-like",
-            "answer": "ovine",
-            "normalized": "ovine"
+            "id": "615130a0-fd74-46cf-9ff0-3972d640e2f0",
+            "clue": "A yellow fruit monkeys like",
+            "answer": "banana",
+            "normalized": "banana"
           },
           {
-            "id": "adb75363-daea-490b-ae16-a0c79980a174",
-            "clue": "Prince of Tides and Cape Fear actor Nick",
-            "answer": "nolte",
-            "normalized": "nolte"
+            "id": "cd54f0df-e293-49f6-aab9-efab1ee91ed1",
+            "clue": "Spend these in India or Mauritius",
+            "answer": "rupees",
+            "normalized": "rupees"
           },
           {
-            "id": "f82087a7-ebf4-40ca-ae1b-5a78881ed9aa",
-            "clue": "365 days, usually",
-            "answer": "year",
-            "normalized": "year"
+            "id": "a08e268a-2860-4b9f-a9df-6a23cf659444",
+            "clue": "Oiled, like a bike chain",
+            "answer": "lubed",
+            "normalized": "lubed"
+          },
+          {
+            "id": "0e800f4a-68e2-4e9e-881a-0b24fc7512db",
+            "clue": "The red fox in Disney's The Fox and the Hound",
+            "answer": "tod",
+            "normalized": "tod"
           }
         ],
-        "track": "PC|LenC--Y2026M7D20F0"
+        "track": "PC|LenC--Y2026M7D21F0"
       },
       "mid": {
-        "puzzleId": "a34035e1-6838-4110-b625-f5658f994708",
+        "puzzleId": "cdfba3ab-ef32-4da0-81dd-cd12999ff926",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "0c2e8486-5449-48c3-b814-7fe9522df882",
-            "clue": "Chess piece located at each of the four corners",
-            "answer": "rook",
-            "normalized": "rook"
+            "id": "119fafb7-91a5-4355-9141-492838ad997a",
+            "clue": "Female chicken",
+            "answer": "hen",
+            "normalized": "hen"
           },
           {
-            "id": "91cd3e43-75c6-4f84-92f0-2db71985fc5e",
-            "clue": "Repeat broadcasts of TV series",
-            "answer": "reruns",
-            "normalized": "reruns"
+            "id": "9152ad59-63c5-4326-92e2-50908ba249fe",
+            "clue": "Hollow stones lined with crystals",
+            "answer": "geodes",
+            "normalized": "geodes"
           },
           {
-            "id": "72814e5b-814d-41f1-a6cc-92217dc99a0c",
-            "clue": "Spanish drink mixing red wine and fruits",
-            "answer": "sangria",
-            "normalized": "sangria"
+            "id": "d131f39a-b5c4-4ffb-b515-81b0d65782d6",
+            "clue": "Country where French Fries originated",
+            "answer": "belgium",
+            "normalized": "belgium"
           },
           {
-            "id": "5099c4cc-fd13-4f29-ac71-3e48475c02b2",
-            "clue": "Chief web officer, for short",
-            "answer": "cwo",
-            "normalized": "cwo"
+            "id": "89469b13-d68f-4ed0-91f1-7e213a6914ed",
+            "clue": "Valuable deposit of minerals in a rock formation",
+            "answer": "ore",
+            "normalized": "ore"
           },
           {
-            "id": "bc2226c2-feeb-4e18-9adf-5fafc5821e3c",
-            "clue": "Australian Football League, in short",
-            "answer": "afl",
-            "normalized": "afl"
+            "id": "1e02b9dd-7d5e-45ee-b6b7-f7c5ef688b43",
+            "clue": "Code of Germany's Frankfurt airport",
+            "answer": "fra",
+            "normalized": "fra"
           },
           {
-            "id": "124dc47f-82c7-4627-bed1-7e9d55040310",
-            "clue": "Dictionary abbreviation for verb-refining words",
-            "answer": "adv",
-            "normalized": "adv"
+            "id": "bd9f827a-5da3-4fcf-b7d3-92bc9b55d798",
+            "clue": "Mixed martial arts are also known as this",
+            "answer": "mma",
+            "normalized": "mma"
           },
           {
-            "id": "48be5933-0406-4e9b-8f85-b322990211e5",
-            "clue": "The edge of a basketball hoop",
-            "answer": "rim",
-            "normalized": "rim"
+            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
+            "clue": "Note scribbled to someone after borrowing money",
+            "answer": "iou",
+            "normalized": "iou"
           },
           {
-            "id": "4dcfb417-51d7-4c47-8ce1-7b4de3471576",
-            "clue": "Very similar, like two legumes, __ pod",
-            "answer": "peas in a",
-            "normalized": "peasina"
+            "id": "058fe786-dd3a-4e0f-b03f-8fab7e6aede7",
+            "clue": "Large cattle species native to Southeast Asia",
+            "answer": "banteng",
+            "normalized": "banteng"
           },
           {
-            "id": "0aa1720b-da18-419b-a1dc-716c6348d4d6",
-            "clue": "Having a meal",
-            "answer": "eating",
-            "normalized": "eating"
+            "id": "1270b916-a421-4fd5-8092-122e5a863a13",
+            "clue": "Hair or beard netting; or woolen hat-scarf combos",
+            "answer": "snoods",
+            "normalized": "snoods"
           },
           {
-            "id": "6e156928-90f2-4597-be57-ddcdd5263dbd",
-            "clue": "Pendergast series book The Cabinet of Dr. __",
-            "answer": "leng",
-            "normalized": "leng"
+            "id": "10e4f7a8-9ff7-401c-9acd-47f3c3fb15f4",
+            "clue": "__ Lanka",
+            "answer": "sri",
+            "normalized": "sri"
           },
           {
-            "id": "1bee6ad8-8891-4b81-a407-3961063b4a66",
-            "clue": "To do up; make improvements to a building",
-            "answer": "renovate",
-            "normalized": "renovate"
+            "id": "f12ebf82-ab76-4bbe-a1cf-bbfc7eb41b71",
+            "clue": "A domesticated pig",
+            "answer": "hog",
+            "normalized": "hog"
           },
           {
-            "id": "fb7cd11e-d96c-4aa2-b090-a59ff8ee98b1",
-            "clue": "Internet domain for a non-profit",
-            "answer": "org",
-            "normalized": "org"
+            "id": "8463d858-bfef-48d3-be62-d8fe6e8c95fb",
+            "clue": "Instructed morally",
+            "answer": "edified",
+            "normalized": "edified"
           },
           {
-            "id": "e6cc0a65-53a2-4f44-9edb-bae98ab8b374",
-            "clue": "Health tracker designed to be worn on your finger",
-            "answer": "oura ring",
-            "normalized": "ouraring"
+            "id": "db06fac7-66df-4a18-922b-438028ed8b5d",
+            "clue": "Nerve cells that transmit information",
+            "answer": "neurons",
+            "normalized": "neurons"
           },
           {
-            "id": "936eefd9-ada8-4de5-b657-637e458d7d4e",
-            "clue": "Stabbing, piercing",
-            "answer": "knifing",
-            "normalized": "knifing"
+            "id": "ff83f00f-2663-4fce-b1f5-2ad3deafda69",
+            "clue": "People from Germany",
+            "answer": "germans",
+            "normalized": "germans"
           },
           {
-            "id": "f9ff896b-0f3d-4787-b5d3-0d5abcc03374",
-            "clue": "Instance of being treated unfairly",
-            "answer": "raw deal",
-            "normalized": "rawdeal"
+            "id": "ca5f23ac-95cf-4ff9-858d-550b9b346201",
+            "clue": "Queen of France who married the King of England",
+            "answer": "eleanor",
+            "normalized": "eleanor"
           },
           {
-            "id": "ce293bd9-c44d-46b0-9aaa-a079221be70a",
-            "clue": "Mexican-American actress and director Hayek",
-            "answer": "salma",
-            "normalized": "salma"
+            "id": "ed70d796-8200-496b-878e-844128656ac5",
+            "clue": "The Hobbit's dragon foe",
+            "answer": "smaug",
+            "normalized": "smaug"
           },
           {
-            "id": "53923ba6-9170-4722-840d-f2a50b16cc2f",
-            "clue": "Five letters completing the words land- or sea-",
-            "answer": "scape",
-            "normalized": "scape"
+            "id": "5b515e06-bc03-47d5-b1a8-14fda389418b",
+            "clue": "Exploding devices",
+            "answer": "bombs",
+            "normalized": "bombs"
           },
           {
-            "id": "71489eae-dcbc-4712-b8a7-e0fe32ec2c3d",
-            "clue": "Immoral act, religiously",
-            "answer": "sin",
-            "normalized": "sin"
+            "id": "7dd234be-327a-4e70-b222-0fc076eb00f4",
+            "clue": "French informal object form of “you”",
+            "answer": "toi",
+            "normalized": "toi"
           }
         ],
-        "track": "PC|LenC--Y2026M7D20F1"
+        "track": "PC|LenC--Y2026M7D21F1"
       }
     },
     "latestAvailableEntry": {
@@ -428847,21 +428859,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "Uu0qtGjmuf6DYmHTNdACGEQgwmzAlgiwnozw9r8tmIwapB16dU7TnjNqrHUoOZLh7uvb/UVFvDgM3jYJy9Q2zrsDF7SrTGGVKber/tRLsw3527S+3YL4gZvhCM0K1ssX/xOSuWqdDL4AenU7e79+XhlerplHhdn+sDxWbCrBImVm+paL/jF/8/w46S5iURP7qwyLjueHVtcCx2DCNp8yuv/uzk/GCcLPgdvxso85xW2O93fHbwORf62FUDCI4itPK10M+yEong6TYffpoaXQBbT7Vu9kOy+qKkVB1c0Yef0="
+        "kL13AZiO+QjGnb9NEzVH94D+VV8EeBO73/WsUDCY1cPYUtDSzhgaTypH6+MTS4qYUZBtZHYGpo0H1oN0I/Xy/vXf5vYXcrIImFC1NwNpQHsixPU9cr+IEbOrcsNKTOxqoV1QEbMVlUZ+sT68E9Z+0G9dqf6EGq3K8+JMcRUd07YYY5uKqRUdTisH1qdDRimsEHdtUpwL/L+GZo7zsAgFiKrXBJuVT9o+PET4fy4fkq3Y7nbgbEgjAsJPOXO7P2lYhF0HH/rJ/OJV8560n6TZ7K8XhyOD0S3/OcnTcKm0nXI="
       ]
     },
     "decrypted": {
-      "Id": "94ee8ca0-e8c7-4ae0-b037-37645527fc74",
-      "Date": "2026-07-20T00:00:00Z",
+      "Id": "8ee90315-5bda-4a3a-ba1d-3a6b5ffa00aa",
+      "Date": "2026-07-21T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "flock",
-      "NormalizedPassword": "flock",
+      "Password": "round",
+      "NormalizedPassword": "round",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-20T01:07:50.0160000+05:30",
-    "hash": "3ea1cc18f0e4ccaa64d23d45cfea793a",
+    "dtu": "2026-07-21T01:32:47.3380000+05:30",
+    "hash": "dd56b3a38dbe92f6c46954e9e2375dc6",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
