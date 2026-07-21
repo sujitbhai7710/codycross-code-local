@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T20:02:47.338Z",
+  "generatedAt": "2026-07-21T19:58:25.359Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 21
+    "day": 22
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 38
+        "QuantidadeDeFases": 40
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,403 +428251,499 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-21",
+      "key": "2026-07-22",
       "year": 2026,
       "month": 7,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "34ac9bd9-e0c7-4c4e-bac3-587c2255e51f",
+        "puzzleId": "83245f2f-6cca-47b6-995f-73974fc8bb76",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "f6849df7-4412-426c-b3b3-deebdf994234",
-            "clue": "Three-letter country code for Great Britain",
-            "answer": "gbr",
-            "normalized": "gbr"
+            "id": "5492413f-fe04-4bd0-b9c5-85df28942092",
+            "clue": "This __, huge anthem from The Greatest Showman",
+            "answer": "is me",
+            "normalized": "isme"
           },
           {
-            "id": "739f7b3a-eaf7-427b-af3b-8f27988922dd",
-            "clue": "Former Cuban president, brother of Fidel",
-            "answer": "raul",
-            "normalized": "raul"
+            "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
+            "clue": "Dived to the home plate",
+            "answer": "slid",
+            "normalized": "slid"
           },
           {
-            "id": "f2d25d1c-d702-4d50-a2ae-b15ee4ab986b",
-            "clue": "Providing feedback or constructive criticism",
-            "answer": "input",
-            "normalized": "input"
+            "id": "11a82502-1b8f-4540-b331-9788013075b5",
+            "clue": "Street which features on Sandra Cisneros classic",
+            "answer": "mango",
+            "normalized": "mango"
           },
           {
-            "id": "7b6bf992-8f83-4fc6-8cb3-42234a4597ba",
-            "clue": "Billy Blanks' 1990s workout videos",
-            "answer": "tae bo",
-            "normalized": "taebo"
+            "id": "2d3cb4f1-14f7-461e-9074-59de0605f76f",
+            "clue": "Global retailer known for its furniture",
+            "answer": "ikea",
+            "normalized": "ikea"
           },
           {
-            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
-            "clue": "Require, necessitate",
-            "answer": "need",
-            "normalized": "need"
+            "id": "873e87f3-3be0-44aa-9984-68235edef76a",
+            "clue": "Bird's home, perhaps made with sticks",
+            "answer": "nest",
+            "normalized": "nest"
           },
           {
-            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-            "clue": "Autism is formally known as, abbr.",
-            "answer": "asd",
-            "normalized": "asd"
+            "id": "317b0f11-140d-4db5-b166-7201bbfc660a",
+            "clue": "Denoting an ideology or doctrine",
+            "answer": "ism",
+            "normalized": "ism"
           },
           {
-            "id": "08dcc74f-0034-4450-98bb-0363bbdda7da",
-            "clue": "Tiny piece of stone or courage and perseverance",
-            "answer": "grit",
-            "normalized": "grit"
+            "id": "ec6b711a-b262-4f1c-9be6-dd360a527c7d",
+            "clue": "Killed, like a dragon or by an enemy in a duel",
+            "answer": "slain",
+            "normalized": "slain"
           },
           {
-            "id": "615130a0-fd74-46cf-9ff0-3972d640e2f0",
-            "clue": "A yellow fruit monkeys like",
-            "answer": "banana",
-            "normalized": "banana"
+            "id": "6fd22444-f9dd-43a3-9083-0c19f5b1b47e",
+            "clue": "Second smallest baleen whale in the world",
+            "answer": "minke",
+            "normalized": "minke"
           },
           {
-            "id": "cd54f0df-e293-49f6-aab9-efab1ee91ed1",
-            "clue": "Spend these in India or Mauritius",
-            "answer": "rupees",
-            "normalized": "rupees"
+            "id": "3fb78fe8-95d6-47a6-8c0f-2fddeb5fa2d8",
+            "clue": "Borders of a lawn",
+            "answer": "edges",
+            "normalized": "edges"
           },
           {
-            "id": "a08e268a-2860-4b9f-a9df-6a23cf659444",
-            "clue": "Oiled, like a bike chain",
-            "answer": "lubed",
-            "normalized": "lubed"
-          },
-          {
-            "id": "0e800f4a-68e2-4e9e-881a-0b24fc7512db",
-            "clue": "The red fox in Disney's The Fox and the Hound",
-            "answer": "tod",
-            "normalized": "tod"
+            "id": "abc98961-7e85-42f0-9078-b8297afc2e7c",
+            "clue": "A grain plant used in hot cereal and animal feed",
+            "answer": "oat",
+            "normalized": "oat"
           }
         ],
-        "track": "PC|LenC--Y2026M7D21F0"
+        "track": "PC|LenC--Y2026M7D22F0"
       },
       "mid": {
-        "puzzleId": "cdfba3ab-ef32-4da0-81dd-cd12999ff926",
+        "puzzleId": "f74fb789-3b08-42d6-8661-59c343cc7e6b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "119fafb7-91a5-4355-9141-492838ad997a",
-            "clue": "Female chicken",
-            "answer": "hen",
-            "normalized": "hen"
+            "id": "60e7e9d7-c07f-4d5c-8aa2-f5abd77d0cfc",
+            "clue": "Sesame Street's lovable, ticklish, red monster",
+            "answer": "elmo",
+            "normalized": "elmo"
           },
           {
-            "id": "9152ad59-63c5-4326-92e2-50908ba249fe",
-            "clue": "Hollow stones lined with crystals",
-            "answer": "geodes",
-            "normalized": "geodes"
+            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
+            "clue": "TV commercials",
+            "answer": "ads",
+            "normalized": "ads"
           },
           {
-            "id": "d131f39a-b5c4-4ffb-b515-81b0d65782d6",
-            "clue": "Country where French Fries originated",
-            "answer": "belgium",
-            "normalized": "belgium"
+            "id": "0c2ccf3f-831f-43d0-b55d-bccbabd2438d",
+            "clue": "Vital link between cerebellum and spinal cord",
+            "answer": "brain stem",
+            "normalized": "brainstem"
           },
           {
-            "id": "89469b13-d68f-4ed0-91f1-7e213a6914ed",
-            "clue": "Valuable deposit of minerals in a rock formation",
-            "answer": "ore",
-            "normalized": "ore"
+            "id": "b1f30786-6d41-4438-aace-a6b5f8a04e0b",
+            "clue": "__ Kids, a \"not sweet\" movie candy staple",
+            "answer": "sour patch",
+            "normalized": "sourpatch"
           },
           {
-            "id": "1e02b9dd-7d5e-45ee-b6b7-f7c5ef688b43",
-            "clue": "Code of Germany's Frankfurt airport",
-            "answer": "fra",
-            "normalized": "fra"
+            "id": "de9bf080-9b56-4705-b8e0-0b1e7fa812b8",
+            "clue": "Psychologist Timothy Leary advocated its use",
+            "answer": "lsd",
+            "normalized": "lsd"
           },
           {
-            "id": "bd9f827a-5da3-4fcf-b7d3-92bc9b55d798",
-            "clue": "Mixed martial arts are also known as this",
-            "answer": "mma",
-            "normalized": "mma"
+            "id": "00b467e4-2c16-4028-8293-0345112f348e",
+            "clue": "French for (male) friend",
+            "answer": "ami",
+            "normalized": "ami"
           },
           {
-            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
-            "clue": "Note scribbled to someone after borrowing money",
-            "answer": "iou",
-            "normalized": "iou"
+            "id": "3e57044f-fe93-44e6-ab61-3bc0416303d2",
+            "clue": "What the wind blows",
+            "answer": "air",
+            "normalized": "air"
           },
           {
-            "id": "058fe786-dd3a-4e0f-b03f-8fab7e6aede7",
-            "clue": "Large cattle species native to Southeast Asia",
-            "answer": "banteng",
-            "normalized": "banteng"
+            "id": "404f526a-b0a2-4336-a50f-1c398f7670ee",
+            "clue": "Internet slang for rolling my eyes",
+            "answer": "rme",
+            "normalized": "rme"
           },
           {
-            "id": "1270b916-a421-4fd5-8092-122e5a863a13",
-            "clue": "Hair or beard netting; or woolen hat-scarf combos",
-            "answer": "snoods",
-            "normalized": "snoods"
+            "id": "4580f4a4-64ab-465f-afd5-3b8bfbd68ea0",
+            "clue": "Americans who call Montgomery their capital",
+            "answer": "alabamian",
+            "normalized": "alabamian"
           },
           {
-            "id": "10e4f7a8-9ff7-401c-9acd-47f3c3fb15f4",
-            "clue": "__ Lanka",
-            "answer": "sri",
-            "normalized": "sri"
+            "id": "8eb662d6-208d-43f6-b637-c832ac0ae106",
+            "clue": "Performance to make water fall from the sky",
+            "answer": "rain dance",
+            "normalized": "raindance"
           },
           {
-            "id": "f12ebf82-ab76-4bbe-a1cf-bbfc7eb41b71",
-            "clue": "A domesticated pig",
-            "answer": "hog",
-            "normalized": "hog"
+            "id": "7d048e47-8378-4108-b309-d5398c9924ec",
+            "clue": "Freestanding rocky hill or peak",
+            "answer": "tor",
+            "normalized": "tor"
           },
           {
-            "id": "8463d858-bfef-48d3-be62-d8fe6e8c95fb",
-            "clue": "Instructed morally",
-            "answer": "edified",
-            "normalized": "edified"
+            "id": "189d683e-6427-4639-9537-44242173b3c4",
+            "clue": "Sharp in style and mood",
+            "answer": "edgy",
+            "normalized": "edgy"
           },
           {
-            "id": "db06fac7-66df-4a18-922b-438028ed8b5d",
-            "clue": "Nerve cells that transmit information",
-            "answer": "neurons",
-            "normalized": "neurons"
+            "id": "843305c2-039d-47de-adb4-9c9ce300d331",
+            "clue": "Greek god of love, the counterpart of Cupid",
+            "answer": "eros",
+            "normalized": "eros"
           },
           {
-            "id": "ff83f00f-2663-4fce-b1f5-2ad3deafda69",
-            "clue": "People from Germany",
-            "answer": "germans",
-            "normalized": "germans"
+            "id": "6c8cf633-50a7-4c06-a998-8ef265bad97f",
+            "clue": "Austrian carrier, owned by an F1 champion",
+            "answer": "lauda air",
+            "normalized": "laudaair"
           },
           {
-            "id": "ca5f23ac-95cf-4ff9-858d-550b9b346201",
-            "clue": "Queen of France who married the King of England",
-            "answer": "eleanor",
-            "normalized": "eleanor"
+            "id": "b282bd12-e29a-4c83-b9c6-4073e2ae02e8",
+            "clue": "Soviet space station, largest of its time",
+            "answer": "mir",
+            "normalized": "mir"
           },
           {
-            "id": "ed70d796-8200-496b-878e-844128656ac5",
-            "clue": "The Hobbit's dragon foe",
-            "answer": "smaug",
-            "normalized": "smaug"
+            "id": "e846f0cb-0f61-407b-bdf9-8be7f1c806f7",
+            "clue": "Dumbo's marching pink elephants were __",
+            "answer": "on parade",
+            "normalized": "onparade"
           },
           {
-            "id": "5b515e06-bc03-47d5-b1a8-14fda389418b",
-            "clue": "Exploding devices",
-            "answer": "bombs",
-            "normalized": "bombs"
+            "id": "9d3d6481-233d-4623-9052-a1e660e35159",
+            "clue": "Providing clothes for",
+            "answer": "attiring",
+            "normalized": "attiring"
           },
           {
-            "id": "7dd234be-327a-4e70-b222-0fc076eb00f4",
-            "clue": "French informal object form of “you”",
-            "answer": "toi",
-            "normalized": "toi"
+            "id": "07ddac76-87c1-4022-85b9-f2a035b9b71d",
+            "clue": "Short form of New Year's Eve month",
+            "answer": "dec",
+            "normalized": "dec"
+          },
+          {
+            "id": "ef64fd03-4d84-4e0a-a49a-f247a620d7ef",
+            "clue": "Shaking my head, in text",
+            "answer": "smh",
+            "normalized": "smh"
+          },
+          {
+            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
+            "clue": "Many deaf people use this language in the UK",
+            "answer": "bsl",
+            "normalized": "bsl"
+          },
+          {
+            "id": "92d48f0e-28db-4a32-930e-f6b4b868dbc2",
+            "clue": "You Send Me singer Cooke",
+            "answer": "sam",
+            "normalized": "sam"
+          },
+          {
+            "id": "0b015c34-7ffe-4c83-9be3-082164657be6",
+            "clue": "Seen in Arabic names, meaning \"son of\"",
+            "answer": "ibn",
+            "normalized": "ibn"
+          },
+          {
+            "id": "8936d423-6db8-45e6-82b7-6befa2b37b1c",
+            "clue": "William __ or __ Gray",
+            "answer": "macy",
+            "normalized": "macy"
+          },
+          {
+            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
+            "clue": "East-northeast for short",
+            "answer": "ene",
+            "normalized": "ene"
+          },
+          {
+            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
+            "clue": "Paintings, sculptures, and more",
+            "answer": "art",
+            "normalized": "art"
+          },
+          {
+            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
+            "clue": "Relating to the country with Vientiane as capital",
+            "answer": "lao",
+            "normalized": "lao"
+          },
+          {
+            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
+            "clue": "Angry",
+            "answer": "mad",
+            "normalized": "mad"
           }
         ],
-        "track": "PC|LenC--Y2026M7D21F1"
+        "track": "PC|LenC--Y2026M7D22F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-21",
+      "key": "2026-07-22",
       "year": 2026,
       "month": 7,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "34ac9bd9-e0c7-4c4e-bac3-587c2255e51f",
+        "puzzleId": "83245f2f-6cca-47b6-995f-73974fc8bb76",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "f6849df7-4412-426c-b3b3-deebdf994234",
-            "clue": "Three-letter country code for Great Britain",
-            "answer": "gbr",
-            "normalized": "gbr"
+            "id": "5492413f-fe04-4bd0-b9c5-85df28942092",
+            "clue": "This __, huge anthem from The Greatest Showman",
+            "answer": "is me",
+            "normalized": "isme"
           },
           {
-            "id": "739f7b3a-eaf7-427b-af3b-8f27988922dd",
-            "clue": "Former Cuban president, brother of Fidel",
-            "answer": "raul",
-            "normalized": "raul"
+            "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
+            "clue": "Dived to the home plate",
+            "answer": "slid",
+            "normalized": "slid"
           },
           {
-            "id": "f2d25d1c-d702-4d50-a2ae-b15ee4ab986b",
-            "clue": "Providing feedback or constructive criticism",
-            "answer": "input",
-            "normalized": "input"
+            "id": "11a82502-1b8f-4540-b331-9788013075b5",
+            "clue": "Street which features on Sandra Cisneros classic",
+            "answer": "mango",
+            "normalized": "mango"
           },
           {
-            "id": "7b6bf992-8f83-4fc6-8cb3-42234a4597ba",
-            "clue": "Billy Blanks' 1990s workout videos",
-            "answer": "tae bo",
-            "normalized": "taebo"
+            "id": "2d3cb4f1-14f7-461e-9074-59de0605f76f",
+            "clue": "Global retailer known for its furniture",
+            "answer": "ikea",
+            "normalized": "ikea"
           },
           {
-            "id": "9029a69b-3f9d-4b59-adf5-a2db3860e10d",
-            "clue": "Require, necessitate",
-            "answer": "need",
-            "normalized": "need"
+            "id": "873e87f3-3be0-44aa-9984-68235edef76a",
+            "clue": "Bird's home, perhaps made with sticks",
+            "answer": "nest",
+            "normalized": "nest"
           },
           {
-            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-            "clue": "Autism is formally known as, abbr.",
-            "answer": "asd",
-            "normalized": "asd"
+            "id": "317b0f11-140d-4db5-b166-7201bbfc660a",
+            "clue": "Denoting an ideology or doctrine",
+            "answer": "ism",
+            "normalized": "ism"
           },
           {
-            "id": "08dcc74f-0034-4450-98bb-0363bbdda7da",
-            "clue": "Tiny piece of stone or courage and perseverance",
-            "answer": "grit",
-            "normalized": "grit"
+            "id": "ec6b711a-b262-4f1c-9be6-dd360a527c7d",
+            "clue": "Killed, like a dragon or by an enemy in a duel",
+            "answer": "slain",
+            "normalized": "slain"
           },
           {
-            "id": "615130a0-fd74-46cf-9ff0-3972d640e2f0",
-            "clue": "A yellow fruit monkeys like",
-            "answer": "banana",
-            "normalized": "banana"
+            "id": "6fd22444-f9dd-43a3-9083-0c19f5b1b47e",
+            "clue": "Second smallest baleen whale in the world",
+            "answer": "minke",
+            "normalized": "minke"
           },
           {
-            "id": "cd54f0df-e293-49f6-aab9-efab1ee91ed1",
-            "clue": "Spend these in India or Mauritius",
-            "answer": "rupees",
-            "normalized": "rupees"
+            "id": "3fb78fe8-95d6-47a6-8c0f-2fddeb5fa2d8",
+            "clue": "Borders of a lawn",
+            "answer": "edges",
+            "normalized": "edges"
           },
           {
-            "id": "a08e268a-2860-4b9f-a9df-6a23cf659444",
-            "clue": "Oiled, like a bike chain",
-            "answer": "lubed",
-            "normalized": "lubed"
-          },
-          {
-            "id": "0e800f4a-68e2-4e9e-881a-0b24fc7512db",
-            "clue": "The red fox in Disney's The Fox and the Hound",
-            "answer": "tod",
-            "normalized": "tod"
+            "id": "abc98961-7e85-42f0-9078-b8297afc2e7c",
+            "clue": "A grain plant used in hot cereal and animal feed",
+            "answer": "oat",
+            "normalized": "oat"
           }
         ],
-        "track": "PC|LenC--Y2026M7D21F0"
+        "track": "PC|LenC--Y2026M7D22F0"
       },
       "mid": {
-        "puzzleId": "cdfba3ab-ef32-4da0-81dd-cd12999ff926",
+        "puzzleId": "f74fb789-3b08-42d6-8661-59c343cc7e6b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "119fafb7-91a5-4355-9141-492838ad997a",
-            "clue": "Female chicken",
-            "answer": "hen",
-            "normalized": "hen"
+            "id": "60e7e9d7-c07f-4d5c-8aa2-f5abd77d0cfc",
+            "clue": "Sesame Street's lovable, ticklish, red monster",
+            "answer": "elmo",
+            "normalized": "elmo"
           },
           {
-            "id": "9152ad59-63c5-4326-92e2-50908ba249fe",
-            "clue": "Hollow stones lined with crystals",
-            "answer": "geodes",
-            "normalized": "geodes"
+            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
+            "clue": "TV commercials",
+            "answer": "ads",
+            "normalized": "ads"
           },
           {
-            "id": "d131f39a-b5c4-4ffb-b515-81b0d65782d6",
-            "clue": "Country where French Fries originated",
-            "answer": "belgium",
-            "normalized": "belgium"
+            "id": "0c2ccf3f-831f-43d0-b55d-bccbabd2438d",
+            "clue": "Vital link between cerebellum and spinal cord",
+            "answer": "brain stem",
+            "normalized": "brainstem"
           },
           {
-            "id": "89469b13-d68f-4ed0-91f1-7e213a6914ed",
-            "clue": "Valuable deposit of minerals in a rock formation",
-            "answer": "ore",
-            "normalized": "ore"
+            "id": "b1f30786-6d41-4438-aace-a6b5f8a04e0b",
+            "clue": "__ Kids, a \"not sweet\" movie candy staple",
+            "answer": "sour patch",
+            "normalized": "sourpatch"
           },
           {
-            "id": "1e02b9dd-7d5e-45ee-b6b7-f7c5ef688b43",
-            "clue": "Code of Germany's Frankfurt airport",
-            "answer": "fra",
-            "normalized": "fra"
+            "id": "de9bf080-9b56-4705-b8e0-0b1e7fa812b8",
+            "clue": "Psychologist Timothy Leary advocated its use",
+            "answer": "lsd",
+            "normalized": "lsd"
           },
           {
-            "id": "bd9f827a-5da3-4fcf-b7d3-92bc9b55d798",
-            "clue": "Mixed martial arts are also known as this",
-            "answer": "mma",
-            "normalized": "mma"
+            "id": "00b467e4-2c16-4028-8293-0345112f348e",
+            "clue": "French for (male) friend",
+            "answer": "ami",
+            "normalized": "ami"
           },
           {
-            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
-            "clue": "Note scribbled to someone after borrowing money",
-            "answer": "iou",
-            "normalized": "iou"
+            "id": "3e57044f-fe93-44e6-ab61-3bc0416303d2",
+            "clue": "What the wind blows",
+            "answer": "air",
+            "normalized": "air"
           },
           {
-            "id": "058fe786-dd3a-4e0f-b03f-8fab7e6aede7",
-            "clue": "Large cattle species native to Southeast Asia",
-            "answer": "banteng",
-            "normalized": "banteng"
+            "id": "404f526a-b0a2-4336-a50f-1c398f7670ee",
+            "clue": "Internet slang for rolling my eyes",
+            "answer": "rme",
+            "normalized": "rme"
           },
           {
-            "id": "1270b916-a421-4fd5-8092-122e5a863a13",
-            "clue": "Hair or beard netting; or woolen hat-scarf combos",
-            "answer": "snoods",
-            "normalized": "snoods"
+            "id": "4580f4a4-64ab-465f-afd5-3b8bfbd68ea0",
+            "clue": "Americans who call Montgomery their capital",
+            "answer": "alabamian",
+            "normalized": "alabamian"
           },
           {
-            "id": "10e4f7a8-9ff7-401c-9acd-47f3c3fb15f4",
-            "clue": "__ Lanka",
-            "answer": "sri",
-            "normalized": "sri"
+            "id": "8eb662d6-208d-43f6-b637-c832ac0ae106",
+            "clue": "Performance to make water fall from the sky",
+            "answer": "rain dance",
+            "normalized": "raindance"
           },
           {
-            "id": "f12ebf82-ab76-4bbe-a1cf-bbfc7eb41b71",
-            "clue": "A domesticated pig",
-            "answer": "hog",
-            "normalized": "hog"
+            "id": "7d048e47-8378-4108-b309-d5398c9924ec",
+            "clue": "Freestanding rocky hill or peak",
+            "answer": "tor",
+            "normalized": "tor"
           },
           {
-            "id": "8463d858-bfef-48d3-be62-d8fe6e8c95fb",
-            "clue": "Instructed morally",
-            "answer": "edified",
-            "normalized": "edified"
+            "id": "189d683e-6427-4639-9537-44242173b3c4",
+            "clue": "Sharp in style and mood",
+            "answer": "edgy",
+            "normalized": "edgy"
           },
           {
-            "id": "db06fac7-66df-4a18-922b-438028ed8b5d",
-            "clue": "Nerve cells that transmit information",
-            "answer": "neurons",
-            "normalized": "neurons"
+            "id": "843305c2-039d-47de-adb4-9c9ce300d331",
+            "clue": "Greek god of love, the counterpart of Cupid",
+            "answer": "eros",
+            "normalized": "eros"
           },
           {
-            "id": "ff83f00f-2663-4fce-b1f5-2ad3deafda69",
-            "clue": "People from Germany",
-            "answer": "germans",
-            "normalized": "germans"
+            "id": "6c8cf633-50a7-4c06-a998-8ef265bad97f",
+            "clue": "Austrian carrier, owned by an F1 champion",
+            "answer": "lauda air",
+            "normalized": "laudaair"
           },
           {
-            "id": "ca5f23ac-95cf-4ff9-858d-550b9b346201",
-            "clue": "Queen of France who married the King of England",
-            "answer": "eleanor",
-            "normalized": "eleanor"
+            "id": "b282bd12-e29a-4c83-b9c6-4073e2ae02e8",
+            "clue": "Soviet space station, largest of its time",
+            "answer": "mir",
+            "normalized": "mir"
           },
           {
-            "id": "ed70d796-8200-496b-878e-844128656ac5",
-            "clue": "The Hobbit's dragon foe",
-            "answer": "smaug",
-            "normalized": "smaug"
+            "id": "e846f0cb-0f61-407b-bdf9-8be7f1c806f7",
+            "clue": "Dumbo's marching pink elephants were __",
+            "answer": "on parade",
+            "normalized": "onparade"
           },
           {
-            "id": "5b515e06-bc03-47d5-b1a8-14fda389418b",
-            "clue": "Exploding devices",
-            "answer": "bombs",
-            "normalized": "bombs"
+            "id": "9d3d6481-233d-4623-9052-a1e660e35159",
+            "clue": "Providing clothes for",
+            "answer": "attiring",
+            "normalized": "attiring"
           },
           {
-            "id": "7dd234be-327a-4e70-b222-0fc076eb00f4",
-            "clue": "French informal object form of “you”",
-            "answer": "toi",
-            "normalized": "toi"
+            "id": "07ddac76-87c1-4022-85b9-f2a035b9b71d",
+            "clue": "Short form of New Year's Eve month",
+            "answer": "dec",
+            "normalized": "dec"
+          },
+          {
+            "id": "ef64fd03-4d84-4e0a-a49a-f247a620d7ef",
+            "clue": "Shaking my head, in text",
+            "answer": "smh",
+            "normalized": "smh"
+          },
+          {
+            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
+            "clue": "Many deaf people use this language in the UK",
+            "answer": "bsl",
+            "normalized": "bsl"
+          },
+          {
+            "id": "92d48f0e-28db-4a32-930e-f6b4b868dbc2",
+            "clue": "You Send Me singer Cooke",
+            "answer": "sam",
+            "normalized": "sam"
+          },
+          {
+            "id": "0b015c34-7ffe-4c83-9be3-082164657be6",
+            "clue": "Seen in Arabic names, meaning \"son of\"",
+            "answer": "ibn",
+            "normalized": "ibn"
+          },
+          {
+            "id": "8936d423-6db8-45e6-82b7-6befa2b37b1c",
+            "clue": "William __ or __ Gray",
+            "answer": "macy",
+            "normalized": "macy"
+          },
+          {
+            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
+            "clue": "East-northeast for short",
+            "answer": "ene",
+            "normalized": "ene"
+          },
+          {
+            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
+            "clue": "Paintings, sculptures, and more",
+            "answer": "art",
+            "normalized": "art"
+          },
+          {
+            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
+            "clue": "Relating to the country with Vientiane as capital",
+            "answer": "lao",
+            "normalized": "lao"
+          },
+          {
+            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
+            "clue": "Angry",
+            "answer": "mad",
+            "normalized": "mad"
           }
         ],
-        "track": "PC|LenC--Y2026M7D21F1"
+        "track": "PC|LenC--Y2026M7D22F1"
       }
     },
     "latestAvailableEntry": {
@@ -428859,21 +428955,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "kL13AZiO+QjGnb9NEzVH94D+VV8EeBO73/WsUDCY1cPYUtDSzhgaTypH6+MTS4qYUZBtZHYGpo0H1oN0I/Xy/vXf5vYXcrIImFC1NwNpQHsixPU9cr+IEbOrcsNKTOxqoV1QEbMVlUZ+sT68E9Z+0G9dqf6EGq3K8+JMcRUd07YYY5uKqRUdTisH1qdDRimsEHdtUpwL/L+GZo7zsAgFiKrXBJuVT9o+PET4fy4fkq3Y7nbgbEgjAsJPOXO7P2lYhF0HH/rJ/OJV8560n6TZ7K8XhyOD0S3/OcnTcKm0nXI="
+        "xYSTjrxdkceJc9z80wjUGdLInwTfW20kZXMFivXcLy3dA/k8h/e4V4nofOqPtcPC6HgexhtXPAmaTtPdyrUMJDT3Bb80lue/jFRzVSgIOXbxbdowrRfwoQohoKM7l18atTBb4QsVcXpd0bDDY+9j4B2mQEpQ9l6GMseLEX8lJGRvPMsF28MEzEV905Z/mF1u94EIi7NqjnoFtlGciJN3/K+6CXn3vfBWukYLHUR0mL3ClVWm+BgCoF5VEaQja6hE8VmdADoDNkaZ2v3SLg7dRbrgR1Jr2zZ0yGgy4Vuhsyo="
       ]
     },
     "decrypted": {
-      "Id": "8ee90315-5bda-4a3a-ba1d-3a6b5ffa00aa",
-      "Date": "2026-07-21T00:00:00Z",
+      "Id": "b3537737-ce64-4638-b991-418fd74dc18c",
+      "Date": "2026-07-22T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "round",
-      "NormalizedPassword": "round",
+      "Password": "basil",
+      "NormalizedPassword": "basil",
       "MaxGuesses": 6,
       "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-21T01:32:47.3380000+05:30",
-    "hash": "dd56b3a38dbe92f6c46954e9e2375dc6",
+    "dtu": "2026-07-22T01:28:25.3590000+05:30",
+    "hash": "a58de6ba8c4c4e65da2529053224550c",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
