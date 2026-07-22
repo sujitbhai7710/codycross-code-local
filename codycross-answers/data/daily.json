@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T19:58:25.359Z",
+  "generatedAt": "2026-07-22T19:51:00.628Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 22
+    "day": 23
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 40
+        "QuantidadeDeFases": 42
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,499 +428251,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-22",
+      "key": "2026-07-23",
       "year": 2026,
       "month": 7,
-      "day": 22,
+      "day": 23,
       "small": {
-        "puzzleId": "83245f2f-6cca-47b6-995f-73974fc8bb76",
+        "puzzleId": "ea05ab45-cff9-4664-85d4-cb1b667533ed",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "5492413f-fe04-4bd0-b9c5-85df28942092",
-            "clue": "This __, huge anthem from The Greatest Showman",
-            "answer": "is me",
-            "normalized": "isme"
+            "id": "f13d7561-a7ed-41da-9c56-9e7f578bb859",
+            "clue": "Temperature of cross buns in a song",
+            "answer": "hot",
+            "normalized": "hot"
           },
           {
-            "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-            "clue": "Dived to the home plate",
-            "answer": "slid",
-            "normalized": "slid"
+            "id": "1ba764b5-4ecb-4767-abac-a52678ee9482",
+            "clue": "Dark or thick mist",
+            "answer": "murk",
+            "normalized": "murk"
           },
           {
-            "id": "11a82502-1b8f-4540-b331-9788013075b5",
-            "clue": "Street which features on Sandra Cisneros classic",
-            "answer": "mango",
-            "normalized": "mango"
+            "id": "555b2357-8cd9-43cd-9590-ace110fbe90d",
+            "clue": "Expression, __ or lose it",
+            "answer": "use it",
+            "normalized": "useit"
           },
           {
-            "id": "2d3cb4f1-14f7-461e-9074-59de0605f76f",
-            "clue": "Global retailer known for its furniture",
-            "answer": "ikea",
-            "normalized": "ikea"
+            "id": "41ae17bc-7164-4f0b-8e6f-1d5c3cd66f9b",
+            "clue": "Transcutaneous Electrical Nerve Stimulation",
+            "answer": "tens",
+            "normalized": "tens"
           },
           {
-            "id": "873e87f3-3be0-44aa-9984-68235edef76a",
-            "clue": "Bird's home, perhaps made with sticks",
-            "answer": "nest",
-            "normalized": "nest"
+            "id": "c82f5ad3-a1bc-4f6b-bda3-f4780e723a21",
+            "clue": "Abbreviation for month that was once seventh",
+            "answer": "sep",
+            "normalized": "sep"
           },
           {
-            "id": "317b0f11-140d-4db5-b166-7201bbfc660a",
-            "clue": "Denoting an ideology or doctrine",
-            "answer": "ism",
-            "normalized": "ism"
+            "id": "f147b1b6-83c7-48ec-96f4-d5bafade7ef3",
+            "clue": "Internet slang to tell someone to call you",
+            "answer": "hmu",
+            "normalized": "hmu"
           },
           {
-            "id": "ec6b711a-b262-4f1c-9be6-dd360a527c7d",
-            "clue": "Killed, like a dragon or by an enemy in a duel",
-            "answer": "slain",
-            "normalized": "slain"
+            "id": "71d82218-985f-4d29-8bd4-71223292da78",
+            "clue": "Expel, force out",
+            "answer": "oust",
+            "normalized": "oust"
           },
           {
-            "id": "6fd22444-f9dd-43a3-9083-0c19f5b1b47e",
-            "clue": "Second smallest baleen whale in the world",
-            "answer": "minke",
-            "normalized": "minke"
+            "id": "91535788-5f68-46b4-9d35-035ce97c9723",
+            "clue": "Can't see the forest for the __",
+            "answer": "trees",
+            "normalized": "trees"
           },
           {
-            "id": "3fb78fe8-95d6-47a6-8c0f-2fddeb5fa2d8",
-            "clue": "Borders of a lawn",
-            "answer": "edges",
-            "normalized": "edges"
+            "id": "e06bbac0-840e-43b7-9ed4-be0948130b4c",
+            "clue": "Archaic word for cattle",
+            "answer": "kine",
+            "normalized": "kine"
           },
           {
-            "id": "abc98961-7e85-42f0-9078-b8297afc2e7c",
-            "clue": "A grain plant used in hot cereal and animal feed",
-            "answer": "oat",
-            "normalized": "oat"
+            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
+            "clue": "Abbreviation for small spoon measure in baking",
+            "answer": "tsp",
+            "normalized": "tsp"
           }
         ],
-        "track": "PC|LenC--Y2026M7D22F0"
+        "track": "PC|LenC--Y2026M7D23F0"
       },
       "mid": {
-        "puzzleId": "f74fb789-3b08-42d6-8661-59c343cc7e6b",
+        "puzzleId": "53eb72b6-4ed1-4463-a5b0-a8dfde2e1db8",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "60e7e9d7-c07f-4d5c-8aa2-f5abd77d0cfc",
-            "clue": "Sesame Street's lovable, ticklish, red monster",
-            "answer": "elmo",
-            "normalized": "elmo"
+            "id": "9faa89ce-37ee-495d-a27f-3baf4bf71862",
+            "clue": "Kiss, hug, kiss, hug",
+            "answer": "xoxo",
+            "normalized": "xoxo"
           },
           {
-            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
-            "clue": "TV commercials",
-            "answer": "ads",
-            "normalized": "ads"
+            "id": "0a07107f-40df-4ffb-84c5-aabe767c1eb4",
+            "clue": "Chinese Chairman with a Little Red Book",
+            "answer": "mao",
+            "normalized": "mao"
           },
           {
-            "id": "0c2ccf3f-831f-43d0-b55d-bccbabd2438d",
-            "clue": "Vital link between cerebellum and spinal cord",
-            "answer": "brain stem",
-            "normalized": "brainstem"
+            "id": "a254b10d-3981-4d20-a07d-0dbce44b5843",
+            "clue": "A large area of land covered with ice",
+            "answer": "ice field",
+            "normalized": "icefield"
           },
           {
-            "id": "b1f30786-6d41-4438-aace-a6b5f8a04e0b",
-            "clue": "__ Kids, a \"not sweet\" movie candy staple",
-            "answer": "sour patch",
-            "normalized": "sourpatch"
+            "id": "62945a2f-1886-46d9-a792-b41be5728026",
+            "clue": "Annoy, pester",
+            "answer": "irritate",
+            "normalized": "irritate"
           },
           {
-            "id": "de9bf080-9b56-4705-b8e0-0b1e7fa812b8",
-            "clue": "Psychologist Timothy Leary advocated its use",
-            "answer": "lsd",
-            "normalized": "lsd"
+            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
+            "clue": "Relating to the mouth, anatomically",
+            "answer": "oral",
+            "normalized": "oral"
           },
           {
-            "id": "00b467e4-2c16-4028-8293-0345112f348e",
-            "clue": "French for (male) friend",
-            "answer": "ami",
-            "normalized": "ami"
+            "id": "4da30e29-36a5-4d8f-b770-d93a467e95af",
+            "clue": "Study of human physical growth",
+            "answer": "auxology",
+            "normalized": "auxology"
           },
           {
-            "id": "3e57044f-fe93-44e6-ab61-3bc0416303d2",
-            "clue": "What the wind blows",
-            "answer": "air",
-            "normalized": "air"
+            "id": "01cbed55-ce05-4053-86f8-8ff584e5f316",
+            "clue": "Dressed to __; being all dressed up and spiffy",
+            "answer": "the nines",
+            "normalized": "thenines"
           },
           {
-            "id": "404f526a-b0a2-4336-a50f-1c398f7670ee",
-            "clue": "Internet slang for rolling my eyes",
-            "answer": "rme",
-            "normalized": "rme"
+            "id": "2aba6dfd-52ab-4704-8bc6-7bdc196e63ea",
+            "clue": "Acronym for personal flotation device",
+            "answer": "pfd",
+            "normalized": "pfd"
           },
           {
-            "id": "4580f4a4-64ab-465f-afd5-3b8bfbd68ea0",
-            "clue": "Americans who call Montgomery their capital",
-            "answer": "alabamian",
-            "normalized": "alabamian"
+            "id": "b0338568-6323-447b-9459-85782c4fb94e",
+            "clue": "Basic unit in flash memory",
+            "answer": "cell",
+            "normalized": "cell"
           },
           {
-            "id": "8eb662d6-208d-43f6-b637-c832ac0ae106",
-            "clue": "Performance to make water fall from the sky",
-            "answer": "rain dance",
-            "normalized": "raindance"
+            "id": "f1144630-dab1-4606-b040-7cd81f490cf0",
+            "clue": "Roman numerals for 12",
+            "answer": "xii",
+            "normalized": "xii"
           },
           {
-            "id": "7d048e47-8378-4108-b309-d5398c9924ec",
-            "clue": "Freestanding rocky hill or peak",
-            "answer": "tor",
-            "normalized": "tor"
+            "id": "aac1b7f3-6d25-47d0-a7fd-2de92f821197",
+            "clue": "Technology that converts text image to digital",
+            "answer": "ocr",
+            "normalized": "ocr"
           },
           {
-            "id": "189d683e-6427-4639-9537-44242173b3c4",
-            "clue": "Sharp in style and mood",
-            "answer": "edgy",
-            "normalized": "edgy"
+            "id": "093f7989-cd1c-434d-8d22-311f2f53ab72",
+            "clue": "Made a copy using an office machine",
+            "answer": "xeroxed",
+            "normalized": "xeroxed"
           },
           {
-            "id": "843305c2-039d-47de-adb4-9c9ce300d331",
-            "clue": "Greek god of love, the counterpart of Cupid",
-            "answer": "eros",
-            "normalized": "eros"
+            "id": "16049fe4-ddf5-46ea-b4ca-58645bc5c963",
+            "clue": "Despots rule with a rod __",
+            "answer": "of iron",
+            "normalized": "ofiron"
           },
           {
-            "id": "6c8cf633-50a7-4c06-a998-8ef265bad97f",
-            "clue": "Austrian carrier, owned by an F1 champion",
-            "answer": "lauda air",
-            "normalized": "laudaair"
+            "id": "809f7b80-4e85-4beb-ad2f-6d7c5e6a8566",
+            "clue": "Leave __, 1989 hit for Michael Jackson",
+            "answer": "me alone",
+            "normalized": "mealone"
           },
           {
-            "id": "b282bd12-e29a-4c83-b9c6-4073e2ae02e8",
-            "clue": "Soviet space station, largest of its time",
-            "answer": "mir",
-            "normalized": "mir"
+            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
+            "clue": "Key typed with Ctrl and Del",
+            "answer": "alt",
+            "normalized": "alt"
           },
           {
-            "id": "e846f0cb-0f61-407b-bdf9-8be7f1c806f7",
-            "clue": "Dumbo's marching pink elephants were __",
-            "answer": "on parade",
-            "normalized": "onparade"
+            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
+            "clue": "Poem addressed to someone",
+            "answer": "ode",
+            "normalized": "ode"
           },
           {
-            "id": "9d3d6481-233d-4623-9052-a1e660e35159",
-            "clue": "Providing clothes for",
-            "answer": "attiring",
-            "normalized": "attiring"
+            "id": "25ec1176-1653-4d4c-991f-0b165ae9a80f",
+            "clue": "Sloping font, used for emphasis",
+            "answer": "italic",
+            "normalized": "italic"
           },
           {
-            "id": "07ddac76-87c1-4022-85b9-f2a035b9b71d",
-            "clue": "Short form of New Year's Eve month",
-            "answer": "dec",
-            "normalized": "dec"
+            "id": "d20715e5-f413-4a05-b85b-7e898734a143",
+            "clue": "Association of Tennis Professionals, acronym",
+            "answer": "atp",
+            "normalized": "atp"
           },
           {
-            "id": "ef64fd03-4d84-4e0a-a49a-f247a620d7ef",
-            "clue": "Shaking my head, in text",
-            "answer": "smh",
-            "normalized": "smh"
+            "id": "4e957c49-3570-40fd-8560-8c972f958e6e",
+            "clue": "High radio frequency, between 300 MHz and 3 GHz",
+            "answer": "uhf",
+            "normalized": "uhf"
           },
           {
-            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
-            "clue": "Many deaf people use this language in the UK",
-            "answer": "bsl",
-            "normalized": "bsl"
+            "id": "f4d1fa93-2ad5-42c9-9cf6-1d1432211423",
+            "clue": "Hair-stiffening agent",
+            "answer": "gel",
+            "normalized": "gel"
           },
           {
-            "id": "92d48f0e-28db-4a32-930e-f6b4b868dbc2",
-            "clue": "You Send Me singer Cooke",
-            "answer": "sam",
-            "normalized": "sam"
-          },
-          {
-            "id": "0b015c34-7ffe-4c83-9be3-082164657be6",
-            "clue": "Seen in Arabic names, meaning \"son of\"",
-            "answer": "ibn",
-            "normalized": "ibn"
-          },
-          {
-            "id": "8936d423-6db8-45e6-82b7-6befa2b37b1c",
-            "clue": "William __ or __ Gray",
-            "answer": "macy",
-            "normalized": "macy"
-          },
-          {
-            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-            "clue": "East-northeast for short",
-            "answer": "ene",
-            "normalized": "ene"
-          },
-          {
-            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
-            "clue": "Paintings, sculptures, and more",
-            "answer": "art",
-            "normalized": "art"
-          },
-          {
-            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
-            "clue": "Relating to the country with Vientiane as capital",
-            "answer": "lao",
-            "normalized": "lao"
-          },
-          {
-            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
-            "clue": "Angry",
-            "answer": "mad",
-            "normalized": "mad"
+            "id": "fe564914-7312-4eca-add0-bc1d388b987e",
+            "clue": "Haute couture fashion brand formed 1961, initials",
+            "answer": "ysl",
+            "normalized": "ysl"
           }
         ],
-        "track": "PC|LenC--Y2026M7D22F1"
+        "track": "PC|LenC--Y2026M7D23F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-22",
+      "key": "2026-07-23",
       "year": 2026,
       "month": 7,
-      "day": 22,
+      "day": 23,
       "small": {
-        "puzzleId": "83245f2f-6cca-47b6-995f-73974fc8bb76",
+        "puzzleId": "ea05ab45-cff9-4664-85d4-cb1b667533ed",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "5492413f-fe04-4bd0-b9c5-85df28942092",
-            "clue": "This __, huge anthem from The Greatest Showman",
-            "answer": "is me",
-            "normalized": "isme"
+            "id": "f13d7561-a7ed-41da-9c56-9e7f578bb859",
+            "clue": "Temperature of cross buns in a song",
+            "answer": "hot",
+            "normalized": "hot"
           },
           {
-            "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-            "clue": "Dived to the home plate",
-            "answer": "slid",
-            "normalized": "slid"
+            "id": "1ba764b5-4ecb-4767-abac-a52678ee9482",
+            "clue": "Dark or thick mist",
+            "answer": "murk",
+            "normalized": "murk"
           },
           {
-            "id": "11a82502-1b8f-4540-b331-9788013075b5",
-            "clue": "Street which features on Sandra Cisneros classic",
-            "answer": "mango",
-            "normalized": "mango"
+            "id": "555b2357-8cd9-43cd-9590-ace110fbe90d",
+            "clue": "Expression, __ or lose it",
+            "answer": "use it",
+            "normalized": "useit"
           },
           {
-            "id": "2d3cb4f1-14f7-461e-9074-59de0605f76f",
-            "clue": "Global retailer known for its furniture",
-            "answer": "ikea",
-            "normalized": "ikea"
+            "id": "41ae17bc-7164-4f0b-8e6f-1d5c3cd66f9b",
+            "clue": "Transcutaneous Electrical Nerve Stimulation",
+            "answer": "tens",
+            "normalized": "tens"
           },
           {
-            "id": "873e87f3-3be0-44aa-9984-68235edef76a",
-            "clue": "Bird's home, perhaps made with sticks",
-            "answer": "nest",
-            "normalized": "nest"
+            "id": "c82f5ad3-a1bc-4f6b-bda3-f4780e723a21",
+            "clue": "Abbreviation for month that was once seventh",
+            "answer": "sep",
+            "normalized": "sep"
           },
           {
-            "id": "317b0f11-140d-4db5-b166-7201bbfc660a",
-            "clue": "Denoting an ideology or doctrine",
-            "answer": "ism",
-            "normalized": "ism"
+            "id": "f147b1b6-83c7-48ec-96f4-d5bafade7ef3",
+            "clue": "Internet slang to tell someone to call you",
+            "answer": "hmu",
+            "normalized": "hmu"
           },
           {
-            "id": "ec6b711a-b262-4f1c-9be6-dd360a527c7d",
-            "clue": "Killed, like a dragon or by an enemy in a duel",
-            "answer": "slain",
-            "normalized": "slain"
+            "id": "71d82218-985f-4d29-8bd4-71223292da78",
+            "clue": "Expel, force out",
+            "answer": "oust",
+            "normalized": "oust"
           },
           {
-            "id": "6fd22444-f9dd-43a3-9083-0c19f5b1b47e",
-            "clue": "Second smallest baleen whale in the world",
-            "answer": "minke",
-            "normalized": "minke"
+            "id": "91535788-5f68-46b4-9d35-035ce97c9723",
+            "clue": "Can't see the forest for the __",
+            "answer": "trees",
+            "normalized": "trees"
           },
           {
-            "id": "3fb78fe8-95d6-47a6-8c0f-2fddeb5fa2d8",
-            "clue": "Borders of a lawn",
-            "answer": "edges",
-            "normalized": "edges"
+            "id": "e06bbac0-840e-43b7-9ed4-be0948130b4c",
+            "clue": "Archaic word for cattle",
+            "answer": "kine",
+            "normalized": "kine"
           },
           {
-            "id": "abc98961-7e85-42f0-9078-b8297afc2e7c",
-            "clue": "A grain plant used in hot cereal and animal feed",
-            "answer": "oat",
-            "normalized": "oat"
+            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
+            "clue": "Abbreviation for small spoon measure in baking",
+            "answer": "tsp",
+            "normalized": "tsp"
           }
         ],
-        "track": "PC|LenC--Y2026M7D22F0"
+        "track": "PC|LenC--Y2026M7D23F0"
       },
       "mid": {
-        "puzzleId": "f74fb789-3b08-42d6-8661-59c343cc7e6b",
+        "puzzleId": "53eb72b6-4ed1-4463-a5b0-a8dfde2e1db8",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "60e7e9d7-c07f-4d5c-8aa2-f5abd77d0cfc",
-            "clue": "Sesame Street's lovable, ticklish, red monster",
-            "answer": "elmo",
-            "normalized": "elmo"
+            "id": "9faa89ce-37ee-495d-a27f-3baf4bf71862",
+            "clue": "Kiss, hug, kiss, hug",
+            "answer": "xoxo",
+            "normalized": "xoxo"
           },
           {
-            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
-            "clue": "TV commercials",
-            "answer": "ads",
-            "normalized": "ads"
+            "id": "0a07107f-40df-4ffb-84c5-aabe767c1eb4",
+            "clue": "Chinese Chairman with a Little Red Book",
+            "answer": "mao",
+            "normalized": "mao"
           },
           {
-            "id": "0c2ccf3f-831f-43d0-b55d-bccbabd2438d",
-            "clue": "Vital link between cerebellum and spinal cord",
-            "answer": "brain stem",
-            "normalized": "brainstem"
+            "id": "a254b10d-3981-4d20-a07d-0dbce44b5843",
+            "clue": "A large area of land covered with ice",
+            "answer": "ice field",
+            "normalized": "icefield"
           },
           {
-            "id": "b1f30786-6d41-4438-aace-a6b5f8a04e0b",
-            "clue": "__ Kids, a \"not sweet\" movie candy staple",
-            "answer": "sour patch",
-            "normalized": "sourpatch"
+            "id": "62945a2f-1886-46d9-a792-b41be5728026",
+            "clue": "Annoy, pester",
+            "answer": "irritate",
+            "normalized": "irritate"
           },
           {
-            "id": "de9bf080-9b56-4705-b8e0-0b1e7fa812b8",
-            "clue": "Psychologist Timothy Leary advocated its use",
-            "answer": "lsd",
-            "normalized": "lsd"
+            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
+            "clue": "Relating to the mouth, anatomically",
+            "answer": "oral",
+            "normalized": "oral"
           },
           {
-            "id": "00b467e4-2c16-4028-8293-0345112f348e",
-            "clue": "French for (male) friend",
-            "answer": "ami",
-            "normalized": "ami"
+            "id": "4da30e29-36a5-4d8f-b770-d93a467e95af",
+            "clue": "Study of human physical growth",
+            "answer": "auxology",
+            "normalized": "auxology"
           },
           {
-            "id": "3e57044f-fe93-44e6-ab61-3bc0416303d2",
-            "clue": "What the wind blows",
-            "answer": "air",
-            "normalized": "air"
+            "id": "01cbed55-ce05-4053-86f8-8ff584e5f316",
+            "clue": "Dressed to __; being all dressed up and spiffy",
+            "answer": "the nines",
+            "normalized": "thenines"
           },
           {
-            "id": "404f526a-b0a2-4336-a50f-1c398f7670ee",
-            "clue": "Internet slang for rolling my eyes",
-            "answer": "rme",
-            "normalized": "rme"
+            "id": "2aba6dfd-52ab-4704-8bc6-7bdc196e63ea",
+            "clue": "Acronym for personal flotation device",
+            "answer": "pfd",
+            "normalized": "pfd"
           },
           {
-            "id": "4580f4a4-64ab-465f-afd5-3b8bfbd68ea0",
-            "clue": "Americans who call Montgomery their capital",
-            "answer": "alabamian",
-            "normalized": "alabamian"
+            "id": "b0338568-6323-447b-9459-85782c4fb94e",
+            "clue": "Basic unit in flash memory",
+            "answer": "cell",
+            "normalized": "cell"
           },
           {
-            "id": "8eb662d6-208d-43f6-b637-c832ac0ae106",
-            "clue": "Performance to make water fall from the sky",
-            "answer": "rain dance",
-            "normalized": "raindance"
+            "id": "f1144630-dab1-4606-b040-7cd81f490cf0",
+            "clue": "Roman numerals for 12",
+            "answer": "xii",
+            "normalized": "xii"
           },
           {
-            "id": "7d048e47-8378-4108-b309-d5398c9924ec",
-            "clue": "Freestanding rocky hill or peak",
-            "answer": "tor",
-            "normalized": "tor"
+            "id": "aac1b7f3-6d25-47d0-a7fd-2de92f821197",
+            "clue": "Technology that converts text image to digital",
+            "answer": "ocr",
+            "normalized": "ocr"
           },
           {
-            "id": "189d683e-6427-4639-9537-44242173b3c4",
-            "clue": "Sharp in style and mood",
-            "answer": "edgy",
-            "normalized": "edgy"
+            "id": "093f7989-cd1c-434d-8d22-311f2f53ab72",
+            "clue": "Made a copy using an office machine",
+            "answer": "xeroxed",
+            "normalized": "xeroxed"
           },
           {
-            "id": "843305c2-039d-47de-adb4-9c9ce300d331",
-            "clue": "Greek god of love, the counterpart of Cupid",
-            "answer": "eros",
-            "normalized": "eros"
+            "id": "16049fe4-ddf5-46ea-b4ca-58645bc5c963",
+            "clue": "Despots rule with a rod __",
+            "answer": "of iron",
+            "normalized": "ofiron"
           },
           {
-            "id": "6c8cf633-50a7-4c06-a998-8ef265bad97f",
-            "clue": "Austrian carrier, owned by an F1 champion",
-            "answer": "lauda air",
-            "normalized": "laudaair"
+            "id": "809f7b80-4e85-4beb-ad2f-6d7c5e6a8566",
+            "clue": "Leave __, 1989 hit for Michael Jackson",
+            "answer": "me alone",
+            "normalized": "mealone"
           },
           {
-            "id": "b282bd12-e29a-4c83-b9c6-4073e2ae02e8",
-            "clue": "Soviet space station, largest of its time",
-            "answer": "mir",
-            "normalized": "mir"
+            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
+            "clue": "Key typed with Ctrl and Del",
+            "answer": "alt",
+            "normalized": "alt"
           },
           {
-            "id": "e846f0cb-0f61-407b-bdf9-8be7f1c806f7",
-            "clue": "Dumbo's marching pink elephants were __",
-            "answer": "on parade",
-            "normalized": "onparade"
+            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
+            "clue": "Poem addressed to someone",
+            "answer": "ode",
+            "normalized": "ode"
           },
           {
-            "id": "9d3d6481-233d-4623-9052-a1e660e35159",
-            "clue": "Providing clothes for",
-            "answer": "attiring",
-            "normalized": "attiring"
+            "id": "25ec1176-1653-4d4c-991f-0b165ae9a80f",
+            "clue": "Sloping font, used for emphasis",
+            "answer": "italic",
+            "normalized": "italic"
           },
           {
-            "id": "07ddac76-87c1-4022-85b9-f2a035b9b71d",
-            "clue": "Short form of New Year's Eve month",
-            "answer": "dec",
-            "normalized": "dec"
+            "id": "d20715e5-f413-4a05-b85b-7e898734a143",
+            "clue": "Association of Tennis Professionals, acronym",
+            "answer": "atp",
+            "normalized": "atp"
           },
           {
-            "id": "ef64fd03-4d84-4e0a-a49a-f247a620d7ef",
-            "clue": "Shaking my head, in text",
-            "answer": "smh",
-            "normalized": "smh"
+            "id": "4e957c49-3570-40fd-8560-8c972f958e6e",
+            "clue": "High radio frequency, between 300 MHz and 3 GHz",
+            "answer": "uhf",
+            "normalized": "uhf"
           },
           {
-            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
-            "clue": "Many deaf people use this language in the UK",
-            "answer": "bsl",
-            "normalized": "bsl"
+            "id": "f4d1fa93-2ad5-42c9-9cf6-1d1432211423",
+            "clue": "Hair-stiffening agent",
+            "answer": "gel",
+            "normalized": "gel"
           },
           {
-            "id": "92d48f0e-28db-4a32-930e-f6b4b868dbc2",
-            "clue": "You Send Me singer Cooke",
-            "answer": "sam",
-            "normalized": "sam"
-          },
-          {
-            "id": "0b015c34-7ffe-4c83-9be3-082164657be6",
-            "clue": "Seen in Arabic names, meaning \"son of\"",
-            "answer": "ibn",
-            "normalized": "ibn"
-          },
-          {
-            "id": "8936d423-6db8-45e6-82b7-6befa2b37b1c",
-            "clue": "William __ or __ Gray",
-            "answer": "macy",
-            "normalized": "macy"
-          },
-          {
-            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-            "clue": "East-northeast for short",
-            "answer": "ene",
-            "normalized": "ene"
-          },
-          {
-            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
-            "clue": "Paintings, sculptures, and more",
-            "answer": "art",
-            "normalized": "art"
-          },
-          {
-            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
-            "clue": "Relating to the country with Vientiane as capital",
-            "answer": "lao",
-            "normalized": "lao"
-          },
-          {
-            "id": "8230e343-8b8c-4486-b7e0-be398b0c4a31",
-            "clue": "Angry",
-            "answer": "mad",
-            "normalized": "mad"
+            "id": "fe564914-7312-4eca-add0-bc1d388b987e",
+            "clue": "Haute couture fashion brand formed 1961, initials",
+            "answer": "ysl",
+            "normalized": "ysl"
           }
         ],
-        "track": "PC|LenC--Y2026M7D22F1"
+        "track": "PC|LenC--Y2026M7D23F1"
       }
     },
     "latestAvailableEntry": {
@@ -428955,21 +428883,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "xYSTjrxdkceJc9z80wjUGdLInwTfW20kZXMFivXcLy3dA/k8h/e4V4nofOqPtcPC6HgexhtXPAmaTtPdyrUMJDT3Bb80lue/jFRzVSgIOXbxbdowrRfwoQohoKM7l18atTBb4QsVcXpd0bDDY+9j4B2mQEpQ9l6GMseLEX8lJGRvPMsF28MEzEV905Z/mF1u94EIi7NqjnoFtlGciJN3/K+6CXn3vfBWukYLHUR0mL3ClVWm+BgCoF5VEaQja6hE8VmdADoDNkaZ2v3SLg7dRbrgR1Jr2zZ0yGgy4Vuhsyo="
+        "LuWRJHJmzAlPPA0KrXsTc97cWJ6Umu29Gaip9tX5XBSpfqreyCKMkMAKfpQjted2+x5HsVJsREiJtBabE9xuoFrPDdGV6DA6yFzq/yLY8oQp6ys32CBAggcw8HUEABFG8JrwCbtLIPWHiVAqsnVOZqLwLxhP9T5AaIr/J/Sar0NncMu2xKc1adgH2eh87z80KOP12iHghFzkly4Zqh2Urk6JxQSW8xnUVJi9ojYow3Jzo71i1FCw97Yymr8RaQDmHDvWozDF3Th2vC0pjVL4G++rvos21nEbFFJ5FY/8pz4="
       ]
     },
     "decrypted": {
-      "Id": "b3537737-ce64-4638-b991-418fd74dc18c",
-      "Date": "2026-07-22T00:00:00Z",
+      "Id": "c2b784dc-c460-4d50-aea6-12cff5e81c11",
+      "Date": "2026-07-23T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "basil",
-      "NormalizedPassword": "basil",
+      "Password": "check",
+      "NormalizedPassword": "check",
       "MaxGuesses": 6,
       "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-22T01:28:25.3590000+05:30",
-    "hash": "a58de6ba8c4c4e65da2529053224550c",
+    "dtu": "2026-07-23T01:21:00.6280000+05:30",
+    "hash": "5c9fa2bee1cfad2c032686f2b86904e9",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
