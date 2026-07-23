@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T19:51:00.628Z",
+  "generatedAt": "2026-07-23T19:53:11.749Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 23
+    "day": 24
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 42
+        "QuantidadeDeFases": 44
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,427 +428251,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-23",
+      "key": "2026-07-24",
       "year": 2026,
       "month": 7,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "ea05ab45-cff9-4664-85d4-cb1b667533ed",
+        "puzzleId": "8ebbd909-05da-4ccd-82c8-f9ad10890648",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 3,
         "answers": [
           {
-            "id": "f13d7561-a7ed-41da-9c56-9e7f578bb859",
-            "clue": "Temperature of cross buns in a song",
-            "answer": "hot",
-            "normalized": "hot"
+            "id": "14c3f3d5-d60c-41c2-af4c-74b429943e13",
+            "clue": "Public green space used for recreation",
+            "answer": "park",
+            "normalized": "park"
           },
           {
-            "id": "1ba764b5-4ecb-4767-abac-a52678ee9482",
-            "clue": "Dark or thick mist",
-            "answer": "murk",
-            "normalized": "murk"
+            "id": "6148a785-1057-4b47-a8f9-93c00fd0af9b",
+            "clue": "Elected president of Argentina in 2023, Javier",
+            "answer": "milei",
+            "normalized": "milei"
           },
           {
-            "id": "555b2357-8cd9-43cd-9590-ace110fbe90d",
-            "clue": "Expression, __ or lose it",
-            "answer": "use it",
-            "normalized": "useit"
+            "id": "83684d10-0719-4e8a-bae2-2417f777294b",
+            "clue": "Cap of a Bic or Pilot writing instrument",
+            "answer": "pen lid",
+            "normalized": "penlid"
           },
           {
-            "id": "41ae17bc-7164-4f0b-8e6f-1d5c3cd66f9b",
-            "clue": "Transcutaneous Electrical Nerve Stimulation",
-            "answer": "tens",
-            "normalized": "tens"
+            "id": "e63c81ee-cc24-40fa-b306-e70005a05538",
+            "clue": "Performed managerial duties in someone's absence",
+            "answer": "acted",
+            "normalized": "acted"
           },
           {
-            "id": "c82f5ad3-a1bc-4f6b-bda3-f4780e723a21",
-            "clue": "Abbreviation for month that was once seventh",
-            "answer": "sep",
-            "normalized": "sep"
+            "id": "7e984d8e-09ec-419b-8a90-f38f92e5897e",
+            "clue": "Floral red cheeks",
+            "answer": "rosy",
+            "normalized": "rosy"
           },
           {
-            "id": "f147b1b6-83c7-48ec-96f4-d5bafade7ef3",
-            "clue": "Internet slang to tell someone to call you",
-            "answer": "hmu",
-            "normalized": "hmu"
+            "id": "d9c5457d-f9de-4682-a03d-942ff3af3f89",
+            "clue": "Units of volume used for ice cream and drinks",
+            "answer": "pints",
+            "normalized": "pints"
           },
           {
-            "id": "71d82218-985f-4d29-8bd4-71223292da78",
-            "clue": "Expel, force out",
-            "answer": "oust",
-            "normalized": "oust"
+            "id": "e0e19da1-d188-46e2-8cb4-f794e27f47c2",
+            "clue": "Narrow passageway frequented by cats",
+            "answer": "alley",
+            "normalized": "alley"
           },
           {
-            "id": "91535788-5f68-46b4-9d35-035ce97c9723",
-            "clue": "Can't see the forest for the __",
-            "answer": "trees",
-            "normalized": "trees"
+            "id": "32af844f-251d-43ce-a9a4-bebf58136e11",
+            "clue": "Actress Tara from the American Pie series",
+            "answer": "reid",
+            "normalized": "reid"
           },
           {
-            "id": "e06bbac0-840e-43b7-9ed4-be0948130b4c",
-            "clue": "Archaic word for cattle",
-            "answer": "kine",
-            "normalized": "kine"
+            "id": "8b775bed-f08c-41ae-84f0-e3823e566730",
+            "clue": "Baby goat",
+            "answer": "kid",
+            "normalized": "kid"
           },
           {
-            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
-            "clue": "Abbreviation for small spoon measure in baking",
-            "answer": "tsp",
-            "normalized": "tsp"
+            "id": "eaf646b0-e7b5-4cc8-926c-f0217c955c3d",
+            "clue": "Band who created the Star Wars Cantina Band theme",
+            "answer": "meco",
+            "normalized": "meco"
+          },
+          {
+            "id": "3fe5f146-6a08-4008-86d0-5edff737dace",
+            "clue": "Standard number of golf strokes for a hole",
+            "answer": "par",
+            "normalized": "par"
           }
         ],
-        "track": "PC|LenC--Y2026M7D23F0"
+        "track": "PC|LenC--Y2026M7D24F0"
       },
       "mid": {
-        "puzzleId": "53eb72b6-4ed1-4463-a5b0-a8dfde2e1db8",
+        "puzzleId": "9c40db08-b05c-4005-b2df-e76ad6c014b4",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "9faa89ce-37ee-495d-a27f-3baf4bf71862",
-            "clue": "Kiss, hug, kiss, hug",
-            "answer": "xoxo",
-            "normalized": "xoxo"
+            "id": "d7dc5ab8-7998-4ee4-91cd-65ce8038e8ed",
+            "clue": "Excelsior Lee",
+            "answer": "stan",
+            "normalized": "stan"
           },
           {
-            "id": "0a07107f-40df-4ffb-84c5-aabe767c1eb4",
-            "clue": "Chinese Chairman with a Little Red Book",
-            "answer": "mao",
-            "normalized": "mao"
+            "id": "7f769da0-5fcb-4e55-8f51-f61a8302bb1b",
+            "clue": "Spiky, desert plant",
+            "answer": "cactus",
+            "normalized": "cactus"
           },
           {
-            "id": "a254b10d-3981-4d20-a07d-0dbce44b5843",
-            "clue": "A large area of land covered with ice",
-            "answer": "ice field",
-            "normalized": "icefield"
+            "id": "43df410d-cd9a-42d8-b2d1-48571b81a693",
+            "clue": "Vessel propelled \"down the stream\" using oars",
+            "answer": "rowboat",
+            "normalized": "rowboat"
           },
           {
-            "id": "62945a2f-1886-46d9-a792-b41be5728026",
-            "clue": "Annoy, pester",
-            "answer": "irritate",
-            "normalized": "irritate"
+            "id": "b6d1bf62-e959-4390-ad66-13dbb9e5d0f1",
+            "clue": "Female sheep",
+            "answer": "ewe",
+            "normalized": "ewe"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
+            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
+            "clue": "On a compass, the opposite of SSW",
+            "answer": "nne",
+            "normalized": "nne"
           },
           {
-            "id": "4da30e29-36a5-4d8f-b770-d93a467e95af",
-            "clue": "Study of human physical growth",
-            "answer": "auxology",
-            "normalized": "auxology"
+            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
+            "clue": "A tailless primate",
+            "answer": "ape",
+            "normalized": "ape"
           },
           {
-            "id": "01cbed55-ce05-4053-86f8-8ff584e5f316",
-            "clue": "Dressed to __; being all dressed up and spiffy",
-            "answer": "the nines",
-            "normalized": "thenines"
+            "id": "d27e635e-f55a-415d-904f-265994e78f70",
+            "clue": "The highest card in most games",
+            "answer": "ace",
+            "normalized": "ace"
           },
           {
-            "id": "2aba6dfd-52ab-4704-8bc6-7bdc196e63ea",
-            "clue": "Acronym for personal flotation device",
-            "answer": "pfd",
-            "normalized": "pfd"
+            "id": "503a3a8d-8d76-41a3-b83f-6e7a8ce02dea",
+            "clue": "Made a noise like a sidewinder snake",
+            "answer": "rattled",
+            "normalized": "rattled"
           },
           {
-            "id": "b0338568-6323-447b-9459-85782c4fb94e",
-            "clue": "Basic unit in flash memory",
-            "answer": "cell",
-            "normalized": "cell"
+            "id": "319c9f8d-0425-4193-b4a7-0ca0c4ef404a",
+            "clue": "Apparatuses used to make moonshine",
+            "answer": "stills",
+            "normalized": "stills"
           },
           {
-            "id": "f1144630-dab1-4606-b040-7cd81f490cf0",
-            "clue": "Roman numerals for 12",
-            "answer": "xii",
-            "normalized": "xii"
+            "id": "2593b901-ea32-4a7b-a4ff-c5a722d96073",
+            "clue": "Abbreviation for secretary",
+            "answer": "secy",
+            "normalized": "secy"
           },
           {
-            "id": "aac1b7f3-6d25-47d0-a7fd-2de92f821197",
-            "clue": "Technology that converts text image to digital",
-            "answer": "ocr",
-            "normalized": "ocr"
+            "id": "7757fc54-f751-419c-b9de-c48bb9957805",
+            "clue": "US rapper and Grammy nominee behind Icy Girl",
+            "answer": "saweetie",
+            "normalized": "saweetie"
           },
           {
-            "id": "093f7989-cd1c-434d-8d22-311f2f53ab72",
-            "clue": "Made a copy using an office machine",
-            "answer": "xeroxed",
-            "normalized": "xeroxed"
+            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
+            "clue": "Letters in the logo and motto of Elvis Presley",
+            "answer": "tcb",
+            "normalized": "tcb"
           },
           {
-            "id": "16049fe4-ddf5-46ea-b4ca-58645bc5c963",
-            "clue": "Despots rule with a rod __",
-            "answer": "of iron",
-            "normalized": "ofiron"
+            "id": "7114f642-50d8-4577-b198-d10a0194f0f9",
+            "clue": "In a non-structured way musically",
+            "answer": "atonally",
+            "normalized": "atonally"
           },
           {
-            "id": "809f7b80-4e85-4beb-ad2f-6d7c5e6a8566",
-            "clue": "Leave __, 1989 hit for Michael Jackson",
-            "answer": "me alone",
-            "normalized": "mealone"
+            "id": "a53a2435-74d0-41c4-aef9-7c2553aac0e2",
+            "clue": "Subtle differences, gradations, distinctions",
+            "answer": "nuances",
+            "normalized": "nuances"
           },
           {
-            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-            "clue": "Key typed with Ctrl and Del",
-            "answer": "alt",
-            "normalized": "alt"
+            "id": "b4b2b122-cd0c-4e6f-8552-8e33a66a8c3c",
+            "clue": "Circular discs of bovine dung found in fields",
+            "answer": "cowpats",
+            "normalized": "cowpats"
           },
           {
-            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
-            "clue": "Poem addressed to someone",
-            "answer": "ode",
-            "normalized": "ode"
+            "id": "4fc3e4d7-a803-481f-81aa-b80df66d8e95",
+            "clue": "Gallant horse for riding",
+            "answer": "steed",
+            "normalized": "steed"
           },
           {
-            "id": "25ec1176-1653-4d4c-991f-0b165ae9a80f",
-            "clue": "Sloping font, used for emphasis",
-            "answer": "italic",
-            "normalized": "italic"
+            "id": "a73bbb41-04ef-42b8-849c-eac67292558d",
+            "clue": "Cares for a child or animal as it grows",
+            "answer": "rears",
+            "normalized": "rears"
           },
           {
-            "id": "d20715e5-f413-4a05-b85b-7e898734a143",
-            "clue": "Association of Tennis Professionals, acronym",
-            "answer": "atp",
-            "normalized": "atp"
-          },
-          {
-            "id": "4e957c49-3570-40fd-8560-8c972f958e6e",
-            "clue": "High radio frequency, between 300 MHz and 3 GHz",
-            "answer": "uhf",
-            "normalized": "uhf"
-          },
-          {
-            "id": "f4d1fa93-2ad5-42c9-9cf6-1d1432211423",
-            "clue": "Hair-stiffening agent",
-            "answer": "gel",
-            "normalized": "gel"
-          },
-          {
-            "id": "fe564914-7312-4eca-add0-bc1d388b987e",
-            "clue": "Haute couture fashion brand formed 1961, initials",
-            "answer": "ysl",
-            "normalized": "ysl"
+            "id": "49da4a7f-4db3-4f5e-a1b6-865a348c7e1f",
+            "clue": "Band that didn't go chasing Waterfalls",
+            "answer": "tlc",
+            "normalized": "tlc"
           }
         ],
-        "track": "PC|LenC--Y2026M7D23F1"
+        "track": "PC|LenC--Y2026M7D24F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-23",
+      "key": "2026-07-24",
       "year": 2026,
       "month": 7,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "ea05ab45-cff9-4664-85d4-cb1b667533ed",
+        "puzzleId": "8ebbd909-05da-4ccd-82c8-f9ad10890648",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 3,
         "answers": [
           {
-            "id": "f13d7561-a7ed-41da-9c56-9e7f578bb859",
-            "clue": "Temperature of cross buns in a song",
-            "answer": "hot",
-            "normalized": "hot"
+            "id": "14c3f3d5-d60c-41c2-af4c-74b429943e13",
+            "clue": "Public green space used for recreation",
+            "answer": "park",
+            "normalized": "park"
           },
           {
-            "id": "1ba764b5-4ecb-4767-abac-a52678ee9482",
-            "clue": "Dark or thick mist",
-            "answer": "murk",
-            "normalized": "murk"
+            "id": "6148a785-1057-4b47-a8f9-93c00fd0af9b",
+            "clue": "Elected president of Argentina in 2023, Javier",
+            "answer": "milei",
+            "normalized": "milei"
           },
           {
-            "id": "555b2357-8cd9-43cd-9590-ace110fbe90d",
-            "clue": "Expression, __ or lose it",
-            "answer": "use it",
-            "normalized": "useit"
+            "id": "83684d10-0719-4e8a-bae2-2417f777294b",
+            "clue": "Cap of a Bic or Pilot writing instrument",
+            "answer": "pen lid",
+            "normalized": "penlid"
           },
           {
-            "id": "41ae17bc-7164-4f0b-8e6f-1d5c3cd66f9b",
-            "clue": "Transcutaneous Electrical Nerve Stimulation",
-            "answer": "tens",
-            "normalized": "tens"
+            "id": "e63c81ee-cc24-40fa-b306-e70005a05538",
+            "clue": "Performed managerial duties in someone's absence",
+            "answer": "acted",
+            "normalized": "acted"
           },
           {
-            "id": "c82f5ad3-a1bc-4f6b-bda3-f4780e723a21",
-            "clue": "Abbreviation for month that was once seventh",
-            "answer": "sep",
-            "normalized": "sep"
+            "id": "7e984d8e-09ec-419b-8a90-f38f92e5897e",
+            "clue": "Floral red cheeks",
+            "answer": "rosy",
+            "normalized": "rosy"
           },
           {
-            "id": "f147b1b6-83c7-48ec-96f4-d5bafade7ef3",
-            "clue": "Internet slang to tell someone to call you",
-            "answer": "hmu",
-            "normalized": "hmu"
+            "id": "d9c5457d-f9de-4682-a03d-942ff3af3f89",
+            "clue": "Units of volume used for ice cream and drinks",
+            "answer": "pints",
+            "normalized": "pints"
           },
           {
-            "id": "71d82218-985f-4d29-8bd4-71223292da78",
-            "clue": "Expel, force out",
-            "answer": "oust",
-            "normalized": "oust"
+            "id": "e0e19da1-d188-46e2-8cb4-f794e27f47c2",
+            "clue": "Narrow passageway frequented by cats",
+            "answer": "alley",
+            "normalized": "alley"
           },
           {
-            "id": "91535788-5f68-46b4-9d35-035ce97c9723",
-            "clue": "Can't see the forest for the __",
-            "answer": "trees",
-            "normalized": "trees"
+            "id": "32af844f-251d-43ce-a9a4-bebf58136e11",
+            "clue": "Actress Tara from the American Pie series",
+            "answer": "reid",
+            "normalized": "reid"
           },
           {
-            "id": "e06bbac0-840e-43b7-9ed4-be0948130b4c",
-            "clue": "Archaic word for cattle",
-            "answer": "kine",
-            "normalized": "kine"
+            "id": "8b775bed-f08c-41ae-84f0-e3823e566730",
+            "clue": "Baby goat",
+            "answer": "kid",
+            "normalized": "kid"
           },
           {
-            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
-            "clue": "Abbreviation for small spoon measure in baking",
-            "answer": "tsp",
-            "normalized": "tsp"
+            "id": "eaf646b0-e7b5-4cc8-926c-f0217c955c3d",
+            "clue": "Band who created the Star Wars Cantina Band theme",
+            "answer": "meco",
+            "normalized": "meco"
+          },
+          {
+            "id": "3fe5f146-6a08-4008-86d0-5edff737dace",
+            "clue": "Standard number of golf strokes for a hole",
+            "answer": "par",
+            "normalized": "par"
           }
         ],
-        "track": "PC|LenC--Y2026M7D23F0"
+        "track": "PC|LenC--Y2026M7D24F0"
       },
       "mid": {
-        "puzzleId": "53eb72b6-4ed1-4463-a5b0-a8dfde2e1db8",
+        "puzzleId": "9c40db08-b05c-4005-b2df-e76ad6c014b4",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "9faa89ce-37ee-495d-a27f-3baf4bf71862",
-            "clue": "Kiss, hug, kiss, hug",
-            "answer": "xoxo",
-            "normalized": "xoxo"
+            "id": "d7dc5ab8-7998-4ee4-91cd-65ce8038e8ed",
+            "clue": "Excelsior Lee",
+            "answer": "stan",
+            "normalized": "stan"
           },
           {
-            "id": "0a07107f-40df-4ffb-84c5-aabe767c1eb4",
-            "clue": "Chinese Chairman with a Little Red Book",
-            "answer": "mao",
-            "normalized": "mao"
+            "id": "7f769da0-5fcb-4e55-8f51-f61a8302bb1b",
+            "clue": "Spiky, desert plant",
+            "answer": "cactus",
+            "normalized": "cactus"
           },
           {
-            "id": "a254b10d-3981-4d20-a07d-0dbce44b5843",
-            "clue": "A large area of land covered with ice",
-            "answer": "ice field",
-            "normalized": "icefield"
+            "id": "43df410d-cd9a-42d8-b2d1-48571b81a693",
+            "clue": "Vessel propelled \"down the stream\" using oars",
+            "answer": "rowboat",
+            "normalized": "rowboat"
           },
           {
-            "id": "62945a2f-1886-46d9-a792-b41be5728026",
-            "clue": "Annoy, pester",
-            "answer": "irritate",
-            "normalized": "irritate"
+            "id": "b6d1bf62-e959-4390-ad66-13dbb9e5d0f1",
+            "clue": "Female sheep",
+            "answer": "ewe",
+            "normalized": "ewe"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
+            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
+            "clue": "On a compass, the opposite of SSW",
+            "answer": "nne",
+            "normalized": "nne"
           },
           {
-            "id": "4da30e29-36a5-4d8f-b770-d93a467e95af",
-            "clue": "Study of human physical growth",
-            "answer": "auxology",
-            "normalized": "auxology"
+            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
+            "clue": "A tailless primate",
+            "answer": "ape",
+            "normalized": "ape"
           },
           {
-            "id": "01cbed55-ce05-4053-86f8-8ff584e5f316",
-            "clue": "Dressed to __; being all dressed up and spiffy",
-            "answer": "the nines",
-            "normalized": "thenines"
+            "id": "d27e635e-f55a-415d-904f-265994e78f70",
+            "clue": "The highest card in most games",
+            "answer": "ace",
+            "normalized": "ace"
           },
           {
-            "id": "2aba6dfd-52ab-4704-8bc6-7bdc196e63ea",
-            "clue": "Acronym for personal flotation device",
-            "answer": "pfd",
-            "normalized": "pfd"
+            "id": "503a3a8d-8d76-41a3-b83f-6e7a8ce02dea",
+            "clue": "Made a noise like a sidewinder snake",
+            "answer": "rattled",
+            "normalized": "rattled"
           },
           {
-            "id": "b0338568-6323-447b-9459-85782c4fb94e",
-            "clue": "Basic unit in flash memory",
-            "answer": "cell",
-            "normalized": "cell"
+            "id": "319c9f8d-0425-4193-b4a7-0ca0c4ef404a",
+            "clue": "Apparatuses used to make moonshine",
+            "answer": "stills",
+            "normalized": "stills"
           },
           {
-            "id": "f1144630-dab1-4606-b040-7cd81f490cf0",
-            "clue": "Roman numerals for 12",
-            "answer": "xii",
-            "normalized": "xii"
+            "id": "2593b901-ea32-4a7b-a4ff-c5a722d96073",
+            "clue": "Abbreviation for secretary",
+            "answer": "secy",
+            "normalized": "secy"
           },
           {
-            "id": "aac1b7f3-6d25-47d0-a7fd-2de92f821197",
-            "clue": "Technology that converts text image to digital",
-            "answer": "ocr",
-            "normalized": "ocr"
+            "id": "7757fc54-f751-419c-b9de-c48bb9957805",
+            "clue": "US rapper and Grammy nominee behind Icy Girl",
+            "answer": "saweetie",
+            "normalized": "saweetie"
           },
           {
-            "id": "093f7989-cd1c-434d-8d22-311f2f53ab72",
-            "clue": "Made a copy using an office machine",
-            "answer": "xeroxed",
-            "normalized": "xeroxed"
+            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
+            "clue": "Letters in the logo and motto of Elvis Presley",
+            "answer": "tcb",
+            "normalized": "tcb"
           },
           {
-            "id": "16049fe4-ddf5-46ea-b4ca-58645bc5c963",
-            "clue": "Despots rule with a rod __",
-            "answer": "of iron",
-            "normalized": "ofiron"
+            "id": "7114f642-50d8-4577-b198-d10a0194f0f9",
+            "clue": "In a non-structured way musically",
+            "answer": "atonally",
+            "normalized": "atonally"
           },
           {
-            "id": "809f7b80-4e85-4beb-ad2f-6d7c5e6a8566",
-            "clue": "Leave __, 1989 hit for Michael Jackson",
-            "answer": "me alone",
-            "normalized": "mealone"
+            "id": "a53a2435-74d0-41c4-aef9-7c2553aac0e2",
+            "clue": "Subtle differences, gradations, distinctions",
+            "answer": "nuances",
+            "normalized": "nuances"
           },
           {
-            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-            "clue": "Key typed with Ctrl and Del",
-            "answer": "alt",
-            "normalized": "alt"
+            "id": "b4b2b122-cd0c-4e6f-8552-8e33a66a8c3c",
+            "clue": "Circular discs of bovine dung found in fields",
+            "answer": "cowpats",
+            "normalized": "cowpats"
           },
           {
-            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
-            "clue": "Poem addressed to someone",
-            "answer": "ode",
-            "normalized": "ode"
+            "id": "4fc3e4d7-a803-481f-81aa-b80df66d8e95",
+            "clue": "Gallant horse for riding",
+            "answer": "steed",
+            "normalized": "steed"
           },
           {
-            "id": "25ec1176-1653-4d4c-991f-0b165ae9a80f",
-            "clue": "Sloping font, used for emphasis",
-            "answer": "italic",
-            "normalized": "italic"
+            "id": "a73bbb41-04ef-42b8-849c-eac67292558d",
+            "clue": "Cares for a child or animal as it grows",
+            "answer": "rears",
+            "normalized": "rears"
           },
           {
-            "id": "d20715e5-f413-4a05-b85b-7e898734a143",
-            "clue": "Association of Tennis Professionals, acronym",
-            "answer": "atp",
-            "normalized": "atp"
-          },
-          {
-            "id": "4e957c49-3570-40fd-8560-8c972f958e6e",
-            "clue": "High radio frequency, between 300 MHz and 3 GHz",
-            "answer": "uhf",
-            "normalized": "uhf"
-          },
-          {
-            "id": "f4d1fa93-2ad5-42c9-9cf6-1d1432211423",
-            "clue": "Hair-stiffening agent",
-            "answer": "gel",
-            "normalized": "gel"
-          },
-          {
-            "id": "fe564914-7312-4eca-add0-bc1d388b987e",
-            "clue": "Haute couture fashion brand formed 1961, initials",
-            "answer": "ysl",
-            "normalized": "ysl"
+            "id": "49da4a7f-4db3-4f5e-a1b6-865a348c7e1f",
+            "clue": "Band that didn't go chasing Waterfalls",
+            "answer": "tlc",
+            "normalized": "tlc"
           }
         ],
-        "track": "PC|LenC--Y2026M7D23F1"
+        "track": "PC|LenC--Y2026M7D24F1"
       }
     },
     "latestAvailableEntry": {
@@ -428883,21 +428859,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "LuWRJHJmzAlPPA0KrXsTc97cWJ6Umu29Gaip9tX5XBSpfqreyCKMkMAKfpQjted2+x5HsVJsREiJtBabE9xuoFrPDdGV6DA6yFzq/yLY8oQp6ys32CBAggcw8HUEABFG8JrwCbtLIPWHiVAqsnVOZqLwLxhP9T5AaIr/J/Sar0NncMu2xKc1adgH2eh87z80KOP12iHghFzkly4Zqh2Urk6JxQSW8xnUVJi9ojYow3Jzo71i1FCw97Yymr8RaQDmHDvWozDF3Th2vC0pjVL4G++rvos21nEbFFJ5FY/8pz4="
+        "eFJu1YO2UuqlHMD4X6r3HqhABo7fNR3f5yBIR8yYctIYB6uybORz+Cr4j8Fyx6ovpyZ8+uV6r9nFcmLTG478CYNIGo4Wo4rZTgUOdPDk7LLrIMZNRa557EeyT8/L0JwEFpkPZbMy+/cACHbuBVdSqxAp/6qrYNc3HESd/zTDUMpOPL1XHaoMMjW65GqKhb2DbmkXu58wc1fxMszJzk/BHMGOUkcRr/GKlZS7+yrbLVXRTjwff/Nqwlc8ORitYK1SWP8VNOaD5NkR+JdBDwqyBPNxMz/6uhE3fkuOCrcNxBI="
       ]
     },
     "decrypted": {
-      "Id": "c2b784dc-c460-4d50-aea6-12cff5e81c11",
-      "Date": "2026-07-23T00:00:00Z",
+      "Id": "45e0b9a6-f953-4a8f-919e-0f83198b1f24",
+      "Date": "2026-07-24T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "check",
-      "NormalizedPassword": "check",
+      "Password": "crust",
+      "NormalizedPassword": "crust",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-23T01:21:00.6280000+05:30",
-    "hash": "5c9fa2bee1cfad2c032686f2b86904e9",
+    "dtu": "2026-07-24T01:23:11.7490000+05:30",
+    "hash": "d98ad66f6497074ed3989e91c257da29",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
