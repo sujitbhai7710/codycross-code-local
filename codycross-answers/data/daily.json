@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T19:52:54.791Z",
+  "generatedAt": "2026-07-25T19:40:23.035Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 25
+    "day": 26
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 46
+        "QuantidadeDeFases": 48
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -159215,7 +159215,7 @@
           "answers": [
             {
               "id": "683cdb45-8ab5-4a99-8158-dbb7830a79bf",
-              "clue": "A light-colored curd made of soybeans",
+              "clue": "Curd made of soybeans",
               "answer": "tofu",
               "normalized": "tofu"
             },
@@ -428251,451 +428251,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-25",
+      "key": "2026-07-26",
       "year": 2026,
       "month": 7,
-      "day": 25,
+      "day": 26,
       "small": {
-        "puzzleId": "52248b73-1c2b-454e-926d-11d301f9a679",
+        "puzzleId": "63a4bd2e-0b8f-4377-bc8a-25393d79ec32",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "fdad593c-3e6a-49c9-bb42-df4e8901b29b",
-            "clue": "Short name for plastic component Bisphenol A",
-            "answer": "bpa",
-            "normalized": "bpa"
-          },
-          {
-            "id": "55949bbc-6fec-460a-9a26-503b1e553c67",
-            "clue": "Stand up",
-            "answer": "rise",
-            "normalized": "rise"
-          },
-          {
-            "id": "3aa66702-a428-42b6-b140-35030c5e6530",
-            "clue": "Sweet, sour, bitter, salty or umami",
-            "answer": "taste",
-            "normalized": "taste"
-          },
-          {
-            "id": "ca72e54b-f560-4666-8724-9df86aa6433e",
-            "clue": "What squishies are made of",
-            "answer": "foam",
-            "normalized": "foam"
-          },
-          {
-            "id": "5bc268ad-e41e-43cb-accb-cc51facc4863",
-            "clue": "Law enforcement forensic team",
-            "answer": "csi",
-            "normalized": "csi"
-          },
-          {
-            "id": "4045e40e-8588-472c-b4b7-bfe537ca4b32",
-            "clue": "How to say I'll be right there, quickly via text",
-            "answer": "brt",
-            "normalized": "brt"
-          },
-          {
-            "id": "8b804b4b-6e6e-4c12-b12a-09d4c137fd08",
-            "clue": "Édith, French singer of La Vie en Rose",
-            "answer": "piaf",
-            "normalized": "piaf"
-          },
-          {
-            "id": "160e46f3-baf5-4b13-80f9-7b9d7d6b1863",
-            "clue": "Association, abbreviated",
-            "answer": "assoc",
-            "normalized": "assoc"
-          },
-          {
-            "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-            "clue": "Plane landing times",
-            "answer": "etas",
-            "normalized": "etas"
-          },
-          {
-            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
-            "clue": "London recording studio founded in 1931",
-            "answer": "emi",
-            "normalized": "emi"
-          }
-        ],
-        "track": "PC|LenC--Y2026M7D25F0"
-      },
-      "mid": {
-        "puzzleId": "daf3b104-37c7-4834-9ea8-729e3b0f10f0",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "e05aae45-caa9-4caf-93ac-88a0e7987ff8",
-            "clue": "Marilyn Monroe movie, The Seven Year __",
-            "answer": "itch",
-            "normalized": "itch"
+            "id": "94aad126-aa35-413f-b60f-4d34d0a2105d",
+            "clue": "Pasta often served with cheese, for short",
+            "answer": "mac",
+            "normalized": "mac"
           },
           {
-            "id": "69c32204-622d-4726-84f4-d2578fc9c2da",
-            "clue": "US agency tasked with regulating financial markets",
-            "answer": "sec",
-            "normalized": "sec"
+            "id": "df33a597-077e-4acb-a717-b21de547ca9a",
+            "clue": "Soy-based meat alternative",
+            "answer": "tofu",
+            "normalized": "tofu"
           },
           {
-            "id": "2f2713fd-9f1a-49ab-85a7-8d646f972029",
-            "clue": "Star Trek helmsman played by George Takei",
-            "answer": "sulu",
-            "normalized": "sulu"
+            "id": "98107e06-a4d6-427a-bf64-161165e7548a",
+            "clue": "Evans who portrays Captain America",
+            "answer": "chris",
+            "normalized": "chris"
           },
           {
-            "id": "2872063a-7e2c-4fef-906e-5539e3da14e8",
-            "clue": "Band aka Orchestral Manoeuvres In The Dark",
-            "answer": "omd",
-            "normalized": "omd"
+            "id": "723adedc-2b64-4d9b-91af-b498d3e93fca",
+            "clue": "TV presenter and ex-newspaper editor Morgan",
+            "answer": "piers",
+            "normalized": "piers"
           },
           {
-            "id": "81447a2b-2479-487c-878c-7fa9b82f6804",
-            "clue": "Tight or form-fitting clothing, rhymes with bug",
-            "answer": "snug",
-            "normalized": "snug"
+            "id": "c44d7529-9b16-49c4-91e3-f0453f1718e2",
+            "clue": "Of Wight or of Man",
+            "answer": "isle",
+            "normalized": "isle"
           },
           {
-            "id": "135052c2-0e62-446f-bb7e-c5cd3f29d94d",
-            "clue": "Plead on one's knees",
-            "answer": "beg",
-            "normalized": "beg"
+            "id": "13aeb901-174f-4e49-9cc8-21cd154fd89f",
+            "clue": "Honeycombed mushroom delicacy",
+            "answer": "morel",
+            "normalized": "morel"
           },
           {
-            "id": "1e1c68aa-dc4f-445f-a744-54f7308eb625",
-            "clue": "Well __; exclamation of disbelief",
-            "answer": "i never",
-            "normalized": "inever"
+            "id": "65877283-cac4-4cba-80ed-827a973f4696",
+            "clue": "Burning, aflame",
+            "answer": "afire",
+            "normalized": "afire"
           },
           {
-            "id": "aa3e6a4e-843e-47e7-900e-2f7e1b0c14e1",
-            "clue": "Icelandic krona",
-            "answer": "isk",
-            "normalized": "isk"
+            "id": "5f58536e-f564-49e9-8f90-5fdca757a380",
+            "clue": "Four-letter word (literally, and figuratively!)",
+            "answer": "cuss",
+            "normalized": "cuss"
           },
           {
-            "id": "eead3bae-aab7-4b4c-b0ac-61b4c35ec3de",
-            "clue": "Famous men: Clapton, Bana, Dane, or Olsen",
-            "answer": "eric",
-            "normalized": "eric"
+            "id": "5fc4244a-ad2b-4ea2-8fb8-ac420f377765",
+            "clue": "Often goes with that",
+            "answer": "this",
+            "normalized": "this"
           },
           {
-            "id": "16bcc911-9ff8-474e-9a8e-fcbc04639697",
-            "clue": "Draw in a match",
-            "answer": "tie",
-            "normalized": "tie"
-          },
-          {
-            "id": "efc762a7-80e8-4f38-bf62-6fc8732af581",
-            "clue": "Ballerina skirt",
-            "answer": "tutu",
-            "normalized": "tutu"
-          },
-          {
-            "id": "b3a2d342-3d90-433a-bebe-8e3de33c15c0",
-            "clue": "Search and rescue for short",
-            "answer": "sar",
-            "normalized": "sar"
-          },
-          {
-            "id": "01af77d2-d3e2-4421-9094-42d6881458d6",
-            "clue": "Lightly box for practice",
-            "answer": "spar",
-            "normalized": "spar"
-          },
-          {
-            "id": "48300a46-51e2-45e8-989b-d16087205fdc",
-            "clue": "Large artificial satellite",
-            "answer": "iss",
-            "normalized": "iss"
-          },
-          {
-            "id": "419e01b8-07c6-4520-80ee-2f0ed28c0623",
-            "clue": "Smallest country on Africa's Mediterranean coast",
-            "answer": "tunisia",
-            "normalized": "tunisia"
-          },
-          {
-            "id": "f91cd447-bb72-4c5d-a66e-2eb3c1c4c3c4",
-            "clue": "Old battered car",
-            "answer": "clunker",
-            "normalized": "clunker"
-          },
-          {
-            "id": "adb38ee3-ed02-46bb-a3ae-9bc6c7c124cc",
-            "clue": "Giant, enormous",
-            "answer": "huge",
-            "normalized": "huge"
-          },
-          {
-            "id": "53acc059-9d8a-4d1e-b532-f2e6fd1f4cf4",
-            "clue": "Rid your system of alcohol",
-            "answer": "sober up",
-            "normalized": "soberup"
-          },
-          {
-            "id": "e8bce092-57f0-4296-8d41-d6586d297afc",
-            "clue": "Female form of the title emeritus",
-            "answer": "emerita",
-            "normalized": "emerita"
-          },
-          {
-            "id": "d4596e96-0617-42b8-8080-e576e217d2b4",
-            "clue": "Airport code for Paris Charles de Gaulle",
-            "answer": "cdg",
-            "normalized": "cdg"
-          },
-          {
-            "id": "447413fb-4ef2-4596-89f1-6a2baacb5e15",
-            "clue": "Animal doctors, for short",
-            "answer": "vets",
-            "normalized": "vets"
-          },
-          {
-            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
-            "clue": "Possessive determiner, no apostrophe",
-            "answer": "its",
-            "normalized": "its"
-          },
-          {
-            "id": "a1688519-8cb5-494d-9d8c-564468c5e6da",
-            "clue": "Mangy dog",
-            "answer": "cur",
-            "normalized": "cur"
+            "id": "2d340098-431a-4038-a715-5048ddf04735",
+            "clue": "Consumer Price Index, in short",
+            "answer": "cpi",
+            "normalized": "cpi"
           }
         ],
-        "track": "PC|LenC--Y2026M7D25F1"
+        "track": "PC|LenC--Y2026M7D26F0"
+      },
+      "mid": {
+        "puzzleId": "57c20675-cc6b-44e1-8522-324a78439939",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "856ae4cd-a25f-4bbe-ba7c-8059cc58d210",
+            "clue": "Bryant the basketball icon",
+            "answer": "kobe",
+            "normalized": "kobe"
+          },
+          {
+            "id": "09d84970-67f7-48cf-82f7-e9f7cabd2b0d",
+            "clue": "Sphere",
+            "answer": "orb",
+            "normalized": "orb"
+          },
+          {
+            "id": "2b88e4fd-4b12-4889-9f95-e4331d722d0b",
+            "clue": "South Asian country made up of islands, The __",
+            "answer": "maldives",
+            "normalized": "maldives"
+          },
+          {
+            "id": "d930a710-cff7-44c6-a1b7-c1d24285edd0",
+            "clue": "A tiny part or piece of something",
+            "answer": "fragment",
+            "normalized": "fragment"
+          },
+          {
+            "id": "da4ca9db-c5cd-410d-b451-e504332165b5",
+            "clue": "Crying's watery secretion",
+            "answer": "tear",
+            "normalized": "tear"
+          },
+          {
+            "id": "c5699747-0c11-4a88-b147-a90122415a7c",
+            "clue": "To admire constellations on a clear night",
+            "answer": "stargaze",
+            "normalized": "stargaze"
+          },
+          {
+            "id": "89b4584a-4505-4f2d-9546-b14e4e23b48b",
+            "clue": "Decorated festively, anagram of listened",
+            "answer": "tinseled",
+            "normalized": "tinseled"
+          },
+          {
+            "id": "2d2c9594-09fe-487b-be3c-2ecc4850720c",
+            "clue": "Suitable, fitting",
+            "answer": "apt",
+            "normalized": "apt"
+          },
+          {
+            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
+            "clue": "Arctic vehicle pulled by dogs",
+            "answer": "sled",
+            "normalized": "sled"
+          },
+          {
+            "id": "02daaf71-7ee7-48ca-bbe8-d3717a51a3f9",
+            "clue": "Currency code for the Comoro franc",
+            "answer": "kmf",
+            "normalized": "kmf"
+          },
+          {
+            "id": "06644b43-fbda-4236-a3e2-7d9bbc19186e",
+            "clue": "Rowboat paddle",
+            "answer": "oar",
+            "normalized": "oar"
+          },
+          {
+            "id": "f8f01ca7-68f1-41f1-9b99-0e7f6805de1d",
+            "clue": "Brazenly obvious, offensive, loud",
+            "answer": "blatant",
+            "normalized": "blatant"
+          },
+          {
+            "id": "7217d123-ea2f-4831-a617-58fd093adefc",
+            "clue": "Garden tools for straightening lawn boundaries",
+            "answer": "edgers",
+            "normalized": "edgers"
+          },
+          {
+            "id": "cd7a19d4-f958-410d-bb07-3190c21e4e0c",
+            "clue": "From one end to the other; including everything",
+            "answer": "overall",
+            "normalized": "overall"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
+          },
+          {
+            "id": "314b7b8c-c1da-49cc-88a6-4eafcc76d2c9",
+            "clue": "UK time zone for the non-winter months",
+            "answer": "bst",
+            "normalized": "bst"
+          },
+          {
+            "id": "04cb89b7-91b2-4ded-a323-a21c2508e048",
+            "clue": "Pictures",
+            "answer": "images",
+            "normalized": "images"
+          },
+          {
+            "id": "8b727330-f071-4145-a11a-e6ad24e58263",
+            "clue": "Scheduled time of arrival, in short",
+            "answer": "sta",
+            "normalized": "sta"
+          },
+          {
+            "id": "b071ade4-f5fd-498e-84dc-65f99491c646",
+            "clue": "Money left on a restaurant table, for example",
+            "answer": "tip",
+            "normalized": "tip"
+          },
+          {
+            "id": "5b6ca91d-643c-4ffc-95c0-e4587af25dd1",
+            "clue": "American name for the letter Z",
+            "answer": "zee",
+            "normalized": "zee"
+          },
+          {
+            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
+            "clue": "Initialism for Earliest Due Date scheduling",
+            "answer": "edd",
+            "normalized": "edd"
+          }
+        ],
+        "track": "PC|LenC--Y2026M7D26F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-25",
+      "key": "2026-07-26",
       "year": 2026,
       "month": 7,
-      "day": 25,
+      "day": 26,
       "small": {
-        "puzzleId": "52248b73-1c2b-454e-926d-11d301f9a679",
+        "puzzleId": "63a4bd2e-0b8f-4377-bc8a-25393d79ec32",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "fdad593c-3e6a-49c9-bb42-df4e8901b29b",
-            "clue": "Short name for plastic component Bisphenol A",
-            "answer": "bpa",
-            "normalized": "bpa"
-          },
-          {
-            "id": "55949bbc-6fec-460a-9a26-503b1e553c67",
-            "clue": "Stand up",
-            "answer": "rise",
-            "normalized": "rise"
-          },
-          {
-            "id": "3aa66702-a428-42b6-b140-35030c5e6530",
-            "clue": "Sweet, sour, bitter, salty or umami",
-            "answer": "taste",
-            "normalized": "taste"
-          },
-          {
-            "id": "ca72e54b-f560-4666-8724-9df86aa6433e",
-            "clue": "What squishies are made of",
-            "answer": "foam",
-            "normalized": "foam"
-          },
-          {
-            "id": "5bc268ad-e41e-43cb-accb-cc51facc4863",
-            "clue": "Law enforcement forensic team",
-            "answer": "csi",
-            "normalized": "csi"
-          },
-          {
-            "id": "4045e40e-8588-472c-b4b7-bfe537ca4b32",
-            "clue": "How to say I'll be right there, quickly via text",
-            "answer": "brt",
-            "normalized": "brt"
-          },
-          {
-            "id": "8b804b4b-6e6e-4c12-b12a-09d4c137fd08",
-            "clue": "Édith, French singer of La Vie en Rose",
-            "answer": "piaf",
-            "normalized": "piaf"
-          },
-          {
-            "id": "160e46f3-baf5-4b13-80f9-7b9d7d6b1863",
-            "clue": "Association, abbreviated",
-            "answer": "assoc",
-            "normalized": "assoc"
-          },
-          {
-            "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-            "clue": "Plane landing times",
-            "answer": "etas",
-            "normalized": "etas"
-          },
-          {
-            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
-            "clue": "London recording studio founded in 1931",
-            "answer": "emi",
-            "normalized": "emi"
-          }
-        ],
-        "track": "PC|LenC--Y2026M7D25F0"
-      },
-      "mid": {
-        "puzzleId": "daf3b104-37c7-4834-9ea8-729e3b0f10f0",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "e05aae45-caa9-4caf-93ac-88a0e7987ff8",
-            "clue": "Marilyn Monroe movie, The Seven Year __",
-            "answer": "itch",
-            "normalized": "itch"
+            "id": "94aad126-aa35-413f-b60f-4d34d0a2105d",
+            "clue": "Pasta often served with cheese, for short",
+            "answer": "mac",
+            "normalized": "mac"
           },
           {
-            "id": "69c32204-622d-4726-84f4-d2578fc9c2da",
-            "clue": "US agency tasked with regulating financial markets",
-            "answer": "sec",
-            "normalized": "sec"
+            "id": "df33a597-077e-4acb-a717-b21de547ca9a",
+            "clue": "Soy-based meat alternative",
+            "answer": "tofu",
+            "normalized": "tofu"
           },
           {
-            "id": "2f2713fd-9f1a-49ab-85a7-8d646f972029",
-            "clue": "Star Trek helmsman played by George Takei",
-            "answer": "sulu",
-            "normalized": "sulu"
+            "id": "98107e06-a4d6-427a-bf64-161165e7548a",
+            "clue": "Evans who portrays Captain America",
+            "answer": "chris",
+            "normalized": "chris"
           },
           {
-            "id": "2872063a-7e2c-4fef-906e-5539e3da14e8",
-            "clue": "Band aka Orchestral Manoeuvres In The Dark",
-            "answer": "omd",
-            "normalized": "omd"
+            "id": "723adedc-2b64-4d9b-91af-b498d3e93fca",
+            "clue": "TV presenter and ex-newspaper editor Morgan",
+            "answer": "piers",
+            "normalized": "piers"
           },
           {
-            "id": "81447a2b-2479-487c-878c-7fa9b82f6804",
-            "clue": "Tight or form-fitting clothing, rhymes with bug",
-            "answer": "snug",
-            "normalized": "snug"
+            "id": "c44d7529-9b16-49c4-91e3-f0453f1718e2",
+            "clue": "Of Wight or of Man",
+            "answer": "isle",
+            "normalized": "isle"
           },
           {
-            "id": "135052c2-0e62-446f-bb7e-c5cd3f29d94d",
-            "clue": "Plead on one's knees",
-            "answer": "beg",
-            "normalized": "beg"
+            "id": "13aeb901-174f-4e49-9cc8-21cd154fd89f",
+            "clue": "Honeycombed mushroom delicacy",
+            "answer": "morel",
+            "normalized": "morel"
           },
           {
-            "id": "1e1c68aa-dc4f-445f-a744-54f7308eb625",
-            "clue": "Well __; exclamation of disbelief",
-            "answer": "i never",
-            "normalized": "inever"
+            "id": "65877283-cac4-4cba-80ed-827a973f4696",
+            "clue": "Burning, aflame",
+            "answer": "afire",
+            "normalized": "afire"
           },
           {
-            "id": "aa3e6a4e-843e-47e7-900e-2f7e1b0c14e1",
-            "clue": "Icelandic krona",
-            "answer": "isk",
-            "normalized": "isk"
+            "id": "5f58536e-f564-49e9-8f90-5fdca757a380",
+            "clue": "Four-letter word (literally, and figuratively!)",
+            "answer": "cuss",
+            "normalized": "cuss"
           },
           {
-            "id": "eead3bae-aab7-4b4c-b0ac-61b4c35ec3de",
-            "clue": "Famous men: Clapton, Bana, Dane, or Olsen",
-            "answer": "eric",
-            "normalized": "eric"
+            "id": "5fc4244a-ad2b-4ea2-8fb8-ac420f377765",
+            "clue": "Often goes with that",
+            "answer": "this",
+            "normalized": "this"
           },
           {
-            "id": "16bcc911-9ff8-474e-9a8e-fcbc04639697",
-            "clue": "Draw in a match",
-            "answer": "tie",
-            "normalized": "tie"
-          },
-          {
-            "id": "efc762a7-80e8-4f38-bf62-6fc8732af581",
-            "clue": "Ballerina skirt",
-            "answer": "tutu",
-            "normalized": "tutu"
-          },
-          {
-            "id": "b3a2d342-3d90-433a-bebe-8e3de33c15c0",
-            "clue": "Search and rescue for short",
-            "answer": "sar",
-            "normalized": "sar"
-          },
-          {
-            "id": "01af77d2-d3e2-4421-9094-42d6881458d6",
-            "clue": "Lightly box for practice",
-            "answer": "spar",
-            "normalized": "spar"
-          },
-          {
-            "id": "48300a46-51e2-45e8-989b-d16087205fdc",
-            "clue": "Large artificial satellite",
-            "answer": "iss",
-            "normalized": "iss"
-          },
-          {
-            "id": "419e01b8-07c6-4520-80ee-2f0ed28c0623",
-            "clue": "Smallest country on Africa's Mediterranean coast",
-            "answer": "tunisia",
-            "normalized": "tunisia"
-          },
-          {
-            "id": "f91cd447-bb72-4c5d-a66e-2eb3c1c4c3c4",
-            "clue": "Old battered car",
-            "answer": "clunker",
-            "normalized": "clunker"
-          },
-          {
-            "id": "adb38ee3-ed02-46bb-a3ae-9bc6c7c124cc",
-            "clue": "Giant, enormous",
-            "answer": "huge",
-            "normalized": "huge"
-          },
-          {
-            "id": "53acc059-9d8a-4d1e-b532-f2e6fd1f4cf4",
-            "clue": "Rid your system of alcohol",
-            "answer": "sober up",
-            "normalized": "soberup"
-          },
-          {
-            "id": "e8bce092-57f0-4296-8d41-d6586d297afc",
-            "clue": "Female form of the title emeritus",
-            "answer": "emerita",
-            "normalized": "emerita"
-          },
-          {
-            "id": "d4596e96-0617-42b8-8080-e576e217d2b4",
-            "clue": "Airport code for Paris Charles de Gaulle",
-            "answer": "cdg",
-            "normalized": "cdg"
-          },
-          {
-            "id": "447413fb-4ef2-4596-89f1-6a2baacb5e15",
-            "clue": "Animal doctors, for short",
-            "answer": "vets",
-            "normalized": "vets"
-          },
-          {
-            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
-            "clue": "Possessive determiner, no apostrophe",
-            "answer": "its",
-            "normalized": "its"
-          },
-          {
-            "id": "a1688519-8cb5-494d-9d8c-564468c5e6da",
-            "clue": "Mangy dog",
-            "answer": "cur",
-            "normalized": "cur"
+            "id": "2d340098-431a-4038-a715-5048ddf04735",
+            "clue": "Consumer Price Index, in short",
+            "answer": "cpi",
+            "normalized": "cpi"
           }
         ],
-        "track": "PC|LenC--Y2026M7D25F1"
+        "track": "PC|LenC--Y2026M7D26F0"
+      },
+      "mid": {
+        "puzzleId": "57c20675-cc6b-44e1-8522-324a78439939",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "856ae4cd-a25f-4bbe-ba7c-8059cc58d210",
+            "clue": "Bryant the basketball icon",
+            "answer": "kobe",
+            "normalized": "kobe"
+          },
+          {
+            "id": "09d84970-67f7-48cf-82f7-e9f7cabd2b0d",
+            "clue": "Sphere",
+            "answer": "orb",
+            "normalized": "orb"
+          },
+          {
+            "id": "2b88e4fd-4b12-4889-9f95-e4331d722d0b",
+            "clue": "South Asian country made up of islands, The __",
+            "answer": "maldives",
+            "normalized": "maldives"
+          },
+          {
+            "id": "d930a710-cff7-44c6-a1b7-c1d24285edd0",
+            "clue": "A tiny part or piece of something",
+            "answer": "fragment",
+            "normalized": "fragment"
+          },
+          {
+            "id": "da4ca9db-c5cd-410d-b451-e504332165b5",
+            "clue": "Crying's watery secretion",
+            "answer": "tear",
+            "normalized": "tear"
+          },
+          {
+            "id": "c5699747-0c11-4a88-b147-a90122415a7c",
+            "clue": "To admire constellations on a clear night",
+            "answer": "stargaze",
+            "normalized": "stargaze"
+          },
+          {
+            "id": "89b4584a-4505-4f2d-9546-b14e4e23b48b",
+            "clue": "Decorated festively, anagram of listened",
+            "answer": "tinseled",
+            "normalized": "tinseled"
+          },
+          {
+            "id": "2d2c9594-09fe-487b-be3c-2ecc4850720c",
+            "clue": "Suitable, fitting",
+            "answer": "apt",
+            "normalized": "apt"
+          },
+          {
+            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
+            "clue": "Arctic vehicle pulled by dogs",
+            "answer": "sled",
+            "normalized": "sled"
+          },
+          {
+            "id": "02daaf71-7ee7-48ca-bbe8-d3717a51a3f9",
+            "clue": "Currency code for the Comoro franc",
+            "answer": "kmf",
+            "normalized": "kmf"
+          },
+          {
+            "id": "06644b43-fbda-4236-a3e2-7d9bbc19186e",
+            "clue": "Rowboat paddle",
+            "answer": "oar",
+            "normalized": "oar"
+          },
+          {
+            "id": "f8f01ca7-68f1-41f1-9b99-0e7f6805de1d",
+            "clue": "Brazenly obvious, offensive, loud",
+            "answer": "blatant",
+            "normalized": "blatant"
+          },
+          {
+            "id": "7217d123-ea2f-4831-a617-58fd093adefc",
+            "clue": "Garden tools for straightening lawn boundaries",
+            "answer": "edgers",
+            "normalized": "edgers"
+          },
+          {
+            "id": "cd7a19d4-f958-410d-bb07-3190c21e4e0c",
+            "clue": "From one end to the other; including everything",
+            "answer": "overall",
+            "normalized": "overall"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
+          },
+          {
+            "id": "314b7b8c-c1da-49cc-88a6-4eafcc76d2c9",
+            "clue": "UK time zone for the non-winter months",
+            "answer": "bst",
+            "normalized": "bst"
+          },
+          {
+            "id": "04cb89b7-91b2-4ded-a323-a21c2508e048",
+            "clue": "Pictures",
+            "answer": "images",
+            "normalized": "images"
+          },
+          {
+            "id": "8b727330-f071-4145-a11a-e6ad24e58263",
+            "clue": "Scheduled time of arrival, in short",
+            "answer": "sta",
+            "normalized": "sta"
+          },
+          {
+            "id": "b071ade4-f5fd-498e-84dc-65f99491c646",
+            "clue": "Money left on a restaurant table, for example",
+            "answer": "tip",
+            "normalized": "tip"
+          },
+          {
+            "id": "5b6ca91d-643c-4ffc-95c0-e4587af25dd1",
+            "clue": "American name for the letter Z",
+            "answer": "zee",
+            "normalized": "zee"
+          },
+          {
+            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
+            "clue": "Initialism for Earliest Due Date scheduling",
+            "answer": "edd",
+            "normalized": "edd"
+          }
+        ],
+        "track": "PC|LenC--Y2026M7D26F1"
       }
     },
     "latestAvailableEntry": {
@@ -428907,21 +428883,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "B51w1iQmz3Jx3xW3n7X1hA4AJLy5LI0F9XhFCm4CiOGjSuDU357N/DwpqAgcvEVafNSMOhp7AS4SZaVxt7P/KDsA1DFfemMlBQQgCks38DiY/BZMGsjIuoXeLe2/1EuWGu8NahW/yZsfIBrz+2S8bMOsBFkWYBQwetCWiJJh1SDOpBWfpQli0v1lOEp4QqmCA2HfdE6MUgD3Tp1ZUpUoyLffkijxBimYBVFbLAS9PravOsOf2Z/6FHf5+e8osqpRPGgYYTz4RKHpnrcsf48UmTDNIpvyJrusaw7EbWQYrig="
+        "xqxnqH/U756wIEuCV3j2yS8p1D8ZlTpALC/For74rr7/qg6j37E2/B7DLicgxnd/hK6Y02RJ4ezmtOAfRpU90gvuIAwd+tGvsA5gv4C0TYzkMx4SwLcTzoqaBKh/5PoJtVoUegc5WsAWpwy+8kdafnrepAZXMHPe39aDYL5Uoc3DuKArGg8NrS5SRmFsEUvpJjUiHuLu1HvqIcnzLsRiI27kXPMxoQBE1RbSi9RdntZGJUoY0oXjH4iN+H2qKZyV3FcoJdREy/Z7WK/VgWOaZHaf+Gl3OsetFY4As1RqzFU="
       ]
     },
     "decrypted": {
-      "Id": "2f0c67aa-8b39-450d-af25-6b51ea3468e7",
-      "Date": "2026-07-25T00:00:00Z",
+      "Id": "96c89af9-f005-49cb-b68d-e0782397c7b4",
+      "Date": "2026-07-26T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "metal",
-      "NormalizedPassword": "metal",
+      "Password": "hyper",
+      "NormalizedPassword": "hyper",
       "MaxGuesses": 6,
       "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-25T01:22:54.7910000+05:30",
-    "hash": "7a507e9005d5673e7b5bfce0c097e3ba",
+    "dtu": "2026-07-26T01:10:23.0350000+05:30",
+    "hash": "5c08be8cd9af8c8b0a5f578a021fce49",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
