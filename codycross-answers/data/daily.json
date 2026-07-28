@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T20:01:51.584Z",
+  "generatedAt": "2026-07-28T19:57:59.807Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 28
+    "day": 29
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 52
+        "QuantidadeDeFases": 54
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -8311,7 +8311,7 @@
             },
             {
               "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-              "clue": "Email abbreviation, means \"just so you know\"",
+              "clue": "Email abbreviation, means \"for your information\"",
               "answer": "fyi",
               "normalized": "fyi"
             },
@@ -47202,7 +47202,7 @@
             },
             {
               "id": "4f340db8-a96b-48d6-bf1b-6990c6c7b80e",
-              "clue": "Medical nutrition treatment, abbreviated",
+              "clue": "Medical nutrition therapy, abbreviated",
               "answer": "mnt",
               "normalized": "mnt"
             }
@@ -51919,7 +51919,7 @@
             },
             {
               "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-              "clue": "Email abbreviation, means \"just so you know\"",
+              "clue": "Email abbreviation, means \"for your information\"",
               "answer": "fyi",
               "normalized": "fyi"
             },
@@ -69872,7 +69872,7 @@
             },
             {
               "id": "77b9b58c-0d0d-4036-b48a-cde375f810d2",
-              "clue": "Motion before criminal case",
+              "clue": "Occurring before a criminal case",
               "answer": "pretrial",
               "normalized": "pretrial"
             },
@@ -76667,7 +76667,7 @@
             },
             {
               "id": "d3c9d0ac-758c-4b2d-9487-b5a95eb77d6b",
-              "clue": "Girlfriend of James Reid after Nadine",
+              "clue": "__ Pressman, Alyana in Ang Probinsyano",
               "answer": "issa",
               "normalized": "issa"
             },
@@ -101176,7 +101176,7 @@
           "answers": [
             {
               "id": "d3c9d0ac-758c-4b2d-9487-b5a95eb77d6b",
-              "clue": "Girlfriend of James Reid after Nadine",
+              "clue": "__ Pressman, Alyana in Ang Probinsyano",
               "answer": "issa",
               "normalized": "issa"
             },
@@ -116426,7 +116426,7 @@
             },
             {
               "id": "24e35dd6-3bf1-42fe-be9d-3969e706e0b0",
-              "clue": "Males who have received a knighthood",
+              "clue": "Men who have been knighted",
               "answer": "sirs",
               "normalized": "sirs"
             },
@@ -118676,7 +118676,7 @@
             },
             {
               "id": "d3c9d0ac-758c-4b2d-9487-b5a95eb77d6b",
-              "clue": "Girlfriend of James Reid after Nadine",
+              "clue": "__ Pressman, Alyana in Ang Probinsyano",
               "answer": "issa",
               "normalized": "issa"
             },
@@ -121541,7 +121541,7 @@
             },
             {
               "id": "d3c9d0ac-758c-4b2d-9487-b5a95eb77d6b",
-              "clue": "Girlfriend of James Reid after Nadine",
+              "clue": "__ Pressman, Alyana in Ang Probinsyano",
               "answer": "issa",
               "normalized": "issa"
             },
@@ -132137,7 +132137,7 @@
             },
             {
               "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-              "clue": "Email abbreviation, means \"just so you know\"",
+              "clue": "Email abbreviation, means \"for your information\"",
               "answer": "fyi",
               "normalized": "fyi"
             },
@@ -158621,7 +158621,7 @@
             },
             {
               "id": "d3c9d0ac-758c-4b2d-9487-b5a95eb77d6b",
-              "clue": "Girlfriend of James Reid after Nadine",
+              "clue": "__ Pressman, Alyana in Ang Probinsyano",
               "answer": "issa",
               "normalized": "issa"
             },
@@ -159269,7 +159269,7 @@
             },
             {
               "id": "24e35dd6-3bf1-42fe-be9d-3969e706e0b0",
-              "clue": "Males who have received a knighthood",
+              "clue": "Men who have been knighted",
               "answer": "sirs",
               "normalized": "sirs"
             }
@@ -183750,7 +183750,7 @@
             },
             {
               "id": "d3c9d0ac-758c-4b2d-9487-b5a95eb77d6b",
-              "clue": "Girlfriend of James Reid after Nadine",
+              "clue": "__ Pressman, Alyana in Ang Probinsyano",
               "answer": "issa",
               "normalized": "issa"
             },
@@ -216085,7 +216085,7 @@
             },
             {
               "id": "d3c9d0ac-758c-4b2d-9487-b5a95eb77d6b",
-              "clue": "Girlfriend of James Reid after Nadine",
+              "clue": "__ Pressman, Alyana in Ang Probinsyano",
               "answer": "issa",
               "normalized": "issa"
             },
@@ -265908,7 +265908,7 @@
             },
             {
               "id": "d3c9d0ac-758c-4b2d-9487-b5a95eb77d6b",
-              "clue": "Girlfriend of James Reid after Nadine",
+              "clue": "__ Pressman, Alyana in Ang Probinsyano",
               "answer": "issa",
               "normalized": "issa"
             },
@@ -295097,7 +295097,7 @@
             },
             {
               "id": "409a6d7b-cdb7-4dff-83c3-e5f26b82e65b",
-              "clue": "One individual financial investment",
+              "clue": "Individual share of ownership in a company",
               "answer": "stock",
               "normalized": "stock"
             },
@@ -299462,7 +299462,7 @@
             },
             {
               "id": "061b76e5-2f69-4b76-9963-7fccd4fe24fe",
-              "clue": "An Italian city that rhymes with Iran",
+              "clue": "An Italian city that almost rhymes with Iran",
               "answer": "milan",
               "normalized": "milan"
             },
@@ -313370,7 +313370,7 @@
             },
             {
               "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-              "clue": "Email abbreviation, means \"just so you know\"",
+              "clue": "Email abbreviation, means \"for your information\"",
               "answer": "fyi",
               "normalized": "fyi"
             },
@@ -318311,7 +318311,7 @@
             },
             {
               "id": "72d59855-17b2-4009-808e-ed5de68719d1",
-              "clue": "Relaxing getaway location",
+              "clue": "Relaxing wellness facility",
               "answer": "spa",
               "normalized": "spa"
             },
@@ -320363,7 +320363,7 @@
             },
             {
               "id": "aab88a18-4da7-4bec-8011-292bcf6ac344",
-              "clue": "Atomic bomb, for short",
+              "clue": "Nuclear weapon, for short",
               "answer": "nuke",
               "normalized": "nuke"
             },
@@ -322291,7 +322291,7 @@
             },
             {
               "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-              "clue": "Email abbreviation, means \"just so you know\"",
+              "clue": "Email abbreviation, means \"for your information\"",
               "answer": "fyi",
               "normalized": "fyi"
             },
@@ -330213,7 +330213,7 @@
             },
             {
               "id": "72d59855-17b2-4009-808e-ed5de68719d1",
-              "clue": "Relaxing getaway location",
+              "clue": "Relaxing wellness facility",
               "answer": "spa",
               "normalized": "spa"
             },
@@ -358045,7 +358045,7 @@
             },
             {
               "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-              "clue": "Email abbreviation, means \"just so you know\"",
+              "clue": "Email abbreviation, means \"for your information\"",
               "answer": "fyi",
               "normalized": "fyi"
             }
@@ -362620,7 +362620,7 @@
             },
             {
               "id": "c80551e9-d160-4380-aeb5-71771da0714d",
-              "clue": "Email abbreviation, means \"just so you know\"",
+              "clue": "Email abbreviation, means \"for your information\"",
               "answer": "fyi",
               "normalized": "fyi"
             },
@@ -368720,7 +368720,7 @@
             },
             {
               "id": "c2dd5a51-afa7-4984-8c95-0f46e3000eb0",
-              "clue": "Related to China",
+              "clue": "Prefix meaning related to China",
               "answer": "sino",
               "normalized": "sino"
             },
@@ -428251,439 +428251,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-28",
+      "key": "2026-07-29",
       "year": 2026,
       "month": 7,
-      "day": 28,
+      "day": 29,
       "small": {
-        "puzzleId": "5ab32f78-73a4-4dbf-99c3-ae7b48b46bf3",
+        "puzzleId": "97536737-884d-4d75-b55e-679e682bfd8b",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "9879e119-dc51-4884-913b-e89fe29dfb08",
-            "clue": "Gulf Cooperation Council, initialism",
-            "answer": "gcc",
-            "normalized": "gcc"
+            "id": "08e11064-0455-4b9d-8a62-d49e710df9fb",
+            "clue": "Precipitation",
+            "answer": "rain",
+            "normalized": "rain"
           },
           {
-            "id": "0eed28c2-f3c2-4e41-b5c7-aa801787272f",
-            "clue": "__ the moment; spontaneous",
-            "answer": "spur of",
-            "normalized": "spurof"
+            "id": "be64a28e-fba6-49c5-ad6e-ab5be34319a1",
+            "clue": "Longing, desire",
+            "answer": "urge",
+            "normalized": "urge"
           },
           {
-            "id": "19b1837d-6e08-42a1-a289-9cf430bc170e",
-            "clue": "Italian word for ice cream",
-            "answer": "gelato",
-            "normalized": "gelato"
+            "id": "3ce88c6f-e054-4365-b2ec-29b41dfb37ca",
+            "clue": "Encounters someone",
+            "answer": "meets",
+            "normalized": "meets"
           },
           {
-            "id": "816bdcfe-340b-43fe-a757-1199376fc645",
-            "clue": "I come to bury Caesar, not to __ him",
-            "answer": "praise",
-            "normalized": "praise"
+            "id": "99573292-7c6c-44e5-9a89-d453cad88869",
+            "clue": "Ms. Smith who released 1975's Horses",
+            "answer": "patti",
+            "normalized": "patti"
           },
           {
-            "id": "afc52cf3-68bd-401b-9df7-bd8af9364a7a",
-            "clue": "Brand known for sheepskin boots",
-            "answer": "ugg",
-            "normalized": "ugg"
+            "id": "0736456d-e7d0-4a3a-89e9-8888a78246ef",
+            "clue": "Fine sediment transported by water or air",
+            "answer": "silt",
+            "normalized": "silt"
           },
           {
-            "id": "1bfe437d-455e-4f95-aedc-05be77b41f54",
-            "clue": "Soviet Union system of penal work camps",
-            "answer": "gulag",
-            "normalized": "gulag"
+            "id": "996210c8-e359-446e-833c-d7caf6ba8139",
+            "clue": "Golf ball platform",
+            "answer": "tee",
+            "normalized": "tee"
           },
           {
-            "id": "609f5b48-2c27-4627-a0b6-829e13a11935",
-            "clue": "Seventh James Bond actor",
-            "answer": "craig",
-            "normalized": "craig"
+            "id": "6cc48c95-7520-4195-8d5d-a1d8b5266989",
+            "clue": "Hind part of a mammal's body",
+            "answer": "rump",
+            "normalized": "rump"
           },
           {
-            "id": "598aa509-6e05-4ffb-8b29-099d6091c7b2",
-            "clue": "Small beds",
-            "answer": "cots",
-            "normalized": "cots"
+            "id": "3985ba54-d696-4997-b5be-de86c3511670",
+            "clue": "Regions",
+            "answer": "areas",
+            "normalized": "areas"
           },
           {
-            "id": "d819c271-f0a2-493f-a2ba-e1d2e112e34a",
-            "clue": "Three-letter alpha code for Singapore",
-            "answer": "sgp",
-            "normalized": "sgp"
+            "id": "61566742-495c-4742-b0af-cd9ab6217909",
+            "clue": "Three words said when understanding a joke",
+            "answer": "i get it",
+            "normalized": "igetit"
           },
           {
-            "id": "5ad12dbe-0bbf-4d18-8d6d-c880e7cb8932",
-            "clue": "South American country with capital of Lima",
-            "answer": "peru",
-            "normalized": "peru"
+            "id": "56fefa82-9cbb-4d13-b146-06c2938b9c90",
+            "clue": "\"Better be stung by a __ than pricked by a rose\"",
+            "answer": "nettle",
+            "normalized": "nettle"
           },
           {
-            "id": "ee992229-3dbc-4f2e-afd7-1c1acfe9a677",
-            "clue": "Enemy, often a worthy one",
-            "answer": "foe",
-            "normalized": "foe"
+            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
+            "clue": "Shorthand for a collection of web pages",
+            "answer": "site",
+            "normalized": "site"
           }
         ],
-        "track": "PC|LenC--Y2026M7D28F0"
+        "track": "PC|LenC--Y2026M7D29F0"
       },
       "mid": {
-        "puzzleId": "96ed9736-45f1-4331-90ae-729b507e9478",
+        "puzzleId": "341f8e67-5d81-4bcd-8777-af8acccda2bb",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 5,
         "answers": [
           {
-            "id": "767ef97f-952f-4762-8591-97f5f816c1e0",
-            "clue": "Army-speak for missing from duty",
-            "answer": "awol",
-            "normalized": "awol"
+            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
+            "clue": "Sixth sense, in short",
+            "answer": "esp",
+            "normalized": "esp"
           },
           {
-            "id": "db1e1a98-131b-483a-abb2-77c68dfde760",
-            "clue": "Metal spike tool for making holes in leather",
-            "answer": "awl",
-            "normalized": "awl"
+            "id": "1e0643e8-3965-4c1f-9874-0d6add9f0e48",
+            "clue": "Relaxation location, often with hot springs",
+            "answer": "spa",
+            "normalized": "spa"
           },
           {
-            "id": "226362b2-a468-44ac-ab23-5a99463eebd3",
-            "clue": "What a volcano spews",
-            "answer": "lava",
-            "normalized": "lava"
+            "id": "c61690c0-b32f-40fd-b4a8-88342176fe3a",
+            "clue": "A tiger has many",
+            "answer": "stripes",
+            "normalized": "stripes"
           },
           {
-            "id": "dc75ccd1-43fc-4d5c-adfa-a603e2c121bc",
-            "clue": "North American ice sport group",
-            "answer": "nhl",
-            "normalized": "nhl"
+            "id": "6a58c681-10ef-4439-85aa-dd24f812d326",
+            "clue": "Cleansing liquid removes grit from visual organs",
+            "answer": "eyewash",
+            "normalized": "eyewash"
           },
           {
-            "id": "0d554a21-72cb-4f64-986f-5eb818b16452",
-            "clue": "Based an argument on",
-            "answer": "premised",
-            "normalized": "premised"
+            "id": "c6b8236c-f88e-4a86-b211-aaea1543945e",
+            "clue": "This McFly went Back to the Future",
+            "answer": "marty",
+            "normalized": "marty"
           },
           {
-            "id": "8245d2dd-81e1-440a-89a6-96ee31113e32",
-            "clue": "Vehicle conductor",
-            "answer": "driver",
-            "normalized": "driver"
+            "id": "ac386cd3-28ad-4750-ab1c-9fcdb7317deb",
+            "clue": "Rotates a top",
+            "answer": "spins",
+            "normalized": "spins"
           },
           {
-            "id": "4e1e783b-61f9-4e80-8de7-9eae96c3f916",
-            "clue": "Came off the tracks",
-            "answer": "derailed",
-            "normalized": "derailed"
+            "id": "ba97596b-ce84-41fd-a821-9126e2b8608a",
+            "clue": "Icelandic Nobel prize-winning writer of 1955",
+            "answer": "laxness",
+            "normalized": "laxness"
           },
           {
-            "id": "bbd0ba4a-b15b-468e-8135-bf0fe49a6c66",
-            "clue": "Cookbook author Garten",
-            "answer": "ina",
-            "normalized": "ina"
+            "id": "d04c995f-933a-4fe9-a5b5-6694a7d624b0",
+            "clue": "In a perfect world",
+            "answer": "ideally",
+            "normalized": "ideally"
           },
           {
-            "id": "dcef0fbd-1ed7-4928-8466-1ba4a6a83854",
-            "clue": "One of seven leaders in the UAE",
-            "answer": "emir",
-            "normalized": "emir"
+            "id": "f20d4f75-fdde-4b76-82fb-d036b808dbc9",
+            "clue": "Slang for average or mediocre",
+            "answer": "mid",
+            "normalized": "mid"
           },
           {
-            "id": "fd7e7bff-d90f-4d76-9e26-2c02fe374c12",
-            "clue": "Microsoft web and news portal",
-            "answer": "msn",
-            "normalized": "msn"
+            "id": "ce55b993-5aac-4de7-9512-12707426555c",
+            "clue": "The opposite of no",
+            "answer": "yes",
+            "normalized": "yes"
           },
           {
-            "id": "629b8e95-22e2-46fb-9d4c-46d97e68a7a0",
-            "clue": "The prescribed amount of a medication",
-            "answer": "dose",
-            "normalized": "dose"
+            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
+            "clue": "Direction halfway between east and southeast",
+            "answer": "ese",
+            "normalized": "ese"
           },
           {
-            "id": "6103c25d-11d6-44e6-8fdd-e3ffa2ffa4ac",
-            "clue": "One peak among many in a European mountain range",
-            "answer": "alp",
-            "normalized": "alp"
+            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
+            "clue": "A pigpen",
+            "answer": "sty",
+            "normalized": "sty"
           },
           {
-            "id": "d412b749-e50f-437b-8e91-a4302a5bded4",
-            "clue": "Prison officials",
-            "answer": "wardens",
-            "normalized": "wardens"
+            "id": "ddeea38d-7995-4f47-afa0-57343f8961e4",
+            "clue": "Already blended when sold, e.g. concrete, paint",
+            "answer": "premixed",
+            "normalized": "premixed"
           },
           {
-            "id": "3bd4e755-65db-4358-b132-39ee4b141026",
-            "clue": "Went on too long; jogged too far",
-            "answer": "overran",
-            "normalized": "overran"
+            "id": "a3e4c60c-8d57-4ea8-a055-ba854ddb9044",
+            "clue": "Thinly dispersed, not densely",
+            "answer": "sparsely",
+            "normalized": "sparsely"
           },
           {
-            "id": "5a3d0040-89f1-4a98-8705-9b570f83ace3",
-            "clue": "Female child-eating monster in Greek mythology",
-            "answer": "lamia",
-            "normalized": "lamia"
+            "id": "bda52047-e011-4e05-8997-94c86e6b0d12",
+            "clue": "Annoying creature like a rat or mosquito",
+            "answer": "pest",
+            "normalized": "pest"
           },
           {
-            "id": "65091497-9250-4f16-9ee2-a07d068bcdf3",
-            "clue": "Elderly guide in For Whom the Bell Tolls",
-            "answer": "anselmo",
-            "normalized": "anselmo"
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
           },
           {
-            "id": "60551540-ac18-48da-9ce2-777000c1acd7",
-            "clue": "__ The Love? 2003 mega hit for The Black Eyed Peas",
-            "answer": "where is",
-            "normalized": "whereis"
+            "id": "2710adde-d549-4513-9a02-ef07e1737230",
+            "clue": "__ Dance With Somebody, hit for Whitney in 1987",
+            "answer": "i wanna",
+            "normalized": "iwanna"
           },
           {
-            "id": "f34d3bf3-ea3e-40fa-87cb-d5571e1302a3",
-            "clue": "Low-level design, abbreviated",
-            "answer": "lld",
-            "normalized": "lld"
+            "id": "e3a76c37-615f-4382-b98b-117f5a959f57",
+            "clue": "Slight, thin",
+            "answer": "slim",
+            "normalized": "slim"
           },
           {
-            "id": "60b1f95e-e1ea-4f7d-89a9-96308a775e30",
-            "clue": "Covered in climbing plants",
-            "answer": "ivied",
-            "normalized": "ivied"
+            "id": "394fe62a-1dea-495e-b557-2238803ae69e",
+            "clue": "Certification course for trainee scuba divers",
+            "answer": "padi",
+            "normalized": "padi"
           },
           {
-            "id": "1f6988f8-f131-44ee-8018-a4e1d4dffeeb",
-            "clue": "Faintly lit",
-            "answer": "dim",
-            "normalized": "dim"
+            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
+            "clue": "Currency code for the Sierra Leonean leone",
+            "answer": "sle",
+            "normalized": "sle"
           },
           {
-            "id": "abcf034d-6635-462a-80cc-e7f8935d6178",
-            "clue": "Dr. rapper with Aftermath record label",
-            "answer": "dre",
-            "normalized": "dre"
+            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
+            "clue": "Windows system file extension",
+            "answer": "sys",
+            "normalized": "sys"
           }
         ],
-        "track": "PC|LenC--Y2026M7D28F1"
+        "track": "PC|LenC--Y2026M7D29F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-28",
+      "key": "2026-07-29",
       "year": 2026,
       "month": 7,
-      "day": 28,
+      "day": 29,
       "small": {
-        "puzzleId": "5ab32f78-73a4-4dbf-99c3-ae7b48b46bf3",
+        "puzzleId": "97536737-884d-4d75-b55e-679e682bfd8b",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "9879e119-dc51-4884-913b-e89fe29dfb08",
-            "clue": "Gulf Cooperation Council, initialism",
-            "answer": "gcc",
-            "normalized": "gcc"
+            "id": "08e11064-0455-4b9d-8a62-d49e710df9fb",
+            "clue": "Precipitation",
+            "answer": "rain",
+            "normalized": "rain"
           },
           {
-            "id": "0eed28c2-f3c2-4e41-b5c7-aa801787272f",
-            "clue": "__ the moment; spontaneous",
-            "answer": "spur of",
-            "normalized": "spurof"
+            "id": "be64a28e-fba6-49c5-ad6e-ab5be34319a1",
+            "clue": "Longing, desire",
+            "answer": "urge",
+            "normalized": "urge"
           },
           {
-            "id": "19b1837d-6e08-42a1-a289-9cf430bc170e",
-            "clue": "Italian word for ice cream",
-            "answer": "gelato",
-            "normalized": "gelato"
+            "id": "3ce88c6f-e054-4365-b2ec-29b41dfb37ca",
+            "clue": "Encounters someone",
+            "answer": "meets",
+            "normalized": "meets"
           },
           {
-            "id": "816bdcfe-340b-43fe-a757-1199376fc645",
-            "clue": "I come to bury Caesar, not to __ him",
-            "answer": "praise",
-            "normalized": "praise"
+            "id": "99573292-7c6c-44e5-9a89-d453cad88869",
+            "clue": "Ms. Smith who released 1975's Horses",
+            "answer": "patti",
+            "normalized": "patti"
           },
           {
-            "id": "afc52cf3-68bd-401b-9df7-bd8af9364a7a",
-            "clue": "Brand known for sheepskin boots",
-            "answer": "ugg",
-            "normalized": "ugg"
+            "id": "0736456d-e7d0-4a3a-89e9-8888a78246ef",
+            "clue": "Fine sediment transported by water or air",
+            "answer": "silt",
+            "normalized": "silt"
           },
           {
-            "id": "1bfe437d-455e-4f95-aedc-05be77b41f54",
-            "clue": "Soviet Union system of penal work camps",
-            "answer": "gulag",
-            "normalized": "gulag"
+            "id": "996210c8-e359-446e-833c-d7caf6ba8139",
+            "clue": "Golf ball platform",
+            "answer": "tee",
+            "normalized": "tee"
           },
           {
-            "id": "609f5b48-2c27-4627-a0b6-829e13a11935",
-            "clue": "Seventh James Bond actor",
-            "answer": "craig",
-            "normalized": "craig"
+            "id": "6cc48c95-7520-4195-8d5d-a1d8b5266989",
+            "clue": "Hind part of a mammal's body",
+            "answer": "rump",
+            "normalized": "rump"
           },
           {
-            "id": "598aa509-6e05-4ffb-8b29-099d6091c7b2",
-            "clue": "Small beds",
-            "answer": "cots",
-            "normalized": "cots"
+            "id": "3985ba54-d696-4997-b5be-de86c3511670",
+            "clue": "Regions",
+            "answer": "areas",
+            "normalized": "areas"
           },
           {
-            "id": "d819c271-f0a2-493f-a2ba-e1d2e112e34a",
-            "clue": "Three-letter alpha code for Singapore",
-            "answer": "sgp",
-            "normalized": "sgp"
+            "id": "61566742-495c-4742-b0af-cd9ab6217909",
+            "clue": "Three words said when understanding a joke",
+            "answer": "i get it",
+            "normalized": "igetit"
           },
           {
-            "id": "5ad12dbe-0bbf-4d18-8d6d-c880e7cb8932",
-            "clue": "South American country with capital of Lima",
-            "answer": "peru",
-            "normalized": "peru"
+            "id": "56fefa82-9cbb-4d13-b146-06c2938b9c90",
+            "clue": "\"Better be stung by a __ than pricked by a rose\"",
+            "answer": "nettle",
+            "normalized": "nettle"
           },
           {
-            "id": "ee992229-3dbc-4f2e-afd7-1c1acfe9a677",
-            "clue": "Enemy, often a worthy one",
-            "answer": "foe",
-            "normalized": "foe"
+            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
+            "clue": "Shorthand for a collection of web pages",
+            "answer": "site",
+            "normalized": "site"
           }
         ],
-        "track": "PC|LenC--Y2026M7D28F0"
+        "track": "PC|LenC--Y2026M7D29F0"
       },
       "mid": {
-        "puzzleId": "96ed9736-45f1-4331-90ae-729b507e9478",
+        "puzzleId": "341f8e67-5d81-4bcd-8777-af8acccda2bb",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 5,
         "answers": [
           {
-            "id": "767ef97f-952f-4762-8591-97f5f816c1e0",
-            "clue": "Army-speak for missing from duty",
-            "answer": "awol",
-            "normalized": "awol"
+            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
+            "clue": "Sixth sense, in short",
+            "answer": "esp",
+            "normalized": "esp"
           },
           {
-            "id": "db1e1a98-131b-483a-abb2-77c68dfde760",
-            "clue": "Metal spike tool for making holes in leather",
-            "answer": "awl",
-            "normalized": "awl"
+            "id": "1e0643e8-3965-4c1f-9874-0d6add9f0e48",
+            "clue": "Relaxation location, often with hot springs",
+            "answer": "spa",
+            "normalized": "spa"
           },
           {
-            "id": "226362b2-a468-44ac-ab23-5a99463eebd3",
-            "clue": "What a volcano spews",
-            "answer": "lava",
-            "normalized": "lava"
+            "id": "c61690c0-b32f-40fd-b4a8-88342176fe3a",
+            "clue": "A tiger has many",
+            "answer": "stripes",
+            "normalized": "stripes"
           },
           {
-            "id": "dc75ccd1-43fc-4d5c-adfa-a603e2c121bc",
-            "clue": "North American ice sport group",
-            "answer": "nhl",
-            "normalized": "nhl"
+            "id": "6a58c681-10ef-4439-85aa-dd24f812d326",
+            "clue": "Cleansing liquid removes grit from visual organs",
+            "answer": "eyewash",
+            "normalized": "eyewash"
           },
           {
-            "id": "0d554a21-72cb-4f64-986f-5eb818b16452",
-            "clue": "Based an argument on",
-            "answer": "premised",
-            "normalized": "premised"
+            "id": "c6b8236c-f88e-4a86-b211-aaea1543945e",
+            "clue": "This McFly went Back to the Future",
+            "answer": "marty",
+            "normalized": "marty"
           },
           {
-            "id": "8245d2dd-81e1-440a-89a6-96ee31113e32",
-            "clue": "Vehicle conductor",
-            "answer": "driver",
-            "normalized": "driver"
+            "id": "ac386cd3-28ad-4750-ab1c-9fcdb7317deb",
+            "clue": "Rotates a top",
+            "answer": "spins",
+            "normalized": "spins"
           },
           {
-            "id": "4e1e783b-61f9-4e80-8de7-9eae96c3f916",
-            "clue": "Came off the tracks",
-            "answer": "derailed",
-            "normalized": "derailed"
+            "id": "ba97596b-ce84-41fd-a821-9126e2b8608a",
+            "clue": "Icelandic Nobel prize-winning writer of 1955",
+            "answer": "laxness",
+            "normalized": "laxness"
           },
           {
-            "id": "bbd0ba4a-b15b-468e-8135-bf0fe49a6c66",
-            "clue": "Cookbook author Garten",
-            "answer": "ina",
-            "normalized": "ina"
+            "id": "d04c995f-933a-4fe9-a5b5-6694a7d624b0",
+            "clue": "In a perfect world",
+            "answer": "ideally",
+            "normalized": "ideally"
           },
           {
-            "id": "dcef0fbd-1ed7-4928-8466-1ba4a6a83854",
-            "clue": "One of seven leaders in the UAE",
-            "answer": "emir",
-            "normalized": "emir"
+            "id": "f20d4f75-fdde-4b76-82fb-d036b808dbc9",
+            "clue": "Slang for average or mediocre",
+            "answer": "mid",
+            "normalized": "mid"
           },
           {
-            "id": "fd7e7bff-d90f-4d76-9e26-2c02fe374c12",
-            "clue": "Microsoft web and news portal",
-            "answer": "msn",
-            "normalized": "msn"
+            "id": "ce55b993-5aac-4de7-9512-12707426555c",
+            "clue": "The opposite of no",
+            "answer": "yes",
+            "normalized": "yes"
           },
           {
-            "id": "629b8e95-22e2-46fb-9d4c-46d97e68a7a0",
-            "clue": "The prescribed amount of a medication",
-            "answer": "dose",
-            "normalized": "dose"
+            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
+            "clue": "Direction halfway between east and southeast",
+            "answer": "ese",
+            "normalized": "ese"
           },
           {
-            "id": "6103c25d-11d6-44e6-8fdd-e3ffa2ffa4ac",
-            "clue": "One peak among many in a European mountain range",
-            "answer": "alp",
-            "normalized": "alp"
+            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
+            "clue": "A pigpen",
+            "answer": "sty",
+            "normalized": "sty"
           },
           {
-            "id": "d412b749-e50f-437b-8e91-a4302a5bded4",
-            "clue": "Prison officials",
-            "answer": "wardens",
-            "normalized": "wardens"
+            "id": "ddeea38d-7995-4f47-afa0-57343f8961e4",
+            "clue": "Already blended when sold, e.g. concrete, paint",
+            "answer": "premixed",
+            "normalized": "premixed"
           },
           {
-            "id": "3bd4e755-65db-4358-b132-39ee4b141026",
-            "clue": "Went on too long; jogged too far",
-            "answer": "overran",
-            "normalized": "overran"
+            "id": "a3e4c60c-8d57-4ea8-a055-ba854ddb9044",
+            "clue": "Thinly dispersed, not densely",
+            "answer": "sparsely",
+            "normalized": "sparsely"
           },
           {
-            "id": "5a3d0040-89f1-4a98-8705-9b570f83ace3",
-            "clue": "Female child-eating monster in Greek mythology",
-            "answer": "lamia",
-            "normalized": "lamia"
+            "id": "bda52047-e011-4e05-8997-94c86e6b0d12",
+            "clue": "Annoying creature like a rat or mosquito",
+            "answer": "pest",
+            "normalized": "pest"
           },
           {
-            "id": "65091497-9250-4f16-9ee2-a07d068bcdf3",
-            "clue": "Elderly guide in For Whom the Bell Tolls",
-            "answer": "anselmo",
-            "normalized": "anselmo"
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
           },
           {
-            "id": "60551540-ac18-48da-9ce2-777000c1acd7",
-            "clue": "__ The Love? 2003 mega hit for The Black Eyed Peas",
-            "answer": "where is",
-            "normalized": "whereis"
+            "id": "2710adde-d549-4513-9a02-ef07e1737230",
+            "clue": "__ Dance With Somebody, hit for Whitney in 1987",
+            "answer": "i wanna",
+            "normalized": "iwanna"
           },
           {
-            "id": "f34d3bf3-ea3e-40fa-87cb-d5571e1302a3",
-            "clue": "Low-level design, abbreviated",
-            "answer": "lld",
-            "normalized": "lld"
+            "id": "e3a76c37-615f-4382-b98b-117f5a959f57",
+            "clue": "Slight, thin",
+            "answer": "slim",
+            "normalized": "slim"
           },
           {
-            "id": "60b1f95e-e1ea-4f7d-89a9-96308a775e30",
-            "clue": "Covered in climbing plants",
-            "answer": "ivied",
-            "normalized": "ivied"
+            "id": "394fe62a-1dea-495e-b557-2238803ae69e",
+            "clue": "Certification course for trainee scuba divers",
+            "answer": "padi",
+            "normalized": "padi"
           },
           {
-            "id": "1f6988f8-f131-44ee-8018-a4e1d4dffeeb",
-            "clue": "Faintly lit",
-            "answer": "dim",
-            "normalized": "dim"
+            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
+            "clue": "Currency code for the Sierra Leonean leone",
+            "answer": "sle",
+            "normalized": "sle"
           },
           {
-            "id": "abcf034d-6635-462a-80cc-e7f8935d6178",
-            "clue": "Dr. rapper with Aftermath record label",
-            "answer": "dre",
-            "normalized": "dre"
+            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
+            "clue": "Windows system file extension",
+            "answer": "sys",
+            "normalized": "sys"
           }
         ],
-        "track": "PC|LenC--Y2026M7D28F1"
+        "track": "PC|LenC--Y2026M7D29F1"
       }
     },
     "latestAvailableEntry": {
@@ -428895,21 +428895,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "i6LkUzTF19Ttwg3N9+JPEXb0Wx7ndB3frnAfmMukZXlUoThnKDR3rhOpwVfuW+PsfWOsrXh9TIHin8TjwZ+kioGHAawypq9sLf7WMJ98yXFMjdy+7sGKTKUcyX8r/6po+Nm4axmshsR8Aoh9uwNIztvBC0rf8XEZXyp0iMEXRgAWXdCflQbQY8rA4qhh/qYeF6YAgReKhQ7AgtfgfSl9VmYhVecw9wfoUVeFVVT5j1XEXj1lyoedhBKZU7DoXWH3pbkcBRBgi4YOk8tK85HZUnDxizcNOMKNH+SqhV2KTnM="
+        "0uX0raGs8k5x6Fo5TqrZktMsok+3BfZNqUOhdx4l47Q1ljtd9csPMlyIa4Ghvfgk2awxp5x4gSpYCjT51N5N2MJAx9JkY/1PP/JkgoOzD2GYw/9oP47vQ5YKVaZpf7CBJQxp3qglscp/UImyDVCl0fbLemRqGOGxRHRwzo5+vwQz2+ntMGjFE9/6EE42sKTjfmZNoeXLL+CgfSl2jRui1/8+VnXrmRbERXPw3Fe6XU2MpRqCaVWkH9IOOTxO4bjU5Q39VZkMCq7rhOSZeO53JokuPTBVRMzdd02inrZNU8w="
       ]
     },
     "decrypted": {
-      "Id": "be0d7a0f-d037-4612-a9f8-fdaee0ea032b",
-      "Date": "2026-07-28T00:00:00Z",
+      "Id": "5b9011de-f485-47a5-8a7c-9bdcae40464b",
+      "Date": "2026-07-29T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "stork",
-      "NormalizedPassword": "stork",
+      "Password": "least",
+      "NormalizedPassword": "least",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-28T01:31:51.5840000+05:30",
-    "hash": "c58370d7af18f4695ddc5d7e0481a2df",
+    "dtu": "2026-07-29T01:27:59.8070000+05:30",
+    "hash": "0df5a23125d27d65a969e1a1d78d7715",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
