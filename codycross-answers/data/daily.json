@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T19:57:59.807Z",
+  "generatedAt": "2026-07-29T19:50:14.252Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 29
+    "day": 30
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 54
+        "QuantidadeDeFases": 56
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -9679,7 +9679,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             }
@@ -12013,7 +12013,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             }
@@ -18101,7 +18101,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -21335,7 +21335,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -25967,7 +25967,7 @@
             },
             {
               "id": "21459211-96d7-4dc5-838b-2923610ccaaf",
-              "clue": "I'll __; Terminator's intention to return",
+              "clue": "\"I'll __,\" The Terminator's intention to return",
               "answer": "be back",
               "normalized": "beback"
             },
@@ -39442,7 +39442,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -42003,7 +42003,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -43754,7 +43754,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -46840,7 +46840,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -47904,7 +47904,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             }
@@ -53545,7 +53545,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             }
@@ -66743,7 +66743,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -81461,7 +81461,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -86961,7 +86961,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -89207,7 +89207,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -101408,7 +101408,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             }
@@ -108623,7 +108623,7 @@
             },
             {
               "id": "dc624dc2-e0d8-4501-9e02-407be7069b7d",
-              "clue": "Infants' viral illness: anagram of \"aerosol\"",
+              "clue": "Infants' viral illness; anagram of \"aerosol\"",
               "answer": "roseola",
               "normalized": "roseola"
             },
@@ -110755,7 +110755,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -126389,7 +126389,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -126583,7 +126583,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -141679,7 +141679,7 @@
             },
             {
               "id": "e8314b56-050d-4209-b2b8-a73ecc9edee5",
-              "clue": "British term for an idiot, derived from Spain",
+              "clue": "Ancient English word for idiot, from Spanish",
               "answer": "asinico",
               "normalized": "asinico"
             },
@@ -143917,7 +143917,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -151029,7 +151029,7 @@
             },
             {
               "id": "21c4d506-4fad-409f-9231-257a77a60fcc",
-              "clue": "Spanish for \"what\" before \"sera\" in the song",
+              "clue": "Spanish for \"what\", precedes \"sera\" in the song",
               "answer": "que",
               "normalized": "que"
             },
@@ -160187,7 +160187,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -168626,7 +168626,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -175260,7 +175260,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -180423,7 +180423,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -181319,7 +181319,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -186260,7 +186260,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -190095,7 +190095,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -196917,7 +196917,7 @@
             },
             {
               "id": "dc624dc2-e0d8-4501-9e02-407be7069b7d",
-              "clue": "Infants' viral illness: anagram of \"aerosol\"",
+              "clue": "Infants' viral illness; anagram of \"aerosol\"",
               "answer": "roseola",
               "normalized": "roseola"
             },
@@ -197359,7 +197359,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -222454,7 +222454,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -223044,7 +223044,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             }
@@ -230270,7 +230270,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             }
@@ -242352,7 +242352,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -243641,7 +243641,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -261973,7 +261973,7 @@
             },
             {
               "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-              "clue": "Jealous eponymous Shakespeare lead, Richard __",
+              "clue": "Villainous eponymous Shakespeare lead, Richard __",
               "answer": "iii",
               "normalized": "iii"
             },
@@ -270419,7 +270419,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             }
@@ -281018,7 +281018,7 @@
           "answers": [
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -291805,7 +291805,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -294301,7 +294301,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -324385,7 +324385,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -325092,7 +325092,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -350137,7 +350137,7 @@
           "answers": [
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -351718,7 +351718,7 @@
             },
             {
               "id": "632fb9d6-293e-4730-b3e1-7af732b47520",
-              "clue": "Return to life from the ashes",
+              "clue": "Return to life from the ashes, like a phoenix",
               "answer": "rise up",
               "normalized": "riseup"
             },
@@ -366208,7 +366208,7 @@
             },
             {
               "id": "21c4d506-4fad-409f-9231-257a77a60fcc",
-              "clue": "Spanish for \"what\" before \"sera\" in the song",
+              "clue": "Spanish for \"what\", precedes \"sera\" in the song",
               "answer": "que",
               "normalized": "que"
             },
@@ -369174,7 +369174,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -386572,7 +386572,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -389194,7 +389194,7 @@
             },
             {
               "id": "21c4d506-4fad-409f-9231-257a77a60fcc",
-              "clue": "Spanish for \"what\" before \"sera\" in the song",
+              "clue": "Spanish for \"what\", precedes \"sera\" in the song",
               "answer": "que",
               "normalized": "que"
             },
@@ -402348,7 +402348,7 @@
             },
             {
               "id": "21c4d506-4fad-409f-9231-257a77a60fcc",
-              "clue": "Spanish for \"what\" before \"sera\" in the song",
+              "clue": "Spanish for \"what\", precedes \"sera\" in the song",
               "answer": "que",
               "normalized": "que"
             },
@@ -411997,7 +411997,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -414278,7 +414278,7 @@
             },
             {
               "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-              "clue": "Three letters seen on some speedometers",
+              "clue": "Imperial unit used on some speedometers",
               "answer": "mph",
               "normalized": "mph"
             },
@@ -423282,7 +423282,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -423454,7 +423454,7 @@
             },
             {
               "id": "a0f49e7b-f1cc-463b-a1dc-c74b98f29c57",
-              "clue": "Short for televisions",
+              "clue": "Televisions",
               "answer": "tvs",
               "normalized": "tvs"
             },
@@ -428251,439 +428251,523 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-29",
+      "key": "2026-07-30",
       "year": 2026,
       "month": 7,
-      "day": 29,
+      "day": 30,
       "small": {
-        "puzzleId": "97536737-884d-4d75-b55e-679e682bfd8b",
+        "puzzleId": "dc62b488-65db-4b0a-9dcc-183b04ac5452",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 6,
         "answers": [
           {
-            "id": "08e11064-0455-4b9d-8a62-d49e710df9fb",
-            "clue": "Precipitation",
-            "answer": "rain",
-            "normalized": "rain"
+            "id": "0c01fb68-df13-4f8c-81e6-07a4afd1a9fb",
+            "clue": "Swim underwater with breathing apparatus",
+            "answer": "dive",
+            "normalized": "dive"
           },
           {
-            "id": "be64a28e-fba6-49c5-ad6e-ab5be34319a1",
-            "clue": "Longing, desire",
-            "answer": "urge",
-            "normalized": "urge"
+            "id": "bcc2e6aa-ea2a-4dec-89f9-d80943276679",
+            "clue": "End of __, conclusion, final chapter",
+            "answer": "an era",
+            "normalized": "anera"
           },
           {
-            "id": "3ce88c6f-e054-4365-b2ec-29b41dfb37ca",
-            "clue": "Encounters someone",
-            "answer": "meets",
-            "normalized": "meets"
+            "id": "b5fc9ad1-60a7-40e8-b07e-f4a271a3b99d",
+            "clue": "Winter sports slope",
+            "answer": "ski run",
+            "normalized": "skirun"
           },
           {
-            "id": "99573292-7c6c-44e5-9a89-d453cad88869",
-            "clue": "Ms. Smith who released 1975's Horses",
-            "answer": "patti",
-            "normalized": "patti"
+            "id": "f0ac7c7d-1374-4c47-a87b-474df1c04734",
+            "clue": "Spanish word for ice cream",
+            "answer": "helado",
+            "normalized": "helado"
           },
           {
-            "id": "0736456d-e7d0-4a3a-89e9-8888a78246ef",
-            "clue": "Fine sediment transported by water or air",
-            "answer": "silt",
-            "normalized": "silt"
+            "id": "fc7d7d5c-233e-4f0f-98ac-45fb61c00fd5",
+            "clue": "To discourage someone or try to stop them",
+            "answer": "deter",
+            "normalized": "deter"
           },
           {
-            "id": "996210c8-e359-446e-833c-d7caf6ba8139",
-            "clue": "Golf ball platform",
-            "answer": "tee",
-            "normalized": "tee"
+            "id": "b39b8ade-50cb-4d47-b089-a5274267fcbc",
+            "clue": "White, Plato, Carvey",
+            "answer": "dana",
+            "normalized": "dana"
           },
           {
-            "id": "6cc48c95-7520-4195-8d5d-a1d8b5266989",
-            "clue": "Hind part of a mammal's body",
-            "answer": "rump",
-            "normalized": "rump"
+            "id": "80a5bec4-79d6-461e-9052-2a893881495b",
+            "clue": "Sprint",
+            "answer": "dash",
+            "normalized": "dash"
           },
           {
-            "id": "3985ba54-d696-4997-b5be-de86c3511670",
-            "clue": "Regions",
-            "answer": "areas",
-            "normalized": "areas"
+            "id": "015d5227-41b7-4cec-a2ed-a6b186dc22e1",
+            "clue": "Signed in pen; tattooed",
+            "answer": "inked",
+            "normalized": "inked"
           },
           {
-            "id": "61566742-495c-4742-b0af-cd9ab6217909",
-            "clue": "Three words said when understanding a joke",
-            "answer": "i get it",
-            "normalized": "igetit"
+            "id": "af20a58f-62ce-4561-bc66-8d51473507e4",
+            "clue": "With a covered face, perhaps like a bride",
+            "answer": "veiled",
+            "normalized": "veiled"
           },
           {
-            "id": "56fefa82-9cbb-4d13-b146-06c2938b9c90",
-            "clue": "\"Better be stung by a __ than pricked by a rose\"",
-            "answer": "nettle",
-            "normalized": "nettle"
+            "id": "241f57b9-bcc2-474e-a321-57ca5e711c53",
+            "clue": "Mistakes or errors listed in a book",
+            "answer": "errata",
+            "normalized": "errata"
           },
           {
-            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
-            "clue": "Shorthand for a collection of web pages",
-            "answer": "site",
-            "normalized": "site"
+            "id": "0a72791b-5005-4d76-afeb-07b6cd91a0f2",
+            "clue": "Poet W.H. who wrote Funeral Blues",
+            "answer": "auden",
+            "normalized": "auden"
+          },
+          {
+            "id": "0fd570b8-f8b9-4596-8138-ef81cd8cae6a",
+            "clue": "Romance author Roberts who is also J.D. Robb",
+            "answer": "nora",
+            "normalized": "nora"
           }
         ],
-        "track": "PC|LenC--Y2026M7D29F0"
+        "track": "PC|LenC--Y2026M7D30F0"
       },
       "mid": {
-        "puzzleId": "341f8e67-5d81-4bcd-8777-af8acccda2bb",
+        "puzzleId": "9dc98f78-bfef-4943-a8ae-96759f5e6091",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 5,
+        "version": 3,
         "answers": [
           {
-            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
-            "clue": "Sixth sense, in short",
-            "answer": "esp",
-            "normalized": "esp"
+            "id": "c11ffd8c-2e61-4828-8a23-aff26eac5e71",
+            "clue": "Uptown Girl singer Billy",
+            "answer": "joel",
+            "normalized": "joel"
           },
           {
-            "id": "1e0643e8-3965-4c1f-9874-0d6add9f0e48",
-            "clue": "Relaxation location, often with hot springs",
-            "answer": "spa",
-            "normalized": "spa"
+            "id": "a79005ac-2a6d-42fe-8374-d7d9379c621a",
+            "clue": "Price",
+            "answer": "cost",
+            "normalized": "cost"
           },
           {
-            "id": "c61690c0-b32f-40fd-b4a8-88342176fe3a",
-            "clue": "A tiger has many",
-            "answer": "stripes",
-            "normalized": "stripes"
+            "id": "f25aba93-0cd5-402f-8363-fb918671920e",
+            "clue": "Many countries keep a standing one to defend",
+            "answer": "army",
+            "normalized": "army"
           },
           {
-            "id": "6a58c681-10ef-4439-85aa-dd24f812d326",
-            "clue": "Cleansing liquid removes grit from visual organs",
-            "answer": "eyewash",
-            "normalized": "eyewash"
+            "id": "126bb4bf-56b9-4bcf-b757-a5dfbe214146",
+            "clue": "Unidentified flying objects",
+            "answer": "ufos",
+            "normalized": "ufos"
           },
           {
-            "id": "c6b8236c-f88e-4a86-b211-aaea1543945e",
-            "clue": "This McFly went Back to the Future",
-            "answer": "marty",
-            "normalized": "marty"
+            "id": "deb1cce5-38f5-4e4e-9c0f-9835d169e451",
+            "clue": "Book with a soft cover",
+            "answer": "paperback",
+            "normalized": "paperback"
           },
           {
-            "id": "ac386cd3-28ad-4750-ab1c-9fcdb7317deb",
-            "clue": "Rotates a top",
-            "answer": "spins",
-            "normalized": "spins"
+            "id": "4e990106-7e6a-4f39-b040-888aea3a226f",
+            "clue": "Greek letter; abbreviation used in transportation",
+            "answer": "eta",
+            "normalized": "eta"
           },
           {
-            "id": "ba97596b-ce84-41fd-a821-9126e2b8608a",
-            "clue": "Icelandic Nobel prize-winning writer of 1955",
-            "answer": "laxness",
-            "normalized": "laxness"
+            "id": "011b5835-e8de-4063-81d3-465308c02eec",
+            "clue": "Wish someone a good evening in Italian, buona __",
+            "answer": "sera",
+            "normalized": "sera"
           },
           {
-            "id": "d04c995f-933a-4fe9-a5b5-6694a7d624b0",
-            "clue": "In a perfect world",
-            "answer": "ideally",
-            "normalized": "ideally"
+            "id": "e34d3b15-2642-472a-a00c-3a0715c108bc",
+            "clue": "Where the sun always shone in A-ha's hit",
+            "answer": "on tv",
+            "normalized": "ontv"
           },
           {
-            "id": "f20d4f75-fdde-4b76-82fb-d036b808dbc9",
-            "clue": "Slang for average or mediocre",
-            "answer": "mid",
-            "normalized": "mid"
+            "id": "0800ef46-d476-4ed2-877e-a1275e66d313",
+            "clue": "The whole amount",
+            "answer": "all",
+            "normalized": "all"
           },
           {
-            "id": "ce55b993-5aac-4de7-9512-12707426555c",
-            "clue": "The opposite of no",
-            "answer": "yes",
-            "normalized": "yes"
+            "id": "c047b359-2acc-4173-aa6c-ea8d4864a14f",
+            "clue": "Understandable",
+            "answer": "graspable",
+            "normalized": "graspable"
           },
           {
-            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
-            "clue": "Direction halfway between east and southeast",
-            "answer": "ese",
-            "normalized": "ese"
+            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
+            "clue": "Verdi Egyptian opera about Ethiopian princess",
+            "answer": "aida",
+            "normalized": "aida"
           },
           {
-            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
-            "clue": "A pigpen",
-            "answer": "sty",
-            "normalized": "sty"
+            "id": "66ff23cb-3e24-4c25-9371-4ea41d5f51d5",
+            "clue": "Nutritional plan for eating",
+            "answer": "diet",
+            "normalized": "diet"
           },
           {
-            "id": "ddeea38d-7995-4f47-afa0-57343f8961e4",
-            "clue": "Already blended when sold, e.g. concrete, paint",
-            "answer": "premixed",
-            "normalized": "premixed"
+            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
+            "clue": "Fly high in the air",
+            "answer": "soar",
+            "normalized": "soar"
           },
           {
-            "id": "a3e4c60c-8d57-4ea8-a055-ba854ddb9044",
-            "clue": "Thinly dispersed, not densely",
-            "answer": "sparsely",
-            "normalized": "sparsely"
+            "id": "4fc48c8a-112a-4ac0-b67c-a54ea9c38401",
+            "clue": "Art movement and baby's first word",
+            "answer": "dada",
+            "normalized": "dada"
           },
           {
-            "id": "bda52047-e011-4e05-8997-94c86e6b0d12",
-            "clue": "Annoying creature like a rat or mosquito",
-            "answer": "pest",
-            "normalized": "pest"
+            "id": "d60be269-bec6-4b17-b716-e2bba17927a0",
+            "clue": "Silly prank or joke",
+            "answer": "jape",
+            "normalized": "jape"
           },
           {
-            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
-            "clue": "Covered in cinders",
-            "answer": "ashy",
-            "normalized": "ashy"
+            "id": "b2997347-46b6-49b9-a0e0-c9d39830cbff",
+            "clue": "Type of musical work like Handel's Messiah",
+            "answer": "oratorio",
+            "normalized": "oratorio"
           },
           {
-            "id": "2710adde-d549-4513-9a02-ef07e1737230",
-            "clue": "__ Dance With Somebody, hit for Whitney in 1987",
-            "answer": "i wanna",
-            "normalized": "iwanna"
+            "id": "d568ab0a-a982-4221-85e4-bde7310c811b",
+            "clue": "Latin American stuffed pastry, originated in Spain",
+            "answer": "empanada",
+            "normalized": "empanada"
           },
           {
-            "id": "e3a76c37-615f-4382-b98b-117f5a959f57",
-            "clue": "Slight, thin",
-            "answer": "slim",
-            "normalized": "slim"
+            "id": "0f00745f-d438-4c69-82be-82dcff172afc",
+            "clue": "Soap ingredient derived from ash",
+            "answer": "lye",
+            "normalized": "lye"
           },
           {
-            "id": "394fe62a-1dea-495e-b557-2238803ae69e",
-            "clue": "Certification course for trainee scuba divers",
-            "answer": "padi",
-            "normalized": "padi"
+            "id": "a1b5f82e-335d-4b96-a867-7860d9082903",
+            "clue": "3D square",
+            "answer": "cube",
+            "normalized": "cube"
           },
           {
-            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
-            "clue": "Currency code for the Sierra Leonean leone",
-            "answer": "sle",
-            "normalized": "sle"
+            "id": "8da3ea00-5103-4748-b8b3-e8ecda379997",
+            "clue": "Lawrence __, 1963 Best Picture Oscar winner",
+            "answer": "of arabia",
+            "normalized": "ofarabia"
           },
           {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
+            "id": "159d5b8e-2dd1-43cb-ab95-3f3c7306207a",
+            "clue": "A thing that's not true to its name (hyphenated)",
+            "answer": "so called",
+            "normalized": "socalled"
+          },
+          {
+            "id": "2440b909-f122-4a81-811a-a85cba2899f7",
+            "clue": "Telling off sound, expression of disapproval",
+            "answer": "tsk",
+            "normalized": "tsk"
+          },
+          {
+            "id": "f53f6231-6ef2-4c02-8cd1-a22f8dee6ac0",
+            "clue": "Instruction to respond to a party invitation",
+            "answer": "rsvp",
+            "normalized": "rsvp"
+          },
+          {
+            "id": "c9266bd7-7fd4-4d91-936d-f98a19a99c31",
+            "clue": "The most powerful nuclear weapon ever, __ Bomba",
+            "answer": "tsar",
+            "normalized": "tsar"
+          },
+          {
+            "id": "034f9f86-3b9f-4e2f-99f5-d2ffd13b894e",
+            "clue": "Law Enforcement Training Academy, initialism",
+            "answer": "leta",
+            "normalized": "leta"
+          },
+          {
+            "id": "b248405c-6008-4ac5-8890-88d2d5a10053",
+            "clue": "State of matter marked by large particle distances",
+            "answer": "gas",
+            "normalized": "gas"
+          },
+          {
+            "id": "720ead40-efb6-4e94-a48f-40d08381252c",
+            "clue": "Sum",
+            "answer": "add",
+            "normalized": "add"
           }
         ],
-        "track": "PC|LenC--Y2026M7D29F1"
+        "track": "PC|LenC--Y2026M7D30F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-29",
+      "key": "2026-07-30",
       "year": 2026,
       "month": 7,
-      "day": 29,
+      "day": 30,
       "small": {
-        "puzzleId": "97536737-884d-4d75-b55e-679e682bfd8b",
+        "puzzleId": "dc62b488-65db-4b0a-9dcc-183b04ac5452",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 6,
         "answers": [
           {
-            "id": "08e11064-0455-4b9d-8a62-d49e710df9fb",
-            "clue": "Precipitation",
-            "answer": "rain",
-            "normalized": "rain"
+            "id": "0c01fb68-df13-4f8c-81e6-07a4afd1a9fb",
+            "clue": "Swim underwater with breathing apparatus",
+            "answer": "dive",
+            "normalized": "dive"
           },
           {
-            "id": "be64a28e-fba6-49c5-ad6e-ab5be34319a1",
-            "clue": "Longing, desire",
-            "answer": "urge",
-            "normalized": "urge"
+            "id": "bcc2e6aa-ea2a-4dec-89f9-d80943276679",
+            "clue": "End of __, conclusion, final chapter",
+            "answer": "an era",
+            "normalized": "anera"
           },
           {
-            "id": "3ce88c6f-e054-4365-b2ec-29b41dfb37ca",
-            "clue": "Encounters someone",
-            "answer": "meets",
-            "normalized": "meets"
+            "id": "b5fc9ad1-60a7-40e8-b07e-f4a271a3b99d",
+            "clue": "Winter sports slope",
+            "answer": "ski run",
+            "normalized": "skirun"
           },
           {
-            "id": "99573292-7c6c-44e5-9a89-d453cad88869",
-            "clue": "Ms. Smith who released 1975's Horses",
-            "answer": "patti",
-            "normalized": "patti"
+            "id": "f0ac7c7d-1374-4c47-a87b-474df1c04734",
+            "clue": "Spanish word for ice cream",
+            "answer": "helado",
+            "normalized": "helado"
           },
           {
-            "id": "0736456d-e7d0-4a3a-89e9-8888a78246ef",
-            "clue": "Fine sediment transported by water or air",
-            "answer": "silt",
-            "normalized": "silt"
+            "id": "fc7d7d5c-233e-4f0f-98ac-45fb61c00fd5",
+            "clue": "To discourage someone or try to stop them",
+            "answer": "deter",
+            "normalized": "deter"
           },
           {
-            "id": "996210c8-e359-446e-833c-d7caf6ba8139",
-            "clue": "Golf ball platform",
-            "answer": "tee",
-            "normalized": "tee"
+            "id": "b39b8ade-50cb-4d47-b089-a5274267fcbc",
+            "clue": "White, Plato, Carvey",
+            "answer": "dana",
+            "normalized": "dana"
           },
           {
-            "id": "6cc48c95-7520-4195-8d5d-a1d8b5266989",
-            "clue": "Hind part of a mammal's body",
-            "answer": "rump",
-            "normalized": "rump"
+            "id": "80a5bec4-79d6-461e-9052-2a893881495b",
+            "clue": "Sprint",
+            "answer": "dash",
+            "normalized": "dash"
           },
           {
-            "id": "3985ba54-d696-4997-b5be-de86c3511670",
-            "clue": "Regions",
-            "answer": "areas",
-            "normalized": "areas"
+            "id": "015d5227-41b7-4cec-a2ed-a6b186dc22e1",
+            "clue": "Signed in pen; tattooed",
+            "answer": "inked",
+            "normalized": "inked"
           },
           {
-            "id": "61566742-495c-4742-b0af-cd9ab6217909",
-            "clue": "Three words said when understanding a joke",
-            "answer": "i get it",
-            "normalized": "igetit"
+            "id": "af20a58f-62ce-4561-bc66-8d51473507e4",
+            "clue": "With a covered face, perhaps like a bride",
+            "answer": "veiled",
+            "normalized": "veiled"
           },
           {
-            "id": "56fefa82-9cbb-4d13-b146-06c2938b9c90",
-            "clue": "\"Better be stung by a __ than pricked by a rose\"",
-            "answer": "nettle",
-            "normalized": "nettle"
+            "id": "241f57b9-bcc2-474e-a321-57ca5e711c53",
+            "clue": "Mistakes or errors listed in a book",
+            "answer": "errata",
+            "normalized": "errata"
           },
           {
-            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
-            "clue": "Shorthand for a collection of web pages",
-            "answer": "site",
-            "normalized": "site"
+            "id": "0a72791b-5005-4d76-afeb-07b6cd91a0f2",
+            "clue": "Poet W.H. who wrote Funeral Blues",
+            "answer": "auden",
+            "normalized": "auden"
+          },
+          {
+            "id": "0fd570b8-f8b9-4596-8138-ef81cd8cae6a",
+            "clue": "Romance author Roberts who is also J.D. Robb",
+            "answer": "nora",
+            "normalized": "nora"
           }
         ],
-        "track": "PC|LenC--Y2026M7D29F0"
+        "track": "PC|LenC--Y2026M7D30F0"
       },
       "mid": {
-        "puzzleId": "341f8e67-5d81-4bcd-8777-af8acccda2bb",
+        "puzzleId": "9dc98f78-bfef-4943-a8ae-96759f5e6091",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 5,
+        "version": 3,
         "answers": [
           {
-            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
-            "clue": "Sixth sense, in short",
-            "answer": "esp",
-            "normalized": "esp"
+            "id": "c11ffd8c-2e61-4828-8a23-aff26eac5e71",
+            "clue": "Uptown Girl singer Billy",
+            "answer": "joel",
+            "normalized": "joel"
           },
           {
-            "id": "1e0643e8-3965-4c1f-9874-0d6add9f0e48",
-            "clue": "Relaxation location, often with hot springs",
-            "answer": "spa",
-            "normalized": "spa"
+            "id": "a79005ac-2a6d-42fe-8374-d7d9379c621a",
+            "clue": "Price",
+            "answer": "cost",
+            "normalized": "cost"
           },
           {
-            "id": "c61690c0-b32f-40fd-b4a8-88342176fe3a",
-            "clue": "A tiger has many",
-            "answer": "stripes",
-            "normalized": "stripes"
+            "id": "f25aba93-0cd5-402f-8363-fb918671920e",
+            "clue": "Many countries keep a standing one to defend",
+            "answer": "army",
+            "normalized": "army"
           },
           {
-            "id": "6a58c681-10ef-4439-85aa-dd24f812d326",
-            "clue": "Cleansing liquid removes grit from visual organs",
-            "answer": "eyewash",
-            "normalized": "eyewash"
+            "id": "126bb4bf-56b9-4bcf-b757-a5dfbe214146",
+            "clue": "Unidentified flying objects",
+            "answer": "ufos",
+            "normalized": "ufos"
           },
           {
-            "id": "c6b8236c-f88e-4a86-b211-aaea1543945e",
-            "clue": "This McFly went Back to the Future",
-            "answer": "marty",
-            "normalized": "marty"
+            "id": "deb1cce5-38f5-4e4e-9c0f-9835d169e451",
+            "clue": "Book with a soft cover",
+            "answer": "paperback",
+            "normalized": "paperback"
           },
           {
-            "id": "ac386cd3-28ad-4750-ab1c-9fcdb7317deb",
-            "clue": "Rotates a top",
-            "answer": "spins",
-            "normalized": "spins"
+            "id": "4e990106-7e6a-4f39-b040-888aea3a226f",
+            "clue": "Greek letter; abbreviation used in transportation",
+            "answer": "eta",
+            "normalized": "eta"
           },
           {
-            "id": "ba97596b-ce84-41fd-a821-9126e2b8608a",
-            "clue": "Icelandic Nobel prize-winning writer of 1955",
-            "answer": "laxness",
-            "normalized": "laxness"
+            "id": "011b5835-e8de-4063-81d3-465308c02eec",
+            "clue": "Wish someone a good evening in Italian, buona __",
+            "answer": "sera",
+            "normalized": "sera"
           },
           {
-            "id": "d04c995f-933a-4fe9-a5b5-6694a7d624b0",
-            "clue": "In a perfect world",
-            "answer": "ideally",
-            "normalized": "ideally"
+            "id": "e34d3b15-2642-472a-a00c-3a0715c108bc",
+            "clue": "Where the sun always shone in A-ha's hit",
+            "answer": "on tv",
+            "normalized": "ontv"
           },
           {
-            "id": "f20d4f75-fdde-4b76-82fb-d036b808dbc9",
-            "clue": "Slang for average or mediocre",
-            "answer": "mid",
-            "normalized": "mid"
+            "id": "0800ef46-d476-4ed2-877e-a1275e66d313",
+            "clue": "The whole amount",
+            "answer": "all",
+            "normalized": "all"
           },
           {
-            "id": "ce55b993-5aac-4de7-9512-12707426555c",
-            "clue": "The opposite of no",
-            "answer": "yes",
-            "normalized": "yes"
+            "id": "c047b359-2acc-4173-aa6c-ea8d4864a14f",
+            "clue": "Understandable",
+            "answer": "graspable",
+            "normalized": "graspable"
           },
           {
-            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
-            "clue": "Direction halfway between east and southeast",
-            "answer": "ese",
-            "normalized": "ese"
+            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
+            "clue": "Verdi Egyptian opera about Ethiopian princess",
+            "answer": "aida",
+            "normalized": "aida"
           },
           {
-            "id": "4b2d2994-6214-4922-aa51-88935ce83873",
-            "clue": "A pigpen",
-            "answer": "sty",
-            "normalized": "sty"
+            "id": "66ff23cb-3e24-4c25-9371-4ea41d5f51d5",
+            "clue": "Nutritional plan for eating",
+            "answer": "diet",
+            "normalized": "diet"
           },
           {
-            "id": "ddeea38d-7995-4f47-afa0-57343f8961e4",
-            "clue": "Already blended when sold, e.g. concrete, paint",
-            "answer": "premixed",
-            "normalized": "premixed"
+            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
+            "clue": "Fly high in the air",
+            "answer": "soar",
+            "normalized": "soar"
           },
           {
-            "id": "a3e4c60c-8d57-4ea8-a055-ba854ddb9044",
-            "clue": "Thinly dispersed, not densely",
-            "answer": "sparsely",
-            "normalized": "sparsely"
+            "id": "4fc48c8a-112a-4ac0-b67c-a54ea9c38401",
+            "clue": "Art movement and baby's first word",
+            "answer": "dada",
+            "normalized": "dada"
           },
           {
-            "id": "bda52047-e011-4e05-8997-94c86e6b0d12",
-            "clue": "Annoying creature like a rat or mosquito",
-            "answer": "pest",
-            "normalized": "pest"
+            "id": "d60be269-bec6-4b17-b716-e2bba17927a0",
+            "clue": "Silly prank or joke",
+            "answer": "jape",
+            "normalized": "jape"
           },
           {
-            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
-            "clue": "Covered in cinders",
-            "answer": "ashy",
-            "normalized": "ashy"
+            "id": "b2997347-46b6-49b9-a0e0-c9d39830cbff",
+            "clue": "Type of musical work like Handel's Messiah",
+            "answer": "oratorio",
+            "normalized": "oratorio"
           },
           {
-            "id": "2710adde-d549-4513-9a02-ef07e1737230",
-            "clue": "__ Dance With Somebody, hit for Whitney in 1987",
-            "answer": "i wanna",
-            "normalized": "iwanna"
+            "id": "d568ab0a-a982-4221-85e4-bde7310c811b",
+            "clue": "Latin American stuffed pastry, originated in Spain",
+            "answer": "empanada",
+            "normalized": "empanada"
           },
           {
-            "id": "e3a76c37-615f-4382-b98b-117f5a959f57",
-            "clue": "Slight, thin",
-            "answer": "slim",
-            "normalized": "slim"
+            "id": "0f00745f-d438-4c69-82be-82dcff172afc",
+            "clue": "Soap ingredient derived from ash",
+            "answer": "lye",
+            "normalized": "lye"
           },
           {
-            "id": "394fe62a-1dea-495e-b557-2238803ae69e",
-            "clue": "Certification course for trainee scuba divers",
-            "answer": "padi",
-            "normalized": "padi"
+            "id": "a1b5f82e-335d-4b96-a867-7860d9082903",
+            "clue": "3D square",
+            "answer": "cube",
+            "normalized": "cube"
           },
           {
-            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
-            "clue": "Currency code for the Sierra Leonean leone",
-            "answer": "sle",
-            "normalized": "sle"
+            "id": "8da3ea00-5103-4748-b8b3-e8ecda379997",
+            "clue": "Lawrence __, 1963 Best Picture Oscar winner",
+            "answer": "of arabia",
+            "normalized": "ofarabia"
           },
           {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
+            "id": "159d5b8e-2dd1-43cb-ab95-3f3c7306207a",
+            "clue": "A thing that's not true to its name (hyphenated)",
+            "answer": "so called",
+            "normalized": "socalled"
+          },
+          {
+            "id": "2440b909-f122-4a81-811a-a85cba2899f7",
+            "clue": "Telling off sound, expression of disapproval",
+            "answer": "tsk",
+            "normalized": "tsk"
+          },
+          {
+            "id": "f53f6231-6ef2-4c02-8cd1-a22f8dee6ac0",
+            "clue": "Instruction to respond to a party invitation",
+            "answer": "rsvp",
+            "normalized": "rsvp"
+          },
+          {
+            "id": "c9266bd7-7fd4-4d91-936d-f98a19a99c31",
+            "clue": "The most powerful nuclear weapon ever, __ Bomba",
+            "answer": "tsar",
+            "normalized": "tsar"
+          },
+          {
+            "id": "034f9f86-3b9f-4e2f-99f5-d2ffd13b894e",
+            "clue": "Law Enforcement Training Academy, initialism",
+            "answer": "leta",
+            "normalized": "leta"
+          },
+          {
+            "id": "b248405c-6008-4ac5-8890-88d2d5a10053",
+            "clue": "State of matter marked by large particle distances",
+            "answer": "gas",
+            "normalized": "gas"
+          },
+          {
+            "id": "720ead40-efb6-4e94-a48f-40d08381252c",
+            "clue": "Sum",
+            "answer": "add",
+            "normalized": "add"
           }
         ],
-        "track": "PC|LenC--Y2026M7D29F1"
+        "track": "PC|LenC--Y2026M7D30F1"
       }
     },
     "latestAvailableEntry": {
@@ -428895,21 +428979,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "0uX0raGs8k5x6Fo5TqrZktMsok+3BfZNqUOhdx4l47Q1ljtd9csPMlyIa4Ghvfgk2awxp5x4gSpYCjT51N5N2MJAx9JkY/1PP/JkgoOzD2GYw/9oP47vQ5YKVaZpf7CBJQxp3qglscp/UImyDVCl0fbLemRqGOGxRHRwzo5+vwQz2+ntMGjFE9/6EE42sKTjfmZNoeXLL+CgfSl2jRui1/8+VnXrmRbERXPw3Fe6XU2MpRqCaVWkH9IOOTxO4bjU5Q39VZkMCq7rhOSZeO53JokuPTBVRMzdd02inrZNU8w="
+        "jbF0pRRbrl+JTctidrRxTESraPoimGI4j/mo6w0W/6neWPM6EfhB6MPloNWpQmXkHe6+xJv46MuusMLR5u19hJMG7K6mjjX3p+V1LwqaxomNIhJOfE2kGlNwIepqiXTgXEEqB6Unu7CmcSLaXx1t/AXdB/3TNtnTkJ3Z+XNg5gIgh7lfhXeAYR7g5dTKWnXr0BbkCT0PCP29wQqpME6IXuJjeV/natUFPTl/FXwVkIRg0pBIVMFEmy3a289cZQ/FppM4slQUqPomPQprreULYL23nMr3IevXMWhJDWyjCjM="
       ]
     },
     "decrypted": {
-      "Id": "5b9011de-f485-47a5-8a7c-9bdcae40464b",
-      "Date": "2026-07-29T00:00:00Z",
+      "Id": "bc91b966-9311-4182-b47e-ba749a69ef49",
+      "Date": "2026-07-30T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "least",
-      "NormalizedPassword": "least",
+      "Password": "trust",
+      "NormalizedPassword": "trust",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-29T01:27:59.8070000+05:30",
-    "hash": "0df5a23125d27d65a969e1a1d78d7715",
+    "dtu": "2026-07-30T01:20:14.2520000+05:30",
+    "hash": "b723e80ebfa309f3e0fdc4bb3aa90634",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
