@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T19:50:14.252Z",
+  "generatedAt": "2026-07-30T19:59:16.138Z",
   "today": {
     "year": 2026,
     "month": 7,
-    "day": 30
+    "day": 31
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 56
+        "QuantidadeDeFases": 58
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -428251,523 +428251,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-30",
+      "key": "2026-07-31",
       "year": 2026,
       "month": 7,
-      "day": 30,
+      "day": 31,
       "small": {
-        "puzzleId": "dc62b488-65db-4b0a-9dcc-183b04ac5452",
+        "puzzleId": "34f521f6-2de7-45a8-9d6c-a3a0610f6867",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 6,
+        "version": 4,
         "answers": [
           {
-            "id": "0c01fb68-df13-4f8c-81e6-07a4afd1a9fb",
-            "clue": "Swim underwater with breathing apparatus",
-            "answer": "dive",
-            "normalized": "dive"
+            "id": "3cd94665-4dc3-4569-af41-99375d1ff8f8",
+            "clue": "Indian city where the Taj Mahal is located",
+            "answer": "agra",
+            "normalized": "agra"
           },
           {
-            "id": "bcc2e6aa-ea2a-4dec-89f9-d80943276679",
-            "clue": "End of __, conclusion, final chapter",
-            "answer": "an era",
-            "normalized": "anera"
+            "id": "c34652cd-0d50-48bd-84b8-0dbe545e6f34",
+            "clue": "Avian alimentary pouch; annoyances stick in it",
+            "answer": "craw",
+            "normalized": "craw"
           },
           {
-            "id": "b5fc9ad1-60a7-40e8-b07e-f4a271a3b99d",
-            "clue": "Winter sports slope",
-            "answer": "ski run",
-            "normalized": "skirun"
+            "id": "bcf99805-a408-42e9-8590-999b1d4cc8e8",
+            "clue": "Sharpen one's skills",
+            "answer": "hone",
+            "normalized": "hone"
           },
           {
-            "id": "f0ac7c7d-1374-4c47-a87b-474df1c04734",
-            "clue": "Spanish word for ice cream",
-            "answer": "helado",
-            "normalized": "helado"
+            "id": "df1054d8-2fe6-420b-9d94-6fd3acf954b3",
+            "clue": "Relating to the practice of yoga",
+            "answer": "yogic",
+            "normalized": "yogic"
           },
           {
-            "id": "fc7d7d5c-233e-4f0f-98ac-45fb61c00fd5",
-            "clue": "To discourage someone or try to stop them",
-            "answer": "deter",
-            "normalized": "deter"
+            "id": "479aa103-8f16-4e2c-b043-374002d15616",
+            "clue": "By a factor of a million",
+            "answer": "mega",
+            "normalized": "mega"
           },
           {
-            "id": "b39b8ade-50cb-4d47-b089-a5274267fcbc",
-            "clue": "White, Plato, Carvey",
-            "answer": "dana",
-            "normalized": "dana"
+            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
+            "clue": "17th letter of the Greek alphabet",
+            "answer": "rho",
+            "normalized": "rho"
           },
           {
-            "id": "80a5bec4-79d6-461e-9052-2a893881495b",
-            "clue": "Sprint",
-            "answer": "dash",
-            "normalized": "dash"
+            "id": "dce02aeb-a88d-4ca2-88fc-4af04d70e60c",
+            "clue": "Billy Ray's heart was breaky and this",
+            "answer": "achy",
+            "normalized": "achy"
           },
           {
-            "id": "015d5227-41b7-4cec-a2ed-a6b186dc22e1",
-            "clue": "Signed in pen; tattooed",
-            "answer": "inked",
-            "normalized": "inked"
+            "id": "723f8eb7-6ce3-41dc-bed2-7fd3733a8aec",
+            "clue": "Attend to an animal's physical appearance",
+            "answer": "groom",
+            "normalized": "groom"
           },
           {
-            "id": "af20a58f-62ce-4561-bc66-8d51473507e4",
-            "clue": "With a covered face, perhaps like a bride",
-            "answer": "veiled",
-            "normalized": "veiled"
+            "id": "270e0737-d7bd-423f-82da-c85ff8b0f8d7",
+            "clue": "Park or forest warden",
+            "answer": "ranger",
+            "normalized": "ranger"
           },
           {
-            "id": "241f57b9-bcc2-474e-a321-57ca5e711c53",
-            "clue": "Mistakes or errors listed in a book",
-            "answer": "errata",
-            "normalized": "errata"
+            "id": "a2aa3055-7025-400e-b469-a6d1f899b204",
+            "clue": "Position of the anchor just above the sea floor",
+            "answer": "aweigh",
+            "normalized": "aweigh"
           },
           {
-            "id": "0a72791b-5005-4d76-afeb-07b6cd91a0f2",
-            "clue": "Poet W.H. who wrote Funeral Blues",
-            "answer": "auden",
-            "normalized": "auden"
-          },
-          {
-            "id": "0fd570b8-f8b9-4596-8138-ef81cd8cae6a",
-            "clue": "Romance author Roberts who is also J.D. Robb",
-            "answer": "nora",
-            "normalized": "nora"
+            "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
+            "clue": "Chemical formula for calcium oxide",
+            "answer": "cao",
+            "normalized": "cao"
           }
         ],
-        "track": "PC|LenC--Y2026M7D30F0"
+        "track": "PC|LenC--Y2026M7D31F0"
       },
       "mid": {
-        "puzzleId": "9dc98f78-bfef-4943-a8ae-96759f5e6091",
+        "puzzleId": "2a83c88b-3797-41f9-8418-422dcfd5103d",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "c11ffd8c-2e61-4828-8a23-aff26eac5e71",
-            "clue": "Uptown Girl singer Billy",
-            "answer": "joel",
-            "normalized": "joel"
+            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
+            "clue": "Abbreviation for User Access Review",
+            "answer": "uar",
+            "normalized": "uar"
           },
           {
-            "id": "a79005ac-2a6d-42fe-8374-d7d9379c621a",
-            "clue": "Price",
-            "answer": "cost",
-            "normalized": "cost"
+            "id": "63136ab6-31d7-4257-b6c2-22e2d78d2812",
+            "clue": "Underground passage",
+            "answer": "tunnel",
+            "normalized": "tunnel"
           },
           {
-            "id": "f25aba93-0cd5-402f-8363-fb918671920e",
-            "clue": "Many countries keep a standing one to defend",
-            "answer": "army",
-            "normalized": "army"
+            "id": "d6225378-6bf0-48b9-b192-031e392c8046",
+            "clue": "Get something by trickery, an anagram of leafing",
+            "answer": "finagle",
+            "normalized": "finagle"
           },
           {
-            "id": "126bb4bf-56b9-4bcf-b757-a5dfbe214146",
-            "clue": "Unidentified flying objects",
-            "answer": "ufos",
-            "normalized": "ufos"
+            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
+            "clue": "US taxpayers report to this revenue service",
+            "answer": "irs",
+            "normalized": "irs"
           },
           {
-            "id": "deb1cce5-38f5-4e4e-9c0f-9835d169e451",
-            "clue": "Book with a soft cover",
-            "answer": "paperback",
-            "normalized": "paperback"
+            "id": "23f3d671-e25c-4c89-b3fc-6f3cc8755635",
+            "clue": "British air and space force abbreviation",
+            "answer": "raf",
+            "normalized": "raf"
           },
           {
-            "id": "4e990106-7e6a-4f39-b040-888aea3a226f",
-            "clue": "Greek letter; abbreviation used in transportation",
-            "answer": "eta",
-            "normalized": "eta"
+            "id": "b6c98722-bb95-4c0d-af95-aa3dad0945a3",
+            "clue": "Bodybuilding back muscle used by rowers",
+            "answer": "lat",
+            "normalized": "lat"
           },
           {
-            "id": "011b5835-e8de-4063-81d3-465308c02eec",
-            "clue": "Wish someone a good evening in Italian, buona __",
-            "answer": "sera",
-            "normalized": "sera"
+            "id": "899bbed0-01b5-4e27-a9c7-e59f55113fae",
+            "clue": "Hirsute Addams family cousin",
+            "answer": "itt",
+            "normalized": "itt"
           },
           {
-            "id": "e34d3b15-2642-472a-a00c-3a0715c108bc",
-            "clue": "Where the sun always shone in A-ha's hit",
-            "answer": "on tv",
-            "normalized": "ontv"
+            "id": "ae736c93-a254-4cd2-9c28-0cacda19c0d0",
+            "clue": "You can eat them",
+            "answer": "edibles",
+            "normalized": "edibles"
           },
           {
-            "id": "0800ef46-d476-4ed2-877e-a1275e66d313",
-            "clue": "The whole amount",
-            "answer": "all",
-            "normalized": "all"
+            "id": "89d2f584-14ee-4a7d-a0d6-3e7de8624bdf",
+            "clue": "Fake ducks on a pond",
+            "answer": "decoys",
+            "normalized": "decoys"
           },
           {
-            "id": "c047b359-2acc-4173-aa6c-ea8d4864a14f",
-            "clue": "Understandable",
-            "answer": "graspable",
-            "normalized": "graspable"
+            "id": "4043b5eb-0f2f-43f9-9c52-20193c55e089",
+            "clue": "It's blue and filled with fluffy clouds",
+            "answer": "sky",
+            "normalized": "sky"
           },
           {
-            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
-            "clue": "Verdi Egyptian opera about Ethiopian princess",
-            "answer": "aida",
-            "normalized": "aida"
+            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
+            "clue": "Feminine form of one in Spanish",
+            "answer": "una",
+            "normalized": "una"
           },
           {
-            "id": "66ff23cb-3e24-4c25-9371-4ea41d5f51d5",
-            "clue": "Nutritional plan for eating",
-            "answer": "diet",
-            "normalized": "diet"
+            "id": "44f7de40-af9f-435a-986e-37f7bd42881e",
+            "clue": "Stormily or threateningly",
+            "answer": "angrily",
+            "normalized": "angrily"
           },
           {
-            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
-            "clue": "Fly high in the air",
-            "answer": "soar",
-            "normalized": "soar"
+            "id": "4644bc85-e291-42a5-9a0d-52d0b25c85b5",
+            "clue": "Connects, anagram of stealer",
+            "answer": "relates",
+            "normalized": "relates"
           },
           {
-            "id": "4fc48c8a-112a-4ac0-b67c-a54ea9c38401",
-            "clue": "Art movement and baby's first word",
-            "answer": "dada",
-            "normalized": "dada"
+            "id": "3c9f277a-cab8-4fa8-9224-4619bd9ca3c4",
+            "clue": "Long angry critical rants",
+            "answer": "tirades",
+            "normalized": "tirades"
           },
           {
-            "id": "d60be269-bec6-4b17-b716-e2bba17927a0",
-            "clue": "Silly prank or joke",
-            "answer": "jape",
-            "normalized": "jape"
+            "id": "b6fa055a-587d-4dbf-ac04-c996901ed39a",
+            "clue": "Remove adhesive",
+            "answer": "unstick",
+            "normalized": "unstick"
           },
           {
-            "id": "b2997347-46b6-49b9-a0e0-c9d39830cbff",
-            "clue": "Type of musical work like Handel's Messiah",
-            "answer": "oratorio",
-            "normalized": "oratorio"
+            "id": "e8769c06-6f6f-464d-98a9-7b3e4d484269",
+            "clue": "Not right turns",
+            "answer": "lefts",
+            "normalized": "lefts"
           },
           {
-            "id": "d568ab0a-a982-4221-85e4-bde7310c811b",
-            "clue": "Latin American stuffed pastry, originated in Spain",
-            "answer": "empanada",
-            "normalized": "empanada"
+            "id": "46e7cd59-bf3b-4a05-9108-6a0669a1a796",
+            "clue": "Put papers away in a cabinet",
+            "answer": "filed",
+            "normalized": "filed"
           },
           {
-            "id": "0f00745f-d438-4c69-82be-82dcff172afc",
-            "clue": "Soap ingredient derived from ash",
-            "answer": "lye",
-            "normalized": "lye"
-          },
-          {
-            "id": "a1b5f82e-335d-4b96-a867-7860d9082903",
-            "clue": "3D square",
-            "answer": "cube",
-            "normalized": "cube"
-          },
-          {
-            "id": "8da3ea00-5103-4748-b8b3-e8ecda379997",
-            "clue": "Lawrence __, 1963 Best Picture Oscar winner",
-            "answer": "of arabia",
-            "normalized": "ofarabia"
-          },
-          {
-            "id": "159d5b8e-2dd1-43cb-ab95-3f3c7306207a",
-            "clue": "A thing that's not true to its name (hyphenated)",
-            "answer": "so called",
-            "normalized": "socalled"
-          },
-          {
-            "id": "2440b909-f122-4a81-811a-a85cba2899f7",
-            "clue": "Telling off sound, expression of disapproval",
-            "answer": "tsk",
-            "normalized": "tsk"
-          },
-          {
-            "id": "f53f6231-6ef2-4c02-8cd1-a22f8dee6ac0",
-            "clue": "Instruction to respond to a party invitation",
-            "answer": "rsvp",
-            "normalized": "rsvp"
-          },
-          {
-            "id": "c9266bd7-7fd4-4d91-936d-f98a19a99c31",
-            "clue": "The most powerful nuclear weapon ever, __ Bomba",
-            "answer": "tsar",
-            "normalized": "tsar"
-          },
-          {
-            "id": "034f9f86-3b9f-4e2f-99f5-d2ffd13b894e",
-            "clue": "Law Enforcement Training Academy, initialism",
-            "answer": "leta",
-            "normalized": "leta"
-          },
-          {
-            "id": "b248405c-6008-4ac5-8890-88d2d5a10053",
-            "clue": "State of matter marked by large particle distances",
-            "answer": "gas",
-            "normalized": "gas"
-          },
-          {
-            "id": "720ead40-efb6-4e94-a48f-40d08381252c",
-            "clue": "Sum",
-            "answer": "add",
-            "normalized": "add"
+            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
+            "clue": "Young man",
+            "answer": "boy",
+            "normalized": "boy"
           }
         ],
-        "track": "PC|LenC--Y2026M7D30F1"
+        "track": "PC|LenC--Y2026M7D31F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-30",
+      "key": "2026-07-31",
       "year": 2026,
       "month": 7,
-      "day": 30,
+      "day": 31,
       "small": {
-        "puzzleId": "dc62b488-65db-4b0a-9dcc-183b04ac5452",
+        "puzzleId": "34f521f6-2de7-45a8-9d6c-a3a0610f6867",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 6,
+        "version": 4,
         "answers": [
           {
-            "id": "0c01fb68-df13-4f8c-81e6-07a4afd1a9fb",
-            "clue": "Swim underwater with breathing apparatus",
-            "answer": "dive",
-            "normalized": "dive"
+            "id": "3cd94665-4dc3-4569-af41-99375d1ff8f8",
+            "clue": "Indian city where the Taj Mahal is located",
+            "answer": "agra",
+            "normalized": "agra"
           },
           {
-            "id": "bcc2e6aa-ea2a-4dec-89f9-d80943276679",
-            "clue": "End of __, conclusion, final chapter",
-            "answer": "an era",
-            "normalized": "anera"
+            "id": "c34652cd-0d50-48bd-84b8-0dbe545e6f34",
+            "clue": "Avian alimentary pouch; annoyances stick in it",
+            "answer": "craw",
+            "normalized": "craw"
           },
           {
-            "id": "b5fc9ad1-60a7-40e8-b07e-f4a271a3b99d",
-            "clue": "Winter sports slope",
-            "answer": "ski run",
-            "normalized": "skirun"
+            "id": "bcf99805-a408-42e9-8590-999b1d4cc8e8",
+            "clue": "Sharpen one's skills",
+            "answer": "hone",
+            "normalized": "hone"
           },
           {
-            "id": "f0ac7c7d-1374-4c47-a87b-474df1c04734",
-            "clue": "Spanish word for ice cream",
-            "answer": "helado",
-            "normalized": "helado"
+            "id": "df1054d8-2fe6-420b-9d94-6fd3acf954b3",
+            "clue": "Relating to the practice of yoga",
+            "answer": "yogic",
+            "normalized": "yogic"
           },
           {
-            "id": "fc7d7d5c-233e-4f0f-98ac-45fb61c00fd5",
-            "clue": "To discourage someone or try to stop them",
-            "answer": "deter",
-            "normalized": "deter"
+            "id": "479aa103-8f16-4e2c-b043-374002d15616",
+            "clue": "By a factor of a million",
+            "answer": "mega",
+            "normalized": "mega"
           },
           {
-            "id": "b39b8ade-50cb-4d47-b089-a5274267fcbc",
-            "clue": "White, Plato, Carvey",
-            "answer": "dana",
-            "normalized": "dana"
+            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
+            "clue": "17th letter of the Greek alphabet",
+            "answer": "rho",
+            "normalized": "rho"
           },
           {
-            "id": "80a5bec4-79d6-461e-9052-2a893881495b",
-            "clue": "Sprint",
-            "answer": "dash",
-            "normalized": "dash"
+            "id": "dce02aeb-a88d-4ca2-88fc-4af04d70e60c",
+            "clue": "Billy Ray's heart was breaky and this",
+            "answer": "achy",
+            "normalized": "achy"
           },
           {
-            "id": "015d5227-41b7-4cec-a2ed-a6b186dc22e1",
-            "clue": "Signed in pen; tattooed",
-            "answer": "inked",
-            "normalized": "inked"
+            "id": "723f8eb7-6ce3-41dc-bed2-7fd3733a8aec",
+            "clue": "Attend to an animal's physical appearance",
+            "answer": "groom",
+            "normalized": "groom"
           },
           {
-            "id": "af20a58f-62ce-4561-bc66-8d51473507e4",
-            "clue": "With a covered face, perhaps like a bride",
-            "answer": "veiled",
-            "normalized": "veiled"
+            "id": "270e0737-d7bd-423f-82da-c85ff8b0f8d7",
+            "clue": "Park or forest warden",
+            "answer": "ranger",
+            "normalized": "ranger"
           },
           {
-            "id": "241f57b9-bcc2-474e-a321-57ca5e711c53",
-            "clue": "Mistakes or errors listed in a book",
-            "answer": "errata",
-            "normalized": "errata"
+            "id": "a2aa3055-7025-400e-b469-a6d1f899b204",
+            "clue": "Position of the anchor just above the sea floor",
+            "answer": "aweigh",
+            "normalized": "aweigh"
           },
           {
-            "id": "0a72791b-5005-4d76-afeb-07b6cd91a0f2",
-            "clue": "Poet W.H. who wrote Funeral Blues",
-            "answer": "auden",
-            "normalized": "auden"
-          },
-          {
-            "id": "0fd570b8-f8b9-4596-8138-ef81cd8cae6a",
-            "clue": "Romance author Roberts who is also J.D. Robb",
-            "answer": "nora",
-            "normalized": "nora"
+            "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
+            "clue": "Chemical formula for calcium oxide",
+            "answer": "cao",
+            "normalized": "cao"
           }
         ],
-        "track": "PC|LenC--Y2026M7D30F0"
+        "track": "PC|LenC--Y2026M7D31F0"
       },
       "mid": {
-        "puzzleId": "9dc98f78-bfef-4943-a8ae-96759f5e6091",
+        "puzzleId": "2a83c88b-3797-41f9-8418-422dcfd5103d",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "c11ffd8c-2e61-4828-8a23-aff26eac5e71",
-            "clue": "Uptown Girl singer Billy",
-            "answer": "joel",
-            "normalized": "joel"
+            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
+            "clue": "Abbreviation for User Access Review",
+            "answer": "uar",
+            "normalized": "uar"
           },
           {
-            "id": "a79005ac-2a6d-42fe-8374-d7d9379c621a",
-            "clue": "Price",
-            "answer": "cost",
-            "normalized": "cost"
+            "id": "63136ab6-31d7-4257-b6c2-22e2d78d2812",
+            "clue": "Underground passage",
+            "answer": "tunnel",
+            "normalized": "tunnel"
           },
           {
-            "id": "f25aba93-0cd5-402f-8363-fb918671920e",
-            "clue": "Many countries keep a standing one to defend",
-            "answer": "army",
-            "normalized": "army"
+            "id": "d6225378-6bf0-48b9-b192-031e392c8046",
+            "clue": "Get something by trickery, an anagram of leafing",
+            "answer": "finagle",
+            "normalized": "finagle"
           },
           {
-            "id": "126bb4bf-56b9-4bcf-b757-a5dfbe214146",
-            "clue": "Unidentified flying objects",
-            "answer": "ufos",
-            "normalized": "ufos"
+            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
+            "clue": "US taxpayers report to this revenue service",
+            "answer": "irs",
+            "normalized": "irs"
           },
           {
-            "id": "deb1cce5-38f5-4e4e-9c0f-9835d169e451",
-            "clue": "Book with a soft cover",
-            "answer": "paperback",
-            "normalized": "paperback"
+            "id": "23f3d671-e25c-4c89-b3fc-6f3cc8755635",
+            "clue": "British air and space force abbreviation",
+            "answer": "raf",
+            "normalized": "raf"
           },
           {
-            "id": "4e990106-7e6a-4f39-b040-888aea3a226f",
-            "clue": "Greek letter; abbreviation used in transportation",
-            "answer": "eta",
-            "normalized": "eta"
+            "id": "b6c98722-bb95-4c0d-af95-aa3dad0945a3",
+            "clue": "Bodybuilding back muscle used by rowers",
+            "answer": "lat",
+            "normalized": "lat"
           },
           {
-            "id": "011b5835-e8de-4063-81d3-465308c02eec",
-            "clue": "Wish someone a good evening in Italian, buona __",
-            "answer": "sera",
-            "normalized": "sera"
+            "id": "899bbed0-01b5-4e27-a9c7-e59f55113fae",
+            "clue": "Hirsute Addams family cousin",
+            "answer": "itt",
+            "normalized": "itt"
           },
           {
-            "id": "e34d3b15-2642-472a-a00c-3a0715c108bc",
-            "clue": "Where the sun always shone in A-ha's hit",
-            "answer": "on tv",
-            "normalized": "ontv"
+            "id": "ae736c93-a254-4cd2-9c28-0cacda19c0d0",
+            "clue": "You can eat them",
+            "answer": "edibles",
+            "normalized": "edibles"
           },
           {
-            "id": "0800ef46-d476-4ed2-877e-a1275e66d313",
-            "clue": "The whole amount",
-            "answer": "all",
-            "normalized": "all"
+            "id": "89d2f584-14ee-4a7d-a0d6-3e7de8624bdf",
+            "clue": "Fake ducks on a pond",
+            "answer": "decoys",
+            "normalized": "decoys"
           },
           {
-            "id": "c047b359-2acc-4173-aa6c-ea8d4864a14f",
-            "clue": "Understandable",
-            "answer": "graspable",
-            "normalized": "graspable"
+            "id": "4043b5eb-0f2f-43f9-9c52-20193c55e089",
+            "clue": "It's blue and filled with fluffy clouds",
+            "answer": "sky",
+            "normalized": "sky"
           },
           {
-            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
-            "clue": "Verdi Egyptian opera about Ethiopian princess",
-            "answer": "aida",
-            "normalized": "aida"
+            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
+            "clue": "Feminine form of one in Spanish",
+            "answer": "una",
+            "normalized": "una"
           },
           {
-            "id": "66ff23cb-3e24-4c25-9371-4ea41d5f51d5",
-            "clue": "Nutritional plan for eating",
-            "answer": "diet",
-            "normalized": "diet"
+            "id": "44f7de40-af9f-435a-986e-37f7bd42881e",
+            "clue": "Stormily or threateningly",
+            "answer": "angrily",
+            "normalized": "angrily"
           },
           {
-            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
-            "clue": "Fly high in the air",
-            "answer": "soar",
-            "normalized": "soar"
+            "id": "4644bc85-e291-42a5-9a0d-52d0b25c85b5",
+            "clue": "Connects, anagram of stealer",
+            "answer": "relates",
+            "normalized": "relates"
           },
           {
-            "id": "4fc48c8a-112a-4ac0-b67c-a54ea9c38401",
-            "clue": "Art movement and baby's first word",
-            "answer": "dada",
-            "normalized": "dada"
+            "id": "3c9f277a-cab8-4fa8-9224-4619bd9ca3c4",
+            "clue": "Long angry critical rants",
+            "answer": "tirades",
+            "normalized": "tirades"
           },
           {
-            "id": "d60be269-bec6-4b17-b716-e2bba17927a0",
-            "clue": "Silly prank or joke",
-            "answer": "jape",
-            "normalized": "jape"
+            "id": "b6fa055a-587d-4dbf-ac04-c996901ed39a",
+            "clue": "Remove adhesive",
+            "answer": "unstick",
+            "normalized": "unstick"
           },
           {
-            "id": "b2997347-46b6-49b9-a0e0-c9d39830cbff",
-            "clue": "Type of musical work like Handel's Messiah",
-            "answer": "oratorio",
-            "normalized": "oratorio"
+            "id": "e8769c06-6f6f-464d-98a9-7b3e4d484269",
+            "clue": "Not right turns",
+            "answer": "lefts",
+            "normalized": "lefts"
           },
           {
-            "id": "d568ab0a-a982-4221-85e4-bde7310c811b",
-            "clue": "Latin American stuffed pastry, originated in Spain",
-            "answer": "empanada",
-            "normalized": "empanada"
+            "id": "46e7cd59-bf3b-4a05-9108-6a0669a1a796",
+            "clue": "Put papers away in a cabinet",
+            "answer": "filed",
+            "normalized": "filed"
           },
           {
-            "id": "0f00745f-d438-4c69-82be-82dcff172afc",
-            "clue": "Soap ingredient derived from ash",
-            "answer": "lye",
-            "normalized": "lye"
-          },
-          {
-            "id": "a1b5f82e-335d-4b96-a867-7860d9082903",
-            "clue": "3D square",
-            "answer": "cube",
-            "normalized": "cube"
-          },
-          {
-            "id": "8da3ea00-5103-4748-b8b3-e8ecda379997",
-            "clue": "Lawrence __, 1963 Best Picture Oscar winner",
-            "answer": "of arabia",
-            "normalized": "ofarabia"
-          },
-          {
-            "id": "159d5b8e-2dd1-43cb-ab95-3f3c7306207a",
-            "clue": "A thing that's not true to its name (hyphenated)",
-            "answer": "so called",
-            "normalized": "socalled"
-          },
-          {
-            "id": "2440b909-f122-4a81-811a-a85cba2899f7",
-            "clue": "Telling off sound, expression of disapproval",
-            "answer": "tsk",
-            "normalized": "tsk"
-          },
-          {
-            "id": "f53f6231-6ef2-4c02-8cd1-a22f8dee6ac0",
-            "clue": "Instruction to respond to a party invitation",
-            "answer": "rsvp",
-            "normalized": "rsvp"
-          },
-          {
-            "id": "c9266bd7-7fd4-4d91-936d-f98a19a99c31",
-            "clue": "The most powerful nuclear weapon ever, __ Bomba",
-            "answer": "tsar",
-            "normalized": "tsar"
-          },
-          {
-            "id": "034f9f86-3b9f-4e2f-99f5-d2ffd13b894e",
-            "clue": "Law Enforcement Training Academy, initialism",
-            "answer": "leta",
-            "normalized": "leta"
-          },
-          {
-            "id": "b248405c-6008-4ac5-8890-88d2d5a10053",
-            "clue": "State of matter marked by large particle distances",
-            "answer": "gas",
-            "normalized": "gas"
-          },
-          {
-            "id": "720ead40-efb6-4e94-a48f-40d08381252c",
-            "clue": "Sum",
-            "answer": "add",
-            "normalized": "add"
+            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
+            "clue": "Young man",
+            "answer": "boy",
+            "normalized": "boy"
           }
         ],
-        "track": "PC|LenC--Y2026M7D30F1"
+        "track": "PC|LenC--Y2026M7D31F1"
       }
     },
     "latestAvailableEntry": {
@@ -428979,21 +428859,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "jbF0pRRbrl+JTctidrRxTESraPoimGI4j/mo6w0W/6neWPM6EfhB6MPloNWpQmXkHe6+xJv46MuusMLR5u19hJMG7K6mjjX3p+V1LwqaxomNIhJOfE2kGlNwIepqiXTgXEEqB6Unu7CmcSLaXx1t/AXdB/3TNtnTkJ3Z+XNg5gIgh7lfhXeAYR7g5dTKWnXr0BbkCT0PCP29wQqpME6IXuJjeV/natUFPTl/FXwVkIRg0pBIVMFEmy3a289cZQ/FppM4slQUqPomPQprreULYL23nMr3IevXMWhJDWyjCjM="
+        "jqivCICJiILZRAXkHOAWoeDuMAekS0cCKUkUg2wWWj9D1eBUwm62LxWr61J+WX7XVRDjOG8PAJOR2JT40ZlBXTqsEAYxkSIYzFm6Hxz8ukqf2H3BvDq2cH/vJNByWzMhDmiuEzMY3E26Ty4iDtWlyGvPJVaZlEA8cn0X8cNPzDkC5qpCQnitbqcHWSUDZuAw1kubg+sCYPXxNbxzYA8yFys2tFg3VfoC7SIFzZ85IVNE4tJ53to+1VRAdmEwp4j+5j4At1bUo5IjmPOUNVb+9igAJpExXjEQxy3X6KKA1No="
       ]
     },
     "decrypted": {
-      "Id": "bc91b966-9311-4182-b47e-ba749a69ef49",
-      "Date": "2026-07-30T00:00:00Z",
+      "Id": "7250bf70-9836-4c1a-a683-61a73aa4f3f5",
+      "Date": "2026-07-31T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "trust",
-      "NormalizedPassword": "trust",
+      "Password": "foyer",
+      "NormalizedPassword": "foyer",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-30T01:20:14.2520000+05:30",
-    "hash": "b723e80ebfa309f3e0fdc4bb3aa90634",
+    "dtu": "2026-07-31T01:29:16.1380000+05:30",
+    "hash": "f7448374d3687726b87d38c4a551dde9",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
