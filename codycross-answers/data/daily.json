@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T19:59:16.138Z",
+  "generatedAt": "2026-07-31T19:59:42.648Z",
   "today": {
     "year": 2026,
-    "month": 7,
-    "day": 31
+    "month": 8,
+    "day": 1
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 58
+        "QuantidadeDeFases": 60
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -399,6 +399,224 @@
       }
     ],
     "archiveEntries": [
+      {
+        "key": "2026-08-01",
+        "year": 2026,
+        "month": 8,
+        "day": 1,
+        "small": {
+          "puzzleId": "PC|LenC--Y2026M8D1F0",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "5c75666d-ff78-4164-879a-6105bf324243",
+              "clue": "An open space in the forest; rhymes with blade",
+              "answer": "glade",
+              "normalized": "glade"
+            },
+            {
+              "id": "233d4d05-0840-4cf1-9ce4-800ff299897c",
+              "clue": "Short term for military observation",
+              "answer": "recon",
+              "normalized": "recon"
+            },
+            {
+              "id": "72727217-7c89-40e8-bc2e-eeb78839d9b0",
+              "clue": "Metal stick used to load a charge into a musket",
+              "answer": "ramrod",
+              "normalized": "ramrod"
+            },
+            {
+              "id": "a75477ff-c59f-4170-ab5b-63ff6c632928",
+              "clue": "Large Turkish city, on the Aegean Sea in Anatolia",
+              "answer": "izmir",
+              "normalized": "izmir"
+            },
+            {
+              "id": "9fededbf-e007-4530-a109-f673666a1cef",
+              "clue": "Fermented honey drink with ancient roots",
+              "answer": "mead",
+              "normalized": "mead"
+            },
+            {
+              "id": "5eedc01e-c76d-43a4-b25e-83bc95158b20",
+              "clue": "How herbivores eat, munching on grass all day",
+              "answer": "graze",
+              "normalized": "graze"
+            },
+            {
+              "id": "31538220-228e-4d7e-9b58-b487940f19f8",
+              "clue": "Subsidiary theorem",
+              "answer": "lemma",
+              "normalized": "lemma"
+            },
+            {
+              "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
+              "clue": "Pungent, acidic",
+              "answer": "acrid",
+              "normalized": "acrid"
+            },
+            {
+              "id": "82f14873-f01e-4ff7-94c3-85de95838467",
+              "clue": "Entry to a house",
+              "answer": "door",
+              "normalized": "door"
+            },
+            {
+              "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+              "clue": "Finale",
+              "answer": "end",
+              "normalized": "end"
+            },
+            {
+              "id": "48be5933-0406-4e9b-8f85-b322990211e5",
+              "clue": "The edge of a basketball hoop",
+              "answer": "rim",
+              "normalized": "rim"
+            }
+          ],
+          "track": "PC|LenC--Y2026M8D1F0"
+        },
+        "mid": {
+          "puzzleId": "PC|LenC--Y2026M8D1F1",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "3ab88a34-183c-4d5a-8cc0-aec0372eda4d",
+              "clue": "French ballpoint pen brand",
+              "answer": "bic",
+              "normalized": "bic"
+            },
+            {
+              "id": "d788293e-530c-435f-8766-924a43d970bb",
+              "clue": "Graphical user interface, in short",
+              "answer": "gui",
+              "normalized": "gui"
+            },
+            {
+              "id": "03f88688-18be-4c37-8e03-e48d1f8c57e4",
+              "clue": "The Animals lyric, \"There is a house in New __\"",
+              "answer": "orleans",
+              "normalized": "orleans"
+            },
+            {
+              "id": "164876ea-3474-4fa8-9887-5263b3e7d00a",
+              "clue": "The Killing of __, sombre hit by Rod Stewart",
+              "answer": "georgie",
+              "normalized": "georgie"
+            },
+            {
+              "id": "1a2574d8-31b0-46cb-b707-9eca36aee7e2",
+              "clue": "Murder, She __ crime series",
+              "answer": "wrote",
+              "normalized": "wrote"
+            },
+            {
+              "id": "bca71e37-c498-4350-9af3-fe5171fbd978",
+              "clue": "Algerian currency",
+              "answer": "dinar",
+              "normalized": "dinar"
+            },
+            {
+              "id": "c51a7fe4-1d0a-4eb2-a9fc-320412bb30f5",
+              "clue": "Device that prevents racehorse's peripheral vision",
+              "answer": "blinder",
+              "normalized": "blinder"
+            },
+            {
+              "id": "3fc883da-d1a0-4329-8f4b-af97c6f78305",
+              "clue": "Money makers",
+              "answer": "minters",
+              "normalized": "minters"
+            },
+            {
+              "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
+              "clue": "Droop, sink",
+              "answer": "sag",
+              "normalized": "sag"
+            },
+            {
+              "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
+              "clue": "Parks & __, TV show for short",
+              "answer": "rec",
+              "normalized": "rec"
+            },
+            {
+              "id": "9020f660-8858-4d6b-836c-ad6d413ebf3c",
+              "clue": "Marsh, swamp",
+              "answer": "bog",
+              "normalized": "bog"
+            },
+            {
+              "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+              "clue": "Furious wrath",
+              "answer": "ire",
+              "normalized": "ire"
+            },
+            {
+              "id": "980a817b-92c5-42a7-99af-d951c9efc559",
+              "clue": "__ around, messing about, not acting seriously",
+              "answer": "clowning",
+              "normalized": "clowning"
+            },
+            {
+              "id": "d0653c34-e5e4-4792-890e-545b78028a0f",
+              "clue": "Judge's decision, people cannot talk about a case",
+              "answer": "gag order",
+              "normalized": "gagorder"
+            },
+            {
+              "id": "98e315ce-b5e1-4dbe-ae8a-23e181593ed7",
+              "clue": "Measurement type, like cm or miles",
+              "answer": "unit",
+              "normalized": "unit"
+            },
+            {
+              "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
+              "clue": "Phrase that confirms you've understood",
+              "answer": "i see",
+              "normalized": "isee"
+            },
+            {
+              "id": "8cffac7a-27c1-40d8-a5e7-485a46386b58",
+              "clue": "Straying from the path of acceptability",
+              "answer": "errant",
+              "normalized": "errant"
+            },
+            {
+              "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
+              "clue": "Initialism for database management systems",
+              "answer": "dbms",
+              "normalized": "dbms"
+            },
+            {
+              "id": "899f9a22-5bec-4b07-9d63-4ed6dd11379d",
+              "clue": "Large upper parts of hip bones",
+              "answer": "ilia",
+              "normalized": "ilia"
+            },
+            {
+              "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+              "clue": "Before, poetically",
+              "answer": "ere",
+              "normalized": "ere"
+            },
+            {
+              "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
+              "clue": "Three initials for Shakespearean theatre company",
+              "answer": "rsc",
+              "normalized": "rsc"
+            }
+          ],
+          "track": "PC|LenC--Y2026M8D1F1"
+        }
+      },
       {
         "key": "2026-07-31",
         "year": 2026,
@@ -428251,603 +428469,657 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-07-31",
+      "key": "2026-08-01",
       "year": 2026,
-      "month": 7,
-      "day": 31,
+      "month": 8,
+      "day": 1,
       "small": {
-        "puzzleId": "34f521f6-2de7-45a8-9d6c-a3a0610f6867",
+        "puzzleId": "PC|LenC--Y2026M8D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 0,
         "answers": [
           {
-            "id": "3cd94665-4dc3-4569-af41-99375d1ff8f8",
-            "clue": "Indian city where the Taj Mahal is located",
-            "answer": "agra",
-            "normalized": "agra"
+            "id": "5c75666d-ff78-4164-879a-6105bf324243",
+            "clue": "An open space in the forest; rhymes with blade",
+            "answer": "glade",
+            "normalized": "glade"
           },
           {
-            "id": "c34652cd-0d50-48bd-84b8-0dbe545e6f34",
-            "clue": "Avian alimentary pouch; annoyances stick in it",
-            "answer": "craw",
-            "normalized": "craw"
+            "id": "233d4d05-0840-4cf1-9ce4-800ff299897c",
+            "clue": "Short term for military observation",
+            "answer": "recon",
+            "normalized": "recon"
           },
           {
-            "id": "bcf99805-a408-42e9-8590-999b1d4cc8e8",
-            "clue": "Sharpen one's skills",
-            "answer": "hone",
-            "normalized": "hone"
+            "id": "72727217-7c89-40e8-bc2e-eeb78839d9b0",
+            "clue": "Metal stick used to load a charge into a musket",
+            "answer": "ramrod",
+            "normalized": "ramrod"
           },
           {
-            "id": "df1054d8-2fe6-420b-9d94-6fd3acf954b3",
-            "clue": "Relating to the practice of yoga",
-            "answer": "yogic",
-            "normalized": "yogic"
+            "id": "a75477ff-c59f-4170-ab5b-63ff6c632928",
+            "clue": "Large Turkish city, on the Aegean Sea in Anatolia",
+            "answer": "izmir",
+            "normalized": "izmir"
           },
           {
-            "id": "479aa103-8f16-4e2c-b043-374002d15616",
-            "clue": "By a factor of a million",
-            "answer": "mega",
-            "normalized": "mega"
+            "id": "9fededbf-e007-4530-a109-f673666a1cef",
+            "clue": "Fermented honey drink with ancient roots",
+            "answer": "mead",
+            "normalized": "mead"
           },
           {
-            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
-            "clue": "17th letter of the Greek alphabet",
-            "answer": "rho",
-            "normalized": "rho"
+            "id": "5eedc01e-c76d-43a4-b25e-83bc95158b20",
+            "clue": "How herbivores eat, munching on grass all day",
+            "answer": "graze",
+            "normalized": "graze"
           },
           {
-            "id": "dce02aeb-a88d-4ca2-88fc-4af04d70e60c",
-            "clue": "Billy Ray's heart was breaky and this",
-            "answer": "achy",
-            "normalized": "achy"
+            "id": "31538220-228e-4d7e-9b58-b487940f19f8",
+            "clue": "Subsidiary theorem",
+            "answer": "lemma",
+            "normalized": "lemma"
           },
           {
-            "id": "723f8eb7-6ce3-41dc-bed2-7fd3733a8aec",
-            "clue": "Attend to an animal's physical appearance",
-            "answer": "groom",
-            "normalized": "groom"
+            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
+            "clue": "Pungent, acidic",
+            "answer": "acrid",
+            "normalized": "acrid"
           },
           {
-            "id": "270e0737-d7bd-423f-82da-c85ff8b0f8d7",
-            "clue": "Park or forest warden",
-            "answer": "ranger",
-            "normalized": "ranger"
+            "id": "82f14873-f01e-4ff7-94c3-85de95838467",
+            "clue": "Entry to a house",
+            "answer": "door",
+            "normalized": "door"
           },
           {
-            "id": "a2aa3055-7025-400e-b469-a6d1f899b204",
-            "clue": "Position of the anchor just above the sea floor",
-            "answer": "aweigh",
-            "normalized": "aweigh"
+            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+            "clue": "Finale",
+            "answer": "end",
+            "normalized": "end"
           },
           {
-            "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
-            "clue": "Chemical formula for calcium oxide",
-            "answer": "cao",
-            "normalized": "cao"
+            "id": "48be5933-0406-4e9b-8f85-b322990211e5",
+            "clue": "The edge of a basketball hoop",
+            "answer": "rim",
+            "normalized": "rim"
           }
         ],
-        "track": "PC|LenC--Y2026M7D31F0"
+        "track": "PC|LenC--Y2026M8D1F0"
       },
       "mid": {
-        "puzzleId": "2a83c88b-3797-41f9-8418-422dcfd5103d",
+        "puzzleId": "PC|LenC--Y2026M8D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
-            "clue": "Abbreviation for User Access Review",
-            "answer": "uar",
-            "normalized": "uar"
+            "id": "3ab88a34-183c-4d5a-8cc0-aec0372eda4d",
+            "clue": "French ballpoint pen brand",
+            "answer": "bic",
+            "normalized": "bic"
           },
           {
-            "id": "63136ab6-31d7-4257-b6c2-22e2d78d2812",
-            "clue": "Underground passage",
-            "answer": "tunnel",
-            "normalized": "tunnel"
+            "id": "d788293e-530c-435f-8766-924a43d970bb",
+            "clue": "Graphical user interface, in short",
+            "answer": "gui",
+            "normalized": "gui"
           },
           {
-            "id": "d6225378-6bf0-48b9-b192-031e392c8046",
-            "clue": "Get something by trickery, an anagram of leafing",
-            "answer": "finagle",
-            "normalized": "finagle"
+            "id": "03f88688-18be-4c37-8e03-e48d1f8c57e4",
+            "clue": "The Animals lyric, \"There is a house in New __\"",
+            "answer": "orleans",
+            "normalized": "orleans"
           },
           {
-            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
-            "clue": "US taxpayers report to this revenue service",
-            "answer": "irs",
-            "normalized": "irs"
+            "id": "164876ea-3474-4fa8-9887-5263b3e7d00a",
+            "clue": "The Killing of __, sombre hit by Rod Stewart",
+            "answer": "georgie",
+            "normalized": "georgie"
           },
           {
-            "id": "23f3d671-e25c-4c89-b3fc-6f3cc8755635",
-            "clue": "British air and space force abbreviation",
-            "answer": "raf",
-            "normalized": "raf"
+            "id": "1a2574d8-31b0-46cb-b707-9eca36aee7e2",
+            "clue": "Murder, She __ crime series",
+            "answer": "wrote",
+            "normalized": "wrote"
           },
           {
-            "id": "b6c98722-bb95-4c0d-af95-aa3dad0945a3",
-            "clue": "Bodybuilding back muscle used by rowers",
-            "answer": "lat",
-            "normalized": "lat"
+            "id": "bca71e37-c498-4350-9af3-fe5171fbd978",
+            "clue": "Algerian currency",
+            "answer": "dinar",
+            "normalized": "dinar"
           },
           {
-            "id": "899bbed0-01b5-4e27-a9c7-e59f55113fae",
-            "clue": "Hirsute Addams family cousin",
-            "answer": "itt",
-            "normalized": "itt"
+            "id": "c51a7fe4-1d0a-4eb2-a9fc-320412bb30f5",
+            "clue": "Device that prevents racehorse's peripheral vision",
+            "answer": "blinder",
+            "normalized": "blinder"
           },
           {
-            "id": "ae736c93-a254-4cd2-9c28-0cacda19c0d0",
-            "clue": "You can eat them",
-            "answer": "edibles",
-            "normalized": "edibles"
+            "id": "3fc883da-d1a0-4329-8f4b-af97c6f78305",
+            "clue": "Money makers",
+            "answer": "minters",
+            "normalized": "minters"
           },
           {
-            "id": "89d2f584-14ee-4a7d-a0d6-3e7de8624bdf",
-            "clue": "Fake ducks on a pond",
-            "answer": "decoys",
-            "normalized": "decoys"
+            "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
+            "clue": "Droop, sink",
+            "answer": "sag",
+            "normalized": "sag"
           },
           {
-            "id": "4043b5eb-0f2f-43f9-9c52-20193c55e089",
-            "clue": "It's blue and filled with fluffy clouds",
-            "answer": "sky",
-            "normalized": "sky"
+            "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
+            "clue": "Parks & __, TV show for short",
+            "answer": "rec",
+            "normalized": "rec"
           },
           {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
+            "id": "9020f660-8858-4d6b-836c-ad6d413ebf3c",
+            "clue": "Marsh, swamp",
+            "answer": "bog",
+            "normalized": "bog"
           },
           {
-            "id": "44f7de40-af9f-435a-986e-37f7bd42881e",
-            "clue": "Stormily or threateningly",
-            "answer": "angrily",
-            "normalized": "angrily"
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
           },
           {
-            "id": "4644bc85-e291-42a5-9a0d-52d0b25c85b5",
-            "clue": "Connects, anagram of stealer",
-            "answer": "relates",
-            "normalized": "relates"
+            "id": "980a817b-92c5-42a7-99af-d951c9efc559",
+            "clue": "__ around, messing about, not acting seriously",
+            "answer": "clowning",
+            "normalized": "clowning"
           },
           {
-            "id": "3c9f277a-cab8-4fa8-9224-4619bd9ca3c4",
-            "clue": "Long angry critical rants",
-            "answer": "tirades",
-            "normalized": "tirades"
+            "id": "d0653c34-e5e4-4792-890e-545b78028a0f",
+            "clue": "Judge's decision, people cannot talk about a case",
+            "answer": "gag order",
+            "normalized": "gagorder"
           },
           {
-            "id": "b6fa055a-587d-4dbf-ac04-c996901ed39a",
-            "clue": "Remove adhesive",
-            "answer": "unstick",
-            "normalized": "unstick"
+            "id": "98e315ce-b5e1-4dbe-ae8a-23e181593ed7",
+            "clue": "Measurement type, like cm or miles",
+            "answer": "unit",
+            "normalized": "unit"
           },
           {
-            "id": "e8769c06-6f6f-464d-98a9-7b3e4d484269",
-            "clue": "Not right turns",
-            "answer": "lefts",
-            "normalized": "lefts"
+            "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
+            "clue": "Phrase that confirms you've understood",
+            "answer": "i see",
+            "normalized": "isee"
           },
           {
-            "id": "46e7cd59-bf3b-4a05-9108-6a0669a1a796",
-            "clue": "Put papers away in a cabinet",
-            "answer": "filed",
-            "normalized": "filed"
+            "id": "8cffac7a-27c1-40d8-a5e7-485a46386b58",
+            "clue": "Straying from the path of acceptability",
+            "answer": "errant",
+            "normalized": "errant"
           },
           {
-            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
-            "clue": "Young man",
-            "answer": "boy",
-            "normalized": "boy"
+            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
+            "clue": "Initialism for database management systems",
+            "answer": "dbms",
+            "normalized": "dbms"
+          },
+          {
+            "id": "899f9a22-5bec-4b07-9d63-4ed6dd11379d",
+            "clue": "Large upper parts of hip bones",
+            "answer": "ilia",
+            "normalized": "ilia"
+          },
+          {
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
+          },
+          {
+            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
+            "clue": "Three initials for Shakespearean theatre company",
+            "answer": "rsc",
+            "normalized": "rsc"
           }
         ],
-        "track": "PC|LenC--Y2026M7D31F1"
+        "track": "PC|LenC--Y2026M8D1F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-07-31",
+      "key": "2026-08-01",
       "year": 2026,
-      "month": 7,
-      "day": 31,
+      "month": 8,
+      "day": 1,
       "small": {
-        "puzzleId": "34f521f6-2de7-45a8-9d6c-a3a0610f6867",
+        "puzzleId": "PC|LenC--Y2026M8D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 0,
         "answers": [
           {
-            "id": "3cd94665-4dc3-4569-af41-99375d1ff8f8",
-            "clue": "Indian city where the Taj Mahal is located",
-            "answer": "agra",
-            "normalized": "agra"
+            "id": "5c75666d-ff78-4164-879a-6105bf324243",
+            "clue": "An open space in the forest; rhymes with blade",
+            "answer": "glade",
+            "normalized": "glade"
           },
           {
-            "id": "c34652cd-0d50-48bd-84b8-0dbe545e6f34",
-            "clue": "Avian alimentary pouch; annoyances stick in it",
-            "answer": "craw",
-            "normalized": "craw"
+            "id": "233d4d05-0840-4cf1-9ce4-800ff299897c",
+            "clue": "Short term for military observation",
+            "answer": "recon",
+            "normalized": "recon"
           },
           {
-            "id": "bcf99805-a408-42e9-8590-999b1d4cc8e8",
-            "clue": "Sharpen one's skills",
-            "answer": "hone",
-            "normalized": "hone"
+            "id": "72727217-7c89-40e8-bc2e-eeb78839d9b0",
+            "clue": "Metal stick used to load a charge into a musket",
+            "answer": "ramrod",
+            "normalized": "ramrod"
           },
           {
-            "id": "df1054d8-2fe6-420b-9d94-6fd3acf954b3",
-            "clue": "Relating to the practice of yoga",
-            "answer": "yogic",
-            "normalized": "yogic"
+            "id": "a75477ff-c59f-4170-ab5b-63ff6c632928",
+            "clue": "Large Turkish city, on the Aegean Sea in Anatolia",
+            "answer": "izmir",
+            "normalized": "izmir"
           },
           {
-            "id": "479aa103-8f16-4e2c-b043-374002d15616",
-            "clue": "By a factor of a million",
-            "answer": "mega",
-            "normalized": "mega"
+            "id": "9fededbf-e007-4530-a109-f673666a1cef",
+            "clue": "Fermented honey drink with ancient roots",
+            "answer": "mead",
+            "normalized": "mead"
           },
           {
-            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
-            "clue": "17th letter of the Greek alphabet",
-            "answer": "rho",
-            "normalized": "rho"
+            "id": "5eedc01e-c76d-43a4-b25e-83bc95158b20",
+            "clue": "How herbivores eat, munching on grass all day",
+            "answer": "graze",
+            "normalized": "graze"
           },
           {
-            "id": "dce02aeb-a88d-4ca2-88fc-4af04d70e60c",
-            "clue": "Billy Ray's heart was breaky and this",
-            "answer": "achy",
-            "normalized": "achy"
+            "id": "31538220-228e-4d7e-9b58-b487940f19f8",
+            "clue": "Subsidiary theorem",
+            "answer": "lemma",
+            "normalized": "lemma"
           },
           {
-            "id": "723f8eb7-6ce3-41dc-bed2-7fd3733a8aec",
-            "clue": "Attend to an animal's physical appearance",
-            "answer": "groom",
-            "normalized": "groom"
+            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
+            "clue": "Pungent, acidic",
+            "answer": "acrid",
+            "normalized": "acrid"
           },
           {
-            "id": "270e0737-d7bd-423f-82da-c85ff8b0f8d7",
-            "clue": "Park or forest warden",
-            "answer": "ranger",
-            "normalized": "ranger"
+            "id": "82f14873-f01e-4ff7-94c3-85de95838467",
+            "clue": "Entry to a house",
+            "answer": "door",
+            "normalized": "door"
           },
           {
-            "id": "a2aa3055-7025-400e-b469-a6d1f899b204",
-            "clue": "Position of the anchor just above the sea floor",
-            "answer": "aweigh",
-            "normalized": "aweigh"
+            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+            "clue": "Finale",
+            "answer": "end",
+            "normalized": "end"
           },
           {
-            "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
-            "clue": "Chemical formula for calcium oxide",
-            "answer": "cao",
-            "normalized": "cao"
+            "id": "48be5933-0406-4e9b-8f85-b322990211e5",
+            "clue": "The edge of a basketball hoop",
+            "answer": "rim",
+            "normalized": "rim"
           }
         ],
-        "track": "PC|LenC--Y2026M7D31F0"
+        "track": "PC|LenC--Y2026M8D1F0"
       },
       "mid": {
-        "puzzleId": "2a83c88b-3797-41f9-8418-422dcfd5103d",
+        "puzzleId": "PC|LenC--Y2026M8D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
-            "clue": "Abbreviation for User Access Review",
-            "answer": "uar",
-            "normalized": "uar"
+            "id": "3ab88a34-183c-4d5a-8cc0-aec0372eda4d",
+            "clue": "French ballpoint pen brand",
+            "answer": "bic",
+            "normalized": "bic"
           },
           {
-            "id": "63136ab6-31d7-4257-b6c2-22e2d78d2812",
-            "clue": "Underground passage",
-            "answer": "tunnel",
-            "normalized": "tunnel"
+            "id": "d788293e-530c-435f-8766-924a43d970bb",
+            "clue": "Graphical user interface, in short",
+            "answer": "gui",
+            "normalized": "gui"
           },
           {
-            "id": "d6225378-6bf0-48b9-b192-031e392c8046",
-            "clue": "Get something by trickery, an anagram of leafing",
-            "answer": "finagle",
-            "normalized": "finagle"
+            "id": "03f88688-18be-4c37-8e03-e48d1f8c57e4",
+            "clue": "The Animals lyric, \"There is a house in New __\"",
+            "answer": "orleans",
+            "normalized": "orleans"
           },
           {
-            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
-            "clue": "US taxpayers report to this revenue service",
-            "answer": "irs",
-            "normalized": "irs"
+            "id": "164876ea-3474-4fa8-9887-5263b3e7d00a",
+            "clue": "The Killing of __, sombre hit by Rod Stewart",
+            "answer": "georgie",
+            "normalized": "georgie"
           },
           {
-            "id": "23f3d671-e25c-4c89-b3fc-6f3cc8755635",
-            "clue": "British air and space force abbreviation",
-            "answer": "raf",
-            "normalized": "raf"
+            "id": "1a2574d8-31b0-46cb-b707-9eca36aee7e2",
+            "clue": "Murder, She __ crime series",
+            "answer": "wrote",
+            "normalized": "wrote"
           },
           {
-            "id": "b6c98722-bb95-4c0d-af95-aa3dad0945a3",
-            "clue": "Bodybuilding back muscle used by rowers",
-            "answer": "lat",
-            "normalized": "lat"
+            "id": "bca71e37-c498-4350-9af3-fe5171fbd978",
+            "clue": "Algerian currency",
+            "answer": "dinar",
+            "normalized": "dinar"
           },
           {
-            "id": "899bbed0-01b5-4e27-a9c7-e59f55113fae",
-            "clue": "Hirsute Addams family cousin",
-            "answer": "itt",
-            "normalized": "itt"
+            "id": "c51a7fe4-1d0a-4eb2-a9fc-320412bb30f5",
+            "clue": "Device that prevents racehorse's peripheral vision",
+            "answer": "blinder",
+            "normalized": "blinder"
           },
           {
-            "id": "ae736c93-a254-4cd2-9c28-0cacda19c0d0",
-            "clue": "You can eat them",
-            "answer": "edibles",
-            "normalized": "edibles"
+            "id": "3fc883da-d1a0-4329-8f4b-af97c6f78305",
+            "clue": "Money makers",
+            "answer": "minters",
+            "normalized": "minters"
           },
           {
-            "id": "89d2f584-14ee-4a7d-a0d6-3e7de8624bdf",
-            "clue": "Fake ducks on a pond",
-            "answer": "decoys",
-            "normalized": "decoys"
+            "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
+            "clue": "Droop, sink",
+            "answer": "sag",
+            "normalized": "sag"
           },
           {
-            "id": "4043b5eb-0f2f-43f9-9c52-20193c55e089",
-            "clue": "It's blue and filled with fluffy clouds",
-            "answer": "sky",
-            "normalized": "sky"
+            "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
+            "clue": "Parks & __, TV show for short",
+            "answer": "rec",
+            "normalized": "rec"
           },
           {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
+            "id": "9020f660-8858-4d6b-836c-ad6d413ebf3c",
+            "clue": "Marsh, swamp",
+            "answer": "bog",
+            "normalized": "bog"
           },
           {
-            "id": "44f7de40-af9f-435a-986e-37f7bd42881e",
-            "clue": "Stormily or threateningly",
-            "answer": "angrily",
-            "normalized": "angrily"
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
           },
           {
-            "id": "4644bc85-e291-42a5-9a0d-52d0b25c85b5",
-            "clue": "Connects, anagram of stealer",
-            "answer": "relates",
-            "normalized": "relates"
+            "id": "980a817b-92c5-42a7-99af-d951c9efc559",
+            "clue": "__ around, messing about, not acting seriously",
+            "answer": "clowning",
+            "normalized": "clowning"
           },
           {
-            "id": "3c9f277a-cab8-4fa8-9224-4619bd9ca3c4",
-            "clue": "Long angry critical rants",
-            "answer": "tirades",
-            "normalized": "tirades"
+            "id": "d0653c34-e5e4-4792-890e-545b78028a0f",
+            "clue": "Judge's decision, people cannot talk about a case",
+            "answer": "gag order",
+            "normalized": "gagorder"
           },
           {
-            "id": "b6fa055a-587d-4dbf-ac04-c996901ed39a",
-            "clue": "Remove adhesive",
-            "answer": "unstick",
-            "normalized": "unstick"
+            "id": "98e315ce-b5e1-4dbe-ae8a-23e181593ed7",
+            "clue": "Measurement type, like cm or miles",
+            "answer": "unit",
+            "normalized": "unit"
           },
           {
-            "id": "e8769c06-6f6f-464d-98a9-7b3e4d484269",
-            "clue": "Not right turns",
-            "answer": "lefts",
-            "normalized": "lefts"
+            "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
+            "clue": "Phrase that confirms you've understood",
+            "answer": "i see",
+            "normalized": "isee"
           },
           {
-            "id": "46e7cd59-bf3b-4a05-9108-6a0669a1a796",
-            "clue": "Put papers away in a cabinet",
-            "answer": "filed",
-            "normalized": "filed"
+            "id": "8cffac7a-27c1-40d8-a5e7-485a46386b58",
+            "clue": "Straying from the path of acceptability",
+            "answer": "errant",
+            "normalized": "errant"
           },
           {
-            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
-            "clue": "Young man",
-            "answer": "boy",
-            "normalized": "boy"
+            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
+            "clue": "Initialism for database management systems",
+            "answer": "dbms",
+            "normalized": "dbms"
+          },
+          {
+            "id": "899f9a22-5bec-4b07-9d63-4ed6dd11379d",
+            "clue": "Large upper parts of hip bones",
+            "answer": "ilia",
+            "normalized": "ilia"
+          },
+          {
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
+          },
+          {
+            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
+            "clue": "Three initials for Shakespearean theatre company",
+            "answer": "rsc",
+            "normalized": "rsc"
           }
         ],
-        "track": "PC|LenC--Y2026M7D31F1"
+        "track": "PC|LenC--Y2026M8D1F1"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-07-31",
+      "key": "2026-08-01",
       "year": 2026,
-      "month": 7,
-      "day": 31,
+      "month": 8,
+      "day": 1,
       "small": {
-        "puzzleId": "34f521f6-2de7-45a8-9d6c-a3a0610f6867",
+        "puzzleId": "PC|LenC--Y2026M8D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 0,
         "answers": [
           {
-            "id": "3cd94665-4dc3-4569-af41-99375d1ff8f8",
-            "clue": "Indian city where the Taj Mahal is located",
-            "answer": "agra",
-            "normalized": "agra"
+            "id": "5c75666d-ff78-4164-879a-6105bf324243",
+            "clue": "An open space in the forest; rhymes with blade",
+            "answer": "glade",
+            "normalized": "glade"
           },
           {
-            "id": "c34652cd-0d50-48bd-84b8-0dbe545e6f34",
-            "clue": "Avian alimentary pouch; annoyances stick in it",
-            "answer": "craw",
-            "normalized": "craw"
+            "id": "233d4d05-0840-4cf1-9ce4-800ff299897c",
+            "clue": "Short term for military observation",
+            "answer": "recon",
+            "normalized": "recon"
           },
           {
-            "id": "bcf99805-a408-42e9-8590-999b1d4cc8e8",
-            "clue": "Sharpen one's skills",
-            "answer": "hone",
-            "normalized": "hone"
+            "id": "72727217-7c89-40e8-bc2e-eeb78839d9b0",
+            "clue": "Metal stick used to load a charge into a musket",
+            "answer": "ramrod",
+            "normalized": "ramrod"
           },
           {
-            "id": "df1054d8-2fe6-420b-9d94-6fd3acf954b3",
-            "clue": "Relating to the practice of yoga",
-            "answer": "yogic",
-            "normalized": "yogic"
+            "id": "a75477ff-c59f-4170-ab5b-63ff6c632928",
+            "clue": "Large Turkish city, on the Aegean Sea in Anatolia",
+            "answer": "izmir",
+            "normalized": "izmir"
           },
           {
-            "id": "479aa103-8f16-4e2c-b043-374002d15616",
-            "clue": "By a factor of a million",
-            "answer": "mega",
-            "normalized": "mega"
+            "id": "9fededbf-e007-4530-a109-f673666a1cef",
+            "clue": "Fermented honey drink with ancient roots",
+            "answer": "mead",
+            "normalized": "mead"
           },
           {
-            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
-            "clue": "17th letter of the Greek alphabet",
-            "answer": "rho",
-            "normalized": "rho"
+            "id": "5eedc01e-c76d-43a4-b25e-83bc95158b20",
+            "clue": "How herbivores eat, munching on grass all day",
+            "answer": "graze",
+            "normalized": "graze"
           },
           {
-            "id": "dce02aeb-a88d-4ca2-88fc-4af04d70e60c",
-            "clue": "Billy Ray's heart was breaky and this",
-            "answer": "achy",
-            "normalized": "achy"
+            "id": "31538220-228e-4d7e-9b58-b487940f19f8",
+            "clue": "Subsidiary theorem",
+            "answer": "lemma",
+            "normalized": "lemma"
           },
           {
-            "id": "723f8eb7-6ce3-41dc-bed2-7fd3733a8aec",
-            "clue": "Attend to an animal's physical appearance",
-            "answer": "groom",
-            "normalized": "groom"
+            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
+            "clue": "Pungent, acidic",
+            "answer": "acrid",
+            "normalized": "acrid"
           },
           {
-            "id": "270e0737-d7bd-423f-82da-c85ff8b0f8d7",
-            "clue": "Park or forest warden",
-            "answer": "ranger",
-            "normalized": "ranger"
+            "id": "82f14873-f01e-4ff7-94c3-85de95838467",
+            "clue": "Entry to a house",
+            "answer": "door",
+            "normalized": "door"
           },
           {
-            "id": "a2aa3055-7025-400e-b469-a6d1f899b204",
-            "clue": "Position of the anchor just above the sea floor",
-            "answer": "aweigh",
-            "normalized": "aweigh"
+            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+            "clue": "Finale",
+            "answer": "end",
+            "normalized": "end"
           },
           {
-            "id": "314e6247-7445-4d64-b9df-07905eef4f4b",
-            "clue": "Chemical formula for calcium oxide",
-            "answer": "cao",
-            "normalized": "cao"
+            "id": "48be5933-0406-4e9b-8f85-b322990211e5",
+            "clue": "The edge of a basketball hoop",
+            "answer": "rim",
+            "normalized": "rim"
           }
         ],
-        "track": "PC|LenC--Y2026M7D31F0"
+        "track": "PC|LenC--Y2026M8D1F0"
       },
       "mid": {
-        "puzzleId": "2a83c88b-3797-41f9-8418-422dcfd5103d",
+        "puzzleId": "PC|LenC--Y2026M8D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
-            "clue": "Abbreviation for User Access Review",
-            "answer": "uar",
-            "normalized": "uar"
+            "id": "3ab88a34-183c-4d5a-8cc0-aec0372eda4d",
+            "clue": "French ballpoint pen brand",
+            "answer": "bic",
+            "normalized": "bic"
           },
           {
-            "id": "63136ab6-31d7-4257-b6c2-22e2d78d2812",
-            "clue": "Underground passage",
-            "answer": "tunnel",
-            "normalized": "tunnel"
+            "id": "d788293e-530c-435f-8766-924a43d970bb",
+            "clue": "Graphical user interface, in short",
+            "answer": "gui",
+            "normalized": "gui"
           },
           {
-            "id": "d6225378-6bf0-48b9-b192-031e392c8046",
-            "clue": "Get something by trickery, an anagram of leafing",
-            "answer": "finagle",
-            "normalized": "finagle"
+            "id": "03f88688-18be-4c37-8e03-e48d1f8c57e4",
+            "clue": "The Animals lyric, \"There is a house in New __\"",
+            "answer": "orleans",
+            "normalized": "orleans"
           },
           {
-            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
-            "clue": "US taxpayers report to this revenue service",
-            "answer": "irs",
-            "normalized": "irs"
+            "id": "164876ea-3474-4fa8-9887-5263b3e7d00a",
+            "clue": "The Killing of __, sombre hit by Rod Stewart",
+            "answer": "georgie",
+            "normalized": "georgie"
           },
           {
-            "id": "23f3d671-e25c-4c89-b3fc-6f3cc8755635",
-            "clue": "British air and space force abbreviation",
-            "answer": "raf",
-            "normalized": "raf"
+            "id": "1a2574d8-31b0-46cb-b707-9eca36aee7e2",
+            "clue": "Murder, She __ crime series",
+            "answer": "wrote",
+            "normalized": "wrote"
           },
           {
-            "id": "b6c98722-bb95-4c0d-af95-aa3dad0945a3",
-            "clue": "Bodybuilding back muscle used by rowers",
-            "answer": "lat",
-            "normalized": "lat"
+            "id": "bca71e37-c498-4350-9af3-fe5171fbd978",
+            "clue": "Algerian currency",
+            "answer": "dinar",
+            "normalized": "dinar"
           },
           {
-            "id": "899bbed0-01b5-4e27-a9c7-e59f55113fae",
-            "clue": "Hirsute Addams family cousin",
-            "answer": "itt",
-            "normalized": "itt"
+            "id": "c51a7fe4-1d0a-4eb2-a9fc-320412bb30f5",
+            "clue": "Device that prevents racehorse's peripheral vision",
+            "answer": "blinder",
+            "normalized": "blinder"
           },
           {
-            "id": "ae736c93-a254-4cd2-9c28-0cacda19c0d0",
-            "clue": "You can eat them",
-            "answer": "edibles",
-            "normalized": "edibles"
+            "id": "3fc883da-d1a0-4329-8f4b-af97c6f78305",
+            "clue": "Money makers",
+            "answer": "minters",
+            "normalized": "minters"
           },
           {
-            "id": "89d2f584-14ee-4a7d-a0d6-3e7de8624bdf",
-            "clue": "Fake ducks on a pond",
-            "answer": "decoys",
-            "normalized": "decoys"
+            "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
+            "clue": "Droop, sink",
+            "answer": "sag",
+            "normalized": "sag"
           },
           {
-            "id": "4043b5eb-0f2f-43f9-9c52-20193c55e089",
-            "clue": "It's blue and filled with fluffy clouds",
-            "answer": "sky",
-            "normalized": "sky"
+            "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
+            "clue": "Parks & __, TV show for short",
+            "answer": "rec",
+            "normalized": "rec"
           },
           {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
+            "id": "9020f660-8858-4d6b-836c-ad6d413ebf3c",
+            "clue": "Marsh, swamp",
+            "answer": "bog",
+            "normalized": "bog"
           },
           {
-            "id": "44f7de40-af9f-435a-986e-37f7bd42881e",
-            "clue": "Stormily or threateningly",
-            "answer": "angrily",
-            "normalized": "angrily"
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
           },
           {
-            "id": "4644bc85-e291-42a5-9a0d-52d0b25c85b5",
-            "clue": "Connects, anagram of stealer",
-            "answer": "relates",
-            "normalized": "relates"
+            "id": "980a817b-92c5-42a7-99af-d951c9efc559",
+            "clue": "__ around, messing about, not acting seriously",
+            "answer": "clowning",
+            "normalized": "clowning"
           },
           {
-            "id": "3c9f277a-cab8-4fa8-9224-4619bd9ca3c4",
-            "clue": "Long angry critical rants",
-            "answer": "tirades",
-            "normalized": "tirades"
+            "id": "d0653c34-e5e4-4792-890e-545b78028a0f",
+            "clue": "Judge's decision, people cannot talk about a case",
+            "answer": "gag order",
+            "normalized": "gagorder"
           },
           {
-            "id": "b6fa055a-587d-4dbf-ac04-c996901ed39a",
-            "clue": "Remove adhesive",
-            "answer": "unstick",
-            "normalized": "unstick"
+            "id": "98e315ce-b5e1-4dbe-ae8a-23e181593ed7",
+            "clue": "Measurement type, like cm or miles",
+            "answer": "unit",
+            "normalized": "unit"
           },
           {
-            "id": "e8769c06-6f6f-464d-98a9-7b3e4d484269",
-            "clue": "Not right turns",
-            "answer": "lefts",
-            "normalized": "lefts"
+            "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
+            "clue": "Phrase that confirms you've understood",
+            "answer": "i see",
+            "normalized": "isee"
           },
           {
-            "id": "46e7cd59-bf3b-4a05-9108-6a0669a1a796",
-            "clue": "Put papers away in a cabinet",
-            "answer": "filed",
-            "normalized": "filed"
+            "id": "8cffac7a-27c1-40d8-a5e7-485a46386b58",
+            "clue": "Straying from the path of acceptability",
+            "answer": "errant",
+            "normalized": "errant"
           },
           {
-            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
-            "clue": "Young man",
-            "answer": "boy",
-            "normalized": "boy"
+            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
+            "clue": "Initialism for database management systems",
+            "answer": "dbms",
+            "normalized": "dbms"
+          },
+          {
+            "id": "899f9a22-5bec-4b07-9d63-4ed6dd11379d",
+            "clue": "Large upper parts of hip bones",
+            "answer": "ilia",
+            "normalized": "ilia"
+          },
+          {
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
+          },
+          {
+            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
+            "clue": "Three initials for Shakespearean theatre company",
+            "answer": "rsc",
+            "normalized": "rsc"
           }
         ],
-        "track": "PC|LenC--Y2026M7D31F1"
+        "track": "PC|LenC--Y2026M8D1F1"
       }
     },
     "todayPublished": true
@@ -428859,21 +429131,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "jqivCICJiILZRAXkHOAWoeDuMAekS0cCKUkUg2wWWj9D1eBUwm62LxWr61J+WX7XVRDjOG8PAJOR2JT40ZlBXTqsEAYxkSIYzFm6Hxz8ukqf2H3BvDq2cH/vJNByWzMhDmiuEzMY3E26Ty4iDtWlyGvPJVaZlEA8cn0X8cNPzDkC5qpCQnitbqcHWSUDZuAw1kubg+sCYPXxNbxzYA8yFys2tFg3VfoC7SIFzZ85IVNE4tJ53to+1VRAdmEwp4j+5j4At1bUo5IjmPOUNVb+9igAJpExXjEQxy3X6KKA1No="
+        "mNnlqCNft6Dkm87Xh6vjMn0SPZWO2TX1XANrCtFciSMgG3NrrIJbZSQtwBwcUdHuEoZRK3kMGMLqTUawSWkJYxsDvnHwk9yzRBv+uo05/ira0lgP+9I/MnxsEmh58Xnsx7tzIfnFWmTd5qxgcBmOspOSK9LvzYXQddXwc+kPhedR+sDJkrr5g3WIBGkSk4z7VvMFLjY+JAR32Fgd+M18HCSDMV+lDrFikWRLoiTQAXL+zG0OkO+Oo5NllpAJ/1XjVFqIGZfq4K70TEVKK/mp376Ix80xjJuhUqibBX0fp/k="
       ]
     },
     "decrypted": {
-      "Id": "7250bf70-9836-4c1a-a683-61a73aa4f3f5",
-      "Date": "2026-07-31T00:00:00Z",
+      "Id": "0f4aa56c-5e69-414d-ad66-07d889939622",
+      "Date": "2026-08-01T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "foyer",
-      "NormalizedPassword": "foyer",
+      "Password": "aroma",
+      "NormalizedPassword": "aroma",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-07-31T01:29:16.1380000+05:30",
-    "hash": "f7448374d3687726b87d38c4a551dde9",
+    "dtu": "2026-08-01T01:29:42.6480000+05:30",
+    "hash": "f7e48a4afed8ebe77e0e55c37578314e",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
