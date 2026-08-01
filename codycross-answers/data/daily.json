@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T19:59:42.648Z",
+  "generatedAt": "2026-08-01T19:40:22.031Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 1
+    "day": 2
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 7,
-        "QuantidadeDeFases": 60
+        "QuantidadeDeFases": 62
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -400,221 +400,197 @@
     ],
     "archiveEntries": [
       {
-        "key": "2026-08-01",
+        "key": "2026-08-02",
         "year": 2026,
         "month": 8,
-        "day": 1,
+        "day": 2,
         "small": {
-          "puzzleId": "PC|LenC--Y2026M8D1F0",
+          "puzzleId": "PC|LenC--Y2026M8D2F0",
           "fase": 0,
           "size": 1,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "5c75666d-ff78-4164-879a-6105bf324243",
-              "clue": "An open space in the forest; rhymes with blade",
-              "answer": "glade",
-              "normalized": "glade"
+              "id": "d314dde4-8423-4788-8ac7-837a6110f582",
+              "clue": "Common abbreviation for \"answer\"",
+              "answer": "ans",
+              "normalized": "ans"
             },
             {
-              "id": "233d4d05-0840-4cf1-9ce4-800ff299897c",
-              "clue": "Short term for military observation",
-              "answer": "recon",
-              "normalized": "recon"
+              "id": "37344a2c-accc-4e2a-815b-9d5ca3ba760e",
+              "clue": "Currency unit of Lesotho",
+              "answer": "loti",
+              "normalized": "loti"
             },
             {
-              "id": "72727217-7c89-40e8-bc2e-eeb78839d9b0",
-              "clue": "Metal stick used to load a charge into a musket",
-              "answer": "ramrod",
-              "normalized": "ramrod"
+              "id": "a0ef8e45-ecee-4dc2-b0d7-1d51f29c48b4",
+              "clue": "An area of sand on a shore",
+              "answer": "beach",
+              "normalized": "beach"
             },
             {
-              "id": "a75477ff-c59f-4170-ab5b-63ff6c632928",
-              "clue": "Large Turkish city, on the Aegean Sea in Anatolia",
-              "answer": "izmir",
-              "normalized": "izmir"
+              "id": "a548203a-7640-4257-96cf-96891eb25a30",
+              "clue": "Show appreciation for a social media post",
+              "answer": "like",
+              "normalized": "like"
             },
             {
-              "id": "9fededbf-e007-4530-a109-f673666a1cef",
-              "clue": "Fermented honey drink with ancient roots",
-              "answer": "mead",
-              "normalized": "mead"
+              "id": "550b6637-fff2-419d-8d48-d9a9c6a3d48f",
+              "clue": "Hair-shade changing substance",
+              "answer": "dye",
+              "normalized": "dye"
             },
             {
-              "id": "5eedc01e-c76d-43a4-b25e-83bc95158b20",
-              "clue": "How herbivores eat, munching on grass all day",
-              "answer": "graze",
-              "normalized": "graze"
+              "id": "29dfae89-6c41-40a0-bed9-86c45862dd40",
+              "clue": "White vestment worn by Christian priests",
+              "answer": "alb",
+              "normalized": "alb"
             },
             {
-              "id": "31538220-228e-4d7e-9b58-b487940f19f8",
-              "clue": "Subsidiary theorem",
-              "answer": "lemma",
-              "normalized": "lemma"
+              "id": "8c4b8aa2-dfda-41a4-b567-be684cd8d4a7",
+              "clue": "A short, old-time word for Christmas",
+              "answer": "noel",
+              "normalized": "noel"
             },
             {
-              "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
-              "clue": "Pungent, acidic",
-              "answer": "acrid",
-              "normalized": "acrid"
+              "id": "738855bd-9e21-4800-8ff5-1683a3b8be15",
+              "clue": "Serious, dull, unremarkable",
+              "answer": "staid",
+              "normalized": "staid"
             },
             {
-              "id": "82f14873-f01e-4ff7-94c3-85de95838467",
-              "clue": "Entry to a house",
-              "answer": "door",
-              "normalized": "door"
+              "id": "4588d35a-eb24-4d43-bd99-a18cdc763e3d",
+              "clue": "Gross or sickly, in slang",
+              "answer": "icky",
+              "normalized": "icky"
             },
             {
-              "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
-              "clue": "Finale",
-              "answer": "end",
-              "normalized": "end"
-            },
-            {
-              "id": "48be5933-0406-4e9b-8f85-b322990211e5",
-              "clue": "The edge of a basketball hoop",
-              "answer": "rim",
-              "normalized": "rim"
+              "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
+              "clue": "Say this twice for a laughter sound",
+              "answer": "hee",
+              "normalized": "hee"
             }
           ],
-          "track": "PC|LenC--Y2026M8D1F0"
+          "track": "PC|LenC--Y2026M8D2F0"
         },
         "mid": {
-          "puzzleId": "PC|LenC--Y2026M8D1F1",
+          "puzzleId": "PC|LenC--Y2026M8D2F1",
           "fase": 1,
           "size": 2,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "3ab88a34-183c-4d5a-8cc0-aec0372eda4d",
-              "clue": "French ballpoint pen brand",
-              "answer": "bic",
-              "normalized": "bic"
+              "id": "e8708f44-ba4e-46fc-9d6a-0f25c7b6dff3",
+              "clue": "To understand something with certainty",
+              "answer": "know",
+              "normalized": "know"
             },
             {
-              "id": "d788293e-530c-435f-8766-924a43d970bb",
-              "clue": "Graphical user interface, in short",
-              "answer": "gui",
-              "normalized": "gui"
+              "id": "f9096c83-008d-4970-91e1-740ddf1458bd",
+              "clue": "Made a noise through mouth/nose while asleep",
+              "answer": "snored",
+              "normalized": "snored"
             },
             {
-              "id": "03f88688-18be-4c37-8e03-e48d1f8c57e4",
-              "clue": "The Animals lyric, \"There is a house in New __\"",
-              "answer": "orleans",
-              "normalized": "orleans"
+              "id": "ff93e55e-f108-4c34-b838-698e1765f1c4",
+              "clue": "Lightning's closest companion",
+              "answer": "thunder",
+              "normalized": "thunder"
             },
             {
-              "id": "164876ea-3474-4fa8-9887-5263b3e7d00a",
-              "clue": "The Killing of __, sombre hit by Rod Stewart",
-              "answer": "georgie",
-              "normalized": "georgie"
+              "id": "eff3796f-ab65-4c6f-85d3-62a3467ca9dd",
+              "clue": "Legendary giant bird",
+              "answer": "roc",
+              "normalized": "roc"
             },
             {
-              "id": "1a2574d8-31b0-46cb-b707-9eca36aee7e2",
-              "clue": "Murder, She __ crime series",
-              "answer": "wrote",
-              "normalized": "wrote"
+              "id": "4fa59002-86cd-4b9c-b746-e703edcc5a40",
+              "clue": "International Phonetic Alphabet, in short",
+              "answer": "ipa",
+              "normalized": "ipa"
             },
             {
-              "id": "bca71e37-c498-4350-9af3-fe5171fbd978",
-              "clue": "Algerian currency",
-              "answer": "dinar",
-              "normalized": "dinar"
+              "id": "297cd1f9-6c27-4f56-9dea-5c737d36d97e",
+              "clue": "To annoy or irritate someone",
+              "answer": "irk",
+              "normalized": "irk"
             },
             {
-              "id": "c51a7fe4-1d0a-4eb2-a9fc-320412bb30f5",
-              "clue": "Device that prevents racehorse's peripheral vision",
-              "answer": "blinder",
-              "normalized": "blinder"
+              "id": "20d50edd-3cb0-4b58-9896-0ca28e43fd3b",
+              "clue": "Written abbreviation of negative",
+              "answer": "neg",
+              "normalized": "neg"
             },
             {
-              "id": "3fc883da-d1a0-4329-8f4b-af97c6f78305",
-              "clue": "Money makers",
-              "answer": "minters",
-              "normalized": "minters"
+              "id": "bdb3ff66-25c1-4ad9-a510-e127e5337ce5",
+              "clue": "Fundamental principles",
+              "answer": "pillars",
+              "normalized": "pillars"
             },
             {
-              "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
-              "clue": "Droop, sink",
-              "answer": "sag",
-              "normalized": "sag"
+              "id": "76e25336-e018-472f-84c2-2b0baffc48ef",
+              "clue": "Disapproving looks of contempt",
+              "answer": "sneers",
+              "normalized": "sneers"
             },
             {
-              "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
-              "clue": "Parks & __, TV show for short",
-              "answer": "rec",
-              "normalized": "rec"
+              "id": "65767eb4-00ca-417a-a2b0-31c0bbd530e7",
+              "clue": "Aussie greeting",
+              "answer": "gday",
+              "normalized": "gday"
             },
             {
-              "id": "9020f660-8858-4d6b-836c-ad6d413ebf3c",
-              "clue": "Marsh, swamp",
-              "answer": "bog",
-              "normalized": "bog"
+              "id": "706420d3-56a8-4ec8-810b-f8c20fa110a8",
+              "clue": "Rubbed with closed fist",
+              "answer": "knuckled",
+              "normalized": "knuckled"
             },
             {
-              "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-              "clue": "Furious wrath",
-              "answer": "ire",
-              "normalized": "ire"
+              "id": "f3e59a96-9e0c-42ec-acf9-5d2a8475a201",
+              "clue": "French refusal",
+              "answer": "non",
+              "normalized": "non"
             },
             {
-              "id": "980a817b-92c5-42a7-99af-d951c9efc559",
-              "clue": "__ around, messing about, not acting seriously",
-              "answer": "clowning",
-              "normalized": "clowning"
+              "id": "6879c7e1-02d0-45c5-813a-919189f0047f",
+              "clue": "Anomaly not",
+              "answer": "ordinary",
+              "normalized": "ordinary"
             },
             {
-              "id": "d0653c34-e5e4-4792-890e-545b78028a0f",
-              "clue": "Judge's decision, people cannot talk about a case",
-              "answer": "gag order",
-              "normalized": "gagorder"
+              "id": "7b8aa52f-b632-4708-8bca-1918216c7caa",
+              "clue": "Finders keepers, losers __",
+              "answer": "weepers",
+              "normalized": "weepers"
             },
             {
-              "id": "98e315ce-b5e1-4dbe-ae8a-23e181593ed7",
-              "clue": "Measurement type, like cm or miles",
-              "answer": "unit",
-              "normalized": "unit"
+              "id": "ad3b80f7-8485-476b-8e66-23a67e5db3fc",
+              "clue": "Propping up a building during repairs",
+              "answer": "shoring",
+              "normalized": "shoring"
             },
             {
-              "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
-              "clue": "Phrase that confirms you've understood",
-              "answer": "i see",
-              "normalized": "isee"
+              "id": "08d12c51-7e66-419b-823e-b9f216a19842",
+              "clue": "Tows something along with a rope",
+              "answer": "drags",
+              "normalized": "drags"
             },
             {
-              "id": "8cffac7a-27c1-40d8-a5e7-485a46386b58",
-              "clue": "Straying from the path of acceptability",
-              "answer": "errant",
-              "normalized": "errant"
+              "id": "fa9d16a5-504a-4a22-ab53-957707cb537c",
+              "clue": "Falls over",
+              "answer": "trips",
+              "normalized": "trips"
             },
             {
-              "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
-              "clue": "Initialism for database management systems",
-              "answer": "dbms",
-              "normalized": "dbms"
-            },
-            {
-              "id": "899f9a22-5bec-4b07-9d63-4ed6dd11379d",
-              "clue": "Large upper parts of hip bones",
-              "answer": "ilia",
-              "normalized": "ilia"
-            },
-            {
-              "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-              "clue": "Before, poetically",
-              "answer": "ere",
-              "normalized": "ere"
-            },
-            {
-              "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
-              "clue": "Three initials for Shakespearean theatre company",
-              "answer": "rsc",
-              "normalized": "rsc"
+              "id": "05a3682d-9ec4-4249-b58a-63572dfbb3a5",
+              "clue": "Broadway actor and Glee's Rachel Berry, __ Michele",
+              "answer": "lea",
+              "normalized": "lea"
             }
           ],
-          "track": "PC|LenC--Y2026M8D1F1"
+          "track": "PC|LenC--Y2026M8D2F1"
         }
       },
       {
@@ -2853,7 +2829,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -10151,7 +10127,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -24105,7 +24081,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -27785,7 +27761,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -59697,7 +59673,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -74115,7 +74091,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -85549,7 +85525,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -93916,7 +93892,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -101908,7 +101884,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -129234,7 +129210,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -134654,7 +134630,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -141304,7 +141280,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -155532,7 +155508,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -161195,7 +161171,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -165251,7 +165227,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -168922,7 +168898,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -173898,7 +173874,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -176892,7 +176868,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -180387,7 +180363,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -184174,7 +184150,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -189569,7 +189545,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -202317,7 +202293,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -213699,7 +213675,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -228096,7 +228072,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -235186,7 +235162,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -245773,7 +245749,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -264573,7 +264549,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -269487,7 +269463,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -275456,7 +275432,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -282463,7 +282439,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -285080,7 +285056,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -291863,7 +291839,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -297808,7 +297784,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -312612,7 +312588,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -313708,7 +313684,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -317414,7 +317390,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -331521,7 +331497,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -335208,7 +335184,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -345449,7 +345425,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -351629,7 +351605,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -365104,7 +365080,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -410053,7 +410029,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -415288,7 +415264,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism is formally known as __, abbr.",
+              "clue": "Autism was formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -428469,657 +428445,585 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-01",
+      "key": "2026-08-02",
       "year": 2026,
       "month": 8,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M8D1F0",
+        "puzzleId": "PC|LenC--Y2026M8D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "5c75666d-ff78-4164-879a-6105bf324243",
-            "clue": "An open space in the forest; rhymes with blade",
-            "answer": "glade",
-            "normalized": "glade"
+            "id": "d314dde4-8423-4788-8ac7-837a6110f582",
+            "clue": "Common abbreviation for \"answer\"",
+            "answer": "ans",
+            "normalized": "ans"
           },
           {
-            "id": "233d4d05-0840-4cf1-9ce4-800ff299897c",
-            "clue": "Short term for military observation",
-            "answer": "recon",
-            "normalized": "recon"
+            "id": "37344a2c-accc-4e2a-815b-9d5ca3ba760e",
+            "clue": "Currency unit of Lesotho",
+            "answer": "loti",
+            "normalized": "loti"
           },
           {
-            "id": "72727217-7c89-40e8-bc2e-eeb78839d9b0",
-            "clue": "Metal stick used to load a charge into a musket",
-            "answer": "ramrod",
-            "normalized": "ramrod"
+            "id": "a0ef8e45-ecee-4dc2-b0d7-1d51f29c48b4",
+            "clue": "An area of sand on a shore",
+            "answer": "beach",
+            "normalized": "beach"
           },
           {
-            "id": "a75477ff-c59f-4170-ab5b-63ff6c632928",
-            "clue": "Large Turkish city, on the Aegean Sea in Anatolia",
-            "answer": "izmir",
-            "normalized": "izmir"
+            "id": "a548203a-7640-4257-96cf-96891eb25a30",
+            "clue": "Show appreciation for a social media post",
+            "answer": "like",
+            "normalized": "like"
           },
           {
-            "id": "9fededbf-e007-4530-a109-f673666a1cef",
-            "clue": "Fermented honey drink with ancient roots",
-            "answer": "mead",
-            "normalized": "mead"
+            "id": "550b6637-fff2-419d-8d48-d9a9c6a3d48f",
+            "clue": "Hair-shade changing substance",
+            "answer": "dye",
+            "normalized": "dye"
           },
           {
-            "id": "5eedc01e-c76d-43a4-b25e-83bc95158b20",
-            "clue": "How herbivores eat, munching on grass all day",
-            "answer": "graze",
-            "normalized": "graze"
+            "id": "29dfae89-6c41-40a0-bed9-86c45862dd40",
+            "clue": "White vestment worn by Christian priests",
+            "answer": "alb",
+            "normalized": "alb"
           },
           {
-            "id": "31538220-228e-4d7e-9b58-b487940f19f8",
-            "clue": "Subsidiary theorem",
-            "answer": "lemma",
-            "normalized": "lemma"
+            "id": "8c4b8aa2-dfda-41a4-b567-be684cd8d4a7",
+            "clue": "A short, old-time word for Christmas",
+            "answer": "noel",
+            "normalized": "noel"
           },
           {
-            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
-            "clue": "Pungent, acidic",
-            "answer": "acrid",
-            "normalized": "acrid"
+            "id": "738855bd-9e21-4800-8ff5-1683a3b8be15",
+            "clue": "Serious, dull, unremarkable",
+            "answer": "staid",
+            "normalized": "staid"
           },
           {
-            "id": "82f14873-f01e-4ff7-94c3-85de95838467",
-            "clue": "Entry to a house",
-            "answer": "door",
-            "normalized": "door"
+            "id": "4588d35a-eb24-4d43-bd99-a18cdc763e3d",
+            "clue": "Gross or sickly, in slang",
+            "answer": "icky",
+            "normalized": "icky"
           },
           {
-            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
-            "clue": "Finale",
-            "answer": "end",
-            "normalized": "end"
-          },
-          {
-            "id": "48be5933-0406-4e9b-8f85-b322990211e5",
-            "clue": "The edge of a basketball hoop",
-            "answer": "rim",
-            "normalized": "rim"
+            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
+            "clue": "Say this twice for a laughter sound",
+            "answer": "hee",
+            "normalized": "hee"
           }
         ],
-        "track": "PC|LenC--Y2026M8D1F0"
+        "track": "PC|LenC--Y2026M8D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M8D1F1",
+        "puzzleId": "PC|LenC--Y2026M8D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "3ab88a34-183c-4d5a-8cc0-aec0372eda4d",
-            "clue": "French ballpoint pen brand",
-            "answer": "bic",
-            "normalized": "bic"
+            "id": "e8708f44-ba4e-46fc-9d6a-0f25c7b6dff3",
+            "clue": "To understand something with certainty",
+            "answer": "know",
+            "normalized": "know"
           },
           {
-            "id": "d788293e-530c-435f-8766-924a43d970bb",
-            "clue": "Graphical user interface, in short",
-            "answer": "gui",
-            "normalized": "gui"
+            "id": "f9096c83-008d-4970-91e1-740ddf1458bd",
+            "clue": "Made a noise through mouth/nose while asleep",
+            "answer": "snored",
+            "normalized": "snored"
           },
           {
-            "id": "03f88688-18be-4c37-8e03-e48d1f8c57e4",
-            "clue": "The Animals lyric, \"There is a house in New __\"",
-            "answer": "orleans",
-            "normalized": "orleans"
+            "id": "ff93e55e-f108-4c34-b838-698e1765f1c4",
+            "clue": "Lightning's closest companion",
+            "answer": "thunder",
+            "normalized": "thunder"
           },
           {
-            "id": "164876ea-3474-4fa8-9887-5263b3e7d00a",
-            "clue": "The Killing of __, sombre hit by Rod Stewart",
-            "answer": "georgie",
-            "normalized": "georgie"
+            "id": "eff3796f-ab65-4c6f-85d3-62a3467ca9dd",
+            "clue": "Legendary giant bird",
+            "answer": "roc",
+            "normalized": "roc"
           },
           {
-            "id": "1a2574d8-31b0-46cb-b707-9eca36aee7e2",
-            "clue": "Murder, She __ crime series",
-            "answer": "wrote",
-            "normalized": "wrote"
+            "id": "4fa59002-86cd-4b9c-b746-e703edcc5a40",
+            "clue": "International Phonetic Alphabet, in short",
+            "answer": "ipa",
+            "normalized": "ipa"
           },
           {
-            "id": "bca71e37-c498-4350-9af3-fe5171fbd978",
-            "clue": "Algerian currency",
-            "answer": "dinar",
-            "normalized": "dinar"
+            "id": "297cd1f9-6c27-4f56-9dea-5c737d36d97e",
+            "clue": "To annoy or irritate someone",
+            "answer": "irk",
+            "normalized": "irk"
           },
           {
-            "id": "c51a7fe4-1d0a-4eb2-a9fc-320412bb30f5",
-            "clue": "Device that prevents racehorse's peripheral vision",
-            "answer": "blinder",
-            "normalized": "blinder"
+            "id": "20d50edd-3cb0-4b58-9896-0ca28e43fd3b",
+            "clue": "Written abbreviation of negative",
+            "answer": "neg",
+            "normalized": "neg"
           },
           {
-            "id": "3fc883da-d1a0-4329-8f4b-af97c6f78305",
-            "clue": "Money makers",
-            "answer": "minters",
-            "normalized": "minters"
+            "id": "bdb3ff66-25c1-4ad9-a510-e127e5337ce5",
+            "clue": "Fundamental principles",
+            "answer": "pillars",
+            "normalized": "pillars"
           },
           {
-            "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
-            "clue": "Droop, sink",
-            "answer": "sag",
-            "normalized": "sag"
+            "id": "76e25336-e018-472f-84c2-2b0baffc48ef",
+            "clue": "Disapproving looks of contempt",
+            "answer": "sneers",
+            "normalized": "sneers"
           },
           {
-            "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
-            "clue": "Parks & __, TV show for short",
-            "answer": "rec",
-            "normalized": "rec"
+            "id": "65767eb4-00ca-417a-a2b0-31c0bbd530e7",
+            "clue": "Aussie greeting",
+            "answer": "gday",
+            "normalized": "gday"
           },
           {
-            "id": "9020f660-8858-4d6b-836c-ad6d413ebf3c",
-            "clue": "Marsh, swamp",
-            "answer": "bog",
-            "normalized": "bog"
+            "id": "706420d3-56a8-4ec8-810b-f8c20fa110a8",
+            "clue": "Rubbed with closed fist",
+            "answer": "knuckled",
+            "normalized": "knuckled"
           },
           {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
+            "id": "f3e59a96-9e0c-42ec-acf9-5d2a8475a201",
+            "clue": "French refusal",
+            "answer": "non",
+            "normalized": "non"
           },
           {
-            "id": "980a817b-92c5-42a7-99af-d951c9efc559",
-            "clue": "__ around, messing about, not acting seriously",
-            "answer": "clowning",
-            "normalized": "clowning"
+            "id": "6879c7e1-02d0-45c5-813a-919189f0047f",
+            "clue": "Anomaly not",
+            "answer": "ordinary",
+            "normalized": "ordinary"
           },
           {
-            "id": "d0653c34-e5e4-4792-890e-545b78028a0f",
-            "clue": "Judge's decision, people cannot talk about a case",
-            "answer": "gag order",
-            "normalized": "gagorder"
+            "id": "7b8aa52f-b632-4708-8bca-1918216c7caa",
+            "clue": "Finders keepers, losers __",
+            "answer": "weepers",
+            "normalized": "weepers"
           },
           {
-            "id": "98e315ce-b5e1-4dbe-ae8a-23e181593ed7",
-            "clue": "Measurement type, like cm or miles",
-            "answer": "unit",
-            "normalized": "unit"
+            "id": "ad3b80f7-8485-476b-8e66-23a67e5db3fc",
+            "clue": "Propping up a building during repairs",
+            "answer": "shoring",
+            "normalized": "shoring"
           },
           {
-            "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
-            "clue": "Phrase that confirms you've understood",
-            "answer": "i see",
-            "normalized": "isee"
+            "id": "08d12c51-7e66-419b-823e-b9f216a19842",
+            "clue": "Tows something along with a rope",
+            "answer": "drags",
+            "normalized": "drags"
           },
           {
-            "id": "8cffac7a-27c1-40d8-a5e7-485a46386b58",
-            "clue": "Straying from the path of acceptability",
-            "answer": "errant",
-            "normalized": "errant"
+            "id": "fa9d16a5-504a-4a22-ab53-957707cb537c",
+            "clue": "Falls over",
+            "answer": "trips",
+            "normalized": "trips"
           },
           {
-            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
-            "clue": "Initialism for database management systems",
-            "answer": "dbms",
-            "normalized": "dbms"
-          },
-          {
-            "id": "899f9a22-5bec-4b07-9d63-4ed6dd11379d",
-            "clue": "Large upper parts of hip bones",
-            "answer": "ilia",
-            "normalized": "ilia"
-          },
-          {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
-          },
-          {
-            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
-            "clue": "Three initials for Shakespearean theatre company",
-            "answer": "rsc",
-            "normalized": "rsc"
+            "id": "05a3682d-9ec4-4249-b58a-63572dfbb3a5",
+            "clue": "Broadway actor and Glee's Rachel Berry, __ Michele",
+            "answer": "lea",
+            "normalized": "lea"
           }
         ],
-        "track": "PC|LenC--Y2026M8D1F1"
+        "track": "PC|LenC--Y2026M8D2F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-01",
+      "key": "2026-08-02",
       "year": 2026,
       "month": 8,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M8D1F0",
+        "puzzleId": "PC|LenC--Y2026M8D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "5c75666d-ff78-4164-879a-6105bf324243",
-            "clue": "An open space in the forest; rhymes with blade",
-            "answer": "glade",
-            "normalized": "glade"
+            "id": "d314dde4-8423-4788-8ac7-837a6110f582",
+            "clue": "Common abbreviation for \"answer\"",
+            "answer": "ans",
+            "normalized": "ans"
           },
           {
-            "id": "233d4d05-0840-4cf1-9ce4-800ff299897c",
-            "clue": "Short term for military observation",
-            "answer": "recon",
-            "normalized": "recon"
+            "id": "37344a2c-accc-4e2a-815b-9d5ca3ba760e",
+            "clue": "Currency unit of Lesotho",
+            "answer": "loti",
+            "normalized": "loti"
           },
           {
-            "id": "72727217-7c89-40e8-bc2e-eeb78839d9b0",
-            "clue": "Metal stick used to load a charge into a musket",
-            "answer": "ramrod",
-            "normalized": "ramrod"
+            "id": "a0ef8e45-ecee-4dc2-b0d7-1d51f29c48b4",
+            "clue": "An area of sand on a shore",
+            "answer": "beach",
+            "normalized": "beach"
           },
           {
-            "id": "a75477ff-c59f-4170-ab5b-63ff6c632928",
-            "clue": "Large Turkish city, on the Aegean Sea in Anatolia",
-            "answer": "izmir",
-            "normalized": "izmir"
+            "id": "a548203a-7640-4257-96cf-96891eb25a30",
+            "clue": "Show appreciation for a social media post",
+            "answer": "like",
+            "normalized": "like"
           },
           {
-            "id": "9fededbf-e007-4530-a109-f673666a1cef",
-            "clue": "Fermented honey drink with ancient roots",
-            "answer": "mead",
-            "normalized": "mead"
+            "id": "550b6637-fff2-419d-8d48-d9a9c6a3d48f",
+            "clue": "Hair-shade changing substance",
+            "answer": "dye",
+            "normalized": "dye"
           },
           {
-            "id": "5eedc01e-c76d-43a4-b25e-83bc95158b20",
-            "clue": "How herbivores eat, munching on grass all day",
-            "answer": "graze",
-            "normalized": "graze"
+            "id": "29dfae89-6c41-40a0-bed9-86c45862dd40",
+            "clue": "White vestment worn by Christian priests",
+            "answer": "alb",
+            "normalized": "alb"
           },
           {
-            "id": "31538220-228e-4d7e-9b58-b487940f19f8",
-            "clue": "Subsidiary theorem",
-            "answer": "lemma",
-            "normalized": "lemma"
+            "id": "8c4b8aa2-dfda-41a4-b567-be684cd8d4a7",
+            "clue": "A short, old-time word for Christmas",
+            "answer": "noel",
+            "normalized": "noel"
           },
           {
-            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
-            "clue": "Pungent, acidic",
-            "answer": "acrid",
-            "normalized": "acrid"
+            "id": "738855bd-9e21-4800-8ff5-1683a3b8be15",
+            "clue": "Serious, dull, unremarkable",
+            "answer": "staid",
+            "normalized": "staid"
           },
           {
-            "id": "82f14873-f01e-4ff7-94c3-85de95838467",
-            "clue": "Entry to a house",
-            "answer": "door",
-            "normalized": "door"
+            "id": "4588d35a-eb24-4d43-bd99-a18cdc763e3d",
+            "clue": "Gross or sickly, in slang",
+            "answer": "icky",
+            "normalized": "icky"
           },
           {
-            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
-            "clue": "Finale",
-            "answer": "end",
-            "normalized": "end"
-          },
-          {
-            "id": "48be5933-0406-4e9b-8f85-b322990211e5",
-            "clue": "The edge of a basketball hoop",
-            "answer": "rim",
-            "normalized": "rim"
+            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
+            "clue": "Say this twice for a laughter sound",
+            "answer": "hee",
+            "normalized": "hee"
           }
         ],
-        "track": "PC|LenC--Y2026M8D1F0"
+        "track": "PC|LenC--Y2026M8D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M8D1F1",
+        "puzzleId": "PC|LenC--Y2026M8D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "3ab88a34-183c-4d5a-8cc0-aec0372eda4d",
-            "clue": "French ballpoint pen brand",
-            "answer": "bic",
-            "normalized": "bic"
+            "id": "e8708f44-ba4e-46fc-9d6a-0f25c7b6dff3",
+            "clue": "To understand something with certainty",
+            "answer": "know",
+            "normalized": "know"
           },
           {
-            "id": "d788293e-530c-435f-8766-924a43d970bb",
-            "clue": "Graphical user interface, in short",
-            "answer": "gui",
-            "normalized": "gui"
+            "id": "f9096c83-008d-4970-91e1-740ddf1458bd",
+            "clue": "Made a noise through mouth/nose while asleep",
+            "answer": "snored",
+            "normalized": "snored"
           },
           {
-            "id": "03f88688-18be-4c37-8e03-e48d1f8c57e4",
-            "clue": "The Animals lyric, \"There is a house in New __\"",
-            "answer": "orleans",
-            "normalized": "orleans"
+            "id": "ff93e55e-f108-4c34-b838-698e1765f1c4",
+            "clue": "Lightning's closest companion",
+            "answer": "thunder",
+            "normalized": "thunder"
           },
           {
-            "id": "164876ea-3474-4fa8-9887-5263b3e7d00a",
-            "clue": "The Killing of __, sombre hit by Rod Stewart",
-            "answer": "georgie",
-            "normalized": "georgie"
+            "id": "eff3796f-ab65-4c6f-85d3-62a3467ca9dd",
+            "clue": "Legendary giant bird",
+            "answer": "roc",
+            "normalized": "roc"
           },
           {
-            "id": "1a2574d8-31b0-46cb-b707-9eca36aee7e2",
-            "clue": "Murder, She __ crime series",
-            "answer": "wrote",
-            "normalized": "wrote"
+            "id": "4fa59002-86cd-4b9c-b746-e703edcc5a40",
+            "clue": "International Phonetic Alphabet, in short",
+            "answer": "ipa",
+            "normalized": "ipa"
           },
           {
-            "id": "bca71e37-c498-4350-9af3-fe5171fbd978",
-            "clue": "Algerian currency",
-            "answer": "dinar",
-            "normalized": "dinar"
+            "id": "297cd1f9-6c27-4f56-9dea-5c737d36d97e",
+            "clue": "To annoy or irritate someone",
+            "answer": "irk",
+            "normalized": "irk"
           },
           {
-            "id": "c51a7fe4-1d0a-4eb2-a9fc-320412bb30f5",
-            "clue": "Device that prevents racehorse's peripheral vision",
-            "answer": "blinder",
-            "normalized": "blinder"
+            "id": "20d50edd-3cb0-4b58-9896-0ca28e43fd3b",
+            "clue": "Written abbreviation of negative",
+            "answer": "neg",
+            "normalized": "neg"
           },
           {
-            "id": "3fc883da-d1a0-4329-8f4b-af97c6f78305",
-            "clue": "Money makers",
-            "answer": "minters",
-            "normalized": "minters"
+            "id": "bdb3ff66-25c1-4ad9-a510-e127e5337ce5",
+            "clue": "Fundamental principles",
+            "answer": "pillars",
+            "normalized": "pillars"
           },
           {
-            "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
-            "clue": "Droop, sink",
-            "answer": "sag",
-            "normalized": "sag"
+            "id": "76e25336-e018-472f-84c2-2b0baffc48ef",
+            "clue": "Disapproving looks of contempt",
+            "answer": "sneers",
+            "normalized": "sneers"
           },
           {
-            "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
-            "clue": "Parks & __, TV show for short",
-            "answer": "rec",
-            "normalized": "rec"
+            "id": "65767eb4-00ca-417a-a2b0-31c0bbd530e7",
+            "clue": "Aussie greeting",
+            "answer": "gday",
+            "normalized": "gday"
           },
           {
-            "id": "9020f660-8858-4d6b-836c-ad6d413ebf3c",
-            "clue": "Marsh, swamp",
-            "answer": "bog",
-            "normalized": "bog"
+            "id": "706420d3-56a8-4ec8-810b-f8c20fa110a8",
+            "clue": "Rubbed with closed fist",
+            "answer": "knuckled",
+            "normalized": "knuckled"
           },
           {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
+            "id": "f3e59a96-9e0c-42ec-acf9-5d2a8475a201",
+            "clue": "French refusal",
+            "answer": "non",
+            "normalized": "non"
           },
           {
-            "id": "980a817b-92c5-42a7-99af-d951c9efc559",
-            "clue": "__ around, messing about, not acting seriously",
-            "answer": "clowning",
-            "normalized": "clowning"
+            "id": "6879c7e1-02d0-45c5-813a-919189f0047f",
+            "clue": "Anomaly not",
+            "answer": "ordinary",
+            "normalized": "ordinary"
           },
           {
-            "id": "d0653c34-e5e4-4792-890e-545b78028a0f",
-            "clue": "Judge's decision, people cannot talk about a case",
-            "answer": "gag order",
-            "normalized": "gagorder"
+            "id": "7b8aa52f-b632-4708-8bca-1918216c7caa",
+            "clue": "Finders keepers, losers __",
+            "answer": "weepers",
+            "normalized": "weepers"
           },
           {
-            "id": "98e315ce-b5e1-4dbe-ae8a-23e181593ed7",
-            "clue": "Measurement type, like cm or miles",
-            "answer": "unit",
-            "normalized": "unit"
+            "id": "ad3b80f7-8485-476b-8e66-23a67e5db3fc",
+            "clue": "Propping up a building during repairs",
+            "answer": "shoring",
+            "normalized": "shoring"
           },
           {
-            "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
-            "clue": "Phrase that confirms you've understood",
-            "answer": "i see",
-            "normalized": "isee"
+            "id": "08d12c51-7e66-419b-823e-b9f216a19842",
+            "clue": "Tows something along with a rope",
+            "answer": "drags",
+            "normalized": "drags"
           },
           {
-            "id": "8cffac7a-27c1-40d8-a5e7-485a46386b58",
-            "clue": "Straying from the path of acceptability",
-            "answer": "errant",
-            "normalized": "errant"
+            "id": "fa9d16a5-504a-4a22-ab53-957707cb537c",
+            "clue": "Falls over",
+            "answer": "trips",
+            "normalized": "trips"
           },
           {
-            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
-            "clue": "Initialism for database management systems",
-            "answer": "dbms",
-            "normalized": "dbms"
-          },
-          {
-            "id": "899f9a22-5bec-4b07-9d63-4ed6dd11379d",
-            "clue": "Large upper parts of hip bones",
-            "answer": "ilia",
-            "normalized": "ilia"
-          },
-          {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
-          },
-          {
-            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
-            "clue": "Three initials for Shakespearean theatre company",
-            "answer": "rsc",
-            "normalized": "rsc"
+            "id": "05a3682d-9ec4-4249-b58a-63572dfbb3a5",
+            "clue": "Broadway actor and Glee's Rachel Berry, __ Michele",
+            "answer": "lea",
+            "normalized": "lea"
           }
         ],
-        "track": "PC|LenC--Y2026M8D1F1"
+        "track": "PC|LenC--Y2026M8D2F1"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-08-01",
+      "key": "2026-08-02",
       "year": 2026,
       "month": 8,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenC--Y2026M8D1F0",
+        "puzzleId": "PC|LenC--Y2026M8D2F0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "5c75666d-ff78-4164-879a-6105bf324243",
-            "clue": "An open space in the forest; rhymes with blade",
-            "answer": "glade",
-            "normalized": "glade"
+            "id": "d314dde4-8423-4788-8ac7-837a6110f582",
+            "clue": "Common abbreviation for \"answer\"",
+            "answer": "ans",
+            "normalized": "ans"
           },
           {
-            "id": "233d4d05-0840-4cf1-9ce4-800ff299897c",
-            "clue": "Short term for military observation",
-            "answer": "recon",
-            "normalized": "recon"
+            "id": "37344a2c-accc-4e2a-815b-9d5ca3ba760e",
+            "clue": "Currency unit of Lesotho",
+            "answer": "loti",
+            "normalized": "loti"
           },
           {
-            "id": "72727217-7c89-40e8-bc2e-eeb78839d9b0",
-            "clue": "Metal stick used to load a charge into a musket",
-            "answer": "ramrod",
-            "normalized": "ramrod"
+            "id": "a0ef8e45-ecee-4dc2-b0d7-1d51f29c48b4",
+            "clue": "An area of sand on a shore",
+            "answer": "beach",
+            "normalized": "beach"
           },
           {
-            "id": "a75477ff-c59f-4170-ab5b-63ff6c632928",
-            "clue": "Large Turkish city, on the Aegean Sea in Anatolia",
-            "answer": "izmir",
-            "normalized": "izmir"
+            "id": "a548203a-7640-4257-96cf-96891eb25a30",
+            "clue": "Show appreciation for a social media post",
+            "answer": "like",
+            "normalized": "like"
           },
           {
-            "id": "9fededbf-e007-4530-a109-f673666a1cef",
-            "clue": "Fermented honey drink with ancient roots",
-            "answer": "mead",
-            "normalized": "mead"
+            "id": "550b6637-fff2-419d-8d48-d9a9c6a3d48f",
+            "clue": "Hair-shade changing substance",
+            "answer": "dye",
+            "normalized": "dye"
           },
           {
-            "id": "5eedc01e-c76d-43a4-b25e-83bc95158b20",
-            "clue": "How herbivores eat, munching on grass all day",
-            "answer": "graze",
-            "normalized": "graze"
+            "id": "29dfae89-6c41-40a0-bed9-86c45862dd40",
+            "clue": "White vestment worn by Christian priests",
+            "answer": "alb",
+            "normalized": "alb"
           },
           {
-            "id": "31538220-228e-4d7e-9b58-b487940f19f8",
-            "clue": "Subsidiary theorem",
-            "answer": "lemma",
-            "normalized": "lemma"
+            "id": "8c4b8aa2-dfda-41a4-b567-be684cd8d4a7",
+            "clue": "A short, old-time word for Christmas",
+            "answer": "noel",
+            "normalized": "noel"
           },
           {
-            "id": "8f9a3b32-94ed-4d82-876c-f2d3e9c5dcba",
-            "clue": "Pungent, acidic",
-            "answer": "acrid",
-            "normalized": "acrid"
+            "id": "738855bd-9e21-4800-8ff5-1683a3b8be15",
+            "clue": "Serious, dull, unremarkable",
+            "answer": "staid",
+            "normalized": "staid"
           },
           {
-            "id": "82f14873-f01e-4ff7-94c3-85de95838467",
-            "clue": "Entry to a house",
-            "answer": "door",
-            "normalized": "door"
+            "id": "4588d35a-eb24-4d43-bd99-a18cdc763e3d",
+            "clue": "Gross or sickly, in slang",
+            "answer": "icky",
+            "normalized": "icky"
           },
           {
-            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
-            "clue": "Finale",
-            "answer": "end",
-            "normalized": "end"
-          },
-          {
-            "id": "48be5933-0406-4e9b-8f85-b322990211e5",
-            "clue": "The edge of a basketball hoop",
-            "answer": "rim",
-            "normalized": "rim"
+            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
+            "clue": "Say this twice for a laughter sound",
+            "answer": "hee",
+            "normalized": "hee"
           }
         ],
-        "track": "PC|LenC--Y2026M8D1F0"
+        "track": "PC|LenC--Y2026M8D2F0"
       },
       "mid": {
-        "puzzleId": "PC|LenC--Y2026M8D1F1",
+        "puzzleId": "PC|LenC--Y2026M8D2F1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "3ab88a34-183c-4d5a-8cc0-aec0372eda4d",
-            "clue": "French ballpoint pen brand",
-            "answer": "bic",
-            "normalized": "bic"
+            "id": "e8708f44-ba4e-46fc-9d6a-0f25c7b6dff3",
+            "clue": "To understand something with certainty",
+            "answer": "know",
+            "normalized": "know"
           },
           {
-            "id": "d788293e-530c-435f-8766-924a43d970bb",
-            "clue": "Graphical user interface, in short",
-            "answer": "gui",
-            "normalized": "gui"
+            "id": "f9096c83-008d-4970-91e1-740ddf1458bd",
+            "clue": "Made a noise through mouth/nose while asleep",
+            "answer": "snored",
+            "normalized": "snored"
           },
           {
-            "id": "03f88688-18be-4c37-8e03-e48d1f8c57e4",
-            "clue": "The Animals lyric, \"There is a house in New __\"",
-            "answer": "orleans",
-            "normalized": "orleans"
+            "id": "ff93e55e-f108-4c34-b838-698e1765f1c4",
+            "clue": "Lightning's closest companion",
+            "answer": "thunder",
+            "normalized": "thunder"
           },
           {
-            "id": "164876ea-3474-4fa8-9887-5263b3e7d00a",
-            "clue": "The Killing of __, sombre hit by Rod Stewart",
-            "answer": "georgie",
-            "normalized": "georgie"
+            "id": "eff3796f-ab65-4c6f-85d3-62a3467ca9dd",
+            "clue": "Legendary giant bird",
+            "answer": "roc",
+            "normalized": "roc"
           },
           {
-            "id": "1a2574d8-31b0-46cb-b707-9eca36aee7e2",
-            "clue": "Murder, She __ crime series",
-            "answer": "wrote",
-            "normalized": "wrote"
+            "id": "4fa59002-86cd-4b9c-b746-e703edcc5a40",
+            "clue": "International Phonetic Alphabet, in short",
+            "answer": "ipa",
+            "normalized": "ipa"
           },
           {
-            "id": "bca71e37-c498-4350-9af3-fe5171fbd978",
-            "clue": "Algerian currency",
-            "answer": "dinar",
-            "normalized": "dinar"
+            "id": "297cd1f9-6c27-4f56-9dea-5c737d36d97e",
+            "clue": "To annoy or irritate someone",
+            "answer": "irk",
+            "normalized": "irk"
           },
           {
-            "id": "c51a7fe4-1d0a-4eb2-a9fc-320412bb30f5",
-            "clue": "Device that prevents racehorse's peripheral vision",
-            "answer": "blinder",
-            "normalized": "blinder"
+            "id": "20d50edd-3cb0-4b58-9896-0ca28e43fd3b",
+            "clue": "Written abbreviation of negative",
+            "answer": "neg",
+            "normalized": "neg"
           },
           {
-            "id": "3fc883da-d1a0-4329-8f4b-af97c6f78305",
-            "clue": "Money makers",
-            "answer": "minters",
-            "normalized": "minters"
+            "id": "bdb3ff66-25c1-4ad9-a510-e127e5337ce5",
+            "clue": "Fundamental principles",
+            "answer": "pillars",
+            "normalized": "pillars"
           },
           {
-            "id": "aee7469b-d5d8-410e-8dfd-e7832546f93a",
-            "clue": "Droop, sink",
-            "answer": "sag",
-            "normalized": "sag"
+            "id": "76e25336-e018-472f-84c2-2b0baffc48ef",
+            "clue": "Disapproving looks of contempt",
+            "answer": "sneers",
+            "normalized": "sneers"
           },
           {
-            "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
-            "clue": "Parks & __, TV show for short",
-            "answer": "rec",
-            "normalized": "rec"
+            "id": "65767eb4-00ca-417a-a2b0-31c0bbd530e7",
+            "clue": "Aussie greeting",
+            "answer": "gday",
+            "normalized": "gday"
           },
           {
-            "id": "9020f660-8858-4d6b-836c-ad6d413ebf3c",
-            "clue": "Marsh, swamp",
-            "answer": "bog",
-            "normalized": "bog"
+            "id": "706420d3-56a8-4ec8-810b-f8c20fa110a8",
+            "clue": "Rubbed with closed fist",
+            "answer": "knuckled",
+            "normalized": "knuckled"
           },
           {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
+            "id": "f3e59a96-9e0c-42ec-acf9-5d2a8475a201",
+            "clue": "French refusal",
+            "answer": "non",
+            "normalized": "non"
           },
           {
-            "id": "980a817b-92c5-42a7-99af-d951c9efc559",
-            "clue": "__ around, messing about, not acting seriously",
-            "answer": "clowning",
-            "normalized": "clowning"
+            "id": "6879c7e1-02d0-45c5-813a-919189f0047f",
+            "clue": "Anomaly not",
+            "answer": "ordinary",
+            "normalized": "ordinary"
           },
           {
-            "id": "d0653c34-e5e4-4792-890e-545b78028a0f",
-            "clue": "Judge's decision, people cannot talk about a case",
-            "answer": "gag order",
-            "normalized": "gagorder"
+            "id": "7b8aa52f-b632-4708-8bca-1918216c7caa",
+            "clue": "Finders keepers, losers __",
+            "answer": "weepers",
+            "normalized": "weepers"
           },
           {
-            "id": "98e315ce-b5e1-4dbe-ae8a-23e181593ed7",
-            "clue": "Measurement type, like cm or miles",
-            "answer": "unit",
-            "normalized": "unit"
+            "id": "ad3b80f7-8485-476b-8e66-23a67e5db3fc",
+            "clue": "Propping up a building during repairs",
+            "answer": "shoring",
+            "normalized": "shoring"
           },
           {
-            "id": "db8bfe32-bf90-41c8-a3d1-ea3b510f1834",
-            "clue": "Phrase that confirms you've understood",
-            "answer": "i see",
-            "normalized": "isee"
+            "id": "08d12c51-7e66-419b-823e-b9f216a19842",
+            "clue": "Tows something along with a rope",
+            "answer": "drags",
+            "normalized": "drags"
           },
           {
-            "id": "8cffac7a-27c1-40d8-a5e7-485a46386b58",
-            "clue": "Straying from the path of acceptability",
-            "answer": "errant",
-            "normalized": "errant"
+            "id": "fa9d16a5-504a-4a22-ab53-957707cb537c",
+            "clue": "Falls over",
+            "answer": "trips",
+            "normalized": "trips"
           },
           {
-            "id": "ce31da9a-62eb-4a2e-9fe6-4ba08e9ea759",
-            "clue": "Initialism for database management systems",
-            "answer": "dbms",
-            "normalized": "dbms"
-          },
-          {
-            "id": "899f9a22-5bec-4b07-9d63-4ed6dd11379d",
-            "clue": "Large upper parts of hip bones",
-            "answer": "ilia",
-            "normalized": "ilia"
-          },
-          {
-            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
-            "clue": "Before, poetically",
-            "answer": "ere",
-            "normalized": "ere"
-          },
-          {
-            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
-            "clue": "Three initials for Shakespearean theatre company",
-            "answer": "rsc",
-            "normalized": "rsc"
+            "id": "05a3682d-9ec4-4249-b58a-63572dfbb3a5",
+            "clue": "Broadway actor and Glee's Rachel Berry, __ Michele",
+            "answer": "lea",
+            "normalized": "lea"
           }
         ],
-        "track": "PC|LenC--Y2026M8D1F1"
+        "track": "PC|LenC--Y2026M8D2F1"
       }
     },
     "todayPublished": true
@@ -429131,21 +429035,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "mNnlqCNft6Dkm87Xh6vjMn0SPZWO2TX1XANrCtFciSMgG3NrrIJbZSQtwBwcUdHuEoZRK3kMGMLqTUawSWkJYxsDvnHwk9yzRBv+uo05/ira0lgP+9I/MnxsEmh58Xnsx7tzIfnFWmTd5qxgcBmOspOSK9LvzYXQddXwc+kPhedR+sDJkrr5g3WIBGkSk4z7VvMFLjY+JAR32Fgd+M18HCSDMV+lDrFikWRLoiTQAXL+zG0OkO+Oo5NllpAJ/1XjVFqIGZfq4K70TEVKK/mp376Ix80xjJuhUqibBX0fp/k="
+        "vaPK+E+pKtq7LHJFU1xk3QVNnSbl9w+RYE5vf9+nyr6GdTEYOkxIl0iWHx9wwok6HI2eiar2eRJDgv99X21nmaBfZXHzroz0exnElpCxzx/tIbS+9vSYk9g/3okrPskaBD7+ylrOEg/UWABEIWj1mxp6D0g975osA9zoAwhc1K3raEddo9Z5snIZg2Z0mi7vwaEXiczkynp9bZTPdp3dhMtZnOyOQHF08HACWkYlWMQCeDZXVGMfrtI1Pl+dBIPy3wQd/FpXl92yivyyvz7iHg+EimAph6kW82YW9PLwYg8="
       ]
     },
     "decrypted": {
-      "Id": "0f4aa56c-5e69-414d-ad66-07d889939622",
-      "Date": "2026-08-01T00:00:00Z",
+      "Id": "e0ac7163-2619-4485-bfe0-32dc25363ed2",
+      "Date": "2026-08-02T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "aroma",
-      "NormalizedPassword": "aroma",
+      "Password": "paint",
+      "NormalizedPassword": "paint",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-01T01:29:42.6480000+05:30",
-    "hash": "f7e48a4afed8ebe77e0e55c37578314e",
+    "dtu": "2026-08-02T01:10:22.0310000+05:30",
+    "hash": "c2d3efd385a0c7ff94fb1a9018b81a5a",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
