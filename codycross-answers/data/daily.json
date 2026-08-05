@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T20:06:16.390Z",
+  "generatedAt": "2026-08-05T20:02:00.404Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 5
+    "day": 6
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 6
+        "QuantidadeDeFases": 8
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434118,499 +434118,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-05",
+      "key": "2026-08-06",
       "year": 2026,
       "month": 8,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "51a107b5-69e1-43e2-bf03-b72221bf40d8",
+        "puzzleId": "ceac6a69-ed02-4b0b-a621-51a3cb8e6b0b",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "1d93d778-a766-43b4-b117-c628d8bdfda2",
+            "clue": "Detailed description of a product's feature",
+            "answer": "spec",
+            "normalized": "spec"
+          },
+          {
+            "id": "991f5a3c-93c1-4910-ae4b-b440f9609ea0",
+            "clue": "Common name for member of the Navy",
+            "answer": "sailor",
+            "normalized": "sailor"
+          },
+          {
+            "id": "78d09a12-d0bb-4b69-8675-69814499ba71",
+            "clue": "Connected to the Internet",
+            "answer": "online",
+            "normalized": "online"
+          },
+          {
+            "id": "1b28f73e-0019-434c-b870-98a45cb7ab9b",
+            "clue": "Dar es __, hub of Tanzania on the Indian Ocean",
+            "answer": "salaam",
+            "normalized": "salaam"
+          },
+          {
+            "id": "4aef22d4-2992-4f49-91f8-6889357af1b0",
+            "clue": "Short for association",
+            "answer": "assn",
+            "normalized": "assn"
+          },
+          {
+            "id": "67a42242-372f-4687-94c6-bf58cdea8686",
+            "clue": "Yemen's capital city",
+            "answer": "sanaa",
+            "normalized": "sanaa"
+          },
+          {
+            "id": "801285aa-c476-43ea-a128-f584fd02206e",
+            "clue": "Small medical tablets",
+            "answer": "pills",
+            "normalized": "pills"
+          },
+          {
+            "id": "1c00b899-6718-441c-9262-ab373351c874",
+            "clue": "Greek equivalent of Elijah",
+            "answer": "elias",
+            "normalized": "elias"
+          },
+          {
+            "id": "baeea955-0891-456e-bcf9-746a11589282",
+            "clue": "O'Brien whose show is Without Borders",
+            "answer": "conan",
+            "normalized": "conan"
+          },
+          {
+            "id": "54733d54-5dc6-4481-82d1-3c4d1d5342fd",
+            "clue": "Three letters to indicate distress",
+            "answer": "sos",
+            "normalized": "sos"
+          },
+          {
+            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
+            "clue": "Shiny Happy People band",
+            "answer": "rem",
+            "normalized": "rem"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D6F0"
+      },
+      "mid": {
+        "puzzleId": "602ed907-d359-442f-a802-14596fca1cff",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 6,
         "answers": [
           {
-            "id": "a9cf8fa3-7dff-451e-b65d-aef5e424dbe6",
-            "clue": "A rascal, a badly-behaved child; anagram of camps",
-            "answer": "scamp",
-            "normalized": "scamp"
+            "id": "f38c9872-07ef-4c95-8945-9ba82aae4a71",
+            "clue": "Smartphone programs for texts, playing games etc.",
+            "answer": "apps",
+            "normalized": "apps"
           },
           {
-            "id": "7b71e2a0-8fb9-49c0-a99e-f5eb2a783d8f",
-            "clue": "Lawn cutter",
-            "answer": "mower",
-            "normalized": "mower"
+            "id": "778bef57-89a3-4695-9383-c668169ce87e",
+            "clue": "Abbreviation for \"spinal cord injury\"",
+            "answer": "sci",
+            "normalized": "sci"
           },
           {
-            "id": "4f2baccb-d8c8-49a7-94b7-b0d7eef6f744",
-            "clue": "To deal a heavy blow or strike",
-            "answer": "smite",
-            "normalized": "smite"
+            "id": "6086b49e-d4a9-4dbe-9a34-aa4326f33b83",
+            "clue": "Palindromic Asian flatbread",
+            "answer": "naan",
+            "normalized": "naan"
           },
           {
-            "id": "a4f50ed8-dc41-4477-b867-104a0134df67",
-            "clue": "A regularly updated website written informally",
-            "answer": "blog",
-            "normalized": "blog"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "1f2bff0e-2f98-4f83-892d-961c0b8e53b5",
-            "clue": "Scooby's \"last\" name",
-            "answer": "doo",
-            "normalized": "doo"
+            "id": "db194b07-fe30-4b40-ae0b-2c789918ae92",
+            "clue": "Expression, indirect reference in writing",
+            "answer": "allusion",
+            "normalized": "allusion"
           },
           {
-            "id": "46961678-b952-4327-9aa7-821d6facf80f",
-            "clue": "Abbreviation that signifies \"text message\"",
-            "answer": "sms",
-            "normalized": "sms"
+            "id": "d8fd39aa-3239-46e1-8344-fcbda3b169fc",
+            "clue": "Scratches metal to make art",
+            "answer": "etches",
+            "normalized": "etches"
           },
           {
-            "id": "713b4e78-5c41-480b-bd4b-a9f5b1f58873",
-            "clue": "Fine-toothed hair detangler",
-            "answer": "comb",
-            "normalized": "comb"
+            "id": "c4630329-c442-461e-85bd-391d49285867",
+            "clue": "Made something less bright",
+            "answer": "darkened",
+            "normalized": "darkened"
           },
           {
-            "id": "c861c508-6408-4139-a50a-f3c387f2f002",
-            "clue": "Hopeless search, go on __ goose chase",
-            "answer": "a wild",
-            "normalized": "awild"
+            "id": "abfdf7e7-8e9e-4963-a86a-59bdb3506ff8",
+            "clue": "Three-letter nickname of Jennifer Lopez",
+            "answer": "j lo",
+            "normalized": "jlo"
           },
           {
-            "id": "04a20952-9957-44d0-98b4-99fab9a12465",
-            "clue": "Hashtag for women in solidarity against harassment",
-            "answer": "me too",
-            "normalized": "metoo"
+            "id": "c9d71c0e-f0fa-4dc0-aa94-a54486ed801a",
+            "clue": "Rock genre with psychedelic references",
+            "answer": "acid",
+            "normalized": "acid"
           },
           {
-            "id": "7bca99de-8d9f-42e3-93b5-e88b708dfce5",
-            "clue": "Italian word meaning \"You're welcome\"",
-            "answer": "prego",
-            "normalized": "prego"
+            "id": "ca68d27f-5326-4ccf-8417-bd9b3e33fede",
+            "clue": "Use a needle and thread",
+            "answer": "sew",
+            "normalized": "sew"
+          },
+          {
+            "id": "e31cd8f3-eba7-4a55-918b-857e7dd6e1bd",
+            "clue": "Low marshlands",
+            "answer": "fens",
+            "normalized": "fens"
+          },
+          {
+            "id": "d9fc7fd9-258d-4086-ba62-79c7c2d75481",
+            "clue": "Californian city and river that starts with Santa",
+            "answer": "ana",
+            "normalized": "ana"
+          },
+          {
+            "id": "ecafaadc-c3fc-4ad4-880f-b5ca0e9d269e",
+            "clue": "Lightly-tinted beer; the PA in IPA",
+            "answer": "pale ale",
+            "normalized": "paleale"
+          },
+          {
+            "id": "a1a952d4-b70c-45d6-a6c9-15fe50cd27dc",
+            "clue": "Gwyneth of Goop",
+            "answer": "paltrow",
+            "normalized": "paltrow"
+          },
+          {
+            "id": "e90fdd34-63c0-4199-a625-8c3bb9336b74",
+            "clue": "Crept into a place unnoticed",
+            "answer": "snuck",
+            "normalized": "snuck"
+          },
+          {
+            "id": "0f50e4f9-70cf-49d9-bc1f-0ce79312f4b4",
+            "clue": "Natural, formal and social are three types of this",
+            "answer": "science",
+            "normalized": "science"
+          },
+          {
+            "id": "ee654dad-bbb4-405c-9033-e5e37edf3b67",
+            "clue": "Get nearer to and surround, converge on",
+            "answer": "close in",
+            "normalized": "closein"
+          },
+          {
+            "id": "689dd22c-3a1b-4db7-811e-9baf4bb27284",
+            "clue": "Atom with unequal number of protons and electrons",
+            "answer": "ion",
+            "normalized": "ion"
+          },
+          {
+            "id": "29ef322a-a2ed-4335-ab48-45bedadc5b92",
+            "clue": "A bundle of grain still on stalks",
+            "answer": "sheaf",
+            "normalized": "sheaf"
+          },
+          {
+            "id": "c016b54b-9129-4949-b33c-38c6ba9e6685",
+            "clue": "They play and mix records in clubs",
+            "answer": "djs",
+            "normalized": "djs"
+          },
+          {
+            "id": "cf806143-7dc2-4add-976a-91bd613b2372",
+            "clue": "Dental Surgeon's degree, abbr.",
+            "answer": "dds",
+            "normalized": "dds"
           }
         ],
-        "track": "PC|LenC--Y2026M8D5F0"
-      },
-      "mid": {
-        "puzzleId": "493bebe4-797a-4173-be7e-1aa2c179c209",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
-            "clue": "To engrave with a technique that uses acid",
-            "answer": "etch",
-            "normalized": "etch"
-          },
-          {
-            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
-            "clue": "One of three types of sword used in fencing",
-            "answer": "epee",
-            "normalized": "epee"
-          },
-          {
-            "id": "30e3b3ac-e7b6-4c6b-9cfc-19575b945873",
-            "clue": "Mars rover that was inquisitive",
-            "answer": "curiosity",
-            "normalized": "curiosity"
-          },
-          {
-            "id": "67d4cfba-5c91-43a4-a434-eb4bf99373bd",
-            "clue": "Deferential respect",
-            "answer": "obeisance",
-            "normalized": "obeisance"
-          },
-          {
-            "id": "188994d3-0514-44a1-8f51-edb7876878a6",
-            "clue": "Semi-aquatic salamanders",
-            "answer": "newts",
-            "normalized": "newts"
-          },
-          {
-            "id": "bbd0c8a7-24a2-47c7-866f-289d5229da85",
-            "clue": "Powerful demon in Arabic mythology",
-            "answer": "ifrit",
-            "normalized": "ifrit"
-          },
-          {
-            "id": "dec99b6c-40fe-4d3a-8723-c548d0c2e908",
-            "clue": "Small, diminutive",
-            "answer": "dwarflike",
-            "normalized": "dwarflike"
-          },
-          {
-            "id": "c7e91a19-b5d9-4646-97e7-d5309e995c4e",
-            "clue": "__ after, a fairy-tale ending",
-            "answer": "happy ever",
-            "normalized": "happyever"
-          },
-          {
-            "id": "cdcfbe52-14f5-455a-8cba-836b3fe49bef",
-            "clue": "Plant part between root and flower",
-            "answer": "stem",
-            "normalized": "stem"
-          },
-          {
-            "id": "6a05ad84-0079-4523-b6b7-881e60986505",
-            "clue": "2007 Category 5 hurricane",
-            "answer": "dean",
-            "normalized": "dean"
-          },
-          {
-            "id": "c8efde7d-64f1-49f2-bc50-ef9eaa788739",
-            "clue": "Abbreviation for economics",
-            "answer": "econ",
-            "normalized": "econ"
-          },
-          {
-            "id": "178c1610-ea04-4465-9de5-2f3a82eb1f91",
-            "clue": "Toothpaste container",
-            "answer": "tube",
-            "normalized": "tube"
-          },
-          {
-            "id": "c49b4cff-13a0-4fc9-aec8-ecd6e7799252",
-            "clue": "Workers in a NASCAR pit or a Broadway set",
-            "answer": "crew",
-            "normalized": "crew"
-          },
-          {
-            "id": "c279eb01-bc05-4944-af40-2d8edb4bcf00",
-            "clue": "Short name for high-intensity interval training",
-            "answer": "hiit",
-            "normalized": "hiit"
-          },
-          {
-            "id": "c52c1af7-8b01-4e0d-b7f7-2ec6fc38c781",
-            "clue": "Europe's space exploration group",
-            "answer": "esa",
-            "normalized": "esa"
-          },
-          {
-            "id": "d86cfe0f-b704-4302-bfc3-b7d3284da340",
-            "clue": "Tack, nail",
-            "answer": "pin",
-            "normalized": "pin"
-          },
-          {
-            "id": "334230cb-8ef5-487f-9694-1bf4962314cd",
-            "clue": "And so on",
-            "answer": "etc",
-            "normalized": "etc"
-          },
-          {
-            "id": "ed694b91-bbac-4268-818a-e69ea8292a5f",
-            "clue": "Organ that's all the better to see you with",
-            "answer": "eye",
-            "normalized": "eye"
-          },
-          {
-            "id": "e227a46d-09e9-4133-8ded-b04ec8590411",
-            "clue": "To turn into bone, to petrify",
-            "answer": "ossify",
-            "normalized": "ossify"
-          },
-          {
-            "id": "ada3fc70-ddd3-4869-8102-13814077381a",
-            "clue": "Ran in terror",
-            "answer": "fled",
-            "normalized": "fled"
-          },
-          {
-            "id": "faa2d589-6c6c-42f5-a35f-c5f787cc30f6",
-            "clue": "__  Gauche, southern bank of the Seine in Paris",
-            "answer": "rive",
-            "normalized": "rive"
-          },
-          {
-            "id": "2d3cb4f1-14f7-461e-9074-59de0605f76f",
-            "clue": "Global retailer known for its furniture",
-            "answer": "ikea",
-            "normalized": "ikea"
-          },
-          {
-            "id": "a156191f-547d-45b6-8398-7409456a8296",
-            "clue": "A seabird that sounds like it's changing direction",
-            "answer": "tern",
-            "normalized": "tern"
-          },
-          {
-            "id": "693c20b5-d0c8-473e-89c9-02c24aebd6ae",
-            "clue": "US federal department responsible for security",
-            "answer": "dhs",
-            "normalized": "dhs"
-          },
-          {
-            "id": "03159687-1823-4bb0-ab43-8676f191be69",
-            "clue": "Found after Angkor for a Cambodian temple site",
-            "answer": "wat",
-            "normalized": "wat"
-          },
-          {
-            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
-            "clue": "A tailless primate",
-            "answer": "ape",
-            "normalized": "ape"
-          },
-          {
-            "id": "383a0af6-8e17-4590-8262-3e2839247f2e",
-            "clue": "Speed of a vinyl record",
-            "answer": "rpm",
-            "normalized": "rpm"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D5F1"
+        "track": "PC|LenC--Y2026M8D6F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-05",
+      "key": "2026-08-06",
       "year": 2026,
       "month": 8,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "51a107b5-69e1-43e2-bf03-b72221bf40d8",
+        "puzzleId": "ceac6a69-ed02-4b0b-a621-51a3cb8e6b0b",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "1d93d778-a766-43b4-b117-c628d8bdfda2",
+            "clue": "Detailed description of a product's feature",
+            "answer": "spec",
+            "normalized": "spec"
+          },
+          {
+            "id": "991f5a3c-93c1-4910-ae4b-b440f9609ea0",
+            "clue": "Common name for member of the Navy",
+            "answer": "sailor",
+            "normalized": "sailor"
+          },
+          {
+            "id": "78d09a12-d0bb-4b69-8675-69814499ba71",
+            "clue": "Connected to the Internet",
+            "answer": "online",
+            "normalized": "online"
+          },
+          {
+            "id": "1b28f73e-0019-434c-b870-98a45cb7ab9b",
+            "clue": "Dar es __, hub of Tanzania on the Indian Ocean",
+            "answer": "salaam",
+            "normalized": "salaam"
+          },
+          {
+            "id": "4aef22d4-2992-4f49-91f8-6889357af1b0",
+            "clue": "Short for association",
+            "answer": "assn",
+            "normalized": "assn"
+          },
+          {
+            "id": "67a42242-372f-4687-94c6-bf58cdea8686",
+            "clue": "Yemen's capital city",
+            "answer": "sanaa",
+            "normalized": "sanaa"
+          },
+          {
+            "id": "801285aa-c476-43ea-a128-f584fd02206e",
+            "clue": "Small medical tablets",
+            "answer": "pills",
+            "normalized": "pills"
+          },
+          {
+            "id": "1c00b899-6718-441c-9262-ab373351c874",
+            "clue": "Greek equivalent of Elijah",
+            "answer": "elias",
+            "normalized": "elias"
+          },
+          {
+            "id": "baeea955-0891-456e-bcf9-746a11589282",
+            "clue": "O'Brien whose show is Without Borders",
+            "answer": "conan",
+            "normalized": "conan"
+          },
+          {
+            "id": "54733d54-5dc6-4481-82d1-3c4d1d5342fd",
+            "clue": "Three letters to indicate distress",
+            "answer": "sos",
+            "normalized": "sos"
+          },
+          {
+            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
+            "clue": "Shiny Happy People band",
+            "answer": "rem",
+            "normalized": "rem"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D6F0"
+      },
+      "mid": {
+        "puzzleId": "602ed907-d359-442f-a802-14596fca1cff",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 6,
         "answers": [
           {
-            "id": "a9cf8fa3-7dff-451e-b65d-aef5e424dbe6",
-            "clue": "A rascal, a badly-behaved child; anagram of camps",
-            "answer": "scamp",
-            "normalized": "scamp"
+            "id": "f38c9872-07ef-4c95-8945-9ba82aae4a71",
+            "clue": "Smartphone programs for texts, playing games etc.",
+            "answer": "apps",
+            "normalized": "apps"
           },
           {
-            "id": "7b71e2a0-8fb9-49c0-a99e-f5eb2a783d8f",
-            "clue": "Lawn cutter",
-            "answer": "mower",
-            "normalized": "mower"
+            "id": "778bef57-89a3-4695-9383-c668169ce87e",
+            "clue": "Abbreviation for \"spinal cord injury\"",
+            "answer": "sci",
+            "normalized": "sci"
           },
           {
-            "id": "4f2baccb-d8c8-49a7-94b7-b0d7eef6f744",
-            "clue": "To deal a heavy blow or strike",
-            "answer": "smite",
-            "normalized": "smite"
+            "id": "6086b49e-d4a9-4dbe-9a34-aa4326f33b83",
+            "clue": "Palindromic Asian flatbread",
+            "answer": "naan",
+            "normalized": "naan"
           },
           {
-            "id": "a4f50ed8-dc41-4477-b867-104a0134df67",
-            "clue": "A regularly updated website written informally",
-            "answer": "blog",
-            "normalized": "blog"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "1f2bff0e-2f98-4f83-892d-961c0b8e53b5",
-            "clue": "Scooby's \"last\" name",
-            "answer": "doo",
-            "normalized": "doo"
+            "id": "db194b07-fe30-4b40-ae0b-2c789918ae92",
+            "clue": "Expression, indirect reference in writing",
+            "answer": "allusion",
+            "normalized": "allusion"
           },
           {
-            "id": "46961678-b952-4327-9aa7-821d6facf80f",
-            "clue": "Abbreviation that signifies \"text message\"",
-            "answer": "sms",
-            "normalized": "sms"
+            "id": "d8fd39aa-3239-46e1-8344-fcbda3b169fc",
+            "clue": "Scratches metal to make art",
+            "answer": "etches",
+            "normalized": "etches"
           },
           {
-            "id": "713b4e78-5c41-480b-bd4b-a9f5b1f58873",
-            "clue": "Fine-toothed hair detangler",
-            "answer": "comb",
-            "normalized": "comb"
+            "id": "c4630329-c442-461e-85bd-391d49285867",
+            "clue": "Made something less bright",
+            "answer": "darkened",
+            "normalized": "darkened"
           },
           {
-            "id": "c861c508-6408-4139-a50a-f3c387f2f002",
-            "clue": "Hopeless search, go on __ goose chase",
-            "answer": "a wild",
-            "normalized": "awild"
+            "id": "abfdf7e7-8e9e-4963-a86a-59bdb3506ff8",
+            "clue": "Three-letter nickname of Jennifer Lopez",
+            "answer": "j lo",
+            "normalized": "jlo"
           },
           {
-            "id": "04a20952-9957-44d0-98b4-99fab9a12465",
-            "clue": "Hashtag for women in solidarity against harassment",
-            "answer": "me too",
-            "normalized": "metoo"
+            "id": "c9d71c0e-f0fa-4dc0-aa94-a54486ed801a",
+            "clue": "Rock genre with psychedelic references",
+            "answer": "acid",
+            "normalized": "acid"
           },
           {
-            "id": "7bca99de-8d9f-42e3-93b5-e88b708dfce5",
-            "clue": "Italian word meaning \"You're welcome\"",
-            "answer": "prego",
-            "normalized": "prego"
+            "id": "ca68d27f-5326-4ccf-8417-bd9b3e33fede",
+            "clue": "Use a needle and thread",
+            "answer": "sew",
+            "normalized": "sew"
+          },
+          {
+            "id": "e31cd8f3-eba7-4a55-918b-857e7dd6e1bd",
+            "clue": "Low marshlands",
+            "answer": "fens",
+            "normalized": "fens"
+          },
+          {
+            "id": "d9fc7fd9-258d-4086-ba62-79c7c2d75481",
+            "clue": "Californian city and river that starts with Santa",
+            "answer": "ana",
+            "normalized": "ana"
+          },
+          {
+            "id": "ecafaadc-c3fc-4ad4-880f-b5ca0e9d269e",
+            "clue": "Lightly-tinted beer; the PA in IPA",
+            "answer": "pale ale",
+            "normalized": "paleale"
+          },
+          {
+            "id": "a1a952d4-b70c-45d6-a6c9-15fe50cd27dc",
+            "clue": "Gwyneth of Goop",
+            "answer": "paltrow",
+            "normalized": "paltrow"
+          },
+          {
+            "id": "e90fdd34-63c0-4199-a625-8c3bb9336b74",
+            "clue": "Crept into a place unnoticed",
+            "answer": "snuck",
+            "normalized": "snuck"
+          },
+          {
+            "id": "0f50e4f9-70cf-49d9-bc1f-0ce79312f4b4",
+            "clue": "Natural, formal and social are three types of this",
+            "answer": "science",
+            "normalized": "science"
+          },
+          {
+            "id": "ee654dad-bbb4-405c-9033-e5e37edf3b67",
+            "clue": "Get nearer to and surround, converge on",
+            "answer": "close in",
+            "normalized": "closein"
+          },
+          {
+            "id": "689dd22c-3a1b-4db7-811e-9baf4bb27284",
+            "clue": "Atom with unequal number of protons and electrons",
+            "answer": "ion",
+            "normalized": "ion"
+          },
+          {
+            "id": "29ef322a-a2ed-4335-ab48-45bedadc5b92",
+            "clue": "A bundle of grain still on stalks",
+            "answer": "sheaf",
+            "normalized": "sheaf"
+          },
+          {
+            "id": "c016b54b-9129-4949-b33c-38c6ba9e6685",
+            "clue": "They play and mix records in clubs",
+            "answer": "djs",
+            "normalized": "djs"
+          },
+          {
+            "id": "cf806143-7dc2-4add-976a-91bd613b2372",
+            "clue": "Dental Surgeon's degree, abbr.",
+            "answer": "dds",
+            "normalized": "dds"
           }
         ],
-        "track": "PC|LenC--Y2026M8D5F0"
-      },
-      "mid": {
-        "puzzleId": "493bebe4-797a-4173-be7e-1aa2c179c209",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 3,
-        "answers": [
-          {
-            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
-            "clue": "To engrave with a technique that uses acid",
-            "answer": "etch",
-            "normalized": "etch"
-          },
-          {
-            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
-            "clue": "One of three types of sword used in fencing",
-            "answer": "epee",
-            "normalized": "epee"
-          },
-          {
-            "id": "30e3b3ac-e7b6-4c6b-9cfc-19575b945873",
-            "clue": "Mars rover that was inquisitive",
-            "answer": "curiosity",
-            "normalized": "curiosity"
-          },
-          {
-            "id": "67d4cfba-5c91-43a4-a434-eb4bf99373bd",
-            "clue": "Deferential respect",
-            "answer": "obeisance",
-            "normalized": "obeisance"
-          },
-          {
-            "id": "188994d3-0514-44a1-8f51-edb7876878a6",
-            "clue": "Semi-aquatic salamanders",
-            "answer": "newts",
-            "normalized": "newts"
-          },
-          {
-            "id": "bbd0c8a7-24a2-47c7-866f-289d5229da85",
-            "clue": "Powerful demon in Arabic mythology",
-            "answer": "ifrit",
-            "normalized": "ifrit"
-          },
-          {
-            "id": "dec99b6c-40fe-4d3a-8723-c548d0c2e908",
-            "clue": "Small, diminutive",
-            "answer": "dwarflike",
-            "normalized": "dwarflike"
-          },
-          {
-            "id": "c7e91a19-b5d9-4646-97e7-d5309e995c4e",
-            "clue": "__ after, a fairy-tale ending",
-            "answer": "happy ever",
-            "normalized": "happyever"
-          },
-          {
-            "id": "cdcfbe52-14f5-455a-8cba-836b3fe49bef",
-            "clue": "Plant part between root and flower",
-            "answer": "stem",
-            "normalized": "stem"
-          },
-          {
-            "id": "6a05ad84-0079-4523-b6b7-881e60986505",
-            "clue": "2007 Category 5 hurricane",
-            "answer": "dean",
-            "normalized": "dean"
-          },
-          {
-            "id": "c8efde7d-64f1-49f2-bc50-ef9eaa788739",
-            "clue": "Abbreviation for economics",
-            "answer": "econ",
-            "normalized": "econ"
-          },
-          {
-            "id": "178c1610-ea04-4465-9de5-2f3a82eb1f91",
-            "clue": "Toothpaste container",
-            "answer": "tube",
-            "normalized": "tube"
-          },
-          {
-            "id": "c49b4cff-13a0-4fc9-aec8-ecd6e7799252",
-            "clue": "Workers in a NASCAR pit or a Broadway set",
-            "answer": "crew",
-            "normalized": "crew"
-          },
-          {
-            "id": "c279eb01-bc05-4944-af40-2d8edb4bcf00",
-            "clue": "Short name for high-intensity interval training",
-            "answer": "hiit",
-            "normalized": "hiit"
-          },
-          {
-            "id": "c52c1af7-8b01-4e0d-b7f7-2ec6fc38c781",
-            "clue": "Europe's space exploration group",
-            "answer": "esa",
-            "normalized": "esa"
-          },
-          {
-            "id": "d86cfe0f-b704-4302-bfc3-b7d3284da340",
-            "clue": "Tack, nail",
-            "answer": "pin",
-            "normalized": "pin"
-          },
-          {
-            "id": "334230cb-8ef5-487f-9694-1bf4962314cd",
-            "clue": "And so on",
-            "answer": "etc",
-            "normalized": "etc"
-          },
-          {
-            "id": "ed694b91-bbac-4268-818a-e69ea8292a5f",
-            "clue": "Organ that's all the better to see you with",
-            "answer": "eye",
-            "normalized": "eye"
-          },
-          {
-            "id": "e227a46d-09e9-4133-8ded-b04ec8590411",
-            "clue": "To turn into bone, to petrify",
-            "answer": "ossify",
-            "normalized": "ossify"
-          },
-          {
-            "id": "ada3fc70-ddd3-4869-8102-13814077381a",
-            "clue": "Ran in terror",
-            "answer": "fled",
-            "normalized": "fled"
-          },
-          {
-            "id": "faa2d589-6c6c-42f5-a35f-c5f787cc30f6",
-            "clue": "__  Gauche, southern bank of the Seine in Paris",
-            "answer": "rive",
-            "normalized": "rive"
-          },
-          {
-            "id": "2d3cb4f1-14f7-461e-9074-59de0605f76f",
-            "clue": "Global retailer known for its furniture",
-            "answer": "ikea",
-            "normalized": "ikea"
-          },
-          {
-            "id": "a156191f-547d-45b6-8398-7409456a8296",
-            "clue": "A seabird that sounds like it's changing direction",
-            "answer": "tern",
-            "normalized": "tern"
-          },
-          {
-            "id": "693c20b5-d0c8-473e-89c9-02c24aebd6ae",
-            "clue": "US federal department responsible for security",
-            "answer": "dhs",
-            "normalized": "dhs"
-          },
-          {
-            "id": "03159687-1823-4bb0-ab43-8676f191be69",
-            "clue": "Found after Angkor for a Cambodian temple site",
-            "answer": "wat",
-            "normalized": "wat"
-          },
-          {
-            "id": "7f60e0f3-1390-40bb-861a-0b10f183d91f",
-            "clue": "A tailless primate",
-            "answer": "ape",
-            "normalized": "ape"
-          },
-          {
-            "id": "383a0af6-8e17-4590-8262-3e2839247f2e",
-            "clue": "Speed of a vinyl record",
-            "answer": "rpm",
-            "normalized": "rpm"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D5F1"
+        "track": "PC|LenC--Y2026M8D6F1"
       }
     },
     "latestAvailableEntry": {
@@ -434876,21 +434816,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "4b0cnBi/BQq+MYc6cQFMqb6REXvKmgdqTcX15CToiZWqUmS8fyS9ek2g4MyoaZaHXJldo5h+1ZJYc1UFVJllkcCN49ukd1L1I0kpygLALxMwzTM3thwMEHk0geXuHOwjWmy+2ZHG4QEag6+ZP1xqqqp0ZZpBLw8Mb8hC9SbLWsql1YsLBuNfpgIf1aBxLKSFU+A/x9sLPCFoiDGxgGRsqVV9Tvj6HC3a9g42CszB1K0Oh7BbHHGuzpO+iFwSExDmsjt9RVT7vDdjvTzCb68U969RvMdT+4fPGKr3BbEynCQ="
+        "zIerp1gZmBoEcziZ9uEknmNFIsdXP3jnHcIBvAHkusWfJcQE2DbjwtIKookTjLBeaIb6iKfpyDew/SnAn9VMwkFnxebeVSHW5s/j8cwdhKDdImPpJJURe2+iq5gCaZKv99bQ+pU3bG5/WWGQZqUoSb0vBiJGMXZOy3r+QF3uj526GgJdfBUTIWNMroGeSQLwPsP5O9BIVd7SNQ2QuJLHqWaPQfP21bqPjdrk6685BuMM7sVMlKtmILK3ytRMrASLTFvTtyEK7rl38m6M2ifSVwL0Htm9yLu7vKJjM352M34="
       ]
     },
     "decrypted": {
-      "Id": "9d1b6d2b-fbd4-4032-bb25-7e445fc0f288",
-      "Date": "2026-08-05T00:00:00Z",
+      "Id": "f618272b-70ff-4150-bc62-5e857911b4f0",
+      "Date": "2026-08-06T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "twice",
-      "NormalizedPassword": "twice",
+      "Password": "draft",
+      "NormalizedPassword": "draft",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-05T01:36:16.3900000+05:30",
-    "hash": "92947fae2e41a9570eeb149a03ff37fe",
+    "dtu": "2026-08-06T01:32:00.4040000+05:30",
+    "hash": "a1b97697e98d0b3b42f39d99e3ba2413",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
