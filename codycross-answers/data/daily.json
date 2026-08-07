@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T00:20:54.945Z",
+  "generatedAt": "2026-08-07T19:26:03.420Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 7
+    "day": 8
   },
   "crossword": {
     "archive": [
@@ -434118,391 +434118,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-07",
+      "key": "2026-08-08",
       "year": 2026,
       "month": 8,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "d2c14731-91de-41d1-8686-9a9e214f94e7",
+        "puzzleId": "ac736361-8b7c-4d34-8a3d-24fe10935419",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "a61ba1f7-73f0-4011-b296-4ad366aa654f",
-            "clue": "Comment meant as a joke",
-            "answer": "jest",
-            "normalized": "jest"
+            "id": "5c4ada3e-2987-48f2-b50f-f98d73e20091",
+            "clue": "Scrape by, __ out a living",
+            "answer": "eke",
+            "normalized": "eke"
           },
           {
-            "id": "28d91e3e-6877-4459-baf8-d66e0be6de85",
-            "clue": "Meal eaten at midday",
-            "answer": "lunch",
-            "normalized": "lunch"
+            "id": "9fb6e0ca-750c-4766-a2d1-a024a9c03e27",
+            "clue": "Good fortune",
+            "answer": "luck",
+            "normalized": "luck"
           },
           {
-            "id": "20596ec6-40c9-47d8-907a-78a693d8a9d9",
-            "clue": "Bid someone this French word before leaving",
-            "answer": "adieu",
-            "normalized": "adieu"
+            "id": "62f244bc-5a56-4caa-9931-1902a5588573",
+            "clue": "In the midst of a crowd",
+            "answer": "among",
+            "normalized": "among"
           },
           {
-            "id": "ce1c85a3-8063-40f3-bdda-0a10ceadf511",
-            "clue": "Signifies or represents",
-            "answer": "means",
-            "normalized": "means"
+            "id": "73fda43a-5b33-4406-b577-3cb8ec340a89",
+            "clue": "To do with the nose",
+            "answer": "nasal",
+            "normalized": "nasal"
           },
           {
-            "id": "e58dcece-047e-49d2-9ff0-65a37cec59d6",
-            "clue": "Marathon runners must keep this sustainable",
-            "answer": "pace",
-            "normalized": "pace"
+            "id": "5fb5096f-30e0-489d-a430-641a4ee12917",
+            "clue": "Dance venue or school dance",
+            "answer": "disco",
+            "normalized": "disco"
           },
           {
-            "id": "bfc791ae-b10c-46c1-a399-c1f5c8fb0298",
-            "clue": "Ancient region ruled by the Herods in the bible",
-            "answer": "judea",
-            "normalized": "judea"
+            "id": "fed145a8-d354-4c9e-b91d-5a244a6775c4",
+            "clue": "Official currency of Albania",
+            "answer": "lek",
+            "normalized": "lek"
           },
           {
-            "id": "1e788179-55fb-4eb7-97fe-9c0bd479ca18",
-            "clue": "World's first general purpose electronic computer",
-            "answer": "eniac",
-            "normalized": "eniac"
+            "id": "b831fc7b-ebae-465e-80ac-071ef6db3a5d",
+            "clue": "Antelope with corkscrew-shaped horns",
+            "answer": "eland",
+            "normalized": "eland"
           },
           {
-            "id": "a59acdbe-5f45-416a-9e6d-956822979c7a",
-            "clue": "Setting for a play",
-            "answer": "scene",
-            "normalized": "scene"
+            "id": "ad752fc8-cce1-4326-b95d-53bec4b794ec",
+            "clue": "Mr. Nanjiani of Silicon Valley and Portlandia",
+            "answer": "kumail",
+            "normalized": "kumail"
           },
           {
-            "id": "97455ae5-42da-4d6c-82d9-ee2d7f3dcbd5",
-            "clue": "Therefore, because",
-            "answer": "thus",
-            "normalized": "thus"
+            "id": "139ff34d-2c98-43ea-ad5b-e4cd2acfeb21",
+            "clue": "What the French call Scotland",
+            "answer": "ecosse",
+            "normalized": "ecosse"
           },
           {
-            "id": "ceca01b1-cc5f-4c3b-b677-ff524fee12c0",
-            "clue": "Florence Nightingale was the lady with this",
-            "answer": "lamp",
-            "normalized": "lamp"
+            "id": "e7b9ed7f-472d-451f-9530-72c6b6d831ec",
+            "clue": "A natural skill or gift",
+            "answer": "knack",
+            "normalized": "knack"
+          },
+          {
+            "id": "07afb114-121e-4980-87c1-868dd7e88b60",
+            "clue": "Day-__, extremely bright yellow, orange or pink",
+            "answer": "glo",
+            "normalized": "glo"
           }
         ],
-        "track": "PC|LenC--Y2026M8D7F0"
+        "track": "PC|LenC--Y2026M8D8F0"
       },
       "mid": {
-        "puzzleId": "7d9dc3a7-1bf5-4c20-bf99-b828e0d6d935",
+        "puzzleId": "1dced0b0-6515-4232-a900-4120c580c190",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "f458826f-558e-4782-b8f7-4471d160ec35",
-            "clue": "Music video award presented by MTV",
-            "answer": "vma",
-            "normalized": "vma"
+            "id": "fc41ed65-6988-45b0-9310-3c1dc2b2357d",
+            "clue": "Alphabet openers",
+            "answer": "abc",
+            "normalized": "abc"
           },
           {
-            "id": "793256ed-b362-4764-9167-68874154633d",
-            "clue": "Major Korean airline, with red arrowhead logo",
-            "answer": "asiana",
-            "normalized": "asiana"
+            "id": "ea26580b-15eb-4129-b6a4-383b97630767",
+            "clue": "India's Railway Protection Force, in short",
+            "answer": "rpf",
+            "normalized": "rpf"
           },
           {
-            "id": "f98972c1-b5c1-4de1-8f40-1a043611a237",
-            "clue": "Borneo, Taiwan and Cyprus are these",
-            "answer": "islands",
-            "normalized": "islands"
+            "id": "f866dbaf-bfb4-4cac-9ad2-8add3986382a",
+            "clue": "Comes after Zip-a-Dee-Doo, in the song",
+            "answer": "dah",
+            "normalized": "dah"
           },
           {
-            "id": "c1591835-5d33-4e9a-b9d0-3d6d8027736b",
-            "clue": "3-letter term for a week's 4th business day",
-            "answer": "thu",
-            "normalized": "thu"
+            "id": "4dc7b46e-3bbe-480b-a16e-af6cafaed55d",
+            "clue": "Elusive Japanese leopard cat",
+            "answer": "iriomote",
+            "normalized": "iriomote"
           },
           {
-            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
-            "clue": "Possessive determiner, no apostrophe",
-            "answer": "its",
-            "normalized": "its"
+            "id": "999260b1-a0bd-4c0e-84e2-a9395ec7dee7",
+            "clue": "Skilled person who joins metal objects together",
+            "answer": "solderer",
+            "normalized": "solderer"
           },
           {
-            "id": "201b1192-8c7d-4d4f-a8c3-09ece133f139",
-            "clue": "__ the Dog, 1997 Dustin Hoffman movie",
-            "answer": "wag",
-            "normalized": "wag"
+            "id": "2b29c027-7706-47bf-93b1-ea80e01855d9",
+            "clue": "Housing development for 1957 Berlin exhibition",
+            "answer": "interbau",
+            "normalized": "interbau"
           },
           {
-            "id": "f7a1c29a-b291-4d48-b49c-c26b3b0c0a42",
-            "clue": "Vietnamese rice noodle soup",
-            "answer": "pho",
-            "normalized": "pho"
+            "id": "286dbc55-a62d-4d6c-ac7c-4a6a10f8af46",
+            "clue": "\"To the __ degree\" means to the utmost",
+            "answer": "nth",
+            "normalized": "nth"
           },
           {
-            "id": "1093c684-6f40-4670-9785-0278574b8140",
-            "clue": "Belonging to angels, angel-like",
-            "answer": "angelic",
-            "normalized": "angelic"
+            "id": "47397307-6bc2-4b64-b6de-cfd86cb14dd9",
+            "clue": "Temporary teacher or long sandwich, for short",
+            "answer": "sub",
+            "normalized": "sub"
           },
           {
-            "id": "7bb4ea6b-9dfa-47cb-9d17-22b467504d55",
-            "clue": "__ Spielberg's E.T. the Extra-Terrestrial",
-            "answer": "steven",
-            "normalized": "steven"
+            "id": "eb2bcbb2-9cb5-4bf5-aec3-50b7fd0bf99e",
+            "clue": "Get Over Yourself, in short",
+            "answer": "goy",
+            "normalized": "goy"
           },
           {
-            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
-            "clue": "International Development Association, initialism",
-            "answer": "ida",
-            "normalized": "ida"
+            "id": "b56c7661-645d-4468-8a87-1fecd3c01d89",
+            "clue": "Corruption of adorable, very cute",
+            "answer": "adorbs",
+            "normalized": "adorbs"
           },
           {
-            "id": "859cedb6-c487-48eb-91af-ea4df14b55b7",
-            "clue": "By way of, by means of; literally 'road' in Latin",
-            "answer": "via",
-            "normalized": "via"
+            "id": "d6d21b21-c7c7-42ec-8e9c-456fc5269914",
+            "clue": "Petit __, French kids wear, means \"small boat\"",
+            "answer": "bateau",
+            "normalized": "bateau"
           },
           {
-            "id": "3b865d74-ade9-4e30-b933-8218c81f3f03",
-            "clue": "Subdivision of 60 or 120 men in a Roman legion",
-            "answer": "maniple",
-            "normalized": "maniple"
+            "id": "accb5f4c-fe90-457d-8097-317b7498967e",
+            "clue": "Chubby sweet winged angel",
+            "answer": "cherub",
+            "normalized": "cherub"
           },
           {
-            "id": "7b5986cc-b78c-4bd6-8028-fcff4d74bed2",
-            "clue": "Through thick __, in good times and bad",
-            "answer": "and thin",
-            "normalized": "andthin"
+            "id": "568b0138-06ff-4089-aa7b-d0a8e997041a",
+            "clue": "Moving upwards",
+            "answer": "rising",
+            "normalized": "rising"
           },
           {
-            "id": "93d959c4-9ae6-4383-ab1f-09f2310d4ee0",
-            "clue": "Foolish singer who once dated Nelly",
-            "answer": "ashanti",
-            "normalized": "ashanti"
+            "id": "7c20ac6b-82da-4689-bc12-e1bd57743275",
+            "clue": "Straight away, without delay",
+            "answer": "pronto",
+            "normalized": "pronto"
           },
           {
-            "id": "bcf3ecb2-50ad-4bc7-a7ad-71c126d00b0c",
-            "clue": "Hit a ball hard (like a garden pest)",
-            "answer": "slugged",
-            "normalized": "slugged"
+            "id": "33218062-0150-48b3-8143-c0520560ea0f",
+            "clue": "Smutty, vulgar",
+            "answer": "filthy",
+            "normalized": "filthy"
           },
           {
-            "id": "160e46f3-baf5-4b13-80f9-7b9d7d6b1863",
-            "clue": "Association, abbreviated",
-            "answer": "assoc",
-            "normalized": "assoc"
+            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
+            "clue": "Poem addressed to someone",
+            "answer": "ode",
+            "normalized": "ode"
           },
           {
-            "id": "5e879c76-f596-44d4-8252-4991aa45c618",
-            "clue": "As __, hit song on Harry Styles' 2022 album",
-            "answer": "it was",
-            "normalized": "itwas"
-          },
-          {
-            "id": "dc91009a-faab-4a3c-8431-3bb72954932e",
-            "clue": "Desperate Housewives actress Longoria",
-            "answer": "eva",
-            "normalized": "eva"
+            "id": "039c2676-fed2-4f81-94ab-a97fe23673b8",
+            "clue": "Acronym for Mars exploration rover",
+            "answer": "mer",
+            "normalized": "mer"
           }
         ],
-        "track": "PC|LenC--Y2026M8D7F1"
+        "track": "PC|LenC--Y2026M8D8F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-07",
+      "key": "2026-08-08",
       "year": 2026,
       "month": 8,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "d2c14731-91de-41d1-8686-9a9e214f94e7",
+        "puzzleId": "ac736361-8b7c-4d34-8a3d-24fe10935419",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "a61ba1f7-73f0-4011-b296-4ad366aa654f",
-            "clue": "Comment meant as a joke",
-            "answer": "jest",
-            "normalized": "jest"
+            "id": "5c4ada3e-2987-48f2-b50f-f98d73e20091",
+            "clue": "Scrape by, __ out a living",
+            "answer": "eke",
+            "normalized": "eke"
           },
           {
-            "id": "28d91e3e-6877-4459-baf8-d66e0be6de85",
-            "clue": "Meal eaten at midday",
-            "answer": "lunch",
-            "normalized": "lunch"
+            "id": "9fb6e0ca-750c-4766-a2d1-a024a9c03e27",
+            "clue": "Good fortune",
+            "answer": "luck",
+            "normalized": "luck"
           },
           {
-            "id": "20596ec6-40c9-47d8-907a-78a693d8a9d9",
-            "clue": "Bid someone this French word before leaving",
-            "answer": "adieu",
-            "normalized": "adieu"
+            "id": "62f244bc-5a56-4caa-9931-1902a5588573",
+            "clue": "In the midst of a crowd",
+            "answer": "among",
+            "normalized": "among"
           },
           {
-            "id": "ce1c85a3-8063-40f3-bdda-0a10ceadf511",
-            "clue": "Signifies or represents",
-            "answer": "means",
-            "normalized": "means"
+            "id": "73fda43a-5b33-4406-b577-3cb8ec340a89",
+            "clue": "To do with the nose",
+            "answer": "nasal",
+            "normalized": "nasal"
           },
           {
-            "id": "e58dcece-047e-49d2-9ff0-65a37cec59d6",
-            "clue": "Marathon runners must keep this sustainable",
-            "answer": "pace",
-            "normalized": "pace"
+            "id": "5fb5096f-30e0-489d-a430-641a4ee12917",
+            "clue": "Dance venue or school dance",
+            "answer": "disco",
+            "normalized": "disco"
           },
           {
-            "id": "bfc791ae-b10c-46c1-a399-c1f5c8fb0298",
-            "clue": "Ancient region ruled by the Herods in the bible",
-            "answer": "judea",
-            "normalized": "judea"
+            "id": "fed145a8-d354-4c9e-b91d-5a244a6775c4",
+            "clue": "Official currency of Albania",
+            "answer": "lek",
+            "normalized": "lek"
           },
           {
-            "id": "1e788179-55fb-4eb7-97fe-9c0bd479ca18",
-            "clue": "World's first general purpose electronic computer",
-            "answer": "eniac",
-            "normalized": "eniac"
+            "id": "b831fc7b-ebae-465e-80ac-071ef6db3a5d",
+            "clue": "Antelope with corkscrew-shaped horns",
+            "answer": "eland",
+            "normalized": "eland"
           },
           {
-            "id": "a59acdbe-5f45-416a-9e6d-956822979c7a",
-            "clue": "Setting for a play",
-            "answer": "scene",
-            "normalized": "scene"
+            "id": "ad752fc8-cce1-4326-b95d-53bec4b794ec",
+            "clue": "Mr. Nanjiani of Silicon Valley and Portlandia",
+            "answer": "kumail",
+            "normalized": "kumail"
           },
           {
-            "id": "97455ae5-42da-4d6c-82d9-ee2d7f3dcbd5",
-            "clue": "Therefore, because",
-            "answer": "thus",
-            "normalized": "thus"
+            "id": "139ff34d-2c98-43ea-ad5b-e4cd2acfeb21",
+            "clue": "What the French call Scotland",
+            "answer": "ecosse",
+            "normalized": "ecosse"
           },
           {
-            "id": "ceca01b1-cc5f-4c3b-b677-ff524fee12c0",
-            "clue": "Florence Nightingale was the lady with this",
-            "answer": "lamp",
-            "normalized": "lamp"
+            "id": "e7b9ed7f-472d-451f-9530-72c6b6d831ec",
+            "clue": "A natural skill or gift",
+            "answer": "knack",
+            "normalized": "knack"
+          },
+          {
+            "id": "07afb114-121e-4980-87c1-868dd7e88b60",
+            "clue": "Day-__, extremely bright yellow, orange or pink",
+            "answer": "glo",
+            "normalized": "glo"
           }
         ],
-        "track": "PC|LenC--Y2026M8D7F0"
+        "track": "PC|LenC--Y2026M8D8F0"
       },
       "mid": {
-        "puzzleId": "7d9dc3a7-1bf5-4c20-bf99-b828e0d6d935",
+        "puzzleId": "1dced0b0-6515-4232-a900-4120c580c190",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "f458826f-558e-4782-b8f7-4471d160ec35",
-            "clue": "Music video award presented by MTV",
-            "answer": "vma",
-            "normalized": "vma"
+            "id": "fc41ed65-6988-45b0-9310-3c1dc2b2357d",
+            "clue": "Alphabet openers",
+            "answer": "abc",
+            "normalized": "abc"
           },
           {
-            "id": "793256ed-b362-4764-9167-68874154633d",
-            "clue": "Major Korean airline, with red arrowhead logo",
-            "answer": "asiana",
-            "normalized": "asiana"
+            "id": "ea26580b-15eb-4129-b6a4-383b97630767",
+            "clue": "India's Railway Protection Force, in short",
+            "answer": "rpf",
+            "normalized": "rpf"
           },
           {
-            "id": "f98972c1-b5c1-4de1-8f40-1a043611a237",
-            "clue": "Borneo, Taiwan and Cyprus are these",
-            "answer": "islands",
-            "normalized": "islands"
+            "id": "f866dbaf-bfb4-4cac-9ad2-8add3986382a",
+            "clue": "Comes after Zip-a-Dee-Doo, in the song",
+            "answer": "dah",
+            "normalized": "dah"
           },
           {
-            "id": "c1591835-5d33-4e9a-b9d0-3d6d8027736b",
-            "clue": "3-letter term for a week's 4th business day",
-            "answer": "thu",
-            "normalized": "thu"
+            "id": "4dc7b46e-3bbe-480b-a16e-af6cafaed55d",
+            "clue": "Elusive Japanese leopard cat",
+            "answer": "iriomote",
+            "normalized": "iriomote"
           },
           {
-            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
-            "clue": "Possessive determiner, no apostrophe",
-            "answer": "its",
-            "normalized": "its"
+            "id": "999260b1-a0bd-4c0e-84e2-a9395ec7dee7",
+            "clue": "Skilled person who joins metal objects together",
+            "answer": "solderer",
+            "normalized": "solderer"
           },
           {
-            "id": "201b1192-8c7d-4d4f-a8c3-09ece133f139",
-            "clue": "__ the Dog, 1997 Dustin Hoffman movie",
-            "answer": "wag",
-            "normalized": "wag"
+            "id": "2b29c027-7706-47bf-93b1-ea80e01855d9",
+            "clue": "Housing development for 1957 Berlin exhibition",
+            "answer": "interbau",
+            "normalized": "interbau"
           },
           {
-            "id": "f7a1c29a-b291-4d48-b49c-c26b3b0c0a42",
-            "clue": "Vietnamese rice noodle soup",
-            "answer": "pho",
-            "normalized": "pho"
+            "id": "286dbc55-a62d-4d6c-ac7c-4a6a10f8af46",
+            "clue": "\"To the __ degree\" means to the utmost",
+            "answer": "nth",
+            "normalized": "nth"
           },
           {
-            "id": "1093c684-6f40-4670-9785-0278574b8140",
-            "clue": "Belonging to angels, angel-like",
-            "answer": "angelic",
-            "normalized": "angelic"
+            "id": "47397307-6bc2-4b64-b6de-cfd86cb14dd9",
+            "clue": "Temporary teacher or long sandwich, for short",
+            "answer": "sub",
+            "normalized": "sub"
           },
           {
-            "id": "7bb4ea6b-9dfa-47cb-9d17-22b467504d55",
-            "clue": "__ Spielberg's E.T. the Extra-Terrestrial",
-            "answer": "steven",
-            "normalized": "steven"
+            "id": "eb2bcbb2-9cb5-4bf5-aec3-50b7fd0bf99e",
+            "clue": "Get Over Yourself, in short",
+            "answer": "goy",
+            "normalized": "goy"
           },
           {
-            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
-            "clue": "International Development Association, initialism",
-            "answer": "ida",
-            "normalized": "ida"
+            "id": "b56c7661-645d-4468-8a87-1fecd3c01d89",
+            "clue": "Corruption of adorable, very cute",
+            "answer": "adorbs",
+            "normalized": "adorbs"
           },
           {
-            "id": "859cedb6-c487-48eb-91af-ea4df14b55b7",
-            "clue": "By way of, by means of; literally 'road' in Latin",
-            "answer": "via",
-            "normalized": "via"
+            "id": "d6d21b21-c7c7-42ec-8e9c-456fc5269914",
+            "clue": "Petit __, French kids wear, means \"small boat\"",
+            "answer": "bateau",
+            "normalized": "bateau"
           },
           {
-            "id": "3b865d74-ade9-4e30-b933-8218c81f3f03",
-            "clue": "Subdivision of 60 or 120 men in a Roman legion",
-            "answer": "maniple",
-            "normalized": "maniple"
+            "id": "accb5f4c-fe90-457d-8097-317b7498967e",
+            "clue": "Chubby sweet winged angel",
+            "answer": "cherub",
+            "normalized": "cherub"
           },
           {
-            "id": "7b5986cc-b78c-4bd6-8028-fcff4d74bed2",
-            "clue": "Through thick __, in good times and bad",
-            "answer": "and thin",
-            "normalized": "andthin"
+            "id": "568b0138-06ff-4089-aa7b-d0a8e997041a",
+            "clue": "Moving upwards",
+            "answer": "rising",
+            "normalized": "rising"
           },
           {
-            "id": "93d959c4-9ae6-4383-ab1f-09f2310d4ee0",
-            "clue": "Foolish singer who once dated Nelly",
-            "answer": "ashanti",
-            "normalized": "ashanti"
+            "id": "7c20ac6b-82da-4689-bc12-e1bd57743275",
+            "clue": "Straight away, without delay",
+            "answer": "pronto",
+            "normalized": "pronto"
           },
           {
-            "id": "bcf3ecb2-50ad-4bc7-a7ad-71c126d00b0c",
-            "clue": "Hit a ball hard (like a garden pest)",
-            "answer": "slugged",
-            "normalized": "slugged"
+            "id": "33218062-0150-48b3-8143-c0520560ea0f",
+            "clue": "Smutty, vulgar",
+            "answer": "filthy",
+            "normalized": "filthy"
           },
           {
-            "id": "160e46f3-baf5-4b13-80f9-7b9d7d6b1863",
-            "clue": "Association, abbreviated",
-            "answer": "assoc",
-            "normalized": "assoc"
+            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
+            "clue": "Poem addressed to someone",
+            "answer": "ode",
+            "normalized": "ode"
           },
           {
-            "id": "5e879c76-f596-44d4-8252-4991aa45c618",
-            "clue": "As __, hit song on Harry Styles' 2022 album",
-            "answer": "it was",
-            "normalized": "itwas"
-          },
-          {
-            "id": "dc91009a-faab-4a3c-8431-3bb72954932e",
-            "clue": "Desperate Housewives actress Longoria",
-            "answer": "eva",
-            "normalized": "eva"
+            "id": "039c2676-fed2-4f81-94ab-a97fe23673b8",
+            "clue": "Acronym for Mars exploration rover",
+            "answer": "mer",
+            "normalized": "mer"
           }
         ],
-        "track": "PC|LenC--Y2026M8D7F1"
+        "track": "PC|LenC--Y2026M8D8F1"
       }
     },
     "latestAvailableEntry": {
@@ -434768,21 +434768,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "qEQyHLlSxBJJEQjr5F9BlgfSYbp1gujh4EsKlVAj2VKXNQn2UzEhrDYJGSlIiVJw6/Ue2RY9OpvuqTOTRMejE+Y7d1Iq61ReNBYcKVSrVUpi8nX+FxEk+4VcSfttkg0pNoqTXoTGLyPclZc6nke9sCCP6mMKhBAvTgmyqijhD9BxkZfNnSPRcH06z94RHRIsGGJbP9iL4nmbCNC5srdf7ZP4mvCp54pzRGaIjE241tj5thkOonEqfuBx0j0X4GjLnrz5Q4evnbipJfJ5uAEIA2rKn+SIVPW87yP+FwiuojI="
+        "hIAoYANwIW/pX4bQfy00R4V9GgQFIaSwGbG9GYkFwDUaBI1fDs6C8FMnyjIEMjTwIJ+XCkCuJRDKZWdEMZmyRqZaM7ZgNbwhj0WHTFc1R8zsEqEoSaP0geYeC5rkmhBlZuASTICdTC3qvuacmBHyqSlgfaNlv6QBt8s20KT9CAZyu+nWn6MWCIvgQFiRMUPtsS3pI4njpqIT2/HALFn6qVacbX7CGwogewVlfkhcosqP5WZKcy63zP/4X2zO9WPazo5VesiQDfFMFCGRuJFLAMy9ALxE5kjPlY3lKmyylmk="
       ]
     },
     "decrypted": {
-      "Id": "3ab82e17-c591-4f1b-8970-7f7b835b52d5",
-      "Date": "2026-08-07T00:00:00Z",
+      "Id": "9fc1f8fb-8bc7-4cf4-ac90-2e21ab4df3e8",
+      "Date": "2026-08-08T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "badge",
-      "NormalizedPassword": "badge",
+      "Password": "first",
+      "NormalizedPassword": "first",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-07T05:50:54.9450000+05:30",
-    "hash": "d6c5efdbac2d6596af93b57fac9b3718",
+    "dtu": "2026-08-08T00:56:03.4200000+05:30",
+    "hash": "e51644171f311a0880d9be9ee8978e5e",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
