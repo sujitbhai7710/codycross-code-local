@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T20:02:00.404Z",
+  "generatedAt": "2026-08-07T00:20:54.945Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 6
+    "day": 7
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 8
+        "QuantidadeDeFases": 12
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434118,439 +434118,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-06",
+      "key": "2026-08-07",
       "year": 2026,
       "month": 8,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "ceac6a69-ed02-4b0b-a621-51a3cb8e6b0b",
+        "puzzleId": "d2c14731-91de-41d1-8686-9a9e214f94e7",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "1d93d778-a766-43b4-b117-c628d8bdfda2",
-            "clue": "Detailed description of a product's feature",
-            "answer": "spec",
-            "normalized": "spec"
+            "id": "a61ba1f7-73f0-4011-b296-4ad366aa654f",
+            "clue": "Comment meant as a joke",
+            "answer": "jest",
+            "normalized": "jest"
           },
           {
-            "id": "991f5a3c-93c1-4910-ae4b-b440f9609ea0",
-            "clue": "Common name for member of the Navy",
-            "answer": "sailor",
-            "normalized": "sailor"
+            "id": "28d91e3e-6877-4459-baf8-d66e0be6de85",
+            "clue": "Meal eaten at midday",
+            "answer": "lunch",
+            "normalized": "lunch"
           },
           {
-            "id": "78d09a12-d0bb-4b69-8675-69814499ba71",
-            "clue": "Connected to the Internet",
-            "answer": "online",
-            "normalized": "online"
+            "id": "20596ec6-40c9-47d8-907a-78a693d8a9d9",
+            "clue": "Bid someone this French word before leaving",
+            "answer": "adieu",
+            "normalized": "adieu"
           },
           {
-            "id": "1b28f73e-0019-434c-b870-98a45cb7ab9b",
-            "clue": "Dar es __, hub of Tanzania on the Indian Ocean",
-            "answer": "salaam",
-            "normalized": "salaam"
+            "id": "ce1c85a3-8063-40f3-bdda-0a10ceadf511",
+            "clue": "Signifies or represents",
+            "answer": "means",
+            "normalized": "means"
           },
           {
-            "id": "4aef22d4-2992-4f49-91f8-6889357af1b0",
-            "clue": "Short for association",
-            "answer": "assn",
-            "normalized": "assn"
+            "id": "e58dcece-047e-49d2-9ff0-65a37cec59d6",
+            "clue": "Marathon runners must keep this sustainable",
+            "answer": "pace",
+            "normalized": "pace"
           },
           {
-            "id": "67a42242-372f-4687-94c6-bf58cdea8686",
-            "clue": "Yemen's capital city",
-            "answer": "sanaa",
-            "normalized": "sanaa"
+            "id": "bfc791ae-b10c-46c1-a399-c1f5c8fb0298",
+            "clue": "Ancient region ruled by the Herods in the bible",
+            "answer": "judea",
+            "normalized": "judea"
           },
           {
-            "id": "801285aa-c476-43ea-a128-f584fd02206e",
-            "clue": "Small medical tablets",
-            "answer": "pills",
-            "normalized": "pills"
+            "id": "1e788179-55fb-4eb7-97fe-9c0bd479ca18",
+            "clue": "World's first general purpose electronic computer",
+            "answer": "eniac",
+            "normalized": "eniac"
           },
           {
-            "id": "1c00b899-6718-441c-9262-ab373351c874",
-            "clue": "Greek equivalent of Elijah",
-            "answer": "elias",
-            "normalized": "elias"
+            "id": "a59acdbe-5f45-416a-9e6d-956822979c7a",
+            "clue": "Setting for a play",
+            "answer": "scene",
+            "normalized": "scene"
           },
           {
-            "id": "baeea955-0891-456e-bcf9-746a11589282",
-            "clue": "O'Brien whose show is Without Borders",
-            "answer": "conan",
-            "normalized": "conan"
+            "id": "97455ae5-42da-4d6c-82d9-ee2d7f3dcbd5",
+            "clue": "Therefore, because",
+            "answer": "thus",
+            "normalized": "thus"
           },
           {
-            "id": "54733d54-5dc6-4481-82d1-3c4d1d5342fd",
-            "clue": "Three letters to indicate distress",
-            "answer": "sos",
-            "normalized": "sos"
-          },
-          {
-            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
-            "clue": "Shiny Happy People band",
-            "answer": "rem",
-            "normalized": "rem"
+            "id": "ceca01b1-cc5f-4c3b-b677-ff524fee12c0",
+            "clue": "Florence Nightingale was the lady with this",
+            "answer": "lamp",
+            "normalized": "lamp"
           }
         ],
-        "track": "PC|LenC--Y2026M8D6F0"
+        "track": "PC|LenC--Y2026M8D7F0"
       },
       "mid": {
-        "puzzleId": "602ed907-d359-442f-a802-14596fca1cff",
+        "puzzleId": "7d9dc3a7-1bf5-4c20-bf99-b828e0d6d935",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 1,
         "answers": [
           {
-            "id": "f38c9872-07ef-4c95-8945-9ba82aae4a71",
-            "clue": "Smartphone programs for texts, playing games etc.",
-            "answer": "apps",
-            "normalized": "apps"
+            "id": "f458826f-558e-4782-b8f7-4471d160ec35",
+            "clue": "Music video award presented by MTV",
+            "answer": "vma",
+            "normalized": "vma"
           },
           {
-            "id": "778bef57-89a3-4695-9383-c668169ce87e",
-            "clue": "Abbreviation for \"spinal cord injury\"",
-            "answer": "sci",
-            "normalized": "sci"
+            "id": "793256ed-b362-4764-9167-68874154633d",
+            "clue": "Major Korean airline, with red arrowhead logo",
+            "answer": "asiana",
+            "normalized": "asiana"
           },
           {
-            "id": "6086b49e-d4a9-4dbe-9a34-aa4326f33b83",
-            "clue": "Palindromic Asian flatbread",
-            "answer": "naan",
-            "normalized": "naan"
+            "id": "f98972c1-b5c1-4de1-8f40-1a043611a237",
+            "clue": "Borneo, Taiwan and Cyprus are these",
+            "answer": "islands",
+            "normalized": "islands"
           },
           {
-            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
-            "clue": "Acronym for a chief legal officer",
-            "answer": "clo",
-            "normalized": "clo"
+            "id": "c1591835-5d33-4e9a-b9d0-3d6d8027736b",
+            "clue": "3-letter term for a week's 4th business day",
+            "answer": "thu",
+            "normalized": "thu"
           },
           {
-            "id": "db194b07-fe30-4b40-ae0b-2c789918ae92",
-            "clue": "Expression, indirect reference in writing",
-            "answer": "allusion",
-            "normalized": "allusion"
+            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
+            "clue": "Possessive determiner, no apostrophe",
+            "answer": "its",
+            "normalized": "its"
           },
           {
-            "id": "d8fd39aa-3239-46e1-8344-fcbda3b169fc",
-            "clue": "Scratches metal to make art",
-            "answer": "etches",
-            "normalized": "etches"
+            "id": "201b1192-8c7d-4d4f-a8c3-09ece133f139",
+            "clue": "__ the Dog, 1997 Dustin Hoffman movie",
+            "answer": "wag",
+            "normalized": "wag"
           },
           {
-            "id": "c4630329-c442-461e-85bd-391d49285867",
-            "clue": "Made something less bright",
-            "answer": "darkened",
-            "normalized": "darkened"
+            "id": "f7a1c29a-b291-4d48-b49c-c26b3b0c0a42",
+            "clue": "Vietnamese rice noodle soup",
+            "answer": "pho",
+            "normalized": "pho"
           },
           {
-            "id": "abfdf7e7-8e9e-4963-a86a-59bdb3506ff8",
-            "clue": "Three-letter nickname of Jennifer Lopez",
-            "answer": "j lo",
-            "normalized": "jlo"
+            "id": "1093c684-6f40-4670-9785-0278574b8140",
+            "clue": "Belonging to angels, angel-like",
+            "answer": "angelic",
+            "normalized": "angelic"
           },
           {
-            "id": "c9d71c0e-f0fa-4dc0-aa94-a54486ed801a",
-            "clue": "Rock genre with psychedelic references",
-            "answer": "acid",
-            "normalized": "acid"
+            "id": "7bb4ea6b-9dfa-47cb-9d17-22b467504d55",
+            "clue": "__ Spielberg's E.T. the Extra-Terrestrial",
+            "answer": "steven",
+            "normalized": "steven"
           },
           {
-            "id": "ca68d27f-5326-4ccf-8417-bd9b3e33fede",
-            "clue": "Use a needle and thread",
-            "answer": "sew",
-            "normalized": "sew"
+            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
+            "clue": "International Development Association, initialism",
+            "answer": "ida",
+            "normalized": "ida"
           },
           {
-            "id": "e31cd8f3-eba7-4a55-918b-857e7dd6e1bd",
-            "clue": "Low marshlands",
-            "answer": "fens",
-            "normalized": "fens"
+            "id": "859cedb6-c487-48eb-91af-ea4df14b55b7",
+            "clue": "By way of, by means of; literally 'road' in Latin",
+            "answer": "via",
+            "normalized": "via"
           },
           {
-            "id": "d9fc7fd9-258d-4086-ba62-79c7c2d75481",
-            "clue": "Californian city and river that starts with Santa",
-            "answer": "ana",
-            "normalized": "ana"
+            "id": "3b865d74-ade9-4e30-b933-8218c81f3f03",
+            "clue": "Subdivision of 60 or 120 men in a Roman legion",
+            "answer": "maniple",
+            "normalized": "maniple"
           },
           {
-            "id": "ecafaadc-c3fc-4ad4-880f-b5ca0e9d269e",
-            "clue": "Lightly-tinted beer; the PA in IPA",
-            "answer": "pale ale",
-            "normalized": "paleale"
+            "id": "7b5986cc-b78c-4bd6-8028-fcff4d74bed2",
+            "clue": "Through thick __, in good times and bad",
+            "answer": "and thin",
+            "normalized": "andthin"
           },
           {
-            "id": "a1a952d4-b70c-45d6-a6c9-15fe50cd27dc",
-            "clue": "Gwyneth of Goop",
-            "answer": "paltrow",
-            "normalized": "paltrow"
+            "id": "93d959c4-9ae6-4383-ab1f-09f2310d4ee0",
+            "clue": "Foolish singer who once dated Nelly",
+            "answer": "ashanti",
+            "normalized": "ashanti"
           },
           {
-            "id": "e90fdd34-63c0-4199-a625-8c3bb9336b74",
-            "clue": "Crept into a place unnoticed",
-            "answer": "snuck",
-            "normalized": "snuck"
+            "id": "bcf3ecb2-50ad-4bc7-a7ad-71c126d00b0c",
+            "clue": "Hit a ball hard (like a garden pest)",
+            "answer": "slugged",
+            "normalized": "slugged"
           },
           {
-            "id": "0f50e4f9-70cf-49d9-bc1f-0ce79312f4b4",
-            "clue": "Natural, formal and social are three types of this",
-            "answer": "science",
-            "normalized": "science"
+            "id": "160e46f3-baf5-4b13-80f9-7b9d7d6b1863",
+            "clue": "Association, abbreviated",
+            "answer": "assoc",
+            "normalized": "assoc"
           },
           {
-            "id": "ee654dad-bbb4-405c-9033-e5e37edf3b67",
-            "clue": "Get nearer to and surround, converge on",
-            "answer": "close in",
-            "normalized": "closein"
+            "id": "5e879c76-f596-44d4-8252-4991aa45c618",
+            "clue": "As __, hit song on Harry Styles' 2022 album",
+            "answer": "it was",
+            "normalized": "itwas"
           },
           {
-            "id": "689dd22c-3a1b-4db7-811e-9baf4bb27284",
-            "clue": "Atom with unequal number of protons and electrons",
-            "answer": "ion",
-            "normalized": "ion"
-          },
-          {
-            "id": "29ef322a-a2ed-4335-ab48-45bedadc5b92",
-            "clue": "A bundle of grain still on stalks",
-            "answer": "sheaf",
-            "normalized": "sheaf"
-          },
-          {
-            "id": "c016b54b-9129-4949-b33c-38c6ba9e6685",
-            "clue": "They play and mix records in clubs",
-            "answer": "djs",
-            "normalized": "djs"
-          },
-          {
-            "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-            "clue": "Dental Surgeon's degree, abbr.",
-            "answer": "dds",
-            "normalized": "dds"
+            "id": "dc91009a-faab-4a3c-8431-3bb72954932e",
+            "clue": "Desperate Housewives actress Longoria",
+            "answer": "eva",
+            "normalized": "eva"
           }
         ],
-        "track": "PC|LenC--Y2026M8D6F1"
+        "track": "PC|LenC--Y2026M8D7F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-06",
+      "key": "2026-08-07",
       "year": 2026,
       "month": 8,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "ceac6a69-ed02-4b0b-a621-51a3cb8e6b0b",
+        "puzzleId": "d2c14731-91de-41d1-8686-9a9e214f94e7",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "1d93d778-a766-43b4-b117-c628d8bdfda2",
-            "clue": "Detailed description of a product's feature",
-            "answer": "spec",
-            "normalized": "spec"
+            "id": "a61ba1f7-73f0-4011-b296-4ad366aa654f",
+            "clue": "Comment meant as a joke",
+            "answer": "jest",
+            "normalized": "jest"
           },
           {
-            "id": "991f5a3c-93c1-4910-ae4b-b440f9609ea0",
-            "clue": "Common name for member of the Navy",
-            "answer": "sailor",
-            "normalized": "sailor"
+            "id": "28d91e3e-6877-4459-baf8-d66e0be6de85",
+            "clue": "Meal eaten at midday",
+            "answer": "lunch",
+            "normalized": "lunch"
           },
           {
-            "id": "78d09a12-d0bb-4b69-8675-69814499ba71",
-            "clue": "Connected to the Internet",
-            "answer": "online",
-            "normalized": "online"
+            "id": "20596ec6-40c9-47d8-907a-78a693d8a9d9",
+            "clue": "Bid someone this French word before leaving",
+            "answer": "adieu",
+            "normalized": "adieu"
           },
           {
-            "id": "1b28f73e-0019-434c-b870-98a45cb7ab9b",
-            "clue": "Dar es __, hub of Tanzania on the Indian Ocean",
-            "answer": "salaam",
-            "normalized": "salaam"
+            "id": "ce1c85a3-8063-40f3-bdda-0a10ceadf511",
+            "clue": "Signifies or represents",
+            "answer": "means",
+            "normalized": "means"
           },
           {
-            "id": "4aef22d4-2992-4f49-91f8-6889357af1b0",
-            "clue": "Short for association",
-            "answer": "assn",
-            "normalized": "assn"
+            "id": "e58dcece-047e-49d2-9ff0-65a37cec59d6",
+            "clue": "Marathon runners must keep this sustainable",
+            "answer": "pace",
+            "normalized": "pace"
           },
           {
-            "id": "67a42242-372f-4687-94c6-bf58cdea8686",
-            "clue": "Yemen's capital city",
-            "answer": "sanaa",
-            "normalized": "sanaa"
+            "id": "bfc791ae-b10c-46c1-a399-c1f5c8fb0298",
+            "clue": "Ancient region ruled by the Herods in the bible",
+            "answer": "judea",
+            "normalized": "judea"
           },
           {
-            "id": "801285aa-c476-43ea-a128-f584fd02206e",
-            "clue": "Small medical tablets",
-            "answer": "pills",
-            "normalized": "pills"
+            "id": "1e788179-55fb-4eb7-97fe-9c0bd479ca18",
+            "clue": "World's first general purpose electronic computer",
+            "answer": "eniac",
+            "normalized": "eniac"
           },
           {
-            "id": "1c00b899-6718-441c-9262-ab373351c874",
-            "clue": "Greek equivalent of Elijah",
-            "answer": "elias",
-            "normalized": "elias"
+            "id": "a59acdbe-5f45-416a-9e6d-956822979c7a",
+            "clue": "Setting for a play",
+            "answer": "scene",
+            "normalized": "scene"
           },
           {
-            "id": "baeea955-0891-456e-bcf9-746a11589282",
-            "clue": "O'Brien whose show is Without Borders",
-            "answer": "conan",
-            "normalized": "conan"
+            "id": "97455ae5-42da-4d6c-82d9-ee2d7f3dcbd5",
+            "clue": "Therefore, because",
+            "answer": "thus",
+            "normalized": "thus"
           },
           {
-            "id": "54733d54-5dc6-4481-82d1-3c4d1d5342fd",
-            "clue": "Three letters to indicate distress",
-            "answer": "sos",
-            "normalized": "sos"
-          },
-          {
-            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
-            "clue": "Shiny Happy People band",
-            "answer": "rem",
-            "normalized": "rem"
+            "id": "ceca01b1-cc5f-4c3b-b677-ff524fee12c0",
+            "clue": "Florence Nightingale was the lady with this",
+            "answer": "lamp",
+            "normalized": "lamp"
           }
         ],
-        "track": "PC|LenC--Y2026M8D6F0"
+        "track": "PC|LenC--Y2026M8D7F0"
       },
       "mid": {
-        "puzzleId": "602ed907-d359-442f-a802-14596fca1cff",
+        "puzzleId": "7d9dc3a7-1bf5-4c20-bf99-b828e0d6d935",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 1,
         "answers": [
           {
-            "id": "f38c9872-07ef-4c95-8945-9ba82aae4a71",
-            "clue": "Smartphone programs for texts, playing games etc.",
-            "answer": "apps",
-            "normalized": "apps"
+            "id": "f458826f-558e-4782-b8f7-4471d160ec35",
+            "clue": "Music video award presented by MTV",
+            "answer": "vma",
+            "normalized": "vma"
           },
           {
-            "id": "778bef57-89a3-4695-9383-c668169ce87e",
-            "clue": "Abbreviation for \"spinal cord injury\"",
-            "answer": "sci",
-            "normalized": "sci"
+            "id": "793256ed-b362-4764-9167-68874154633d",
+            "clue": "Major Korean airline, with red arrowhead logo",
+            "answer": "asiana",
+            "normalized": "asiana"
           },
           {
-            "id": "6086b49e-d4a9-4dbe-9a34-aa4326f33b83",
-            "clue": "Palindromic Asian flatbread",
-            "answer": "naan",
-            "normalized": "naan"
+            "id": "f98972c1-b5c1-4de1-8f40-1a043611a237",
+            "clue": "Borneo, Taiwan and Cyprus are these",
+            "answer": "islands",
+            "normalized": "islands"
           },
           {
-            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
-            "clue": "Acronym for a chief legal officer",
-            "answer": "clo",
-            "normalized": "clo"
+            "id": "c1591835-5d33-4e9a-b9d0-3d6d8027736b",
+            "clue": "3-letter term for a week's 4th business day",
+            "answer": "thu",
+            "normalized": "thu"
           },
           {
-            "id": "db194b07-fe30-4b40-ae0b-2c789918ae92",
-            "clue": "Expression, indirect reference in writing",
-            "answer": "allusion",
-            "normalized": "allusion"
+            "id": "4f6bb979-6220-45cb-9b4a-7792f18713ac",
+            "clue": "Possessive determiner, no apostrophe",
+            "answer": "its",
+            "normalized": "its"
           },
           {
-            "id": "d8fd39aa-3239-46e1-8344-fcbda3b169fc",
-            "clue": "Scratches metal to make art",
-            "answer": "etches",
-            "normalized": "etches"
+            "id": "201b1192-8c7d-4d4f-a8c3-09ece133f139",
+            "clue": "__ the Dog, 1997 Dustin Hoffman movie",
+            "answer": "wag",
+            "normalized": "wag"
           },
           {
-            "id": "c4630329-c442-461e-85bd-391d49285867",
-            "clue": "Made something less bright",
-            "answer": "darkened",
-            "normalized": "darkened"
+            "id": "f7a1c29a-b291-4d48-b49c-c26b3b0c0a42",
+            "clue": "Vietnamese rice noodle soup",
+            "answer": "pho",
+            "normalized": "pho"
           },
           {
-            "id": "abfdf7e7-8e9e-4963-a86a-59bdb3506ff8",
-            "clue": "Three-letter nickname of Jennifer Lopez",
-            "answer": "j lo",
-            "normalized": "jlo"
+            "id": "1093c684-6f40-4670-9785-0278574b8140",
+            "clue": "Belonging to angels, angel-like",
+            "answer": "angelic",
+            "normalized": "angelic"
           },
           {
-            "id": "c9d71c0e-f0fa-4dc0-aa94-a54486ed801a",
-            "clue": "Rock genre with psychedelic references",
-            "answer": "acid",
-            "normalized": "acid"
+            "id": "7bb4ea6b-9dfa-47cb-9d17-22b467504d55",
+            "clue": "__ Spielberg's E.T. the Extra-Terrestrial",
+            "answer": "steven",
+            "normalized": "steven"
           },
           {
-            "id": "ca68d27f-5326-4ccf-8417-bd9b3e33fede",
-            "clue": "Use a needle and thread",
-            "answer": "sew",
-            "normalized": "sew"
+            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
+            "clue": "International Development Association, initialism",
+            "answer": "ida",
+            "normalized": "ida"
           },
           {
-            "id": "e31cd8f3-eba7-4a55-918b-857e7dd6e1bd",
-            "clue": "Low marshlands",
-            "answer": "fens",
-            "normalized": "fens"
+            "id": "859cedb6-c487-48eb-91af-ea4df14b55b7",
+            "clue": "By way of, by means of; literally 'road' in Latin",
+            "answer": "via",
+            "normalized": "via"
           },
           {
-            "id": "d9fc7fd9-258d-4086-ba62-79c7c2d75481",
-            "clue": "Californian city and river that starts with Santa",
-            "answer": "ana",
-            "normalized": "ana"
+            "id": "3b865d74-ade9-4e30-b933-8218c81f3f03",
+            "clue": "Subdivision of 60 or 120 men in a Roman legion",
+            "answer": "maniple",
+            "normalized": "maniple"
           },
           {
-            "id": "ecafaadc-c3fc-4ad4-880f-b5ca0e9d269e",
-            "clue": "Lightly-tinted beer; the PA in IPA",
-            "answer": "pale ale",
-            "normalized": "paleale"
+            "id": "7b5986cc-b78c-4bd6-8028-fcff4d74bed2",
+            "clue": "Through thick __, in good times and bad",
+            "answer": "and thin",
+            "normalized": "andthin"
           },
           {
-            "id": "a1a952d4-b70c-45d6-a6c9-15fe50cd27dc",
-            "clue": "Gwyneth of Goop",
-            "answer": "paltrow",
-            "normalized": "paltrow"
+            "id": "93d959c4-9ae6-4383-ab1f-09f2310d4ee0",
+            "clue": "Foolish singer who once dated Nelly",
+            "answer": "ashanti",
+            "normalized": "ashanti"
           },
           {
-            "id": "e90fdd34-63c0-4199-a625-8c3bb9336b74",
-            "clue": "Crept into a place unnoticed",
-            "answer": "snuck",
-            "normalized": "snuck"
+            "id": "bcf3ecb2-50ad-4bc7-a7ad-71c126d00b0c",
+            "clue": "Hit a ball hard (like a garden pest)",
+            "answer": "slugged",
+            "normalized": "slugged"
           },
           {
-            "id": "0f50e4f9-70cf-49d9-bc1f-0ce79312f4b4",
-            "clue": "Natural, formal and social are three types of this",
-            "answer": "science",
-            "normalized": "science"
+            "id": "160e46f3-baf5-4b13-80f9-7b9d7d6b1863",
+            "clue": "Association, abbreviated",
+            "answer": "assoc",
+            "normalized": "assoc"
           },
           {
-            "id": "ee654dad-bbb4-405c-9033-e5e37edf3b67",
-            "clue": "Get nearer to and surround, converge on",
-            "answer": "close in",
-            "normalized": "closein"
+            "id": "5e879c76-f596-44d4-8252-4991aa45c618",
+            "clue": "As __, hit song on Harry Styles' 2022 album",
+            "answer": "it was",
+            "normalized": "itwas"
           },
           {
-            "id": "689dd22c-3a1b-4db7-811e-9baf4bb27284",
-            "clue": "Atom with unequal number of protons and electrons",
-            "answer": "ion",
-            "normalized": "ion"
-          },
-          {
-            "id": "29ef322a-a2ed-4335-ab48-45bedadc5b92",
-            "clue": "A bundle of grain still on stalks",
-            "answer": "sheaf",
-            "normalized": "sheaf"
-          },
-          {
-            "id": "c016b54b-9129-4949-b33c-38c6ba9e6685",
-            "clue": "They play and mix records in clubs",
-            "answer": "djs",
-            "normalized": "djs"
-          },
-          {
-            "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-            "clue": "Dental Surgeon's degree, abbr.",
-            "answer": "dds",
-            "normalized": "dds"
+            "id": "dc91009a-faab-4a3c-8431-3bb72954932e",
+            "clue": "Desperate Housewives actress Longoria",
+            "answer": "eva",
+            "normalized": "eva"
           }
         ],
-        "track": "PC|LenC--Y2026M8D6F1"
+        "track": "PC|LenC--Y2026M8D7F1"
       }
     },
     "latestAvailableEntry": {
@@ -434816,21 +434768,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "zIerp1gZmBoEcziZ9uEknmNFIsdXP3jnHcIBvAHkusWfJcQE2DbjwtIKookTjLBeaIb6iKfpyDew/SnAn9VMwkFnxebeVSHW5s/j8cwdhKDdImPpJJURe2+iq5gCaZKv99bQ+pU3bG5/WWGQZqUoSb0vBiJGMXZOy3r+QF3uj526GgJdfBUTIWNMroGeSQLwPsP5O9BIVd7SNQ2QuJLHqWaPQfP21bqPjdrk6685BuMM7sVMlKtmILK3ytRMrASLTFvTtyEK7rl38m6M2ifSVwL0Htm9yLu7vKJjM352M34="
+        "qEQyHLlSxBJJEQjr5F9BlgfSYbp1gujh4EsKlVAj2VKXNQn2UzEhrDYJGSlIiVJw6/Ue2RY9OpvuqTOTRMejE+Y7d1Iq61ReNBYcKVSrVUpi8nX+FxEk+4VcSfttkg0pNoqTXoTGLyPclZc6nke9sCCP6mMKhBAvTgmyqijhD9BxkZfNnSPRcH06z94RHRIsGGJbP9iL4nmbCNC5srdf7ZP4mvCp54pzRGaIjE241tj5thkOonEqfuBx0j0X4GjLnrz5Q4evnbipJfJ5uAEIA2rKn+SIVPW87yP+FwiuojI="
       ]
     },
     "decrypted": {
-      "Id": "f618272b-70ff-4150-bc62-5e857911b4f0",
-      "Date": "2026-08-06T00:00:00Z",
+      "Id": "3ab82e17-c591-4f1b-8970-7f7b835b52d5",
+      "Date": "2026-08-07T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "draft",
-      "NormalizedPassword": "draft",
+      "Password": "badge",
+      "NormalizedPassword": "badge",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-06T01:32:00.4040000+05:30",
-    "hash": "a1b97697e98d0b3b42f39d99e3ba2413",
+    "dtu": "2026-08-07T05:50:54.9450000+05:30",
+    "hash": "d6c5efdbac2d6596af93b57fac9b3718",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
