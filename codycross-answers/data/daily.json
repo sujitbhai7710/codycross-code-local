@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T19:06:06.572Z",
+  "generatedAt": "2026-08-09T19:09:33.269Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 9
+    "day": 10
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 14
+        "QuantidadeDeFases": 16
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434118,391 +434118,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-09",
+      "key": "2026-08-10",
       "year": 2026,
       "month": 8,
-      "day": 9,
+      "day": 10,
       "small": {
-        "puzzleId": "8782a0f6-4d27-49cb-ae39-23c6459b2072",
+        "puzzleId": "a2f9f8d3-603c-479c-aaa4-10cf15e6171f",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "a6e7acce-4929-4525-a110-c1ccdbe6f220",
-            "clue": "Morrison who sang Brown Eyed Girl",
-            "answer": "van",
-            "normalized": "van"
+            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
+            "clue": "Goes before \"ching\" for a cash register noise",
+            "answer": "cha",
+            "normalized": "cha"
           },
           {
-            "id": "733f7ee5-c8e9-4b27-9aeb-b1be47f0f413",
-            "clue": "Gourd, e.g. honeydew, canary or cantaloupe",
-            "answer": "melon",
-            "normalized": "melon"
+            "id": "e8de0837-7ab6-4b44-bd37-e3a797e7ce77",
+            "clue": "Four of Jupiter's are Galilean",
+            "answer": "moons",
+            "normalized": "moons"
           },
           {
-            "id": "8e2a9904-a956-433c-bff4-b616c3d0f97f",
-            "clue": "Spanish Costa that ends at the French border",
-            "answer": "brava",
-            "normalized": "brava"
+            "id": "055423ff-852e-4deb-a572-774296a69931",
+            "clue": "Argentinian grilled meat",
+            "answer": "asado",
+            "normalized": "asado"
           },
           {
-            "id": "8afaae60-acc7-4594-9e03-66ec8c55bd59",
-            "clue": "Compound made when acid and alcohols combine",
-            "answer": "ester",
-            "normalized": "ester"
+            "id": "7099954a-3da2-456b-ad96-0ffd18ea9e82",
+            "clue": "Ends, cancels",
+            "answer": "nixes",
+            "normalized": "nixes"
           },
           {
-            "id": "b68012be-96de-42f3-bf66-54eadcc80477",
-            "clue": "Electric and conger fishes",
-            "answer": "eels",
-            "normalized": "eels"
+            "id": "33a9fbd7-3ef0-4905-aaa2-b40783bd438a",
+            "clue": "Spanish January",
+            "answer": "enero",
+            "normalized": "enero"
           },
           {
-            "id": "5f491af5-964d-477b-9452-0718c9c9cf96",
-            "clue": "Section of a poem",
-            "answer": "verse",
-            "normalized": "verse"
+            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
+            "clue": "S, written phonetically as a full word",
+            "answer": "ess",
+            "normalized": "ess"
           },
           {
-            "id": "55b8edde-af36-4e23-964a-bada4c45f9aa",
-            "clue": "Adjective for having wings",
-            "answer": "alate",
-            "normalized": "alate"
+            "id": "cf6b47a1-7231-47c4-9046-b2ef8271f39b",
+            "clue": "Ratio of adjacent side to the hypotenuse",
+            "answer": "cosine",
+            "normalized": "cosine"
           },
           {
-            "id": "2a6957e8-6fa4-44b9-b0c5-822708e8586b",
-            "clue": "A type of book; something unusual",
-            "answer": "novel",
-            "normalized": "novel"
+            "id": "4dd548ee-652b-440b-b0c5-e2facb331157",
+            "clue": "Tricks or deceives someone",
+            "answer": "hoaxes",
+            "normalized": "hoaxes"
           },
           {
-            "id": "c9b6f3d3-7ac4-4a1c-8312-b2e4da3a8396",
-            "clue": "Lowest award of the Order of the British Empire",
-            "answer": "mbe",
-            "normalized": "mbe"
+            "id": "2cb59c6b-9bb8-4461-b52d-455075fa49d7",
+            "clue": "Scandinavian form of the name Andrew",
+            "answer": "anders",
+            "normalized": "anders"
           },
           {
-            "id": "50208d2f-539e-4334-813b-119cf25818ba",
-            "clue": "Cosmetics company known for Sheer Glow foundation",
-            "answer": "nars",
-            "normalized": "nars"
+            "id": "db81a048-401f-4d86-8f59-bc9783b1ef93",
+            "clue": "Lion's wild hairstyle",
+            "answer": "mane",
+            "normalized": "mane"
+          },
+          {
+            "id": "c850989b-99e7-4dcc-9915-e4c54a4a8d9e",
+            "clue": "Just about acceptable",
+            "answer": "so so",
+            "normalized": "soso"
           }
         ],
-        "track": "PC|LenC--Y2026M8D9F0"
+        "track": "PC|LenC--Y2026M8D10F0"
       },
       "mid": {
-        "puzzleId": "eb9b4ed3-e7bc-4fc1-8c33-29693a328292",
+        "puzzleId": "b183bcd4-ca0c-44d6-8202-9075b9522cb1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 1,
         "answers": [
           {
-            "id": "ec95bde0-9795-4612-a430-9061a4187d4d",
-            "clue": "TV drama show like All My Children, __ opera",
-            "answer": "soap",
-            "normalized": "soap"
+            "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
+            "clue": "Craven, horror movie director of Scream",
+            "answer": "wes",
+            "normalized": "wes"
           },
           {
-            "id": "be6e769c-e281-4e52-8886-7d9ff812f24f",
-            "clue": "Flexible and graceful, like a ballet dancer",
-            "answer": "supple",
-            "normalized": "supple"
+            "id": "d27e635e-f55a-415d-904f-265994e78f70",
+            "clue": "The highest card in most games",
+            "answer": "ace",
+            "normalized": "ace"
           },
           {
-            "id": "34f6c5fd-9086-4ff1-8046-ae00807fb6c6",
-            "clue": "Bruce Lee was a master of these types of arts",
-            "answer": "martial",
-            "normalized": "martial"
+            "id": "e1b3bb1c-420b-4383-bcc7-94d8261ee1dc",
+            "clue": "South American country between Colombia and Peru",
+            "answer": "ecuador",
+            "normalized": "ecuador"
           },
           {
-            "id": "0837d41f-babd-4f33-b61e-7f818604a777",
-            "clue": "Yellowfin tuna",
-            "answer": "ahi",
-            "normalized": "ahi"
+            "id": "da26f4a3-1eff-4463-9f57-00e98fac77ed",
+            "clue": "Simon __, liberator of Latin America",
+            "answer": "bolivar",
+            "normalized": "bolivar"
           },
           {
-            "id": "4fffe2ae-4c40-4d7d-b742-075889c5fd54",
-            "clue": "Yes, to a pirate",
-            "answer": "aye",
-            "normalized": "aye"
+            "id": "faba1cfd-980e-421e-a746-7148e2004b00",
+            "clue": "Casts on and binds off",
+            "answer": "knits",
+            "normalized": "knits"
           },
           {
-            "id": "10733673-e422-454a-a4f3-294a81edc160",
-            "clue": "Scruffy nerf-herder, __ Solo",
-            "answer": "han",
-            "normalized": "han"
+            "id": "ef6b7268-3e36-48f8-a09f-8d4065d5793b",
+            "clue": "Leaves out, excludes",
+            "answer": "omits",
+            "normalized": "omits"
           },
           {
-            "id": "d4751041-766c-457d-94ab-98dcdf0a4024",
-            "clue": "Jogged quickly",
-            "answer": "ran",
-            "normalized": "ran"
+            "id": "6810c389-c19c-4d17-a13e-0bf947ff257d",
+            "clue": "Of or relating to hyenas",
+            "answer": "hyenine",
+            "normalized": "hyenine"
           },
           {
-            "id": "12bc7c9b-837d-4db8-bc3e-cea9949ce0fb",
-            "clue": "A variety of coffee bean",
-            "answer": "arabica",
-            "normalized": "arabica"
+            "id": "dbc7853a-a532-4d7f-aa79-f6df929d08ad",
+            "clue": "Lodge of stoneworkers",
+            "answer": "masonic",
+            "normalized": "masonic"
           },
           {
-            "id": "1006aa78-806d-42c2-906f-8cc2f432c243",
-            "clue": "The weakest, most feeble (e.g. excuse)",
-            "answer": "lamest",
-            "normalized": "lamest"
+            "id": "8300e657-e252-41e4-a13a-cdcb8b682996",
+            "clue": "Take a seat",
+            "answer": "sit",
+            "normalized": "sit"
           },
           {
-            "id": "6d7a994f-2b60-4eae-ba3c-b49099d79405",
-            "clue": "Tidy, orderly",
-            "answer": "neat",
-            "normalized": "neat"
+            "id": "18f14a84-5837-495d-98ed-9a3a38e22567",
+            "clue": "Computer graphics processing unit",
+            "answer": "gpu",
+            "normalized": "gpu"
           },
           {
-            "id": "45469651-9949-43be-9517-ea7b06500d4c",
-            "clue": "Country whose capital is Paramaribo",
-            "answer": "suriname",
-            "normalized": "suriname"
+            "id": "fa6b7026-e13d-4c1c-ae6d-2d582afb3f8b",
+            "clue": "Spider's catcher",
+            "answer": "web",
+            "normalized": "web"
           },
           {
-            "id": "c27baba1-9a4b-4d65-ad0d-77bc9be03a41",
-            "clue": "Choose, go for a certain choice",
-            "answer": "opt",
-            "normalized": "opt"
+            "id": "e31462ff-f61a-4946-9314-2ef3600abb68",
+            "clue": "Friendly to the environment, sustainable",
+            "answer": "eco",
+            "normalized": "eco"
           },
           {
-            "id": "a10e0c76-aab0-4afe-9fb0-cb835a1e94e1",
-            "clue": "Beekeeper",
-            "answer": "apiarist",
-            "normalized": "apiarist"
+            "id": "d400fdf7-8ff6-4497-a32d-e761a575794c",
+            "clue": "The most grumpy and moody",
+            "answer": "sulkiest",
+            "normalized": "sulkiest"
           },
           {
-            "id": "316c09fc-f8b3-4120-8736-212ec414cb2d",
-            "clue": "Behave insincerely",
-            "answer": "playact",
-            "normalized": "playact"
+            "id": "a6336bc3-da39-4b92-a026-329b90e494ab",
+            "clue": "Giving guidance to someone",
+            "answer": "advising",
+            "normalized": "advising"
           },
           {
-            "id": "5cd97e31-1fd7-41ba-b3f2-a05ff05c9a27",
-            "clue": "Relating to the largest hot desert",
-            "answer": "saharan",
-            "normalized": "saharan"
+            "id": "545dc39e-234c-4a7f-9159-fa1ff18f1c96",
+            "clue": "Painting a house may require more than one",
+            "answer": "coat",
+            "normalized": "coat"
           },
           {
-            "id": "cfdb974c-42fb-4f3d-bc7b-6b52b83c2f17",
-            "clue": "Rybakina, Wimbledon champion in 2022",
-            "answer": "elena",
-            "normalized": "elena"
+            "id": "f43d0177-db39-44a5-8614-28224ffa127d",
+            "clue": "Makes a mistake",
+            "answer": "errs",
+            "normalized": "errs"
           },
           {
-            "id": "7400f344-ae89-4eca-a93a-cc56e6fa4100",
-            "clue": "Taj __, marble mausoleum in Indian city of Agra",
-            "answer": "mahal",
-            "normalized": "mahal"
+            "id": "3c89a1db-686f-445c-858c-42f3cd915477",
+            "clue": "__ Mountain High Enough; 1970 Diana Ross hit",
+            "answer": "aint no",
+            "normalized": "aintno"
           },
           {
-            "id": "89107f18-9b54-438c-80ae-df2bc4f29fac",
-            "clue": "This Arthur played Dorothy on The Golden Girls",
-            "answer": "bea",
-            "normalized": "bea"
+            "id": "4e562409-e544-4854-9e23-2e42922a52be",
+            "clue": "Units of electrical resistance",
+            "answer": "ohms",
+            "normalized": "ohms"
+          },
+          {
+            "id": "d5957eb4-b2df-433a-af9c-14ff4653f9d1",
+            "clue": "Chatbot character on Snapchat",
+            "answer": "my ai",
+            "normalized": "myai"
+          },
+          {
+            "id": "9bf5e72b-3873-40cc-b5fb-91f50f990137",
+            "clue": "Stop something in the bud",
+            "answer": "nip",
+            "normalized": "nip"
+          },
+          {
+            "id": "59dcbc51-5338-400c-8c48-9187755a6871",
+            "clue": "European Currency Unit, came before the euro",
+            "answer": "ecu",
+            "normalized": "ecu"
           }
         ],
-        "track": "PC|LenC--Y2026M8D9F1"
+        "track": "PC|LenC--Y2026M8D10F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-09",
+      "key": "2026-08-10",
       "year": 2026,
       "month": 8,
-      "day": 9,
+      "day": 10,
       "small": {
-        "puzzleId": "8782a0f6-4d27-49cb-ae39-23c6459b2072",
+        "puzzleId": "a2f9f8d3-603c-479c-aaa4-10cf15e6171f",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "a6e7acce-4929-4525-a110-c1ccdbe6f220",
-            "clue": "Morrison who sang Brown Eyed Girl",
-            "answer": "van",
-            "normalized": "van"
+            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
+            "clue": "Goes before \"ching\" for a cash register noise",
+            "answer": "cha",
+            "normalized": "cha"
           },
           {
-            "id": "733f7ee5-c8e9-4b27-9aeb-b1be47f0f413",
-            "clue": "Gourd, e.g. honeydew, canary or cantaloupe",
-            "answer": "melon",
-            "normalized": "melon"
+            "id": "e8de0837-7ab6-4b44-bd37-e3a797e7ce77",
+            "clue": "Four of Jupiter's are Galilean",
+            "answer": "moons",
+            "normalized": "moons"
           },
           {
-            "id": "8e2a9904-a956-433c-bff4-b616c3d0f97f",
-            "clue": "Spanish Costa that ends at the French border",
-            "answer": "brava",
-            "normalized": "brava"
+            "id": "055423ff-852e-4deb-a572-774296a69931",
+            "clue": "Argentinian grilled meat",
+            "answer": "asado",
+            "normalized": "asado"
           },
           {
-            "id": "8afaae60-acc7-4594-9e03-66ec8c55bd59",
-            "clue": "Compound made when acid and alcohols combine",
-            "answer": "ester",
-            "normalized": "ester"
+            "id": "7099954a-3da2-456b-ad96-0ffd18ea9e82",
+            "clue": "Ends, cancels",
+            "answer": "nixes",
+            "normalized": "nixes"
           },
           {
-            "id": "b68012be-96de-42f3-bf66-54eadcc80477",
-            "clue": "Electric and conger fishes",
-            "answer": "eels",
-            "normalized": "eels"
+            "id": "33a9fbd7-3ef0-4905-aaa2-b40783bd438a",
+            "clue": "Spanish January",
+            "answer": "enero",
+            "normalized": "enero"
           },
           {
-            "id": "5f491af5-964d-477b-9452-0718c9c9cf96",
-            "clue": "Section of a poem",
-            "answer": "verse",
-            "normalized": "verse"
+            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
+            "clue": "S, written phonetically as a full word",
+            "answer": "ess",
+            "normalized": "ess"
           },
           {
-            "id": "55b8edde-af36-4e23-964a-bada4c45f9aa",
-            "clue": "Adjective for having wings",
-            "answer": "alate",
-            "normalized": "alate"
+            "id": "cf6b47a1-7231-47c4-9046-b2ef8271f39b",
+            "clue": "Ratio of adjacent side to the hypotenuse",
+            "answer": "cosine",
+            "normalized": "cosine"
           },
           {
-            "id": "2a6957e8-6fa4-44b9-b0c5-822708e8586b",
-            "clue": "A type of book; something unusual",
-            "answer": "novel",
-            "normalized": "novel"
+            "id": "4dd548ee-652b-440b-b0c5-e2facb331157",
+            "clue": "Tricks or deceives someone",
+            "answer": "hoaxes",
+            "normalized": "hoaxes"
           },
           {
-            "id": "c9b6f3d3-7ac4-4a1c-8312-b2e4da3a8396",
-            "clue": "Lowest award of the Order of the British Empire",
-            "answer": "mbe",
-            "normalized": "mbe"
+            "id": "2cb59c6b-9bb8-4461-b52d-455075fa49d7",
+            "clue": "Scandinavian form of the name Andrew",
+            "answer": "anders",
+            "normalized": "anders"
           },
           {
-            "id": "50208d2f-539e-4334-813b-119cf25818ba",
-            "clue": "Cosmetics company known for Sheer Glow foundation",
-            "answer": "nars",
-            "normalized": "nars"
+            "id": "db81a048-401f-4d86-8f59-bc9783b1ef93",
+            "clue": "Lion's wild hairstyle",
+            "answer": "mane",
+            "normalized": "mane"
+          },
+          {
+            "id": "c850989b-99e7-4dcc-9915-e4c54a4a8d9e",
+            "clue": "Just about acceptable",
+            "answer": "so so",
+            "normalized": "soso"
           }
         ],
-        "track": "PC|LenC--Y2026M8D9F0"
+        "track": "PC|LenC--Y2026M8D10F0"
       },
       "mid": {
-        "puzzleId": "eb9b4ed3-e7bc-4fc1-8c33-29693a328292",
+        "puzzleId": "b183bcd4-ca0c-44d6-8202-9075b9522cb1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 1,
         "answers": [
           {
-            "id": "ec95bde0-9795-4612-a430-9061a4187d4d",
-            "clue": "TV drama show like All My Children, __ opera",
-            "answer": "soap",
-            "normalized": "soap"
+            "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
+            "clue": "Craven, horror movie director of Scream",
+            "answer": "wes",
+            "normalized": "wes"
           },
           {
-            "id": "be6e769c-e281-4e52-8886-7d9ff812f24f",
-            "clue": "Flexible and graceful, like a ballet dancer",
-            "answer": "supple",
-            "normalized": "supple"
+            "id": "d27e635e-f55a-415d-904f-265994e78f70",
+            "clue": "The highest card in most games",
+            "answer": "ace",
+            "normalized": "ace"
           },
           {
-            "id": "34f6c5fd-9086-4ff1-8046-ae00807fb6c6",
-            "clue": "Bruce Lee was a master of these types of arts",
-            "answer": "martial",
-            "normalized": "martial"
+            "id": "e1b3bb1c-420b-4383-bcc7-94d8261ee1dc",
+            "clue": "South American country between Colombia and Peru",
+            "answer": "ecuador",
+            "normalized": "ecuador"
           },
           {
-            "id": "0837d41f-babd-4f33-b61e-7f818604a777",
-            "clue": "Yellowfin tuna",
-            "answer": "ahi",
-            "normalized": "ahi"
+            "id": "da26f4a3-1eff-4463-9f57-00e98fac77ed",
+            "clue": "Simon __, liberator of Latin America",
+            "answer": "bolivar",
+            "normalized": "bolivar"
           },
           {
-            "id": "4fffe2ae-4c40-4d7d-b742-075889c5fd54",
-            "clue": "Yes, to a pirate",
-            "answer": "aye",
-            "normalized": "aye"
+            "id": "faba1cfd-980e-421e-a746-7148e2004b00",
+            "clue": "Casts on and binds off",
+            "answer": "knits",
+            "normalized": "knits"
           },
           {
-            "id": "10733673-e422-454a-a4f3-294a81edc160",
-            "clue": "Scruffy nerf-herder, __ Solo",
-            "answer": "han",
-            "normalized": "han"
+            "id": "ef6b7268-3e36-48f8-a09f-8d4065d5793b",
+            "clue": "Leaves out, excludes",
+            "answer": "omits",
+            "normalized": "omits"
           },
           {
-            "id": "d4751041-766c-457d-94ab-98dcdf0a4024",
-            "clue": "Jogged quickly",
-            "answer": "ran",
-            "normalized": "ran"
+            "id": "6810c389-c19c-4d17-a13e-0bf947ff257d",
+            "clue": "Of or relating to hyenas",
+            "answer": "hyenine",
+            "normalized": "hyenine"
           },
           {
-            "id": "12bc7c9b-837d-4db8-bc3e-cea9949ce0fb",
-            "clue": "A variety of coffee bean",
-            "answer": "arabica",
-            "normalized": "arabica"
+            "id": "dbc7853a-a532-4d7f-aa79-f6df929d08ad",
+            "clue": "Lodge of stoneworkers",
+            "answer": "masonic",
+            "normalized": "masonic"
           },
           {
-            "id": "1006aa78-806d-42c2-906f-8cc2f432c243",
-            "clue": "The weakest, most feeble (e.g. excuse)",
-            "answer": "lamest",
-            "normalized": "lamest"
+            "id": "8300e657-e252-41e4-a13a-cdcb8b682996",
+            "clue": "Take a seat",
+            "answer": "sit",
+            "normalized": "sit"
           },
           {
-            "id": "6d7a994f-2b60-4eae-ba3c-b49099d79405",
-            "clue": "Tidy, orderly",
-            "answer": "neat",
-            "normalized": "neat"
+            "id": "18f14a84-5837-495d-98ed-9a3a38e22567",
+            "clue": "Computer graphics processing unit",
+            "answer": "gpu",
+            "normalized": "gpu"
           },
           {
-            "id": "45469651-9949-43be-9517-ea7b06500d4c",
-            "clue": "Country whose capital is Paramaribo",
-            "answer": "suriname",
-            "normalized": "suriname"
+            "id": "fa6b7026-e13d-4c1c-ae6d-2d582afb3f8b",
+            "clue": "Spider's catcher",
+            "answer": "web",
+            "normalized": "web"
           },
           {
-            "id": "c27baba1-9a4b-4d65-ad0d-77bc9be03a41",
-            "clue": "Choose, go for a certain choice",
-            "answer": "opt",
-            "normalized": "opt"
+            "id": "e31462ff-f61a-4946-9314-2ef3600abb68",
+            "clue": "Friendly to the environment, sustainable",
+            "answer": "eco",
+            "normalized": "eco"
           },
           {
-            "id": "a10e0c76-aab0-4afe-9fb0-cb835a1e94e1",
-            "clue": "Beekeeper",
-            "answer": "apiarist",
-            "normalized": "apiarist"
+            "id": "d400fdf7-8ff6-4497-a32d-e761a575794c",
+            "clue": "The most grumpy and moody",
+            "answer": "sulkiest",
+            "normalized": "sulkiest"
           },
           {
-            "id": "316c09fc-f8b3-4120-8736-212ec414cb2d",
-            "clue": "Behave insincerely",
-            "answer": "playact",
-            "normalized": "playact"
+            "id": "a6336bc3-da39-4b92-a026-329b90e494ab",
+            "clue": "Giving guidance to someone",
+            "answer": "advising",
+            "normalized": "advising"
           },
           {
-            "id": "5cd97e31-1fd7-41ba-b3f2-a05ff05c9a27",
-            "clue": "Relating to the largest hot desert",
-            "answer": "saharan",
-            "normalized": "saharan"
+            "id": "545dc39e-234c-4a7f-9159-fa1ff18f1c96",
+            "clue": "Painting a house may require more than one",
+            "answer": "coat",
+            "normalized": "coat"
           },
           {
-            "id": "cfdb974c-42fb-4f3d-bc7b-6b52b83c2f17",
-            "clue": "Rybakina, Wimbledon champion in 2022",
-            "answer": "elena",
-            "normalized": "elena"
+            "id": "f43d0177-db39-44a5-8614-28224ffa127d",
+            "clue": "Makes a mistake",
+            "answer": "errs",
+            "normalized": "errs"
           },
           {
-            "id": "7400f344-ae89-4eca-a93a-cc56e6fa4100",
-            "clue": "Taj __, marble mausoleum in Indian city of Agra",
-            "answer": "mahal",
-            "normalized": "mahal"
+            "id": "3c89a1db-686f-445c-858c-42f3cd915477",
+            "clue": "__ Mountain High Enough; 1970 Diana Ross hit",
+            "answer": "aint no",
+            "normalized": "aintno"
           },
           {
-            "id": "89107f18-9b54-438c-80ae-df2bc4f29fac",
-            "clue": "This Arthur played Dorothy on The Golden Girls",
-            "answer": "bea",
-            "normalized": "bea"
+            "id": "4e562409-e544-4854-9e23-2e42922a52be",
+            "clue": "Units of electrical resistance",
+            "answer": "ohms",
+            "normalized": "ohms"
+          },
+          {
+            "id": "d5957eb4-b2df-433a-af9c-14ff4653f9d1",
+            "clue": "Chatbot character on Snapchat",
+            "answer": "my ai",
+            "normalized": "myai"
+          },
+          {
+            "id": "9bf5e72b-3873-40cc-b5fb-91f50f990137",
+            "clue": "Stop something in the bud",
+            "answer": "nip",
+            "normalized": "nip"
+          },
+          {
+            "id": "59dcbc51-5338-400c-8c48-9187755a6871",
+            "clue": "European Currency Unit, came before the euro",
+            "answer": "ecu",
+            "normalized": "ecu"
           }
         ],
-        "track": "PC|LenC--Y2026M8D9F1"
+        "track": "PC|LenC--Y2026M8D10F1"
       }
     },
     "latestAvailableEntry": {
@@ -434768,21 +434816,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "4+oweSn79Rm6AH/xg3wo0AxVxfIMhpdEtMDyn/pYrYY0mPmomrQ9cEXJ1RmX4wAl3Hkmuh8FFHlO9OrDzWXbH+/r/ELJFOrOyy6b6ujAaa8AsZdoLs/l8R5y/ELXKkO/6H513j5eol3VgJ3u/ikgP89ICB8renvFwQ06aeTjP/4tnwT3/bEZyLfTnBPJb8lhkbCJ/WgwViv3akjjTj0YK+9vLwQz4r8VOjcd8a4OzcDIZlhfuWiWacUNRFNDuv9ffAWTak/rpPH9Z3dj/IDXpNjEgoXOWEw2ftTl9Nhnmh0="
+        "CoruZjj0YrqVGFkP9Ed0MJQ6Iv/NsH4xPRxH2wIgfNqRk8rRqhjk/ZLyMLWEpy6zcFcvrP2zIVKB6NEFJWdO/ZF3qoHUXUdTN/Bi3HJ7fWS3+H9rn4AjDBhOu1+gNBohEi5sZmDTDkWIvx/Q1TTZGqMnVYhLOdAxNlIdSOkcHiP6G7r5CONLUo3QBwhAk/bzehlRI/d9VE0IY6OxaYTFKGqq/qpcKVZtCjoWMw1TbQ+N1BCWoO89mg15Q5Y9AWPAl+U0Edrt6V8MVuIgqzd9qepdjD73o18bVbLJb1DvfV8="
       ]
     },
     "decrypted": {
-      "Id": "f7b5e559-db04-409d-86a2-5ab00dd88546",
-      "Date": "2026-08-09T00:00:00Z",
+      "Id": "30853c41-19f1-443a-ad6f-35f7c018943e",
+      "Date": "2026-08-10T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "aloof",
-      "NormalizedPassword": "aloof",
+      "Password": "minor",
+      "NormalizedPassword": "minor",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-09T00:36:06.5720000+05:30",
-    "hash": "24877cf4e70b2f9e1a33e1a3f3f10270",
+    "dtu": "2026-08-10T00:39:33.2690000+05:30",
+    "hash": "19e62a29dea1d2daeb4b6472fb287ba2",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
