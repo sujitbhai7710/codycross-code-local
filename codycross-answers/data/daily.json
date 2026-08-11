@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T19:27:49.444Z",
+  "generatedAt": "2026-08-11T19:31:34.914Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 11
+    "day": 12
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 18
+        "QuantidadeDeFases": 20
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434118,391 +434118,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-11",
+      "key": "2026-08-12",
       "year": 2026,
       "month": 8,
-      "day": 11,
+      "day": 12,
       "small": {
-        "puzzleId": "521958cb-52f7-4458-bd44-07cdf509b771",
+        "puzzleId": "f6f31aa1-f208-4642-97a3-aaa4669e6356",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "40931bef-e7b1-430d-8734-6881f880e1ea",
+            "clue": "Tyrannosaurus __, fearsome dinosaur",
+            "answer": "rex",
+            "normalized": "rex"
+          },
+          {
+            "id": "2e6a8550-fa6b-4efe-9d7c-6f985850f4c1",
+            "clue": "Animals bred by a male donkey and a female horse",
+            "answer": "mules",
+            "normalized": "mules"
+          },
+          {
+            "id": "afb562b9-6683-4301-8bca-5a93716def11",
+            "clue": "Cara who sang the theme to Fame",
+            "answer": "irene",
+            "normalized": "irene"
+          },
+          {
+            "id": "896f68af-a415-4555-ac24-1737ca95c700",
+            "clue": "Narrow wooden boat moved and steered by paddle",
+            "answer": "canoe",
+            "normalized": "canoe"
+          },
+          {
+            "id": "0a643f4b-0a35-4643-9b03-a1701f852706",
+            "clue": "To put a plane back on the ground",
+            "answer": "land",
+            "normalized": "land"
+          },
+          {
+            "id": "623ee672-4673-4f81-abb0-68e66a009b83",
+            "clue": "Bucolic, pastoral",
+            "answer": "rural",
+            "normalized": "rural"
+          },
+          {
+            "id": "7d020b44-55ef-4c2d-aed1-0f57d6499423",
+            "clue": "The teenage heroine of The Vampire Diaries",
+            "answer": "elena",
+            "normalized": "elena"
+          },
+          {
+            "id": "dcbad4a7-2e8d-4e6c-bf30-eae833c583e4",
+            "clue": "Noble gas that is last in alphabetical order",
+            "answer": "xenon",
+            "normalized": "xenon"
+          },
+          {
+            "id": "441463e3-6168-46a1-a4ec-e0a80c2df7e8",
+            "clue": "Stage performers speak or sing into this",
+            "answer": "mic",
+            "normalized": "mic"
+          },
+          {
+            "id": "bc756505-b084-4aa8-82ea-bd583b7bc0b2",
+            "clue": "Some experiments use salt to do this to clouds",
+            "answer": "seed",
+            "normalized": "seed"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D12F0"
+      },
+      "mid": {
+        "puzzleId": "fab2899d-4f79-4f65-a5bb-15d8eed26924",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 4,
         "answers": [
           {
-            "id": "c80804f3-693a-4afa-b980-201402e23c19",
-            "clue": "Happy birthday, in short",
-            "answer": "hbd",
-            "normalized": "hbd"
+            "id": "bee55c12-f118-42b6-904a-b893010d9f52",
+            "clue": "Salt Lake City's state",
+            "answer": "utah",
+            "normalized": "utah"
           },
           {
-            "id": "780b0e40-084f-4f3d-ab19-85a97798ec5d",
-            "clue": "N'Djamena is the capital of this African nation",
-            "answer": "chad",
-            "normalized": "chad"
+            "id": "715e05c7-7f01-45ca-a7ae-2c3e51b439cf",
+            "clue": "Hose-like nose of an elephant",
+            "answer": "trunk",
+            "normalized": "trunk"
           },
           {
-            "id": "46dd983a-ae28-4354-8ba2-0bd681b8d57d",
-            "clue": "They belong to us but are given by our parents",
-            "answer": "names",
-            "normalized": "names"
+            "id": "2b665230-e2f0-43db-82c0-6ffdcbe8b4b1",
+            "clue": "Forced bets by player to left of dealer in poker",
+            "answer": "blinds",
+            "normalized": "blinds"
           },
           {
-            "id": "202c63c8-920f-4151-a96d-1da5e62c2d1b",
-            "clue": "Product prototype",
-            "answer": "demo",
-            "normalized": "demo"
+            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
+            "clue": "Common query in early internet chat rooms",
+            "answer": "asl",
+            "normalized": "asl"
           },
           {
-            "id": "5f82d6cf-fdf2-409a-862a-f848d0386c52",
-            "clue": "Short for a brother or a sister",
-            "answer": "sib",
-            "normalized": "sib"
+            "id": "c8a24a9b-1108-4c51-8fc5-eb9892f74154",
+            "clue": "Small belching sound made after drinking",
+            "answer": "hic",
+            "normalized": "hic"
           },
           {
-            "id": "27d2fab7-0a34-4c61-ac47-e36836e92709",
-            "clue": "Hydrocyanic acid's chemical formula",
-            "answer": "hcn",
-            "normalized": "hcn"
+            "id": "5a8d5d3d-8902-4b99-9ed3-942fccc8e6e7",
+            "clue": "Not destroyed or ruined, in existence",
+            "answer": "extant",
+            "normalized": "extant"
           },
           {
-            "id": "14464a97-d295-4113-ae4c-b5d2467ace35",
-            "clue": "Danielle Bregoli's stage name __ Bhabie",
-            "answer": "bhad",
-            "normalized": "bhad"
+            "id": "9fa9a4d1-e5d0-4470-93ea-7775f7f16e43",
+            "clue": "When playing limbo, the bar goes in this direction",
+            "answer": "lower",
+            "normalized": "lower"
           },
           {
-            "id": "5b9f415d-b6c5-45a2-804c-525906c2186d",
-            "clue": "Female equivalent of knights",
-            "answer": "dames",
-            "normalized": "dames"
+            "id": "a285dcbc-785b-418f-8324-daff4005529c",
+            "clue": "Biker show __ of Anarchy",
+            "answer": "sons",
+            "normalized": "sons"
           },
           {
-            "id": "1b238d8c-cd14-40e2-86c7-c6b1acfec51d",
-            "clue": "G.I. Jane actress __ Moore",
-            "answer": "demi",
-            "normalized": "demi"
+            "id": "6d530bc5-39df-45cf-a097-b4d1790814ef",
+            "clue": "Web page addresses usually beginning with http",
+            "answer": "urls",
+            "normalized": "urls"
           },
           {
-            "id": "d7f526d3-fa9c-4216-b195-e1374350e3b7",
-            "clue": "Weep, cry",
-            "answer": "sob",
-            "normalized": "sob"
+            "id": "6b5b21cc-7494-451b-a09a-da3afab67e94",
+            "clue": "Delicate French wafer, pronounced \"tweel\"",
+            "answer": "tuile",
+            "normalized": "tuile"
+          },
+          {
+            "id": "196c69aa-1f65-454b-8539-dc153b041805",
+            "clue": "Patchett, Coulter, Taylor",
+            "answer": "ann",
+            "normalized": "ann"
+          },
+          {
+            "id": "0f63990c-3886-4b3a-b1de-437661804eda",
+            "clue": "Hong Kong's ISO currency code",
+            "answer": "hkd",
+            "normalized": "hkd"
+          },
+          {
+            "id": "ebae5b66-5cfe-45d8-b2d9-42114a8d5936",
+            "clue": "To be announced",
+            "answer": "tba",
+            "normalized": "tba"
+          },
+          {
+            "id": "e5b264b4-9606-4e69-b410-39ec852326e6",
+            "clue": "Sunny Came Home singer __ Colvin",
+            "answer": "shawn",
+            "normalized": "shawn"
+          },
+          {
+            "id": "1cb7ff14-693e-4c56-9426-26ef5f831688",
+            "clue": "Spanish version of Agnes",
+            "answer": "ines",
+            "normalized": "ines"
+          },
+          {
+            "id": "53e94dda-480f-4ba1-91a5-1d293ecef14f",
+            "clue": "Initialism for click-through rate",
+            "answer": "ctr",
+            "normalized": "ctr"
+          },
+          {
+            "id": "666e3a51-0c78-476d-8dd6-74074b61f181",
+            "clue": "Spreadsheet file extension for Microsoft Excel",
+            "answer": "xls",
+            "normalized": "xls"
+          },
+          {
+            "id": "1fc48c3a-df39-4b11-b43d-61894fd11226",
+            "clue": "Also",
+            "answer": "too",
+            "normalized": "too"
           }
         ],
-        "track": "PC|LenC--Y2026M8D11F0"
-      },
-      "mid": {
-        "puzzleId": "34b7e8c0-037c-440b-bc6f-096f2e0796ba",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 8,
-        "answers": [
-          {
-            "id": "22fe62e6-08bd-42f8-85ab-0d9593f8d002",
-            "clue": "Pro __, in proportion, e.g. of hours or salary",
-            "answer": "rata",
-            "normalized": "rata"
-          },
-          {
-            "id": "4a1863f5-68da-460b-9a0b-ad32fd646c3b",
-            "clue": "The floor of a fireplace",
-            "answer": "hearth",
-            "normalized": "hearth"
-          },
-          {
-            "id": "362585e5-ebc5-43d9-8bd0-790c88611b28",
-            "clue": "To spread outwards from the centre",
-            "answer": "radiate",
-            "normalized": "radiate"
-          },
-          {
-            "id": "7a910e71-cf9f-4c61-8f17-24b271b15e32",
-            "clue": "How adenosine triphosphate is commonly known",
-            "answer": "atp",
-            "normalized": "atp"
-          },
-          {
-            "id": "a8eb2bbc-f519-4686-af0d-2ef9316725df",
-            "clue": "Spouse's mom, for short",
-            "answer": "mil",
-            "normalized": "mil"
-          },
-          {
-            "id": "7cc0701b-b267-4627-8b4d-9624a2cf0352",
-            "clue": "US basketball league",
-            "answer": "nba",
-            "normalized": "nba"
-          },
-          {
-            "id": "78917036-07b0-482f-9dcc-918595745d37",
-            "clue": "Not a con",
-            "answer": "pro",
-            "normalized": "pro"
-          },
-          {
-            "id": "802cd500-fc49-45b9-be41-7382ec63947f",
-            "clue": "Section of rail where two tracks overlap",
-            "answer": "gantlet",
-            "normalized": "gantlet"
-          },
-          {
-            "id": "504d7012-eb8c-4aea-99f5-86288d1b9f7d",
-            "clue": "Bestows with an ability",
-            "answer": "endues",
-            "normalized": "endues"
-          },
-          {
-            "id": "5f60fd65-a88c-4044-b321-00afd0278e7a",
-            "clue": "Viral craze dance moves with one straight arm",
-            "answer": "dabs",
-            "normalized": "dabs"
-          },
-          {
-            "id": "fb72bf21-3c48-4382-9c02-d76303d64953",
-            "clue": "Himalayan animal sometimes called a fire fox",
-            "answer": "red panda",
-            "normalized": "redpanda"
-          },
-          {
-            "id": "1e65d75d-3842-41f4-960d-5df0a68a4f11",
-            "clue": "Applied artificial intelligence, acronym",
-            "answer": "aai",
-            "normalized": "aai"
-          },
-          {
-            "id": "622fd4a6-726b-431f-a52f-5a9d480ca1f1",
-            "clue": "Crushes underfoot",
-            "answer": "tramples",
-            "normalized": "tramples"
-          },
-          {
-            "id": "ec12e6a2-3afd-495b-a7ff-6443efeae5d9",
-            "clue": "Dresses oneself in garments",
-            "answer": "attires",
-            "normalized": "attires"
-          },
-          {
-            "id": "0f73546d-6787-4151-a86f-c9c7c413918c",
-            "clue": "Ribbon on a boater",
-            "answer": "hatband",
-            "normalized": "hatband"
-          },
-          {
-            "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
-            "clue": "Ancient Greek serf in Sparta",
-            "answer": "helot",
-            "normalized": "helot"
-          },
-          {
-            "id": "23e9188a-678d-462b-b9a0-3dd08ebf3f08",
-            "clue": "Series of mountains or hills",
-            "answer": "range",
-            "normalized": "range"
-          },
-          {
-            "id": "95347d0a-38a5-4513-bc7f-d78f7a4677b1",
-            "clue": "Bathing vat",
-            "answer": "tub",
-            "normalized": "tub"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D11F1"
+        "track": "PC|LenC--Y2026M8D12F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-11",
+      "key": "2026-08-12",
       "year": 2026,
       "month": 8,
-      "day": 11,
+      "day": 12,
       "small": {
-        "puzzleId": "521958cb-52f7-4458-bd44-07cdf509b771",
+        "puzzleId": "f6f31aa1-f208-4642-97a3-aaa4669e6356",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "40931bef-e7b1-430d-8734-6881f880e1ea",
+            "clue": "Tyrannosaurus __, fearsome dinosaur",
+            "answer": "rex",
+            "normalized": "rex"
+          },
+          {
+            "id": "2e6a8550-fa6b-4efe-9d7c-6f985850f4c1",
+            "clue": "Animals bred by a male donkey and a female horse",
+            "answer": "mules",
+            "normalized": "mules"
+          },
+          {
+            "id": "afb562b9-6683-4301-8bca-5a93716def11",
+            "clue": "Cara who sang the theme to Fame",
+            "answer": "irene",
+            "normalized": "irene"
+          },
+          {
+            "id": "896f68af-a415-4555-ac24-1737ca95c700",
+            "clue": "Narrow wooden boat moved and steered by paddle",
+            "answer": "canoe",
+            "normalized": "canoe"
+          },
+          {
+            "id": "0a643f4b-0a35-4643-9b03-a1701f852706",
+            "clue": "To put a plane back on the ground",
+            "answer": "land",
+            "normalized": "land"
+          },
+          {
+            "id": "623ee672-4673-4f81-abb0-68e66a009b83",
+            "clue": "Bucolic, pastoral",
+            "answer": "rural",
+            "normalized": "rural"
+          },
+          {
+            "id": "7d020b44-55ef-4c2d-aed1-0f57d6499423",
+            "clue": "The teenage heroine of The Vampire Diaries",
+            "answer": "elena",
+            "normalized": "elena"
+          },
+          {
+            "id": "dcbad4a7-2e8d-4e6c-bf30-eae833c583e4",
+            "clue": "Noble gas that is last in alphabetical order",
+            "answer": "xenon",
+            "normalized": "xenon"
+          },
+          {
+            "id": "441463e3-6168-46a1-a4ec-e0a80c2df7e8",
+            "clue": "Stage performers speak or sing into this",
+            "answer": "mic",
+            "normalized": "mic"
+          },
+          {
+            "id": "bc756505-b084-4aa8-82ea-bd583b7bc0b2",
+            "clue": "Some experiments use salt to do this to clouds",
+            "answer": "seed",
+            "normalized": "seed"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D12F0"
+      },
+      "mid": {
+        "puzzleId": "fab2899d-4f79-4f65-a5bb-15d8eed26924",
+        "fase": 1,
+        "size": 2,
         "status": 1,
         "version": 4,
         "answers": [
           {
-            "id": "c80804f3-693a-4afa-b980-201402e23c19",
-            "clue": "Happy birthday, in short",
-            "answer": "hbd",
-            "normalized": "hbd"
+            "id": "bee55c12-f118-42b6-904a-b893010d9f52",
+            "clue": "Salt Lake City's state",
+            "answer": "utah",
+            "normalized": "utah"
           },
           {
-            "id": "780b0e40-084f-4f3d-ab19-85a97798ec5d",
-            "clue": "N'Djamena is the capital of this African nation",
-            "answer": "chad",
-            "normalized": "chad"
+            "id": "715e05c7-7f01-45ca-a7ae-2c3e51b439cf",
+            "clue": "Hose-like nose of an elephant",
+            "answer": "trunk",
+            "normalized": "trunk"
           },
           {
-            "id": "46dd983a-ae28-4354-8ba2-0bd681b8d57d",
-            "clue": "They belong to us but are given by our parents",
-            "answer": "names",
-            "normalized": "names"
+            "id": "2b665230-e2f0-43db-82c0-6ffdcbe8b4b1",
+            "clue": "Forced bets by player to left of dealer in poker",
+            "answer": "blinds",
+            "normalized": "blinds"
           },
           {
-            "id": "202c63c8-920f-4151-a96d-1da5e62c2d1b",
-            "clue": "Product prototype",
-            "answer": "demo",
-            "normalized": "demo"
+            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
+            "clue": "Common query in early internet chat rooms",
+            "answer": "asl",
+            "normalized": "asl"
           },
           {
-            "id": "5f82d6cf-fdf2-409a-862a-f848d0386c52",
-            "clue": "Short for a brother or a sister",
-            "answer": "sib",
-            "normalized": "sib"
+            "id": "c8a24a9b-1108-4c51-8fc5-eb9892f74154",
+            "clue": "Small belching sound made after drinking",
+            "answer": "hic",
+            "normalized": "hic"
           },
           {
-            "id": "27d2fab7-0a34-4c61-ac47-e36836e92709",
-            "clue": "Hydrocyanic acid's chemical formula",
-            "answer": "hcn",
-            "normalized": "hcn"
+            "id": "5a8d5d3d-8902-4b99-9ed3-942fccc8e6e7",
+            "clue": "Not destroyed or ruined, in existence",
+            "answer": "extant",
+            "normalized": "extant"
           },
           {
-            "id": "14464a97-d295-4113-ae4c-b5d2467ace35",
-            "clue": "Danielle Bregoli's stage name __ Bhabie",
-            "answer": "bhad",
-            "normalized": "bhad"
+            "id": "9fa9a4d1-e5d0-4470-93ea-7775f7f16e43",
+            "clue": "When playing limbo, the bar goes in this direction",
+            "answer": "lower",
+            "normalized": "lower"
           },
           {
-            "id": "5b9f415d-b6c5-45a2-804c-525906c2186d",
-            "clue": "Female equivalent of knights",
-            "answer": "dames",
-            "normalized": "dames"
+            "id": "a285dcbc-785b-418f-8324-daff4005529c",
+            "clue": "Biker show __ of Anarchy",
+            "answer": "sons",
+            "normalized": "sons"
           },
           {
-            "id": "1b238d8c-cd14-40e2-86c7-c6b1acfec51d",
-            "clue": "G.I. Jane actress __ Moore",
-            "answer": "demi",
-            "normalized": "demi"
+            "id": "6d530bc5-39df-45cf-a097-b4d1790814ef",
+            "clue": "Web page addresses usually beginning with http",
+            "answer": "urls",
+            "normalized": "urls"
           },
           {
-            "id": "d7f526d3-fa9c-4216-b195-e1374350e3b7",
-            "clue": "Weep, cry",
-            "answer": "sob",
-            "normalized": "sob"
+            "id": "6b5b21cc-7494-451b-a09a-da3afab67e94",
+            "clue": "Delicate French wafer, pronounced \"tweel\"",
+            "answer": "tuile",
+            "normalized": "tuile"
+          },
+          {
+            "id": "196c69aa-1f65-454b-8539-dc153b041805",
+            "clue": "Patchett, Coulter, Taylor",
+            "answer": "ann",
+            "normalized": "ann"
+          },
+          {
+            "id": "0f63990c-3886-4b3a-b1de-437661804eda",
+            "clue": "Hong Kong's ISO currency code",
+            "answer": "hkd",
+            "normalized": "hkd"
+          },
+          {
+            "id": "ebae5b66-5cfe-45d8-b2d9-42114a8d5936",
+            "clue": "To be announced",
+            "answer": "tba",
+            "normalized": "tba"
+          },
+          {
+            "id": "e5b264b4-9606-4e69-b410-39ec852326e6",
+            "clue": "Sunny Came Home singer __ Colvin",
+            "answer": "shawn",
+            "normalized": "shawn"
+          },
+          {
+            "id": "1cb7ff14-693e-4c56-9426-26ef5f831688",
+            "clue": "Spanish version of Agnes",
+            "answer": "ines",
+            "normalized": "ines"
+          },
+          {
+            "id": "53e94dda-480f-4ba1-91a5-1d293ecef14f",
+            "clue": "Initialism for click-through rate",
+            "answer": "ctr",
+            "normalized": "ctr"
+          },
+          {
+            "id": "666e3a51-0c78-476d-8dd6-74074b61f181",
+            "clue": "Spreadsheet file extension for Microsoft Excel",
+            "answer": "xls",
+            "normalized": "xls"
+          },
+          {
+            "id": "1fc48c3a-df39-4b11-b43d-61894fd11226",
+            "clue": "Also",
+            "answer": "too",
+            "normalized": "too"
           }
         ],
-        "track": "PC|LenC--Y2026M8D11F0"
-      },
-      "mid": {
-        "puzzleId": "34b7e8c0-037c-440b-bc6f-096f2e0796ba",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 8,
-        "answers": [
-          {
-            "id": "22fe62e6-08bd-42f8-85ab-0d9593f8d002",
-            "clue": "Pro __, in proportion, e.g. of hours or salary",
-            "answer": "rata",
-            "normalized": "rata"
-          },
-          {
-            "id": "4a1863f5-68da-460b-9a0b-ad32fd646c3b",
-            "clue": "The floor of a fireplace",
-            "answer": "hearth",
-            "normalized": "hearth"
-          },
-          {
-            "id": "362585e5-ebc5-43d9-8bd0-790c88611b28",
-            "clue": "To spread outwards from the centre",
-            "answer": "radiate",
-            "normalized": "radiate"
-          },
-          {
-            "id": "7a910e71-cf9f-4c61-8f17-24b271b15e32",
-            "clue": "How adenosine triphosphate is commonly known",
-            "answer": "atp",
-            "normalized": "atp"
-          },
-          {
-            "id": "a8eb2bbc-f519-4686-af0d-2ef9316725df",
-            "clue": "Spouse's mom, for short",
-            "answer": "mil",
-            "normalized": "mil"
-          },
-          {
-            "id": "7cc0701b-b267-4627-8b4d-9624a2cf0352",
-            "clue": "US basketball league",
-            "answer": "nba",
-            "normalized": "nba"
-          },
-          {
-            "id": "78917036-07b0-482f-9dcc-918595745d37",
-            "clue": "Not a con",
-            "answer": "pro",
-            "normalized": "pro"
-          },
-          {
-            "id": "802cd500-fc49-45b9-be41-7382ec63947f",
-            "clue": "Section of rail where two tracks overlap",
-            "answer": "gantlet",
-            "normalized": "gantlet"
-          },
-          {
-            "id": "504d7012-eb8c-4aea-99f5-86288d1b9f7d",
-            "clue": "Bestows with an ability",
-            "answer": "endues",
-            "normalized": "endues"
-          },
-          {
-            "id": "5f60fd65-a88c-4044-b321-00afd0278e7a",
-            "clue": "Viral craze dance moves with one straight arm",
-            "answer": "dabs",
-            "normalized": "dabs"
-          },
-          {
-            "id": "fb72bf21-3c48-4382-9c02-d76303d64953",
-            "clue": "Himalayan animal sometimes called a fire fox",
-            "answer": "red panda",
-            "normalized": "redpanda"
-          },
-          {
-            "id": "1e65d75d-3842-41f4-960d-5df0a68a4f11",
-            "clue": "Applied artificial intelligence, acronym",
-            "answer": "aai",
-            "normalized": "aai"
-          },
-          {
-            "id": "622fd4a6-726b-431f-a52f-5a9d480ca1f1",
-            "clue": "Crushes underfoot",
-            "answer": "tramples",
-            "normalized": "tramples"
-          },
-          {
-            "id": "ec12e6a2-3afd-495b-a7ff-6443efeae5d9",
-            "clue": "Dresses oneself in garments",
-            "answer": "attires",
-            "normalized": "attires"
-          },
-          {
-            "id": "0f73546d-6787-4151-a86f-c9c7c413918c",
-            "clue": "Ribbon on a boater",
-            "answer": "hatband",
-            "normalized": "hatband"
-          },
-          {
-            "id": "c88ee38b-c8f2-48ad-a839-7f8cf5b03910",
-            "clue": "Ancient Greek serf in Sparta",
-            "answer": "helot",
-            "normalized": "helot"
-          },
-          {
-            "id": "23e9188a-678d-462b-b9a0-3dd08ebf3f08",
-            "clue": "Series of mountains or hills",
-            "answer": "range",
-            "normalized": "range"
-          },
-          {
-            "id": "95347d0a-38a5-4513-bc7f-d78f7a4677b1",
-            "clue": "Bathing vat",
-            "answer": "tub",
-            "normalized": "tub"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D11F1"
+        "track": "PC|LenC--Y2026M8D12F1"
       }
     },
     "latestAvailableEntry": {
@@ -434768,21 +434768,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "GMQ7xC0z/zFn41cS2WptBkhKv82ueoHVm+WqgVIy8IhpmQiOIivioSGVi4cfLXl7ZkQvSu4+YBcIGKRjIXSFdGoMGMUvtXnC0jbKt2EDr48cbzc/VP52d1l6lIJUeci0AWA6VNO5GiJy/KwlVDtjIc2pWmfvN+1vMyhhrjXENTBq0T41mSgjl+wUSvnfDn2fnwwk+9s792+ZH1/8SPTSH2RKmMvVnqtyPgojTqWmbYO2/9T/2TlORYlbplRXkMmCOA14wxu+Iycf79pM3E1BcPP28dD7xf6oYsKz0O0q4GM="
+        "ANdkTD90AWYUr7J3KRZgZpyhxFbSkM7lDlIHolYxLiLIeVa4bxtn1mMV8vV3n72moPTxKPOf4JPopo6oLl1d3vY3cGBZlRG5kPoqodwdlPdUy3P3XGhOnoXMPxvQhCyDtLb8sFa/7QfDkShVOp0jytL9oCoE4k+CRPXFWtdThASvlomSoCmroIk6PLwcoipU3xb6Gtpkiwc198E63kFnnZEvIu+dWG4ScrYX6PzKmjvGrQ+w5sVD6oSQ8xhcdSXUqtgcOvrb6LJW9l276NDx5aE2wEV+nDiPZYkJnhfOVn0="
       ]
     },
     "decrypted": {
-      "Id": "b0c30c40-53f7-43e3-8ae7-c0dc840a5311",
-      "Date": "2026-08-11T00:00:00Z",
+      "Id": "706ca76d-6164-459d-bd81-a0af3f44a6b1",
+      "Date": "2026-08-12T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "brave",
-      "NormalizedPassword": "brave",
+      "Password": "arrow",
+      "NormalizedPassword": "arrow",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-11T00:57:49.4440000+05:30",
-    "hash": "8f5ccfb50e228f7bc1a69b1ee1c6afb1",
+    "dtu": "2026-08-12T01:01:34.9140000+05:30",
+    "hash": "a9c39f10f94373d2a438e347462587d9",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
