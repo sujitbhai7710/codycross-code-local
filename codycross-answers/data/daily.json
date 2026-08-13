@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T19:33:33.465Z",
+  "generatedAt": "2026-08-13T19:32:01.606Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 13
+    "day": 14
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 22
+        "QuantidadeDeFases": 24
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -36745,7 +36745,7 @@
           "answers": [
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -48637,7 +48637,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -94384,7 +94384,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -97015,7 +97015,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -111195,7 +111195,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -120194,7 +120194,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -131306,7 +131306,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -160157,7 +160157,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -165644,7 +165644,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -170561,7 +170561,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -388347,7 +388347,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             }
@@ -420926,7 +420926,7 @@
             },
             {
               "id": "f77dd8d0-d673-4196-ba1d-402d945502a7",
-              "clue": "Internet of things, connected devices in short",
+              "clue": "Internet of things, connected devices",
               "answer": "iot",
               "normalized": "iot"
             },
@@ -434118,427 +434118,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-13",
+      "key": "2026-08-14",
       "year": 2026,
       "month": 8,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "d1615830-6c47-4067-bf26-c578dad04f73",
+        "puzzleId": "1fceb8e9-876f-44f3-a316-37fec6dd5161",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 4,
         "answers": [
           {
-            "id": "fea93e85-d81d-4080-b2a8-314827c93500",
-            "clue": "Related to, like another thing",
-            "answer": "akin",
-            "normalized": "akin"
+            "id": "a6157d37-7d72-40b1-8c10-bb4bb099c14a",
+            "clue": "Abbreviation for units that have 16 ounces in them",
+            "answer": "lbs",
+            "normalized": "lbs"
           },
           {
-            "id": "84e3fc3d-4d60-4414-b5a2-34ef0c0f02e6",
-            "clue": "Horse's neck hair",
-            "answer": "mane",
-            "normalized": "mane"
+            "id": "afd61481-525a-4236-81b0-ac499eca32ef",
+            "clue": "Tiny bit",
+            "answer": "iota",
+            "normalized": "iota"
           },
           {
-            "id": "559bad4b-e87d-4352-b483-98f87e3891da",
-            "clue": "Native empire of Mexico",
-            "answer": "aztec",
-            "normalized": "aztec"
+            "id": "fb117307-4da9-49a5-be42-5b3867486bf2",
+            "clue": "US rock band known for very long beards",
+            "answer": "zz top",
+            "normalized": "zztop"
           },
           {
-            "id": "8613b83e-9021-4689-a64b-25d370986803",
-            "clue": "Official national language of Pakistan",
-            "answer": "urdu",
-            "normalized": "urdu"
+            "id": "eef51ae8-8efd-49ca-bdbe-32bc15efc525",
+            "clue": "Two words on the cake in Alice in Wonderland",
+            "answer": "eat me",
+            "normalized": "eatme"
           },
           {
-            "id": "31f144cc-09b0-4259-93e7-c448b7e935e2",
-            "clue": "Cone-shaped agricultural kiln for drying hops",
-            "answer": "oast",
-            "normalized": "oast"
+            "id": "dca92b48-e262-4bb7-a82e-240cb0d319b2",
+            "clue": "Bright, dome shaped candies, chewy and sweet",
+            "answer": "drops",
+            "normalized": "drops"
           },
           {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
+            "id": "6ac63f3c-4798-4ce7-ba22-9c6f369ad59f",
+            "clue": "Private messages on e.g. Instagram",
+            "answer": "dms",
+            "normalized": "dms"
           },
           {
-            "id": "f1c6dff9-e576-4844-9572-46e8bb54720a",
-            "clue": "Writer and Nobel Prize winner Ishiguro",
-            "answer": "kazuo",
-            "normalized": "kazuo"
+            "id": "1b79f96f-f8f1-43bc-b7b0-0efd21a37ce9",
+            "clue": "Scaly reptile with four legs and a tail",
+            "answer": "lizard",
+            "normalized": "lizard"
           },
           {
-            "id": "37ad6f93-e14b-4de9-9098-9e8fe70253d9",
-            "clue": "Prefix meaning within",
-            "answer": "intra",
-            "normalized": "intra"
+            "id": "967e28e1-1f3a-4341-af66-d90bda7458bd",
+            "clue": "Underside, opposite of top",
+            "answer": "bottom",
+            "normalized": "bottom"
           },
           {
-            "id": "8d7042da-b379-43e4-a367-1a69894dec99",
-            "clue": "Wants and necessary things to a person",
-            "answer": "needs",
-            "normalized": "needs"
+            "id": "562d83d6-2f21-404d-bc2f-08067b6626ab",
+            "clue": "Treads heavily",
+            "answer": "stomps",
+            "normalized": "stomps"
           },
           {
-            "id": "1f88d4ee-b203-43ec-b700-485ad18aa2d6",
-            "clue": "Slice, chop",
-            "answer": "cut",
-            "normalized": "cut"
+            "id": "a2e9a009-b4ea-4d96-b6d8-a108b7672d9f",
+            "clue": "Chimpanzees, gibbons and gorillas",
+            "answer": "apes",
+            "normalized": "apes"
+          },
+          {
+            "id": "0276a75d-f372-4057-985d-ecf69e213513",
+            "clue": "How Brits, Aussies and Canadians say the letter Z",
+            "answer": "zed",
+            "normalized": "zed"
           }
         ],
-        "track": "PC|LenC--Y2026M8D13F0"
+        "track": "PC|LenC--Y2026M8D14F0"
       },
       "mid": {
-        "puzzleId": "59f59e61-77e1-4a61-9287-6b329c34d74a",
+        "puzzleId": "ca37cb46-8827-4a15-afdf-602136f5ede4",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "b1c6ec81-c576-4afc-bb35-9a09a94e89fb",
-            "clue": "Comes to a finish",
-            "answer": "ends",
-            "normalized": "ends"
+            "id": "b6c98722-bb95-4c0d-af95-aa3dad0945a3",
+            "clue": "Bodybuilding back muscle used by rowers",
+            "answer": "lat",
+            "normalized": "lat"
           },
           {
-            "id": "9778c5bb-c452-40eb-b049-3a9555a9ad2a",
-            "clue": "On a ship, this is the word for behind",
-            "answer": "aft",
-            "normalized": "aft"
+            "id": "4590f8f3-796d-47da-84cd-bc9bdbd8cd03",
+            "clue": "Three letters that mean highest common factor",
+            "answer": "hcf",
+            "normalized": "hcf"
           },
           {
-            "id": "2838f527-24c4-4230-9985-3d1a056d5d82",
-            "clue": "A left-handed pitcher",
-            "answer": "southpaw",
-            "normalized": "southpaw"
+            "id": "92af272a-68e6-4494-875d-16d5e425bcda",
+            "clue": "American navy ships have this prefix",
+            "answer": "uss",
+            "normalized": "uss"
           },
           {
-            "id": "760b775b-c16e-4153-afbe-d17aaa188cd7",
-            "clue": "California site of Hewlett-Packard, Gigabeat HQs",
-            "answer": "palo alto",
-            "normalized": "paloalto"
+            "id": "d678a81b-70af-425d-9c33-530b27917932",
+            "clue": "Old-timey exclamation of surprise",
+            "answer": "oho",
+            "normalized": "oho"
           },
           {
-            "id": "7a13b0ce-460e-4f48-b8a9-579979627751",
-            "clue": "Coastal capital of Togo",
-            "answer": "lome",
-            "normalized": "lome"
+            "id": "736c2aff-3aba-41dc-bc83-a6510cfa24c7",
+            "clue": "One of the sections a book is divided into",
+            "answer": "chapter",
+            "normalized": "chapter"
           },
           {
-            "id": "162ddff8-c70c-4c1d-835b-ee73748f4e3f",
-            "clue": "Gangs of robbers who ambush victims",
-            "answer": "brigands",
-            "normalized": "brigands"
+            "id": "38d7b03e-f4e9-462f-a705-7ab4c01b0472",
+            "clue": "Jeopardy host till 2020, once famously moustached",
+            "answer": "trebek",
+            "normalized": "trebek"
           },
           {
-            "id": "9d5b6322-5082-4d87-bda3-a67f2f1de2f6",
-            "clue": "Small dining rooms",
-            "answer": "dinettes",
-            "normalized": "dinettes"
+            "id": "f3b4208a-25c5-4ae9-aba2-a3c9ad729630",
+            "clue": "Seafarer, person who operates a boat",
+            "answer": "sailor",
+            "normalized": "sailor"
           },
           {
-            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
-            "clue": "Acronym for a UN Sustainable Development Goal",
-            "answer": "sdg",
-            "normalized": "sdg"
+            "id": "e16bc248-0162-4f4f-8ed7-cb70e58b35b3",
+            "clue": "Takes territory from bordering country",
+            "answer": "annexes",
+            "normalized": "annexes"
           },
           {
-            "id": "987be285-52d7-4907-9ecf-6b7e28d9dc68",
-            "clue": "Looked at with intent",
-            "answer": "eyed",
-            "normalized": "eyed"
+            "id": "195ef076-d01f-45bb-b3f7-f4a65fb141f8",
+            "clue": "Three-letter code for Nigeria",
+            "answer": "nga",
+            "normalized": "nga"
           },
           {
-            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
-            "clue": "Sixth sense, in short",
-            "answer": "esp",
-            "normalized": "esp"
+            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
+            "clue": "Distinct stage in history or evolution",
+            "answer": "era",
+            "normalized": "era"
           },
           {
-            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
-            "clue": "Net Operating Assets in business speak",
-            "answer": "noa",
-            "normalized": "noa"
+            "id": "cac3dc66-bc02-4b0b-a190-7837fa779fab",
+            "clue": "German neuter form of \"the\"",
+            "answer": "das",
+            "normalized": "das"
           },
           {
-            "id": "b39a48a1-f844-44ea-9d75-911e702526b3",
-            "clue": "Making less shiny",
-            "answer": "dulling",
-            "normalized": "dulling"
+            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
+            "clue": "South-southwest for short",
+            "answer": "ssw",
+            "normalized": "ssw"
           },
           {
-            "id": "888901a6-4081-4004-be02-67426c0d89df",
-            "clue": "Someone exploited as part of a crime",
-            "answer": "stooge",
-            "normalized": "stooge"
+            "id": "902f1d91-6d29-4d4c-b7af-ca0eb82f6e40",
+            "clue": "Name after Jean, before Godard for film director",
+            "answer": "luc",
+            "normalized": "luc"
           },
           {
-            "id": "d0333e53-6135-480c-af7b-db1af8da7219",
-            "clue": "Generous in quantity; anagram of penalty",
-            "answer": "aplenty",
-            "normalized": "aplenty"
+            "id": "2e7315c2-1732-480a-9cf2-87058ce6fd9e",
+            "clue": "Vinyasa-style yoga with poses in sequence",
+            "answer": "ashtanga",
+            "normalized": "ashtanga"
           },
           {
-            "id": "568d620b-5a8e-4138-89eb-96d91f503cfe",
-            "clue": "Oil or grease",
-            "answer": "fat",
-            "normalized": "fat"
+            "id": "f261e3fc-4694-4807-b441-798dc39cd9f6",
+            "clue": "Empresses of Russia",
+            "answer": "tsarinas",
+            "normalized": "tsarinas"
           },
           {
-            "id": "0ba9d7a9-69fd-4f0b-9327-ee9d5e149251",
-            "clue": "One plus one",
-            "answer": "two",
-            "normalized": "two"
+            "id": "d1092313-ac3e-4bf9-a56d-844069bb103e",
+            "clue": "Overheated axles on trains",
+            "answer": "hotboxes",
+            "normalized": "hotboxes"
           },
           {
-            "id": "da4f0cf4-f6c3-458b-82a6-2817eb5c9ed8",
-            "clue": "Hook-shaped bone in the wrist",
-            "answer": "hamate",
-            "normalized": "hamate"
+            "id": "110ecd5b-2df4-47fe-a34f-5463004321e5",
+            "clue": "Encouragers",
+            "answer": "cheerers",
+            "normalized": "cheerers"
           },
           {
-            "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
-            "clue": "Bachelor of Dental Surgery",
-            "answer": "bds",
-            "normalized": "bds"
+            "id": "ac4ebe7e-867c-4c3b-870d-e29defb0e0e7",
+            "clue": "Utensil partner of knife and spoon",
+            "answer": "fork",
+            "normalized": "fork"
           },
           {
-            "id": "6707a8e6-c4f3-4cae-9a1c-7e1272c86b68",
-            "clue": "Free oneself of something",
-            "answer": "rid",
-            "normalized": "rid"
+            "id": "4293d742-11b3-4b1b-a813-a0240e1b26d9",
+            "clue": "Brazil soccer legend, Edson Arantes do Nascimento",
+            "answer": "pele",
+            "normalized": "pele"
           },
           {
-            "id": "cbfad7dc-0d19-46f4-8879-2e65bc99c927",
-            "clue": "Entry for the letter D in the dictionary",
-            "answer": "dee",
-            "normalized": "dee"
+            "id": "ebfcf6bb-596c-45c6-aeba-b1efd9ef8d69",
+            "clue": "Material that makes up beaches",
+            "answer": "sand",
+            "normalized": "sand"
           },
           {
-            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
-            "clue": "High-speed computer storage with no moving parts",
-            "answer": "ssd",
-            "normalized": "ssd"
+            "id": "eecc3b99-07bf-4cd2-b000-a0c7045094f4",
+            "clue": "Spied, as in “I spy with my little eye…”",
+            "answer": "saw",
+            "normalized": "saw"
           }
         ],
-        "track": "PC|LenC--Y2026M8D13F1"
+        "track": "PC|LenC--Y2026M8D14F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-13",
+      "key": "2026-08-14",
       "year": 2026,
       "month": 8,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "d1615830-6c47-4067-bf26-c578dad04f73",
+        "puzzleId": "1fceb8e9-876f-44f3-a316-37fec6dd5161",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 4,
         "answers": [
           {
-            "id": "fea93e85-d81d-4080-b2a8-314827c93500",
-            "clue": "Related to, like another thing",
-            "answer": "akin",
-            "normalized": "akin"
+            "id": "a6157d37-7d72-40b1-8c10-bb4bb099c14a",
+            "clue": "Abbreviation for units that have 16 ounces in them",
+            "answer": "lbs",
+            "normalized": "lbs"
           },
           {
-            "id": "84e3fc3d-4d60-4414-b5a2-34ef0c0f02e6",
-            "clue": "Horse's neck hair",
-            "answer": "mane",
-            "normalized": "mane"
+            "id": "afd61481-525a-4236-81b0-ac499eca32ef",
+            "clue": "Tiny bit",
+            "answer": "iota",
+            "normalized": "iota"
           },
           {
-            "id": "559bad4b-e87d-4352-b483-98f87e3891da",
-            "clue": "Native empire of Mexico",
-            "answer": "aztec",
-            "normalized": "aztec"
+            "id": "fb117307-4da9-49a5-be42-5b3867486bf2",
+            "clue": "US rock band known for very long beards",
+            "answer": "zz top",
+            "normalized": "zztop"
           },
           {
-            "id": "8613b83e-9021-4689-a64b-25d370986803",
-            "clue": "Official national language of Pakistan",
-            "answer": "urdu",
-            "normalized": "urdu"
+            "id": "eef51ae8-8efd-49ca-bdbe-32bc15efc525",
+            "clue": "Two words on the cake in Alice in Wonderland",
+            "answer": "eat me",
+            "normalized": "eatme"
           },
           {
-            "id": "31f144cc-09b0-4259-93e7-c448b7e935e2",
-            "clue": "Cone-shaped agricultural kiln for drying hops",
-            "answer": "oast",
-            "normalized": "oast"
+            "id": "dca92b48-e262-4bb7-a82e-240cb0d319b2",
+            "clue": "Bright, dome shaped candies, chewy and sweet",
+            "answer": "drops",
+            "normalized": "drops"
           },
           {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
+            "id": "6ac63f3c-4798-4ce7-ba22-9c6f369ad59f",
+            "clue": "Private messages on e.g. Instagram",
+            "answer": "dms",
+            "normalized": "dms"
           },
           {
-            "id": "f1c6dff9-e576-4844-9572-46e8bb54720a",
-            "clue": "Writer and Nobel Prize winner Ishiguro",
-            "answer": "kazuo",
-            "normalized": "kazuo"
+            "id": "1b79f96f-f8f1-43bc-b7b0-0efd21a37ce9",
+            "clue": "Scaly reptile with four legs and a tail",
+            "answer": "lizard",
+            "normalized": "lizard"
           },
           {
-            "id": "37ad6f93-e14b-4de9-9098-9e8fe70253d9",
-            "clue": "Prefix meaning within",
-            "answer": "intra",
-            "normalized": "intra"
+            "id": "967e28e1-1f3a-4341-af66-d90bda7458bd",
+            "clue": "Underside, opposite of top",
+            "answer": "bottom",
+            "normalized": "bottom"
           },
           {
-            "id": "8d7042da-b379-43e4-a367-1a69894dec99",
-            "clue": "Wants and necessary things to a person",
-            "answer": "needs",
-            "normalized": "needs"
+            "id": "562d83d6-2f21-404d-bc2f-08067b6626ab",
+            "clue": "Treads heavily",
+            "answer": "stomps",
+            "normalized": "stomps"
           },
           {
-            "id": "1f88d4ee-b203-43ec-b700-485ad18aa2d6",
-            "clue": "Slice, chop",
-            "answer": "cut",
-            "normalized": "cut"
+            "id": "a2e9a009-b4ea-4d96-b6d8-a108b7672d9f",
+            "clue": "Chimpanzees, gibbons and gorillas",
+            "answer": "apes",
+            "normalized": "apes"
+          },
+          {
+            "id": "0276a75d-f372-4057-985d-ecf69e213513",
+            "clue": "How Brits, Aussies and Canadians say the letter Z",
+            "answer": "zed",
+            "normalized": "zed"
           }
         ],
-        "track": "PC|LenC--Y2026M8D13F0"
+        "track": "PC|LenC--Y2026M8D14F0"
       },
       "mid": {
-        "puzzleId": "59f59e61-77e1-4a61-9287-6b329c34d74a",
+        "puzzleId": "ca37cb46-8827-4a15-afdf-602136f5ede4",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "b1c6ec81-c576-4afc-bb35-9a09a94e89fb",
-            "clue": "Comes to a finish",
-            "answer": "ends",
-            "normalized": "ends"
+            "id": "b6c98722-bb95-4c0d-af95-aa3dad0945a3",
+            "clue": "Bodybuilding back muscle used by rowers",
+            "answer": "lat",
+            "normalized": "lat"
           },
           {
-            "id": "9778c5bb-c452-40eb-b049-3a9555a9ad2a",
-            "clue": "On a ship, this is the word for behind",
-            "answer": "aft",
-            "normalized": "aft"
+            "id": "4590f8f3-796d-47da-84cd-bc9bdbd8cd03",
+            "clue": "Three letters that mean highest common factor",
+            "answer": "hcf",
+            "normalized": "hcf"
           },
           {
-            "id": "2838f527-24c4-4230-9985-3d1a056d5d82",
-            "clue": "A left-handed pitcher",
-            "answer": "southpaw",
-            "normalized": "southpaw"
+            "id": "92af272a-68e6-4494-875d-16d5e425bcda",
+            "clue": "American navy ships have this prefix",
+            "answer": "uss",
+            "normalized": "uss"
           },
           {
-            "id": "760b775b-c16e-4153-afbe-d17aaa188cd7",
-            "clue": "California site of Hewlett-Packard, Gigabeat HQs",
-            "answer": "palo alto",
-            "normalized": "paloalto"
+            "id": "d678a81b-70af-425d-9c33-530b27917932",
+            "clue": "Old-timey exclamation of surprise",
+            "answer": "oho",
+            "normalized": "oho"
           },
           {
-            "id": "7a13b0ce-460e-4f48-b8a9-579979627751",
-            "clue": "Coastal capital of Togo",
-            "answer": "lome",
-            "normalized": "lome"
+            "id": "736c2aff-3aba-41dc-bc83-a6510cfa24c7",
+            "clue": "One of the sections a book is divided into",
+            "answer": "chapter",
+            "normalized": "chapter"
           },
           {
-            "id": "162ddff8-c70c-4c1d-835b-ee73748f4e3f",
-            "clue": "Gangs of robbers who ambush victims",
-            "answer": "brigands",
-            "normalized": "brigands"
+            "id": "38d7b03e-f4e9-462f-a705-7ab4c01b0472",
+            "clue": "Jeopardy host till 2020, once famously moustached",
+            "answer": "trebek",
+            "normalized": "trebek"
           },
           {
-            "id": "9d5b6322-5082-4d87-bda3-a67f2f1de2f6",
-            "clue": "Small dining rooms",
-            "answer": "dinettes",
-            "normalized": "dinettes"
+            "id": "f3b4208a-25c5-4ae9-aba2-a3c9ad729630",
+            "clue": "Seafarer, person who operates a boat",
+            "answer": "sailor",
+            "normalized": "sailor"
           },
           {
-            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
-            "clue": "Acronym for a UN Sustainable Development Goal",
-            "answer": "sdg",
-            "normalized": "sdg"
+            "id": "e16bc248-0162-4f4f-8ed7-cb70e58b35b3",
+            "clue": "Takes territory from bordering country",
+            "answer": "annexes",
+            "normalized": "annexes"
           },
           {
-            "id": "987be285-52d7-4907-9ecf-6b7e28d9dc68",
-            "clue": "Looked at with intent",
-            "answer": "eyed",
-            "normalized": "eyed"
+            "id": "195ef076-d01f-45bb-b3f7-f4a65fb141f8",
+            "clue": "Three-letter code for Nigeria",
+            "answer": "nga",
+            "normalized": "nga"
           },
           {
-            "id": "22fed224-16c6-443f-a2f3-64eeab372fa4",
-            "clue": "Sixth sense, in short",
-            "answer": "esp",
-            "normalized": "esp"
+            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
+            "clue": "Distinct stage in history or evolution",
+            "answer": "era",
+            "normalized": "era"
           },
           {
-            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
-            "clue": "Net Operating Assets in business speak",
-            "answer": "noa",
-            "normalized": "noa"
+            "id": "cac3dc66-bc02-4b0b-a190-7837fa779fab",
+            "clue": "German neuter form of \"the\"",
+            "answer": "das",
+            "normalized": "das"
           },
           {
-            "id": "b39a48a1-f844-44ea-9d75-911e702526b3",
-            "clue": "Making less shiny",
-            "answer": "dulling",
-            "normalized": "dulling"
+            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
+            "clue": "South-southwest for short",
+            "answer": "ssw",
+            "normalized": "ssw"
           },
           {
-            "id": "888901a6-4081-4004-be02-67426c0d89df",
-            "clue": "Someone exploited as part of a crime",
-            "answer": "stooge",
-            "normalized": "stooge"
+            "id": "902f1d91-6d29-4d4c-b7af-ca0eb82f6e40",
+            "clue": "Name after Jean, before Godard for film director",
+            "answer": "luc",
+            "normalized": "luc"
           },
           {
-            "id": "d0333e53-6135-480c-af7b-db1af8da7219",
-            "clue": "Generous in quantity; anagram of penalty",
-            "answer": "aplenty",
-            "normalized": "aplenty"
+            "id": "2e7315c2-1732-480a-9cf2-87058ce6fd9e",
+            "clue": "Vinyasa-style yoga with poses in sequence",
+            "answer": "ashtanga",
+            "normalized": "ashtanga"
           },
           {
-            "id": "568d620b-5a8e-4138-89eb-96d91f503cfe",
-            "clue": "Oil or grease",
-            "answer": "fat",
-            "normalized": "fat"
+            "id": "f261e3fc-4694-4807-b441-798dc39cd9f6",
+            "clue": "Empresses of Russia",
+            "answer": "tsarinas",
+            "normalized": "tsarinas"
           },
           {
-            "id": "0ba9d7a9-69fd-4f0b-9327-ee9d5e149251",
-            "clue": "One plus one",
-            "answer": "two",
-            "normalized": "two"
+            "id": "d1092313-ac3e-4bf9-a56d-844069bb103e",
+            "clue": "Overheated axles on trains",
+            "answer": "hotboxes",
+            "normalized": "hotboxes"
           },
           {
-            "id": "da4f0cf4-f6c3-458b-82a6-2817eb5c9ed8",
-            "clue": "Hook-shaped bone in the wrist",
-            "answer": "hamate",
-            "normalized": "hamate"
+            "id": "110ecd5b-2df4-47fe-a34f-5463004321e5",
+            "clue": "Encouragers",
+            "answer": "cheerers",
+            "normalized": "cheerers"
           },
           {
-            "id": "0596fc61-01b7-45c2-ac38-a21eb9140853",
-            "clue": "Bachelor of Dental Surgery",
-            "answer": "bds",
-            "normalized": "bds"
+            "id": "ac4ebe7e-867c-4c3b-870d-e29defb0e0e7",
+            "clue": "Utensil partner of knife and spoon",
+            "answer": "fork",
+            "normalized": "fork"
           },
           {
-            "id": "6707a8e6-c4f3-4cae-9a1c-7e1272c86b68",
-            "clue": "Free oneself of something",
-            "answer": "rid",
-            "normalized": "rid"
+            "id": "4293d742-11b3-4b1b-a813-a0240e1b26d9",
+            "clue": "Brazil soccer legend, Edson Arantes do Nascimento",
+            "answer": "pele",
+            "normalized": "pele"
           },
           {
-            "id": "cbfad7dc-0d19-46f4-8879-2e65bc99c927",
-            "clue": "Entry for the letter D in the dictionary",
-            "answer": "dee",
-            "normalized": "dee"
+            "id": "ebfcf6bb-596c-45c6-aeba-b1efd9ef8d69",
+            "clue": "Material that makes up beaches",
+            "answer": "sand",
+            "normalized": "sand"
           },
           {
-            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
-            "clue": "High-speed computer storage with no moving parts",
-            "answer": "ssd",
-            "normalized": "ssd"
+            "id": "eecc3b99-07bf-4cd2-b000-a0c7045094f4",
+            "clue": "Spied, as in “I spy with my little eye…”",
+            "answer": "saw",
+            "normalized": "saw"
           }
         ],
-        "track": "PC|LenC--Y2026M8D13F1"
+        "track": "PC|LenC--Y2026M8D14F1"
       }
     },
     "latestAvailableEntry": {
@@ -434804,21 +434816,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "kyKxdolFrIBibSCjh6oq++VR0dlt2ExPsN/E2od8V0JiesH38OyZQranH6ggFynPNrw6C/KglYRD/fy9xBxVk+6uoAXmPgx5EUBPTMkK2Kgp8LBM2XjOc6BMlgRSyHELzH2Iv3W38CR0aOtZ7Q9CO1zVpzmo/DMmFSTAowokyr2HLIWNHdY0F5jt8uQoJ6ln93DMGhgLCjjGJOobd4244G866LTSKZtfGm3s3JLxPOsWKdnET7HeJ1W47rnJXF7QbSi2OCs2cecR8MHzFkOW9W5RV4c+bIy5AeHBWrbt8Ew="
+        "kzuaT1c+b2jM/yvvPuf0CeCfK3h5iSzrjzwsHpT2+N+cS4fVi0DZk3XnmYPmXKgW6uvK4dN4WIQkN+X6OQi6x+M/7PFt68NnKC2KRC4sIiZr2tdbi68kDlUCPv3CPtPP1aYW1Ymn0IuylWPHyCFE77cbax0gAkl4p2UAr15+H5WjDkhEBcO9myqliNiZgiB5kCXAhTo51QbHPNdglzrLHfI/+8eW1cudGs95U1JJnna51Bl9nIRfgYDNiuaVA+bIEInce7YrEwPsawUYTQa59W+j9lUwTmOIDLBIzQExt94="
       ]
     },
     "decrypted": {
-      "Id": "9b4559cd-7348-465e-8cda-4fd6147ccc8a",
-      "Date": "2026-08-13T00:00:00Z",
+      "Id": "ff967c77-1fa3-4273-8a12-376b1c792a74",
+      "Date": "2026-08-14T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "blame",
-      "NormalizedPassword": "blame",
+      "Password": "scope",
+      "NormalizedPassword": "scope",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-13T01:03:33.4650000+05:30",
-    "hash": "d777ba326b3e3703d1d1467b3eab525a",
+    "dtu": "2026-08-14T01:02:01.6060000+05:30",
+    "hash": "9accaf5f40391a9671385420832ed850",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
