@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T18:53:30.702Z",
+  "generatedAt": "2026-08-16T18:52:26.466Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 16
+    "day": 17
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 28
+        "QuantidadeDeFases": 30
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434118,475 +434118,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-16",
+      "key": "2026-08-17",
       "year": 2026,
       "month": 8,
-      "day": 16,
+      "day": 17,
       "small": {
-        "puzzleId": "6a2c21ce-370b-4440-bf58-ed88fce38c1e",
+        "puzzleId": "065e7722-2242-46dc-bcb1-650060d5a9a5",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 5,
+        "version": 3,
         "answers": [
           {
-            "id": "ef76fade-3be8-4dc5-9eab-da9eb582a8e9",
-            "clue": "Banquet, extravagant meal",
-            "answer": "feast",
-            "normalized": "feast"
+            "id": "8b8d4819-15ba-4053-89ae-e0ac45030187",
+            "clue": "Influenza virus, for short",
+            "answer": "flu",
+            "normalized": "flu"
           },
           {
-            "id": "f4860153-3809-4110-a567-fefbb4ed7d40",
-            "clue": "Foot arch",
-            "answer": "instep",
-            "normalized": "instep"
+            "id": "789bca56-6180-441d-8fb6-fdf43c865cb7",
+            "clue": "Contact __, sight-correcting device",
+            "answer": "lens",
+            "normalized": "lens"
           },
           {
-            "id": "380a9779-57e1-429f-939e-9ff247acb290",
-            "clue": "Place that means \"Naples\" in Italian",
-            "answer": "napoli",
-            "normalized": "napoli"
+            "id": "7443fc0c-6395-4c61-a689-e0326593fa63",
+            "clue": "Famous US multi-level marketing company",
+            "answer": "amway",
+            "normalized": "amway"
           },
           {
-            "id": "4046e71a-9292-4006-b41b-a30d392d5bc2",
-            "clue": "Basic units of life",
-            "answer": "cells",
-            "normalized": "cells"
+            "id": "f81e6409-9607-4f6f-980c-948eba939453",
+            "clue": "Makes someone aware of impending danger",
+            "answer": "warns",
+            "normalized": "warns"
           },
           {
-            "id": "a430aa6f-ed45-4292-b84f-49a7fa9453dc",
-            "clue": "Winner of best screenplay for Anatomy of a Fall",
-            "answer": "triet",
-            "normalized": "triet"
+            "id": "a91563db-80a6-424b-a714-928b8ddaa151",
+            "clue": "Abbreviation for national",
+            "answer": "natl",
+            "normalized": "natl"
           },
           {
-            "id": "abcf034d-6635-462a-80cc-e7f8935d6178",
-            "clue": "Dr. rapper with Aftermath record label",
-            "answer": "dre",
-            "normalized": "dre"
+            "id": "1e0643e8-3965-4c1f-9874-0d6add9f0e48",
+            "clue": "Relaxation location, often with hot springs",
+            "answer": "spa",
+            "normalized": "spa"
           },
           {
-            "id": "5638c69c-65aa-4473-9b0c-1960a34a59a2",
-            "clue": "What a shark has on its back",
-            "answer": "fin",
-            "normalized": "fin"
+            "id": "dbbf8751-99c5-496f-97b9-b2832d9ca4e4",
+            "clue": "Defect that can be fatal",
+            "answer": "flaw",
+            "normalized": "flaw"
           },
           {
-            "id": "45cacbec-c231-4e82-a1aa-baf69ea1eac4",
-            "clue": "Make a bill a law",
-            "answer": "enact",
-            "normalized": "enact"
+            "id": "eb6b6a9d-7d48-4509-916e-6e12739eaf22",
+            "clue": "French motor racing city",
+            "answer": "le mans",
+            "normalized": "lemans"
           },
           {
-            "id": "76c5f790-729f-4e73-81e3-e20f3a9196c9",
-            "clue": "Two words before \"usual\" for in the regular way",
-            "answer": "as per",
-            "normalized": "asper"
+            "id": "f8262439-e026-45e5-81df-abacf0f46650",
+            "clue": "To remove the packaging",
+            "answer": "unwrap",
+            "normalized": "unwrap"
           },
           {
-            "id": "f8f4f8b0-965a-462e-8b7c-7387756ad80b",
-            "clue": "Showing no emotion, serious",
-            "answer": "stolid",
-            "normalized": "stolid"
+            "id": "b9d378b3-d59a-470d-a1cc-0a4d547cbc52",
+            "clue": "Christmas giver of gifts to the nice",
+            "answer": "santa",
+            "normalized": "santa"
           },
           {
-            "id": "60e41a13-25c8-4717-953a-e231f27f1583",
-            "clue": "Penn and __, mute half of comedy-magic duo",
-            "answer": "teller",
-            "normalized": "teller"
-          },
-          {
-            "id": "2eddc0bf-6a1f-429f-b1cc-a3555a693240",
-            "clue": "Ski slope",
-            "answer": "piste",
-            "normalized": "piste"
+            "id": "fe564914-7312-4eca-add0-bc1d388b987e",
+            "clue": "Haute couture fashion brand formed 1961, initials",
+            "answer": "ysl",
+            "normalized": "ysl"
           }
         ],
-        "track": "PC|LenC--Y2026M8D16F0"
+        "track": "PC|LenC--Y2026M8D17F0"
       },
       "mid": {
-        "puzzleId": "d8b1fe79-975a-4375-aa27-6c8ad618958e",
+        "puzzleId": "146d07a1-f731-475c-a1ff-c9da2731246e",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "4eb55072-8d9f-44e0-8496-689f8adc4f5f",
-            "clue": "Abbreviated and informal term for Christmas",
-            "answer": "xmas",
-            "normalized": "xmas"
+            "id": "6f0afa5f-a978-4983-9c21-70c97caaadc0",
+            "clue": "Grand party or ball",
+            "answer": "gala",
+            "normalized": "gala"
           },
           {
-            "id": "11dfe73b-b96c-4c2b-befe-15998dd1730c",
-            "clue": "Cleaning tool that looks like a wet broom",
-            "answer": "mop",
-            "normalized": "mop"
+            "id": "317b0f11-140d-4db5-b166-7201bbfc660a",
+            "clue": "Denoting an ideology or doctrine",
+            "answer": "ism",
+            "normalized": "ism"
           },
           {
-            "id": "fb05a7b9-4b9c-46d8-8c98-4afbd624b983",
-            "clue": "A poetic word for valley",
-            "answer": "vale",
-            "normalized": "vale"
+            "id": "dd3a41c4-f08b-4af5-9c98-3415eb104dcd",
+            "clue": "Asian island country with capital Jakarta",
+            "answer": "indonesia",
+            "normalized": "indonesia"
           },
           {
-            "id": "cd882df8-37e1-42dd-84fc-1faa0d66f152",
-            "clue": "Last name of Anywhere singer Rita",
-            "answer": "ora",
-            "normalized": "ora"
+            "id": "ff652638-cccc-4a37-bd21-d29f03fd92c2",
+            "clue": "Amount of medicine taken every day",
+            "answer": "daily dose",
+            "normalized": "dailydose"
           },
           {
-            "id": "20170a12-2bb6-4fe7-a33b-b29a99d1dbd7",
-            "clue": "Eric who Always Looks on the Bright Side of Life",
-            "answer": "idle",
-            "normalized": "idle"
+            "id": "8b727330-f071-4145-a11a-e6ad24e58263",
+            "clue": "Scheduled time of arrival, in short",
+            "answer": "sta",
+            "normalized": "sta"
           },
           {
-            "id": "496c2f98-31dc-4cd4-8b30-e76f57a398d0",
-            "clue": "Abbreviation for original equipment manufacturer",
-            "answer": "oem",
-            "normalized": "oem"
+            "id": "c6f313fb-eaeb-4456-84ea-ba8329393b1d",
+            "clue": "One of 24 circles on a Twister mat",
+            "answer": "dot",
+            "normalized": "dot"
           },
           {
-            "id": "784355dd-9927-4fd2-bccf-1c18faa4567d",
-            "clue": "__ Medan, Dutch ship shrouded in mystery",
-            "answer": "ourang",
-            "normalized": "ourang"
+            "id": "1dfca015-973c-44fe-ab14-f70df7f6250e",
+            "clue": "Neither's partner",
+            "answer": "nor",
+            "normalized": "nor"
           },
           {
-            "id": "17e7c9a3-0f85-48fd-ab67-7f21f91a13f8",
-            "clue": "Three-letter country code for India",
-            "answer": "ind",
-            "normalized": "ind"
+            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
+            "clue": "Possess",
+            "answer": "own",
+            "normalized": "own"
           },
           {
-            "id": "32cda05e-9b05-467e-ad6b-f917362ab8c5",
-            "clue": "Slang for the day you were born",
-            "answer": "bday",
-            "normalized": "bday"
+            "id": "9500169b-d046-467a-8119-277064f546f5",
+            "clue": "Dairy spread in a small individual serving",
+            "answer": "butter pat",
+            "normalized": "butterpat"
           },
           {
-            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
-            "clue": "On a compass, the opposite of SSW",
-            "answer": "nne",
-            "normalized": "nne"
+            "id": "e8c26dcc-2bb3-4986-9134-f83912c02068",
+            "clue": "Fighting a holy campaign",
+            "answer": "crusading",
+            "normalized": "crusading"
           },
           {
-            "id": "164e1899-4ae2-4831-afec-4277d45834dd",
-            "clue": "This Ranger is by himself",
-            "answer": "lone",
-            "normalized": "lone"
+            "id": "66f83741-26ed-46d8-9c66-8ffbcbda71d5",
+            "clue": "Type of tree that can have a Dutch disease",
+            "answer": "elm",
+            "normalized": "elm"
           },
           {
-            "id": "8558bd00-7bce-485a-be60-983392b5052d",
-            "clue": "New craze or trend",
-            "answer": "fad",
-            "normalized": "fad"
+            "id": "80265380-cdb6-4530-94ae-a87ae148d786",
+            "clue": "Outer coating of nutmeg",
+            "answer": "mace",
+            "normalized": "mace"
           },
           {
-            "id": "d9a1f9df-4d7c-4aaf-b95e-31afe2c39066",
-            "clue": "Harold Ramis character in Ghostbusters",
-            "answer": "egon",
-            "normalized": "egon"
+            "id": "bd36fce9-625f-4845-b99a-65d3c27e291a",
+            "clue": "Small, biting fly",
+            "answer": "gnat",
+            "normalized": "gnat"
           },
           {
-            "id": "b2226ee6-76aa-4079-a772-eba047fc345a",
-            "clue": "16 in Roman numerals",
-            "answer": "xvi",
-            "normalized": "xvi"
+            "id": "b34cae7f-b5b2-47c9-8858-b7b45d4dcaab",
+            "clue": "Variety of fern that needs constantly damp soil",
+            "answer": "adiantum",
+            "normalized": "adiantum"
           },
           {
-            "id": "850b76e3-4001-492d-8f24-f83358219a2f",
-            "clue": "Popstar who sang the Bond theme Die Another Day",
-            "answer": "madonna",
-            "normalized": "madonna"
+            "id": "e21a6629-f5fe-42d2-99b4-54d498ae1d5c",
+            "clue": "Text acronym for laughing out loud",
+            "answer": "lol",
+            "normalized": "lol"
           },
           {
-            "id": "35e42a3c-1de5-458b-be83-c0a69973c32a",
-            "clue": "Referred to something casually, indirectly",
-            "answer": "alluded",
-            "normalized": "alluded"
+            "id": "03e51681-b9d6-4a6d-abb4-d0e2a6b934f7",
+            "clue": "__ Will Do; Lloyd Webber hit from Joseph musical",
+            "answer": "any dream",
+            "normalized": "anydream"
           },
           {
-            "id": "4e2928b4-5d21-4f18-a117-11eb80592e38",
-            "clue": "Someone with clairvoyance",
-            "answer": "seer",
-            "normalized": "seer"
+            "id": "dc79bc0b-0ca0-407a-a60d-875d84d8e182",
+            "clue": "Involving isotopes",
+            "answer": "isotopic",
+            "normalized": "isotopic"
           },
           {
-            "id": "ac2097f0-feaa-4b04-8c68-207da72a80d3",
-            "clue": "Bright spot made by ice crystals on a lunar halo",
-            "answer": "moon dog",
-            "normalized": "moondog"
+            "id": "67251ca2-1d7d-41c9-b9cf-61be857d0095",
+            "clue": "Bro's female sibling",
+            "answer": "sis",
+            "normalized": "sis"
           },
           {
-            "id": "199f054e-4178-407a-97c8-3b7f67e5b908",
-            "clue": "Herb in the mint family, used in Italian cooking",
-            "answer": "oregano",
-            "normalized": "oregano"
+            "id": "abfa56b5-4b41-46f1-871f-b69f39d105cb",
+            "clue": "Astronaut Jemison, first Black woman in space",
+            "answer": "mae",
+            "normalized": "mae"
           },
           {
-            "id": "09f255c9-29ff-48a7-8192-af7a7b598976",
-            "clue": "Jim's love interest in The Office",
-            "answer": "pam",
-            "normalized": "pam"
+            "id": "956c65ba-1900-43bb-9805-8b1a199ae998",
+            "clue": "Passports or licences, for example",
+            "answer": "ids",
+            "normalized": "ids"
           },
           {
-            "id": "a37e9385-5934-4a39-9461-8e524d03e516",
-            "clue": "Qualified, allowed",
-            "answer": "able",
-            "normalized": "able"
+            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
+            "clue": "Former name of Tokyo",
+            "answer": "edo",
+            "normalized": "edo"
           },
           {
-            "id": "8a3778a9-8704-45f9-a48b-639d2e1af760",
-            "clue": "Previous name of World Netball, initialism",
-            "answer": "inf",
-            "normalized": "inf"
+            "id": "1313fe77-0287-4f89-98ef-35a1b872234f",
+            "clue": "Abbreviation for occupational therapists",
+            "answer": "ots",
+            "normalized": "ots"
           },
           {
-            "id": "9ea5cc8b-70e6-492a-abbf-39d1deae914f",
-            "clue": "Japanese currency unit",
-            "answer": "yen",
-            "normalized": "yen"
+            "id": "9e7cd299-85d9-491c-a437-e5b274de2a06",
+            "clue": "What the Moon does after wax",
+            "answer": "wane",
+            "normalized": "wane"
+          },
+          {
+            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
+            "clue": "Medical abbreviation for nitroglycerin",
+            "answer": "ntg",
+            "normalized": "ntg"
+          },
+          {
+            "id": "aad6eb0e-0d72-4fc0-8cc0-281b062e2edb",
+            "clue": "Era before Common Era",
+            "answer": "bce",
+            "normalized": "bce"
+          },
+          {
+            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
+            "clue": "Web address",
+            "answer": "url",
+            "normalized": "url"
+          },
+          {
+            "id": "1a9c86c5-b454-40f9-a818-10ba67205cb1",
+            "clue": "In nutrition, it's recommended dietary allowance",
+            "answer": "rda",
+            "normalized": "rda"
           }
         ],
-        "track": "PC|LenC--Y2026M8D16F1"
+        "track": "PC|LenC--Y2026M8D17F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-16",
+      "key": "2026-08-17",
       "year": 2026,
       "month": 8,
-      "day": 16,
+      "day": 17,
       "small": {
-        "puzzleId": "6a2c21ce-370b-4440-bf58-ed88fce38c1e",
+        "puzzleId": "065e7722-2242-46dc-bcb1-650060d5a9a5",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 5,
+        "version": 3,
         "answers": [
           {
-            "id": "ef76fade-3be8-4dc5-9eab-da9eb582a8e9",
-            "clue": "Banquet, extravagant meal",
-            "answer": "feast",
-            "normalized": "feast"
+            "id": "8b8d4819-15ba-4053-89ae-e0ac45030187",
+            "clue": "Influenza virus, for short",
+            "answer": "flu",
+            "normalized": "flu"
           },
           {
-            "id": "f4860153-3809-4110-a567-fefbb4ed7d40",
-            "clue": "Foot arch",
-            "answer": "instep",
-            "normalized": "instep"
+            "id": "789bca56-6180-441d-8fb6-fdf43c865cb7",
+            "clue": "Contact __, sight-correcting device",
+            "answer": "lens",
+            "normalized": "lens"
           },
           {
-            "id": "380a9779-57e1-429f-939e-9ff247acb290",
-            "clue": "Place that means \"Naples\" in Italian",
-            "answer": "napoli",
-            "normalized": "napoli"
+            "id": "7443fc0c-6395-4c61-a689-e0326593fa63",
+            "clue": "Famous US multi-level marketing company",
+            "answer": "amway",
+            "normalized": "amway"
           },
           {
-            "id": "4046e71a-9292-4006-b41b-a30d392d5bc2",
-            "clue": "Basic units of life",
-            "answer": "cells",
-            "normalized": "cells"
+            "id": "f81e6409-9607-4f6f-980c-948eba939453",
+            "clue": "Makes someone aware of impending danger",
+            "answer": "warns",
+            "normalized": "warns"
           },
           {
-            "id": "a430aa6f-ed45-4292-b84f-49a7fa9453dc",
-            "clue": "Winner of best screenplay for Anatomy of a Fall",
-            "answer": "triet",
-            "normalized": "triet"
+            "id": "a91563db-80a6-424b-a714-928b8ddaa151",
+            "clue": "Abbreviation for national",
+            "answer": "natl",
+            "normalized": "natl"
           },
           {
-            "id": "abcf034d-6635-462a-80cc-e7f8935d6178",
-            "clue": "Dr. rapper with Aftermath record label",
-            "answer": "dre",
-            "normalized": "dre"
+            "id": "1e0643e8-3965-4c1f-9874-0d6add9f0e48",
+            "clue": "Relaxation location, often with hot springs",
+            "answer": "spa",
+            "normalized": "spa"
           },
           {
-            "id": "5638c69c-65aa-4473-9b0c-1960a34a59a2",
-            "clue": "What a shark has on its back",
-            "answer": "fin",
-            "normalized": "fin"
+            "id": "dbbf8751-99c5-496f-97b9-b2832d9ca4e4",
+            "clue": "Defect that can be fatal",
+            "answer": "flaw",
+            "normalized": "flaw"
           },
           {
-            "id": "45cacbec-c231-4e82-a1aa-baf69ea1eac4",
-            "clue": "Make a bill a law",
-            "answer": "enact",
-            "normalized": "enact"
+            "id": "eb6b6a9d-7d48-4509-916e-6e12739eaf22",
+            "clue": "French motor racing city",
+            "answer": "le mans",
+            "normalized": "lemans"
           },
           {
-            "id": "76c5f790-729f-4e73-81e3-e20f3a9196c9",
-            "clue": "Two words before \"usual\" for in the regular way",
-            "answer": "as per",
-            "normalized": "asper"
+            "id": "f8262439-e026-45e5-81df-abacf0f46650",
+            "clue": "To remove the packaging",
+            "answer": "unwrap",
+            "normalized": "unwrap"
           },
           {
-            "id": "f8f4f8b0-965a-462e-8b7c-7387756ad80b",
-            "clue": "Showing no emotion, serious",
-            "answer": "stolid",
-            "normalized": "stolid"
+            "id": "b9d378b3-d59a-470d-a1cc-0a4d547cbc52",
+            "clue": "Christmas giver of gifts to the nice",
+            "answer": "santa",
+            "normalized": "santa"
           },
           {
-            "id": "60e41a13-25c8-4717-953a-e231f27f1583",
-            "clue": "Penn and __, mute half of comedy-magic duo",
-            "answer": "teller",
-            "normalized": "teller"
-          },
-          {
-            "id": "2eddc0bf-6a1f-429f-b1cc-a3555a693240",
-            "clue": "Ski slope",
-            "answer": "piste",
-            "normalized": "piste"
+            "id": "fe564914-7312-4eca-add0-bc1d388b987e",
+            "clue": "Haute couture fashion brand formed 1961, initials",
+            "answer": "ysl",
+            "normalized": "ysl"
           }
         ],
-        "track": "PC|LenC--Y2026M8D16F0"
+        "track": "PC|LenC--Y2026M8D17F0"
       },
       "mid": {
-        "puzzleId": "d8b1fe79-975a-4375-aa27-6c8ad618958e",
+        "puzzleId": "146d07a1-f731-475c-a1ff-c9da2731246e",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "4eb55072-8d9f-44e0-8496-689f8adc4f5f",
-            "clue": "Abbreviated and informal term for Christmas",
-            "answer": "xmas",
-            "normalized": "xmas"
+            "id": "6f0afa5f-a978-4983-9c21-70c97caaadc0",
+            "clue": "Grand party or ball",
+            "answer": "gala",
+            "normalized": "gala"
           },
           {
-            "id": "11dfe73b-b96c-4c2b-befe-15998dd1730c",
-            "clue": "Cleaning tool that looks like a wet broom",
-            "answer": "mop",
-            "normalized": "mop"
+            "id": "317b0f11-140d-4db5-b166-7201bbfc660a",
+            "clue": "Denoting an ideology or doctrine",
+            "answer": "ism",
+            "normalized": "ism"
           },
           {
-            "id": "fb05a7b9-4b9c-46d8-8c98-4afbd624b983",
-            "clue": "A poetic word for valley",
-            "answer": "vale",
-            "normalized": "vale"
+            "id": "dd3a41c4-f08b-4af5-9c98-3415eb104dcd",
+            "clue": "Asian island country with capital Jakarta",
+            "answer": "indonesia",
+            "normalized": "indonesia"
           },
           {
-            "id": "cd882df8-37e1-42dd-84fc-1faa0d66f152",
-            "clue": "Last name of Anywhere singer Rita",
-            "answer": "ora",
-            "normalized": "ora"
+            "id": "ff652638-cccc-4a37-bd21-d29f03fd92c2",
+            "clue": "Amount of medicine taken every day",
+            "answer": "daily dose",
+            "normalized": "dailydose"
           },
           {
-            "id": "20170a12-2bb6-4fe7-a33b-b29a99d1dbd7",
-            "clue": "Eric who Always Looks on the Bright Side of Life",
-            "answer": "idle",
-            "normalized": "idle"
+            "id": "8b727330-f071-4145-a11a-e6ad24e58263",
+            "clue": "Scheduled time of arrival, in short",
+            "answer": "sta",
+            "normalized": "sta"
           },
           {
-            "id": "496c2f98-31dc-4cd4-8b30-e76f57a398d0",
-            "clue": "Abbreviation for original equipment manufacturer",
-            "answer": "oem",
-            "normalized": "oem"
+            "id": "c6f313fb-eaeb-4456-84ea-ba8329393b1d",
+            "clue": "One of 24 circles on a Twister mat",
+            "answer": "dot",
+            "normalized": "dot"
           },
           {
-            "id": "784355dd-9927-4fd2-bccf-1c18faa4567d",
-            "clue": "__ Medan, Dutch ship shrouded in mystery",
-            "answer": "ourang",
-            "normalized": "ourang"
+            "id": "1dfca015-973c-44fe-ab14-f70df7f6250e",
+            "clue": "Neither's partner",
+            "answer": "nor",
+            "normalized": "nor"
           },
           {
-            "id": "17e7c9a3-0f85-48fd-ab67-7f21f91a13f8",
-            "clue": "Three-letter country code for India",
-            "answer": "ind",
-            "normalized": "ind"
+            "id": "5cbc8c76-9194-4409-b024-f3ebc5f5724d",
+            "clue": "Possess",
+            "answer": "own",
+            "normalized": "own"
           },
           {
-            "id": "32cda05e-9b05-467e-ad6b-f917362ab8c5",
-            "clue": "Slang for the day you were born",
-            "answer": "bday",
-            "normalized": "bday"
+            "id": "9500169b-d046-467a-8119-277064f546f5",
+            "clue": "Dairy spread in a small individual serving",
+            "answer": "butter pat",
+            "normalized": "butterpat"
           },
           {
-            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
-            "clue": "On a compass, the opposite of SSW",
-            "answer": "nne",
-            "normalized": "nne"
+            "id": "e8c26dcc-2bb3-4986-9134-f83912c02068",
+            "clue": "Fighting a holy campaign",
+            "answer": "crusading",
+            "normalized": "crusading"
           },
           {
-            "id": "164e1899-4ae2-4831-afec-4277d45834dd",
-            "clue": "This Ranger is by himself",
-            "answer": "lone",
-            "normalized": "lone"
+            "id": "66f83741-26ed-46d8-9c66-8ffbcbda71d5",
+            "clue": "Type of tree that can have a Dutch disease",
+            "answer": "elm",
+            "normalized": "elm"
           },
           {
-            "id": "8558bd00-7bce-485a-be60-983392b5052d",
-            "clue": "New craze or trend",
-            "answer": "fad",
-            "normalized": "fad"
+            "id": "80265380-cdb6-4530-94ae-a87ae148d786",
+            "clue": "Outer coating of nutmeg",
+            "answer": "mace",
+            "normalized": "mace"
           },
           {
-            "id": "d9a1f9df-4d7c-4aaf-b95e-31afe2c39066",
-            "clue": "Harold Ramis character in Ghostbusters",
-            "answer": "egon",
-            "normalized": "egon"
+            "id": "bd36fce9-625f-4845-b99a-65d3c27e291a",
+            "clue": "Small, biting fly",
+            "answer": "gnat",
+            "normalized": "gnat"
           },
           {
-            "id": "b2226ee6-76aa-4079-a772-eba047fc345a",
-            "clue": "16 in Roman numerals",
-            "answer": "xvi",
-            "normalized": "xvi"
+            "id": "b34cae7f-b5b2-47c9-8858-b7b45d4dcaab",
+            "clue": "Variety of fern that needs constantly damp soil",
+            "answer": "adiantum",
+            "normalized": "adiantum"
           },
           {
-            "id": "850b76e3-4001-492d-8f24-f83358219a2f",
-            "clue": "Popstar who sang the Bond theme Die Another Day",
-            "answer": "madonna",
-            "normalized": "madonna"
+            "id": "e21a6629-f5fe-42d2-99b4-54d498ae1d5c",
+            "clue": "Text acronym for laughing out loud",
+            "answer": "lol",
+            "normalized": "lol"
           },
           {
-            "id": "35e42a3c-1de5-458b-be83-c0a69973c32a",
-            "clue": "Referred to something casually, indirectly",
-            "answer": "alluded",
-            "normalized": "alluded"
+            "id": "03e51681-b9d6-4a6d-abb4-d0e2a6b934f7",
+            "clue": "__ Will Do; Lloyd Webber hit from Joseph musical",
+            "answer": "any dream",
+            "normalized": "anydream"
           },
           {
-            "id": "4e2928b4-5d21-4f18-a117-11eb80592e38",
-            "clue": "Someone with clairvoyance",
-            "answer": "seer",
-            "normalized": "seer"
+            "id": "dc79bc0b-0ca0-407a-a60d-875d84d8e182",
+            "clue": "Involving isotopes",
+            "answer": "isotopic",
+            "normalized": "isotopic"
           },
           {
-            "id": "ac2097f0-feaa-4b04-8c68-207da72a80d3",
-            "clue": "Bright spot made by ice crystals on a lunar halo",
-            "answer": "moon dog",
-            "normalized": "moondog"
+            "id": "67251ca2-1d7d-41c9-b9cf-61be857d0095",
+            "clue": "Bro's female sibling",
+            "answer": "sis",
+            "normalized": "sis"
           },
           {
-            "id": "199f054e-4178-407a-97c8-3b7f67e5b908",
-            "clue": "Herb in the mint family, used in Italian cooking",
-            "answer": "oregano",
-            "normalized": "oregano"
+            "id": "abfa56b5-4b41-46f1-871f-b69f39d105cb",
+            "clue": "Astronaut Jemison, first Black woman in space",
+            "answer": "mae",
+            "normalized": "mae"
           },
           {
-            "id": "09f255c9-29ff-48a7-8192-af7a7b598976",
-            "clue": "Jim's love interest in The Office",
-            "answer": "pam",
-            "normalized": "pam"
+            "id": "956c65ba-1900-43bb-9805-8b1a199ae998",
+            "clue": "Passports or licences, for example",
+            "answer": "ids",
+            "normalized": "ids"
           },
           {
-            "id": "a37e9385-5934-4a39-9461-8e524d03e516",
-            "clue": "Qualified, allowed",
-            "answer": "able",
-            "normalized": "able"
+            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
+            "clue": "Former name of Tokyo",
+            "answer": "edo",
+            "normalized": "edo"
           },
           {
-            "id": "8a3778a9-8704-45f9-a48b-639d2e1af760",
-            "clue": "Previous name of World Netball, initialism",
-            "answer": "inf",
-            "normalized": "inf"
+            "id": "1313fe77-0287-4f89-98ef-35a1b872234f",
+            "clue": "Abbreviation for occupational therapists",
+            "answer": "ots",
+            "normalized": "ots"
           },
           {
-            "id": "9ea5cc8b-70e6-492a-abbf-39d1deae914f",
-            "clue": "Japanese currency unit",
-            "answer": "yen",
-            "normalized": "yen"
+            "id": "9e7cd299-85d9-491c-a437-e5b274de2a06",
+            "clue": "What the Moon does after wax",
+            "answer": "wane",
+            "normalized": "wane"
+          },
+          {
+            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
+            "clue": "Medical abbreviation for nitroglycerin",
+            "answer": "ntg",
+            "normalized": "ntg"
+          },
+          {
+            "id": "aad6eb0e-0d72-4fc0-8cc0-281b062e2edb",
+            "clue": "Era before Common Era",
+            "answer": "bce",
+            "normalized": "bce"
+          },
+          {
+            "id": "ed1b8e8a-ea1b-483b-ab98-387801bc0788",
+            "clue": "Web address",
+            "answer": "url",
+            "normalized": "url"
+          },
+          {
+            "id": "1a9c86c5-b454-40f9-a818-10ba67205cb1",
+            "clue": "In nutrition, it's recommended dietary allowance",
+            "answer": "rda",
+            "normalized": "rda"
           }
         ],
-        "track": "PC|LenC--Y2026M8D16F1"
+        "track": "PC|LenC--Y2026M8D17F1"
       }
     },
     "latestAvailableEntry": {
@@ -434852,21 +434888,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "c6JkSCscuulHJNHrZwNPvpdqixCDFAuXaxqPzh3v7IcrsEjt+rrQvEDhDg19Zp+otkyTln1hUN3En1ofDjNu8TYYldim49bhGTvtNKgxlqJPxt9V88Q++PVHzaZiVG+oawP+u0+IcP/CgKmmBGAd2QS9aHUSFVP9dRGqpCUxHkwZvDg1zoYoKKn8xAsjHA8Ot2LDsP4GQutUrbY+wTxEK5SBiT9snnN8ClnWfQ9plTYNsBm3V/+fWuC2eWhrmirX2E1RFPEE2LV7CGQVDEmNZ9gF9hke1d4puC0/lYNkQFY="
+        "+YrLEs85n0ilWunL2ThxJ6vjRuJfhlnUDxnSu3KC/bzEe3YpdgJxKbWZsUi2YBREAJY33VcMu0Lsivopgwzt1E9qDytBn5UqW8ywqYN8R/sWAGCkFLrxK3P7VCJSCrOyZXjn28W/6nHbqFcnO202P4tgBxTxQ2NB4KNJQ8pYOfKJiH4UUaGG1IFBkJH03jLTlt7mIRjzklM2wuaC5RVJ3Gy7T9A2eAUvH3FTtBXvhyBl/YJNxHqVBo7TNVGQsS00AvAUm/Drx0ZXBIgJdm3oOPAF4jUT2DXTKTqOE/VV+1Y="
       ]
     },
     "decrypted": {
-      "Id": "c3d851ee-53b5-45cd-864d-c5f52668b045",
-      "Date": "2026-08-16T00:00:00Z",
+      "Id": "d18d21c2-fda3-4bd8-8d14-421a98568f54",
+      "Date": "2026-08-17T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "roast",
-      "NormalizedPassword": "roast",
+      "Password": "clasp",
+      "NormalizedPassword": "clasp",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-16T00:23:30.7020000+05:30",
-    "hash": "bb99d012da45a789da223aa1fbd84ced",
+    "dtu": "2026-08-17T00:22:26.4660000+05:30",
+    "hash": "b08308ecdc9bf1540e53539c3efc982a",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
