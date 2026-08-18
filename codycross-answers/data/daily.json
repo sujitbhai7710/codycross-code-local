@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T19:05:53.909Z",
+  "generatedAt": "2026-08-18T19:04:53.101Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 18
+    "day": 19
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 32
+        "QuantidadeDeFases": 34
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434118,475 +434118,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-18",
+      "key": "2026-08-19",
       "year": 2026,
       "month": 8,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "8bbe309b-d62f-4285-9dc3-449219d2c390",
+        "puzzleId": "fb5d31b7-2c8f-4d4e-8eeb-fb5361b05133",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "50fcf7a3-0f83-403d-8f06-b0d546477318",
-            "clue": "Genre of black-and-white crime dramas of the 1950s",
-            "answer": "noir",
-            "normalized": "noir"
+            "id": "06c018fe-d62c-4571-aab8-e8a90fd83f66",
+            "clue": "Initialism for standard temperature and pressure",
+            "answer": "stp",
+            "normalized": "stp"
           },
           {
-            "id": "b18e6eab-8b27-4a56-be35-8a24bdd69707",
-            "clue": "A group of musicians numbering six",
-            "answer": "sextet",
-            "normalized": "sextet"
+            "id": "b4e57635-d6ba-46cc-b61f-a0fb529e0b37",
+            "clue": "Prefix preceding copy, graph and synthesis",
+            "answer": "photo",
+            "normalized": "photo"
           },
           {
-            "id": "14187d5c-b244-495b-b3c2-d0e8331fcd13",
-            "clue": "Sophisticated, refined, polished and stylish",
-            "answer": "urbane",
-            "normalized": "urbane"
+            "id": "88edc9b5-dedd-42fc-b8a4-bccda9c2feef",
+            "clue": "Opposite idea of \"dine out\"",
+            "answer": "eat in",
+            "normalized": "eatin"
           },
           {
-            "id": "f488d4bf-7881-4046-8933-50dc9c160b3b",
-            "clue": "Chipped in; anagram of poodle",
-            "answer": "pooled",
-            "normalized": "pooled"
+            "id": "b0f3ddea-1ebf-41f7-ab8e-96f170c36b0f",
+            "clue": "Moist cloths for cleaning babies",
+            "answer": "wipes",
+            "normalized": "wipes"
           },
           {
-            "id": "eabc4ab0-cab0-4e3d-aac6-c1ce9c8789f4",
-            "clue": "The letter Y spelled as a word",
-            "answer": "wye",
-            "normalized": "wye"
+            "id": "91120478-26a0-4d9a-ae23-e7805722306e",
+            "clue": "\"My liege\"",
+            "answer": "sire",
+            "normalized": "sire"
           },
           {
-            "id": "ae9226a7-ed13-4800-8283-179b3c382c42",
-            "clue": "This emperor allegedly fiddled while Rome burned",
-            "answer": "nero",
-            "normalized": "nero"
+            "id": "ac6e1c41-6ca7-4f7e-b5dd-28a3d5f613b2",
+            "clue": "Eastern Standard Time, abbreviated",
+            "answer": "est",
+            "normalized": "est"
           },
           {
-            "id": "c27e1b3d-c635-46a9-83fa-3d21df7a8e6a",
-            "clue": "Curved device to hold two cows together",
-            "answer": "oxbow",
-            "normalized": "oxbow"
+            "id": "194ebdf6-d95c-409a-9d1d-bb11ef97dd5e",
+            "clue": "To force out a liquid, like lava from a volcano",
+            "answer": "spew",
+            "normalized": "spew"
           },
           {
-            "id": "20e87c10-0b07-48dd-a2df-d27731881a5e",
-            "clue": "Country that's the home of pizza and pasta",
-            "answer": "italy",
-            "normalized": "italy"
+            "id": "b291eb60-3938-4d79-9f55-e4cf548f3e7c",
+            "clue": "People from the country whose capital is Bangkok",
+            "answer": "thais",
+            "normalized": "thais"
           },
           {
-            "id": "60a32734-2435-4dbf-84b3-d7fb95a4e056",
-            "clue": "Bridget Jones actress Zellweger",
-            "answer": "renee",
-            "normalized": "renee"
+            "id": "3260a276-1b48-4ee6-be3c-a5df5a0a926c",
+            "clue": "Savoury flaky dish containing meat and vegetables",
+            "answer": "pot pie",
+            "normalized": "potpie"
           },
           {
-            "id": "58abfbb7-a50b-4bdc-a269-fccafd424a2f",
-            "clue": "Short form of \"what's up\"",
-            "answer": "sup",
-            "normalized": "sup"
+            "id": "325e3e13-2e04-4f62-b454-705c7336da61",
+            "clue": "Levels of seating in a stadium, for example",
+            "answer": "tiers",
+            "normalized": "tiers"
           },
           {
-            "id": "dafc7a16-d443-49d0-abb9-632f3b8a1e24",
-            "clue": "Hosts popular series of expert lectures",
-            "answer": "ted",
-            "normalized": "ted"
+            "id": "69253cbb-0f21-4e4e-8aaf-0f430510b264",
+            "clue": "The start or beginning of something",
+            "answer": "onset",
+            "normalized": "onset"
           }
         ],
-        "track": "PC|LenC--Y2026M8D18F0"
+        "track": "PC|LenC--Y2026M8D19F0"
       },
       "mid": {
-        "puzzleId": "c71f563e-cdc1-4b3a-bede-b797dd244624",
+        "puzzleId": "79268bf1-92e7-4528-b36c-bc6b2ad83439",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "eaa2b874-847f-41be-aa3e-e4c2223e4540",
-            "clue": "Ring of coral reefs, such as Bikini or Ari",
-            "answer": "atoll",
-            "normalized": "atoll"
+            "id": "a78ef574-9d3f-45cb-b651-e95bbd7b2c80",
+            "clue": "One Direction hit, Story __ Life",
+            "answer": "of my",
+            "normalized": "ofmy"
           },
           {
-            "id": "aa7432a2-9703-4ae6-87d6-2fee28b6d4e5",
-            "clue": "Australian state beneath QLD",
-            "answer": "nsw",
-            "normalized": "nsw"
+            "id": "c4af8107-b5d1-4288-8ada-488405fac099",
+            "clue": "US show about Navy cops",
+            "answer": "ncis",
+            "normalized": "ncis"
           },
           {
-            "id": "f1a2b46a-e1b0-4c41-90c4-1957bc11d2dc",
-            "clue": "Platoon and Spider-Man actor, Willem __",
-            "answer": "dafoe",
-            "normalized": "dafoe"
+            "id": "20b15776-d2cf-4449-bf4f-5d0613922a09",
+            "clue": "Rather lovely southern French city",
+            "answer": "nice",
+            "normalized": "nice"
           },
           {
-            "id": "b36da1ec-ba7c-4147-becc-be5add8068c4",
-            "clue": "Exclamation on realising what something means",
-            "answer": "ohh",
-            "normalized": "ohh"
+            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
+            "clue": "Verdi Egyptian opera about Ethiopian princess",
+            "answer": "aida",
+            "normalized": "aida"
           },
           {
-            "id": "d69816c9-ef11-4833-81d3-d1670d5ec1b0",
-            "clue": "An unexpected find",
-            "answer": "discovery",
-            "normalized": "discovery"
+            "id": "605f2730-8e7b-40e7-83d4-760a8331bb8c",
+            "clue": "King Louie was one of these great apes",
+            "answer": "orangutan",
+            "normalized": "orangutan"
           },
           {
-            "id": "cc1ac22b-c48a-4471-a28b-6f4db540329a",
-            "clue": "Reed or Costello",
-            "answer": "lou",
-            "normalized": "lou"
+            "id": "16a2b01a-016a-4b37-a1c3-a690ddc8b106",
+            "clue": "Messy, needing to be cleaned",
+            "answer": "dirty",
+            "normalized": "dirty"
           },
           {
-            "id": "8efe4bb3-cf7c-4c4a-960f-5453bc37c16c",
-            "clue": "A demon, or sometimes ogre, in Japanese mythology",
-            "answer": "oni",
-            "normalized": "oni"
+            "id": "85993596-e18a-485d-b42f-d9b0df8573a5",
+            "clue": "Quick-tempered and irritable",
+            "answer": "irascible",
+            "normalized": "irascible"
           },
           {
-            "id": "c11f7099-b92e-4cdb-8dc2-aab52fb6e0c3",
-            "clue": "A hard drive that has been completely erased",
-            "answer": "formatted",
-            "normalized": "formatted"
+            "id": "78aa7fa3-139f-4792-bf1e-594c8945ace2",
+            "clue": "I __, I saw, I conquered",
+            "answer": "came",
+            "normalized": "came"
           },
           {
-            "id": "4045e40e-8588-472c-b4b7-bfe537ca4b32",
-            "clue": "How to say I'll be right there, quickly via text",
-            "answer": "brt",
-            "normalized": "brt"
+            "id": "19523af9-0e53-4398-be61-a936204b4037",
+            "clue": "Round, metal piece of money",
+            "answer": "coin",
+            "normalized": "coin"
           },
           {
-            "id": "05b6e9d8-538c-417b-95fa-d1318e5679ab",
-            "clue": "The starting hit in a game of tennis",
-            "answer": "serve",
-            "normalized": "serve"
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
           },
           {
-            "id": "48300a46-51e2-45e8-989b-d16087205fdc",
-            "clue": "Large artificial satellite",
-            "answer": "iss",
-            "normalized": "iss"
+            "id": "42600b6b-620c-4f38-8833-011199cd8861",
+            "clue": "To match up; sounds like sink",
+            "answer": "sync",
+            "normalized": "sync"
           },
           {
-            "id": "9547810e-6e06-4605-8fb8-18d56c8cce96",
-            "clue": "Machine that makes clothing not wet",
-            "answer": "dryer",
-            "normalized": "dryer"
+            "id": "fa7f1a10-758d-4053-b4e1-b8431bcc62ef",
+            "clue": "Yoko, artist partner of John Lennon",
+            "answer": "ono",
+            "normalized": "ono"
           },
           {
-            "id": "720ead40-efb6-4e94-a48f-40d08381252c",
-            "clue": "Sum",
-            "answer": "add",
-            "normalized": "add"
+            "id": "865ca846-1d69-4577-913c-9051a112bebd",
+            "clue": "Evergreen tree, often used as a Christmas tree",
+            "answer": "fir",
+            "normalized": "fir"
           },
           {
-            "id": "4446075a-79c6-43f5-b98a-13c4cd8e6ca1",
-            "clue": "They make bespoke clothing",
-            "answer": "tailors",
-            "normalized": "tailors"
+            "id": "c959d48c-8be4-4ea7-b0ad-14f3e0844e09",
+            "clue": "She played Regina George in Mean Girls, Rachel ___",
+            "answer": "mcadams",
+            "normalized": "mcadams"
           },
           {
-            "id": "f81f763c-eb13-4f2e-b589-719f888722c0",
-            "clue": "Out __; feeling low or down",
-            "answer": "of sorts",
-            "normalized": "ofsorts"
+            "id": "278e13f8-2cba-462c-85cb-7a9ab5cf5b0e",
+            "clue": "River flowing through Russia to Kara Sea",
+            "answer": "yenisey",
+            "normalized": "yenisey"
           },
           {
-            "id": "e428d3f6-3787-4a73-8abe-8e93bb0d39e2",
-            "clue": "A doctor who fills in for another's absence",
-            "answer": "locum",
-            "normalized": "locum"
+            "id": "9171275b-419a-4cca-81ec-34841b8bbde8",
+            "clue": "Art of navigation, think about the seas",
+            "answer": "nautics",
+            "normalized": "nautics"
           },
           {
-            "id": "70f549a7-a56d-4f63-a389-1447de3f8380",
-            "clue": "MGM's lion mascot",
-            "answer": "leo",
-            "normalized": "leo"
+            "id": "377ec8fa-2b29-46b1-a0c3-d775adaa42cf",
+            "clue": "Urban lad",
+            "answer": "city boy",
+            "normalized": "cityboy"
           },
           {
-            "id": "e35350f0-f3d2-450b-9f74-1883630e28ff",
-            "clue": "Sign that forbids you to go in",
-            "answer": "no entry",
-            "normalized": "noentry"
+            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
+            "clue": "International Development Association, initialism",
+            "answer": "ida",
+            "normalized": "ida"
           },
           {
-            "id": "6270d7a8-1752-484b-be1c-828615e0c3c9",
-            "clue": "An old word for a sheriff",
-            "answer": "shrieve",
-            "normalized": "shrieve"
+            "id": "40310ac6-9d5b-4081-928c-880190b8c6be",
+            "clue": "Diego, Francisco, Antonio",
+            "answer": "san",
+            "normalized": "san"
           },
           {
-            "id": "b591cad9-3956-4d4c-b1cc-f25be450362b",
-            "clue": "For what reason?",
-            "answer": "why",
-            "normalized": "why"
+            "id": "4e99a31c-97f2-40ee-ac47-cfa8ff04e0de",
+            "clue": "Greece's three-letter country code",
+            "answer": "grc",
+            "normalized": "grc"
           },
           {
-            "id": "3fd8a656-d84c-46ff-a61c-666ca13435dc",
-            "clue": "Every US citizen over 18 has the right to be one",
-            "answer": "voter",
-            "normalized": "voter"
+            "id": "0da2dd4e-f49e-4870-aaaa-1bb5a7ceb8bd",
+            "clue": "Frozen water",
+            "answer": "ice",
+            "normalized": "ice"
           },
           {
-            "id": "2dbf10d2-c424-4158-b654-a5359d43d88b",
-            "clue": "US counterpart to Britain's MI5",
-            "answer": "fbi",
-            "normalized": "fbi"
+            "id": "12baf334-d9a6-4669-8528-99bb123c5b3e",
+            "clue": "Mouse relative",
+            "answer": "rat",
+            "normalized": "rat"
           },
           {
-            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-            "clue": "Autism was formally known as __, abbr.",
-            "answer": "asd",
-            "normalized": "asd"
+            "id": "19e7fac9-e756-4c36-8307-fa808b0a54a4",
+            "clue": "Goes before Manuel for Hamilton's Miranda",
+            "answer": "lin",
+            "normalized": "lin"
           },
           {
-            "id": "230725e0-5050-4205-b7dc-80d3dc3f71a9",
-            "clue": "German masculine article meaning \"the\"",
-            "answer": "der",
-            "normalized": "der"
+            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
+            "clue": "Short for enclosed",
+            "answer": "enc",
+            "normalized": "enc"
           }
         ],
-        "track": "PC|LenC--Y2026M8D18F1"
+        "track": "PC|LenC--Y2026M8D19F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-18",
+      "key": "2026-08-19",
       "year": 2026,
       "month": 8,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "8bbe309b-d62f-4285-9dc3-449219d2c390",
+        "puzzleId": "fb5d31b7-2c8f-4d4e-8eeb-fb5361b05133",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "50fcf7a3-0f83-403d-8f06-b0d546477318",
-            "clue": "Genre of black-and-white crime dramas of the 1950s",
-            "answer": "noir",
-            "normalized": "noir"
+            "id": "06c018fe-d62c-4571-aab8-e8a90fd83f66",
+            "clue": "Initialism for standard temperature and pressure",
+            "answer": "stp",
+            "normalized": "stp"
           },
           {
-            "id": "b18e6eab-8b27-4a56-be35-8a24bdd69707",
-            "clue": "A group of musicians numbering six",
-            "answer": "sextet",
-            "normalized": "sextet"
+            "id": "b4e57635-d6ba-46cc-b61f-a0fb529e0b37",
+            "clue": "Prefix preceding copy, graph and synthesis",
+            "answer": "photo",
+            "normalized": "photo"
           },
           {
-            "id": "14187d5c-b244-495b-b3c2-d0e8331fcd13",
-            "clue": "Sophisticated, refined, polished and stylish",
-            "answer": "urbane",
-            "normalized": "urbane"
+            "id": "88edc9b5-dedd-42fc-b8a4-bccda9c2feef",
+            "clue": "Opposite idea of \"dine out\"",
+            "answer": "eat in",
+            "normalized": "eatin"
           },
           {
-            "id": "f488d4bf-7881-4046-8933-50dc9c160b3b",
-            "clue": "Chipped in; anagram of poodle",
-            "answer": "pooled",
-            "normalized": "pooled"
+            "id": "b0f3ddea-1ebf-41f7-ab8e-96f170c36b0f",
+            "clue": "Moist cloths for cleaning babies",
+            "answer": "wipes",
+            "normalized": "wipes"
           },
           {
-            "id": "eabc4ab0-cab0-4e3d-aac6-c1ce9c8789f4",
-            "clue": "The letter Y spelled as a word",
-            "answer": "wye",
-            "normalized": "wye"
+            "id": "91120478-26a0-4d9a-ae23-e7805722306e",
+            "clue": "\"My liege\"",
+            "answer": "sire",
+            "normalized": "sire"
           },
           {
-            "id": "ae9226a7-ed13-4800-8283-179b3c382c42",
-            "clue": "This emperor allegedly fiddled while Rome burned",
-            "answer": "nero",
-            "normalized": "nero"
+            "id": "ac6e1c41-6ca7-4f7e-b5dd-28a3d5f613b2",
+            "clue": "Eastern Standard Time, abbreviated",
+            "answer": "est",
+            "normalized": "est"
           },
           {
-            "id": "c27e1b3d-c635-46a9-83fa-3d21df7a8e6a",
-            "clue": "Curved device to hold two cows together",
-            "answer": "oxbow",
-            "normalized": "oxbow"
+            "id": "194ebdf6-d95c-409a-9d1d-bb11ef97dd5e",
+            "clue": "To force out a liquid, like lava from a volcano",
+            "answer": "spew",
+            "normalized": "spew"
           },
           {
-            "id": "20e87c10-0b07-48dd-a2df-d27731881a5e",
-            "clue": "Country that's the home of pizza and pasta",
-            "answer": "italy",
-            "normalized": "italy"
+            "id": "b291eb60-3938-4d79-9f55-e4cf548f3e7c",
+            "clue": "People from the country whose capital is Bangkok",
+            "answer": "thais",
+            "normalized": "thais"
           },
           {
-            "id": "60a32734-2435-4dbf-84b3-d7fb95a4e056",
-            "clue": "Bridget Jones actress Zellweger",
-            "answer": "renee",
-            "normalized": "renee"
+            "id": "3260a276-1b48-4ee6-be3c-a5df5a0a926c",
+            "clue": "Savoury flaky dish containing meat and vegetables",
+            "answer": "pot pie",
+            "normalized": "potpie"
           },
           {
-            "id": "58abfbb7-a50b-4bdc-a269-fccafd424a2f",
-            "clue": "Short form of \"what's up\"",
-            "answer": "sup",
-            "normalized": "sup"
+            "id": "325e3e13-2e04-4f62-b454-705c7336da61",
+            "clue": "Levels of seating in a stadium, for example",
+            "answer": "tiers",
+            "normalized": "tiers"
           },
           {
-            "id": "dafc7a16-d443-49d0-abb9-632f3b8a1e24",
-            "clue": "Hosts popular series of expert lectures",
-            "answer": "ted",
-            "normalized": "ted"
+            "id": "69253cbb-0f21-4e4e-8aaf-0f430510b264",
+            "clue": "The start or beginning of something",
+            "answer": "onset",
+            "normalized": "onset"
           }
         ],
-        "track": "PC|LenC--Y2026M8D18F0"
+        "track": "PC|LenC--Y2026M8D19F0"
       },
       "mid": {
-        "puzzleId": "c71f563e-cdc1-4b3a-bede-b797dd244624",
+        "puzzleId": "79268bf1-92e7-4528-b36c-bc6b2ad83439",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "eaa2b874-847f-41be-aa3e-e4c2223e4540",
-            "clue": "Ring of coral reefs, such as Bikini or Ari",
-            "answer": "atoll",
-            "normalized": "atoll"
+            "id": "a78ef574-9d3f-45cb-b651-e95bbd7b2c80",
+            "clue": "One Direction hit, Story __ Life",
+            "answer": "of my",
+            "normalized": "ofmy"
           },
           {
-            "id": "aa7432a2-9703-4ae6-87d6-2fee28b6d4e5",
-            "clue": "Australian state beneath QLD",
-            "answer": "nsw",
-            "normalized": "nsw"
+            "id": "c4af8107-b5d1-4288-8ada-488405fac099",
+            "clue": "US show about Navy cops",
+            "answer": "ncis",
+            "normalized": "ncis"
           },
           {
-            "id": "f1a2b46a-e1b0-4c41-90c4-1957bc11d2dc",
-            "clue": "Platoon and Spider-Man actor, Willem __",
-            "answer": "dafoe",
-            "normalized": "dafoe"
+            "id": "20b15776-d2cf-4449-bf4f-5d0613922a09",
+            "clue": "Rather lovely southern French city",
+            "answer": "nice",
+            "normalized": "nice"
           },
           {
-            "id": "b36da1ec-ba7c-4147-becc-be5add8068c4",
-            "clue": "Exclamation on realising what something means",
-            "answer": "ohh",
-            "normalized": "ohh"
+            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
+            "clue": "Verdi Egyptian opera about Ethiopian princess",
+            "answer": "aida",
+            "normalized": "aida"
           },
           {
-            "id": "d69816c9-ef11-4833-81d3-d1670d5ec1b0",
-            "clue": "An unexpected find",
-            "answer": "discovery",
-            "normalized": "discovery"
+            "id": "605f2730-8e7b-40e7-83d4-760a8331bb8c",
+            "clue": "King Louie was one of these great apes",
+            "answer": "orangutan",
+            "normalized": "orangutan"
           },
           {
-            "id": "cc1ac22b-c48a-4471-a28b-6f4db540329a",
-            "clue": "Reed or Costello",
-            "answer": "lou",
-            "normalized": "lou"
+            "id": "16a2b01a-016a-4b37-a1c3-a690ddc8b106",
+            "clue": "Messy, needing to be cleaned",
+            "answer": "dirty",
+            "normalized": "dirty"
           },
           {
-            "id": "8efe4bb3-cf7c-4c4a-960f-5453bc37c16c",
-            "clue": "A demon, or sometimes ogre, in Japanese mythology",
-            "answer": "oni",
-            "normalized": "oni"
+            "id": "85993596-e18a-485d-b42f-d9b0df8573a5",
+            "clue": "Quick-tempered and irritable",
+            "answer": "irascible",
+            "normalized": "irascible"
           },
           {
-            "id": "c11f7099-b92e-4cdb-8dc2-aab52fb6e0c3",
-            "clue": "A hard drive that has been completely erased",
-            "answer": "formatted",
-            "normalized": "formatted"
+            "id": "78aa7fa3-139f-4792-bf1e-594c8945ace2",
+            "clue": "I __, I saw, I conquered",
+            "answer": "came",
+            "normalized": "came"
           },
           {
-            "id": "4045e40e-8588-472c-b4b7-bfe537ca4b32",
-            "clue": "How to say I'll be right there, quickly via text",
-            "answer": "brt",
-            "normalized": "brt"
+            "id": "19523af9-0e53-4398-be61-a936204b4037",
+            "clue": "Round, metal piece of money",
+            "answer": "coin",
+            "normalized": "coin"
           },
           {
-            "id": "05b6e9d8-538c-417b-95fa-d1318e5679ab",
-            "clue": "The starting hit in a game of tennis",
-            "answer": "serve",
-            "normalized": "serve"
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
           },
           {
-            "id": "48300a46-51e2-45e8-989b-d16087205fdc",
-            "clue": "Large artificial satellite",
-            "answer": "iss",
-            "normalized": "iss"
+            "id": "42600b6b-620c-4f38-8833-011199cd8861",
+            "clue": "To match up; sounds like sink",
+            "answer": "sync",
+            "normalized": "sync"
           },
           {
-            "id": "9547810e-6e06-4605-8fb8-18d56c8cce96",
-            "clue": "Machine that makes clothing not wet",
-            "answer": "dryer",
-            "normalized": "dryer"
+            "id": "fa7f1a10-758d-4053-b4e1-b8431bcc62ef",
+            "clue": "Yoko, artist partner of John Lennon",
+            "answer": "ono",
+            "normalized": "ono"
           },
           {
-            "id": "720ead40-efb6-4e94-a48f-40d08381252c",
-            "clue": "Sum",
-            "answer": "add",
-            "normalized": "add"
+            "id": "865ca846-1d69-4577-913c-9051a112bebd",
+            "clue": "Evergreen tree, often used as a Christmas tree",
+            "answer": "fir",
+            "normalized": "fir"
           },
           {
-            "id": "4446075a-79c6-43f5-b98a-13c4cd8e6ca1",
-            "clue": "They make bespoke clothing",
-            "answer": "tailors",
-            "normalized": "tailors"
+            "id": "c959d48c-8be4-4ea7-b0ad-14f3e0844e09",
+            "clue": "She played Regina George in Mean Girls, Rachel ___",
+            "answer": "mcadams",
+            "normalized": "mcadams"
           },
           {
-            "id": "f81f763c-eb13-4f2e-b589-719f888722c0",
-            "clue": "Out __; feeling low or down",
-            "answer": "of sorts",
-            "normalized": "ofsorts"
+            "id": "278e13f8-2cba-462c-85cb-7a9ab5cf5b0e",
+            "clue": "River flowing through Russia to Kara Sea",
+            "answer": "yenisey",
+            "normalized": "yenisey"
           },
           {
-            "id": "e428d3f6-3787-4a73-8abe-8e93bb0d39e2",
-            "clue": "A doctor who fills in for another's absence",
-            "answer": "locum",
-            "normalized": "locum"
+            "id": "9171275b-419a-4cca-81ec-34841b8bbde8",
+            "clue": "Art of navigation, think about the seas",
+            "answer": "nautics",
+            "normalized": "nautics"
           },
           {
-            "id": "70f549a7-a56d-4f63-a389-1447de3f8380",
-            "clue": "MGM's lion mascot",
-            "answer": "leo",
-            "normalized": "leo"
+            "id": "377ec8fa-2b29-46b1-a0c3-d775adaa42cf",
+            "clue": "Urban lad",
+            "answer": "city boy",
+            "normalized": "cityboy"
           },
           {
-            "id": "e35350f0-f3d2-450b-9f74-1883630e28ff",
-            "clue": "Sign that forbids you to go in",
-            "answer": "no entry",
-            "normalized": "noentry"
+            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
+            "clue": "International Development Association, initialism",
+            "answer": "ida",
+            "normalized": "ida"
           },
           {
-            "id": "6270d7a8-1752-484b-be1c-828615e0c3c9",
-            "clue": "An old word for a sheriff",
-            "answer": "shrieve",
-            "normalized": "shrieve"
+            "id": "40310ac6-9d5b-4081-928c-880190b8c6be",
+            "clue": "Diego, Francisco, Antonio",
+            "answer": "san",
+            "normalized": "san"
           },
           {
-            "id": "b591cad9-3956-4d4c-b1cc-f25be450362b",
-            "clue": "For what reason?",
-            "answer": "why",
-            "normalized": "why"
+            "id": "4e99a31c-97f2-40ee-ac47-cfa8ff04e0de",
+            "clue": "Greece's three-letter country code",
+            "answer": "grc",
+            "normalized": "grc"
           },
           {
-            "id": "3fd8a656-d84c-46ff-a61c-666ca13435dc",
-            "clue": "Every US citizen over 18 has the right to be one",
-            "answer": "voter",
-            "normalized": "voter"
+            "id": "0da2dd4e-f49e-4870-aaaa-1bb5a7ceb8bd",
+            "clue": "Frozen water",
+            "answer": "ice",
+            "normalized": "ice"
           },
           {
-            "id": "2dbf10d2-c424-4158-b654-a5359d43d88b",
-            "clue": "US counterpart to Britain's MI5",
-            "answer": "fbi",
-            "normalized": "fbi"
+            "id": "12baf334-d9a6-4669-8528-99bb123c5b3e",
+            "clue": "Mouse relative",
+            "answer": "rat",
+            "normalized": "rat"
           },
           {
-            "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-            "clue": "Autism was formally known as __, abbr.",
-            "answer": "asd",
-            "normalized": "asd"
+            "id": "19e7fac9-e756-4c36-8307-fa808b0a54a4",
+            "clue": "Goes before Manuel for Hamilton's Miranda",
+            "answer": "lin",
+            "normalized": "lin"
           },
           {
-            "id": "230725e0-5050-4205-b7dc-80d3dc3f71a9",
-            "clue": "German masculine article meaning \"the\"",
-            "answer": "der",
-            "normalized": "der"
+            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
+            "clue": "Short for enclosed",
+            "answer": "enc",
+            "normalized": "enc"
           }
         ],
-        "track": "PC|LenC--Y2026M8D18F1"
+        "track": "PC|LenC--Y2026M8D19F1"
       }
     },
     "latestAvailableEntry": {
@@ -434852,21 +434852,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "2OH8JRhrOflmBhsfXw2BS6Hic6FoVDMOW1QjMqL4o+2R7909dsTVLkZfo7emOgeaIvFzLCxKEAtEk7+LXo9UD2zwWXGArUTV+kHJMcegULKfzFHz0e0xLLcFllq+/YQDKf69KTw2CiSavmDW8g0BDvYqduYixVHISViYUZruRoTV8qrCl8E0QhWhnXXhiK8oCeJuriW3s5LENiO5WFnAPbv3jn36ARol4K0qVk0Mhwiogm6N+E7I1B8J0/eO9lOhEXeYbpOjZQMObM0SBYcvDN2adAzBDBiYEtLsYBtCdZM="
+        "sLcEaicqWvYk4Jo684qNvnoYpjJbUgfKFLSA0+yqkR5Z1k+zexMVvekP2RlQO8WtxTXV7exh+iOg5xYB00Y54W7mm+kR9d4DUr2c/73DqEV02kp3vp64y01U+RBEHVv50RRkkFEICk7R5re6OMinBrDLPdNjzHU3mpUpL+FwOATtcLMV2r2YdXDvtTtQXDnw11e/6VUOGYpyjRv2CEbsOYCDhvjPgRRg2LJa1/79vYPyULq8M5AV9E0n7Czz7Zc8xLUuYch31uAkJbOxncAWQjIbVw1w5mILPXBIpbhqyFU="
       ]
     },
     "decrypted": {
-      "Id": "4736b8a3-a87b-46aa-8ef3-cfda3fde5126",
-      "Date": "2026-08-18T00:00:00Z",
+      "Id": "887caace-c9fe-4b5c-8a0b-8e1178b0e210",
+      "Date": "2026-08-19T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "shine",
-      "NormalizedPassword": "shine",
+      "Password": "hedge",
+      "NormalizedPassword": "hedge",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-18T00:35:53.9090000+05:30",
-    "hash": "7c9fa6d6a6549c2e88e439369a75c4bd",
+    "dtu": "2026-08-19T00:34:53.1010000+05:30",
+    "hash": "6404ae58d8e23e2e00c877996ca3b062",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
