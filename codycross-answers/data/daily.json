@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T19:04:53.101Z",
+  "generatedAt": "2026-08-19T19:00:08.122Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 19
+    "day": 20
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 34
+        "QuantidadeDeFases": 36
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434118,475 +434118,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-19",
+      "key": "2026-08-20",
       "year": 2026,
       "month": 8,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "fb5d31b7-2c8f-4d4e-8eeb-fb5361b05133",
+        "puzzleId": "7eb99b84-2ec1-47c6-a634-332782322cb3",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "06c018fe-d62c-4571-aab8-e8a90fd83f66",
-            "clue": "Initialism for standard temperature and pressure",
-            "answer": "stp",
-            "normalized": "stp"
-          },
-          {
-            "id": "b4e57635-d6ba-46cc-b61f-a0fb529e0b37",
-            "clue": "Prefix preceding copy, graph and synthesis",
-            "answer": "photo",
-            "normalized": "photo"
-          },
-          {
-            "id": "88edc9b5-dedd-42fc-b8a4-bccda9c2feef",
-            "clue": "Opposite idea of \"dine out\"",
-            "answer": "eat in",
-            "normalized": "eatin"
-          },
-          {
-            "id": "b0f3ddea-1ebf-41f7-ab8e-96f170c36b0f",
-            "clue": "Moist cloths for cleaning babies",
-            "answer": "wipes",
-            "normalized": "wipes"
-          },
-          {
-            "id": "91120478-26a0-4d9a-ae23-e7805722306e",
-            "clue": "\"My liege\"",
-            "answer": "sire",
-            "normalized": "sire"
-          },
-          {
-            "id": "ac6e1c41-6ca7-4f7e-b5dd-28a3d5f613b2",
-            "clue": "Eastern Standard Time, abbreviated",
-            "answer": "est",
-            "normalized": "est"
-          },
-          {
-            "id": "194ebdf6-d95c-409a-9d1d-bb11ef97dd5e",
-            "clue": "To force out a liquid, like lava from a volcano",
-            "answer": "spew",
-            "normalized": "spew"
-          },
-          {
-            "id": "b291eb60-3938-4d79-9f55-e4cf548f3e7c",
-            "clue": "People from the country whose capital is Bangkok",
-            "answer": "thais",
-            "normalized": "thais"
-          },
-          {
-            "id": "3260a276-1b48-4ee6-be3c-a5df5a0a926c",
-            "clue": "Savoury flaky dish containing meat and vegetables",
-            "answer": "pot pie",
-            "normalized": "potpie"
-          },
-          {
-            "id": "325e3e13-2e04-4f62-b454-705c7336da61",
-            "clue": "Levels of seating in a stadium, for example",
-            "answer": "tiers",
-            "normalized": "tiers"
-          },
-          {
-            "id": "69253cbb-0f21-4e4e-8aaf-0f430510b264",
-            "clue": "The start or beginning of something",
-            "answer": "onset",
-            "normalized": "onset"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D19F0"
-      },
-      "mid": {
-        "puzzleId": "79268bf1-92e7-4528-b36c-bc6b2ad83439",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "a78ef574-9d3f-45cb-b651-e95bbd7b2c80",
-            "clue": "One Direction hit, Story __ Life",
-            "answer": "of my",
-            "normalized": "ofmy"
+            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
+            "clue": "Sea fish used for liver oil",
+            "answer": "cod",
+            "normalized": "cod"
           },
           {
-            "id": "c4af8107-b5d1-4288-8ada-488405fac099",
-            "clue": "US show about Navy cops",
-            "answer": "ncis",
-            "normalized": "ncis"
+            "id": "79db8d9c-f822-4ea2-a17c-65e028fe9c1c",
+            "clue": "Juliet's doomed lover",
+            "answer": "romeo",
+            "normalized": "romeo"
           },
           {
-            "id": "20b15776-d2cf-4449-bf4f-5d0613922a09",
-            "clue": "Rather lovely southern French city",
-            "answer": "nice",
-            "normalized": "nice"
+            "id": "d3a549b6-e6ee-4420-9e78-668eef58bce5",
+            "clue": "Birthed a sheep",
+            "answer": "lambed",
+            "normalized": "lambed"
           },
           {
-            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
-            "clue": "Verdi Egyptian opera about Ethiopian princess",
-            "answer": "aida",
-            "normalized": "aida"
+            "id": "d23d4e87-9873-47b2-82cd-f60cba932c4c",
+            "clue": "Someone to Watch __, Ella Fitzgerald song",
+            "answer": "over me",
+            "normalized": "overme"
           },
           {
-            "id": "605f2730-8e7b-40e7-83d4-760a8331bb8c",
-            "clue": "King Louie was one of these great apes",
-            "answer": "orangutan",
-            "normalized": "orangutan"
+            "id": "18f55ea5-edc9-4b2f-8131-e70e7715b122",
+            "clue": "Mosquitoes do this to humans",
+            "answer": "bite",
+            "normalized": "bite"
           },
           {
-            "id": "16a2b01a-016a-4b37-a1c3-a690ddc8b106",
-            "clue": "Messy, needing to be cleaned",
-            "answer": "dirty",
-            "normalized": "dirty"
+            "id": "6eff5fce-282c-4f07-aaf7-f389ae656f9e",
+            "clue": "Halley's __ orbits the sun every 76 years",
+            "answer": "comet",
+            "normalized": "comet"
           },
           {
-            "id": "85993596-e18a-485d-b42f-d9b0df8573a5",
-            "clue": "Quick-tempered and irritable",
-            "answer": "irascible",
-            "normalized": "irascible"
+            "id": "67f5f1c9-551d-481d-9ad7-1bacb4c485ef",
+            "clue": "To blend one shade into another when dyeing hair",
+            "answer": "ombre",
+            "normalized": "ombre"
           },
           {
-            "id": "78aa7fa3-139f-4792-bf1e-594c8945ace2",
-            "clue": "I __, I saw, I conquered",
-            "answer": "came",
-            "normalized": "came"
+            "id": "f5568ff1-256d-403e-87b4-3ecfaa280e7c",
+            "clue": "Consider to be",
+            "answer": "deem",
+            "normalized": "deem"
           },
           {
-            "id": "19523af9-0e53-4398-be61-a936204b4037",
-            "clue": "Round, metal piece of money",
-            "answer": "coin",
-            "normalized": "coin"
+            "id": "449cc5db-a049-4df7-8072-f066cbe2ffc3",
+            "clue": "Shankar, released 1968's The Sounds of India",
+            "answer": "ravi",
+            "normalized": "ravi"
           },
           {
-            "id": "0be5f02d-7636-4089-884f-1210fc340142",
-            "clue": "Online selling platform for creative goods",
-            "answer": "etsy",
-            "normalized": "etsy"
+            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
+            "clue": "Poem addressed to someone",
+            "answer": "ode",
+            "normalized": "ode"
           },
           {
-            "id": "42600b6b-620c-4f38-8833-011199cd8861",
-            "clue": "To match up; sounds like sink",
-            "answer": "sync",
-            "normalized": "sync"
-          },
-          {
-            "id": "fa7f1a10-758d-4053-b4e1-b8431bcc62ef",
-            "clue": "Yoko, artist partner of John Lennon",
-            "answer": "ono",
-            "normalized": "ono"
-          },
-          {
-            "id": "865ca846-1d69-4577-913c-9051a112bebd",
-            "clue": "Evergreen tree, often used as a Christmas tree",
-            "answer": "fir",
-            "normalized": "fir"
-          },
-          {
-            "id": "c959d48c-8be4-4ea7-b0ad-14f3e0844e09",
-            "clue": "She played Regina George in Mean Girls, Rachel ___",
-            "answer": "mcadams",
-            "normalized": "mcadams"
-          },
-          {
-            "id": "278e13f8-2cba-462c-85cb-7a9ab5cf5b0e",
-            "clue": "River flowing through Russia to Kara Sea",
-            "answer": "yenisey",
-            "normalized": "yenisey"
-          },
-          {
-            "id": "9171275b-419a-4cca-81ec-34841b8bbde8",
-            "clue": "Art of navigation, think about the seas",
-            "answer": "nautics",
-            "normalized": "nautics"
-          },
-          {
-            "id": "377ec8fa-2b29-46b1-a0c3-d775adaa42cf",
-            "clue": "Urban lad",
-            "answer": "city boy",
-            "normalized": "cityboy"
-          },
-          {
-            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
-            "clue": "International Development Association, initialism",
-            "answer": "ida",
-            "normalized": "ida"
-          },
-          {
-            "id": "40310ac6-9d5b-4081-928c-880190b8c6be",
-            "clue": "Diego, Francisco, Antonio",
-            "answer": "san",
-            "normalized": "san"
-          },
-          {
-            "id": "4e99a31c-97f2-40ee-ac47-cfa8ff04e0de",
-            "clue": "Greece's three-letter country code",
-            "answer": "grc",
-            "normalized": "grc"
-          },
-          {
-            "id": "0da2dd4e-f49e-4870-aaaa-1bb5a7ceb8bd",
-            "clue": "Frozen water",
-            "answer": "ice",
-            "normalized": "ice"
-          },
-          {
-            "id": "12baf334-d9a6-4669-8528-99bb123c5b3e",
-            "clue": "Mouse relative",
-            "answer": "rat",
-            "normalized": "rat"
-          },
-          {
-            "id": "19e7fac9-e756-4c36-8307-fa808b0a54a4",
-            "clue": "Goes before Manuel for Hamilton's Miranda",
-            "answer": "lin",
-            "normalized": "lin"
-          },
-          {
-            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
-            "clue": "Short for enclosed",
-            "answer": "enc",
-            "normalized": "enc"
+            "id": "063fa2ed-03bf-4fd6-b77c-b7f00a7fb4d1",
+            "clue": "A high throw",
+            "answer": "lob",
+            "normalized": "lob"
           }
         ],
-        "track": "PC|LenC--Y2026M8D19F1"
+        "track": "PC|LenC--Y2026M8D20F0"
+      },
+      "mid": {
+        "puzzleId": "94e14645-274a-42e3-84b7-9dc13a94b9ab",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 4,
+        "answers": [
+          {
+            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
+            "clue": "Dry crust over a wound",
+            "answer": "scab",
+            "normalized": "scab"
+          },
+          {
+            "id": "91b1ac56-2fd0-4e9d-85fb-a761bbe0f5bd",
+            "clue": "Became less warm",
+            "answer": "cooled",
+            "normalized": "cooled"
+          },
+          {
+            "id": "fb716f8c-b488-4d60-9b09-08d5a5d565ed",
+            "clue": "European country bordered by Croatia and Austria",
+            "answer": "hungary",
+            "normalized": "hungary"
+          },
+          {
+            "id": "6b60d7d5-526c-42f8-85f3-6385396944ed",
+            "clue": "Ariana Grande's eau de parfum",
+            "answer": "ari",
+            "normalized": "ari"
+          },
+          {
+            "id": "9e39bbcc-b07a-490f-beb1-43206a45e06a",
+            "clue": "One sort of visual effect in a blockbuster movie",
+            "answer": "cgi",
+            "normalized": "cgi"
+          },
+          {
+            "id": "3fe7258a-fbc6-4f42-a3fc-8654de3f83f1",
+            "clue": "Typed at end of an SMS to indicate no reply needed",
+            "answer": "nrn",
+            "normalized": "nrn"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
+          },
+          {
+            "id": "d3ba025b-5343-44ad-9e79-b0ac75708458",
+            "clue": "Baking clay",
+            "answer": "kilning",
+            "normalized": "kilning"
+          },
+          {
+            "id": "afdbdc07-51db-48a6-b135-33f73449e145",
+            "clue": "Fungi; they're used in baking bread, brewing beer",
+            "answer": "yeasts",
+            "normalized": "yeasts"
+          },
+          {
+            "id": "07bf437a-e81d-40d4-988c-def4f97154f1",
+            "clue": "Rock back and forth in the wind",
+            "answer": "sway",
+            "normalized": "sway"
+          },
+          {
+            "id": "710699f4-199a-412c-aa18-6239e1fdd527",
+            "clue": "What a husband is to his spouse's parents",
+            "answer": "son in law",
+            "normalized": "soninlaw"
+          },
+          {
+            "id": "5442dbe5-74d0-43b2-9751-a14b84030ddb",
+            "clue": "A wheel's small tooth",
+            "answer": "cog",
+            "normalized": "cog"
+          },
+          {
+            "id": "033c87bf-ca37-47c8-b641-825f6ffdbad2",
+            "clue": "Speed, eagerness, promptness",
+            "answer": "alacrity",
+            "normalized": "alacrity"
+          },
+          {
+            "id": "8deb5791-aa9a-471b-b975-272cc2af3ea4",
+            "clue": "Enemies of the Trolls in 2016 DreamWorks animation",
+            "answer": "bergens",
+            "normalized": "bergens"
+          },
+          {
+            "id": "e9eb5893-38a7-4bf7-8583-e63b8dd5ff62",
+            "clue": "Dhansak, bhuna and madras are all __",
+            "answer": "curries",
+            "normalized": "curries"
+          },
+          {
+            "id": "4579cb89-e251-4ba3-8010-7a7329a2426b",
+            "clue": "As I lay __, 1930 Faulkner title",
+            "answer": "dying",
+            "normalized": "dying"
+          },
+          {
+            "id": "da60463c-b534-4d2e-928c-7c1d2ee3ca3c",
+            "clue": "In short, use one to blow your nose",
+            "answer": "hanky",
+            "normalized": "hanky"
+          },
+          {
+            "id": "fbdec2a9-34e9-41cb-b0df-fee3385e82ff",
+            "clue": "US government secretive surveillance experts",
+            "answer": "nsa",
+            "normalized": "nsa"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D20F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-19",
+      "key": "2026-08-20",
       "year": 2026,
       "month": 8,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "fb5d31b7-2c8f-4d4e-8eeb-fb5361b05133",
+        "puzzleId": "7eb99b84-2ec1-47c6-a634-332782322cb3",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "06c018fe-d62c-4571-aab8-e8a90fd83f66",
-            "clue": "Initialism for standard temperature and pressure",
-            "answer": "stp",
-            "normalized": "stp"
-          },
-          {
-            "id": "b4e57635-d6ba-46cc-b61f-a0fb529e0b37",
-            "clue": "Prefix preceding copy, graph and synthesis",
-            "answer": "photo",
-            "normalized": "photo"
-          },
-          {
-            "id": "88edc9b5-dedd-42fc-b8a4-bccda9c2feef",
-            "clue": "Opposite idea of \"dine out\"",
-            "answer": "eat in",
-            "normalized": "eatin"
-          },
-          {
-            "id": "b0f3ddea-1ebf-41f7-ab8e-96f170c36b0f",
-            "clue": "Moist cloths for cleaning babies",
-            "answer": "wipes",
-            "normalized": "wipes"
-          },
-          {
-            "id": "91120478-26a0-4d9a-ae23-e7805722306e",
-            "clue": "\"My liege\"",
-            "answer": "sire",
-            "normalized": "sire"
-          },
-          {
-            "id": "ac6e1c41-6ca7-4f7e-b5dd-28a3d5f613b2",
-            "clue": "Eastern Standard Time, abbreviated",
-            "answer": "est",
-            "normalized": "est"
-          },
-          {
-            "id": "194ebdf6-d95c-409a-9d1d-bb11ef97dd5e",
-            "clue": "To force out a liquid, like lava from a volcano",
-            "answer": "spew",
-            "normalized": "spew"
-          },
-          {
-            "id": "b291eb60-3938-4d79-9f55-e4cf548f3e7c",
-            "clue": "People from the country whose capital is Bangkok",
-            "answer": "thais",
-            "normalized": "thais"
-          },
-          {
-            "id": "3260a276-1b48-4ee6-be3c-a5df5a0a926c",
-            "clue": "Savoury flaky dish containing meat and vegetables",
-            "answer": "pot pie",
-            "normalized": "potpie"
-          },
-          {
-            "id": "325e3e13-2e04-4f62-b454-705c7336da61",
-            "clue": "Levels of seating in a stadium, for example",
-            "answer": "tiers",
-            "normalized": "tiers"
-          },
-          {
-            "id": "69253cbb-0f21-4e4e-8aaf-0f430510b264",
-            "clue": "The start or beginning of something",
-            "answer": "onset",
-            "normalized": "onset"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D19F0"
-      },
-      "mid": {
-        "puzzleId": "79268bf1-92e7-4528-b36c-bc6b2ad83439",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "a78ef574-9d3f-45cb-b651-e95bbd7b2c80",
-            "clue": "One Direction hit, Story __ Life",
-            "answer": "of my",
-            "normalized": "ofmy"
+            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
+            "clue": "Sea fish used for liver oil",
+            "answer": "cod",
+            "normalized": "cod"
           },
           {
-            "id": "c4af8107-b5d1-4288-8ada-488405fac099",
-            "clue": "US show about Navy cops",
-            "answer": "ncis",
-            "normalized": "ncis"
+            "id": "79db8d9c-f822-4ea2-a17c-65e028fe9c1c",
+            "clue": "Juliet's doomed lover",
+            "answer": "romeo",
+            "normalized": "romeo"
           },
           {
-            "id": "20b15776-d2cf-4449-bf4f-5d0613922a09",
-            "clue": "Rather lovely southern French city",
-            "answer": "nice",
-            "normalized": "nice"
+            "id": "d3a549b6-e6ee-4420-9e78-668eef58bce5",
+            "clue": "Birthed a sheep",
+            "answer": "lambed",
+            "normalized": "lambed"
           },
           {
-            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
-            "clue": "Verdi Egyptian opera about Ethiopian princess",
-            "answer": "aida",
-            "normalized": "aida"
+            "id": "d23d4e87-9873-47b2-82cd-f60cba932c4c",
+            "clue": "Someone to Watch __, Ella Fitzgerald song",
+            "answer": "over me",
+            "normalized": "overme"
           },
           {
-            "id": "605f2730-8e7b-40e7-83d4-760a8331bb8c",
-            "clue": "King Louie was one of these great apes",
-            "answer": "orangutan",
-            "normalized": "orangutan"
+            "id": "18f55ea5-edc9-4b2f-8131-e70e7715b122",
+            "clue": "Mosquitoes do this to humans",
+            "answer": "bite",
+            "normalized": "bite"
           },
           {
-            "id": "16a2b01a-016a-4b37-a1c3-a690ddc8b106",
-            "clue": "Messy, needing to be cleaned",
-            "answer": "dirty",
-            "normalized": "dirty"
+            "id": "6eff5fce-282c-4f07-aaf7-f389ae656f9e",
+            "clue": "Halley's __ orbits the sun every 76 years",
+            "answer": "comet",
+            "normalized": "comet"
           },
           {
-            "id": "85993596-e18a-485d-b42f-d9b0df8573a5",
-            "clue": "Quick-tempered and irritable",
-            "answer": "irascible",
-            "normalized": "irascible"
+            "id": "67f5f1c9-551d-481d-9ad7-1bacb4c485ef",
+            "clue": "To blend one shade into another when dyeing hair",
+            "answer": "ombre",
+            "normalized": "ombre"
           },
           {
-            "id": "78aa7fa3-139f-4792-bf1e-594c8945ace2",
-            "clue": "I __, I saw, I conquered",
-            "answer": "came",
-            "normalized": "came"
+            "id": "f5568ff1-256d-403e-87b4-3ecfaa280e7c",
+            "clue": "Consider to be",
+            "answer": "deem",
+            "normalized": "deem"
           },
           {
-            "id": "19523af9-0e53-4398-be61-a936204b4037",
-            "clue": "Round, metal piece of money",
-            "answer": "coin",
-            "normalized": "coin"
+            "id": "449cc5db-a049-4df7-8072-f066cbe2ffc3",
+            "clue": "Shankar, released 1968's The Sounds of India",
+            "answer": "ravi",
+            "normalized": "ravi"
           },
           {
-            "id": "0be5f02d-7636-4089-884f-1210fc340142",
-            "clue": "Online selling platform for creative goods",
-            "answer": "etsy",
-            "normalized": "etsy"
+            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
+            "clue": "Poem addressed to someone",
+            "answer": "ode",
+            "normalized": "ode"
           },
           {
-            "id": "42600b6b-620c-4f38-8833-011199cd8861",
-            "clue": "To match up; sounds like sink",
-            "answer": "sync",
-            "normalized": "sync"
-          },
-          {
-            "id": "fa7f1a10-758d-4053-b4e1-b8431bcc62ef",
-            "clue": "Yoko, artist partner of John Lennon",
-            "answer": "ono",
-            "normalized": "ono"
-          },
-          {
-            "id": "865ca846-1d69-4577-913c-9051a112bebd",
-            "clue": "Evergreen tree, often used as a Christmas tree",
-            "answer": "fir",
-            "normalized": "fir"
-          },
-          {
-            "id": "c959d48c-8be4-4ea7-b0ad-14f3e0844e09",
-            "clue": "She played Regina George in Mean Girls, Rachel ___",
-            "answer": "mcadams",
-            "normalized": "mcadams"
-          },
-          {
-            "id": "278e13f8-2cba-462c-85cb-7a9ab5cf5b0e",
-            "clue": "River flowing through Russia to Kara Sea",
-            "answer": "yenisey",
-            "normalized": "yenisey"
-          },
-          {
-            "id": "9171275b-419a-4cca-81ec-34841b8bbde8",
-            "clue": "Art of navigation, think about the seas",
-            "answer": "nautics",
-            "normalized": "nautics"
-          },
-          {
-            "id": "377ec8fa-2b29-46b1-a0c3-d775adaa42cf",
-            "clue": "Urban lad",
-            "answer": "city boy",
-            "normalized": "cityboy"
-          },
-          {
-            "id": "15dcbe3a-bf0e-4512-85e3-c28987cd89d3",
-            "clue": "International Development Association, initialism",
-            "answer": "ida",
-            "normalized": "ida"
-          },
-          {
-            "id": "40310ac6-9d5b-4081-928c-880190b8c6be",
-            "clue": "Diego, Francisco, Antonio",
-            "answer": "san",
-            "normalized": "san"
-          },
-          {
-            "id": "4e99a31c-97f2-40ee-ac47-cfa8ff04e0de",
-            "clue": "Greece's three-letter country code",
-            "answer": "grc",
-            "normalized": "grc"
-          },
-          {
-            "id": "0da2dd4e-f49e-4870-aaaa-1bb5a7ceb8bd",
-            "clue": "Frozen water",
-            "answer": "ice",
-            "normalized": "ice"
-          },
-          {
-            "id": "12baf334-d9a6-4669-8528-99bb123c5b3e",
-            "clue": "Mouse relative",
-            "answer": "rat",
-            "normalized": "rat"
-          },
-          {
-            "id": "19e7fac9-e756-4c36-8307-fa808b0a54a4",
-            "clue": "Goes before Manuel for Hamilton's Miranda",
-            "answer": "lin",
-            "normalized": "lin"
-          },
-          {
-            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
-            "clue": "Short for enclosed",
-            "answer": "enc",
-            "normalized": "enc"
+            "id": "063fa2ed-03bf-4fd6-b77c-b7f00a7fb4d1",
+            "clue": "A high throw",
+            "answer": "lob",
+            "normalized": "lob"
           }
         ],
-        "track": "PC|LenC--Y2026M8D19F1"
+        "track": "PC|LenC--Y2026M8D20F0"
+      },
+      "mid": {
+        "puzzleId": "94e14645-274a-42e3-84b7-9dc13a94b9ab",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 4,
+        "answers": [
+          {
+            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
+            "clue": "Dry crust over a wound",
+            "answer": "scab",
+            "normalized": "scab"
+          },
+          {
+            "id": "91b1ac56-2fd0-4e9d-85fb-a761bbe0f5bd",
+            "clue": "Became less warm",
+            "answer": "cooled",
+            "normalized": "cooled"
+          },
+          {
+            "id": "fb716f8c-b488-4d60-9b09-08d5a5d565ed",
+            "clue": "European country bordered by Croatia and Austria",
+            "answer": "hungary",
+            "normalized": "hungary"
+          },
+          {
+            "id": "6b60d7d5-526c-42f8-85f3-6385396944ed",
+            "clue": "Ariana Grande's eau de parfum",
+            "answer": "ari",
+            "normalized": "ari"
+          },
+          {
+            "id": "9e39bbcc-b07a-490f-beb1-43206a45e06a",
+            "clue": "One sort of visual effect in a blockbuster movie",
+            "answer": "cgi",
+            "normalized": "cgi"
+          },
+          {
+            "id": "3fe7258a-fbc6-4f42-a3fc-8654de3f83f1",
+            "clue": "Typed at end of an SMS to indicate no reply needed",
+            "answer": "nrn",
+            "normalized": "nrn"
+          },
+          {
+            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
+            "clue": "Cartoon Chihuahua paired with cat Stimpy",
+            "answer": "ren",
+            "normalized": "ren"
+          },
+          {
+            "id": "d3ba025b-5343-44ad-9e79-b0ac75708458",
+            "clue": "Baking clay",
+            "answer": "kilning",
+            "normalized": "kilning"
+          },
+          {
+            "id": "afdbdc07-51db-48a6-b135-33f73449e145",
+            "clue": "Fungi; they're used in baking bread, brewing beer",
+            "answer": "yeasts",
+            "normalized": "yeasts"
+          },
+          {
+            "id": "07bf437a-e81d-40d4-988c-def4f97154f1",
+            "clue": "Rock back and forth in the wind",
+            "answer": "sway",
+            "normalized": "sway"
+          },
+          {
+            "id": "710699f4-199a-412c-aa18-6239e1fdd527",
+            "clue": "What a husband is to his spouse's parents",
+            "answer": "son in law",
+            "normalized": "soninlaw"
+          },
+          {
+            "id": "5442dbe5-74d0-43b2-9751-a14b84030ddb",
+            "clue": "A wheel's small tooth",
+            "answer": "cog",
+            "normalized": "cog"
+          },
+          {
+            "id": "033c87bf-ca37-47c8-b641-825f6ffdbad2",
+            "clue": "Speed, eagerness, promptness",
+            "answer": "alacrity",
+            "normalized": "alacrity"
+          },
+          {
+            "id": "8deb5791-aa9a-471b-b975-272cc2af3ea4",
+            "clue": "Enemies of the Trolls in 2016 DreamWorks animation",
+            "answer": "bergens",
+            "normalized": "bergens"
+          },
+          {
+            "id": "e9eb5893-38a7-4bf7-8583-e63b8dd5ff62",
+            "clue": "Dhansak, bhuna and madras are all __",
+            "answer": "curries",
+            "normalized": "curries"
+          },
+          {
+            "id": "4579cb89-e251-4ba3-8010-7a7329a2426b",
+            "clue": "As I lay __, 1930 Faulkner title",
+            "answer": "dying",
+            "normalized": "dying"
+          },
+          {
+            "id": "da60463c-b534-4d2e-928c-7c1d2ee3ca3c",
+            "clue": "In short, use one to blow your nose",
+            "answer": "hanky",
+            "normalized": "hanky"
+          },
+          {
+            "id": "fbdec2a9-34e9-41cb-b0df-fee3385e82ff",
+            "clue": "US government secretive surveillance experts",
+            "answer": "nsa",
+            "normalized": "nsa"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D20F1"
       }
     },
     "latestAvailableEntry": {
@@ -434852,21 +434780,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "sLcEaicqWvYk4Jo684qNvnoYpjJbUgfKFLSA0+yqkR5Z1k+zexMVvekP2RlQO8WtxTXV7exh+iOg5xYB00Y54W7mm+kR9d4DUr2c/73DqEV02kp3vp64y01U+RBEHVv50RRkkFEICk7R5re6OMinBrDLPdNjzHU3mpUpL+FwOATtcLMV2r2YdXDvtTtQXDnw11e/6VUOGYpyjRv2CEbsOYCDhvjPgRRg2LJa1/79vYPyULq8M5AV9E0n7Czz7Zc8xLUuYch31uAkJbOxncAWQjIbVw1w5mILPXBIpbhqyFU="
+        "aoqN+aJw28QBULJNNVaNifvs+2pOcFB2oXAjWAzWJLHci8BmCxWKPtD7juvhsXbIFJ8GLTXqpVYVR5XB+DO3CRO5YG5532GIVc0m+gvHaNNpov43F1mt1mfZDwf5i6F6fcYp+9PLF2u1VMcxjTvVkkGrIr4vZ0b1hNiXe0ZdvkDSthlkHsLiTYQBC7zl3PKX6t0FDroAt8i/4m7L9jC7rNfNr9xz/4QGBcQ1amLHKEeKVZG1+YvgxDmrchTO+aKgbbytUdeOdxpWFuYhiD9KVpEvTDtUq38BsjqMWr6AbyM="
       ]
     },
     "decrypted": {
-      "Id": "887caace-c9fe-4b5c-8a0b-8e1178b0e210",
-      "Date": "2026-08-19T00:00:00Z",
+      "Id": "8627e5b9-53d2-48a0-bad8-01a3fcebdba3",
+      "Date": "2026-08-20T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "hedge",
-      "NormalizedPassword": "hedge",
+      "Password": "elect",
+      "NormalizedPassword": "elect",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-19T00:34:53.1010000+05:30",
-    "hash": "6404ae58d8e23e2e00c877996ca3b062",
+    "dtu": "2026-08-20T00:30:08.1220000+05:30",
+    "hash": "9d8e516c012905893d8081ec14ddc2e0",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
