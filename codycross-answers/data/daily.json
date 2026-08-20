@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T19:00:08.122Z",
+  "generatedAt": "2026-08-20T19:08:42.394Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 20
+    "day": 21
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 36
+        "QuantidadeDeFases": 38
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434118,403 +434118,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-20",
+      "key": "2026-08-21",
       "year": 2026,
       "month": 8,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "7eb99b84-2ec1-47c6-a634-332782322cb3",
+        "puzzleId": "c63f5807-072c-43bb-8ae9-fdcb9fb6b315",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
-            "clue": "Sea fish used for liver oil",
-            "answer": "cod",
-            "normalized": "cod"
+            "id": "bbe129f1-d74f-4023-bf8d-2bd880d07711",
+            "clue": "Exhale of relief",
+            "answer": "ahh",
+            "normalized": "ahh"
           },
           {
-            "id": "79db8d9c-f822-4ea2-a17c-65e028fe9c1c",
-            "clue": "Juliet's doomed lover",
-            "answer": "romeo",
-            "normalized": "romeo"
+            "id": "47489712-8f4c-4125-871d-82604ed321b4",
+            "clue": "Don't put Baby in this, said Johnny",
+            "answer": "corner",
+            "normalized": "corner"
           },
           {
-            "id": "d3a549b6-e6ee-4420-9e78-668eef58bce5",
-            "clue": "Birthed a sheep",
-            "answer": "lambed",
-            "normalized": "lambed"
+            "id": "226bb87d-e3fd-4fb4-98b8-af1d9e1322cf",
+            "clue": "Tsar responsible for the building of St Basil's",
+            "answer": "ivan iv",
+            "normalized": "ivaniv"
           },
           {
-            "id": "d23d4e87-9873-47b2-82cd-f60cba932c4c",
-            "clue": "Someone to Watch __, Ella Fitzgerald song",
-            "answer": "over me",
-            "normalized": "overme"
+            "id": "87f62081-e7d1-4369-8673-c84c85afde0d",
+            "clue": "Jungle animal similar to a pig with a trunk snout",
+            "answer": "tapir",
+            "normalized": "tapir"
           },
           {
-            "id": "18f55ea5-edc9-4b2f-8131-e70e7715b122",
-            "clue": "Mosquitoes do this to humans",
-            "answer": "bite",
-            "normalized": "bite"
+            "id": "158aeba4-82b7-40b5-9ce7-fe8dd2ca4577",
+            "clue": "\"Do what I say, or __!\"",
+            "answer": "else",
+            "normalized": "else"
           },
           {
-            "id": "6eff5fce-282c-4f07-aaf7-f389ae656f9e",
-            "clue": "Halley's __ orbits the sun every 76 years",
-            "answer": "comet",
-            "normalized": "comet"
+            "id": "49906ee5-84f0-4cc9-9460-44b101fdff93",
+            "clue": "Musical about a red-headed orphan",
+            "answer": "annie",
+            "normalized": "annie"
           },
           {
-            "id": "67f5f1c9-551d-481d-9ad7-1bacb4c485ef",
-            "clue": "To blend one shade into another when dyeing hair",
-            "answer": "ombre",
-            "normalized": "ombre"
+            "id": "b2ecc4f2-deee-48a6-97b4-4cf3c2f5753f",
+            "clue": "Person who will receive someone's fortune",
+            "answer": "heir",
+            "normalized": "heir"
           },
           {
-            "id": "f5568ff1-256d-403e-87b4-3ecfaa280e7c",
-            "clue": "Consider to be",
-            "answer": "deem",
-            "normalized": "deem"
+            "id": "9356f497-de4c-4dd2-b222-8334c074881f",
+            "clue": "Alpha-3 code for Croatia",
+            "answer": "hrv",
+            "normalized": "hrv"
           },
           {
-            "id": "449cc5db-a049-4df7-8072-f066cbe2ffc3",
-            "clue": "Shankar, released 1968's The Sounds of India",
-            "answer": "ravi",
-            "normalized": "ravi"
+            "id": "ae1cc1ee-4cd8-43df-a59a-eb078aa52fa8",
+            "clue": "Attribute a source",
+            "answer": "cite",
+            "normalized": "cite"
           },
           {
-            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
-            "clue": "Poem addressed to someone",
-            "answer": "ode",
-            "normalized": "ode"
+            "id": "23176174-c65a-4535-9438-997e64111b65",
+            "clue": "2D shape of most eggs",
+            "answer": "oval",
+            "normalized": "oval"
           },
           {
-            "id": "063fa2ed-03bf-4fd6-b77c-b7f00a7fb4d1",
-            "clue": "A high throw",
-            "answer": "lob",
-            "normalized": "lob"
+            "id": "0e2cca64-2e20-4574-b532-f7cab52645a4",
+            "clue": "Performs rhythmic hip-hop",
+            "answer": "raps",
+            "normalized": "raps"
           }
         ],
-        "track": "PC|LenC--Y2026M8D20F0"
+        "track": "PC|LenC--Y2026M8D21F0"
       },
       "mid": {
-        "puzzleId": "94e14645-274a-42e3-84b7-9dc13a94b9ab",
+        "puzzleId": "36ec17b9-1461-4001-ba16-64750836b3d5",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 4,
+        "version": 7,
         "answers": [
           {
-            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
-            "clue": "Dry crust over a wound",
-            "answer": "scab",
-            "normalized": "scab"
+            "id": "49c58409-4cea-4513-b400-df4735f6c6e3",
+            "clue": "Sound made when pondering over something",
+            "answer": "hmm",
+            "normalized": "hmm"
           },
           {
-            "id": "91b1ac56-2fd0-4e9d-85fb-a761bbe0f5bd",
-            "clue": "Became less warm",
-            "answer": "cooled",
-            "normalized": "cooled"
+            "id": "444e53f9-e9ca-489f-86fe-39b69d71cb37",
+            "clue": "South American berry, popular in health bowls",
+            "answer": "acai",
+            "normalized": "acai"
           },
           {
-            "id": "fb716f8c-b488-4d60-9b09-08d5a5d565ed",
-            "clue": "European country bordered by Croatia and Austria",
-            "answer": "hungary",
-            "normalized": "hungary"
+            "id": "18689205-3e0b-46d9-aa94-ddedcee3c9fd",
+            "clue": "Another name for fish eggs; a kind of small deer",
+            "answer": "roe",
+            "normalized": "roe"
           },
           {
-            "id": "6b60d7d5-526c-42f8-85f3-6385396944ed",
-            "clue": "Ariana Grande's eau de parfum",
-            "answer": "ari",
-            "normalized": "ari"
+            "id": "b1cee2c4-9920-4c81-80f2-697921123535",
+            "clue": "Hay is often found in this bundle",
+            "answer": "bale",
+            "normalized": "bale"
           },
           {
-            "id": "9e39bbcc-b07a-490f-beb1-43206a45e06a",
-            "clue": "One sort of visual effect in a blockbuster movie",
-            "answer": "cgi",
-            "normalized": "cgi"
+            "id": "2a948e34-7b43-4838-95ac-822b528ae2aa",
+            "clue": "Domain name system",
+            "answer": "dns",
+            "normalized": "dns"
           },
           {
-            "id": "3fe7258a-fbc6-4f42-a3fc-8654de3f83f1",
-            "clue": "Typed at end of an SMS to indicate no reply needed",
-            "answer": "nrn",
-            "normalized": "nrn"
+            "id": "f7272e59-ffc2-4482-91c9-f63b81f36aba",
+            "clue": "Andy Griffith's son played by Ron Howard",
+            "answer": "opie",
+            "normalized": "opie"
           },
           {
-            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
-            "clue": "Cartoon Chihuahua paired with cat Stimpy",
-            "answer": "ren",
-            "normalized": "ren"
+            "id": "d1dd65db-af6b-4885-a9e9-f23e208cc516",
+            "clue": "Patron saint of Milan",
+            "answer": "ambrose",
+            "normalized": "ambrose"
           },
           {
-            "id": "d3ba025b-5343-44ad-9e79-b0ac75708458",
-            "clue": "Baking clay",
-            "answer": "kilning",
-            "normalized": "kilning"
+            "id": "f4e93478-f907-4aa5-80f0-44316eee7028",
+            "clue": "Moved quickly",
+            "answer": "fleeted",
+            "normalized": "fleeted"
           },
           {
-            "id": "afdbdc07-51db-48a6-b135-33f73449e145",
-            "clue": "Fungi; they're used in baking bread, brewing beer",
-            "answer": "yeasts",
-            "normalized": "yeasts"
+            "id": "94edd87a-147b-4fb9-b8e6-39664f89a30b",
+            "clue": "Italy's currency before the euro (plural)",
+            "answer": "lire",
+            "normalized": "lire"
           },
           {
-            "id": "07bf437a-e81d-40d4-988c-def4f97154f1",
-            "clue": "Rock back and forth in the wind",
-            "answer": "sway",
-            "normalized": "sway"
+            "id": "78dcead2-c942-4270-ab04-c5b2edf901e8",
+            "clue": "Fleming, who wrote the James Bond books",
+            "answer": "ian",
+            "normalized": "ian"
           },
           {
-            "id": "710699f4-199a-412c-aa18-6239e1fdd527",
-            "clue": "What a husband is to his spouse's parents",
-            "answer": "son in law",
-            "normalized": "soninlaw"
+            "id": "cb0a8d52-6de5-43c4-a0f4-4df7a3624d0c",
+            "clue": "Two words meaning in your dreams, you wish",
+            "answer": "as if",
+            "normalized": "asif"
           },
           {
-            "id": "5442dbe5-74d0-43b2-9751-a14b84030ddb",
-            "clue": "A wheel's small tooth",
-            "answer": "cog",
-            "normalized": "cog"
+            "id": "a6357f65-ad7d-4548-8ae6-db76fd90dd37",
+            "clue": "Brazilian city that ends in de Janeiro",
+            "answer": "rio",
+            "normalized": "rio"
           },
           {
-            "id": "033c87bf-ca37-47c8-b641-825f6ffdbad2",
-            "clue": "Speed, eagerness, promptness",
-            "answer": "alacrity",
-            "normalized": "alacrity"
+            "id": "79afaa7e-cb8d-4143-839b-c59daee71e7f",
+            "clue": "Common alternative to PCs",
+            "answer": "macs",
+            "normalized": "macs"
           },
           {
-            "id": "8deb5791-aa9a-471b-b975-272cc2af3ea4",
-            "clue": "Enemies of the Trolls in 2016 DreamWorks animation",
-            "answer": "bergens",
-            "normalized": "bergens"
+            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
+            "clue": "Paintings, sculptures, and more",
+            "answer": "art",
+            "normalized": "art"
           },
           {
-            "id": "e9eb5893-38a7-4bf7-8583-e63b8dd5ff62",
-            "clue": "Dhansak, bhuna and madras are all __",
-            "answer": "curries",
-            "normalized": "curries"
+            "id": "b2a1dd4e-e546-448f-ac35-803ec10f6080",
+            "clue": "Human resource development for short",
+            "answer": "hrd",
+            "normalized": "hrd"
           },
           {
-            "id": "4579cb89-e251-4ba3-8010-7a7329a2426b",
-            "clue": "As I lay __, 1930 Faulkner title",
-            "answer": "dying",
-            "normalized": "dying"
+            "id": "0bbc2883-8c29-4ed7-9114-5484aef5b366",
+            "clue": "The painted Italian woman with the enigmatic smile",
+            "answer": "mona lisa",
+            "normalized": "monalisa"
           },
           {
-            "id": "da60463c-b534-4d2e-928c-7c1d2ee3ca3c",
-            "clue": "In short, use one to blow your nose",
-            "answer": "hanky",
-            "normalized": "hanky"
+            "id": "844e1fd4-c004-4c81-a0b7-6ebe3975a1b3",
+            "clue": "Transfixing",
+            "answer": "mesmeric",
+            "normalized": "mesmeric"
           },
           {
-            "id": "fbdec2a9-34e9-41cb-b0df-fee3385e82ff",
-            "clue": "US government secretive surveillance experts",
-            "answer": "nsa",
-            "normalized": "nsa"
+            "id": "c17f64f3-bc24-4dad-ac1e-0435badbb09c",
+            "clue": "End or cancel a mission abruptly",
+            "answer": "abort",
+            "normalized": "abort"
+          },
+          {
+            "id": "3dfdc752-49e4-4f9f-9d55-e8978e09b7df",
+            "clue": "Martial dance art from Brazil",
+            "answer": "capoeira",
+            "normalized": "capoeira"
+          },
+          {
+            "id": "6a8a9644-eec1-401f-837c-93e391bb7c34",
+            "clue": "Novelist who wrote Poor Things and Lanark, __ Gray",
+            "answer": "alisdair",
+            "normalized": "alisdair"
+          },
+          {
+            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
+            "clue": "Largest association for the technical professions",
+            "answer": "ieee",
+            "normalized": "ieee"
+          },
+          {
+            "id": "3e26cec6-0f08-4fad-8404-73ab89b116cc",
+            "clue": "Informal complaints, slangily",
+            "answer": "beefs",
+            "normalized": "beefs"
+          },
+          {
+            "id": "da60ce48-d703-45b8-9221-d723042c4c89",
+            "clue": "Partner to flim",
+            "answer": "flam",
+            "normalized": "flam"
+          },
+          {
+            "id": "8a17b811-8709-4f73-b7f8-05e8ea113bda",
+            "clue": "Soliloquist's line, \"To be or __ to be\"",
+            "answer": "not",
+            "normalized": "not"
           }
         ],
-        "track": "PC|LenC--Y2026M8D20F1"
+        "track": "PC|LenC--Y2026M8D21F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-20",
+      "key": "2026-08-21",
       "year": 2026,
       "month": 8,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "7eb99b84-2ec1-47c6-a634-332782322cb3",
+        "puzzleId": "c63f5807-072c-43bb-8ae9-fdcb9fb6b315",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
-            "clue": "Sea fish used for liver oil",
-            "answer": "cod",
-            "normalized": "cod"
+            "id": "bbe129f1-d74f-4023-bf8d-2bd880d07711",
+            "clue": "Exhale of relief",
+            "answer": "ahh",
+            "normalized": "ahh"
           },
           {
-            "id": "79db8d9c-f822-4ea2-a17c-65e028fe9c1c",
-            "clue": "Juliet's doomed lover",
-            "answer": "romeo",
-            "normalized": "romeo"
+            "id": "47489712-8f4c-4125-871d-82604ed321b4",
+            "clue": "Don't put Baby in this, said Johnny",
+            "answer": "corner",
+            "normalized": "corner"
           },
           {
-            "id": "d3a549b6-e6ee-4420-9e78-668eef58bce5",
-            "clue": "Birthed a sheep",
-            "answer": "lambed",
-            "normalized": "lambed"
+            "id": "226bb87d-e3fd-4fb4-98b8-af1d9e1322cf",
+            "clue": "Tsar responsible for the building of St Basil's",
+            "answer": "ivan iv",
+            "normalized": "ivaniv"
           },
           {
-            "id": "d23d4e87-9873-47b2-82cd-f60cba932c4c",
-            "clue": "Someone to Watch __, Ella Fitzgerald song",
-            "answer": "over me",
-            "normalized": "overme"
+            "id": "87f62081-e7d1-4369-8673-c84c85afde0d",
+            "clue": "Jungle animal similar to a pig with a trunk snout",
+            "answer": "tapir",
+            "normalized": "tapir"
           },
           {
-            "id": "18f55ea5-edc9-4b2f-8131-e70e7715b122",
-            "clue": "Mosquitoes do this to humans",
-            "answer": "bite",
-            "normalized": "bite"
+            "id": "158aeba4-82b7-40b5-9ce7-fe8dd2ca4577",
+            "clue": "\"Do what I say, or __!\"",
+            "answer": "else",
+            "normalized": "else"
           },
           {
-            "id": "6eff5fce-282c-4f07-aaf7-f389ae656f9e",
-            "clue": "Halley's __ orbits the sun every 76 years",
-            "answer": "comet",
-            "normalized": "comet"
+            "id": "49906ee5-84f0-4cc9-9460-44b101fdff93",
+            "clue": "Musical about a red-headed orphan",
+            "answer": "annie",
+            "normalized": "annie"
           },
           {
-            "id": "67f5f1c9-551d-481d-9ad7-1bacb4c485ef",
-            "clue": "To blend one shade into another when dyeing hair",
-            "answer": "ombre",
-            "normalized": "ombre"
+            "id": "b2ecc4f2-deee-48a6-97b4-4cf3c2f5753f",
+            "clue": "Person who will receive someone's fortune",
+            "answer": "heir",
+            "normalized": "heir"
           },
           {
-            "id": "f5568ff1-256d-403e-87b4-3ecfaa280e7c",
-            "clue": "Consider to be",
-            "answer": "deem",
-            "normalized": "deem"
+            "id": "9356f497-de4c-4dd2-b222-8334c074881f",
+            "clue": "Alpha-3 code for Croatia",
+            "answer": "hrv",
+            "normalized": "hrv"
           },
           {
-            "id": "449cc5db-a049-4df7-8072-f066cbe2ffc3",
-            "clue": "Shankar, released 1968's The Sounds of India",
-            "answer": "ravi",
-            "normalized": "ravi"
+            "id": "ae1cc1ee-4cd8-43df-a59a-eb078aa52fa8",
+            "clue": "Attribute a source",
+            "answer": "cite",
+            "normalized": "cite"
           },
           {
-            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
-            "clue": "Poem addressed to someone",
-            "answer": "ode",
-            "normalized": "ode"
+            "id": "23176174-c65a-4535-9438-997e64111b65",
+            "clue": "2D shape of most eggs",
+            "answer": "oval",
+            "normalized": "oval"
           },
           {
-            "id": "063fa2ed-03bf-4fd6-b77c-b7f00a7fb4d1",
-            "clue": "A high throw",
-            "answer": "lob",
-            "normalized": "lob"
+            "id": "0e2cca64-2e20-4574-b532-f7cab52645a4",
+            "clue": "Performs rhythmic hip-hop",
+            "answer": "raps",
+            "normalized": "raps"
           }
         ],
-        "track": "PC|LenC--Y2026M8D20F0"
+        "track": "PC|LenC--Y2026M8D21F0"
       },
       "mid": {
-        "puzzleId": "94e14645-274a-42e3-84b7-9dc13a94b9ab",
+        "puzzleId": "36ec17b9-1461-4001-ba16-64750836b3d5",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 4,
+        "version": 7,
         "answers": [
           {
-            "id": "86d77e33-2091-40fe-bf47-605c03bdfff0",
-            "clue": "Dry crust over a wound",
-            "answer": "scab",
-            "normalized": "scab"
+            "id": "49c58409-4cea-4513-b400-df4735f6c6e3",
+            "clue": "Sound made when pondering over something",
+            "answer": "hmm",
+            "normalized": "hmm"
           },
           {
-            "id": "91b1ac56-2fd0-4e9d-85fb-a761bbe0f5bd",
-            "clue": "Became less warm",
-            "answer": "cooled",
-            "normalized": "cooled"
+            "id": "444e53f9-e9ca-489f-86fe-39b69d71cb37",
+            "clue": "South American berry, popular in health bowls",
+            "answer": "acai",
+            "normalized": "acai"
           },
           {
-            "id": "fb716f8c-b488-4d60-9b09-08d5a5d565ed",
-            "clue": "European country bordered by Croatia and Austria",
-            "answer": "hungary",
-            "normalized": "hungary"
+            "id": "18689205-3e0b-46d9-aa94-ddedcee3c9fd",
+            "clue": "Another name for fish eggs; a kind of small deer",
+            "answer": "roe",
+            "normalized": "roe"
           },
           {
-            "id": "6b60d7d5-526c-42f8-85f3-6385396944ed",
-            "clue": "Ariana Grande's eau de parfum",
-            "answer": "ari",
-            "normalized": "ari"
+            "id": "b1cee2c4-9920-4c81-80f2-697921123535",
+            "clue": "Hay is often found in this bundle",
+            "answer": "bale",
+            "normalized": "bale"
           },
           {
-            "id": "9e39bbcc-b07a-490f-beb1-43206a45e06a",
-            "clue": "One sort of visual effect in a blockbuster movie",
-            "answer": "cgi",
-            "normalized": "cgi"
+            "id": "2a948e34-7b43-4838-95ac-822b528ae2aa",
+            "clue": "Domain name system",
+            "answer": "dns",
+            "normalized": "dns"
           },
           {
-            "id": "3fe7258a-fbc6-4f42-a3fc-8654de3f83f1",
-            "clue": "Typed at end of an SMS to indicate no reply needed",
-            "answer": "nrn",
-            "normalized": "nrn"
+            "id": "f7272e59-ffc2-4482-91c9-f63b81f36aba",
+            "clue": "Andy Griffith's son played by Ron Howard",
+            "answer": "opie",
+            "normalized": "opie"
           },
           {
-            "id": "8400d555-73ad-46fa-936f-0cf9420e9215",
-            "clue": "Cartoon Chihuahua paired with cat Stimpy",
-            "answer": "ren",
-            "normalized": "ren"
+            "id": "d1dd65db-af6b-4885-a9e9-f23e208cc516",
+            "clue": "Patron saint of Milan",
+            "answer": "ambrose",
+            "normalized": "ambrose"
           },
           {
-            "id": "d3ba025b-5343-44ad-9e79-b0ac75708458",
-            "clue": "Baking clay",
-            "answer": "kilning",
-            "normalized": "kilning"
+            "id": "f4e93478-f907-4aa5-80f0-44316eee7028",
+            "clue": "Moved quickly",
+            "answer": "fleeted",
+            "normalized": "fleeted"
           },
           {
-            "id": "afdbdc07-51db-48a6-b135-33f73449e145",
-            "clue": "Fungi; they're used in baking bread, brewing beer",
-            "answer": "yeasts",
-            "normalized": "yeasts"
+            "id": "94edd87a-147b-4fb9-b8e6-39664f89a30b",
+            "clue": "Italy's currency before the euro (plural)",
+            "answer": "lire",
+            "normalized": "lire"
           },
           {
-            "id": "07bf437a-e81d-40d4-988c-def4f97154f1",
-            "clue": "Rock back and forth in the wind",
-            "answer": "sway",
-            "normalized": "sway"
+            "id": "78dcead2-c942-4270-ab04-c5b2edf901e8",
+            "clue": "Fleming, who wrote the James Bond books",
+            "answer": "ian",
+            "normalized": "ian"
           },
           {
-            "id": "710699f4-199a-412c-aa18-6239e1fdd527",
-            "clue": "What a husband is to his spouse's parents",
-            "answer": "son in law",
-            "normalized": "soninlaw"
+            "id": "cb0a8d52-6de5-43c4-a0f4-4df7a3624d0c",
+            "clue": "Two words meaning in your dreams, you wish",
+            "answer": "as if",
+            "normalized": "asif"
           },
           {
-            "id": "5442dbe5-74d0-43b2-9751-a14b84030ddb",
-            "clue": "A wheel's small tooth",
-            "answer": "cog",
-            "normalized": "cog"
+            "id": "a6357f65-ad7d-4548-8ae6-db76fd90dd37",
+            "clue": "Brazilian city that ends in de Janeiro",
+            "answer": "rio",
+            "normalized": "rio"
           },
           {
-            "id": "033c87bf-ca37-47c8-b641-825f6ffdbad2",
-            "clue": "Speed, eagerness, promptness",
-            "answer": "alacrity",
-            "normalized": "alacrity"
+            "id": "79afaa7e-cb8d-4143-839b-c59daee71e7f",
+            "clue": "Common alternative to PCs",
+            "answer": "macs",
+            "normalized": "macs"
           },
           {
-            "id": "8deb5791-aa9a-471b-b975-272cc2af3ea4",
-            "clue": "Enemies of the Trolls in 2016 DreamWorks animation",
-            "answer": "bergens",
-            "normalized": "bergens"
+            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
+            "clue": "Paintings, sculptures, and more",
+            "answer": "art",
+            "normalized": "art"
           },
           {
-            "id": "e9eb5893-38a7-4bf7-8583-e63b8dd5ff62",
-            "clue": "Dhansak, bhuna and madras are all __",
-            "answer": "curries",
-            "normalized": "curries"
+            "id": "b2a1dd4e-e546-448f-ac35-803ec10f6080",
+            "clue": "Human resource development for short",
+            "answer": "hrd",
+            "normalized": "hrd"
           },
           {
-            "id": "4579cb89-e251-4ba3-8010-7a7329a2426b",
-            "clue": "As I lay __, 1930 Faulkner title",
-            "answer": "dying",
-            "normalized": "dying"
+            "id": "0bbc2883-8c29-4ed7-9114-5484aef5b366",
+            "clue": "The painted Italian woman with the enigmatic smile",
+            "answer": "mona lisa",
+            "normalized": "monalisa"
           },
           {
-            "id": "da60463c-b534-4d2e-928c-7c1d2ee3ca3c",
-            "clue": "In short, use one to blow your nose",
-            "answer": "hanky",
-            "normalized": "hanky"
+            "id": "844e1fd4-c004-4c81-a0b7-6ebe3975a1b3",
+            "clue": "Transfixing",
+            "answer": "mesmeric",
+            "normalized": "mesmeric"
           },
           {
-            "id": "fbdec2a9-34e9-41cb-b0df-fee3385e82ff",
-            "clue": "US government secretive surveillance experts",
-            "answer": "nsa",
-            "normalized": "nsa"
+            "id": "c17f64f3-bc24-4dad-ac1e-0435badbb09c",
+            "clue": "End or cancel a mission abruptly",
+            "answer": "abort",
+            "normalized": "abort"
+          },
+          {
+            "id": "3dfdc752-49e4-4f9f-9d55-e8978e09b7df",
+            "clue": "Martial dance art from Brazil",
+            "answer": "capoeira",
+            "normalized": "capoeira"
+          },
+          {
+            "id": "6a8a9644-eec1-401f-837c-93e391bb7c34",
+            "clue": "Novelist who wrote Poor Things and Lanark, __ Gray",
+            "answer": "alisdair",
+            "normalized": "alisdair"
+          },
+          {
+            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
+            "clue": "Largest association for the technical professions",
+            "answer": "ieee",
+            "normalized": "ieee"
+          },
+          {
+            "id": "3e26cec6-0f08-4fad-8404-73ab89b116cc",
+            "clue": "Informal complaints, slangily",
+            "answer": "beefs",
+            "normalized": "beefs"
+          },
+          {
+            "id": "da60ce48-d703-45b8-9221-d723042c4c89",
+            "clue": "Partner to flim",
+            "answer": "flam",
+            "normalized": "flam"
+          },
+          {
+            "id": "8a17b811-8709-4f73-b7f8-05e8ea113bda",
+            "clue": "Soliloquist's line, \"To be or __ to be\"",
+            "answer": "not",
+            "normalized": "not"
           }
         ],
-        "track": "PC|LenC--Y2026M8D20F1"
+        "track": "PC|LenC--Y2026M8D21F1"
       }
     },
     "latestAvailableEntry": {
@@ -434780,21 +434852,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "aoqN+aJw28QBULJNNVaNifvs+2pOcFB2oXAjWAzWJLHci8BmCxWKPtD7juvhsXbIFJ8GLTXqpVYVR5XB+DO3CRO5YG5532GIVc0m+gvHaNNpov43F1mt1mfZDwf5i6F6fcYp+9PLF2u1VMcxjTvVkkGrIr4vZ0b1hNiXe0ZdvkDSthlkHsLiTYQBC7zl3PKX6t0FDroAt8i/4m7L9jC7rNfNr9xz/4QGBcQ1amLHKEeKVZG1+YvgxDmrchTO+aKgbbytUdeOdxpWFuYhiD9KVpEvTDtUq38BsjqMWr6AbyM="
+        "9MYRSkuLT2agy4JG4h1Uns42sRavcK96+kVMGxjB8SU7bdUhq9X4eL6rp7iiTs56Kc8AeG9igfwRi4KJR3a2oXo7/XvTZiVn9DEjnhiofLhY4TCdjAtuzYPu4hAvh8r/SLF/G0DdMHLkvvDNUuo4ulcpDxYIydlp5cf5Gkx3WraPlY5AMUmq7h7xQoAVIRpEHIGxd+5mJPDD3KMwnTarws8vusq1wo9Fb3hlr8Tquc8NA4/u5/8vmbxcUADyZbDuy7E/SsaUAqMKn4ZfS36WXw2smI5l5uoGsJsT8wOkjBc="
       ]
     },
     "decrypted": {
-      "Id": "8627e5b9-53d2-48a0-bad8-01a3fcebdba3",
-      "Date": "2026-08-20T00:00:00Z",
+      "Id": "c3d23fa6-17d7-4014-8280-389db892048f",
+      "Date": "2026-08-21T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "elect",
-      "NormalizedPassword": "elect",
+      "Password": "skate",
+      "NormalizedPassword": "skate",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-20T00:30:08.1220000+05:30",
-    "hash": "9d8e516c012905893d8081ec14ddc2e0",
+    "dtu": "2026-08-21T00:38:42.3940000+05:30",
+    "hash": "1b05937184e7f3a780fbd2d98b1eaccc",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
