@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T19:08:42.394Z",
+  "generatedAt": "2026-08-21T19:05:02.311Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 21
+    "day": 22
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 38
+        "QuantidadeDeFases": 40
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -426180,76 +426180,277 @@
         "month": 4,
         "day": 4,
         "small": {
-          "puzzleId": "f32bf814-ffbd-4d4b-b539-d7eaa6efc54b",
-          "fase": 2,
-          "size": 1,
+          "puzzleId": "24453b14-5ff5-49be-b7b0-3ef64b7729d8",
+          "fase": 0,
+          "size": 2,
           "status": 1,
-          "version": 8,
+          "version": 1,
           "answers": [
             {
-              "id": "6dcca6f3-7d15-490b-9b3a-64764b28cbcf",
-              "clue": "Not solid or liquid",
-              "answer": "gas",
-              "normalized": "gas"
+              "id": "5a26a8eb-8c29-489f-a266-c602c3f20a28",
+              "clue": "Surveillance camera on a home or business",
+              "answer": "cctv",
+              "normalized": "cctv"
             },
             {
-              "id": "1df5c744-9370-4016-b2ca-35af7691d40d",
-              "clue": "The A in the ABC islands",
-              "answer": "aruba",
-              "normalized": "aruba"
+              "id": "8c457173-62f7-45e4-a4dd-76c32e974527",
+              "clue": "Part of the knee that is often sprained or torn",
+              "answer": "acl",
+              "normalized": "acl"
             },
             {
-              "id": "5304cd8d-386e-4263-9383-239f76d00914",
-              "clue": "Digital sound system used in cinemas and TVs",
-              "answer": "dolby",
-              "normalized": "dolby"
+              "id": "b9a931a7-feb8-4cdb-b96c-48a0ce6311c0",
+              "clue": "They don't believe that god or gods exist",
+              "answer": "atheists",
+              "normalized": "atheists"
             },
             {
-              "id": "3e9a4712-d663-42ad-9342-3df414808190",
-              "clue": "Book of maps",
-              "answer": "atlas",
-              "normalized": "atlas"
+              "id": "06d12a13-4cb2-44b1-bcba-63c781e9960c",
+              "clue": "Get the __ of the stick; confused or mistaken",
+              "answer": "wrong end",
+              "normalized": "wrongend"
             },
             {
-              "id": "7239eb94-8121-4871-8812-30468ed2db14",
-              "clue": "Month of the year with only three letters",
-              "answer": "may",
-              "normalized": "may"
+              "id": "77b86a99-5927-4608-b146-c194b9c225c4",
+              "clue": "\"Beam __, Scotty,\" catchphrase linked to Star Trek",
+              "answer": "me up",
+              "normalized": "meup"
             },
             {
-              "id": "5732f5ae-42fa-46d2-9a04-c9e30e036fee",
-              "clue": "Ravine formed by water",
-              "answer": "gully",
-              "normalized": "gully"
+              "id": "6499c610-6c13-45ad-9186-101e15fac826",
+              "clue": "South __, body of water to the east of Vietnam",
+              "answer": "china sea",
+              "normalized": "chinasea"
             },
             {
-              "id": "b69fac94-e194-4cf8-88a5-e6fbb8268300",
-              "clue": "Swedish pop group who sang Dancing Queen",
-              "answer": "abba",
-              "normalized": "abba"
+              "id": "36fadf2d-4f1d-4b3f-997b-f913126cfa51",
+              "clue": "Someone who deliberately starts criminal fires",
+              "answer": "arsonist",
+              "normalized": "arsonist"
             },
             {
-              "id": "ac4dcd14-6b5f-4a8c-916f-6bea379be3eb",
-              "clue": "Thinks aloud",
-              "answer": "says",
-              "normalized": "says"
+              "id": "a11ef76d-fa51-4fb6-8ea8-1a4e1768c6a0",
+              "clue": "Text speak for never mind",
+              "answer": "nvm",
+              "normalized": "nvm"
             },
             {
-              "id": "ff5f26b1-bd98-46e3-b1ad-eea283aebbb2",
-              "clue": "Eve's partner in the garden of eden",
-              "answer": "adam",
-              "normalized": "adam"
+              "id": "2362241a-33af-4538-b4b6-11a732f2c08e",
+              "clue": "Finish something __, without delay",
+              "answer": "asap",
+              "normalized": "asap"
             },
             {
-              "id": "3300865f-1afb-455b-bc21-c8f59df8e661",
-              "clue": "UK term for list showing whose turn it is to work",
-              "answer": "rota",
-              "normalized": "rota"
+              "id": "0a73727b-92bc-4178-9d98-65509e7f391b",
+              "clue": "The cry of a crow",
+              "answer": "caw",
+              "normalized": "caw"
+            },
+            {
+              "id": "53e94dda-480f-4ba1-91a5-1d293ecef14f",
+              "clue": "Initialism for click-through rate",
+              "answer": "ctr",
+              "normalized": "ctr"
+            },
+            {
+              "id": "a8eebe32-84a9-4a23-83b5-53edd9699bb0",
+              "clue": "School of philosophy named after Thomas Aquinas",
+              "answer": "thomism",
+              "normalized": "thomism"
+            },
+            {
+              "id": "f04b38de-2076-4eb3-acae-61c2fc4b25f3",
+              "clue": "Lamborghini 50th anniversary car",
+              "answer": "veneno",
+              "normalized": "veneno"
+            },
+            {
+              "id": "ed75acbf-02fd-4bb3-bca7-2c60fc44bd93",
+              "clue": "Absence of bacteria",
+              "answer": "asepsis",
+              "normalized": "asepsis"
+            },
+            {
+              "id": "ce6b98b2-a6ba-42a1-b146-3a8c6765aa38",
+              "clue": "Quick way to say \"can't talk now\" in messaging",
+              "answer": "ctn",
+              "normalized": "ctn"
+            },
+            {
+              "id": "de9bf080-9b56-4705-b8e0-0b1e7fa812b8",
+              "clue": "Psychologist Timothy Leary advocated its use",
+              "answer": "lsd",
+              "normalized": "lsd"
+            },
+            {
+              "id": "b4d35bb4-13f9-4e26-91e3-cbda67c26ee5",
+              "clue": "Lizard, well-known for being a pet",
+              "answer": "iguana",
+              "normalized": "iguana"
+            },
+            {
+              "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
+              "clue": "Container for Coke and beans",
+              "answer": "can",
+              "normalized": "can"
+            },
+            {
+              "id": "9356f497-de4c-4dd2-b222-8334c074881f",
+              "clue": "Alpha-3 code for Croatia",
+              "answer": "hrv",
+              "normalized": "hrv"
+            },
+            {
+              "id": "c52c1af7-8b01-4e0d-b7f7-2ec6fc38c781",
+              "clue": "Europe's space exploration group",
+              "answer": "esa",
+              "normalized": "esa"
+            },
+            {
+              "id": "d20715e5-f413-4a05-b85b-7e898734a143",
+              "clue": "Association of Tennis Professionals, acronym",
+              "answer": "atp",
+              "normalized": "atp"
             }
           ],
-          "track": "PC|LenC--Y2021M4D4F2"
+          "track": "PC|LenC--Y2021M4D4F0"
         },
-        "mid": null
+        "mid": {
+          "puzzleId": "24453b14-5ff5-49be-b7b0-3ef64b7729d8",
+          "fase": 0,
+          "size": 2,
+          "status": 1,
+          "version": 1,
+          "answers": [
+            {
+              "id": "5a26a8eb-8c29-489f-a266-c602c3f20a28",
+              "clue": "Surveillance camera on a home or business",
+              "answer": "cctv",
+              "normalized": "cctv"
+            },
+            {
+              "id": "8c457173-62f7-45e4-a4dd-76c32e974527",
+              "clue": "Part of the knee that is often sprained or torn",
+              "answer": "acl",
+              "normalized": "acl"
+            },
+            {
+              "id": "b9a931a7-feb8-4cdb-b96c-48a0ce6311c0",
+              "clue": "They don't believe that god or gods exist",
+              "answer": "atheists",
+              "normalized": "atheists"
+            },
+            {
+              "id": "06d12a13-4cb2-44b1-bcba-63c781e9960c",
+              "clue": "Get the __ of the stick; confused or mistaken",
+              "answer": "wrong end",
+              "normalized": "wrongend"
+            },
+            {
+              "id": "77b86a99-5927-4608-b146-c194b9c225c4",
+              "clue": "\"Beam __, Scotty,\" catchphrase linked to Star Trek",
+              "answer": "me up",
+              "normalized": "meup"
+            },
+            {
+              "id": "6499c610-6c13-45ad-9186-101e15fac826",
+              "clue": "South __, body of water to the east of Vietnam",
+              "answer": "china sea",
+              "normalized": "chinasea"
+            },
+            {
+              "id": "36fadf2d-4f1d-4b3f-997b-f913126cfa51",
+              "clue": "Someone who deliberately starts criminal fires",
+              "answer": "arsonist",
+              "normalized": "arsonist"
+            },
+            {
+              "id": "a11ef76d-fa51-4fb6-8ea8-1a4e1768c6a0",
+              "clue": "Text speak for never mind",
+              "answer": "nvm",
+              "normalized": "nvm"
+            },
+            {
+              "id": "2362241a-33af-4538-b4b6-11a732f2c08e",
+              "clue": "Finish something __, without delay",
+              "answer": "asap",
+              "normalized": "asap"
+            },
+            {
+              "id": "0a73727b-92bc-4178-9d98-65509e7f391b",
+              "clue": "The cry of a crow",
+              "answer": "caw",
+              "normalized": "caw"
+            },
+            {
+              "id": "53e94dda-480f-4ba1-91a5-1d293ecef14f",
+              "clue": "Initialism for click-through rate",
+              "answer": "ctr",
+              "normalized": "ctr"
+            },
+            {
+              "id": "a8eebe32-84a9-4a23-83b5-53edd9699bb0",
+              "clue": "School of philosophy named after Thomas Aquinas",
+              "answer": "thomism",
+              "normalized": "thomism"
+            },
+            {
+              "id": "f04b38de-2076-4eb3-acae-61c2fc4b25f3",
+              "clue": "Lamborghini 50th anniversary car",
+              "answer": "veneno",
+              "normalized": "veneno"
+            },
+            {
+              "id": "ed75acbf-02fd-4bb3-bca7-2c60fc44bd93",
+              "clue": "Absence of bacteria",
+              "answer": "asepsis",
+              "normalized": "asepsis"
+            },
+            {
+              "id": "ce6b98b2-a6ba-42a1-b146-3a8c6765aa38",
+              "clue": "Quick way to say \"can't talk now\" in messaging",
+              "answer": "ctn",
+              "normalized": "ctn"
+            },
+            {
+              "id": "de9bf080-9b56-4705-b8e0-0b1e7fa812b8",
+              "clue": "Psychologist Timothy Leary advocated its use",
+              "answer": "lsd",
+              "normalized": "lsd"
+            },
+            {
+              "id": "b4d35bb4-13f9-4e26-91e3-cbda67c26ee5",
+              "clue": "Lizard, well-known for being a pet",
+              "answer": "iguana",
+              "normalized": "iguana"
+            },
+            {
+              "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
+              "clue": "Container for Coke and beans",
+              "answer": "can",
+              "normalized": "can"
+            },
+            {
+              "id": "9356f497-de4c-4dd2-b222-8334c074881f",
+              "clue": "Alpha-3 code for Croatia",
+              "answer": "hrv",
+              "normalized": "hrv"
+            },
+            {
+              "id": "c52c1af7-8b01-4e0d-b7f7-2ec6fc38c781",
+              "clue": "Europe's space exploration group",
+              "answer": "esa",
+              "normalized": "esa"
+            },
+            {
+              "id": "d20715e5-f413-4a05-b85b-7e898734a143",
+              "clue": "Association of Tennis Professionals, acronym",
+              "answer": "atp",
+              "normalized": "atp"
+            }
+          ],
+          "track": "PC|LenC--Y2021M4D4F0"
+        }
       },
       {
         "key": "2021-04-03",
@@ -434118,475 +434319,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-21",
+      "key": "2026-08-22",
       "year": 2026,
       "month": 8,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "c63f5807-072c-43bb-8ae9-fdcb9fb6b315",
+        "puzzleId": "83b67952-34a9-45ee-9048-72c6fb21daa0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "bbe129f1-d74f-4023-bf8d-2bd880d07711",
-            "clue": "Exhale of relief",
-            "answer": "ahh",
-            "normalized": "ahh"
+            "id": "592108a2-e3bc-41f6-9efb-9729f1cdb66a",
+            "clue": "Liquid it's no use crying over",
+            "answer": "milk",
+            "normalized": "milk"
           },
           {
-            "id": "47489712-8f4c-4125-871d-82604ed321b4",
-            "clue": "Don't put Baby in this, said Johnny",
-            "answer": "corner",
-            "normalized": "corner"
+            "id": "8e9f8a67-b6f7-4cda-b780-cbc3d2ff57b3",
+            "clue": "Dried bean used to make chocolate",
+            "answer": "cocoa",
+            "normalized": "cocoa"
           },
           {
-            "id": "226bb87d-e3fd-4fb4-98b8-af1d9e1322cf",
-            "clue": "Tsar responsible for the building of St Basil's",
-            "answer": "ivan iv",
-            "normalized": "ivaniv"
+            "id": "e0d381e0-bcbc-4211-b291-51fa79a9f939",
+            "clue": "Sticky, gooey messy description of thick liquid",
+            "answer": "gloopy",
+            "normalized": "gloopy"
           },
           {
-            "id": "87f62081-e7d1-4369-8673-c84c85afde0d",
-            "clue": "Jungle animal similar to a pig with a trunk snout",
-            "answer": "tapir",
-            "normalized": "tapir"
+            "id": "70677fec-b433-4571-881d-ca9feae4ea8f",
+            "clue": "Characters and appearances, in literary terms",
+            "answer": "miens",
+            "normalized": "miens"
           },
           {
-            "id": "158aeba4-82b7-40b5-9ce7-fe8dd2ca4577",
-            "clue": "\"Do what I say, or __!\"",
-            "answer": "else",
-            "normalized": "else"
+            "id": "bd37365c-fb82-4e0d-8e8e-7a8e76846adc",
+            "clue": "Offers money at an auction",
+            "answer": "bids",
+            "normalized": "bids"
           },
           {
-            "id": "49906ee5-84f0-4cc9-9460-44b101fdff93",
-            "clue": "Musical about a red-headed orphan",
-            "answer": "annie",
-            "normalized": "annie"
+            "id": "f8d38def-ab14-43fe-bfb9-6993268de92e",
+            "clue": "Made a classic cow noise",
+            "answer": "mooed",
+            "normalized": "mooed"
           },
           {
-            "id": "b2ecc4f2-deee-48a6-97b4-4cf3c2f5753f",
-            "clue": "Person who will receive someone's fortune",
-            "answer": "heir",
-            "normalized": "heir"
+            "id": "cbd00075-abf3-48b4-b797-eeb9c6d52baa",
+            "clue": "Images representing apps or software functions",
+            "answer": "icons",
+            "normalized": "icons"
           },
           {
-            "id": "9356f497-de4c-4dd2-b222-8334c074881f",
-            "clue": "Alpha-3 code for Croatia",
-            "answer": "hrv",
-            "normalized": "hrv"
+            "id": "6d4fb832-4b3e-4887-a889-bd6a3d503c39",
+            "clue": "Cuts off a branch",
+            "answer": "lops",
+            "normalized": "lops"
           },
           {
-            "id": "ae1cc1ee-4cd8-43df-a59a-eb078aa52fa8",
-            "clue": "Attribute a source",
-            "answer": "cite",
-            "normalized": "cite"
+            "id": "d66c23e9-0691-4c1b-94fc-fc7e73c18648",
+            "clue": "Word for the letter K",
+            "answer": "kay",
+            "normalized": "kay"
           },
           {
-            "id": "23176174-c65a-4535-9438-997e64111b65",
-            "clue": "2D shape of most eggs",
-            "answer": "oval",
-            "normalized": "oval"
+            "id": "d378c30c-6628-4bb1-b88a-5d4182b4c8a7",
+            "clue": "152 in Roman numerals",
+            "answer": "clii",
+            "normalized": "clii"
           },
           {
-            "id": "0e2cca64-2e20-4574-b532-f7cab52645a4",
-            "clue": "Performs rhythmic hip-hop",
-            "answer": "raps",
-            "normalized": "raps"
+            "id": "d9c00e8c-2dfc-42e5-aa31-e9ce8c98b602",
+            "clue": "Three-letter alpha code for Gambia",
+            "answer": "gmb",
+            "normalized": "gmb"
           }
         ],
-        "track": "PC|LenC--Y2026M8D21F0"
+        "track": "PC|LenC--Y2026M8D22F0"
       },
       "mid": {
-        "puzzleId": "36ec17b9-1461-4001-ba16-64750836b3d5",
+        "puzzleId": "a1c2be31-9397-4a1c-bd7a-e5d9ae6048c8",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 3,
         "answers": [
           {
-            "id": "49c58409-4cea-4513-b400-df4735f6c6e3",
-            "clue": "Sound made when pondering over something",
-            "answer": "hmm",
-            "normalized": "hmm"
+            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
+            "clue": "__ de deux, ballet duet",
+            "answer": "pas",
+            "normalized": "pas"
           },
           {
-            "id": "444e53f9-e9ca-489f-86fe-39b69d71cb37",
-            "clue": "South American berry, popular in health bowls",
-            "answer": "acai",
-            "normalized": "acai"
+            "id": "7b32b14e-481d-4787-9a6c-5c20560881de",
+            "clue": "More open and spacious",
+            "answer": "airier",
+            "normalized": "airier"
           },
           {
-            "id": "18689205-3e0b-46d9-aa94-ddedcee3c9fd",
-            "clue": "Another name for fish eggs; a kind of small deer",
-            "answer": "roe",
-            "normalized": "roe"
+            "id": "f55d8613-b6a4-4fbf-95dc-a78956da7e8b",
+            "clue": "__ seizure is a staring spell type of seizure",
+            "answer": "absence",
+            "normalized": "absence"
           },
           {
-            "id": "b1cee2c4-9920-4c81-80f2-697921123535",
-            "clue": "Hay is often found in this bundle",
-            "answer": "bale",
-            "normalized": "bale"
+            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
+            "clue": "Non-disclosure agreement, in short",
+            "answer": "nda",
+            "normalized": "nda"
           },
           {
-            "id": "2a948e34-7b43-4838-95ac-822b528ae2aa",
-            "clue": "Domain name system",
-            "answer": "dns",
-            "normalized": "dns"
+            "id": "e142c33f-aae3-4029-bf9a-0be55daa5935",
+            "clue": "Initialism for short tandem repeat, think DNA",
+            "answer": "str",
+            "normalized": "str"
           },
           {
-            "id": "f7272e59-ffc2-4482-91c9-f63b81f36aba",
-            "clue": "Andy Griffith's son played by Ron Howard",
-            "answer": "opie",
-            "normalized": "opie"
+            "id": "86eceb1e-a37a-4342-8396-cd58e5fc6bc8",
+            "clue": "Biblical enemy of God's people, along with Magog",
+            "answer": "gog",
+            "normalized": "gog"
           },
           {
-            "id": "d1dd65db-af6b-4885-a9e9-f23e208cc516",
-            "clue": "Patron saint of Milan",
-            "answer": "ambrose",
-            "normalized": "ambrose"
+            "id": "94a01184-1ae2-48f8-ab62-56829152ef37",
+            "clue": "Dr. Watson actress Lucy __",
+            "answer": "liu",
+            "normalized": "liu"
           },
           {
-            "id": "f4e93478-f907-4aa5-80f0-44316eee7028",
-            "clue": "Moved quickly",
-            "answer": "fleeted",
-            "normalized": "fleeted"
+            "id": "f53347bf-1856-429c-b937-48389e887bc1",
+            "clue": "Feeling of joy, sorrow, fear, hate, or love",
+            "answer": "emotion",
+            "normalized": "emotion"
           },
           {
-            "id": "94edd87a-147b-4fb9-b8e6-39664f89a30b",
-            "clue": "Italy's currency before the euro (plural)",
-            "answer": "lire",
-            "normalized": "lire"
+            "id": "0959fb04-b8e8-4679-8a65-9a5a3769f1d6",
+            "clue": "Male errand runners",
+            "answer": "legmen",
+            "normalized": "legmen"
           },
           {
-            "id": "78dcead2-c942-4270-ab04-c5b2edf901e8",
-            "clue": "Fleming, who wrote the James Bond books",
-            "answer": "ian",
-            "normalized": "ian"
+            "id": "fae6e7bb-f60f-4558-b86a-55a0e236a9f6",
+            "clue": "French for nose, like in glasses that pinch it",
+            "answer": "nez",
+            "normalized": "nez"
           },
           {
-            "id": "cb0a8d52-6de5-43c4-a0f4-4df7a3624d0c",
-            "clue": "Two words meaning in your dreams, you wish",
-            "answer": "as if",
-            "normalized": "asif"
+            "id": "681ffa58-4f1d-4573-904c-5b096079ec95",
+            "clue": "Affix at the front of a word meaning \"before\"",
+            "answer": "pre",
+            "normalized": "pre"
           },
           {
-            "id": "a6357f65-ad7d-4548-8ae6-db76fd90dd37",
-            "clue": "Brazilian city that ends in de Janeiro",
-            "answer": "rio",
-            "normalized": "rio"
+            "id": "acd908f2-cd6b-4fb1-b87d-6de237eddd48",
+            "clue": "Sir Ben __, America's Cup sailor, Olympic champion",
+            "answer": "ainslie",
+            "normalized": "ainslie"
           },
           {
-            "id": "79afaa7e-cb8d-4143-839b-c59daee71e7f",
-            "clue": "Common alternative to PCs",
-            "answer": "macs",
-            "normalized": "macs"
+            "id": "e5ae76e9-4b8d-483e-b3de-5c4d4c9387aa",
+            "clue": "Part cut off, distinct area",
+            "answer": "section",
+            "normalized": "section"
           },
           {
-            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
-            "clue": "Paintings, sculptures, and more",
-            "answer": "art",
-            "normalized": "art"
+            "id": "e2eb7f6a-67ca-44c1-8e01-3a9ec20bf0b3",
+            "clue": "Part of the body between chest and pelvis",
+            "answer": "abdomen",
+            "normalized": "abdomen"
           },
           {
-            "id": "b2a1dd4e-e546-448f-ac35-803ec10f6080",
-            "clue": "Human resource development for short",
-            "answer": "hrd",
-            "normalized": "hrd"
+            "id": "7c2c6605-b307-4bec-8a9b-2e2cbe476d72",
+            "clue": "Scholarly intro to a specialist field of study",
+            "answer": "isagoge",
+            "normalized": "isagoge"
           },
           {
-            "id": "0bbc2883-8c29-4ed7-9114-5484aef5b366",
-            "clue": "The painted Italian woman with the enigmatic smile",
-            "answer": "mona lisa",
-            "normalized": "monalisa"
+            "id": "dcbe43d1-e81c-48a1-bc3f-f71b1e4af744",
+            "clue": "Repeated broadcast of an old TV show",
+            "answer": "rerun",
+            "normalized": "rerun"
           },
           {
-            "id": "844e1fd4-c004-4c81-a0b7-6ebe3975a1b3",
-            "clue": "Transfixing",
-            "answer": "mesmeric",
-            "normalized": "mesmeric"
+            "id": "00da714c-8c2b-45f4-a6b8-63579b5c32ed",
+            "clue": "Celestial being with wings and a halo",
+            "answer": "angel",
+            "normalized": "angel"
           },
           {
-            "id": "c17f64f3-bc24-4dad-ac1e-0435badbb09c",
-            "clue": "End or cancel a mission abruptly",
-            "answer": "abort",
-            "normalized": "abort"
-          },
-          {
-            "id": "3dfdc752-49e4-4f9f-9d55-e8978e09b7df",
-            "clue": "Martial dance art from Brazil",
-            "answer": "capoeira",
-            "normalized": "capoeira"
-          },
-          {
-            "id": "6a8a9644-eec1-401f-837c-93e391bb7c34",
-            "clue": "Novelist who wrote Poor Things and Lanark, __ Gray",
-            "answer": "alisdair",
-            "normalized": "alisdair"
-          },
-          {
-            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
-            "clue": "Largest association for the technical professions",
-            "answer": "ieee",
-            "normalized": "ieee"
-          },
-          {
-            "id": "3e26cec6-0f08-4fad-8404-73ab89b116cc",
-            "clue": "Informal complaints, slangily",
-            "answer": "beefs",
-            "normalized": "beefs"
-          },
-          {
-            "id": "da60ce48-d703-45b8-9221-d723042c4c89",
-            "clue": "Partner to flim",
-            "answer": "flam",
-            "normalized": "flam"
-          },
-          {
-            "id": "8a17b811-8709-4f73-b7f8-05e8ea113bda",
-            "clue": "Soliloquist's line, \"To be or __ to be\"",
-            "answer": "not",
-            "normalized": "not"
+            "id": "469cf352-f14d-4c26-a6ff-b130f2f509ba",
+            "clue": "Tabloid news website with celeb gossip",
+            "answer": "tmz",
+            "normalized": "tmz"
           }
         ],
-        "track": "PC|LenC--Y2026M8D21F1"
+        "track": "PC|LenC--Y2026M8D22F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-21",
+      "key": "2026-08-22",
       "year": 2026,
       "month": 8,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "c63f5807-072c-43bb-8ae9-fdcb9fb6b315",
+        "puzzleId": "83b67952-34a9-45ee-9048-72c6fb21daa0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "bbe129f1-d74f-4023-bf8d-2bd880d07711",
-            "clue": "Exhale of relief",
-            "answer": "ahh",
-            "normalized": "ahh"
+            "id": "592108a2-e3bc-41f6-9efb-9729f1cdb66a",
+            "clue": "Liquid it's no use crying over",
+            "answer": "milk",
+            "normalized": "milk"
           },
           {
-            "id": "47489712-8f4c-4125-871d-82604ed321b4",
-            "clue": "Don't put Baby in this, said Johnny",
-            "answer": "corner",
-            "normalized": "corner"
+            "id": "8e9f8a67-b6f7-4cda-b780-cbc3d2ff57b3",
+            "clue": "Dried bean used to make chocolate",
+            "answer": "cocoa",
+            "normalized": "cocoa"
           },
           {
-            "id": "226bb87d-e3fd-4fb4-98b8-af1d9e1322cf",
-            "clue": "Tsar responsible for the building of St Basil's",
-            "answer": "ivan iv",
-            "normalized": "ivaniv"
+            "id": "e0d381e0-bcbc-4211-b291-51fa79a9f939",
+            "clue": "Sticky, gooey messy description of thick liquid",
+            "answer": "gloopy",
+            "normalized": "gloopy"
           },
           {
-            "id": "87f62081-e7d1-4369-8673-c84c85afde0d",
-            "clue": "Jungle animal similar to a pig with a trunk snout",
-            "answer": "tapir",
-            "normalized": "tapir"
+            "id": "70677fec-b433-4571-881d-ca9feae4ea8f",
+            "clue": "Characters and appearances, in literary terms",
+            "answer": "miens",
+            "normalized": "miens"
           },
           {
-            "id": "158aeba4-82b7-40b5-9ce7-fe8dd2ca4577",
-            "clue": "\"Do what I say, or __!\"",
-            "answer": "else",
-            "normalized": "else"
+            "id": "bd37365c-fb82-4e0d-8e8e-7a8e76846adc",
+            "clue": "Offers money at an auction",
+            "answer": "bids",
+            "normalized": "bids"
           },
           {
-            "id": "49906ee5-84f0-4cc9-9460-44b101fdff93",
-            "clue": "Musical about a red-headed orphan",
-            "answer": "annie",
-            "normalized": "annie"
+            "id": "f8d38def-ab14-43fe-bfb9-6993268de92e",
+            "clue": "Made a classic cow noise",
+            "answer": "mooed",
+            "normalized": "mooed"
           },
           {
-            "id": "b2ecc4f2-deee-48a6-97b4-4cf3c2f5753f",
-            "clue": "Person who will receive someone's fortune",
-            "answer": "heir",
-            "normalized": "heir"
+            "id": "cbd00075-abf3-48b4-b797-eeb9c6d52baa",
+            "clue": "Images representing apps or software functions",
+            "answer": "icons",
+            "normalized": "icons"
           },
           {
-            "id": "9356f497-de4c-4dd2-b222-8334c074881f",
-            "clue": "Alpha-3 code for Croatia",
-            "answer": "hrv",
-            "normalized": "hrv"
+            "id": "6d4fb832-4b3e-4887-a889-bd6a3d503c39",
+            "clue": "Cuts off a branch",
+            "answer": "lops",
+            "normalized": "lops"
           },
           {
-            "id": "ae1cc1ee-4cd8-43df-a59a-eb078aa52fa8",
-            "clue": "Attribute a source",
-            "answer": "cite",
-            "normalized": "cite"
+            "id": "d66c23e9-0691-4c1b-94fc-fc7e73c18648",
+            "clue": "Word for the letter K",
+            "answer": "kay",
+            "normalized": "kay"
           },
           {
-            "id": "23176174-c65a-4535-9438-997e64111b65",
-            "clue": "2D shape of most eggs",
-            "answer": "oval",
-            "normalized": "oval"
+            "id": "d378c30c-6628-4bb1-b88a-5d4182b4c8a7",
+            "clue": "152 in Roman numerals",
+            "answer": "clii",
+            "normalized": "clii"
           },
           {
-            "id": "0e2cca64-2e20-4574-b532-f7cab52645a4",
-            "clue": "Performs rhythmic hip-hop",
-            "answer": "raps",
-            "normalized": "raps"
+            "id": "d9c00e8c-2dfc-42e5-aa31-e9ce8c98b602",
+            "clue": "Three-letter alpha code for Gambia",
+            "answer": "gmb",
+            "normalized": "gmb"
           }
         ],
-        "track": "PC|LenC--Y2026M8D21F0"
+        "track": "PC|LenC--Y2026M8D22F0"
       },
       "mid": {
-        "puzzleId": "36ec17b9-1461-4001-ba16-64750836b3d5",
+        "puzzleId": "a1c2be31-9397-4a1c-bd7a-e5d9ae6048c8",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 3,
         "answers": [
           {
-            "id": "49c58409-4cea-4513-b400-df4735f6c6e3",
-            "clue": "Sound made when pondering over something",
-            "answer": "hmm",
-            "normalized": "hmm"
+            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
+            "clue": "__ de deux, ballet duet",
+            "answer": "pas",
+            "normalized": "pas"
           },
           {
-            "id": "444e53f9-e9ca-489f-86fe-39b69d71cb37",
-            "clue": "South American berry, popular in health bowls",
-            "answer": "acai",
-            "normalized": "acai"
+            "id": "7b32b14e-481d-4787-9a6c-5c20560881de",
+            "clue": "More open and spacious",
+            "answer": "airier",
+            "normalized": "airier"
           },
           {
-            "id": "18689205-3e0b-46d9-aa94-ddedcee3c9fd",
-            "clue": "Another name for fish eggs; a kind of small deer",
-            "answer": "roe",
-            "normalized": "roe"
+            "id": "f55d8613-b6a4-4fbf-95dc-a78956da7e8b",
+            "clue": "__ seizure is a staring spell type of seizure",
+            "answer": "absence",
+            "normalized": "absence"
           },
           {
-            "id": "b1cee2c4-9920-4c81-80f2-697921123535",
-            "clue": "Hay is often found in this bundle",
-            "answer": "bale",
-            "normalized": "bale"
+            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
+            "clue": "Non-disclosure agreement, in short",
+            "answer": "nda",
+            "normalized": "nda"
           },
           {
-            "id": "2a948e34-7b43-4838-95ac-822b528ae2aa",
-            "clue": "Domain name system",
-            "answer": "dns",
-            "normalized": "dns"
+            "id": "e142c33f-aae3-4029-bf9a-0be55daa5935",
+            "clue": "Initialism for short tandem repeat, think DNA",
+            "answer": "str",
+            "normalized": "str"
           },
           {
-            "id": "f7272e59-ffc2-4482-91c9-f63b81f36aba",
-            "clue": "Andy Griffith's son played by Ron Howard",
-            "answer": "opie",
-            "normalized": "opie"
+            "id": "86eceb1e-a37a-4342-8396-cd58e5fc6bc8",
+            "clue": "Biblical enemy of God's people, along with Magog",
+            "answer": "gog",
+            "normalized": "gog"
           },
           {
-            "id": "d1dd65db-af6b-4885-a9e9-f23e208cc516",
-            "clue": "Patron saint of Milan",
-            "answer": "ambrose",
-            "normalized": "ambrose"
+            "id": "94a01184-1ae2-48f8-ab62-56829152ef37",
+            "clue": "Dr. Watson actress Lucy __",
+            "answer": "liu",
+            "normalized": "liu"
           },
           {
-            "id": "f4e93478-f907-4aa5-80f0-44316eee7028",
-            "clue": "Moved quickly",
-            "answer": "fleeted",
-            "normalized": "fleeted"
+            "id": "f53347bf-1856-429c-b937-48389e887bc1",
+            "clue": "Feeling of joy, sorrow, fear, hate, or love",
+            "answer": "emotion",
+            "normalized": "emotion"
           },
           {
-            "id": "94edd87a-147b-4fb9-b8e6-39664f89a30b",
-            "clue": "Italy's currency before the euro (plural)",
-            "answer": "lire",
-            "normalized": "lire"
+            "id": "0959fb04-b8e8-4679-8a65-9a5a3769f1d6",
+            "clue": "Male errand runners",
+            "answer": "legmen",
+            "normalized": "legmen"
           },
           {
-            "id": "78dcead2-c942-4270-ab04-c5b2edf901e8",
-            "clue": "Fleming, who wrote the James Bond books",
-            "answer": "ian",
-            "normalized": "ian"
+            "id": "fae6e7bb-f60f-4558-b86a-55a0e236a9f6",
+            "clue": "French for nose, like in glasses that pinch it",
+            "answer": "nez",
+            "normalized": "nez"
           },
           {
-            "id": "cb0a8d52-6de5-43c4-a0f4-4df7a3624d0c",
-            "clue": "Two words meaning in your dreams, you wish",
-            "answer": "as if",
-            "normalized": "asif"
+            "id": "681ffa58-4f1d-4573-904c-5b096079ec95",
+            "clue": "Affix at the front of a word meaning \"before\"",
+            "answer": "pre",
+            "normalized": "pre"
           },
           {
-            "id": "a6357f65-ad7d-4548-8ae6-db76fd90dd37",
-            "clue": "Brazilian city that ends in de Janeiro",
-            "answer": "rio",
-            "normalized": "rio"
+            "id": "acd908f2-cd6b-4fb1-b87d-6de237eddd48",
+            "clue": "Sir Ben __, America's Cup sailor, Olympic champion",
+            "answer": "ainslie",
+            "normalized": "ainslie"
           },
           {
-            "id": "79afaa7e-cb8d-4143-839b-c59daee71e7f",
-            "clue": "Common alternative to PCs",
-            "answer": "macs",
-            "normalized": "macs"
+            "id": "e5ae76e9-4b8d-483e-b3de-5c4d4c9387aa",
+            "clue": "Part cut off, distinct area",
+            "answer": "section",
+            "normalized": "section"
           },
           {
-            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
-            "clue": "Paintings, sculptures, and more",
-            "answer": "art",
-            "normalized": "art"
+            "id": "e2eb7f6a-67ca-44c1-8e01-3a9ec20bf0b3",
+            "clue": "Part of the body between chest and pelvis",
+            "answer": "abdomen",
+            "normalized": "abdomen"
           },
           {
-            "id": "b2a1dd4e-e546-448f-ac35-803ec10f6080",
-            "clue": "Human resource development for short",
-            "answer": "hrd",
-            "normalized": "hrd"
+            "id": "7c2c6605-b307-4bec-8a9b-2e2cbe476d72",
+            "clue": "Scholarly intro to a specialist field of study",
+            "answer": "isagoge",
+            "normalized": "isagoge"
           },
           {
-            "id": "0bbc2883-8c29-4ed7-9114-5484aef5b366",
-            "clue": "The painted Italian woman with the enigmatic smile",
-            "answer": "mona lisa",
-            "normalized": "monalisa"
+            "id": "dcbe43d1-e81c-48a1-bc3f-f71b1e4af744",
+            "clue": "Repeated broadcast of an old TV show",
+            "answer": "rerun",
+            "normalized": "rerun"
           },
           {
-            "id": "844e1fd4-c004-4c81-a0b7-6ebe3975a1b3",
-            "clue": "Transfixing",
-            "answer": "mesmeric",
-            "normalized": "mesmeric"
+            "id": "00da714c-8c2b-45f4-a6b8-63579b5c32ed",
+            "clue": "Celestial being with wings and a halo",
+            "answer": "angel",
+            "normalized": "angel"
           },
           {
-            "id": "c17f64f3-bc24-4dad-ac1e-0435badbb09c",
-            "clue": "End or cancel a mission abruptly",
-            "answer": "abort",
-            "normalized": "abort"
-          },
-          {
-            "id": "3dfdc752-49e4-4f9f-9d55-e8978e09b7df",
-            "clue": "Martial dance art from Brazil",
-            "answer": "capoeira",
-            "normalized": "capoeira"
-          },
-          {
-            "id": "6a8a9644-eec1-401f-837c-93e391bb7c34",
-            "clue": "Novelist who wrote Poor Things and Lanark, __ Gray",
-            "answer": "alisdair",
-            "normalized": "alisdair"
-          },
-          {
-            "id": "94a877f0-a44e-40f1-bc55-0c9b62906570",
-            "clue": "Largest association for the technical professions",
-            "answer": "ieee",
-            "normalized": "ieee"
-          },
-          {
-            "id": "3e26cec6-0f08-4fad-8404-73ab89b116cc",
-            "clue": "Informal complaints, slangily",
-            "answer": "beefs",
-            "normalized": "beefs"
-          },
-          {
-            "id": "da60ce48-d703-45b8-9221-d723042c4c89",
-            "clue": "Partner to flim",
-            "answer": "flam",
-            "normalized": "flam"
-          },
-          {
-            "id": "8a17b811-8709-4f73-b7f8-05e8ea113bda",
-            "clue": "Soliloquist's line, \"To be or __ to be\"",
-            "answer": "not",
-            "normalized": "not"
+            "id": "469cf352-f14d-4c26-a6ff-b130f2f509ba",
+            "clue": "Tabloid news website with celeb gossip",
+            "answer": "tmz",
+            "normalized": "tmz"
           }
         ],
-        "track": "PC|LenC--Y2026M8D21F1"
+        "track": "PC|LenC--Y2026M8D22F1"
       }
     },
     "latestAvailableEntry": {
@@ -434852,21 +434981,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "9MYRSkuLT2agy4JG4h1Uns42sRavcK96+kVMGxjB8SU7bdUhq9X4eL6rp7iiTs56Kc8AeG9igfwRi4KJR3a2oXo7/XvTZiVn9DEjnhiofLhY4TCdjAtuzYPu4hAvh8r/SLF/G0DdMHLkvvDNUuo4ulcpDxYIydlp5cf5Gkx3WraPlY5AMUmq7h7xQoAVIRpEHIGxd+5mJPDD3KMwnTarws8vusq1wo9Fb3hlr8Tquc8NA4/u5/8vmbxcUADyZbDuy7E/SsaUAqMKn4ZfS36WXw2smI5l5uoGsJsT8wOkjBc="
+        "6+6j2F7EC9LYRUar+5FoX/p+FLizwaJWYKgYEQ65c2f9p0dKoP3CBTw5ByJF34rKqrMyJ8XuIXx1z8jJ+6nJ2WB4+B6GIS0WnvfQCzxEtYlJeS4e7AJi0OTCtVfPLW9NScaWQ8phPmt9pYjOfkNCssJdJw+n4sMgzAXh7J0mtKars7E4qaeaIQjlblLjWrO2swbSNNAIBujl416occYlamD/mdq3N6tlsYwItLx2VEgHILLMexuDbgaLiTsrZ65O2PWIL9kUJPKjQBHPHT6ODMBLLkVXw59ucX79QB5pAaQ="
       ]
     },
     "decrypted": {
-      "Id": "c3d23fa6-17d7-4014-8280-389db892048f",
-      "Date": "2026-08-21T00:00:00Z",
+      "Id": "79d620c4-cfe4-40c5-97a3-a918abe15d49",
+      "Date": "2026-08-22T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "skate",
-      "NormalizedPassword": "skate",
+      "Password": "spine",
+      "NormalizedPassword": "spine",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-21T00:38:42.3940000+05:30",
-    "hash": "1b05937184e7f3a780fbd2d98b1eaccc",
+    "dtu": "2026-08-22T00:35:02.3110000+05:30",
+    "hash": "7116b921defb8c14c54cd75de902df14",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
