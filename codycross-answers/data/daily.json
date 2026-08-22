@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T19:05:02.311Z",
+  "generatedAt": "2026-08-22T18:54:47.111Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 22
+    "day": 23
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 40
+        "QuantidadeDeFases": 42
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -395,7 +395,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2021,
         "Month": 4,
-        "QuantidadeDeFases": 57
+        "QuantidadeDeFases": 58
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434319,403 +434319,463 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-22",
+      "key": "2026-08-23",
       "year": 2026,
       "month": 8,
-      "day": 22,
+      "day": 23,
       "small": {
-        "puzzleId": "83b67952-34a9-45ee-9048-72c6fb21daa0",
+        "puzzleId": "33c5e304-7fdc-4d52-bdcf-a0ae1b79a6a2",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "592108a2-e3bc-41f6-9efb-9729f1cdb66a",
-            "clue": "Liquid it's no use crying over",
-            "answer": "milk",
-            "normalized": "milk"
+            "id": "b3e76a1d-ed28-4dae-93c8-5e40866b978a",
+            "clue": "Author of Leave the World Behind",
+            "answer": "alam",
+            "normalized": "alam"
           },
           {
-            "id": "8e9f8a67-b6f7-4cda-b780-cbc3d2ff57b3",
-            "clue": "Dried bean used to make chocolate",
-            "answer": "cocoa",
-            "normalized": "cocoa"
+            "id": "28360e6e-9e8a-4779-9c2d-cd30ddd89d1e",
+            "clue": "Speech problem with S sounds",
+            "answer": "lisp",
+            "normalized": "lisp"
           },
           {
-            "id": "e0d381e0-bcbc-4211-b291-51fa79a9f939",
-            "clue": "Sticky, gooey messy description of thick liquid",
-            "answer": "gloopy",
-            "normalized": "gloopy"
+            "id": "b5374e6a-970c-41a5-8b78-acbf86fff267",
+            "clue": "Horse-drawn carriage or car on a train",
+            "answer": "coach",
+            "normalized": "coach"
           },
           {
-            "id": "70677fec-b433-4571-881d-ca9feae4ea8f",
-            "clue": "Characters and appearances, in literary terms",
-            "answer": "miens",
-            "normalized": "miens"
+            "id": "4a83b574-0623-401c-9025-fb4857c5a662",
+            "clue": "__ Domini, what AD stands for in dates",
+            "answer": "anno",
+            "normalized": "anno"
           },
           {
-            "id": "bd37365c-fb82-4e0d-8e8e-7a8e76846adc",
-            "clue": "Offers money at an auction",
-            "answer": "bids",
-            "normalized": "bids"
+            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
+            "clue": "What to do with the Parents, Dave, and Joe Black",
+            "answer": "meet",
+            "normalized": "meet"
           },
           {
-            "id": "f8d38def-ab14-43fe-bfb9-6993268de92e",
-            "clue": "Made a classic cow noise",
-            "answer": "mooed",
-            "normalized": "mooed"
+            "id": "38dca7ee-e9f2-4e16-a061-f9429f617e58",
+            "clue": "History reality series about wilderness living",
+            "answer": "alone",
+            "normalized": "alone"
           },
           {
-            "id": "cbd00075-abf3-48b4-b797-eeb9c6d52baa",
-            "clue": "Images representing apps or software functions",
-            "answer": "icons",
-            "normalized": "icons"
+            "id": "87862d05-0d8c-4d26-98ba-0ee4a3b156a0",
+            "clue": "Moriarty who wrote Big Little Lies",
+            "answer": "liane",
+            "normalized": "liane"
           },
           {
-            "id": "6d4fb832-4b3e-4887-a889-bd6a3d503c39",
-            "clue": "Cuts off a branch",
-            "answer": "lops",
-            "normalized": "lops"
+            "id": "be705b7e-bb01-49c4-8246-b22cc6ab38b0",
+            "clue": "Fred from Scooby-Doo's neckwear of choice",
+            "answer": "ascot",
+            "normalized": "ascot"
           },
           {
-            "id": "d66c23e9-0691-4c1b-94fc-fc7e73c18648",
-            "clue": "Word for the letter K",
-            "answer": "kay",
-            "normalized": "kay"
+            "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
+            "clue": "Imperial unit used on some speedometers",
+            "answer": "mph",
+            "normalized": "mph"
           },
           {
-            "id": "d378c30c-6628-4bb1-b88a-5d4182b4c8a7",
-            "clue": "152 in Roman numerals",
-            "answer": "clii",
-            "normalized": "clii"
-          },
-          {
-            "id": "d9c00e8c-2dfc-42e5-aa31-e9ce8c98b602",
-            "clue": "Three-letter alpha code for Gambia",
-            "answer": "gmb",
-            "normalized": "gmb"
+            "id": "172f511c-3ec4-46c4-9f8e-4ef2a6a60dd0",
+            "clue": "A nanny one might be in a teddy bear",
+            "answer": "cam",
+            "normalized": "cam"
           }
         ],
-        "track": "PC|LenC--Y2026M8D22F0"
+        "track": "PC|LenC--Y2026M8D23F0"
       },
       "mid": {
-        "puzzleId": "a1c2be31-9397-4a1c-bd7a-e5d9ae6048c8",
+        "puzzleId": "d1e12a0a-d4f8-4fd7-b5c9-c1b341f22960",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
-            "clue": "__ de deux, ballet duet",
-            "answer": "pas",
-            "normalized": "pas"
+            "id": "7c827e71-11c5-4ad1-910f-18fc83ab8bf5",
+            "clue": "Dihydrogen monoxide",
+            "answer": "water",
+            "normalized": "water"
           },
           {
-            "id": "7b32b14e-481d-4787-9a6c-5c20560881de",
-            "clue": "More open and spacious",
-            "answer": "airier",
-            "normalized": "airier"
+            "id": "a4e8d7ca-de6d-483d-b5d0-e0cf514799ff",
+            "clue": "Texting abbreviation for oversharing",
+            "answer": "tmi",
+            "normalized": "tmi"
           },
           {
-            "id": "f55d8613-b6a4-4fbf-95dc-a78956da7e8b",
-            "clue": "__ seizure is a staring spell type of seizure",
-            "answer": "absence",
-            "normalized": "absence"
+            "id": "9aadc123-34fd-4c70-b2e3-2a61e5e3de04",
+            "clue": "Protected material sometimes used for scrimshaw",
+            "answer": "ivory",
+            "normalized": "ivory"
           },
           {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
+            "clue": "Ben-__, Oscar-winning film with Charlton Heston",
+            "answer": "hur",
+            "normalized": "hur"
           },
           {
-            "id": "e142c33f-aae3-4029-bf9a-0be55daa5935",
-            "clue": "Initialism for short tandem repeat, think DNA",
-            "answer": "str",
-            "normalized": "str"
+            "id": "e55d7275-0f91-4884-af95-3d82b6b8aa59",
+            "clue": "Small citrus fruit close to a mandarin orange",
+            "answer": "tangerine",
+            "normalized": "tangerine"
           },
           {
-            "id": "86eceb1e-a37a-4342-8396-cd58e5fc6bc8",
-            "clue": "Biblical enemy of God's people, along with Magog",
-            "answer": "gog",
-            "normalized": "gog"
+            "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
+            "clue": "Organisations created by nations working together",
+            "answer": "igo",
+            "normalized": "igo"
           },
           {
-            "id": "94a01184-1ae2-48f8-ab62-56829152ef37",
-            "clue": "Dr. Watson actress Lucy __",
-            "answer": "liu",
-            "normalized": "liu"
+            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+            "clue": "Finale",
+            "answer": "end",
+            "normalized": "end"
           },
           {
-            "id": "f53347bf-1856-429c-b937-48389e887bc1",
-            "clue": "Feeling of joy, sorrow, fear, hate, or love",
-            "answer": "emotion",
-            "normalized": "emotion"
+            "id": "e3cbbdef-dc4d-4ece-9a43-6e0ddcd6cea7",
+            "clue": "Someone whose power is due to their wealth",
+            "answer": "plutocrat",
+            "normalized": "plutocrat"
           },
           {
-            "id": "0959fb04-b8e8-4679-8a65-9a5a3769f1d6",
-            "clue": "Male errand runners",
-            "answer": "legmen",
-            "normalized": "legmen"
+            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
+            "clue": "Say this twice for a laughter sound",
+            "answer": "hee",
+            "normalized": "hee"
           },
           {
-            "id": "fae6e7bb-f60f-4558-b86a-55a0e236a9f6",
-            "clue": "French for nose, like in glasses that pinch it",
-            "answer": "nez",
-            "normalized": "nez"
+            "id": "02f44467-38b9-42ac-bc32-f71aa21e0706",
+            "clue": "Good (Spa.)",
+            "answer": "bueno",
+            "normalized": "bueno"
           },
           {
-            "id": "681ffa58-4f1d-4573-904c-5b096079ec95",
-            "clue": "Affix at the front of a word meaning \"before\"",
-            "answer": "pre",
-            "normalized": "pre"
+            "id": "cf806143-7dc2-4add-976a-91bd613b2372",
+            "clue": "Dental Surgeon's degree, abbr.",
+            "answer": "dds",
+            "normalized": "dds"
           },
           {
-            "id": "acd908f2-cd6b-4fb1-b87d-6de237eddd48",
-            "clue": "Sir Ben __, America's Cup sailor, Olympic champion",
-            "answer": "ainslie",
-            "normalized": "ainslie"
+            "id": "60861143-977d-48c6-acb4-758492298898",
+            "clue": "The judge demands this in the court",
+            "answer": "order",
+            "normalized": "order"
           },
           {
-            "id": "e5ae76e9-4b8d-483e-b3de-5c4d4c9387aa",
-            "clue": "Part cut off, distinct area",
-            "answer": "section",
-            "normalized": "section"
+            "id": "3d5c416d-1178-4cac-86ef-ed93f0e5bbaf",
+            "clue": "Sarcasm is said to be the lowest form of it",
+            "answer": "wit",
+            "normalized": "wit"
           },
           {
-            "id": "e2eb7f6a-67ca-44c1-8e01-3a9ec20bf0b3",
-            "clue": "Part of the body between chest and pelvis",
-            "answer": "abdomen",
-            "normalized": "abdomen"
+            "id": "09a67116-0c9d-421d-a41f-863d2f24bedc",
+            "clue": "Used or took advantage of something",
+            "answer": "availed",
+            "normalized": "availed"
           },
           {
-            "id": "7c2c6605-b307-4bec-8a9b-2e2cbe476d72",
-            "clue": "Scholarly intro to a specialist field of study",
-            "answer": "isagoge",
-            "normalized": "isagoge"
+            "id": "7cbdaedf-c01d-429f-89aa-83cb8269117f",
+            "clue": "Speaking in __, also known as glossolalia",
+            "answer": "tongues",
+            "normalized": "tongues"
           },
           {
-            "id": "dcbe43d1-e81c-48a1-bc3f-f71b1e4af744",
-            "clue": "Repeated broadcast of an old TV show",
-            "answer": "rerun",
-            "normalized": "rerun"
+            "id": "9ac3c21e-24df-44d2-87be-e4b497927da1",
+            "clue": "Fungal disease of wheat, can be fatal if consumed",
+            "answer": "ergot",
+            "normalized": "ergot"
           },
           {
-            "id": "00da714c-8c2b-45f4-a6b8-63579b5c32ed",
-            "clue": "Celestial being with wings and a halo",
-            "answer": "angel",
-            "normalized": "angel"
+            "id": "357dcff1-bc72-4a54-ab05-15d9096790d3",
+            "clue": "Barley and wheat relative used in beer and bread",
+            "answer": "rye",
+            "normalized": "rye"
           },
           {
-            "id": "469cf352-f14d-4c26-a6ff-b130f2f509ba",
-            "clue": "Tabloid news website with celeb gossip",
-            "answer": "tmz",
-            "normalized": "tmz"
+            "id": "ae4eeb29-7ccb-4dfb-93de-67afe79eee68",
+            "clue": "The __ Line; 1998 Terrence Malick war film",
+            "answer": "thin red",
+            "normalized": "thinred"
+          },
+          {
+            "id": "124740a8-7ac0-4aa1-9148-68126bfc469e",
+            "clue": "Boring, everyday",
+            "answer": "mundane",
+            "normalized": "mundane"
+          },
+          {
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
+          },
+          {
+            "id": "05fed18b-f702-492f-bc98-b7cd99c8a042",
+            "clue": "Happen again",
+            "answer": "recur",
+            "normalized": "recur"
+          },
+          {
+            "id": "40dbc036-fc72-42ea-9390-9d66d7717853",
+            "clue": "An academic doctor has this degree",
+            "answer": "phd",
+            "normalized": "phd"
+          },
+          {
+            "id": "01a6cac1-f29b-4c18-9bc7-46df9b419851",
+            "clue": "It means \"or best offer\"",
+            "answer": "obo",
+            "normalized": "obo"
+          },
+          {
+            "id": "7d048e47-8378-4108-b309-d5398c9924ec",
+            "clue": "Freestanding rocky hill or peak",
+            "answer": "tor",
+            "normalized": "tor"
           }
         ],
-        "track": "PC|LenC--Y2026M8D22F1"
+        "track": "PC|LenC--Y2026M8D23F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-22",
+      "key": "2026-08-23",
       "year": 2026,
       "month": 8,
-      "day": 22,
+      "day": 23,
       "small": {
-        "puzzleId": "83b67952-34a9-45ee-9048-72c6fb21daa0",
+        "puzzleId": "33c5e304-7fdc-4d52-bdcf-a0ae1b79a6a2",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "592108a2-e3bc-41f6-9efb-9729f1cdb66a",
-            "clue": "Liquid it's no use crying over",
-            "answer": "milk",
-            "normalized": "milk"
+            "id": "b3e76a1d-ed28-4dae-93c8-5e40866b978a",
+            "clue": "Author of Leave the World Behind",
+            "answer": "alam",
+            "normalized": "alam"
           },
           {
-            "id": "8e9f8a67-b6f7-4cda-b780-cbc3d2ff57b3",
-            "clue": "Dried bean used to make chocolate",
-            "answer": "cocoa",
-            "normalized": "cocoa"
+            "id": "28360e6e-9e8a-4779-9c2d-cd30ddd89d1e",
+            "clue": "Speech problem with S sounds",
+            "answer": "lisp",
+            "normalized": "lisp"
           },
           {
-            "id": "e0d381e0-bcbc-4211-b291-51fa79a9f939",
-            "clue": "Sticky, gooey messy description of thick liquid",
-            "answer": "gloopy",
-            "normalized": "gloopy"
+            "id": "b5374e6a-970c-41a5-8b78-acbf86fff267",
+            "clue": "Horse-drawn carriage or car on a train",
+            "answer": "coach",
+            "normalized": "coach"
           },
           {
-            "id": "70677fec-b433-4571-881d-ca9feae4ea8f",
-            "clue": "Characters and appearances, in literary terms",
-            "answer": "miens",
-            "normalized": "miens"
+            "id": "4a83b574-0623-401c-9025-fb4857c5a662",
+            "clue": "__ Domini, what AD stands for in dates",
+            "answer": "anno",
+            "normalized": "anno"
           },
           {
-            "id": "bd37365c-fb82-4e0d-8e8e-7a8e76846adc",
-            "clue": "Offers money at an auction",
-            "answer": "bids",
-            "normalized": "bids"
+            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
+            "clue": "What to do with the Parents, Dave, and Joe Black",
+            "answer": "meet",
+            "normalized": "meet"
           },
           {
-            "id": "f8d38def-ab14-43fe-bfb9-6993268de92e",
-            "clue": "Made a classic cow noise",
-            "answer": "mooed",
-            "normalized": "mooed"
+            "id": "38dca7ee-e9f2-4e16-a061-f9429f617e58",
+            "clue": "History reality series about wilderness living",
+            "answer": "alone",
+            "normalized": "alone"
           },
           {
-            "id": "cbd00075-abf3-48b4-b797-eeb9c6d52baa",
-            "clue": "Images representing apps or software functions",
-            "answer": "icons",
-            "normalized": "icons"
+            "id": "87862d05-0d8c-4d26-98ba-0ee4a3b156a0",
+            "clue": "Moriarty who wrote Big Little Lies",
+            "answer": "liane",
+            "normalized": "liane"
           },
           {
-            "id": "6d4fb832-4b3e-4887-a889-bd6a3d503c39",
-            "clue": "Cuts off a branch",
-            "answer": "lops",
-            "normalized": "lops"
+            "id": "be705b7e-bb01-49c4-8246-b22cc6ab38b0",
+            "clue": "Fred from Scooby-Doo's neckwear of choice",
+            "answer": "ascot",
+            "normalized": "ascot"
           },
           {
-            "id": "d66c23e9-0691-4c1b-94fc-fc7e73c18648",
-            "clue": "Word for the letter K",
-            "answer": "kay",
-            "normalized": "kay"
+            "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
+            "clue": "Imperial unit used on some speedometers",
+            "answer": "mph",
+            "normalized": "mph"
           },
           {
-            "id": "d378c30c-6628-4bb1-b88a-5d4182b4c8a7",
-            "clue": "152 in Roman numerals",
-            "answer": "clii",
-            "normalized": "clii"
-          },
-          {
-            "id": "d9c00e8c-2dfc-42e5-aa31-e9ce8c98b602",
-            "clue": "Three-letter alpha code for Gambia",
-            "answer": "gmb",
-            "normalized": "gmb"
+            "id": "172f511c-3ec4-46c4-9f8e-4ef2a6a60dd0",
+            "clue": "A nanny one might be in a teddy bear",
+            "answer": "cam",
+            "normalized": "cam"
           }
         ],
-        "track": "PC|LenC--Y2026M8D22F0"
+        "track": "PC|LenC--Y2026M8D23F0"
       },
       "mid": {
-        "puzzleId": "a1c2be31-9397-4a1c-bd7a-e5d9ae6048c8",
+        "puzzleId": "d1e12a0a-d4f8-4fd7-b5c9-c1b341f22960",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
-            "clue": "__ de deux, ballet duet",
-            "answer": "pas",
-            "normalized": "pas"
+            "id": "7c827e71-11c5-4ad1-910f-18fc83ab8bf5",
+            "clue": "Dihydrogen monoxide",
+            "answer": "water",
+            "normalized": "water"
           },
           {
-            "id": "7b32b14e-481d-4787-9a6c-5c20560881de",
-            "clue": "More open and spacious",
-            "answer": "airier",
-            "normalized": "airier"
+            "id": "a4e8d7ca-de6d-483d-b5d0-e0cf514799ff",
+            "clue": "Texting abbreviation for oversharing",
+            "answer": "tmi",
+            "normalized": "tmi"
           },
           {
-            "id": "f55d8613-b6a4-4fbf-95dc-a78956da7e8b",
-            "clue": "__ seizure is a staring spell type of seizure",
-            "answer": "absence",
-            "normalized": "absence"
+            "id": "9aadc123-34fd-4c70-b2e3-2a61e5e3de04",
+            "clue": "Protected material sometimes used for scrimshaw",
+            "answer": "ivory",
+            "normalized": "ivory"
           },
           {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
+            "clue": "Ben-__, Oscar-winning film with Charlton Heston",
+            "answer": "hur",
+            "normalized": "hur"
           },
           {
-            "id": "e142c33f-aae3-4029-bf9a-0be55daa5935",
-            "clue": "Initialism for short tandem repeat, think DNA",
-            "answer": "str",
-            "normalized": "str"
+            "id": "e55d7275-0f91-4884-af95-3d82b6b8aa59",
+            "clue": "Small citrus fruit close to a mandarin orange",
+            "answer": "tangerine",
+            "normalized": "tangerine"
           },
           {
-            "id": "86eceb1e-a37a-4342-8396-cd58e5fc6bc8",
-            "clue": "Biblical enemy of God's people, along with Magog",
-            "answer": "gog",
-            "normalized": "gog"
+            "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
+            "clue": "Organisations created by nations working together",
+            "answer": "igo",
+            "normalized": "igo"
           },
           {
-            "id": "94a01184-1ae2-48f8-ab62-56829152ef37",
-            "clue": "Dr. Watson actress Lucy __",
-            "answer": "liu",
-            "normalized": "liu"
+            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+            "clue": "Finale",
+            "answer": "end",
+            "normalized": "end"
           },
           {
-            "id": "f53347bf-1856-429c-b937-48389e887bc1",
-            "clue": "Feeling of joy, sorrow, fear, hate, or love",
-            "answer": "emotion",
-            "normalized": "emotion"
+            "id": "e3cbbdef-dc4d-4ece-9a43-6e0ddcd6cea7",
+            "clue": "Someone whose power is due to their wealth",
+            "answer": "plutocrat",
+            "normalized": "plutocrat"
           },
           {
-            "id": "0959fb04-b8e8-4679-8a65-9a5a3769f1d6",
-            "clue": "Male errand runners",
-            "answer": "legmen",
-            "normalized": "legmen"
+            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
+            "clue": "Say this twice for a laughter sound",
+            "answer": "hee",
+            "normalized": "hee"
           },
           {
-            "id": "fae6e7bb-f60f-4558-b86a-55a0e236a9f6",
-            "clue": "French for nose, like in glasses that pinch it",
-            "answer": "nez",
-            "normalized": "nez"
+            "id": "02f44467-38b9-42ac-bc32-f71aa21e0706",
+            "clue": "Good (Spa.)",
+            "answer": "bueno",
+            "normalized": "bueno"
           },
           {
-            "id": "681ffa58-4f1d-4573-904c-5b096079ec95",
-            "clue": "Affix at the front of a word meaning \"before\"",
-            "answer": "pre",
-            "normalized": "pre"
+            "id": "cf806143-7dc2-4add-976a-91bd613b2372",
+            "clue": "Dental Surgeon's degree, abbr.",
+            "answer": "dds",
+            "normalized": "dds"
           },
           {
-            "id": "acd908f2-cd6b-4fb1-b87d-6de237eddd48",
-            "clue": "Sir Ben __, America's Cup sailor, Olympic champion",
-            "answer": "ainslie",
-            "normalized": "ainslie"
+            "id": "60861143-977d-48c6-acb4-758492298898",
+            "clue": "The judge demands this in the court",
+            "answer": "order",
+            "normalized": "order"
           },
           {
-            "id": "e5ae76e9-4b8d-483e-b3de-5c4d4c9387aa",
-            "clue": "Part cut off, distinct area",
-            "answer": "section",
-            "normalized": "section"
+            "id": "3d5c416d-1178-4cac-86ef-ed93f0e5bbaf",
+            "clue": "Sarcasm is said to be the lowest form of it",
+            "answer": "wit",
+            "normalized": "wit"
           },
           {
-            "id": "e2eb7f6a-67ca-44c1-8e01-3a9ec20bf0b3",
-            "clue": "Part of the body between chest and pelvis",
-            "answer": "abdomen",
-            "normalized": "abdomen"
+            "id": "09a67116-0c9d-421d-a41f-863d2f24bedc",
+            "clue": "Used or took advantage of something",
+            "answer": "availed",
+            "normalized": "availed"
           },
           {
-            "id": "7c2c6605-b307-4bec-8a9b-2e2cbe476d72",
-            "clue": "Scholarly intro to a specialist field of study",
-            "answer": "isagoge",
-            "normalized": "isagoge"
+            "id": "7cbdaedf-c01d-429f-89aa-83cb8269117f",
+            "clue": "Speaking in __, also known as glossolalia",
+            "answer": "tongues",
+            "normalized": "tongues"
           },
           {
-            "id": "dcbe43d1-e81c-48a1-bc3f-f71b1e4af744",
-            "clue": "Repeated broadcast of an old TV show",
-            "answer": "rerun",
-            "normalized": "rerun"
+            "id": "9ac3c21e-24df-44d2-87be-e4b497927da1",
+            "clue": "Fungal disease of wheat, can be fatal if consumed",
+            "answer": "ergot",
+            "normalized": "ergot"
           },
           {
-            "id": "00da714c-8c2b-45f4-a6b8-63579b5c32ed",
-            "clue": "Celestial being with wings and a halo",
-            "answer": "angel",
-            "normalized": "angel"
+            "id": "357dcff1-bc72-4a54-ab05-15d9096790d3",
+            "clue": "Barley and wheat relative used in beer and bread",
+            "answer": "rye",
+            "normalized": "rye"
           },
           {
-            "id": "469cf352-f14d-4c26-a6ff-b130f2f509ba",
-            "clue": "Tabloid news website with celeb gossip",
-            "answer": "tmz",
-            "normalized": "tmz"
+            "id": "ae4eeb29-7ccb-4dfb-93de-67afe79eee68",
+            "clue": "The __ Line; 1998 Terrence Malick war film",
+            "answer": "thin red",
+            "normalized": "thinred"
+          },
+          {
+            "id": "124740a8-7ac0-4aa1-9148-68126bfc469e",
+            "clue": "Boring, everyday",
+            "answer": "mundane",
+            "normalized": "mundane"
+          },
+          {
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
+          },
+          {
+            "id": "05fed18b-f702-492f-bc98-b7cd99c8a042",
+            "clue": "Happen again",
+            "answer": "recur",
+            "normalized": "recur"
+          },
+          {
+            "id": "40dbc036-fc72-42ea-9390-9d66d7717853",
+            "clue": "An academic doctor has this degree",
+            "answer": "phd",
+            "normalized": "phd"
+          },
+          {
+            "id": "01a6cac1-f29b-4c18-9bc7-46df9b419851",
+            "clue": "It means \"or best offer\"",
+            "answer": "obo",
+            "normalized": "obo"
+          },
+          {
+            "id": "7d048e47-8378-4108-b309-d5398c9924ec",
+            "clue": "Freestanding rocky hill or peak",
+            "answer": "tor",
+            "normalized": "tor"
           }
         ],
-        "track": "PC|LenC--Y2026M8D22F1"
+        "track": "PC|LenC--Y2026M8D23F1"
       }
     },
     "latestAvailableEntry": {
@@ -434981,21 +435041,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "6+6j2F7EC9LYRUar+5FoX/p+FLizwaJWYKgYEQ65c2f9p0dKoP3CBTw5ByJF34rKqrMyJ8XuIXx1z8jJ+6nJ2WB4+B6GIS0WnvfQCzxEtYlJeS4e7AJi0OTCtVfPLW9NScaWQ8phPmt9pYjOfkNCssJdJw+n4sMgzAXh7J0mtKars7E4qaeaIQjlblLjWrO2swbSNNAIBujl416occYlamD/mdq3N6tlsYwItLx2VEgHILLMexuDbgaLiTsrZ65O2PWIL9kUJPKjQBHPHT6ODMBLLkVXw59ucX79QB5pAaQ="
+        "JAwC/bJ9zLzfdyXCq3dt9dclXA8H6GOwTE9TW7ux77C12VHd/bRaO8H2GvFivrxOXn1w+KsnxssAxQcpxNUJhaTjCTkIC37FH5RHgk+OO17vuU6ipVfjmf00ssmvtbAoZcyyEUsHO3ES2kxZ4cDqUU6m/vphfMc4ewgTWc7prz0YoLqnVzdG+Is2eSCOEavaPFs7FhAjiMeD2i2g8d7woysW+85kbvzEnUwg6ODHg9pliJ9WuUkkgj1/WEZZnZ9T3lGWEJCa26MtnwoYIGCyXxzODCDSRUYS2aOaL2J88ZA="
       ]
     },
     "decrypted": {
-      "Id": "79d620c4-cfe4-40c5-97a3-a918abe15d49",
-      "Date": "2026-08-22T00:00:00Z",
+      "Id": "83d35c98-be16-42eb-8e40-731a9efaaf5b",
+      "Date": "2026-08-23T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "spine",
-      "NormalizedPassword": "spine",
+      "Password": "canoe",
+      "NormalizedPassword": "canoe",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-22T00:35:02.3110000+05:30",
-    "hash": "7116b921defb8c14c54cd75de902df14",
+    "dtu": "2026-08-23T00:24:47.1110000+05:30",
+    "hash": "9b023893f5ed6ead435cd8817b636107",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
