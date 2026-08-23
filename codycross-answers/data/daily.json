@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T18:54:47.111Z",
+  "generatedAt": "2026-08-23T18:54:06.561Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 23
+    "day": 24
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 42
+        "QuantidadeDeFases": 44
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434319,463 +434319,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-23",
+      "key": "2026-08-24",
       "year": 2026,
       "month": 8,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "33c5e304-7fdc-4d52-bdcf-a0ae1b79a6a2",
+        "puzzleId": "3b8c988d-bda1-4ff3-9965-0b493cccc844",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "b3e76a1d-ed28-4dae-93c8-5e40866b978a",
-            "clue": "Author of Leave the World Behind",
-            "answer": "alam",
-            "normalized": "alam"
+            "id": "a79005ac-2a6d-42fe-8374-d7d9379c621a",
+            "clue": "Price",
+            "answer": "cost",
+            "normalized": "cost"
           },
           {
-            "id": "28360e6e-9e8a-4779-9c2d-cd30ddd89d1e",
-            "clue": "Speech problem with S sounds",
-            "answer": "lisp",
-            "normalized": "lisp"
+            "id": "ebf8ea68-a676-4a73-9c72-a97a1d2b03c1",
+            "clue": "Dwarf planet whose moon has a subsurface ocean",
+            "answer": "pluto",
+            "normalized": "pluto"
           },
           {
-            "id": "b5374e6a-970c-41a5-8b78-acbf86fff267",
-            "clue": "Horse-drawn carriage or car on a train",
-            "answer": "coach",
-            "normalized": "coach"
+            "id": "10a03bed-a1db-4965-bf68-2864ab9e8419",
+            "clue": "Give something another go",
+            "answer": "retry",
+            "normalized": "retry"
           },
           {
-            "id": "4a83b574-0623-401c-9025-fb4857c5a662",
-            "clue": "__ Domini, what AD stands for in dates",
-            "answer": "anno",
-            "normalized": "anno"
+            "id": "79830dc1-d3f3-4ffa-8b56-0445b48078cc",
+            "clue": "Musical partner of Hall",
+            "answer": "oates",
+            "normalized": "oates"
           },
           {
-            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
-            "clue": "What to do with the Parents, Dave, and Joe Black",
-            "answer": "meet",
-            "normalized": "meet"
+            "id": "a848c6b1-74ae-4fa4-bb24-b576344bf95e",
+            "clue": "Sketch thoughts with lines to bring them to view",
+            "answer": "draw",
+            "normalized": "draw"
           },
           {
-            "id": "38dca7ee-e9f2-4e16-a061-f9429f617e58",
-            "clue": "History reality series about wilderness living",
-            "answer": "alone",
-            "normalized": "alone"
+            "id": "d1637e99-0dcd-4290-a2d0-a9d9f352c5b5",
+            "clue": "Centuries old war command, the coast is __",
+            "answer": "clear",
+            "normalized": "clear"
           },
           {
-            "id": "87862d05-0d8c-4d26-98ba-0ee4a3b156a0",
-            "clue": "Moriarty who wrote Big Little Lies",
-            "answer": "liane",
-            "normalized": "liane"
+            "id": "c70eed58-6300-4af6-b2bd-d03c1f2ecc94",
+            "clue": "Straight __ Compton, N.W.A. biographical drama",
+            "answer": "outta",
+            "normalized": "outta"
           },
           {
-            "id": "be705b7e-bb01-49c4-8246-b22cc6ab38b0",
-            "clue": "Fred from Scooby-Doo's neckwear of choice",
-            "answer": "ascot",
-            "normalized": "ascot"
+            "id": "81a01ace-440d-42f7-aec8-f8234f2c2f98",
+            "clue": "To scatter untidily, toss about",
+            "answer": "strew",
+            "normalized": "strew"
           },
           {
-            "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-            "clue": "Imperial unit used on some speedometers",
-            "answer": "mph",
-            "normalized": "mph"
+            "id": "6bb5c0d9-d549-4d4d-bb9e-5b15b6ee2d49",
+            "clue": "Children's playthings",
+            "answer": "toys",
+            "normalized": "toys"
           },
           {
-            "id": "172f511c-3ec4-46c4-9f8e-4ef2a6a60dd0",
-            "clue": "A nanny one might be in a teddy bear",
-            "answer": "cam",
-            "normalized": "cam"
+            "id": "de38effb-582d-4cbb-8178-f61a92635f6a",
+            "clue": "Poke's partner",
+            "answer": "prod",
+            "normalized": "prod"
           }
         ],
-        "track": "PC|LenC--Y2026M8D23F0"
+        "track": "PC|LenC--Y2026M8D24F0"
       },
       "mid": {
-        "puzzleId": "d1e12a0a-d4f8-4fd7-b5c9-c1b341f22960",
+        "puzzleId": "911cec65-fbea-4c84-9f01-a0d3351a9fea",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "7c827e71-11c5-4ad1-910f-18fc83ab8bf5",
-            "clue": "Dihydrogen monoxide",
-            "answer": "water",
-            "normalized": "water"
+            "id": "fcf9a23f-36b1-4398-8c92-81a2ac76fe09",
+            "clue": "Sailors do this to clean the deck",
+            "answer": "swab",
+            "normalized": "swab"
           },
           {
-            "id": "a4e8d7ca-de6d-483d-b5d0-e0cf514799ff",
-            "clue": "Texting abbreviation for oversharing",
-            "answer": "tmi",
-            "normalized": "tmi"
+            "id": "0c45f3ae-a11d-43df-8ccb-997a942a6676",
+            "clue": "Crouches and curls up out of fear",
+            "answer": "cowers",
+            "normalized": "cowers"
           },
           {
-            "id": "9aadc123-34fd-4c70-b2e3-2a61e5e3de04",
-            "clue": "Protected material sometimes used for scrimshaw",
-            "answer": "ivory",
-            "normalized": "ivory"
+            "id": "59404cb0-83a6-44b7-8b24-699c6d055b3a",
+            "clue": "Monrovia: capital of __",
+            "answer": "liberia",
+            "normalized": "liberia"
           },
           {
-            "id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
-            "clue": "Ben-__, Oscar-winning film with Charlton Heston",
-            "answer": "hur",
-            "normalized": "hur"
+            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
+            "clue": "To __ is human",
+            "answer": "err",
+            "normalized": "err"
           },
           {
-            "id": "e55d7275-0f91-4884-af95-3d82b6b8aa59",
-            "clue": "Small citrus fruit close to a mandarin orange",
-            "answer": "tangerine",
-            "normalized": "tangerine"
+            "id": "a3460aa4-abf4-4351-bf7f-3df48704b048",
+            "clue": "In cricket it means one day international",
+            "answer": "odi",
+            "normalized": "odi"
           },
           {
-            "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
-            "clue": "Organisations created by nations working together",
-            "answer": "igo",
-            "normalized": "igo"
+            "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
+            "clue": "Villainous eponymous Shakespeare lead, Richard __",
+            "answer": "iii",
+            "normalized": "iii"
           },
           {
-            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
-            "clue": "Finale",
-            "answer": "end",
-            "normalized": "end"
+            "id": "83bf7764-1245-4021-b6a7-2e496780ab30",
+            "clue": "Official abbreviation for the Baltimore Ravens",
+            "answer": "bal",
+            "normalized": "bal"
           },
           {
-            "id": "e3cbbdef-dc4d-4ece-9a43-6e0ddcd6cea7",
-            "clue": "Someone whose power is due to their wealth",
-            "answer": "plutocrat",
-            "normalized": "plutocrat"
+            "id": "8d12ba1a-06dc-471a-b695-3f12c73963b8",
+            "clue": "People of the same age",
+            "answer": "coevals",
+            "normalized": "coevals"
           },
           {
-            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
-            "clue": "Say this twice for a laughter sound",
-            "answer": "hee",
-            "normalized": "hee"
+            "id": "eb3d5cb3-37c3-4182-b9e4-f5fccfe8218b",
+            "clue": "Changes slightly",
+            "answer": "alters",
+            "normalized": "alters"
           },
           {
-            "id": "02f44467-38b9-42ac-bc32-f71aa21e0706",
-            "clue": "Good (Spa.)",
-            "answer": "bueno",
-            "normalized": "bueno"
+            "id": "68c2aa54-4cd3-4716-9242-0f01ec78eb74",
+            "clue": "Positive votes who might \"have it\"",
+            "answer": "ayes",
+            "normalized": "ayes"
           },
           {
-            "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-            "clue": "Dental Surgeon's degree, abbr.",
-            "answer": "dds",
-            "normalized": "dds"
+            "id": "98e5f067-6be9-4ecf-9e24-5ef5af76762f",
+            "clue": "The opposite state to drunkenness",
+            "answer": "sobriety",
+            "normalized": "sobriety"
           },
           {
-            "id": "60861143-977d-48c6-acb4-758492298898",
-            "clue": "The judge demands this in the court",
-            "answer": "order",
-            "normalized": "order"
+            "id": "8da14525-8f04-4a3b-bace-8332ae39af6f",
+            "clue": "Wrestling network with SummerSlam and WrestleMania",
+            "answer": "wwe",
+            "normalized": "wwe"
           },
           {
-            "id": "3d5c416d-1178-4cac-86ef-ed93f0e5bbaf",
-            "clue": "Sarcasm is said to be the lowest form of it",
-            "answer": "wit",
-            "normalized": "wit"
+            "id": "73bc5f6d-ad46-41cc-98a6-929f8247a361",
+            "clue": "Bike arm rests used by triathletes",
+            "answer": "aero bars",
+            "normalized": "aerobars"
           },
           {
-            "id": "09a67116-0c9d-421d-a41f-863d2f24bedc",
-            "clue": "Used or took advantage of something",
-            "answer": "availed",
-            "normalized": "availed"
+            "id": "5bd887cd-a965-403d-a43e-eec8d5f1c656",
+            "clue": "Archaic word for marriage festivals",
+            "answer": "bridals",
+            "normalized": "bridals"
           },
           {
-            "id": "7cbdaedf-c01d-429f-89aa-83cb8269117f",
-            "clue": "Speaking in __, also known as glossolalia",
-            "answer": "tongues",
-            "normalized": "tongues"
+            "id": "ca683b2c-91da-4aad-9d05-43789b3eefeb",
+            "clue": "Small bread from Lazio, Italy",
+            "answer": "ciriola",
+            "normalized": "ciriola"
           },
           {
-            "id": "9ac3c21e-24df-44d2-87be-e4b497927da1",
-            "clue": "Fungal disease of wheat, can be fatal if consumed",
-            "answer": "ergot",
-            "normalized": "ergot"
+            "id": "5c29b189-2aed-455b-98f3-3a29e484615b",
+            "clue": "A homophone that sounds like sales",
+            "answer": "sails",
+            "normalized": "sails"
           },
           {
-            "id": "357dcff1-bc72-4a54-ab05-15d9096790d3",
-            "clue": "Barley and wheat relative used in beer and bread",
-            "answer": "rye",
-            "normalized": "rye"
+            "id": "96e567cb-8dc0-4dbc-954a-ee17f705075d",
+            "clue": "German manufacturer of cameras",
+            "answer": "leica",
+            "normalized": "leica"
           },
           {
-            "id": "ae4eeb29-7ccb-4dfb-93de-67afe79eee68",
-            "clue": "The __ Line; 1998 Terrence Malick war film",
-            "answer": "thin red",
-            "normalized": "thinred"
-          },
-          {
-            "id": "124740a8-7ac0-4aa1-9148-68126bfc469e",
-            "clue": "Boring, everyday",
-            "answer": "mundane",
-            "normalized": "mundane"
-          },
-          {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
-          },
-          {
-            "id": "05fed18b-f702-492f-bc98-b7cd99c8a042",
-            "clue": "Happen again",
-            "answer": "recur",
-            "normalized": "recur"
-          },
-          {
-            "id": "40dbc036-fc72-42ea-9390-9d66d7717853",
-            "clue": "An academic doctor has this degree",
-            "answer": "phd",
-            "normalized": "phd"
-          },
-          {
-            "id": "01a6cac1-f29b-4c18-9bc7-46df9b419851",
-            "clue": "It means \"or best offer\"",
-            "answer": "obo",
-            "normalized": "obo"
-          },
-          {
-            "id": "7d048e47-8378-4108-b309-d5398c9924ec",
-            "clue": "Freestanding rocky hill or peak",
-            "answer": "tor",
-            "normalized": "tor"
+            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
+            "clue": "How to spell the letter V when said aloud",
+            "answer": "vee",
+            "normalized": "vee"
           }
         ],
-        "track": "PC|LenC--Y2026M8D23F1"
+        "track": "PC|LenC--Y2026M8D24F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-23",
+      "key": "2026-08-24",
       "year": 2026,
       "month": 8,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "33c5e304-7fdc-4d52-bdcf-a0ae1b79a6a2",
+        "puzzleId": "3b8c988d-bda1-4ff3-9965-0b493cccc844",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "b3e76a1d-ed28-4dae-93c8-5e40866b978a",
-            "clue": "Author of Leave the World Behind",
-            "answer": "alam",
-            "normalized": "alam"
+            "id": "a79005ac-2a6d-42fe-8374-d7d9379c621a",
+            "clue": "Price",
+            "answer": "cost",
+            "normalized": "cost"
           },
           {
-            "id": "28360e6e-9e8a-4779-9c2d-cd30ddd89d1e",
-            "clue": "Speech problem with S sounds",
-            "answer": "lisp",
-            "normalized": "lisp"
+            "id": "ebf8ea68-a676-4a73-9c72-a97a1d2b03c1",
+            "clue": "Dwarf planet whose moon has a subsurface ocean",
+            "answer": "pluto",
+            "normalized": "pluto"
           },
           {
-            "id": "b5374e6a-970c-41a5-8b78-acbf86fff267",
-            "clue": "Horse-drawn carriage or car on a train",
-            "answer": "coach",
-            "normalized": "coach"
+            "id": "10a03bed-a1db-4965-bf68-2864ab9e8419",
+            "clue": "Give something another go",
+            "answer": "retry",
+            "normalized": "retry"
           },
           {
-            "id": "4a83b574-0623-401c-9025-fb4857c5a662",
-            "clue": "__ Domini, what AD stands for in dates",
-            "answer": "anno",
-            "normalized": "anno"
+            "id": "79830dc1-d3f3-4ffa-8b56-0445b48078cc",
+            "clue": "Musical partner of Hall",
+            "answer": "oates",
+            "normalized": "oates"
           },
           {
-            "id": "01b57254-43ed-4265-8b80-b65d948a426f",
-            "clue": "What to do with the Parents, Dave, and Joe Black",
-            "answer": "meet",
-            "normalized": "meet"
+            "id": "a848c6b1-74ae-4fa4-bb24-b576344bf95e",
+            "clue": "Sketch thoughts with lines to bring them to view",
+            "answer": "draw",
+            "normalized": "draw"
           },
           {
-            "id": "38dca7ee-e9f2-4e16-a061-f9429f617e58",
-            "clue": "History reality series about wilderness living",
-            "answer": "alone",
-            "normalized": "alone"
+            "id": "d1637e99-0dcd-4290-a2d0-a9d9f352c5b5",
+            "clue": "Centuries old war command, the coast is __",
+            "answer": "clear",
+            "normalized": "clear"
           },
           {
-            "id": "87862d05-0d8c-4d26-98ba-0ee4a3b156a0",
-            "clue": "Moriarty who wrote Big Little Lies",
-            "answer": "liane",
-            "normalized": "liane"
+            "id": "c70eed58-6300-4af6-b2bd-d03c1f2ecc94",
+            "clue": "Straight __ Compton, N.W.A. biographical drama",
+            "answer": "outta",
+            "normalized": "outta"
           },
           {
-            "id": "be705b7e-bb01-49c4-8246-b22cc6ab38b0",
-            "clue": "Fred from Scooby-Doo's neckwear of choice",
-            "answer": "ascot",
-            "normalized": "ascot"
+            "id": "81a01ace-440d-42f7-aec8-f8234f2c2f98",
+            "clue": "To scatter untidily, toss about",
+            "answer": "strew",
+            "normalized": "strew"
           },
           {
-            "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-            "clue": "Imperial unit used on some speedometers",
-            "answer": "mph",
-            "normalized": "mph"
+            "id": "6bb5c0d9-d549-4d4d-bb9e-5b15b6ee2d49",
+            "clue": "Children's playthings",
+            "answer": "toys",
+            "normalized": "toys"
           },
           {
-            "id": "172f511c-3ec4-46c4-9f8e-4ef2a6a60dd0",
-            "clue": "A nanny one might be in a teddy bear",
-            "answer": "cam",
-            "normalized": "cam"
+            "id": "de38effb-582d-4cbb-8178-f61a92635f6a",
+            "clue": "Poke's partner",
+            "answer": "prod",
+            "normalized": "prod"
           }
         ],
-        "track": "PC|LenC--Y2026M8D23F0"
+        "track": "PC|LenC--Y2026M8D24F0"
       },
       "mid": {
-        "puzzleId": "d1e12a0a-d4f8-4fd7-b5c9-c1b341f22960",
+        "puzzleId": "911cec65-fbea-4c84-9f01-a0d3351a9fea",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "7c827e71-11c5-4ad1-910f-18fc83ab8bf5",
-            "clue": "Dihydrogen monoxide",
-            "answer": "water",
-            "normalized": "water"
+            "id": "fcf9a23f-36b1-4398-8c92-81a2ac76fe09",
+            "clue": "Sailors do this to clean the deck",
+            "answer": "swab",
+            "normalized": "swab"
           },
           {
-            "id": "a4e8d7ca-de6d-483d-b5d0-e0cf514799ff",
-            "clue": "Texting abbreviation for oversharing",
-            "answer": "tmi",
-            "normalized": "tmi"
+            "id": "0c45f3ae-a11d-43df-8ccb-997a942a6676",
+            "clue": "Crouches and curls up out of fear",
+            "answer": "cowers",
+            "normalized": "cowers"
           },
           {
-            "id": "9aadc123-34fd-4c70-b2e3-2a61e5e3de04",
-            "clue": "Protected material sometimes used for scrimshaw",
-            "answer": "ivory",
-            "normalized": "ivory"
+            "id": "59404cb0-83a6-44b7-8b24-699c6d055b3a",
+            "clue": "Monrovia: capital of __",
+            "answer": "liberia",
+            "normalized": "liberia"
           },
           {
-            "id": "84108273-64f1-4929-81c0-dc0acd9cb11e",
-            "clue": "Ben-__, Oscar-winning film with Charlton Heston",
-            "answer": "hur",
-            "normalized": "hur"
+            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
+            "clue": "To __ is human",
+            "answer": "err",
+            "normalized": "err"
           },
           {
-            "id": "e55d7275-0f91-4884-af95-3d82b6b8aa59",
-            "clue": "Small citrus fruit close to a mandarin orange",
-            "answer": "tangerine",
-            "normalized": "tangerine"
+            "id": "a3460aa4-abf4-4351-bf7f-3df48704b048",
+            "clue": "In cricket it means one day international",
+            "answer": "odi",
+            "normalized": "odi"
           },
           {
-            "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
-            "clue": "Organisations created by nations working together",
-            "answer": "igo",
-            "normalized": "igo"
+            "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
+            "clue": "Villainous eponymous Shakespeare lead, Richard __",
+            "answer": "iii",
+            "normalized": "iii"
           },
           {
-            "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
-            "clue": "Finale",
-            "answer": "end",
-            "normalized": "end"
+            "id": "83bf7764-1245-4021-b6a7-2e496780ab30",
+            "clue": "Official abbreviation for the Baltimore Ravens",
+            "answer": "bal",
+            "normalized": "bal"
           },
           {
-            "id": "e3cbbdef-dc4d-4ece-9a43-6e0ddcd6cea7",
-            "clue": "Someone whose power is due to their wealth",
-            "answer": "plutocrat",
-            "normalized": "plutocrat"
+            "id": "8d12ba1a-06dc-471a-b695-3f12c73963b8",
+            "clue": "People of the same age",
+            "answer": "coevals",
+            "normalized": "coevals"
           },
           {
-            "id": "cc685b6f-1731-4c8e-a770-15ddac41a62d",
-            "clue": "Say this twice for a laughter sound",
-            "answer": "hee",
-            "normalized": "hee"
+            "id": "eb3d5cb3-37c3-4182-b9e4-f5fccfe8218b",
+            "clue": "Changes slightly",
+            "answer": "alters",
+            "normalized": "alters"
           },
           {
-            "id": "02f44467-38b9-42ac-bc32-f71aa21e0706",
-            "clue": "Good (Spa.)",
-            "answer": "bueno",
-            "normalized": "bueno"
+            "id": "68c2aa54-4cd3-4716-9242-0f01ec78eb74",
+            "clue": "Positive votes who might \"have it\"",
+            "answer": "ayes",
+            "normalized": "ayes"
           },
           {
-            "id": "cf806143-7dc2-4add-976a-91bd613b2372",
-            "clue": "Dental Surgeon's degree, abbr.",
-            "answer": "dds",
-            "normalized": "dds"
+            "id": "98e5f067-6be9-4ecf-9e24-5ef5af76762f",
+            "clue": "The opposite state to drunkenness",
+            "answer": "sobriety",
+            "normalized": "sobriety"
           },
           {
-            "id": "60861143-977d-48c6-acb4-758492298898",
-            "clue": "The judge demands this in the court",
-            "answer": "order",
-            "normalized": "order"
+            "id": "8da14525-8f04-4a3b-bace-8332ae39af6f",
+            "clue": "Wrestling network with SummerSlam and WrestleMania",
+            "answer": "wwe",
+            "normalized": "wwe"
           },
           {
-            "id": "3d5c416d-1178-4cac-86ef-ed93f0e5bbaf",
-            "clue": "Sarcasm is said to be the lowest form of it",
-            "answer": "wit",
-            "normalized": "wit"
+            "id": "73bc5f6d-ad46-41cc-98a6-929f8247a361",
+            "clue": "Bike arm rests used by triathletes",
+            "answer": "aero bars",
+            "normalized": "aerobars"
           },
           {
-            "id": "09a67116-0c9d-421d-a41f-863d2f24bedc",
-            "clue": "Used or took advantage of something",
-            "answer": "availed",
-            "normalized": "availed"
+            "id": "5bd887cd-a965-403d-a43e-eec8d5f1c656",
+            "clue": "Archaic word for marriage festivals",
+            "answer": "bridals",
+            "normalized": "bridals"
           },
           {
-            "id": "7cbdaedf-c01d-429f-89aa-83cb8269117f",
-            "clue": "Speaking in __, also known as glossolalia",
-            "answer": "tongues",
-            "normalized": "tongues"
+            "id": "ca683b2c-91da-4aad-9d05-43789b3eefeb",
+            "clue": "Small bread from Lazio, Italy",
+            "answer": "ciriola",
+            "normalized": "ciriola"
           },
           {
-            "id": "9ac3c21e-24df-44d2-87be-e4b497927da1",
-            "clue": "Fungal disease of wheat, can be fatal if consumed",
-            "answer": "ergot",
-            "normalized": "ergot"
+            "id": "5c29b189-2aed-455b-98f3-3a29e484615b",
+            "clue": "A homophone that sounds like sales",
+            "answer": "sails",
+            "normalized": "sails"
           },
           {
-            "id": "357dcff1-bc72-4a54-ab05-15d9096790d3",
-            "clue": "Barley and wheat relative used in beer and bread",
-            "answer": "rye",
-            "normalized": "rye"
+            "id": "96e567cb-8dc0-4dbc-954a-ee17f705075d",
+            "clue": "German manufacturer of cameras",
+            "answer": "leica",
+            "normalized": "leica"
           },
           {
-            "id": "ae4eeb29-7ccb-4dfb-93de-67afe79eee68",
-            "clue": "The __ Line; 1998 Terrence Malick war film",
-            "answer": "thin red",
-            "normalized": "thinred"
-          },
-          {
-            "id": "124740a8-7ac0-4aa1-9148-68126bfc469e",
-            "clue": "Boring, everyday",
-            "answer": "mundane",
-            "normalized": "mundane"
-          },
-          {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
-          },
-          {
-            "id": "05fed18b-f702-492f-bc98-b7cd99c8a042",
-            "clue": "Happen again",
-            "answer": "recur",
-            "normalized": "recur"
-          },
-          {
-            "id": "40dbc036-fc72-42ea-9390-9d66d7717853",
-            "clue": "An academic doctor has this degree",
-            "answer": "phd",
-            "normalized": "phd"
-          },
-          {
-            "id": "01a6cac1-f29b-4c18-9bc7-46df9b419851",
-            "clue": "It means \"or best offer\"",
-            "answer": "obo",
-            "normalized": "obo"
-          },
-          {
-            "id": "7d048e47-8378-4108-b309-d5398c9924ec",
-            "clue": "Freestanding rocky hill or peak",
-            "answer": "tor",
-            "normalized": "tor"
+            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
+            "clue": "How to spell the letter V when said aloud",
+            "answer": "vee",
+            "normalized": "vee"
           }
         ],
-        "track": "PC|LenC--Y2026M8D23F1"
+        "track": "PC|LenC--Y2026M8D24F1"
       }
     },
     "latestAvailableEntry": {
@@ -435041,21 +434969,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "JAwC/bJ9zLzfdyXCq3dt9dclXA8H6GOwTE9TW7ux77C12VHd/bRaO8H2GvFivrxOXn1w+KsnxssAxQcpxNUJhaTjCTkIC37FH5RHgk+OO17vuU6ipVfjmf00ssmvtbAoZcyyEUsHO3ES2kxZ4cDqUU6m/vphfMc4ewgTWc7prz0YoLqnVzdG+Is2eSCOEavaPFs7FhAjiMeD2i2g8d7woysW+85kbvzEnUwg6ODHg9pliJ9WuUkkgj1/WEZZnZ9T3lGWEJCa26MtnwoYIGCyXxzODCDSRUYS2aOaL2J88ZA="
+        "BRiynxQVq3Stb6CAMVD9HODbL3lSoUojdyhg2yHdrrniRFELU28X3n3DsH9AYLsHgIMoAX+dfORC+YtrsFdcTZffV1eU0SPw8T7BDzCe5PZJVB1HOq54YbbjdNTZnlfT54Ovv/nsOg41BSYAzc5F4za22IFTVBoLVQM9CjPufrS41VCGWFn7hkxuoAemYt9nmJ6lH5c6U6TJqR6yEcGOS560ivvwJ6u+i6p11nfse66SftmVk8TKVSP6dz+wxez5/MEAy2uHb6X9VSrl1MqFTje7fkD1F0tYPSoTlNGoHaw="
       ]
     },
     "decrypted": {
-      "Id": "83d35c98-be16-42eb-8e40-731a9efaaf5b",
-      "Date": "2026-08-23T00:00:00Z",
+      "Id": "9ffdeca2-b71d-4c8c-9c03-faefb16f3dce",
+      "Date": "2026-08-24T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "canoe",
-      "NormalizedPassword": "canoe",
+      "Password": "tutor",
+      "NormalizedPassword": "tutor",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-23T00:24:47.1110000+05:30",
-    "hash": "9b023893f5ed6ead435cd8817b636107",
+    "dtu": "2026-08-24T00:24:06.5610000+05:30",
+    "hash": "feb3d2a075c459d60f2844480350728d",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
