@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T18:54:06.561Z",
+  "generatedAt": "2026-08-24T19:08:11.323Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 24
+    "day": 25
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 44
+        "QuantidadeDeFases": 46
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -244460,7 +244460,7 @@
             },
             {
               "id": "150236f4-e6e5-4088-b27c-8b85ee96cddd",
-              "clue": "Rattle sound from a chain or knight's outfit",
+              "clue": "Rattling sound of a chain or knight's outfit",
               "answer": "clank",
               "normalized": "clank"
             },
@@ -395681,7 +395681,7 @@
             },
             {
               "id": "4cdcfb83-5648-466b-bdac-5a50b662fbe5",
-              "clue": "A polite gesture to welcome someone",
+              "clue": "Make a polite gesture to welcome someone",
               "answer": "greet",
               "normalized": "greet"
             },
@@ -434319,391 +434319,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-24",
+      "key": "2026-08-25",
       "year": 2026,
       "month": 8,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "3b8c988d-bda1-4ff3-9965-0b493cccc844",
+        "puzzleId": "cc99769a-32b1-44bd-a4b3-6b1a41d2e6f8",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "a79005ac-2a6d-42fe-8374-d7d9379c621a",
-            "clue": "Price",
-            "answer": "cost",
-            "normalized": "cost"
+            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
+            "clue": "The United States' largest association of doctors",
+            "answer": "ama",
+            "normalized": "ama"
           },
           {
-            "id": "ebf8ea68-a676-4a73-9c72-a97a1d2b03c1",
-            "clue": "Dwarf planet whose moon has a subsurface ocean",
-            "answer": "pluto",
-            "normalized": "pluto"
+            "id": "a75cd842-f37c-450b-b9c9-e8059c1aba16",
+            "clue": "Cairn terrier who walked down a yellow brick road",
+            "answer": "toto",
+            "normalized": "toto"
           },
           {
-            "id": "10a03bed-a1db-4965-bf68-2864ab9e8419",
-            "clue": "Give something another go",
-            "answer": "retry",
-            "normalized": "retry"
+            "id": "a0a775a8-2c63-41e8-a406-4b123255f8f8",
+            "clue": "The only planet not named after mythology",
+            "answer": "earth",
+            "normalized": "earth"
           },
           {
-            "id": "79830dc1-d3f3-4ffa-8b56-0445b48078cc",
-            "clue": "Musical partner of Hall",
-            "answer": "oates",
-            "normalized": "oates"
+            "id": "ab857378-cbc5-46da-8392-cb960702ffed",
+            "clue": "Initiate someone in processes and procedures",
+            "answer": "train",
+            "normalized": "train"
           },
           {
-            "id": "a848c6b1-74ae-4fa4-bb24-b576344bf95e",
-            "clue": "Sketch thoughts with lines to bring them to view",
-            "answer": "draw",
-            "normalized": "draw"
+            "id": "d917146f-a119-49fc-b3ae-134df56c8a26",
+            "clue": "Spanish for the number five",
+            "answer": "cinco",
+            "normalized": "cinco"
           },
           {
-            "id": "d1637e99-0dcd-4290-a2d0-a9d9f352c5b5",
-            "clue": "Centuries old war command, the coast is __",
-            "answer": "clear",
-            "normalized": "clear"
+            "id": "a4d5e2f7-e05f-453d-abae-7b11e3fd9ea2",
+            "clue": "Pioneer company of early video-game consoles",
+            "answer": "atari",
+            "normalized": "atari"
           },
           {
-            "id": "c70eed58-6300-4af6-b2bd-d03c1f2ecc94",
-            "clue": "Straight __ Compton, N.W.A. biographical drama",
-            "answer": "outta",
-            "normalized": "outta"
+            "id": "0f51a37b-ae5c-43e3-b34f-c5e5021da396",
+            "clue": "Caitlin who authored How to Be a Woman",
+            "answer": "moran",
+            "normalized": "moran"
           },
           {
-            "id": "81a01ace-440d-42f7-aec8-f8234f2c2f98",
-            "clue": "To scatter untidily, toss about",
-            "answer": "strew",
-            "normalized": "strew"
+            "id": "38ef3c13-c52e-41ec-968c-925b11b2a11f",
+            "clue": "Room located directly below the roof",
+            "answer": "attic",
+            "normalized": "attic"
           },
           {
-            "id": "6bb5c0d9-d549-4d4d-bb9e-5b15b6ee2d49",
-            "clue": "Children's playthings",
-            "answer": "toys",
-            "normalized": "toys"
+            "id": "ed3899d3-234c-4b48-a450-037cb6e5c73d",
+            "clue": "Two words to express regret at something",
+            "answer": "oh no",
+            "normalized": "ohno"
           },
           {
-            "id": "de38effb-582d-4cbb-8178-f61a92635f6a",
-            "clue": "Poke's partner",
-            "answer": "prod",
-            "normalized": "prod"
+            "id": "334230cb-8ef5-487f-9694-1bf4962314cd",
+            "clue": "And so on",
+            "answer": "etc",
+            "normalized": "etc"
           }
         ],
-        "track": "PC|LenC--Y2026M8D24F0"
+        "track": "PC|LenC--Y2026M8D25F0"
       },
       "mid": {
-        "puzzleId": "911cec65-fbea-4c84-9f01-a0d3351a9fea",
+        "puzzleId": "28dca581-d9cb-422f-8546-de3cd384fdb4",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "fcf9a23f-36b1-4398-8c92-81a2ac76fe09",
-            "clue": "Sailors do this to clean the deck",
-            "answer": "swab",
-            "normalized": "swab"
+            "id": "36da7bd7-b9ff-4d34-ac35-32045fa387a3",
+            "clue": "To rebuff or ignore; rhymes with grub",
+            "answer": "snub",
+            "normalized": "snub"
           },
           {
-            "id": "0c45f3ae-a11d-43df-8ccb-997a942a6676",
-            "clue": "Crouches and curls up out of fear",
-            "answer": "cowers",
-            "normalized": "cowers"
+            "id": "7a5b80af-9498-45f7-b447-e258b08915f0",
+            "clue": "One web page of many opened in one browser window",
+            "answer": "tab",
+            "normalized": "tab"
           },
           {
-            "id": "59404cb0-83a6-44b7-8b24-699c6d055b3a",
-            "clue": "Monrovia: capital of __",
-            "answer": "liberia",
-            "normalized": "liberia"
+            "id": "fc958ded-c28c-40ec-ad47-10ff14e0f9bc",
+            "clue": "Sushi cylinder wrapped in seaweed",
+            "answer": "nori roll",
+            "normalized": "noriroll"
           },
           {
-            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
-            "clue": "To __ is human",
-            "answer": "err",
-            "normalized": "err"
+            "id": "b8162549-f2aa-4009-b5a8-2f996885bf56",
+            "clue": "The act of giggling",
+            "answer": "laughter",
+            "normalized": "laughter"
           },
           {
-            "id": "a3460aa4-abf4-4351-bf7f-3df48704b048",
-            "clue": "In cricket it means one day international",
-            "answer": "odi",
-            "normalized": "odi"
+            "id": "5af64a39-9bb5-4fd7-90d6-5a8165dd9c63",
+            "clue": "Spanish painter of The Third of May 1808",
+            "answer": "goya",
+            "normalized": "goya"
           },
           {
-            "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-            "clue": "Villainous eponymous Shakespeare lead, Richard __",
-            "answer": "iii",
-            "normalized": "iii"
+            "id": "8c478ffe-e7d4-4e33-862b-cff0e15feb42",
+            "clue": "Deliberately sinks a ship",
+            "answer": "scuttles",
+            "normalized": "scuttles"
           },
           {
-            "id": "83bf7764-1245-4021-b6a7-2e496780ab30",
-            "clue": "Official abbreviation for the Baltimore Ravens",
-            "answer": "bal",
-            "normalized": "bal"
+            "id": "1e911a1b-35cf-4f87-9c5b-be2a3e734cae",
+            "clue": "Grilled cubes of meat cooked on skewers",
+            "answer": "shashlik",
+            "normalized": "shashlik"
           },
           {
-            "id": "8d12ba1a-06dc-471a-b695-3f12c73963b8",
-            "clue": "People of the same age",
-            "answer": "coevals",
-            "normalized": "coevals"
+            "id": "04cf4338-0c57-40e1-a930-a9b69a9e9ce6",
+            "clue": "Negative vote",
+            "answer": "nay",
+            "normalized": "nay"
           },
           {
-            "id": "eb3d5cb3-37c3-4182-b9e4-f5fccfe8218b",
-            "clue": "Changes slightly",
-            "answer": "alters",
-            "normalized": "alters"
+            "id": "f3d22812-40f8-40bd-bc66-891c61d1a123",
+            "clue": "Dark forest bird that can mimic human speech",
+            "answer": "myna",
+            "normalized": "myna"
           },
           {
-            "id": "68c2aa54-4cd3-4716-9242-0f01ec78eb74",
-            "clue": "Positive votes who might \"have it\"",
-            "answer": "ayes",
-            "normalized": "ayes"
+            "id": "016b011e-c555-479c-a64f-4747b9584f23",
+            "clue": "US sketch comedy show airing since 1975",
+            "answer": "snl",
+            "normalized": "snl"
           },
           {
-            "id": "98e5f067-6be9-4ecf-9e24-5ef5af76762f",
-            "clue": "The opposite state to drunkenness",
-            "answer": "sobriety",
-            "normalized": "sobriety"
+            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
+            "clue": "Net Operating Assets in business speak",
+            "answer": "noa",
+            "normalized": "noa"
           },
           {
-            "id": "8da14525-8f04-4a3b-bace-8332ae39af6f",
-            "clue": "Wrestling network with SummerSlam and WrestleMania",
-            "answer": "wwe",
-            "normalized": "wwe"
+            "id": "c4a374b6-7204-48e8-9758-b2791a0bb529",
+            "clue": "First country to legalise recreational cannabis",
+            "answer": "uruguay",
+            "normalized": "uruguay"
           },
           {
-            "id": "73bc5f6d-ad46-41cc-98a6-929f8247a361",
-            "clue": "Bike arm rests used by triathletes",
-            "answer": "aero bars",
-            "normalized": "aerobars"
+            "id": "36301af7-3083-4975-9b63-4c10ede11354",
+            "clue": "People with prejudiced ideals against others",
+            "answer": "bigots",
+            "normalized": "bigots"
           },
           {
-            "id": "5bd887cd-a965-403d-a43e-eec8d5f1c656",
-            "clue": "Archaic word for marriage festivals",
-            "answer": "bridals",
-            "normalized": "bridals"
+            "id": "8b176eaa-92fd-422e-b682-1117f945b5c8",
+            "clue": "Entirely, completely, wholly",
+            "answer": "totally",
+            "normalized": "totally"
           },
           {
-            "id": "ca683b2c-91da-4aad-9d05-43789b3eefeb",
-            "clue": "Small bread from Lazio, Italy",
-            "answer": "ciriola",
-            "normalized": "ciriola"
+            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
+            "clue": "Warm-fermented beer, sometimes dark in colour",
+            "answer": "ale",
+            "normalized": "ale"
           },
           {
-            "id": "5c29b189-2aed-455b-98f3-3a29e484615b",
-            "clue": "A homophone that sounds like sales",
-            "answer": "sails",
-            "normalized": "sails"
+            "id": "03db493b-8fea-4e87-aab6-4ddf37a0bfcd",
+            "clue": "Three-letter code for Belarus",
+            "answer": "blr",
+            "normalized": "blr"
           },
           {
-            "id": "96e567cb-8dc0-4dbc-954a-ee17f705075d",
-            "clue": "German manufacturer of cameras",
-            "answer": "leica",
-            "normalized": "leica"
+            "id": "ce76b864-2fca-4a26-9d3e-153ace972b1a",
+            "clue": "beat, cadence",
+            "answer": "rhythm",
+            "normalized": "rhythm"
           },
           {
-            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
-            "clue": "How to spell the letter V when said aloud",
-            "answer": "vee",
-            "normalized": "vee"
+            "id": "12ad09fa-e5d0-4d4c-81e1-c5437869436c",
+            "clue": "Personal digits you might keep secret in the US",
+            "answer": "ssn",
+            "normalized": "ssn"
+          },
+          {
+            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
+            "clue": "Goes before \"ching\" for a cash register noise",
+            "answer": "cha",
+            "normalized": "cha"
+          },
+          {
+            "id": "7470e5f9-590c-4745-905f-4b522e94d20a",
+            "clue": "German masculine indefinite article",
+            "answer": "ein",
+            "normalized": "ein"
+          },
+          {
+            "id": "b80578f4-66cf-4c48-b72d-56ecf90fdd47",
+            "clue": "Jamaican reggae precursor",
+            "answer": "ska",
+            "normalized": "ska"
           }
         ],
-        "track": "PC|LenC--Y2026M8D24F1"
+        "track": "PC|LenC--Y2026M8D25F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-24",
+      "key": "2026-08-25",
       "year": 2026,
       "month": 8,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "3b8c988d-bda1-4ff3-9965-0b493cccc844",
+        "puzzleId": "cc99769a-32b1-44bd-a4b3-6b1a41d2e6f8",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "a79005ac-2a6d-42fe-8374-d7d9379c621a",
-            "clue": "Price",
-            "answer": "cost",
-            "normalized": "cost"
+            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
+            "clue": "The United States' largest association of doctors",
+            "answer": "ama",
+            "normalized": "ama"
           },
           {
-            "id": "ebf8ea68-a676-4a73-9c72-a97a1d2b03c1",
-            "clue": "Dwarf planet whose moon has a subsurface ocean",
-            "answer": "pluto",
-            "normalized": "pluto"
+            "id": "a75cd842-f37c-450b-b9c9-e8059c1aba16",
+            "clue": "Cairn terrier who walked down a yellow brick road",
+            "answer": "toto",
+            "normalized": "toto"
           },
           {
-            "id": "10a03bed-a1db-4965-bf68-2864ab9e8419",
-            "clue": "Give something another go",
-            "answer": "retry",
-            "normalized": "retry"
+            "id": "a0a775a8-2c63-41e8-a406-4b123255f8f8",
+            "clue": "The only planet not named after mythology",
+            "answer": "earth",
+            "normalized": "earth"
           },
           {
-            "id": "79830dc1-d3f3-4ffa-8b56-0445b48078cc",
-            "clue": "Musical partner of Hall",
-            "answer": "oates",
-            "normalized": "oates"
+            "id": "ab857378-cbc5-46da-8392-cb960702ffed",
+            "clue": "Initiate someone in processes and procedures",
+            "answer": "train",
+            "normalized": "train"
           },
           {
-            "id": "a848c6b1-74ae-4fa4-bb24-b576344bf95e",
-            "clue": "Sketch thoughts with lines to bring them to view",
-            "answer": "draw",
-            "normalized": "draw"
+            "id": "d917146f-a119-49fc-b3ae-134df56c8a26",
+            "clue": "Spanish for the number five",
+            "answer": "cinco",
+            "normalized": "cinco"
           },
           {
-            "id": "d1637e99-0dcd-4290-a2d0-a9d9f352c5b5",
-            "clue": "Centuries old war command, the coast is __",
-            "answer": "clear",
-            "normalized": "clear"
+            "id": "a4d5e2f7-e05f-453d-abae-7b11e3fd9ea2",
+            "clue": "Pioneer company of early video-game consoles",
+            "answer": "atari",
+            "normalized": "atari"
           },
           {
-            "id": "c70eed58-6300-4af6-b2bd-d03c1f2ecc94",
-            "clue": "Straight __ Compton, N.W.A. biographical drama",
-            "answer": "outta",
-            "normalized": "outta"
+            "id": "0f51a37b-ae5c-43e3-b34f-c5e5021da396",
+            "clue": "Caitlin who authored How to Be a Woman",
+            "answer": "moran",
+            "normalized": "moran"
           },
           {
-            "id": "81a01ace-440d-42f7-aec8-f8234f2c2f98",
-            "clue": "To scatter untidily, toss about",
-            "answer": "strew",
-            "normalized": "strew"
+            "id": "38ef3c13-c52e-41ec-968c-925b11b2a11f",
+            "clue": "Room located directly below the roof",
+            "answer": "attic",
+            "normalized": "attic"
           },
           {
-            "id": "6bb5c0d9-d549-4d4d-bb9e-5b15b6ee2d49",
-            "clue": "Children's playthings",
-            "answer": "toys",
-            "normalized": "toys"
+            "id": "ed3899d3-234c-4b48-a450-037cb6e5c73d",
+            "clue": "Two words to express regret at something",
+            "answer": "oh no",
+            "normalized": "ohno"
           },
           {
-            "id": "de38effb-582d-4cbb-8178-f61a92635f6a",
-            "clue": "Poke's partner",
-            "answer": "prod",
-            "normalized": "prod"
+            "id": "334230cb-8ef5-487f-9694-1bf4962314cd",
+            "clue": "And so on",
+            "answer": "etc",
+            "normalized": "etc"
           }
         ],
-        "track": "PC|LenC--Y2026M8D24F0"
+        "track": "PC|LenC--Y2026M8D25F0"
       },
       "mid": {
-        "puzzleId": "911cec65-fbea-4c84-9f01-a0d3351a9fea",
+        "puzzleId": "28dca581-d9cb-422f-8546-de3cd384fdb4",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "fcf9a23f-36b1-4398-8c92-81a2ac76fe09",
-            "clue": "Sailors do this to clean the deck",
-            "answer": "swab",
-            "normalized": "swab"
+            "id": "36da7bd7-b9ff-4d34-ac35-32045fa387a3",
+            "clue": "To rebuff or ignore; rhymes with grub",
+            "answer": "snub",
+            "normalized": "snub"
           },
           {
-            "id": "0c45f3ae-a11d-43df-8ccb-997a942a6676",
-            "clue": "Crouches and curls up out of fear",
-            "answer": "cowers",
-            "normalized": "cowers"
+            "id": "7a5b80af-9498-45f7-b447-e258b08915f0",
+            "clue": "One web page of many opened in one browser window",
+            "answer": "tab",
+            "normalized": "tab"
           },
           {
-            "id": "59404cb0-83a6-44b7-8b24-699c6d055b3a",
-            "clue": "Monrovia: capital of __",
-            "answer": "liberia",
-            "normalized": "liberia"
+            "id": "fc958ded-c28c-40ec-ad47-10ff14e0f9bc",
+            "clue": "Sushi cylinder wrapped in seaweed",
+            "answer": "nori roll",
+            "normalized": "noriroll"
           },
           {
-            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
-            "clue": "To __ is human",
-            "answer": "err",
-            "normalized": "err"
+            "id": "b8162549-f2aa-4009-b5a8-2f996885bf56",
+            "clue": "The act of giggling",
+            "answer": "laughter",
+            "normalized": "laughter"
           },
           {
-            "id": "a3460aa4-abf4-4351-bf7f-3df48704b048",
-            "clue": "In cricket it means one day international",
-            "answer": "odi",
-            "normalized": "odi"
+            "id": "5af64a39-9bb5-4fd7-90d6-5a8165dd9c63",
+            "clue": "Spanish painter of The Third of May 1808",
+            "answer": "goya",
+            "normalized": "goya"
           },
           {
-            "id": "c245d7ae-7c05-4fbb-a6ac-8e0401c8871b",
-            "clue": "Villainous eponymous Shakespeare lead, Richard __",
-            "answer": "iii",
-            "normalized": "iii"
+            "id": "8c478ffe-e7d4-4e33-862b-cff0e15feb42",
+            "clue": "Deliberately sinks a ship",
+            "answer": "scuttles",
+            "normalized": "scuttles"
           },
           {
-            "id": "83bf7764-1245-4021-b6a7-2e496780ab30",
-            "clue": "Official abbreviation for the Baltimore Ravens",
-            "answer": "bal",
-            "normalized": "bal"
+            "id": "1e911a1b-35cf-4f87-9c5b-be2a3e734cae",
+            "clue": "Grilled cubes of meat cooked on skewers",
+            "answer": "shashlik",
+            "normalized": "shashlik"
           },
           {
-            "id": "8d12ba1a-06dc-471a-b695-3f12c73963b8",
-            "clue": "People of the same age",
-            "answer": "coevals",
-            "normalized": "coevals"
+            "id": "04cf4338-0c57-40e1-a930-a9b69a9e9ce6",
+            "clue": "Negative vote",
+            "answer": "nay",
+            "normalized": "nay"
           },
           {
-            "id": "eb3d5cb3-37c3-4182-b9e4-f5fccfe8218b",
-            "clue": "Changes slightly",
-            "answer": "alters",
-            "normalized": "alters"
+            "id": "f3d22812-40f8-40bd-bc66-891c61d1a123",
+            "clue": "Dark forest bird that can mimic human speech",
+            "answer": "myna",
+            "normalized": "myna"
           },
           {
-            "id": "68c2aa54-4cd3-4716-9242-0f01ec78eb74",
-            "clue": "Positive votes who might \"have it\"",
-            "answer": "ayes",
-            "normalized": "ayes"
+            "id": "016b011e-c555-479c-a64f-4747b9584f23",
+            "clue": "US sketch comedy show airing since 1975",
+            "answer": "snl",
+            "normalized": "snl"
           },
           {
-            "id": "98e5f067-6be9-4ecf-9e24-5ef5af76762f",
-            "clue": "The opposite state to drunkenness",
-            "answer": "sobriety",
-            "normalized": "sobriety"
+            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
+            "clue": "Net Operating Assets in business speak",
+            "answer": "noa",
+            "normalized": "noa"
           },
           {
-            "id": "8da14525-8f04-4a3b-bace-8332ae39af6f",
-            "clue": "Wrestling network with SummerSlam and WrestleMania",
-            "answer": "wwe",
-            "normalized": "wwe"
+            "id": "c4a374b6-7204-48e8-9758-b2791a0bb529",
+            "clue": "First country to legalise recreational cannabis",
+            "answer": "uruguay",
+            "normalized": "uruguay"
           },
           {
-            "id": "73bc5f6d-ad46-41cc-98a6-929f8247a361",
-            "clue": "Bike arm rests used by triathletes",
-            "answer": "aero bars",
-            "normalized": "aerobars"
+            "id": "36301af7-3083-4975-9b63-4c10ede11354",
+            "clue": "People with prejudiced ideals against others",
+            "answer": "bigots",
+            "normalized": "bigots"
           },
           {
-            "id": "5bd887cd-a965-403d-a43e-eec8d5f1c656",
-            "clue": "Archaic word for marriage festivals",
-            "answer": "bridals",
-            "normalized": "bridals"
+            "id": "8b176eaa-92fd-422e-b682-1117f945b5c8",
+            "clue": "Entirely, completely, wholly",
+            "answer": "totally",
+            "normalized": "totally"
           },
           {
-            "id": "ca683b2c-91da-4aad-9d05-43789b3eefeb",
-            "clue": "Small bread from Lazio, Italy",
-            "answer": "ciriola",
-            "normalized": "ciriola"
+            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
+            "clue": "Warm-fermented beer, sometimes dark in colour",
+            "answer": "ale",
+            "normalized": "ale"
           },
           {
-            "id": "5c29b189-2aed-455b-98f3-3a29e484615b",
-            "clue": "A homophone that sounds like sales",
-            "answer": "sails",
-            "normalized": "sails"
+            "id": "03db493b-8fea-4e87-aab6-4ddf37a0bfcd",
+            "clue": "Three-letter code for Belarus",
+            "answer": "blr",
+            "normalized": "blr"
           },
           {
-            "id": "96e567cb-8dc0-4dbc-954a-ee17f705075d",
-            "clue": "German manufacturer of cameras",
-            "answer": "leica",
-            "normalized": "leica"
+            "id": "ce76b864-2fca-4a26-9d3e-153ace972b1a",
+            "clue": "beat, cadence",
+            "answer": "rhythm",
+            "normalized": "rhythm"
           },
           {
-            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
-            "clue": "How to spell the letter V when said aloud",
-            "answer": "vee",
-            "normalized": "vee"
+            "id": "12ad09fa-e5d0-4d4c-81e1-c5437869436c",
+            "clue": "Personal digits you might keep secret in the US",
+            "answer": "ssn",
+            "normalized": "ssn"
+          },
+          {
+            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
+            "clue": "Goes before \"ching\" for a cash register noise",
+            "answer": "cha",
+            "normalized": "cha"
+          },
+          {
+            "id": "7470e5f9-590c-4745-905f-4b522e94d20a",
+            "clue": "German masculine indefinite article",
+            "answer": "ein",
+            "normalized": "ein"
+          },
+          {
+            "id": "b80578f4-66cf-4c48-b72d-56ecf90fdd47",
+            "clue": "Jamaican reggae precursor",
+            "answer": "ska",
+            "normalized": "ska"
           }
         ],
-        "track": "PC|LenC--Y2026M8D24F1"
+        "track": "PC|LenC--Y2026M8D25F1"
       }
     },
     "latestAvailableEntry": {
@@ -434969,21 +435005,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "BRiynxQVq3Stb6CAMVD9HODbL3lSoUojdyhg2yHdrrniRFELU28X3n3DsH9AYLsHgIMoAX+dfORC+YtrsFdcTZffV1eU0SPw8T7BDzCe5PZJVB1HOq54YbbjdNTZnlfT54Ovv/nsOg41BSYAzc5F4za22IFTVBoLVQM9CjPufrS41VCGWFn7hkxuoAemYt9nmJ6lH5c6U6TJqR6yEcGOS560ivvwJ6u+i6p11nfse66SftmVk8TKVSP6dz+wxez5/MEAy2uHb6X9VSrl1MqFTje7fkD1F0tYPSoTlNGoHaw="
+        "e0X0AW4l5A0/GItdx3M27SaKaRMpiCg8exD0Pg23rhK0Ao8QHVfRZy5sbMR6BCXaFegpIB1ZzQ6zDHC+8y1ddlDos2CZGZgo4ssef+UZRr2pR2WmuiAsk4D/HX5MgwASY81uUwcuhmm9WtGV4QrKGmujrbc7vLEdTK8HBCrnToXO90voyRlbCaRqyZe+e/KkxNDsFEcohnkMwL5SpUFt8PIJjvUTmxNSZHXiqWaaA0nsHs6tFwz8pRGvoFqyE0izsnT1B3OIJBoWDdIAGe7aEPbAn/w7KSaf74lbyVbvgpc="
       ]
     },
     "decrypted": {
-      "Id": "9ffdeca2-b71d-4c8c-9c03-faefb16f3dce",
-      "Date": "2026-08-24T00:00:00Z",
+      "Id": "70aa5531-ae1c-46b0-a23b-c90a2c28f3ea",
+      "Date": "2026-08-25T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "tutor",
-      "NormalizedPassword": "tutor",
+      "Password": "stove",
+      "NormalizedPassword": "stove",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-24T00:24:06.5610000+05:30",
-    "hash": "feb3d2a075c459d60f2844480350728d",
+    "dtu": "2026-08-25T00:38:11.3230000+05:30",
+    "hash": "104fca0882c0ae755f69af22c6496540",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
