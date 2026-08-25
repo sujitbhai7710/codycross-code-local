@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T19:08:11.323Z",
+  "generatedAt": "2026-08-25T19:06:38.962Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 25
+    "day": 26
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 46
+        "QuantidadeDeFases": 48
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -3259,7 +3259,7 @@
           "answers": [
             {
               "id": "50fcf7a3-0f83-403d-8f06-b0d546477318",
-              "clue": "Genre of black-and-white crime dramas of the 1950s",
+              "clue": "Genre of black-and-white crime dramas, film __",
               "answer": "noir",
               "normalized": "noir"
             },
@@ -37555,7 +37555,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             }
@@ -83220,7 +83220,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             }
@@ -101111,7 +101111,7 @@
           "answers": [
             {
               "id": "6f8842b9-961b-49fc-897c-61f5f84d00bd",
-              "clue": "Legendary tale from Ancient Greece",
+              "clue": "Legendary tale, as from Ancient Greece",
               "answer": "myth",
               "normalized": "myth"
             },
@@ -138366,7 +138366,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             }
@@ -220234,7 +220234,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             }
@@ -244956,7 +244956,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             },
@@ -332632,7 +332632,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             },
@@ -360849,7 +360849,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             }
@@ -400124,7 +400124,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             },
@@ -403703,7 +403703,7 @@
             },
             {
               "id": "6f8842b9-961b-49fc-897c-61f5f84d00bd",
-              "clue": "Legendary tale from Ancient Greece",
+              "clue": "Legendary tale, as from Ancient Greece",
               "answer": "myth",
               "normalized": "myth"
             },
@@ -405413,7 +405413,7 @@
             },
             {
               "id": "dc9dfb12-3534-4724-ba62-b65ee0b57e4b",
-              "clue": "Holiday beverage made with milk and egg yolks",
+              "clue": "Festive beverage made with milk and egg yolks",
               "answer": "nog",
               "normalized": "nog"
             }
@@ -434319,427 +434319,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-25",
+      "key": "2026-08-26",
       "year": 2026,
       "month": 8,
-      "day": 25,
+      "day": 26,
       "small": {
-        "puzzleId": "cc99769a-32b1-44bd-a4b3-6b1a41d2e6f8",
+        "puzzleId": "aa9dd430-b8b2-4076-81a1-7d3319b0f86a",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
+            "id": "3dbe63b2-a226-4bef-b2f0-61bee102dac8",
+            "clue": "South Korean boy band who had a hit with Dynamite",
+            "answer": "bts",
+            "normalized": "bts"
           },
           {
-            "id": "a75cd842-f37c-450b-b9c9-e8059c1aba16",
-            "clue": "Cairn terrier who walked down a yellow brick road",
-            "answer": "toto",
-            "normalized": "toto"
+            "id": "b4b0978c-4bb5-4b42-bfcf-3429731ec1ba",
+            "clue": "A shoe made for walking",
+            "answer": "boot",
+            "normalized": "boot"
           },
           {
-            "id": "a0a775a8-2c63-41e8-a406-4b123255f8f8",
-            "clue": "The only planet not named after mythology",
-            "answer": "earth",
-            "normalized": "earth"
+            "id": "9043c853-4ae9-4eeb-8f2e-8de3db0b1229",
+            "clue": "Path of a moon circling a planet",
+            "answer": "orbit",
+            "normalized": "orbit"
           },
           {
-            "id": "ab857378-cbc5-46da-8392-cb960702ffed",
-            "clue": "Initiate someone in processes and procedures",
-            "answer": "train",
-            "normalized": "train"
+            "id": "3b7e7ba6-6507-48a6-9d7a-5969f4519a0d",
+            "clue": "Name meaning beautiful in Italian",
+            "answer": "bella",
+            "normalized": "bella"
           },
           {
-            "id": "d917146f-a119-49fc-b3ae-134df56c8a26",
-            "clue": "Spanish for the number five",
-            "answer": "cinco",
-            "normalized": "cinco"
+            "id": "e0e65f37-7de7-47bf-967d-afa6ef64ec2e",
+            "clue": "Crime video game series Grand Theft __",
+            "answer": "auto",
+            "normalized": "auto"
           },
           {
-            "id": "a4d5e2f7-e05f-453d-abae-7b11e3fd9ea2",
-            "clue": "Pioneer company of early video-game consoles",
-            "answer": "atari",
-            "normalized": "atari"
+            "id": "3956a8b5-a3e1-437d-810f-85bcb81a2a46",
+            "clue": "French for \"the\", used with plurals",
+            "answer": "les",
+            "normalized": "les"
           },
           {
-            "id": "0f51a37b-ae5c-43e3-b34f-c5e5021da396",
-            "clue": "Caitlin who authored How to Be a Woman",
-            "answer": "moran",
-            "normalized": "moran"
+            "id": "f9cc6be9-0b43-4a6b-86f1-9fff523511a9",
+            "clue": "Of the north or northern regions",
+            "answer": "boreal",
+            "normalized": "boreal"
           },
           {
-            "id": "38ef3c13-c52e-41ec-968c-925b11b2a11f",
-            "clue": "Room located directly below the roof",
-            "answer": "attic",
-            "normalized": "attic"
+            "id": "3f00656b-3415-498f-9d13-e9a9106568ab",
+            "clue": "Black Gives Way __, Alice in Chains with Elton",
+            "answer": "to blue",
+            "normalized": "toblue"
           },
           {
-            "id": "ed3899d3-234c-4b48-a450-037cb6e5c73d",
-            "clue": "Two words to express regret at something",
-            "answer": "oh no",
-            "normalized": "ohno"
+            "id": "b39c4fb1-3abd-4e5e-8dd1-fb0c957e3cf7",
+            "clue": "Long sticks some circus performers walk on",
+            "answer": "stilts",
+            "normalized": "stilts"
           },
           {
-            "id": "334230cb-8ef5-487f-9694-1bf4962314cd",
-            "clue": "And so on",
-            "answer": "etc",
-            "normalized": "etc"
+            "id": "97d8f367-3cc4-4a0b-a557-6f321e49b1c7",
+            "clue": "Jamaican singer Marley",
+            "answer": "bob",
+            "normalized": "bob"
+          },
+          {
+            "id": "574c56d5-5d09-4012-ac85-1913196e7acb",
+            "clue": "One name for natural order in Chinese philosophy",
+            "answer": "tao",
+            "normalized": "tao"
           }
         ],
-        "track": "PC|LenC--Y2026M8D25F0"
+        "track": "PC|LenC--Y2026M8D26F0"
       },
       "mid": {
-        "puzzleId": "28dca581-d9cb-422f-8546-de3cd384fdb4",
+        "puzzleId": "2dea85dd-f99a-4f09-a9f5-0c3240d1d3ce",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "36da7bd7-b9ff-4d34-ac35-32045fa387a3",
-            "clue": "To rebuff or ignore; rhymes with grub",
-            "answer": "snub",
-            "normalized": "snub"
+            "id": "862417d2-9dc8-4f49-b7e0-c41547d906a3",
+            "clue": "Acronym for parts per million",
+            "answer": "ppm",
+            "normalized": "ppm"
           },
           {
-            "id": "7a5b80af-9498-45f7-b447-e258b08915f0",
-            "clue": "One web page of many opened in one browser window",
-            "answer": "tab",
-            "normalized": "tab"
+            "id": "a8755117-4d99-4bec-9ddd-c08a143eb38a",
+            "clue": "A great amount of, quite a lot",
+            "answer": "much",
+            "normalized": "much"
           },
           {
-            "id": "fc958ded-c28c-40ec-ad47-10ff14e0f9bc",
-            "clue": "Sushi cylinder wrapped in seaweed",
-            "answer": "nori roll",
-            "normalized": "noriroll"
+            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
+            "clue": "French phrase, goes before \"mode\"",
+            "answer": "a la",
+            "normalized": "ala"
           },
           {
-            "id": "b8162549-f2aa-4009-b5a8-2f996885bf56",
-            "clue": "The act of giggling",
-            "answer": "laughter",
-            "normalized": "laughter"
+            "id": "ba17ec8e-3e7b-4986-b640-23b637b1ca6a",
+            "clue": "Simply this, no other",
+            "answer": "only",
+            "normalized": "only"
           },
           {
-            "id": "5af64a39-9bb5-4fd7-90d6-5a8165dd9c63",
-            "clue": "Spanish painter of The Third of May 1808",
-            "answer": "goya",
-            "normalized": "goya"
+            "id": "0dc45711-1072-4ef3-929c-e16a47a3d4b1",
+            "clue": "Kunal Nayyar's character on The Big Bang Theory",
+            "answer": "raj",
+            "normalized": "raj"
           },
           {
-            "id": "8c478ffe-e7d4-4e33-862b-cff0e15feb42",
-            "clue": "Deliberately sinks a ship",
-            "answer": "scuttles",
-            "normalized": "scuttles"
+            "id": "1228cf2b-c923-435b-80da-df018d8e40a7",
+            "clue": "Short excerpt from a film or TV show",
+            "answer": "clip",
+            "normalized": "clip"
           },
           {
-            "id": "1e911a1b-35cf-4f87-9c5b-be2a3e734cae",
-            "clue": "Grilled cubes of meat cooked on skewers",
-            "answer": "shashlik",
-            "normalized": "shashlik"
+            "id": "01f0c76c-29e5-4455-8282-eb7ae622d146",
+            "clue": "Famous flowering cherry tree in Japan",
+            "answer": "yoshino",
+            "normalized": "yoshino"
           },
           {
-            "id": "04cf4338-0c57-40e1-a930-a9b69a9e9ce6",
-            "clue": "Negative vote",
-            "answer": "nay",
-            "normalized": "nay"
+            "id": "2459210a-dd13-48ea-9c8d-071cc866cc19",
+            "clue": "Taking part in live action role-playing games",
+            "answer": "larping",
+            "normalized": "larping"
           },
           {
-            "id": "f3d22812-40f8-40bd-bc66-891c61d1a123",
-            "clue": "Dark forest bird that can mimic human speech",
-            "answer": "myna",
-            "normalized": "myna"
+            "id": "9c0b552f-8331-4090-984b-52a36e89820e",
+            "clue": "Killer whale",
+            "answer": "orca",
+            "normalized": "orca"
           },
           {
-            "id": "016b011e-c555-479c-a64f-4747b9584f23",
-            "clue": "US sketch comedy show airing since 1975",
-            "answer": "snl",
-            "normalized": "snl"
+            "id": "a4e81f2b-bd7a-4e3d-97c0-ffcc54c8ac67",
+            "clue": "Kat's candy partner",
+            "answer": "kit",
+            "normalized": "kit"
           },
           {
-            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
-            "clue": "Net Operating Assets in business speak",
-            "answer": "noa",
-            "normalized": "noa"
+            "id": "2c34bf8b-4738-4926-82fb-6827aae418c4",
+            "clue": "Ursa Major refers to this animal",
+            "answer": "bear",
+            "normalized": "bear"
           },
           {
-            "id": "c4a374b6-7204-48e8-9758-b2791a0bb529",
-            "clue": "First country to legalise recreational cannabis",
-            "answer": "uruguay",
-            "normalized": "uruguay"
+            "id": "e04709e0-c3d6-4e13-b6ca-8ce5690411b4",
+            "clue": "Sushi unagi",
+            "answer": "eel",
+            "normalized": "eel"
           },
           {
-            "id": "36301af7-3083-4975-9b63-4c10ede11354",
-            "clue": "People with prejudiced ideals against others",
-            "answer": "bigots",
-            "normalized": "bigots"
+            "id": "0315a9ab-99bf-4710-806c-38d84e875ade",
+            "clue": "Went underwater, like the Titanic",
+            "answer": "sank",
+            "normalized": "sank"
           },
           {
-            "id": "8b176eaa-92fd-422e-b682-1117f945b5c8",
-            "clue": "Entirely, completely, wholly",
-            "answer": "totally",
-            "normalized": "totally"
+            "id": "4b449c80-3ff5-4087-ae5d-67b6f5fa9f0f",
+            "clue": "Democratic Republic of the Congo for short",
+            "answer": "drc",
+            "normalized": "drc"
           },
           {
-            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
-            "clue": "Warm-fermented beer, sometimes dark in colour",
-            "answer": "ale",
-            "normalized": "ale"
+            "id": "3fe5f146-6a08-4008-86d0-5edff737dace",
+            "clue": "Standard number of golf strokes for a hole",
+            "answer": "par",
+            "normalized": "par"
           },
           {
-            "id": "03db493b-8fea-4e87-aab6-4ddf37a0bfcd",
-            "clue": "Three-letter code for Belarus",
-            "answer": "blr",
-            "normalized": "blr"
+            "id": "a142e79d-42f4-4308-9d02-156273645cb9",
+            "clue": "Dedicated outdoor space for kids to have fun",
+            "answer": "play area",
+            "normalized": "playarea"
           },
           {
-            "id": "ce76b864-2fca-4a26-9d3e-153ace972b1a",
-            "clue": "beat, cadence",
-            "answer": "rhythm",
-            "normalized": "rhythm"
+            "id": "bfb91072-0e81-4810-800b-73cbb1819577",
+            "clue": "Relating to the largest Balearic island",
+            "answer": "majorcan",
+            "normalized": "majorcan"
           },
           {
-            "id": "12ad09fa-e5d0-4d4c-81e1-c5437869436c",
-            "clue": "Personal digits you might keep secret in the US",
-            "answer": "ssn",
-            "normalized": "ssn"
+            "id": "4e67a266-453f-46fb-8d39-5635e4a4e353",
+            "clue": "Chewy Japanese rice cake",
+            "answer": "mochi",
+            "normalized": "mochi"
           },
           {
-            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
-            "clue": "Goes before \"ching\" for a cash register noise",
-            "answer": "cha",
-            "normalized": "cha"
+            "id": "a3d81593-78ee-4e0b-9bc3-a0e48e419fcc",
+            "clue": "Not connected",
+            "answer": "unlinked",
+            "normalized": "unlinked"
           },
           {
-            "id": "7470e5f9-590c-4745-905f-4b522e94d20a",
-            "clue": "German masculine indefinite article",
-            "answer": "ein",
-            "normalized": "ein"
+            "id": "6fd44807-4c89-45e7-95eb-d5d143c5362a",
+            "clue": "More emotionally needy",
+            "answer": "clingier",
+            "normalized": "clingier"
           },
           {
-            "id": "b80578f4-66cf-4c48-b72d-56ecf90fdd47",
-            "clue": "Jamaican reggae precursor",
-            "answer": "ska",
-            "normalized": "ska"
+            "id": "a8a61e72-dd8e-4b26-9ad2-29f4d120ea19",
+            "clue": "Prefix for -allergenic and -chondriac",
+            "answer": "hypo",
+            "normalized": "hypo"
+          },
+          {
+            "id": "f38bc245-4465-4b89-beb1-6424e68c5084",
+            "clue": "Emit fire or electricity",
+            "answer": "spark",
+            "normalized": "spark"
+          },
+          {
+            "id": "e33794c5-5bae-40bb-bc8c-685eeb67e965",
+            "clue": "Throws in a high arc",
+            "answer": "lobs",
+            "normalized": "lobs"
+          },
+          {
+            "id": "49da4a7f-4db3-4f5e-a1b6-865a348c7e1f",
+            "clue": "Band that didn't go chasing Waterfalls",
+            "answer": "tlc",
+            "normalized": "tlc"
           }
         ],
-        "track": "PC|LenC--Y2026M8D25F1"
+        "track": "PC|LenC--Y2026M8D26F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-25",
+      "key": "2026-08-26",
       "year": 2026,
       "month": 8,
-      "day": 25,
+      "day": 26,
       "small": {
-        "puzzleId": "cc99769a-32b1-44bd-a4b3-6b1a41d2e6f8",
+        "puzzleId": "aa9dd430-b8b2-4076-81a1-7d3319b0f86a",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
+            "id": "3dbe63b2-a226-4bef-b2f0-61bee102dac8",
+            "clue": "South Korean boy band who had a hit with Dynamite",
+            "answer": "bts",
+            "normalized": "bts"
           },
           {
-            "id": "a75cd842-f37c-450b-b9c9-e8059c1aba16",
-            "clue": "Cairn terrier who walked down a yellow brick road",
-            "answer": "toto",
-            "normalized": "toto"
+            "id": "b4b0978c-4bb5-4b42-bfcf-3429731ec1ba",
+            "clue": "A shoe made for walking",
+            "answer": "boot",
+            "normalized": "boot"
           },
           {
-            "id": "a0a775a8-2c63-41e8-a406-4b123255f8f8",
-            "clue": "The only planet not named after mythology",
-            "answer": "earth",
-            "normalized": "earth"
+            "id": "9043c853-4ae9-4eeb-8f2e-8de3db0b1229",
+            "clue": "Path of a moon circling a planet",
+            "answer": "orbit",
+            "normalized": "orbit"
           },
           {
-            "id": "ab857378-cbc5-46da-8392-cb960702ffed",
-            "clue": "Initiate someone in processes and procedures",
-            "answer": "train",
-            "normalized": "train"
+            "id": "3b7e7ba6-6507-48a6-9d7a-5969f4519a0d",
+            "clue": "Name meaning beautiful in Italian",
+            "answer": "bella",
+            "normalized": "bella"
           },
           {
-            "id": "d917146f-a119-49fc-b3ae-134df56c8a26",
-            "clue": "Spanish for the number five",
-            "answer": "cinco",
-            "normalized": "cinco"
+            "id": "e0e65f37-7de7-47bf-967d-afa6ef64ec2e",
+            "clue": "Crime video game series Grand Theft __",
+            "answer": "auto",
+            "normalized": "auto"
           },
           {
-            "id": "a4d5e2f7-e05f-453d-abae-7b11e3fd9ea2",
-            "clue": "Pioneer company of early video-game consoles",
-            "answer": "atari",
-            "normalized": "atari"
+            "id": "3956a8b5-a3e1-437d-810f-85bcb81a2a46",
+            "clue": "French for \"the\", used with plurals",
+            "answer": "les",
+            "normalized": "les"
           },
           {
-            "id": "0f51a37b-ae5c-43e3-b34f-c5e5021da396",
-            "clue": "Caitlin who authored How to Be a Woman",
-            "answer": "moran",
-            "normalized": "moran"
+            "id": "f9cc6be9-0b43-4a6b-86f1-9fff523511a9",
+            "clue": "Of the north or northern regions",
+            "answer": "boreal",
+            "normalized": "boreal"
           },
           {
-            "id": "38ef3c13-c52e-41ec-968c-925b11b2a11f",
-            "clue": "Room located directly below the roof",
-            "answer": "attic",
-            "normalized": "attic"
+            "id": "3f00656b-3415-498f-9d13-e9a9106568ab",
+            "clue": "Black Gives Way __, Alice in Chains with Elton",
+            "answer": "to blue",
+            "normalized": "toblue"
           },
           {
-            "id": "ed3899d3-234c-4b48-a450-037cb6e5c73d",
-            "clue": "Two words to express regret at something",
-            "answer": "oh no",
-            "normalized": "ohno"
+            "id": "b39c4fb1-3abd-4e5e-8dd1-fb0c957e3cf7",
+            "clue": "Long sticks some circus performers walk on",
+            "answer": "stilts",
+            "normalized": "stilts"
           },
           {
-            "id": "334230cb-8ef5-487f-9694-1bf4962314cd",
-            "clue": "And so on",
-            "answer": "etc",
-            "normalized": "etc"
+            "id": "97d8f367-3cc4-4a0b-a557-6f321e49b1c7",
+            "clue": "Jamaican singer Marley",
+            "answer": "bob",
+            "normalized": "bob"
+          },
+          {
+            "id": "574c56d5-5d09-4012-ac85-1913196e7acb",
+            "clue": "One name for natural order in Chinese philosophy",
+            "answer": "tao",
+            "normalized": "tao"
           }
         ],
-        "track": "PC|LenC--Y2026M8D25F0"
+        "track": "PC|LenC--Y2026M8D26F0"
       },
       "mid": {
-        "puzzleId": "28dca581-d9cb-422f-8546-de3cd384fdb4",
+        "puzzleId": "2dea85dd-f99a-4f09-a9f5-0c3240d1d3ce",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "36da7bd7-b9ff-4d34-ac35-32045fa387a3",
-            "clue": "To rebuff or ignore; rhymes with grub",
-            "answer": "snub",
-            "normalized": "snub"
+            "id": "862417d2-9dc8-4f49-b7e0-c41547d906a3",
+            "clue": "Acronym for parts per million",
+            "answer": "ppm",
+            "normalized": "ppm"
           },
           {
-            "id": "7a5b80af-9498-45f7-b447-e258b08915f0",
-            "clue": "One web page of many opened in one browser window",
-            "answer": "tab",
-            "normalized": "tab"
+            "id": "a8755117-4d99-4bec-9ddd-c08a143eb38a",
+            "clue": "A great amount of, quite a lot",
+            "answer": "much",
+            "normalized": "much"
           },
           {
-            "id": "fc958ded-c28c-40ec-ad47-10ff14e0f9bc",
-            "clue": "Sushi cylinder wrapped in seaweed",
-            "answer": "nori roll",
-            "normalized": "noriroll"
+            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
+            "clue": "French phrase, goes before \"mode\"",
+            "answer": "a la",
+            "normalized": "ala"
           },
           {
-            "id": "b8162549-f2aa-4009-b5a8-2f996885bf56",
-            "clue": "The act of giggling",
-            "answer": "laughter",
-            "normalized": "laughter"
+            "id": "ba17ec8e-3e7b-4986-b640-23b637b1ca6a",
+            "clue": "Simply this, no other",
+            "answer": "only",
+            "normalized": "only"
           },
           {
-            "id": "5af64a39-9bb5-4fd7-90d6-5a8165dd9c63",
-            "clue": "Spanish painter of The Third of May 1808",
-            "answer": "goya",
-            "normalized": "goya"
+            "id": "0dc45711-1072-4ef3-929c-e16a47a3d4b1",
+            "clue": "Kunal Nayyar's character on The Big Bang Theory",
+            "answer": "raj",
+            "normalized": "raj"
           },
           {
-            "id": "8c478ffe-e7d4-4e33-862b-cff0e15feb42",
-            "clue": "Deliberately sinks a ship",
-            "answer": "scuttles",
-            "normalized": "scuttles"
+            "id": "1228cf2b-c923-435b-80da-df018d8e40a7",
+            "clue": "Short excerpt from a film or TV show",
+            "answer": "clip",
+            "normalized": "clip"
           },
           {
-            "id": "1e911a1b-35cf-4f87-9c5b-be2a3e734cae",
-            "clue": "Grilled cubes of meat cooked on skewers",
-            "answer": "shashlik",
-            "normalized": "shashlik"
+            "id": "01f0c76c-29e5-4455-8282-eb7ae622d146",
+            "clue": "Famous flowering cherry tree in Japan",
+            "answer": "yoshino",
+            "normalized": "yoshino"
           },
           {
-            "id": "04cf4338-0c57-40e1-a930-a9b69a9e9ce6",
-            "clue": "Negative vote",
-            "answer": "nay",
-            "normalized": "nay"
+            "id": "2459210a-dd13-48ea-9c8d-071cc866cc19",
+            "clue": "Taking part in live action role-playing games",
+            "answer": "larping",
+            "normalized": "larping"
           },
           {
-            "id": "f3d22812-40f8-40bd-bc66-891c61d1a123",
-            "clue": "Dark forest bird that can mimic human speech",
-            "answer": "myna",
-            "normalized": "myna"
+            "id": "9c0b552f-8331-4090-984b-52a36e89820e",
+            "clue": "Killer whale",
+            "answer": "orca",
+            "normalized": "orca"
           },
           {
-            "id": "016b011e-c555-479c-a64f-4747b9584f23",
-            "clue": "US sketch comedy show airing since 1975",
-            "answer": "snl",
-            "normalized": "snl"
+            "id": "a4e81f2b-bd7a-4e3d-97c0-ffcc54c8ac67",
+            "clue": "Kat's candy partner",
+            "answer": "kit",
+            "normalized": "kit"
           },
           {
-            "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
-            "clue": "Net Operating Assets in business speak",
-            "answer": "noa",
-            "normalized": "noa"
+            "id": "2c34bf8b-4738-4926-82fb-6827aae418c4",
+            "clue": "Ursa Major refers to this animal",
+            "answer": "bear",
+            "normalized": "bear"
           },
           {
-            "id": "c4a374b6-7204-48e8-9758-b2791a0bb529",
-            "clue": "First country to legalise recreational cannabis",
-            "answer": "uruguay",
-            "normalized": "uruguay"
+            "id": "e04709e0-c3d6-4e13-b6ca-8ce5690411b4",
+            "clue": "Sushi unagi",
+            "answer": "eel",
+            "normalized": "eel"
           },
           {
-            "id": "36301af7-3083-4975-9b63-4c10ede11354",
-            "clue": "People with prejudiced ideals against others",
-            "answer": "bigots",
-            "normalized": "bigots"
+            "id": "0315a9ab-99bf-4710-806c-38d84e875ade",
+            "clue": "Went underwater, like the Titanic",
+            "answer": "sank",
+            "normalized": "sank"
           },
           {
-            "id": "8b176eaa-92fd-422e-b682-1117f945b5c8",
-            "clue": "Entirely, completely, wholly",
-            "answer": "totally",
-            "normalized": "totally"
+            "id": "4b449c80-3ff5-4087-ae5d-67b6f5fa9f0f",
+            "clue": "Democratic Republic of the Congo for short",
+            "answer": "drc",
+            "normalized": "drc"
           },
           {
-            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
-            "clue": "Warm-fermented beer, sometimes dark in colour",
-            "answer": "ale",
-            "normalized": "ale"
+            "id": "3fe5f146-6a08-4008-86d0-5edff737dace",
+            "clue": "Standard number of golf strokes for a hole",
+            "answer": "par",
+            "normalized": "par"
           },
           {
-            "id": "03db493b-8fea-4e87-aab6-4ddf37a0bfcd",
-            "clue": "Three-letter code for Belarus",
-            "answer": "blr",
-            "normalized": "blr"
+            "id": "a142e79d-42f4-4308-9d02-156273645cb9",
+            "clue": "Dedicated outdoor space for kids to have fun",
+            "answer": "play area",
+            "normalized": "playarea"
           },
           {
-            "id": "ce76b864-2fca-4a26-9d3e-153ace972b1a",
-            "clue": "beat, cadence",
-            "answer": "rhythm",
-            "normalized": "rhythm"
+            "id": "bfb91072-0e81-4810-800b-73cbb1819577",
+            "clue": "Relating to the largest Balearic island",
+            "answer": "majorcan",
+            "normalized": "majorcan"
           },
           {
-            "id": "12ad09fa-e5d0-4d4c-81e1-c5437869436c",
-            "clue": "Personal digits you might keep secret in the US",
-            "answer": "ssn",
-            "normalized": "ssn"
+            "id": "4e67a266-453f-46fb-8d39-5635e4a4e353",
+            "clue": "Chewy Japanese rice cake",
+            "answer": "mochi",
+            "normalized": "mochi"
           },
           {
-            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
-            "clue": "Goes before \"ching\" for a cash register noise",
-            "answer": "cha",
-            "normalized": "cha"
+            "id": "a3d81593-78ee-4e0b-9bc3-a0e48e419fcc",
+            "clue": "Not connected",
+            "answer": "unlinked",
+            "normalized": "unlinked"
           },
           {
-            "id": "7470e5f9-590c-4745-905f-4b522e94d20a",
-            "clue": "German masculine indefinite article",
-            "answer": "ein",
-            "normalized": "ein"
+            "id": "6fd44807-4c89-45e7-95eb-d5d143c5362a",
+            "clue": "More emotionally needy",
+            "answer": "clingier",
+            "normalized": "clingier"
           },
           {
-            "id": "b80578f4-66cf-4c48-b72d-56ecf90fdd47",
-            "clue": "Jamaican reggae precursor",
-            "answer": "ska",
-            "normalized": "ska"
+            "id": "a8a61e72-dd8e-4b26-9ad2-29f4d120ea19",
+            "clue": "Prefix for -allergenic and -chondriac",
+            "answer": "hypo",
+            "normalized": "hypo"
+          },
+          {
+            "id": "f38bc245-4465-4b89-beb1-6424e68c5084",
+            "clue": "Emit fire or electricity",
+            "answer": "spark",
+            "normalized": "spark"
+          },
+          {
+            "id": "e33794c5-5bae-40bb-bc8c-685eeb67e965",
+            "clue": "Throws in a high arc",
+            "answer": "lobs",
+            "normalized": "lobs"
+          },
+          {
+            "id": "49da4a7f-4db3-4f5e-a1b6-865a348c7e1f",
+            "clue": "Band that didn't go chasing Waterfalls",
+            "answer": "tlc",
+            "normalized": "tlc"
           }
         ],
-        "track": "PC|LenC--Y2026M8D25F1"
+        "track": "PC|LenC--Y2026M8D26F1"
       }
     },
     "latestAvailableEntry": {
@@ -435005,21 +435053,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "e0X0AW4l5A0/GItdx3M27SaKaRMpiCg8exD0Pg23rhK0Ao8QHVfRZy5sbMR6BCXaFegpIB1ZzQ6zDHC+8y1ddlDos2CZGZgo4ssef+UZRr2pR2WmuiAsk4D/HX5MgwASY81uUwcuhmm9WtGV4QrKGmujrbc7vLEdTK8HBCrnToXO90voyRlbCaRqyZe+e/KkxNDsFEcohnkMwL5SpUFt8PIJjvUTmxNSZHXiqWaaA0nsHs6tFwz8pRGvoFqyE0izsnT1B3OIJBoWDdIAGe7aEPbAn/w7KSaf74lbyVbvgpc="
+        "Vg93Lq2OsF5a7/cRE/1uIIPs/TmD0kRkS2VJbgUvEXDS2i6obRQQDaTkexY2LJEhBhxtKpei2sNeQXjGLI62Q8tYsQgmSD1vvGkz6myDlcmLgDhvrvFKjPPlDYaxk9pE9HwwtPdWPE+fgCUNjBeIDWUitMCsOxe5wIhiqeaD2FcMw40xiXGR0mOgiesdRwhDnPgzMf76gEkvcFglJXYKczKtgyEBIokvoFMi6jNWRqPNiUnG+ChjIZY20rLK4shHr8b/RTeArHBZCKm0Q5ijcqZQMg5+XgnzHeOlTNZ+oUE="
       ]
     },
     "decrypted": {
-      "Id": "70aa5531-ae1c-46b0-a23b-c90a2c28f3ea",
-      "Date": "2026-08-25T00:00:00Z",
+      "Id": "3d3e1cdf-5d0d-4d06-8c2d-dbc36b10a63d",
+      "Date": "2026-08-26T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "stove",
-      "NormalizedPassword": "stove",
+      "Password": "bunny",
+      "NormalizedPassword": "bunny",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-25T00:38:11.3230000+05:30",
-    "hash": "104fca0882c0ae755f69af22c6496540",
+    "dtu": "2026-08-26T00:36:38.9620000+05:30",
+    "hash": "8fec39371924e26f20e1bc822b41ea7c",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
