@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-28T02:13:55.886Z",
+  "generatedAt": "2026-08-29T01:48:44.641Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 28
+    "day": 29
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 54
+        "QuantidadeDeFases": 56
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -23,7 +23,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 6,
-        "QuantidadeDeFases": 60
+        "QuantidadeDeFases": 59
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -209,7 +209,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2023,
         "Month": 11,
-        "QuantidadeDeFases": 58
+        "QuantidadeDeFases": 57
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -8515,7 +8515,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -13125,7 +13125,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -18051,7 +18051,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -18972,142 +18972,7 @@
           ],
           "track": "PC|LenC--Y2026M6D8F0"
         },
-        "mid": {
-          "puzzleId": "282169ad-399d-40e8-bb63-5ab3de3ac70e",
-          "fase": 1,
-          "size": 2,
-          "status": 1,
-          "version": 5,
-          "answers": [
-            {
-              "id": "b18f6bc7-af43-44bb-a222-2514dcbe2a46",
-              "clue": "Harry's fellow thief in Home Alone movies",
-              "answer": "marv",
-              "normalized": "marv"
-            },
-            {
-              "id": "5d6adb91-7ecd-4df8-9407-2077dd21f6c1",
-              "clue": "Short name for desktop computers",
-              "answer": "pcs",
-              "normalized": "pcs"
-            },
-            {
-              "id": "5fcbbc87-5296-4a4f-b0fd-025ed90e9639",
-              "clue": "Soft, mild French cheese with white rind",
-              "answer": "brie",
-              "normalized": "brie"
-            },
-            {
-              "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
-              "clue": "Abbreviation for User Access Review",
-              "answer": "uar",
-              "normalized": "uar"
-            },
-            {
-              "id": "1071ce77-da34-4b42-996d-d62c1e23c55c",
-              "clue": "German-speaking, singing crocodile",
-              "answer": "schnappi",
-              "normalized": "schnappi"
-            },
-            {
-              "id": "da8a3e67-5c7f-4d5b-ac62-0db9c5c0f4b9",
-              "clue": "Places one visits often",
-              "answer": "haunts",
-              "normalized": "haunts"
-            },
-            {
-              "id": "85cc492b-19d7-45e1-a9a2-6a1043ffc73c",
-              "clue": "Physicist offered the Presidency of Israel",
-              "answer": "einstein",
-              "normalized": "einstein"
-            },
-            {
-              "id": "226484d9-3fba-4c23-b072-a6250b212cf2",
-              "clue": "Barbie's boyfriend",
-              "answer": "ken",
-              "normalized": "ken"
-            },
-            {
-              "id": "811fb042-570c-41f2-99bb-7e7b6f98755d",
-              "clue": "First name of Ferrari founder",
-              "answer": "enzo",
-              "normalized": "enzo"
-            },
-            {
-              "id": "c52c1af7-8b01-4e0d-b7f7-2ec6fc38c781",
-              "clue": "Europe's space exploration group",
-              "answer": "esa",
-              "normalized": "esa"
-            },
-            {
-              "id": "1ae2f0a9-b69b-4182-946e-ec24ed4b9bb7",
-              "clue": "Dish cooked in liquid and served in gravy",
-              "answer": "stew",
-              "normalized": "stew"
-            },
-            {
-              "id": "950cad48-10de-4652-ac0d-888e3e9ddf43",
-              "clue": "Megabits per second, in short",
-              "answer": "mbs",
-              "normalized": "mbs"
-            },
-            {
-              "id": "6ddaaf9a-9fd7-4386-bf8f-01a3ab469c09",
-              "clue": "The __, pop group who started in a comic book",
-              "answer": "archies",
-              "normalized": "archies"
-            },
-            {
-              "id": "b7cc823f-03d3-4144-aaff-3d8fa2519d3c",
-              "clue": "Umbrella, Diamonds and We Found Love singer",
-              "answer": "rihanna",
-              "normalized": "rihanna"
-            },
-            {
-              "id": "c045de4d-c932-4335-9d83-9dd6aacb5726",
-              "clue": "Serena Williams' fellow tennis star sister",
-              "answer": "venus",
-              "normalized": "venus"
-            },
-            {
-              "id": "b3b29602-7c1a-402c-af22-fa1487a6870f",
-              "clue": "Small camping shelter, misleadingly not for dogs",
-              "answer": "pup tent",
-              "normalized": "puptent"
-            },
-            {
-              "id": "6d5ffda0-ae05-4093-a648-ee1cc28ede7e",
-              "clue": "To turn a boat over in the water",
-              "answer": "capsize",
-              "normalized": "capsize"
-            },
-            {
-              "id": "10e4f7a8-9ff7-401c-9acd-47f3c3fb15f4",
-              "clue": "__ Lanka",
-              "answer": "sri",
-              "normalized": "sri"
-            },
-            {
-              "id": "c69e416d-7de6-4988-a0ff-a245365b1434",
-              "clue": "Stakes upped by players before receiving cards",
-              "answer": "antes",
-              "normalized": "antes"
-            },
-            {
-              "id": "5c4ada3e-2987-48f2-b50f-f98d73e20091",
-              "clue": "Scrape by, __ out a living",
-              "answer": "eke",
-              "normalized": "eke"
-            },
-            {
-              "id": "662b297b-6c1f-494d-ad86-485e8b7e7732",
-              "clue": "This instant",
-              "answer": "now",
-              "normalized": "now"
-            }
-          ],
-          "track": "PC|LenC--Y2026M6D8F1"
-        }
+        "mid": null
       },
       {
         "key": "2026-06-07",
@@ -24675,7 +24540,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -32855,7 +32720,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -40087,7 +39952,7 @@
             },
             {
               "id": "818b181f-417f-4eaf-add4-1758a876290f",
-              "clue": "Former music video channel with reality TV shows",
+              "clue": "TV channel previously known for 24/7 music videos",
               "answer": "mtv",
               "normalized": "mtv"
             },
@@ -53858,7 +53723,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -63429,7 +63294,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -72251,7 +72116,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -79214,7 +79079,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -82218,8 +82083,8 @@
             },
             {
               "id": "94e7999f-251a-4262-a13b-9e91fb43f810",
-              "clue": "Area of the face of forehead, nose and chin",
-              "answer": "t zone",
+              "clue": "Forehead, nose, and chin area",
+              "answer": "t-zone",
               "normalized": "tzone"
             },
             {
@@ -87122,7 +86987,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             }
@@ -95864,7 +95729,7 @@
             },
             {
               "id": "b518c08c-6ac6-421c-a491-c446bd928fd4",
-              "clue": "Small snacks served in Spanish cuisine",
+              "clue": "Small appetizers served in Spanish cuisine",
               "answer": "tapas",
               "normalized": "tapas"
             },
@@ -100403,7 +100268,7 @@
           "answers": [
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -100539,7 +100404,7 @@
           "answers": [
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -101411,7 +101276,7 @@
             },
             {
               "id": "012efe20-812f-45a9-9e5e-6378b19761a8",
-              "clue": "Unit of data equal to one thousand kBs, plural",
+              "clue": "Multiple megabytes",
               "answer": "mbs",
               "normalized": "mbs"
             },
@@ -107471,7 +107336,7 @@
             },
             {
               "id": "012efe20-812f-45a9-9e5e-6378b19761a8",
-              "clue": "Unit of data equal to one thousand kBs, plural",
+              "clue": "Multiple megabytes",
               "answer": "mbs",
               "normalized": "mbs"
             },
@@ -110439,7 +110304,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -111107,7 +110972,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -118522,7 +118387,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -135521,7 +135386,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -147025,7 +146890,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -149339,7 +149204,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -156054,7 +155919,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -156626,8 +156491,8 @@
             },
             {
               "id": "94e7999f-251a-4262-a13b-9e91fb43f810",
-              "clue": "Area of the face of forehead, nose and chin",
-              "answer": "t zone",
+              "clue": "Forehead, nose, and chin area",
+              "answer": "t-zone",
               "normalized": "tzone"
             },
             {
@@ -171402,7 +171267,7 @@
             },
             {
               "id": "818b181f-417f-4eaf-add4-1758a876290f",
-              "clue": "Former music video channel with reality TV shows",
+              "clue": "TV channel previously known for 24/7 music videos",
               "answer": "mtv",
               "normalized": "mtv"
             },
@@ -173567,7 +173432,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -174929,7 +174794,7 @@
           "answers": [
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -177941,7 +177806,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -195332,7 +195197,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -203256,7 +203121,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -218932,8 +218797,8 @@
             },
             {
               "id": "94e7999f-251a-4262-a13b-9e91fb43f810",
-              "clue": "Area of the face of forehead, nose and chin",
-              "answer": "t zone",
+              "clue": "Forehead, nose, and chin area",
+              "answer": "t-zone",
               "normalized": "tzone"
             },
             {
@@ -219126,7 +218991,7 @@
             },
             {
               "id": "f99b6363-3430-4319-91b2-c9786a55e9a2",
-              "clue": "Types of software for highlighting errors",
+              "clue": "Code checks for errors and style issues",
               "answer": "lints",
               "normalized": "lints"
             },
@@ -219156,7 +219021,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -220861,82 +220726,7 @@
         "year": 2023,
         "month": 11,
         "day": 14,
-        "small": {
-          "puzzleId": "c25de4a5-e409-4bee-8725-33cb2bd7b857",
-          "fase": 0,
-          "size": 1,
-          "status": 1,
-          "version": 3,
-          "answers": [
-            {
-              "id": "988079da-624c-4dce-bb7d-071ea42cbae7",
-              "clue": "Latin for work",
-              "answer": "opus",
-              "normalized": "opus"
-            },
-            {
-              "id": "69e4d09e-7b98-4642-b650-f74e2dcafac5",
-              "clue": "Rubber car wheel cover",
-              "answer": "tire",
-              "normalized": "tire"
-            },
-            {
-              "id": "d98c2d44-85c7-420a-a611-9c0fffb1ea58",
-              "clue": "Quickly skim over a document",
-              "answer": "scan",
-              "normalized": "scan"
-            },
-            {
-              "id": "3930d2b3-6e43-4c3a-bc54-2d441aed2bb7",
-              "clue": "You tie it when you get married",
-              "answer": "knot",
-              "normalized": "knot"
-            },
-            {
-              "id": "c3a963cb-f8b8-4a05-ac50-d1da873c4e2a",
-              "clue": "Hang around in a shady way",
-              "answer": "lurk",
-              "normalized": "lurk"
-            },
-            {
-              "id": "95a5bc97-6e00-4c09-a44a-3a12b65b3c58",
-              "clue": "Name used by the ExxonMobil oil company",
-              "answer": "esso",
-              "normalized": "esso"
-            },
-            {
-              "id": "1313fe77-0287-4f89-98ef-35a1b872234f",
-              "clue": "Abbreviation for occupational therapists",
-              "answer": "ots",
-              "normalized": "ots"
-            },
-            {
-              "id": "3281d68e-af6d-4fa2-93ae-5ecfe342f2dc",
-              "clue": "Small cucumber in vinegar",
-              "answer": "pickle",
-              "normalized": "pickle"
-            },
-            {
-              "id": "b249ae7c-b4b5-422a-be21-60a4b0a16db3",
-              "clue": "Seventh planet from the sun in our Solar System",
-              "answer": "uranus",
-              "normalized": "uranus"
-            },
-            {
-              "id": "c293f404-4dd1-470c-a31c-96537719e9b0",
-              "clue": "Title or address for Spanish men",
-              "answer": "senors",
-              "normalized": "senors"
-            },
-            {
-              "id": "ac322aa2-5da3-4c51-9725-268eb71e485b",
-              "clue": "Boxing match-ending initials",
-              "answer": "tko",
-              "normalized": "tko"
-            }
-          ],
-          "track": "PC|LenC--Y2023M11D14F0"
-        },
+        "small": null,
         "mid": {
           "puzzleId": "6f6102b2-9d1d-4285-ab41-a96232b2ec39",
           "fase": 1,
@@ -230497,7 +230287,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -243653,7 +243443,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -245226,7 +245016,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -252106,8 +251896,8 @@
             },
             {
               "id": "c89241d1-c354-4d22-b0b9-028b1be20476",
-              "clue": "Fellow actor who appears in the same show as you",
-              "answer": "co star",
+              "clue": "Fellow performer who appears in the same play",
+              "answer": "co-star",
               "normalized": "costar"
             },
             {
@@ -266362,7 +266152,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -275354,7 +275144,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -293539,7 +293329,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -296498,7 +296288,7 @@
             },
             {
               "id": "f71ae2d7-6621-42b7-8f7a-28169bc9623c",
-              "clue": "Sweet cake with less flour, making it more dense",
+              "clue": "Dense, sweet cake with little to no flour",
               "answer": "torte",
               "normalized": "torte"
             },
@@ -300348,7 +300138,7 @@
             },
             {
               "id": "818b181f-417f-4eaf-add4-1758a876290f",
-              "clue": "Former music video channel with reality TV shows",
+              "clue": "TV channel previously known for 24/7 music videos",
               "answer": "mtv",
               "normalized": "mtv"
             },
@@ -309621,7 +309411,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -315956,7 +315746,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -323584,7 +323374,7 @@
           "answers": [
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -323620,7 +323410,7 @@
             },
             {
               "id": "b518c08c-6ac6-421c-a491-c446bd928fd4",
-              "clue": "Small snacks served in Spanish cuisine",
+              "clue": "Small appetizers served in Spanish cuisine",
               "answer": "tapas",
               "normalized": "tapas"
             },
@@ -333957,7 +333747,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -349574,7 +349364,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -349980,7 +349770,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -350600,7 +350390,7 @@
             },
             {
               "id": "818b181f-417f-4eaf-add4-1758a876290f",
-              "clue": "Former music video channel with reality TV shows",
+              "clue": "TV channel previously known for 24/7 music videos",
               "answer": "mtv",
               "normalized": "mtv"
             },
@@ -359479,7 +359269,7 @@
           "answers": [
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -360653,7 +360443,7 @@
             },
             {
               "id": "818b181f-417f-4eaf-add4-1758a876290f",
-              "clue": "Former music video channel with reality TV shows",
+              "clue": "TV channel previously known for 24/7 music videos",
               "answer": "mtv",
               "normalized": "mtv"
             },
@@ -365694,7 +365484,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -371557,7 +371347,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -381021,7 +380811,7 @@
             },
             {
               "id": "e755b861-817f-412b-999e-7e5ba4b0578c",
-              "clue": "To move something at a right angle on a ship",
+              "clue": "At a right angle to the length of the ship",
               "answer": "abeam",
               "normalized": "abeam"
             },
@@ -384095,7 +383885,7 @@
             },
             {
               "id": "818b181f-417f-4eaf-add4-1758a876290f",
-              "clue": "Former music video channel with reality TV shows",
+              "clue": "TV channel previously known for 24/7 music videos",
               "answer": "mtv",
               "normalized": "mtv"
             },
@@ -388229,7 +388019,7 @@
             },
             {
               "id": "5a4885e4-a3d7-4423-bd37-771675556178",
-              "clue": "Plane landing times",
+              "clue": "Planes' predicted landing times",
               "answer": "etas",
               "normalized": "etas"
             },
@@ -389792,7 +389582,7 @@
             },
             {
               "id": "818b181f-417f-4eaf-add4-1758a876290f",
-              "clue": "Former music video channel with reality TV shows",
+              "clue": "TV channel previously known for 24/7 music videos",
               "answer": "mtv",
               "normalized": "mtv"
             },
@@ -419394,7 +419184,7 @@
             },
             {
               "id": "d0fce6cd-43b6-48b9-8c61-757ace4f73b4",
-              "clue": "And the rest, Latin abbreviation for other authors",
+              "clue": "And others, Latin abbreviation used in a long list",
               "answer": "et al",
               "normalized": "etal"
             },
@@ -423291,7 +423081,7 @@
             },
             {
               "id": "e755b861-817f-412b-999e-7e5ba4b0578c",
-              "clue": "To move something at a right angle on a ship",
+              "clue": "At a right angle to the length of the ship",
               "answer": "abeam",
               "normalized": "abeam"
             },
@@ -425494,7 +425284,7 @@
             },
             {
               "id": "818b181f-417f-4eaf-add4-1758a876290f",
-              "clue": "Former music video channel with reality TV shows",
+              "clue": "TV channel previously known for 24/7 music videos",
               "answer": "mtv",
               "normalized": "mtv"
             },
@@ -434319,439 +434109,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-28",
+      "key": "2026-08-29",
       "year": 2026,
       "month": 8,
-      "day": 28,
+      "day": 29,
       "small": {
-        "puzzleId": "215b193c-1835-44d4-b9de-a865341d4027",
+        "puzzleId": "2536cf05-4338-4b35-a45d-ad1b23be0eed",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "2d340098-431a-4038-a715-5048ddf04735",
-            "clue": "Consumer Price Index, in short",
-            "answer": "cpi",
-            "normalized": "cpi"
-          },
-          {
-            "id": "e036b396-18e4-4c5e-bdae-5a8839af1be6",
-            "clue": "Hansel and Gretel's wayfinding tool",
-            "answer": "crumb",
-            "normalized": "crumb"
-          },
-          {
-            "id": "2a88a917-f0ef-4bdb-a909-2380837da3ca",
-            "clue": "Like a hoarse or scratchy sounding voice",
-            "answer": "raspy",
-            "normalized": "raspy"
-          },
-          {
-            "id": "3058737e-e372-4f99-9ee0-fb9b119a0414",
-            "clue": "Far away mist or place in the skies",
-            "answer": "ether",
-            "normalized": "ether"
-          },
-          {
-            "id": "92407e1c-b403-4536-855e-a7c183dc592f",
-            "clue": "A thing or person that is strange or quirky",
-            "answer": "weird",
-            "normalized": "weird"
-          },
-          {
-            "id": "9c0121ef-0f9a-4833-a81c-b315c21ea4ce",
-            "clue": "Short for rich text format",
-            "answer": "rtf",
-            "normalized": "rtf"
-          },
-          {
-            "id": "4b7315a8-fc24-41f5-b9e3-775fe640b224",
-            "clue": "Impact spot on a planet, usually a circle",
-            "answer": "crater",
-            "normalized": "crater"
-          },
-          {
-            "id": "894c66ea-b632-46e7-a4b8-299374614590",
-            "clue": "Salt-n-Pepa's classic hit",
-            "answer": "push it",
-            "normalized": "pushit"
-          },
-          {
-            "id": "66aa895b-73ca-436f-bbc8-a9b1682bdc8e",
-            "clue": "Abbreviation for stamps without separation",
-            "answer": "imperf",
-            "normalized": "imperf"
-          },
-          {
-            "id": "c49b4cff-13a0-4fc9-aec8-ecd6e7799252",
-            "clue": "Workers in a NASCAR pit or a Broadway set",
-            "answer": "crew",
-            "normalized": "crew"
-          },
-          {
-            "id": "4173cebf-b205-4f74-bbad-099870ed9837",
-            "clue": "Charlie, legendary jazz guitarist",
-            "answer": "byrd",
-            "normalized": "byrd"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D28F0"
-      },
-      "mid": {
-        "puzzleId": "b45bcfe9-2605-4c7d-b8e7-247d28b3ce65",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "77f7ae88-7330-4ca2-8580-5816be492fe2",
-            "clue": "Audible pant of astonishment",
-            "answer": "gasp",
-            "normalized": "gasp"
+            "id": "ed68da72-9763-4663-a0c6-a4d3b685c7bf",
+            "clue": "Tarragon, rosemary or oregano",
+            "answer": "herb",
+            "normalized": "herb"
           },
           {
-            "id": "0ccee858-3ab5-42e9-bab6-9ec123f1685f",
-            "clue": "Jaws famously puts his above water before attack",
-            "answer": "fin",
-            "normalized": "fin"
+            "id": "54576ff0-11b1-4b4a-862c-49e93f14259b",
+            "clue": "Square the length of a square's side to find it",
+            "answer": "area",
+            "normalized": "area"
           },
           {
-            "id": "d7678dfd-22e4-496b-8fcc-d437b50fa473",
-            "clue": "Evading, keeping out of someone's way",
-            "answer": "avoiding",
-            "normalized": "avoiding"
+            "id": "d36d8de3-f6ae-4224-83fa-8236f8ea2706",
+            "clue": "A line from a song",
+            "answer": "lyric",
+            "normalized": "lyric"
           },
           {
-            "id": "7aa1a91e-8052-4a12-bf41-30c3d291130a",
-            "clue": "Italian bacon cured with black pepper",
-            "answer": "pancetta",
-            "normalized": "pancetta"
+            "id": "40b3f15d-3160-4165-93ef-ae7898981d49",
+            "clue": "Avidly enthusiastic",
+            "answer": "keen",
+            "normalized": "keen"
           },
           {
-            "id": "3fd30256-01f0-4ba8-be99-9519caaac3e2",
-            "clue": "Responsibility that is on you",
-            "answer": "onus",
-            "normalized": "onus"
+            "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
+            "clue": "Computes a sum, totals up",
+            "answer": "adds",
+            "normalized": "adds"
           },
           {
-            "id": "8081606b-ea41-4ff9-8a53-4e1934506d06",
-            "clue": "Memorabilia relating to African culture",
-            "answer": "africana",
-            "normalized": "africana"
+            "id": "cd4e2fcf-dadd-451e-abbc-87b68bb4a704",
+            "clue": "Cut and stored grass for fodder",
+            "answer": "hayed",
+            "normalized": "hayed"
           },
           {
-            "id": "76504549-93a0-4116-9048-09aa475063ac",
-            "clue": "Jewellery worn around the wrist",
-            "answer": "bracelet",
-            "normalized": "bracelet"
+            "id": "d93cd4a2-26e1-409f-8a1c-debe84279f97",
+            "clue": "Made mistakes, sinned",
+            "answer": "erred",
+            "normalized": "erred"
           },
           {
-            "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
-            "clue": "Container for Coke and beans",
-            "answer": "can",
-            "normalized": "can"
+            "id": "39595c15-ccf7-4ac7-a2e0-130588333744",
+            "clue": "Leather straps gripped tightly by a horse rider",
+            "answer": "reins",
+            "normalized": "reins"
           },
           {
-            "id": "6fd189f8-a6db-4a70-9048-786df9bde18d",
-            "clue": "Pig's feed",
-            "answer": "slop",
-            "normalized": "slop"
+            "id": "c4a8b8f0-c0c5-4cc3-8d79-7c7fccc89d9c",
+            "clue": "Amount of alcohol in a volume of blood, abbr.",
+            "answer": "bac",
+            "normalized": "bac"
           },
           {
-            "id": "39807f89-42b8-4044-a63f-b9c522a754b0",
-            "clue": "An opening or space between two rocks",
-            "answer": "gap",
-            "normalized": "gap"
-          },
-          {
-            "id": "440ca3ca-b27f-4950-b747-e3dfd864d4b8",
-            "clue": "1940s, 50s actress Gardner from Show Boat",
-            "answer": "ava",
-            "normalized": "ava"
-          },
-          {
-            "id": "e80d5838-ba64-4e8e-8a35-bf3bd43d17ef",
-            "clue": "Desert that forms Arizona's Saguaro national park",
-            "answer": "sonoran",
-            "normalized": "sonoran"
-          },
-          {
-            "id": "778023ac-bd3a-498a-8e96-91bf9a5803f9",
-            "clue": "Excursion with food eaten outdoors",
-            "answer": "picnic",
-            "normalized": "picnic"
-          },
-          {
-            "id": "8cfe414f-6741-40a5-acee-3290942a1ef4",
-            "clue": "One size __, universal solution",
-            "answer": "fits all",
-            "normalized": "fitsall"
-          },
-          {
-            "id": "fde85d0b-1b51-4d83-b8f7-e047a7e3dbd0",
-            "clue": "Internet domain for an international organisation",
-            "answer": "int",
-            "normalized": "int"
-          },
-          {
-            "id": "195ef076-d01f-45bb-b3f7-f4a65fb141f8",
-            "clue": "Three-letter code for Nigeria",
-            "answer": "nga",
-            "normalized": "nga"
-          },
-          {
-            "id": "12f41885-f301-4583-bcad-0a6f1ba09e25",
-            "clue": "Playing cards with two pips",
-            "answer": "deuces",
-            "normalized": "deuces"
-          },
-          {
-            "id": "be44ad30-fa9e-4e20-afc7-2848e8206772",
-            "clue": "According to The Jackson 5, this is as easy as 123",
-            "answer": "abc",
-            "normalized": "abc"
-          },
-          {
-            "id": "1e02b9dd-7d5e-45ee-b6b7-f7c5ef688b43",
-            "clue": "Code of Germany's Frankfurt airport",
-            "answer": "fra",
-            "normalized": "fra"
-          },
-          {
-            "id": "e114b02b-4888-4f25-90ab-59d0f4fa87a6",
-            "clue": "Keanu Reeves' part in The Matrix",
-            "answer": "neo",
-            "normalized": "neo"
-          },
-          {
-            "id": "d20715e5-f413-4a05-b85b-7e898734a143",
-            "clue": "Association of Tennis Professionals, acronym",
-            "answer": "atp",
-            "normalized": "atp"
+            "id": "51de191c-72f1-4b0d-bfea-c848c2dd0911",
+            "clue": "Sri Lanka's alpha-3 code",
+            "answer": "lka",
+            "normalized": "lka"
           }
         ],
-        "track": "PC|LenC--Y2026M8D28F1"
+        "track": "PC|LenC--Y2026M8D29F0"
+      },
+      "mid": {
+        "puzzleId": "c51ea6d3-cabd-40a3-bc87-03f1c0528089",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "1ef265b1-1b01-49af-ae5f-f95c929ead6b",
+            "clue": "Bank machine for getting cash out of the wall",
+            "answer": "atm",
+            "normalized": "atm"
+          },
+          {
+            "id": "5011cb51-20ec-4841-b207-55d0f8a2bdbf",
+            "clue": "French for water",
+            "answer": "eau",
+            "normalized": "eau"
+          },
+          {
+            "id": "d74f283a-8741-4f3a-9e08-0c97e176ff42",
+            "clue": "What I'm doing when I look at a book",
+            "answer": "reading",
+            "normalized": "reading"
+          },
+          {
+            "id": "dc6dc5d6-d517-453d-a1eb-7054870cffaa",
+            "clue": "Animal form of vitamin A; a skincare serum",
+            "answer": "retinol",
+            "normalized": "retinol"
+          },
+          {
+            "id": "32d4e761-96a0-4cd1-8a11-a36a0b107458",
+            "clue": "First name of deposed Egyptian leader Mubarak",
+            "answer": "hosni",
+            "normalized": "hosni"
+          },
+          {
+            "id": "e055e41b-5623-43ed-8e3c-963dbe0f8889",
+            "clue": "\"There is many a slip __ cup and lip\"",
+            "answer": "twixt",
+            "normalized": "twixt"
+          },
+          {
+            "id": "22cea16c-3aa5-4b47-afe5-565f15ec9f2f",
+            "clue": "The opposite of \"hardest\", least difficult",
+            "answer": "easiest",
+            "normalized": "easiest"
+          },
+          {
+            "id": "b6bbf16f-6a39-48d7-ba1e-0eb4843e2983",
+            "clue": "Close friends and companions",
+            "answer": "cronies",
+            "normalized": "cronies"
+          },
+          {
+            "id": "119fafb7-91a5-4355-9141-492838ad997a",
+            "clue": "Female chicken",
+            "answer": "hen",
+            "normalized": "hen"
+          },
+          {
+            "id": "d4fcb305-760d-4932-863e-23d5c4dcdd44",
+            "clue": "Short sleep",
+            "answer": "nap",
+            "normalized": "nap"
+          },
+          {
+            "id": "f6646979-00dc-4f13-bf69-73489adc7506",
+            "clue": "Annual subscription-based revenue, abbreviated",
+            "answer": "arr",
+            "normalized": "arr"
+          },
+          {
+            "id": "996210c8-e359-446e-833c-d7caf6ba8139",
+            "clue": "Golf ball platform",
+            "answer": "tee",
+            "normalized": "tee"
+          },
+          {
+            "id": "de18b7ad-d255-4671-95cb-2a8bac00a039",
+            "clue": "Middle name of code-breaker Alan Turing",
+            "answer": "mathison",
+            "normalized": "mathison"
+          },
+          {
+            "id": "85cc492b-19d7-45e1-a9a2-6a1043ffc73c",
+            "clue": "Physicist offered the Presidency of Israel",
+            "answer": "einstein",
+            "normalized": "einstein"
+          },
+          {
+            "id": "c5930316-3156-4be3-80c8-4548c74ff4db",
+            "clue": "Short for an unknown writer",
+            "answer": "anon",
+            "normalized": "anon"
+          },
+          {
+            "id": "05e797c4-6edf-4544-84be-f0bddb307f74",
+            "clue": "Jamaican tangelo; fruit with unattractive skin",
+            "answer": "ugli",
+            "normalized": "ugli"
+          },
+          {
+            "id": "9cc3e249-a2db-4ff4-86ea-14092219e7b6",
+            "clue": "Highly toxic compound",
+            "answer": "dioxin",
+            "normalized": "dioxin"
+          },
+          {
+            "id": "32b1f634-9725-43ab-b5c9-2c8c8d90841b",
+            "clue": "French river near the border with Spain",
+            "answer": "tech",
+            "normalized": "tech"
+          },
+          {
+            "id": "899bee0c-8c1f-4b3b-aaa2-041346bb3873",
+            "clue": "Another word for merchandise that sounds like wear",
+            "answer": "ware",
+            "normalized": "ware"
+          },
+          {
+            "id": "d01cfe89-e6e0-42f9-9e59-1c35bef95cf1",
+            "clue": "One of seven sailed by Sinbad",
+            "answer": "sea",
+            "normalized": "sea"
+          },
+          {
+            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
+            "clue": "Abbreviation for small spoon measure in baking",
+            "answer": "tsp",
+            "normalized": "tsp"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D29F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-28",
+      "key": "2026-08-29",
       "year": 2026,
       "month": 8,
-      "day": 28,
+      "day": 29,
       "small": {
-        "puzzleId": "215b193c-1835-44d4-b9de-a865341d4027",
+        "puzzleId": "2536cf05-4338-4b35-a45d-ad1b23be0eed",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "2d340098-431a-4038-a715-5048ddf04735",
-            "clue": "Consumer Price Index, in short",
-            "answer": "cpi",
-            "normalized": "cpi"
-          },
-          {
-            "id": "e036b396-18e4-4c5e-bdae-5a8839af1be6",
-            "clue": "Hansel and Gretel's wayfinding tool",
-            "answer": "crumb",
-            "normalized": "crumb"
-          },
-          {
-            "id": "2a88a917-f0ef-4bdb-a909-2380837da3ca",
-            "clue": "Like a hoarse or scratchy sounding voice",
-            "answer": "raspy",
-            "normalized": "raspy"
-          },
-          {
-            "id": "3058737e-e372-4f99-9ee0-fb9b119a0414",
-            "clue": "Far away mist or place in the skies",
-            "answer": "ether",
-            "normalized": "ether"
-          },
-          {
-            "id": "92407e1c-b403-4536-855e-a7c183dc592f",
-            "clue": "A thing or person that is strange or quirky",
-            "answer": "weird",
-            "normalized": "weird"
-          },
-          {
-            "id": "9c0121ef-0f9a-4833-a81c-b315c21ea4ce",
-            "clue": "Short for rich text format",
-            "answer": "rtf",
-            "normalized": "rtf"
-          },
-          {
-            "id": "4b7315a8-fc24-41f5-b9e3-775fe640b224",
-            "clue": "Impact spot on a planet, usually a circle",
-            "answer": "crater",
-            "normalized": "crater"
-          },
-          {
-            "id": "894c66ea-b632-46e7-a4b8-299374614590",
-            "clue": "Salt-n-Pepa's classic hit",
-            "answer": "push it",
-            "normalized": "pushit"
-          },
-          {
-            "id": "66aa895b-73ca-436f-bbc8-a9b1682bdc8e",
-            "clue": "Abbreviation for stamps without separation",
-            "answer": "imperf",
-            "normalized": "imperf"
-          },
-          {
-            "id": "c49b4cff-13a0-4fc9-aec8-ecd6e7799252",
-            "clue": "Workers in a NASCAR pit or a Broadway set",
-            "answer": "crew",
-            "normalized": "crew"
-          },
-          {
-            "id": "4173cebf-b205-4f74-bbad-099870ed9837",
-            "clue": "Charlie, legendary jazz guitarist",
-            "answer": "byrd",
-            "normalized": "byrd"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D28F0"
-      },
-      "mid": {
-        "puzzleId": "b45bcfe9-2605-4c7d-b8e7-247d28b3ce65",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "77f7ae88-7330-4ca2-8580-5816be492fe2",
-            "clue": "Audible pant of astonishment",
-            "answer": "gasp",
-            "normalized": "gasp"
+            "id": "ed68da72-9763-4663-a0c6-a4d3b685c7bf",
+            "clue": "Tarragon, rosemary or oregano",
+            "answer": "herb",
+            "normalized": "herb"
           },
           {
-            "id": "0ccee858-3ab5-42e9-bab6-9ec123f1685f",
-            "clue": "Jaws famously puts his above water before attack",
-            "answer": "fin",
-            "normalized": "fin"
+            "id": "54576ff0-11b1-4b4a-862c-49e93f14259b",
+            "clue": "Square the length of a square's side to find it",
+            "answer": "area",
+            "normalized": "area"
           },
           {
-            "id": "d7678dfd-22e4-496b-8fcc-d437b50fa473",
-            "clue": "Evading, keeping out of someone's way",
-            "answer": "avoiding",
-            "normalized": "avoiding"
+            "id": "d36d8de3-f6ae-4224-83fa-8236f8ea2706",
+            "clue": "A line from a song",
+            "answer": "lyric",
+            "normalized": "lyric"
           },
           {
-            "id": "7aa1a91e-8052-4a12-bf41-30c3d291130a",
-            "clue": "Italian bacon cured with black pepper",
-            "answer": "pancetta",
-            "normalized": "pancetta"
+            "id": "40b3f15d-3160-4165-93ef-ae7898981d49",
+            "clue": "Avidly enthusiastic",
+            "answer": "keen",
+            "normalized": "keen"
           },
           {
-            "id": "3fd30256-01f0-4ba8-be99-9519caaac3e2",
-            "clue": "Responsibility that is on you",
-            "answer": "onus",
-            "normalized": "onus"
+            "id": "73b72c01-cfa9-4847-bdcc-ce7842175738",
+            "clue": "Computes a sum, totals up",
+            "answer": "adds",
+            "normalized": "adds"
           },
           {
-            "id": "8081606b-ea41-4ff9-8a53-4e1934506d06",
-            "clue": "Memorabilia relating to African culture",
-            "answer": "africana",
-            "normalized": "africana"
+            "id": "cd4e2fcf-dadd-451e-abbc-87b68bb4a704",
+            "clue": "Cut and stored grass for fodder",
+            "answer": "hayed",
+            "normalized": "hayed"
           },
           {
-            "id": "76504549-93a0-4116-9048-09aa475063ac",
-            "clue": "Jewellery worn around the wrist",
-            "answer": "bracelet",
-            "normalized": "bracelet"
+            "id": "d93cd4a2-26e1-409f-8a1c-debe84279f97",
+            "clue": "Made mistakes, sinned",
+            "answer": "erred",
+            "normalized": "erred"
           },
           {
-            "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
-            "clue": "Container for Coke and beans",
-            "answer": "can",
-            "normalized": "can"
+            "id": "39595c15-ccf7-4ac7-a2e0-130588333744",
+            "clue": "Leather straps gripped tightly by a horse rider",
+            "answer": "reins",
+            "normalized": "reins"
           },
           {
-            "id": "6fd189f8-a6db-4a70-9048-786df9bde18d",
-            "clue": "Pig's feed",
-            "answer": "slop",
-            "normalized": "slop"
+            "id": "c4a8b8f0-c0c5-4cc3-8d79-7c7fccc89d9c",
+            "clue": "Amount of alcohol in a volume of blood, abbr.",
+            "answer": "bac",
+            "normalized": "bac"
           },
           {
-            "id": "39807f89-42b8-4044-a63f-b9c522a754b0",
-            "clue": "An opening or space between two rocks",
-            "answer": "gap",
-            "normalized": "gap"
-          },
-          {
-            "id": "440ca3ca-b27f-4950-b747-e3dfd864d4b8",
-            "clue": "1940s, 50s actress Gardner from Show Boat",
-            "answer": "ava",
-            "normalized": "ava"
-          },
-          {
-            "id": "e80d5838-ba64-4e8e-8a35-bf3bd43d17ef",
-            "clue": "Desert that forms Arizona's Saguaro national park",
-            "answer": "sonoran",
-            "normalized": "sonoran"
-          },
-          {
-            "id": "778023ac-bd3a-498a-8e96-91bf9a5803f9",
-            "clue": "Excursion with food eaten outdoors",
-            "answer": "picnic",
-            "normalized": "picnic"
-          },
-          {
-            "id": "8cfe414f-6741-40a5-acee-3290942a1ef4",
-            "clue": "One size __, universal solution",
-            "answer": "fits all",
-            "normalized": "fitsall"
-          },
-          {
-            "id": "fde85d0b-1b51-4d83-b8f7-e047a7e3dbd0",
-            "clue": "Internet domain for an international organisation",
-            "answer": "int",
-            "normalized": "int"
-          },
-          {
-            "id": "195ef076-d01f-45bb-b3f7-f4a65fb141f8",
-            "clue": "Three-letter code for Nigeria",
-            "answer": "nga",
-            "normalized": "nga"
-          },
-          {
-            "id": "12f41885-f301-4583-bcad-0a6f1ba09e25",
-            "clue": "Playing cards with two pips",
-            "answer": "deuces",
-            "normalized": "deuces"
-          },
-          {
-            "id": "be44ad30-fa9e-4e20-afc7-2848e8206772",
-            "clue": "According to The Jackson 5, this is as easy as 123",
-            "answer": "abc",
-            "normalized": "abc"
-          },
-          {
-            "id": "1e02b9dd-7d5e-45ee-b6b7-f7c5ef688b43",
-            "clue": "Code of Germany's Frankfurt airport",
-            "answer": "fra",
-            "normalized": "fra"
-          },
-          {
-            "id": "e114b02b-4888-4f25-90ab-59d0f4fa87a6",
-            "clue": "Keanu Reeves' part in The Matrix",
-            "answer": "neo",
-            "normalized": "neo"
-          },
-          {
-            "id": "d20715e5-f413-4a05-b85b-7e898734a143",
-            "clue": "Association of Tennis Professionals, acronym",
-            "answer": "atp",
-            "normalized": "atp"
+            "id": "51de191c-72f1-4b0d-bfea-c848c2dd0911",
+            "clue": "Sri Lanka's alpha-3 code",
+            "answer": "lka",
+            "normalized": "lka"
           }
         ],
-        "track": "PC|LenC--Y2026M8D28F1"
+        "track": "PC|LenC--Y2026M8D29F0"
+      },
+      "mid": {
+        "puzzleId": "c51ea6d3-cabd-40a3-bc87-03f1c0528089",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "1ef265b1-1b01-49af-ae5f-f95c929ead6b",
+            "clue": "Bank machine for getting cash out of the wall",
+            "answer": "atm",
+            "normalized": "atm"
+          },
+          {
+            "id": "5011cb51-20ec-4841-b207-55d0f8a2bdbf",
+            "clue": "French for water",
+            "answer": "eau",
+            "normalized": "eau"
+          },
+          {
+            "id": "d74f283a-8741-4f3a-9e08-0c97e176ff42",
+            "clue": "What I'm doing when I look at a book",
+            "answer": "reading",
+            "normalized": "reading"
+          },
+          {
+            "id": "dc6dc5d6-d517-453d-a1eb-7054870cffaa",
+            "clue": "Animal form of vitamin A; a skincare serum",
+            "answer": "retinol",
+            "normalized": "retinol"
+          },
+          {
+            "id": "32d4e761-96a0-4cd1-8a11-a36a0b107458",
+            "clue": "First name of deposed Egyptian leader Mubarak",
+            "answer": "hosni",
+            "normalized": "hosni"
+          },
+          {
+            "id": "e055e41b-5623-43ed-8e3c-963dbe0f8889",
+            "clue": "\"There is many a slip __ cup and lip\"",
+            "answer": "twixt",
+            "normalized": "twixt"
+          },
+          {
+            "id": "22cea16c-3aa5-4b47-afe5-565f15ec9f2f",
+            "clue": "The opposite of \"hardest\", least difficult",
+            "answer": "easiest",
+            "normalized": "easiest"
+          },
+          {
+            "id": "b6bbf16f-6a39-48d7-ba1e-0eb4843e2983",
+            "clue": "Close friends and companions",
+            "answer": "cronies",
+            "normalized": "cronies"
+          },
+          {
+            "id": "119fafb7-91a5-4355-9141-492838ad997a",
+            "clue": "Female chicken",
+            "answer": "hen",
+            "normalized": "hen"
+          },
+          {
+            "id": "d4fcb305-760d-4932-863e-23d5c4dcdd44",
+            "clue": "Short sleep",
+            "answer": "nap",
+            "normalized": "nap"
+          },
+          {
+            "id": "f6646979-00dc-4f13-bf69-73489adc7506",
+            "clue": "Annual subscription-based revenue, abbreviated",
+            "answer": "arr",
+            "normalized": "arr"
+          },
+          {
+            "id": "996210c8-e359-446e-833c-d7caf6ba8139",
+            "clue": "Golf ball platform",
+            "answer": "tee",
+            "normalized": "tee"
+          },
+          {
+            "id": "de18b7ad-d255-4671-95cb-2a8bac00a039",
+            "clue": "Middle name of code-breaker Alan Turing",
+            "answer": "mathison",
+            "normalized": "mathison"
+          },
+          {
+            "id": "85cc492b-19d7-45e1-a9a2-6a1043ffc73c",
+            "clue": "Physicist offered the Presidency of Israel",
+            "answer": "einstein",
+            "normalized": "einstein"
+          },
+          {
+            "id": "c5930316-3156-4be3-80c8-4548c74ff4db",
+            "clue": "Short for an unknown writer",
+            "answer": "anon",
+            "normalized": "anon"
+          },
+          {
+            "id": "05e797c4-6edf-4544-84be-f0bddb307f74",
+            "clue": "Jamaican tangelo; fruit with unattractive skin",
+            "answer": "ugli",
+            "normalized": "ugli"
+          },
+          {
+            "id": "9cc3e249-a2db-4ff4-86ea-14092219e7b6",
+            "clue": "Highly toxic compound",
+            "answer": "dioxin",
+            "normalized": "dioxin"
+          },
+          {
+            "id": "32b1f634-9725-43ab-b5c9-2c8c8d90841b",
+            "clue": "French river near the border with Spain",
+            "answer": "tech",
+            "normalized": "tech"
+          },
+          {
+            "id": "899bee0c-8c1f-4b3b-aaa2-041346bb3873",
+            "clue": "Another word for merchandise that sounds like wear",
+            "answer": "ware",
+            "normalized": "ware"
+          },
+          {
+            "id": "d01cfe89-e6e0-42f9-9e59-1c35bef95cf1",
+            "clue": "One of seven sailed by Sinbad",
+            "answer": "sea",
+            "normalized": "sea"
+          },
+          {
+            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
+            "clue": "Abbreviation for small spoon measure in baking",
+            "answer": "tsp",
+            "normalized": "tsp"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D29F1"
       }
     },
     "latestAvailableEntry": {
@@ -435017,21 +434795,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "NsqLoAlC10FFTxsHRCUcRn+X6wvuWf7eNG6ZG9CcjacavAWwLh7mLsEdUtHjnc2oMX+sKyQryBEyDg0jo/ndG3kCRfWUCZ0YmWw/w7N8lWr1rrl/iBaBVPhP7fAUqqGd1s9ZUWXoc96rZlWebFo5UVPts8g5v6582/uXMN2nEBFVN8luYZBMqQXcCbuMsBf5vZoOUAqWFbRe2hp+lZJJNxmYpvvk5PXKx8Kb0nvVDjir1MCJh80Axm0q581HCRpjYKP13rDNdqxxQCW97Ui1VHIRUwRDDHsbems4JQvXgiI="
+        "23LA9FvoUykuRHw+9Kro446aJUI15JCVz6XpJxTXKFya/5igewoAYJmBL3LEwgdq+hsy9Mz64N5zUGFs/+oViWeQR8jjPDrcwQOwgYuB1Lkq6Lu9Mb7c4x7A6FNN2faGoAe8sSEtfXhFKb5cJpbgL7nhpRqFvCdZBqSSIMiGdcdtba8yXRv3IDixwgdQy/Ebhq/ol6oruB+1nBdIUQL//5OZ3O1XShzpzTPakxKt8NlSXX2v2+9b7wpOFY0WTbR5+c8Jz4VaxlyIMTTalmPt5GRqeoLQ17j3SQyS+KI8Zcg="
       ]
     },
     "decrypted": {
-      "Id": "53bab175-fde3-409d-940d-5b255cc070ed",
-      "Date": "2026-08-28T00:00:00Z",
+      "Id": "5df52ef2-59e4-4db6-a8d1-e8ac8eb28043",
+      "Date": "2026-08-29T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "chalk",
-      "NormalizedPassword": "chalk",
+      "Password": "shark",
+      "NormalizedPassword": "shark",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-28T07:43:55.8860000+05:30",
-    "hash": "1c9aa31704855081895d8a1dc34e410c",
+    "dtu": "2026-08-29T07:18:44.6410000+05:30",
+    "hash": "909efe8be13da00133ac3c30de54ea96",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
