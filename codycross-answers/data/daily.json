@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T21:02:10.015Z",
+  "generatedAt": "2026-08-30T21:17:25.339Z",
   "today": {
     "year": 2026,
     "month": 8,
-    "day": 30
+    "day": 31
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 56
+        "QuantidadeDeFases": 58
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -434109,391 +434109,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-30",
+      "key": "2026-08-31",
       "year": 2026,
       "month": 8,
-      "day": 30,
+      "day": 31,
       "small": {
-        "puzzleId": "f9db5b64-1007-4343-87f4-f3dcaf967a5b",
+        "puzzleId": "62e7ae20-46a5-4a2f-8407-51f79ef57a90",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "4642f596-0f3e-4ffd-8897-a0bc62a9f067",
-            "clue": "French wine term to indicate high-quality vineyard",
-            "answer": "cru",
-            "normalized": "cru"
-          },
-          {
-            "id": "b48ab29b-f2fc-48b3-8e82-d7c2be1589e3",
-            "clue": "Stayin' __, opening song of Saturday Night Fever",
-            "answer": "alive",
-            "normalized": "alive"
-          },
-          {
-            "id": "191c27b9-e5c7-4c02-b327-3f257cffc3f9",
-            "clue": "Medical term for a corn or painful type of callus",
-            "answer": "clavus",
-            "normalized": "clavus"
-          },
-          {
-            "id": "1f86f38a-4797-4eb2-8e2e-381e7be6600c",
-            "clue": "Observatory from which Pluto was first spotted",
-            "answer": "lowell",
-            "normalized": "lowell"
-          },
-          {
-            "id": "351037e2-1ed7-4ac5-ac9f-0607631e40ed",
-            "clue": "Roman goddess of hearth and home",
-            "answer": "vesta",
-            "normalized": "vesta"
-          },
-          {
-            "id": "2218ba06-a874-4981-ae18-3a03d9af297c",
-            "clue": "Cats \"sharpen\" them by scratching rough surfaces",
-            "answer": "claws",
-            "normalized": "claws"
-          },
-          {
-            "id": "14dd7b4c-c2a2-4a71-a556-e267d77d83a4",
-            "clue": "Fastener punched into metal in engineering",
-            "answer": "rivet",
-            "normalized": "rivet"
-          },
-          {
-            "id": "bb01e7c7-32b2-4529-996b-851e2ab2df50",
-            "clue": "Dangly bit at the back of throat",
-            "answer": "uvula",
-            "normalized": "uvula"
-          },
-          {
-            "id": "9331df48-282f-4e35-b7ab-c42b940b5a95",
-            "clue": "__ vera, medicinal plant",
-            "answer": "aloe",
-            "normalized": "aloe"
-          },
-          {
-            "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-            "clue": "Short for English as a second language",
-            "answer": "esl",
-            "normalized": "esl"
-          },
-          {
-            "id": "436b7017-fbce-4cd4-b0b8-df0cc66b63eb",
-            "clue": "Initialism for Customer Life Value in business",
-            "answer": "clv",
-            "normalized": "clv"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D30F0"
-      },
-      "mid": {
-        "puzzleId": "7969174f-6d7b-46bd-8e9c-89eb8bc0d63a",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "d930ad7f-cfa2-457f-b86e-e45a1ebb9d4c",
-            "clue": "Two words said during a wedding",
-            "answer": "i do",
-            "normalized": "ido"
+            "id": "2aa238e8-631e-4b50-88c4-d1dbba9beaae",
+            "clue": "Assistant, abbreviated",
+            "answer": "asst",
+            "normalized": "asst"
           },
           {
-            "id": "1e0643e8-3965-4c1f-9874-0d6add9f0e48",
-            "clue": "Relaxation location, often with hot springs",
-            "answer": "spa",
-            "normalized": "spa"
+            "id": "9aff9fd2-8255-45ea-a59a-63909b0c329d",
+            "clue": "Autobiography",
+            "answer": "memoir",
+            "normalized": "memoir"
           },
           {
-            "id": "d73abec9-41ce-44a1-86ef-400f3873cc5e",
-            "clue": "Goblin relative",
-            "answer": "orc",
-            "normalized": "orc"
+            "id": "8fdb4a8c-76af-4069-82f2-d71ba2095b80",
+            "clue": "Technical term, means \"to fly an airplane\"",
+            "answer": "aviate",
+            "normalized": "aviate"
           },
           {
-            "id": "2da01928-ed11-464b-9a88-50c8fb8a0cac",
-            "clue": "World's most popular red wine from a monthly club",
-            "answer": "cabernet",
-            "normalized": "cabernet"
+            "id": "0ae04378-6352-4c26-a083-d02e1d79bd90",
+            "clue": "Measures of metric liquid volume",
+            "answer": "litres",
+            "normalized": "litres"
           },
           {
-            "id": "1c784f08-826d-4cba-9409-80424901ae02",
-            "clue": "Poison in deadly nightshade",
-            "answer": "atropine",
-            "normalized": "atropine"
+            "id": "89b14d4e-1b28-43cf-84c0-bd8ee96e33dc",
+            "clue": "An abbreviation of \"I love you\"",
+            "answer": "ily",
+            "normalized": "ily"
           },
           {
-            "id": "e4d06e87-68d0-43f5-830e-83537fabf0d2",
-            "clue": "Carry out business deals",
-            "answer": "transact",
-            "normalized": "transact"
+            "id": "b40fa29c-242b-43f5-9d4a-56c5e51ff9f1",
+            "clue": "Friendship, especially between nations",
+            "answer": "amity",
+            "normalized": "amity"
           },
           {
-            "id": "495cf354-1897-4d7a-a25a-7a46256abec1",
-            "clue": "Used for carrying bricks over the shoulder",
-            "answer": "hod",
-            "normalized": "hod"
+            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
+            "clue": "Fly high in the air",
+            "answer": "soar",
+            "normalized": "soar"
           },
           {
-            "id": "4a0a8ad9-4a5d-4f3c-99df-b170671963e6",
-            "clue": "Government-funded UK medical service in short",
-            "answer": "nhs",
-            "normalized": "nhs"
+            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
+            "clue": "Shorthand for a collection of web pages",
+            "answer": "site",
+            "normalized": "site"
           },
           {
-            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-            "clue": "East-northeast for short",
-            "answer": "ene",
-            "normalized": "ene"
+            "id": "5d9c33ee-1143-4587-a557-1bc78e8bb426",
+            "clue": "Spanish for three, or French for very",
+            "answer": "tres",
+            "normalized": "tres"
           },
           {
-            "id": "46df3f5c-e224-4e09-8c7c-ed4221f46782",
-            "clue": "Sea on the West Coast of Greece",
-            "answer": "ionian",
-            "normalized": "ionian"
+            "id": "779e0dda-df43-435d-801c-26c8bb0b8467",
+            "clue": "West African country with Bamako, Sikasso cities",
+            "answer": "mali",
+            "normalized": "mali"
           },
           {
-            "id": "79adf676-7f14-45ff-9816-400b33cf35cc",
-            "clue": "Soak completely and violently",
-            "answer": "drench",
-            "normalized": "drench"
-          },
-          {
-            "id": "d6f8db2a-4d79-4244-908e-2e6202c3d882",
-            "clue": "Groups of eight musicians",
-            "answer": "octets",
-            "normalized": "octets"
-          },
-          {
-            "id": "5020ea8e-1390-42a0-98b6-98ce15122cf6",
-            "clue": "To intentionally cause harm to someone else",
-            "answer": "scathe",
-            "normalized": "scathe"
-          },
-          {
-            "id": "c0256949-1086-40c7-a935-05753079158f",
-            "clue": "__ saint, guardian of a place, people or trade",
-            "answer": "patron",
-            "normalized": "patron"
-          },
-          {
-            "id": "2e439421-0de2-47f7-9a1c-79cb9b6774c3",
-            "clue": "To wear away by friction, be slowly scrubbed off",
-            "answer": "abrade",
-            "normalized": "abrade"
-          },
-          {
-            "id": "41235c63-c420-4094-b268-2410b7de15e0",
-            "clue": "US spelling of an extremely long period of time",
-            "answer": "eon",
-            "normalized": "eon"
-          },
-          {
-            "id": "b4ad1410-6b28-4ba4-aebc-1bfaf0461bf5",
-            "clue": "Revolutions per second",
-            "answer": "rps",
-            "normalized": "rps"
+            "id": "6d799ae1-edf0-4d46-84b0-7a6b8342a97c",
+            "clue": "The negative force good fights against",
+            "answer": "evil",
+            "normalized": "evil"
           }
         ],
-        "track": "PC|LenC--Y2026M8D30F1"
+        "track": "PC|LenC--Y2026M8D31F0"
+      },
+      "mid": {
+        "puzzleId": "6d7f17fd-1988-47c0-9700-4a66793ac62d",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 7,
+        "answers": [
+          {
+            "id": "1439fdb0-6475-424c-bba5-47e33d0f90d8",
+            "clue": "Animal flesh that is cooked and eaten",
+            "answer": "meat",
+            "normalized": "meat"
+          },
+          {
+            "id": "a37e9385-5934-4a39-9461-8e524d03e516",
+            "clue": "Qualified, allowed",
+            "answer": "able",
+            "normalized": "able"
+          },
+          {
+            "id": "523292b0-f626-4d83-b517-28aea975e24f",
+            "clue": "Wagon bars on which wheels rest",
+            "answer": "axletrees",
+            "normalized": "axletrees"
+          },
+          {
+            "id": "b5d02dea-7d38-4b7c-8e3a-bdef90adc6a1",
+            "clue": "Physicist who suggested matter has wave properties",
+            "answer": "de broglie",
+            "normalized": "debroglie"
+          },
+          {
+            "id": "f59bb5c6-8735-4abd-97e9-ffdc82511240",
+            "clue": "Sheer fabric that diffuses the light for a photo",
+            "answer": "scrim",
+            "normalized": "scrim"
+          },
+          {
+            "id": "d613d297-eaf9-4484-9b7d-1ba5c313e33e",
+            "clue": "Asserts openly",
+            "answer": "avows",
+            "normalized": "avows"
+          },
+          {
+            "id": "47f7387d-597c-4780-8e58-a1a3d82b755f",
+            "clue": "Place for eating in a workplace or school",
+            "answer": "cafeteria",
+            "normalized": "cafeteria"
+          },
+          {
+            "id": "77a6d6a6-ec40-4c33-801d-cd5c88a87977",
+            "clue": "Last part of the Three Musketeers' motto",
+            "answer": "one for all",
+            "normalized": "oneforall"
+          },
+          {
+            "id": "75ac787d-ffc1-43a9-90da-1846db97ea1d",
+            "clue": "The son of The Simpsons' family",
+            "answer": "bart",
+            "normalized": "bart"
+          },
+          {
+            "id": "038a5a99-d0df-4a78-903a-e894e632fcb2",
+            "clue": "On the side of the ship sheltered from the wind",
+            "answer": "alee",
+            "normalized": "alee"
+          },
+          {
+            "id": "630af312-ddc3-4bfe-b921-fdc4cb6dce2a",
+            "clue": "Actor Mikkelsen from Arctic and Valhalla Rising",
+            "answer": "mads",
+            "normalized": "mads"
+          },
+          {
+            "id": "8585ae67-4752-4806-a172-9d08fed7f54f",
+            "clue": "Short for executive",
+            "answer": "exec",
+            "normalized": "exec"
+          },
+          {
+            "id": "e9d89645-94ba-4c8b-aa91-93b27988e41a",
+            "clue": "Chemical formula for aluminum monobromide",
+            "answer": "albr",
+            "normalized": "albr"
+          },
+          {
+            "id": "f194f340-5d96-4aa8-a2f5-f6d4f8b7ad5c",
+            "clue": "Hatcher the Desperate Housewife",
+            "answer": "teri",
+            "normalized": "teri"
+          },
+          {
+            "id": "21019e7a-b588-470a-ba51-abe721232063",
+            "clue": "ISO three-letter country code for Argentina",
+            "answer": "arg",
+            "normalized": "arg"
+          },
+          {
+            "id": "0d65f22b-dc5d-4088-9d5c-02b6b3b55b82",
+            "clue": "The Fresh Prince of __-Air",
+            "answer": "bel",
+            "normalized": "bel"
+          },
+          {
+            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
+            "clue": "Polynesian flower garland, anagram of \"lie\"",
+            "answer": "lei",
+            "normalized": "lei"
+          },
+          {
+            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
+            "clue": "Direction halfway between east and southeast",
+            "answer": "ese",
+            "normalized": "ese"
+          },
+          {
+            "id": "0d58cfac-3f52-4d58-a9e9-2a36f93be5ca",
+            "clue": "Beefsteak is a variety of this red salad fruit",
+            "answer": "tomato",
+            "normalized": "tomato"
+          },
+          {
+            "id": "457d587d-11bb-4fee-a28f-77aed468b100",
+            "clue": "First name of fashion designer Wang",
+            "answer": "vera",
+            "normalized": "vera"
+          },
+          {
+            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
+            "clue": "Relating to the mouth, anatomically",
+            "answer": "oral",
+            "normalized": "oral"
+          },
+          {
+            "id": "c6fca852-ec86-49ca-9b00-7c10f51e14f2",
+            "clue": "__ E. Coyote, cartoon rival of the Road Runner",
+            "answer": "wile",
+            "normalized": "wile"
+          },
+          {
+            "id": "5afc8e4a-c13f-4879-a4de-279e636e6db0",
+            "clue": "Event to buy bargains",
+            "answer": "sale",
+            "normalized": "sale"
+          },
+          {
+            "id": "6729aab9-f7b9-429a-8037-4cbdfc88481d",
+            "clue": "What corn grows on",
+            "answer": "cob",
+            "normalized": "cob"
+          },
+          {
+            "id": "85033b97-e925-48e2-af0e-425574af381a",
+            "clue": "Serbian tennis player, __ Ivanovic",
+            "answer": "ana",
+            "normalized": "ana"
+          },
+          {
+            "id": "78687d42-52c9-49ca-83e3-fd92c6450842",
+            "clue": "Suffix meaning that which carries",
+            "answer": "fer",
+            "normalized": "fer"
+          },
+          {
+            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
+            "clue": "The terrestrial phase of an aquatic newt",
+            "answer": "eft",
+            "normalized": "eft"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D31F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-30",
+      "key": "2026-08-31",
       "year": 2026,
       "month": 8,
-      "day": 30,
+      "day": 31,
       "small": {
-        "puzzleId": "f9db5b64-1007-4343-87f4-f3dcaf967a5b",
+        "puzzleId": "62e7ae20-46a5-4a2f-8407-51f79ef57a90",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "4642f596-0f3e-4ffd-8897-a0bc62a9f067",
-            "clue": "French wine term to indicate high-quality vineyard",
-            "answer": "cru",
-            "normalized": "cru"
-          },
-          {
-            "id": "b48ab29b-f2fc-48b3-8e82-d7c2be1589e3",
-            "clue": "Stayin' __, opening song of Saturday Night Fever",
-            "answer": "alive",
-            "normalized": "alive"
-          },
-          {
-            "id": "191c27b9-e5c7-4c02-b327-3f257cffc3f9",
-            "clue": "Medical term for a corn or painful type of callus",
-            "answer": "clavus",
-            "normalized": "clavus"
-          },
-          {
-            "id": "1f86f38a-4797-4eb2-8e2e-381e7be6600c",
-            "clue": "Observatory from which Pluto was first spotted",
-            "answer": "lowell",
-            "normalized": "lowell"
-          },
-          {
-            "id": "351037e2-1ed7-4ac5-ac9f-0607631e40ed",
-            "clue": "Roman goddess of hearth and home",
-            "answer": "vesta",
-            "normalized": "vesta"
-          },
-          {
-            "id": "2218ba06-a874-4981-ae18-3a03d9af297c",
-            "clue": "Cats \"sharpen\" them by scratching rough surfaces",
-            "answer": "claws",
-            "normalized": "claws"
-          },
-          {
-            "id": "14dd7b4c-c2a2-4a71-a556-e267d77d83a4",
-            "clue": "Fastener punched into metal in engineering",
-            "answer": "rivet",
-            "normalized": "rivet"
-          },
-          {
-            "id": "bb01e7c7-32b2-4529-996b-851e2ab2df50",
-            "clue": "Dangly bit at the back of throat",
-            "answer": "uvula",
-            "normalized": "uvula"
-          },
-          {
-            "id": "9331df48-282f-4e35-b7ab-c42b940b5a95",
-            "clue": "__ vera, medicinal plant",
-            "answer": "aloe",
-            "normalized": "aloe"
-          },
-          {
-            "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-            "clue": "Short for English as a second language",
-            "answer": "esl",
-            "normalized": "esl"
-          },
-          {
-            "id": "436b7017-fbce-4cd4-b0b8-df0cc66b63eb",
-            "clue": "Initialism for Customer Life Value in business",
-            "answer": "clv",
-            "normalized": "clv"
-          }
-        ],
-        "track": "PC|LenC--Y2026M8D30F0"
-      },
-      "mid": {
-        "puzzleId": "7969174f-6d7b-46bd-8e9c-89eb8bc0d63a",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 3,
         "answers": [
           {
-            "id": "d930ad7f-cfa2-457f-b86e-e45a1ebb9d4c",
-            "clue": "Two words said during a wedding",
-            "answer": "i do",
-            "normalized": "ido"
+            "id": "2aa238e8-631e-4b50-88c4-d1dbba9beaae",
+            "clue": "Assistant, abbreviated",
+            "answer": "asst",
+            "normalized": "asst"
           },
           {
-            "id": "1e0643e8-3965-4c1f-9874-0d6add9f0e48",
-            "clue": "Relaxation location, often with hot springs",
-            "answer": "spa",
-            "normalized": "spa"
+            "id": "9aff9fd2-8255-45ea-a59a-63909b0c329d",
+            "clue": "Autobiography",
+            "answer": "memoir",
+            "normalized": "memoir"
           },
           {
-            "id": "d73abec9-41ce-44a1-86ef-400f3873cc5e",
-            "clue": "Goblin relative",
-            "answer": "orc",
-            "normalized": "orc"
+            "id": "8fdb4a8c-76af-4069-82f2-d71ba2095b80",
+            "clue": "Technical term, means \"to fly an airplane\"",
+            "answer": "aviate",
+            "normalized": "aviate"
           },
           {
-            "id": "2da01928-ed11-464b-9a88-50c8fb8a0cac",
-            "clue": "World's most popular red wine from a monthly club",
-            "answer": "cabernet",
-            "normalized": "cabernet"
+            "id": "0ae04378-6352-4c26-a083-d02e1d79bd90",
+            "clue": "Measures of metric liquid volume",
+            "answer": "litres",
+            "normalized": "litres"
           },
           {
-            "id": "1c784f08-826d-4cba-9409-80424901ae02",
-            "clue": "Poison in deadly nightshade",
-            "answer": "atropine",
-            "normalized": "atropine"
+            "id": "89b14d4e-1b28-43cf-84c0-bd8ee96e33dc",
+            "clue": "An abbreviation of \"I love you\"",
+            "answer": "ily",
+            "normalized": "ily"
           },
           {
-            "id": "e4d06e87-68d0-43f5-830e-83537fabf0d2",
-            "clue": "Carry out business deals",
-            "answer": "transact",
-            "normalized": "transact"
+            "id": "b40fa29c-242b-43f5-9d4a-56c5e51ff9f1",
+            "clue": "Friendship, especially between nations",
+            "answer": "amity",
+            "normalized": "amity"
           },
           {
-            "id": "495cf354-1897-4d7a-a25a-7a46256abec1",
-            "clue": "Used for carrying bricks over the shoulder",
-            "answer": "hod",
-            "normalized": "hod"
+            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
+            "clue": "Fly high in the air",
+            "answer": "soar",
+            "normalized": "soar"
           },
           {
-            "id": "4a0a8ad9-4a5d-4f3c-99df-b170671963e6",
-            "clue": "Government-funded UK medical service in short",
-            "answer": "nhs",
-            "normalized": "nhs"
+            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
+            "clue": "Shorthand for a collection of web pages",
+            "answer": "site",
+            "normalized": "site"
           },
           {
-            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-            "clue": "East-northeast for short",
-            "answer": "ene",
-            "normalized": "ene"
+            "id": "5d9c33ee-1143-4587-a557-1bc78e8bb426",
+            "clue": "Spanish for three, or French for very",
+            "answer": "tres",
+            "normalized": "tres"
           },
           {
-            "id": "46df3f5c-e224-4e09-8c7c-ed4221f46782",
-            "clue": "Sea on the West Coast of Greece",
-            "answer": "ionian",
-            "normalized": "ionian"
+            "id": "779e0dda-df43-435d-801c-26c8bb0b8467",
+            "clue": "West African country with Bamako, Sikasso cities",
+            "answer": "mali",
+            "normalized": "mali"
           },
           {
-            "id": "79adf676-7f14-45ff-9816-400b33cf35cc",
-            "clue": "Soak completely and violently",
-            "answer": "drench",
-            "normalized": "drench"
-          },
-          {
-            "id": "d6f8db2a-4d79-4244-908e-2e6202c3d882",
-            "clue": "Groups of eight musicians",
-            "answer": "octets",
-            "normalized": "octets"
-          },
-          {
-            "id": "5020ea8e-1390-42a0-98b6-98ce15122cf6",
-            "clue": "To intentionally cause harm to someone else",
-            "answer": "scathe",
-            "normalized": "scathe"
-          },
-          {
-            "id": "c0256949-1086-40c7-a935-05753079158f",
-            "clue": "__ saint, guardian of a place, people or trade",
-            "answer": "patron",
-            "normalized": "patron"
-          },
-          {
-            "id": "2e439421-0de2-47f7-9a1c-79cb9b6774c3",
-            "clue": "To wear away by friction, be slowly scrubbed off",
-            "answer": "abrade",
-            "normalized": "abrade"
-          },
-          {
-            "id": "41235c63-c420-4094-b268-2410b7de15e0",
-            "clue": "US spelling of an extremely long period of time",
-            "answer": "eon",
-            "normalized": "eon"
-          },
-          {
-            "id": "b4ad1410-6b28-4ba4-aebc-1bfaf0461bf5",
-            "clue": "Revolutions per second",
-            "answer": "rps",
-            "normalized": "rps"
+            "id": "6d799ae1-edf0-4d46-84b0-7a6b8342a97c",
+            "clue": "The negative force good fights against",
+            "answer": "evil",
+            "normalized": "evil"
           }
         ],
-        "track": "PC|LenC--Y2026M8D30F1"
+        "track": "PC|LenC--Y2026M8D31F0"
+      },
+      "mid": {
+        "puzzleId": "6d7f17fd-1988-47c0-9700-4a66793ac62d",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 7,
+        "answers": [
+          {
+            "id": "1439fdb0-6475-424c-bba5-47e33d0f90d8",
+            "clue": "Animal flesh that is cooked and eaten",
+            "answer": "meat",
+            "normalized": "meat"
+          },
+          {
+            "id": "a37e9385-5934-4a39-9461-8e524d03e516",
+            "clue": "Qualified, allowed",
+            "answer": "able",
+            "normalized": "able"
+          },
+          {
+            "id": "523292b0-f626-4d83-b517-28aea975e24f",
+            "clue": "Wagon bars on which wheels rest",
+            "answer": "axletrees",
+            "normalized": "axletrees"
+          },
+          {
+            "id": "b5d02dea-7d38-4b7c-8e3a-bdef90adc6a1",
+            "clue": "Physicist who suggested matter has wave properties",
+            "answer": "de broglie",
+            "normalized": "debroglie"
+          },
+          {
+            "id": "f59bb5c6-8735-4abd-97e9-ffdc82511240",
+            "clue": "Sheer fabric that diffuses the light for a photo",
+            "answer": "scrim",
+            "normalized": "scrim"
+          },
+          {
+            "id": "d613d297-eaf9-4484-9b7d-1ba5c313e33e",
+            "clue": "Asserts openly",
+            "answer": "avows",
+            "normalized": "avows"
+          },
+          {
+            "id": "47f7387d-597c-4780-8e58-a1a3d82b755f",
+            "clue": "Place for eating in a workplace or school",
+            "answer": "cafeteria",
+            "normalized": "cafeteria"
+          },
+          {
+            "id": "77a6d6a6-ec40-4c33-801d-cd5c88a87977",
+            "clue": "Last part of the Three Musketeers' motto",
+            "answer": "one for all",
+            "normalized": "oneforall"
+          },
+          {
+            "id": "75ac787d-ffc1-43a9-90da-1846db97ea1d",
+            "clue": "The son of The Simpsons' family",
+            "answer": "bart",
+            "normalized": "bart"
+          },
+          {
+            "id": "038a5a99-d0df-4a78-903a-e894e632fcb2",
+            "clue": "On the side of the ship sheltered from the wind",
+            "answer": "alee",
+            "normalized": "alee"
+          },
+          {
+            "id": "630af312-ddc3-4bfe-b921-fdc4cb6dce2a",
+            "clue": "Actor Mikkelsen from Arctic and Valhalla Rising",
+            "answer": "mads",
+            "normalized": "mads"
+          },
+          {
+            "id": "8585ae67-4752-4806-a172-9d08fed7f54f",
+            "clue": "Short for executive",
+            "answer": "exec",
+            "normalized": "exec"
+          },
+          {
+            "id": "e9d89645-94ba-4c8b-aa91-93b27988e41a",
+            "clue": "Chemical formula for aluminum monobromide",
+            "answer": "albr",
+            "normalized": "albr"
+          },
+          {
+            "id": "f194f340-5d96-4aa8-a2f5-f6d4f8b7ad5c",
+            "clue": "Hatcher the Desperate Housewife",
+            "answer": "teri",
+            "normalized": "teri"
+          },
+          {
+            "id": "21019e7a-b588-470a-ba51-abe721232063",
+            "clue": "ISO three-letter country code for Argentina",
+            "answer": "arg",
+            "normalized": "arg"
+          },
+          {
+            "id": "0d65f22b-dc5d-4088-9d5c-02b6b3b55b82",
+            "clue": "The Fresh Prince of __-Air",
+            "answer": "bel",
+            "normalized": "bel"
+          },
+          {
+            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
+            "clue": "Polynesian flower garland, anagram of \"lie\"",
+            "answer": "lei",
+            "normalized": "lei"
+          },
+          {
+            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
+            "clue": "Direction halfway between east and southeast",
+            "answer": "ese",
+            "normalized": "ese"
+          },
+          {
+            "id": "0d58cfac-3f52-4d58-a9e9-2a36f93be5ca",
+            "clue": "Beefsteak is a variety of this red salad fruit",
+            "answer": "tomato",
+            "normalized": "tomato"
+          },
+          {
+            "id": "457d587d-11bb-4fee-a28f-77aed468b100",
+            "clue": "First name of fashion designer Wang",
+            "answer": "vera",
+            "normalized": "vera"
+          },
+          {
+            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
+            "clue": "Relating to the mouth, anatomically",
+            "answer": "oral",
+            "normalized": "oral"
+          },
+          {
+            "id": "c6fca852-ec86-49ca-9b00-7c10f51e14f2",
+            "clue": "__ E. Coyote, cartoon rival of the Road Runner",
+            "answer": "wile",
+            "normalized": "wile"
+          },
+          {
+            "id": "5afc8e4a-c13f-4879-a4de-279e636e6db0",
+            "clue": "Event to buy bargains",
+            "answer": "sale",
+            "normalized": "sale"
+          },
+          {
+            "id": "6729aab9-f7b9-429a-8037-4cbdfc88481d",
+            "clue": "What corn grows on",
+            "answer": "cob",
+            "normalized": "cob"
+          },
+          {
+            "id": "85033b97-e925-48e2-af0e-425574af381a",
+            "clue": "Serbian tennis player, __ Ivanovic",
+            "answer": "ana",
+            "normalized": "ana"
+          },
+          {
+            "id": "78687d42-52c9-49ca-83e3-fd92c6450842",
+            "clue": "Suffix meaning that which carries",
+            "answer": "fer",
+            "normalized": "fer"
+          },
+          {
+            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
+            "clue": "The terrestrial phase of an aquatic newt",
+            "answer": "eft",
+            "normalized": "eft"
+          }
+        ],
+        "track": "PC|LenC--Y2026M8D31F1"
       }
     },
     "latestAvailableEntry": {
@@ -434759,21 +434879,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "YNTf6vsR3oF0ihN3qsG7zYfJpe6BxdahDz/x2wyCRD0iB5yWjcf5Pohkgj11kABCvVL6eg1pw3Gpd37c5ilsuBvfRCoFPKkRcvXIVnGOhu7wvLKJKwD4lO0LBIqSD8mXqHXfBrDspaAfU8CGtEFrG60iYLZnose4ivZcgKyysObJJctaM+wmlisy4sHgOnzHXow4GK0jFyNF+Kql1WGkj5ZVTiecg+tuUdgzMrmGxgqTO05gvoII1ffDy4rM3RtK8vYdPE6xbT/UNPJ/S6kIySYY+TH1Nnk04y5tXiuvLCU="
+        "Ykdf5jsOOoyxkYAQvnK0CxEJvCXEEQFHfbrLxr7I7oaaKnno6ZJXLBhUSH3Kvc2/20OnLWK098y7QrJg6ra30OC6AT5oDjKvyWMEKLzsYuCTqB2igdLzc2N3IFYLZcDyxFjzJm8Xx/35oM9Mh8Va6OM572DMbWcQDgBbcD6pg8Qrv4rh9wJTCn6iu4/HcjpyBo+rjKmP2oLAZw2lWBSjYHLeQi/MXxLOMAcsHsv30FvkC1aAiCwINwURYmuFxATt9rZ8S4NFHK747C0xFpX2w/DdEmvj8O/vwSr6A74A+R4="
       ]
     },
     "decrypted": {
-      "Id": "4489684c-4654-4e05-b8f0-48017040c6ef",
-      "Date": "2026-08-30T00:00:00Z",
+      "Id": "916c0a4b-7359-487d-9e11-efa605f88bdb",
+      "Date": "2026-08-31T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "reach",
-      "NormalizedPassword": "reach",
+      "Password": "frost",
+      "NormalizedPassword": "frost",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-30T02:32:10.0150000+05:30",
-    "hash": "477f77bd739cdf8f5101d05f12d21e9e",
+    "dtu": "2026-08-31T02:47:25.3390000+05:30",
+    "hash": "5ea8b542ed430e65afd1b1df184fc921",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
