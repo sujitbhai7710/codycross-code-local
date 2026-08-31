@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T21:17:25.339Z",
+  "generatedAt": "2026-08-31T22:57:13.966Z",
   "today": {
     "year": 2026,
-    "month": 8,
-    "day": 31
+    "month": 9,
+    "day": 1
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 58
+        "QuantidadeDeFases": 60
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -405,6 +405,218 @@
       }
     ],
     "archiveEntries": [
+      {
+        "key": "2026-09-01",
+        "year": 2026,
+        "month": 9,
+        "day": 1,
+        "small": {
+          "puzzleId": "PC|LenC--Y2026M9D1F0",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "fb940afd-34ed-409b-b193-08742377067b",
+              "clue": "Which person?",
+              "answer": "who",
+              "normalized": "who"
+            },
+            {
+              "id": "133c3469-7b15-444b-9b44-e904d7c568d1",
+              "clue": "A Hindu spiritual and ascetic discipline",
+              "answer": "yoga",
+              "normalized": "yoga"
+            },
+            {
+              "id": "2de34011-aa21-44f7-a92e-749e0825dde9",
+              "clue": "Garrone, early 20th century Italian opera singer",
+              "answer": "nelda",
+              "normalized": "nelda"
+            },
+            {
+              "id": "edd1d409-2271-4677-b77d-c68c1248a337",
+              "clue": "Put in a chair",
+              "answer": "seat",
+              "normalized": "seat"
+            },
+            {
+              "id": "550b6637-fff2-419d-8d48-d9a9c6a3d48f",
+              "clue": "Hair-shade changing substance",
+              "answer": "dye",
+              "normalized": "dye"
+            },
+            {
+              "id": "cbdbdb91-2767-47ed-9ed9-5a29fa1ec225",
+              "clue": "Old English letter equivalent to \"w\"",
+              "answer": "wyn",
+              "normalized": "wyn"
+            },
+            {
+              "id": "c9e97246-afc1-46ef-9242-2c5c06ee687b",
+              "clue": "Soil-shaping agricultural tools",
+              "answer": "hoes",
+              "normalized": "hoes"
+            },
+            {
+              "id": "3a323b92-88d9-4bd4-b91f-e6eaf823d7a1",
+              "clue": "Stared at grossly",
+              "answer": "ogled",
+              "normalized": "ogled"
+            },
+            {
+              "id": "d3c89406-d9d3-4cdd-ace5-6f6dac607093",
+              "clue": "An apple __ keeps the doctor away",
+              "answer": "a day",
+              "normalized": "aday"
+            },
+            {
+              "id": "12b76925-5e83-4d7d-b1e6-ce460db96aa1",
+              "clue": "Consumed food",
+              "answer": "ate",
+              "normalized": "ate"
+            }
+          ],
+          "track": "PC|LenC--Y2026M9D1F0"
+        },
+        "mid": {
+          "puzzleId": "PC|LenC--Y2026M9D1F1",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "4738a27d-d11c-4db4-ae0b-0e7ea53408f3",
+              "clue": "A grizzly is this kind of animal",
+              "answer": "bear",
+              "normalized": "bear"
+            },
+            {
+              "id": "a1aa96eb-3c55-4801-88ad-99f96432061f",
+              "clue": "Three-letter country code for The Bahamas",
+              "answer": "bhs",
+              "normalized": "bhs"
+            },
+            {
+              "id": "3b3b2553-f85d-4113-9ae6-91649cf01936",
+              "clue": "Rain __, Lady Gaga and Ariana Grande hit",
+              "answer": "on me",
+              "normalized": "onme"
+            },
+            {
+              "id": "b04e96b9-8e36-4665-bca1-c9d069a04d3c",
+              "clue": "Decay, decompose",
+              "answer": "rot",
+              "normalized": "rot"
+            },
+            {
+              "id": "4780e331-0d9a-4e18-9c28-a8a1bbe311c7",
+              "clue": "Another name for the plant called cocklebur",
+              "answer": "xanthium",
+              "normalized": "xanthium"
+            },
+            {
+              "id": "31ac283f-6506-46a4-901d-d937b1992ed8",
+              "clue": "Advantages or benefits",
+              "answer": "merits",
+              "normalized": "merits"
+            },
+            {
+              "id": "51bcfab6-5464-4c37-ab43-bd0f7c13e7f1",
+              "clue": "Smitten or obsessed with",
+              "answer": "besotted",
+              "normalized": "besotted"
+            },
+            {
+              "id": "0ddfedf3-d691-4f48-a6b7-f143be2cfe12",
+              "clue": "Athlete Manning, director Roth",
+              "answer": "eli",
+              "normalized": "eli"
+            },
+            {
+              "id": "92a87eae-3735-406c-b2e2-aa36a3aaa005",
+              "clue": "A lump of dirt or clay",
+              "answer": "clod",
+              "normalized": "clod"
+            },
+            {
+              "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
+              "clue": "US agency tasked with security at airports",
+              "answer": "tsa",
+              "normalized": "tsa"
+            },
+            {
+              "id": "8bf39e87-c7f1-4617-8be6-6a85c21c9cd1",
+              "clue": "Lift something heavy",
+              "answer": "heft",
+              "normalized": "heft"
+            },
+            {
+              "id": "c3a4fcdc-f939-4541-b45f-396e76e85a96",
+              "clue": "Cubic cardboard container",
+              "answer": "box",
+              "normalized": "box"
+            },
+            {
+              "id": "485ecc59-333b-46d6-a3bd-fd91f4d1212c",
+              "clue": "Applies glassy substance to surfaces",
+              "answer": "enamels",
+              "normalized": "enamels"
+            },
+            {
+              "id": "1bac92b5-f1d2-489f-ada0-6ef866c13bb8",
+              "clue": "Loss of memory, usually from brain injury",
+              "answer": "amnesia",
+              "normalized": "amnesia"
+            },
+            {
+              "id": "4218995d-ba62-460c-9de1-a0ea0777e05f",
+              "clue": "__futurism, art shaped by past ideas of the future",
+              "answer": "retro",
+              "normalized": "retro"
+            },
+            {
+              "id": "77470648-329d-4ef9-9e90-b17994990dba",
+              "clue": "Fragile state; peanut-flavoured sweet",
+              "answer": "brittle",
+              "normalized": "brittle"
+            },
+            {
+              "id": "73657924-929b-4251-a020-26ea04b236f1",
+              "clue": "__ Pain, Faster Pussycat rock song",
+              "answer": "house of",
+              "normalized": "houseof"
+            },
+            {
+              "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
+              "clue": "Initialism for short-term memory",
+              "answer": "stm",
+              "normalized": "stm"
+            },
+            {
+              "id": "17998b98-b3e5-4bbc-b1c5-07de8010ac0a",
+              "clue": "Rolling, clove, or half are types of this knot",
+              "answer": "hitch",
+              "normalized": "hitch"
+            },
+            {
+              "id": "28811d9f-26e3-464d-8dfd-1867711d278b",
+              "clue": "Wager",
+              "answer": "bet",
+              "normalized": "bet"
+            },
+            {
+              "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
+              "clue": "Pest spray that's banned in many countries",
+              "answer": "ddt",
+              "normalized": "ddt"
+            }
+          ],
+          "track": "PC|LenC--Y2026M9D1F1"
+        }
+      },
       {
         "key": "2026-08-31",
         "year": 2026,
@@ -434109,765 +434321,639 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-08-31",
+      "key": "2026-09-01",
       "year": 2026,
-      "month": 8,
-      "day": 31,
+      "month": 9,
+      "day": 1,
       "small": {
-        "puzzleId": "62e7ae20-46a5-4a2f-8407-51f79ef57a90",
+        "puzzleId": "PC|LenC--Y2026M9D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "2aa238e8-631e-4b50-88c4-d1dbba9beaae",
-            "clue": "Assistant, abbreviated",
-            "answer": "asst",
-            "normalized": "asst"
+            "id": "fb940afd-34ed-409b-b193-08742377067b",
+            "clue": "Which person?",
+            "answer": "who",
+            "normalized": "who"
           },
           {
-            "id": "9aff9fd2-8255-45ea-a59a-63909b0c329d",
-            "clue": "Autobiography",
-            "answer": "memoir",
-            "normalized": "memoir"
+            "id": "133c3469-7b15-444b-9b44-e904d7c568d1",
+            "clue": "A Hindu spiritual and ascetic discipline",
+            "answer": "yoga",
+            "normalized": "yoga"
           },
           {
-            "id": "8fdb4a8c-76af-4069-82f2-d71ba2095b80",
-            "clue": "Technical term, means \"to fly an airplane\"",
-            "answer": "aviate",
-            "normalized": "aviate"
+            "id": "2de34011-aa21-44f7-a92e-749e0825dde9",
+            "clue": "Garrone, early 20th century Italian opera singer",
+            "answer": "nelda",
+            "normalized": "nelda"
           },
           {
-            "id": "0ae04378-6352-4c26-a083-d02e1d79bd90",
-            "clue": "Measures of metric liquid volume",
-            "answer": "litres",
-            "normalized": "litres"
+            "id": "edd1d409-2271-4677-b77d-c68c1248a337",
+            "clue": "Put in a chair",
+            "answer": "seat",
+            "normalized": "seat"
           },
           {
-            "id": "89b14d4e-1b28-43cf-84c0-bd8ee96e33dc",
-            "clue": "An abbreviation of \"I love you\"",
-            "answer": "ily",
-            "normalized": "ily"
+            "id": "550b6637-fff2-419d-8d48-d9a9c6a3d48f",
+            "clue": "Hair-shade changing substance",
+            "answer": "dye",
+            "normalized": "dye"
           },
           {
-            "id": "b40fa29c-242b-43f5-9d4a-56c5e51ff9f1",
-            "clue": "Friendship, especially between nations",
-            "answer": "amity",
-            "normalized": "amity"
+            "id": "cbdbdb91-2767-47ed-9ed9-5a29fa1ec225",
+            "clue": "Old English letter equivalent to \"w\"",
+            "answer": "wyn",
+            "normalized": "wyn"
           },
           {
-            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
-            "clue": "Fly high in the air",
-            "answer": "soar",
-            "normalized": "soar"
+            "id": "c9e97246-afc1-46ef-9242-2c5c06ee687b",
+            "clue": "Soil-shaping agricultural tools",
+            "answer": "hoes",
+            "normalized": "hoes"
           },
           {
-            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
-            "clue": "Shorthand for a collection of web pages",
-            "answer": "site",
-            "normalized": "site"
+            "id": "3a323b92-88d9-4bd4-b91f-e6eaf823d7a1",
+            "clue": "Stared at grossly",
+            "answer": "ogled",
+            "normalized": "ogled"
           },
           {
-            "id": "5d9c33ee-1143-4587-a557-1bc78e8bb426",
-            "clue": "Spanish for three, or French for very",
-            "answer": "tres",
-            "normalized": "tres"
+            "id": "d3c89406-d9d3-4cdd-ace5-6f6dac607093",
+            "clue": "An apple __ keeps the doctor away",
+            "answer": "a day",
+            "normalized": "aday"
           },
           {
-            "id": "779e0dda-df43-435d-801c-26c8bb0b8467",
-            "clue": "West African country with Bamako, Sikasso cities",
-            "answer": "mali",
-            "normalized": "mali"
-          },
-          {
-            "id": "6d799ae1-edf0-4d46-84b0-7a6b8342a97c",
-            "clue": "The negative force good fights against",
-            "answer": "evil",
-            "normalized": "evil"
+            "id": "12b76925-5e83-4d7d-b1e6-ce460db96aa1",
+            "clue": "Consumed food",
+            "answer": "ate",
+            "normalized": "ate"
           }
         ],
-        "track": "PC|LenC--Y2026M8D31F0"
+        "track": "PC|LenC--Y2026M9D1F0"
       },
       "mid": {
-        "puzzleId": "6d7f17fd-1988-47c0-9700-4a66793ac62d",
+        "puzzleId": "PC|LenC--Y2026M9D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 0,
         "answers": [
           {
-            "id": "1439fdb0-6475-424c-bba5-47e33d0f90d8",
-            "clue": "Animal flesh that is cooked and eaten",
-            "answer": "meat",
-            "normalized": "meat"
+            "id": "4738a27d-d11c-4db4-ae0b-0e7ea53408f3",
+            "clue": "A grizzly is this kind of animal",
+            "answer": "bear",
+            "normalized": "bear"
           },
           {
-            "id": "a37e9385-5934-4a39-9461-8e524d03e516",
-            "clue": "Qualified, allowed",
-            "answer": "able",
-            "normalized": "able"
+            "id": "a1aa96eb-3c55-4801-88ad-99f96432061f",
+            "clue": "Three-letter country code for The Bahamas",
+            "answer": "bhs",
+            "normalized": "bhs"
           },
           {
-            "id": "523292b0-f626-4d83-b517-28aea975e24f",
-            "clue": "Wagon bars on which wheels rest",
-            "answer": "axletrees",
-            "normalized": "axletrees"
+            "id": "3b3b2553-f85d-4113-9ae6-91649cf01936",
+            "clue": "Rain __, Lady Gaga and Ariana Grande hit",
+            "answer": "on me",
+            "normalized": "onme"
           },
           {
-            "id": "b5d02dea-7d38-4b7c-8e3a-bdef90adc6a1",
-            "clue": "Physicist who suggested matter has wave properties",
-            "answer": "de broglie",
-            "normalized": "debroglie"
+            "id": "b04e96b9-8e36-4665-bca1-c9d069a04d3c",
+            "clue": "Decay, decompose",
+            "answer": "rot",
+            "normalized": "rot"
           },
           {
-            "id": "f59bb5c6-8735-4abd-97e9-ffdc82511240",
-            "clue": "Sheer fabric that diffuses the light for a photo",
-            "answer": "scrim",
-            "normalized": "scrim"
+            "id": "4780e331-0d9a-4e18-9c28-a8a1bbe311c7",
+            "clue": "Another name for the plant called cocklebur",
+            "answer": "xanthium",
+            "normalized": "xanthium"
           },
           {
-            "id": "d613d297-eaf9-4484-9b7d-1ba5c313e33e",
-            "clue": "Asserts openly",
-            "answer": "avows",
-            "normalized": "avows"
+            "id": "31ac283f-6506-46a4-901d-d937b1992ed8",
+            "clue": "Advantages or benefits",
+            "answer": "merits",
+            "normalized": "merits"
           },
           {
-            "id": "47f7387d-597c-4780-8e58-a1a3d82b755f",
-            "clue": "Place for eating in a workplace or school",
-            "answer": "cafeteria",
-            "normalized": "cafeteria"
+            "id": "51bcfab6-5464-4c37-ab43-bd0f7c13e7f1",
+            "clue": "Smitten or obsessed with",
+            "answer": "besotted",
+            "normalized": "besotted"
           },
           {
-            "id": "77a6d6a6-ec40-4c33-801d-cd5c88a87977",
-            "clue": "Last part of the Three Musketeers' motto",
-            "answer": "one for all",
-            "normalized": "oneforall"
+            "id": "0ddfedf3-d691-4f48-a6b7-f143be2cfe12",
+            "clue": "Athlete Manning, director Roth",
+            "answer": "eli",
+            "normalized": "eli"
           },
           {
-            "id": "75ac787d-ffc1-43a9-90da-1846db97ea1d",
-            "clue": "The son of The Simpsons' family",
-            "answer": "bart",
-            "normalized": "bart"
+            "id": "92a87eae-3735-406c-b2e2-aa36a3aaa005",
+            "clue": "A lump of dirt or clay",
+            "answer": "clod",
+            "normalized": "clod"
           },
           {
-            "id": "038a5a99-d0df-4a78-903a-e894e632fcb2",
-            "clue": "On the side of the ship sheltered from the wind",
-            "answer": "alee",
-            "normalized": "alee"
+            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
+            "clue": "US agency tasked with security at airports",
+            "answer": "tsa",
+            "normalized": "tsa"
           },
           {
-            "id": "630af312-ddc3-4bfe-b921-fdc4cb6dce2a",
-            "clue": "Actor Mikkelsen from Arctic and Valhalla Rising",
-            "answer": "mads",
-            "normalized": "mads"
+            "id": "8bf39e87-c7f1-4617-8be6-6a85c21c9cd1",
+            "clue": "Lift something heavy",
+            "answer": "heft",
+            "normalized": "heft"
           },
           {
-            "id": "8585ae67-4752-4806-a172-9d08fed7f54f",
-            "clue": "Short for executive",
-            "answer": "exec",
-            "normalized": "exec"
+            "id": "c3a4fcdc-f939-4541-b45f-396e76e85a96",
+            "clue": "Cubic cardboard container",
+            "answer": "box",
+            "normalized": "box"
           },
           {
-            "id": "e9d89645-94ba-4c8b-aa91-93b27988e41a",
-            "clue": "Chemical formula for aluminum monobromide",
-            "answer": "albr",
-            "normalized": "albr"
+            "id": "485ecc59-333b-46d6-a3bd-fd91f4d1212c",
+            "clue": "Applies glassy substance to surfaces",
+            "answer": "enamels",
+            "normalized": "enamels"
           },
           {
-            "id": "f194f340-5d96-4aa8-a2f5-f6d4f8b7ad5c",
-            "clue": "Hatcher the Desperate Housewife",
-            "answer": "teri",
-            "normalized": "teri"
+            "id": "1bac92b5-f1d2-489f-ada0-6ef866c13bb8",
+            "clue": "Loss of memory, usually from brain injury",
+            "answer": "amnesia",
+            "normalized": "amnesia"
           },
           {
-            "id": "21019e7a-b588-470a-ba51-abe721232063",
-            "clue": "ISO three-letter country code for Argentina",
-            "answer": "arg",
-            "normalized": "arg"
+            "id": "4218995d-ba62-460c-9de1-a0ea0777e05f",
+            "clue": "__futurism, art shaped by past ideas of the future",
+            "answer": "retro",
+            "normalized": "retro"
           },
           {
-            "id": "0d65f22b-dc5d-4088-9d5c-02b6b3b55b82",
-            "clue": "The Fresh Prince of __-Air",
-            "answer": "bel",
-            "normalized": "bel"
+            "id": "77470648-329d-4ef9-9e90-b17994990dba",
+            "clue": "Fragile state; peanut-flavoured sweet",
+            "answer": "brittle",
+            "normalized": "brittle"
           },
           {
-            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
-            "clue": "Polynesian flower garland, anagram of \"lie\"",
-            "answer": "lei",
-            "normalized": "lei"
+            "id": "73657924-929b-4251-a020-26ea04b236f1",
+            "clue": "__ Pain, Faster Pussycat rock song",
+            "answer": "house of",
+            "normalized": "houseof"
           },
           {
-            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
-            "clue": "Direction halfway between east and southeast",
-            "answer": "ese",
-            "normalized": "ese"
+            "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
+            "clue": "Initialism for short-term memory",
+            "answer": "stm",
+            "normalized": "stm"
           },
           {
-            "id": "0d58cfac-3f52-4d58-a9e9-2a36f93be5ca",
-            "clue": "Beefsteak is a variety of this red salad fruit",
-            "answer": "tomato",
-            "normalized": "tomato"
+            "id": "17998b98-b3e5-4bbc-b1c5-07de8010ac0a",
+            "clue": "Rolling, clove, or half are types of this knot",
+            "answer": "hitch",
+            "normalized": "hitch"
           },
           {
-            "id": "457d587d-11bb-4fee-a28f-77aed468b100",
-            "clue": "First name of fashion designer Wang",
-            "answer": "vera",
-            "normalized": "vera"
+            "id": "28811d9f-26e3-464d-8dfd-1867711d278b",
+            "clue": "Wager",
+            "answer": "bet",
+            "normalized": "bet"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
-          },
-          {
-            "id": "c6fca852-ec86-49ca-9b00-7c10f51e14f2",
-            "clue": "__ E. Coyote, cartoon rival of the Road Runner",
-            "answer": "wile",
-            "normalized": "wile"
-          },
-          {
-            "id": "5afc8e4a-c13f-4879-a4de-279e636e6db0",
-            "clue": "Event to buy bargains",
-            "answer": "sale",
-            "normalized": "sale"
-          },
-          {
-            "id": "6729aab9-f7b9-429a-8037-4cbdfc88481d",
-            "clue": "What corn grows on",
-            "answer": "cob",
-            "normalized": "cob"
-          },
-          {
-            "id": "85033b97-e925-48e2-af0e-425574af381a",
-            "clue": "Serbian tennis player, __ Ivanovic",
-            "answer": "ana",
-            "normalized": "ana"
-          },
-          {
-            "id": "78687d42-52c9-49ca-83e3-fd92c6450842",
-            "clue": "Suffix meaning that which carries",
-            "answer": "fer",
-            "normalized": "fer"
-          },
-          {
-            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
-            "clue": "The terrestrial phase of an aquatic newt",
-            "answer": "eft",
-            "normalized": "eft"
+            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
+            "clue": "Pest spray that's banned in many countries",
+            "answer": "ddt",
+            "normalized": "ddt"
           }
         ],
-        "track": "PC|LenC--Y2026M8D31F1"
+        "track": "PC|LenC--Y2026M9D1F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-08-31",
+      "key": "2026-09-01",
       "year": 2026,
-      "month": 8,
-      "day": 31,
+      "month": 9,
+      "day": 1,
       "small": {
-        "puzzleId": "62e7ae20-46a5-4a2f-8407-51f79ef57a90",
+        "puzzleId": "PC|LenC--Y2026M9D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "2aa238e8-631e-4b50-88c4-d1dbba9beaae",
-            "clue": "Assistant, abbreviated",
-            "answer": "asst",
-            "normalized": "asst"
+            "id": "fb940afd-34ed-409b-b193-08742377067b",
+            "clue": "Which person?",
+            "answer": "who",
+            "normalized": "who"
           },
           {
-            "id": "9aff9fd2-8255-45ea-a59a-63909b0c329d",
-            "clue": "Autobiography",
-            "answer": "memoir",
-            "normalized": "memoir"
+            "id": "133c3469-7b15-444b-9b44-e904d7c568d1",
+            "clue": "A Hindu spiritual and ascetic discipline",
+            "answer": "yoga",
+            "normalized": "yoga"
           },
           {
-            "id": "8fdb4a8c-76af-4069-82f2-d71ba2095b80",
-            "clue": "Technical term, means \"to fly an airplane\"",
-            "answer": "aviate",
-            "normalized": "aviate"
+            "id": "2de34011-aa21-44f7-a92e-749e0825dde9",
+            "clue": "Garrone, early 20th century Italian opera singer",
+            "answer": "nelda",
+            "normalized": "nelda"
           },
           {
-            "id": "0ae04378-6352-4c26-a083-d02e1d79bd90",
-            "clue": "Measures of metric liquid volume",
-            "answer": "litres",
-            "normalized": "litres"
+            "id": "edd1d409-2271-4677-b77d-c68c1248a337",
+            "clue": "Put in a chair",
+            "answer": "seat",
+            "normalized": "seat"
           },
           {
-            "id": "89b14d4e-1b28-43cf-84c0-bd8ee96e33dc",
-            "clue": "An abbreviation of \"I love you\"",
-            "answer": "ily",
-            "normalized": "ily"
+            "id": "550b6637-fff2-419d-8d48-d9a9c6a3d48f",
+            "clue": "Hair-shade changing substance",
+            "answer": "dye",
+            "normalized": "dye"
           },
           {
-            "id": "b40fa29c-242b-43f5-9d4a-56c5e51ff9f1",
-            "clue": "Friendship, especially between nations",
-            "answer": "amity",
-            "normalized": "amity"
+            "id": "cbdbdb91-2767-47ed-9ed9-5a29fa1ec225",
+            "clue": "Old English letter equivalent to \"w\"",
+            "answer": "wyn",
+            "normalized": "wyn"
           },
           {
-            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
-            "clue": "Fly high in the air",
-            "answer": "soar",
-            "normalized": "soar"
+            "id": "c9e97246-afc1-46ef-9242-2c5c06ee687b",
+            "clue": "Soil-shaping agricultural tools",
+            "answer": "hoes",
+            "normalized": "hoes"
           },
           {
-            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
-            "clue": "Shorthand for a collection of web pages",
-            "answer": "site",
-            "normalized": "site"
+            "id": "3a323b92-88d9-4bd4-b91f-e6eaf823d7a1",
+            "clue": "Stared at grossly",
+            "answer": "ogled",
+            "normalized": "ogled"
           },
           {
-            "id": "5d9c33ee-1143-4587-a557-1bc78e8bb426",
-            "clue": "Spanish for three, or French for very",
-            "answer": "tres",
-            "normalized": "tres"
+            "id": "d3c89406-d9d3-4cdd-ace5-6f6dac607093",
+            "clue": "An apple __ keeps the doctor away",
+            "answer": "a day",
+            "normalized": "aday"
           },
           {
-            "id": "779e0dda-df43-435d-801c-26c8bb0b8467",
-            "clue": "West African country with Bamako, Sikasso cities",
-            "answer": "mali",
-            "normalized": "mali"
-          },
-          {
-            "id": "6d799ae1-edf0-4d46-84b0-7a6b8342a97c",
-            "clue": "The negative force good fights against",
-            "answer": "evil",
-            "normalized": "evil"
+            "id": "12b76925-5e83-4d7d-b1e6-ce460db96aa1",
+            "clue": "Consumed food",
+            "answer": "ate",
+            "normalized": "ate"
           }
         ],
-        "track": "PC|LenC--Y2026M8D31F0"
+        "track": "PC|LenC--Y2026M9D1F0"
       },
       "mid": {
-        "puzzleId": "6d7f17fd-1988-47c0-9700-4a66793ac62d",
+        "puzzleId": "PC|LenC--Y2026M9D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 0,
         "answers": [
           {
-            "id": "1439fdb0-6475-424c-bba5-47e33d0f90d8",
-            "clue": "Animal flesh that is cooked and eaten",
-            "answer": "meat",
-            "normalized": "meat"
+            "id": "4738a27d-d11c-4db4-ae0b-0e7ea53408f3",
+            "clue": "A grizzly is this kind of animal",
+            "answer": "bear",
+            "normalized": "bear"
           },
           {
-            "id": "a37e9385-5934-4a39-9461-8e524d03e516",
-            "clue": "Qualified, allowed",
-            "answer": "able",
-            "normalized": "able"
+            "id": "a1aa96eb-3c55-4801-88ad-99f96432061f",
+            "clue": "Three-letter country code for The Bahamas",
+            "answer": "bhs",
+            "normalized": "bhs"
           },
           {
-            "id": "523292b0-f626-4d83-b517-28aea975e24f",
-            "clue": "Wagon bars on which wheels rest",
-            "answer": "axletrees",
-            "normalized": "axletrees"
+            "id": "3b3b2553-f85d-4113-9ae6-91649cf01936",
+            "clue": "Rain __, Lady Gaga and Ariana Grande hit",
+            "answer": "on me",
+            "normalized": "onme"
           },
           {
-            "id": "b5d02dea-7d38-4b7c-8e3a-bdef90adc6a1",
-            "clue": "Physicist who suggested matter has wave properties",
-            "answer": "de broglie",
-            "normalized": "debroglie"
+            "id": "b04e96b9-8e36-4665-bca1-c9d069a04d3c",
+            "clue": "Decay, decompose",
+            "answer": "rot",
+            "normalized": "rot"
           },
           {
-            "id": "f59bb5c6-8735-4abd-97e9-ffdc82511240",
-            "clue": "Sheer fabric that diffuses the light for a photo",
-            "answer": "scrim",
-            "normalized": "scrim"
+            "id": "4780e331-0d9a-4e18-9c28-a8a1bbe311c7",
+            "clue": "Another name for the plant called cocklebur",
+            "answer": "xanthium",
+            "normalized": "xanthium"
           },
           {
-            "id": "d613d297-eaf9-4484-9b7d-1ba5c313e33e",
-            "clue": "Asserts openly",
-            "answer": "avows",
-            "normalized": "avows"
+            "id": "31ac283f-6506-46a4-901d-d937b1992ed8",
+            "clue": "Advantages or benefits",
+            "answer": "merits",
+            "normalized": "merits"
           },
           {
-            "id": "47f7387d-597c-4780-8e58-a1a3d82b755f",
-            "clue": "Place for eating in a workplace or school",
-            "answer": "cafeteria",
-            "normalized": "cafeteria"
+            "id": "51bcfab6-5464-4c37-ab43-bd0f7c13e7f1",
+            "clue": "Smitten or obsessed with",
+            "answer": "besotted",
+            "normalized": "besotted"
           },
           {
-            "id": "77a6d6a6-ec40-4c33-801d-cd5c88a87977",
-            "clue": "Last part of the Three Musketeers' motto",
-            "answer": "one for all",
-            "normalized": "oneforall"
+            "id": "0ddfedf3-d691-4f48-a6b7-f143be2cfe12",
+            "clue": "Athlete Manning, director Roth",
+            "answer": "eli",
+            "normalized": "eli"
           },
           {
-            "id": "75ac787d-ffc1-43a9-90da-1846db97ea1d",
-            "clue": "The son of The Simpsons' family",
-            "answer": "bart",
-            "normalized": "bart"
+            "id": "92a87eae-3735-406c-b2e2-aa36a3aaa005",
+            "clue": "A lump of dirt or clay",
+            "answer": "clod",
+            "normalized": "clod"
           },
           {
-            "id": "038a5a99-d0df-4a78-903a-e894e632fcb2",
-            "clue": "On the side of the ship sheltered from the wind",
-            "answer": "alee",
-            "normalized": "alee"
+            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
+            "clue": "US agency tasked with security at airports",
+            "answer": "tsa",
+            "normalized": "tsa"
           },
           {
-            "id": "630af312-ddc3-4bfe-b921-fdc4cb6dce2a",
-            "clue": "Actor Mikkelsen from Arctic and Valhalla Rising",
-            "answer": "mads",
-            "normalized": "mads"
+            "id": "8bf39e87-c7f1-4617-8be6-6a85c21c9cd1",
+            "clue": "Lift something heavy",
+            "answer": "heft",
+            "normalized": "heft"
           },
           {
-            "id": "8585ae67-4752-4806-a172-9d08fed7f54f",
-            "clue": "Short for executive",
-            "answer": "exec",
-            "normalized": "exec"
+            "id": "c3a4fcdc-f939-4541-b45f-396e76e85a96",
+            "clue": "Cubic cardboard container",
+            "answer": "box",
+            "normalized": "box"
           },
           {
-            "id": "e9d89645-94ba-4c8b-aa91-93b27988e41a",
-            "clue": "Chemical formula for aluminum monobromide",
-            "answer": "albr",
-            "normalized": "albr"
+            "id": "485ecc59-333b-46d6-a3bd-fd91f4d1212c",
+            "clue": "Applies glassy substance to surfaces",
+            "answer": "enamels",
+            "normalized": "enamels"
           },
           {
-            "id": "f194f340-5d96-4aa8-a2f5-f6d4f8b7ad5c",
-            "clue": "Hatcher the Desperate Housewife",
-            "answer": "teri",
-            "normalized": "teri"
+            "id": "1bac92b5-f1d2-489f-ada0-6ef866c13bb8",
+            "clue": "Loss of memory, usually from brain injury",
+            "answer": "amnesia",
+            "normalized": "amnesia"
           },
           {
-            "id": "21019e7a-b588-470a-ba51-abe721232063",
-            "clue": "ISO three-letter country code for Argentina",
-            "answer": "arg",
-            "normalized": "arg"
+            "id": "4218995d-ba62-460c-9de1-a0ea0777e05f",
+            "clue": "__futurism, art shaped by past ideas of the future",
+            "answer": "retro",
+            "normalized": "retro"
           },
           {
-            "id": "0d65f22b-dc5d-4088-9d5c-02b6b3b55b82",
-            "clue": "The Fresh Prince of __-Air",
-            "answer": "bel",
-            "normalized": "bel"
+            "id": "77470648-329d-4ef9-9e90-b17994990dba",
+            "clue": "Fragile state; peanut-flavoured sweet",
+            "answer": "brittle",
+            "normalized": "brittle"
           },
           {
-            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
-            "clue": "Polynesian flower garland, anagram of \"lie\"",
-            "answer": "lei",
-            "normalized": "lei"
+            "id": "73657924-929b-4251-a020-26ea04b236f1",
+            "clue": "__ Pain, Faster Pussycat rock song",
+            "answer": "house of",
+            "normalized": "houseof"
           },
           {
-            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
-            "clue": "Direction halfway between east and southeast",
-            "answer": "ese",
-            "normalized": "ese"
+            "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
+            "clue": "Initialism for short-term memory",
+            "answer": "stm",
+            "normalized": "stm"
           },
           {
-            "id": "0d58cfac-3f52-4d58-a9e9-2a36f93be5ca",
-            "clue": "Beefsteak is a variety of this red salad fruit",
-            "answer": "tomato",
-            "normalized": "tomato"
+            "id": "17998b98-b3e5-4bbc-b1c5-07de8010ac0a",
+            "clue": "Rolling, clove, or half are types of this knot",
+            "answer": "hitch",
+            "normalized": "hitch"
           },
           {
-            "id": "457d587d-11bb-4fee-a28f-77aed468b100",
-            "clue": "First name of fashion designer Wang",
-            "answer": "vera",
-            "normalized": "vera"
+            "id": "28811d9f-26e3-464d-8dfd-1867711d278b",
+            "clue": "Wager",
+            "answer": "bet",
+            "normalized": "bet"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
-          },
-          {
-            "id": "c6fca852-ec86-49ca-9b00-7c10f51e14f2",
-            "clue": "__ E. Coyote, cartoon rival of the Road Runner",
-            "answer": "wile",
-            "normalized": "wile"
-          },
-          {
-            "id": "5afc8e4a-c13f-4879-a4de-279e636e6db0",
-            "clue": "Event to buy bargains",
-            "answer": "sale",
-            "normalized": "sale"
-          },
-          {
-            "id": "6729aab9-f7b9-429a-8037-4cbdfc88481d",
-            "clue": "What corn grows on",
-            "answer": "cob",
-            "normalized": "cob"
-          },
-          {
-            "id": "85033b97-e925-48e2-af0e-425574af381a",
-            "clue": "Serbian tennis player, __ Ivanovic",
-            "answer": "ana",
-            "normalized": "ana"
-          },
-          {
-            "id": "78687d42-52c9-49ca-83e3-fd92c6450842",
-            "clue": "Suffix meaning that which carries",
-            "answer": "fer",
-            "normalized": "fer"
-          },
-          {
-            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
-            "clue": "The terrestrial phase of an aquatic newt",
-            "answer": "eft",
-            "normalized": "eft"
+            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
+            "clue": "Pest spray that's banned in many countries",
+            "answer": "ddt",
+            "normalized": "ddt"
           }
         ],
-        "track": "PC|LenC--Y2026M8D31F1"
+        "track": "PC|LenC--Y2026M9D1F1"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-08-31",
+      "key": "2026-09-01",
       "year": 2026,
-      "month": 8,
-      "day": 31,
+      "month": 9,
+      "day": 1,
       "small": {
-        "puzzleId": "62e7ae20-46a5-4a2f-8407-51f79ef57a90",
+        "puzzleId": "PC|LenC--Y2026M9D1F0",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 0,
         "answers": [
           {
-            "id": "2aa238e8-631e-4b50-88c4-d1dbba9beaae",
-            "clue": "Assistant, abbreviated",
-            "answer": "asst",
-            "normalized": "asst"
+            "id": "fb940afd-34ed-409b-b193-08742377067b",
+            "clue": "Which person?",
+            "answer": "who",
+            "normalized": "who"
           },
           {
-            "id": "9aff9fd2-8255-45ea-a59a-63909b0c329d",
-            "clue": "Autobiography",
-            "answer": "memoir",
-            "normalized": "memoir"
+            "id": "133c3469-7b15-444b-9b44-e904d7c568d1",
+            "clue": "A Hindu spiritual and ascetic discipline",
+            "answer": "yoga",
+            "normalized": "yoga"
           },
           {
-            "id": "8fdb4a8c-76af-4069-82f2-d71ba2095b80",
-            "clue": "Technical term, means \"to fly an airplane\"",
-            "answer": "aviate",
-            "normalized": "aviate"
+            "id": "2de34011-aa21-44f7-a92e-749e0825dde9",
+            "clue": "Garrone, early 20th century Italian opera singer",
+            "answer": "nelda",
+            "normalized": "nelda"
           },
           {
-            "id": "0ae04378-6352-4c26-a083-d02e1d79bd90",
-            "clue": "Measures of metric liquid volume",
-            "answer": "litres",
-            "normalized": "litres"
+            "id": "edd1d409-2271-4677-b77d-c68c1248a337",
+            "clue": "Put in a chair",
+            "answer": "seat",
+            "normalized": "seat"
           },
           {
-            "id": "89b14d4e-1b28-43cf-84c0-bd8ee96e33dc",
-            "clue": "An abbreviation of \"I love you\"",
-            "answer": "ily",
-            "normalized": "ily"
+            "id": "550b6637-fff2-419d-8d48-d9a9c6a3d48f",
+            "clue": "Hair-shade changing substance",
+            "answer": "dye",
+            "normalized": "dye"
           },
           {
-            "id": "b40fa29c-242b-43f5-9d4a-56c5e51ff9f1",
-            "clue": "Friendship, especially between nations",
-            "answer": "amity",
-            "normalized": "amity"
+            "id": "cbdbdb91-2767-47ed-9ed9-5a29fa1ec225",
+            "clue": "Old English letter equivalent to \"w\"",
+            "answer": "wyn",
+            "normalized": "wyn"
           },
           {
-            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
-            "clue": "Fly high in the air",
-            "answer": "soar",
-            "normalized": "soar"
+            "id": "c9e97246-afc1-46ef-9242-2c5c06ee687b",
+            "clue": "Soil-shaping agricultural tools",
+            "answer": "hoes",
+            "normalized": "hoes"
           },
           {
-            "id": "37c40db0-7a8e-4440-b9d0-a779ee5e675e",
-            "clue": "Shorthand for a collection of web pages",
-            "answer": "site",
-            "normalized": "site"
+            "id": "3a323b92-88d9-4bd4-b91f-e6eaf823d7a1",
+            "clue": "Stared at grossly",
+            "answer": "ogled",
+            "normalized": "ogled"
           },
           {
-            "id": "5d9c33ee-1143-4587-a557-1bc78e8bb426",
-            "clue": "Spanish for three, or French for very",
-            "answer": "tres",
-            "normalized": "tres"
+            "id": "d3c89406-d9d3-4cdd-ace5-6f6dac607093",
+            "clue": "An apple __ keeps the doctor away",
+            "answer": "a day",
+            "normalized": "aday"
           },
           {
-            "id": "779e0dda-df43-435d-801c-26c8bb0b8467",
-            "clue": "West African country with Bamako, Sikasso cities",
-            "answer": "mali",
-            "normalized": "mali"
-          },
-          {
-            "id": "6d799ae1-edf0-4d46-84b0-7a6b8342a97c",
-            "clue": "The negative force good fights against",
-            "answer": "evil",
-            "normalized": "evil"
+            "id": "12b76925-5e83-4d7d-b1e6-ce460db96aa1",
+            "clue": "Consumed food",
+            "answer": "ate",
+            "normalized": "ate"
           }
         ],
-        "track": "PC|LenC--Y2026M8D31F0"
+        "track": "PC|LenC--Y2026M9D1F0"
       },
       "mid": {
-        "puzzleId": "6d7f17fd-1988-47c0-9700-4a66793ac62d",
+        "puzzleId": "PC|LenC--Y2026M9D1F1",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 7,
+        "version": 0,
         "answers": [
           {
-            "id": "1439fdb0-6475-424c-bba5-47e33d0f90d8",
-            "clue": "Animal flesh that is cooked and eaten",
-            "answer": "meat",
-            "normalized": "meat"
+            "id": "4738a27d-d11c-4db4-ae0b-0e7ea53408f3",
+            "clue": "A grizzly is this kind of animal",
+            "answer": "bear",
+            "normalized": "bear"
           },
           {
-            "id": "a37e9385-5934-4a39-9461-8e524d03e516",
-            "clue": "Qualified, allowed",
-            "answer": "able",
-            "normalized": "able"
+            "id": "a1aa96eb-3c55-4801-88ad-99f96432061f",
+            "clue": "Three-letter country code for The Bahamas",
+            "answer": "bhs",
+            "normalized": "bhs"
           },
           {
-            "id": "523292b0-f626-4d83-b517-28aea975e24f",
-            "clue": "Wagon bars on which wheels rest",
-            "answer": "axletrees",
-            "normalized": "axletrees"
+            "id": "3b3b2553-f85d-4113-9ae6-91649cf01936",
+            "clue": "Rain __, Lady Gaga and Ariana Grande hit",
+            "answer": "on me",
+            "normalized": "onme"
           },
           {
-            "id": "b5d02dea-7d38-4b7c-8e3a-bdef90adc6a1",
-            "clue": "Physicist who suggested matter has wave properties",
-            "answer": "de broglie",
-            "normalized": "debroglie"
+            "id": "b04e96b9-8e36-4665-bca1-c9d069a04d3c",
+            "clue": "Decay, decompose",
+            "answer": "rot",
+            "normalized": "rot"
           },
           {
-            "id": "f59bb5c6-8735-4abd-97e9-ffdc82511240",
-            "clue": "Sheer fabric that diffuses the light for a photo",
-            "answer": "scrim",
-            "normalized": "scrim"
+            "id": "4780e331-0d9a-4e18-9c28-a8a1bbe311c7",
+            "clue": "Another name for the plant called cocklebur",
+            "answer": "xanthium",
+            "normalized": "xanthium"
           },
           {
-            "id": "d613d297-eaf9-4484-9b7d-1ba5c313e33e",
-            "clue": "Asserts openly",
-            "answer": "avows",
-            "normalized": "avows"
+            "id": "31ac283f-6506-46a4-901d-d937b1992ed8",
+            "clue": "Advantages or benefits",
+            "answer": "merits",
+            "normalized": "merits"
           },
           {
-            "id": "47f7387d-597c-4780-8e58-a1a3d82b755f",
-            "clue": "Place for eating in a workplace or school",
-            "answer": "cafeteria",
-            "normalized": "cafeteria"
+            "id": "51bcfab6-5464-4c37-ab43-bd0f7c13e7f1",
+            "clue": "Smitten or obsessed with",
+            "answer": "besotted",
+            "normalized": "besotted"
           },
           {
-            "id": "77a6d6a6-ec40-4c33-801d-cd5c88a87977",
-            "clue": "Last part of the Three Musketeers' motto",
-            "answer": "one for all",
-            "normalized": "oneforall"
+            "id": "0ddfedf3-d691-4f48-a6b7-f143be2cfe12",
+            "clue": "Athlete Manning, director Roth",
+            "answer": "eli",
+            "normalized": "eli"
           },
           {
-            "id": "75ac787d-ffc1-43a9-90da-1846db97ea1d",
-            "clue": "The son of The Simpsons' family",
-            "answer": "bart",
-            "normalized": "bart"
+            "id": "92a87eae-3735-406c-b2e2-aa36a3aaa005",
+            "clue": "A lump of dirt or clay",
+            "answer": "clod",
+            "normalized": "clod"
           },
           {
-            "id": "038a5a99-d0df-4a78-903a-e894e632fcb2",
-            "clue": "On the side of the ship sheltered from the wind",
-            "answer": "alee",
-            "normalized": "alee"
+            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
+            "clue": "US agency tasked with security at airports",
+            "answer": "tsa",
+            "normalized": "tsa"
           },
           {
-            "id": "630af312-ddc3-4bfe-b921-fdc4cb6dce2a",
-            "clue": "Actor Mikkelsen from Arctic and Valhalla Rising",
-            "answer": "mads",
-            "normalized": "mads"
+            "id": "8bf39e87-c7f1-4617-8be6-6a85c21c9cd1",
+            "clue": "Lift something heavy",
+            "answer": "heft",
+            "normalized": "heft"
           },
           {
-            "id": "8585ae67-4752-4806-a172-9d08fed7f54f",
-            "clue": "Short for executive",
-            "answer": "exec",
-            "normalized": "exec"
+            "id": "c3a4fcdc-f939-4541-b45f-396e76e85a96",
+            "clue": "Cubic cardboard container",
+            "answer": "box",
+            "normalized": "box"
           },
           {
-            "id": "e9d89645-94ba-4c8b-aa91-93b27988e41a",
-            "clue": "Chemical formula for aluminum monobromide",
-            "answer": "albr",
-            "normalized": "albr"
+            "id": "485ecc59-333b-46d6-a3bd-fd91f4d1212c",
+            "clue": "Applies glassy substance to surfaces",
+            "answer": "enamels",
+            "normalized": "enamels"
           },
           {
-            "id": "f194f340-5d96-4aa8-a2f5-f6d4f8b7ad5c",
-            "clue": "Hatcher the Desperate Housewife",
-            "answer": "teri",
-            "normalized": "teri"
+            "id": "1bac92b5-f1d2-489f-ada0-6ef866c13bb8",
+            "clue": "Loss of memory, usually from brain injury",
+            "answer": "amnesia",
+            "normalized": "amnesia"
           },
           {
-            "id": "21019e7a-b588-470a-ba51-abe721232063",
-            "clue": "ISO three-letter country code for Argentina",
-            "answer": "arg",
-            "normalized": "arg"
+            "id": "4218995d-ba62-460c-9de1-a0ea0777e05f",
+            "clue": "__futurism, art shaped by past ideas of the future",
+            "answer": "retro",
+            "normalized": "retro"
           },
           {
-            "id": "0d65f22b-dc5d-4088-9d5c-02b6b3b55b82",
-            "clue": "The Fresh Prince of __-Air",
-            "answer": "bel",
-            "normalized": "bel"
+            "id": "77470648-329d-4ef9-9e90-b17994990dba",
+            "clue": "Fragile state; peanut-flavoured sweet",
+            "answer": "brittle",
+            "normalized": "brittle"
           },
           {
-            "id": "0c1880ad-f08b-492c-8356-e501d4556456",
-            "clue": "Polynesian flower garland, anagram of \"lie\"",
-            "answer": "lei",
-            "normalized": "lei"
+            "id": "73657924-929b-4251-a020-26ea04b236f1",
+            "clue": "__ Pain, Faster Pussycat rock song",
+            "answer": "house of",
+            "normalized": "houseof"
           },
           {
-            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
-            "clue": "Direction halfway between east and southeast",
-            "answer": "ese",
-            "normalized": "ese"
+            "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
+            "clue": "Initialism for short-term memory",
+            "answer": "stm",
+            "normalized": "stm"
           },
           {
-            "id": "0d58cfac-3f52-4d58-a9e9-2a36f93be5ca",
-            "clue": "Beefsteak is a variety of this red salad fruit",
-            "answer": "tomato",
-            "normalized": "tomato"
+            "id": "17998b98-b3e5-4bbc-b1c5-07de8010ac0a",
+            "clue": "Rolling, clove, or half are types of this knot",
+            "answer": "hitch",
+            "normalized": "hitch"
           },
           {
-            "id": "457d587d-11bb-4fee-a28f-77aed468b100",
-            "clue": "First name of fashion designer Wang",
-            "answer": "vera",
-            "normalized": "vera"
+            "id": "28811d9f-26e3-464d-8dfd-1867711d278b",
+            "clue": "Wager",
+            "answer": "bet",
+            "normalized": "bet"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
-          },
-          {
-            "id": "c6fca852-ec86-49ca-9b00-7c10f51e14f2",
-            "clue": "__ E. Coyote, cartoon rival of the Road Runner",
-            "answer": "wile",
-            "normalized": "wile"
-          },
-          {
-            "id": "5afc8e4a-c13f-4879-a4de-279e636e6db0",
-            "clue": "Event to buy bargains",
-            "answer": "sale",
-            "normalized": "sale"
-          },
-          {
-            "id": "6729aab9-f7b9-429a-8037-4cbdfc88481d",
-            "clue": "What corn grows on",
-            "answer": "cob",
-            "normalized": "cob"
-          },
-          {
-            "id": "85033b97-e925-48e2-af0e-425574af381a",
-            "clue": "Serbian tennis player, __ Ivanovic",
-            "answer": "ana",
-            "normalized": "ana"
-          },
-          {
-            "id": "78687d42-52c9-49ca-83e3-fd92c6450842",
-            "clue": "Suffix meaning that which carries",
-            "answer": "fer",
-            "normalized": "fer"
-          },
-          {
-            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
-            "clue": "The terrestrial phase of an aquatic newt",
-            "answer": "eft",
-            "normalized": "eft"
+            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
+            "clue": "Pest spray that's banned in many countries",
+            "answer": "ddt",
+            "normalized": "ddt"
           }
         ],
-        "track": "PC|LenC--Y2026M8D31F1"
+        "track": "PC|LenC--Y2026M9D1F1"
       }
     },
     "todayPublished": true
@@ -434879,21 +434965,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "Ykdf5jsOOoyxkYAQvnK0CxEJvCXEEQFHfbrLxr7I7oaaKnno6ZJXLBhUSH3Kvc2/20OnLWK098y7QrJg6ra30OC6AT5oDjKvyWMEKLzsYuCTqB2igdLzc2N3IFYLZcDyxFjzJm8Xx/35oM9Mh8Va6OM572DMbWcQDgBbcD6pg8Qrv4rh9wJTCn6iu4/HcjpyBo+rjKmP2oLAZw2lWBSjYHLeQi/MXxLOMAcsHsv30FvkC1aAiCwINwURYmuFxATt9rZ8S4NFHK747C0xFpX2w/DdEmvj8O/vwSr6A74A+R4="
+        "hNbwpCTOZr/qzB15av2P73fHT6uIL4EsXyPEkqwrv5y6QvvMcBDerS88R6oRnYPi8NhGoDaaal2txmTfYvzNUDwlvFGO3Kt4Xb9DIhr7BAJaVUMmCTNW5V6rVzcP83cLX6jWhfz5xPRvD9+JYa+7f+8JvpilrQvNPUT2bv8vW0njIXsAHz3R/zNTYhhWjyjRkMPiFGhVenG2xRk/fMg9K8vIku/hHMX6k7TfPpKKvc0qJgiECev+fSWXkmoF6SdOMG7O09kpHwUZTPB72/ftbNOZxbZ0+LfBzVaZnts6g4w="
       ]
     },
     "decrypted": {
-      "Id": "916c0a4b-7359-487d-9e11-efa605f88bdb",
-      "Date": "2026-08-31T00:00:00Z",
+      "Id": "b96a14e7-5231-436a-bda1-f960f4b5725f",
+      "Date": "2026-09-01T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "frost",
-      "NormalizedPassword": "frost",
+      "Password": "chirp",
+      "NormalizedPassword": "chirp",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-08-31T02:47:25.3390000+05:30",
-    "hash": "5ea8b542ed430e65afd1b1df184fc921",
+    "dtu": "2026-09-01T04:27:13.9660000+05:30",
+    "hash": "758649adabef022885a87b52dd549b12",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
