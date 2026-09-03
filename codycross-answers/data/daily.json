@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T21:10:32.630Z",
+  "generatedAt": "2026-09-03T21:10:55.234Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 3
+    "day": 4
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 2
+        "QuantidadeDeFases": 4
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -4147,7 +4147,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -51781,7 +51781,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -63549,7 +63549,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -67550,7 +67550,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -71540,7 +71540,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -74594,7 +74594,7 @@
           "answers": [
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -82990,7 +82990,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             }
@@ -102996,7 +102996,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -112090,7 +112090,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -171725,7 +171725,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -198180,7 +198180,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -202929,7 +202929,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -206079,7 +206079,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -210187,7 +210187,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -223581,7 +223581,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -223753,7 +223753,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -283856,7 +283856,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -305012,7 +305012,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -320417,7 +320417,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -344524,7 +344524,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -357968,7 +357968,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -365875,7 +365875,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             },
@@ -383363,7 +383363,7 @@
             },
             {
               "id": "9034a38d-ac1c-4201-b51b-6bc705a1c517",
-              "clue": "Another word for Hebrew God",
+              "clue": "A shortened form of Yahweh",
               "answer": "jah",
               "normalized": "jah"
             }
@@ -434870,7 +434870,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             }
@@ -435042,7 +435042,7 @@
             },
             {
               "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-              "clue": "Imaging body scan for seeing soft insides",
+              "clue": "Imaging body scan for seeing soft tissues",
               "answer": "mri",
               "normalized": "mri"
             }
@@ -440685,463 +440685,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-03",
+      "key": "2026-09-04",
       "year": 2026,
       "month": 9,
-      "day": 3,
+      "day": 4,
       "small": {
-        "puzzleId": "49219601-2f87-4f01-af66-3bb8b240d818",
+        "puzzleId": "1a76088e-acce-4426-8017-426f4dc781c3",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 4,
         "answers": [
           {
-            "id": "0d814d87-b719-4c0b-9ca6-ee5837b58db0",
-            "clue": "Forward movement with one foot",
-            "answer": "step",
-            "normalized": "step"
+            "id": "fb8bc193-bc33-4723-99ca-17f7b49f742c",
+            "clue": "Sauce for chips",
+            "answer": "dip",
+            "normalized": "dip"
           },
           {
-            "id": "df933f07-6ea1-4f27-b6f9-0c2ee2b6844c",
-            "clue": "Tall, slender building",
-            "answer": "tower",
-            "normalized": "tower"
+            "id": "a5d7cb88-5950-49fb-b390-e57440689a5a",
+            "clue": "Mother __ of Calcutta, Nobel prize-winning nun",
+            "answer": "teresa",
+            "normalized": "teresa"
           },
           {
-            "id": "65877283-cac4-4cba-80ed-827a973f4696",
-            "clue": "Burning, aflame",
-            "answer": "afire",
-            "normalized": "afire"
+            "id": "6acd6249-943a-485c-8ee3-94409ef88474",
+            "clue": "They travel the world while sitting in the corner",
+            "answer": "stamps",
+            "normalized": "stamps"
           },
           {
-            "id": "a0402183-45fd-451c-a722-f598002b66a8",
-            "clue": "To remove all the coverings from, e.g. a bed",
-            "answer": "strip",
-            "normalized": "strip"
+            "id": "751c123a-909c-445a-b3d4-9e64d6930ee2",
+            "clue": "To irritate or disturb someone or something",
+            "answer": "annoy",
+            "normalized": "annoy"
           },
           {
-            "id": "5f250f1a-d45b-488a-b049-e7365995fe2a",
-            "clue": "Twin Peaks actor MacLachlan",
-            "answer": "kyle",
-            "normalized": "kyle"
+            "id": "266f9e9a-b71a-4eba-aa46-6c00c1d7d47a",
+            "clue": "Strips of fabric, tatters",
+            "answer": "rags",
+            "normalized": "rags"
           },
           {
-            "id": "1c8c8993-00a6-4b68-be06-8e4148e9e1da",
-            "clue": "Person who is sentimental, quick to sympathy",
-            "answer": "softy",
-            "normalized": "softy"
+            "id": "c4f6ccaf-77dd-42f9-a238-00bf11a931e3",
+            "clue": "Short for demonstrations",
+            "answer": "demos",
+            "normalized": "demos"
           },
           {
-            "id": "d713a72e-1bc8-4f47-93f0-d0402d24429d",
-            "clue": "To spin around quickly; rhymes with curl",
-            "answer": "twirl",
-            "normalized": "twirl"
+            "id": "d016ad2e-f249-4c80-84f8-94e4ef10d8f2",
+            "clue": "Guess the object seen with my little eye",
+            "answer": "i spy",
+            "normalized": "ispy"
           },
           {
-            "id": "15434947-ca64-4adb-8102-ab427b2b1aa1",
-            "clue": "Strange, sinister or unnatural",
-            "answer": "eerie",
-            "normalized": "eerie"
+            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
+            "clue": "__ de deux, ballet duet",
+            "answer": "pas",
+            "normalized": "pas"
           },
           {
-            "id": "49845096-f4c3-4809-babd-d38f1e5c0833",
-            "clue": "Get ready, in short",
-            "answer": "prep",
-            "normalized": "prep"
+            "id": "c9266bd7-7fd4-4d91-936d-f98a19a99c31",
+            "clue": "The most powerful nuclear weapon ever, __ Bomba",
+            "answer": "tsar",
+            "normalized": "tsar"
           },
           {
-            "id": "9a52f9ff-3f3d-4e36-bf8f-f89be44cc8a8",
-            "clue": "Assign someone with work",
-            "answer": "task",
-            "normalized": "task"
+            "id": "04a3864e-cddb-49f5-a143-b093f339d366",
+            "clue": "Sicilian volcano",
+            "answer": "etna",
+            "normalized": "etna"
+          },
+          {
+            "id": "45516b28-3054-462f-b2de-7f0706a0bb36",
+            "clue": "Called someone on the phone",
+            "answer": "rang",
+            "normalized": "rang"
           }
         ],
-        "track": "PC|LenC--Y2026M9D3F0"
+        "track": "PC|LenC--Y2026M9D4F0"
       },
       "mid": {
-        "puzzleId": "e2add608-22de-4561-a10f-8345fe081c25",
-        "fase": 1,
+        "puzzleId": "a0f09758-e0a6-4319-b39a-8ec995f61264",
+        "fase": 2,
         "size": 2,
         "status": 1,
-        "version": 9,
+        "version": 1,
         "answers": [
           {
-            "id": "65c2b7ba-a82e-40a4-9479-e1db2f99d722",
-            "clue": "China's abbreviation for the renminbi",
-            "answer": "rmb",
-            "normalized": "rmb"
+            "id": "f9888e31-e0b2-42e6-9fe7-8fa55b961b74",
+            "clue": "Initialism for spring clock adjustment in the USA",
+            "answer": "dst",
+            "normalized": "dst"
           },
           {
-            "id": "c1784a6d-5551-4138-a550-272f66baf93f",
-            "clue": "To see or notice; a dot",
-            "answer": "spot",
-            "normalized": "spot"
+            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
+            "clue": "Abbreviation for electronic benefit transfer",
+            "answer": "ebt",
+            "normalized": "ebt"
           },
           {
-            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
-            "clue": "Equal employment opportunity, initialism",
-            "answer": "eeo",
-            "normalized": "eeo"
+            "id": "0e61f696-c691-46cb-9edf-187d40eaaf4b",
+            "clue": "Prefix preceding -taph and -logue",
+            "answer": "epi",
+            "normalized": "epi"
           },
           {
-            "id": "bfdec99d-d97d-43a7-b482-875ccf466ae0",
-            "clue": "Celebrated on Valentine's Day",
-            "answer": "love",
-            "normalized": "love"
+            "id": "1d6d99dc-b58e-4efa-91b0-b8a47744e4bb",
+            "clue": "Woman around whom others gather, defer to",
+            "answer": "queen bee",
+            "normalized": "queenbee"
           },
           {
-            "id": "ba938f7e-5cec-40fd-89be-7c364f31dce1",
-            "clue": "Greenland's alpha-3 code",
-            "answer": "grl",
-            "normalized": "grl"
+            "id": "39b4ec83-d8b0-4fc2-9fc6-e922731a353e",
+            "clue": "Not altered ahead of publication",
+            "answer": "unedited",
+            "normalized": "unedited"
           },
           {
-            "id": "03bd7701-c495-4ebe-a5ec-28c0e6b8a49b",
-            "clue": "Galena and haematite",
-            "answer": "ores",
-            "normalized": "ores"
+            "id": "d4f31267-245f-4cb3-94e3-ed0e9faadf0a",
+            "clue": "Term for a shop that deals with fixing cars",
+            "answer": "auto body",
+            "normalized": "autobody"
           },
           {
-            "id": "2feb0eee-55b0-4850-8a48-757f379e7d15",
-            "clue": "Obstructs",
-            "answer": "cumbers",
-            "normalized": "cumbers"
+            "id": "9934259f-4bc5-48e5-b95a-4eff6a412b5b",
+            "clue": "Martial arts master Bruce __",
+            "answer": "lee",
+            "normalized": "lee"
           },
           {
-            "id": "b31842ab-5533-4e9c-b31a-e5b51e1b6496",
-            "clue": "National Park in Surat Thani Province, Thailand",
-            "answer": "khao sok",
-            "normalized": "khaosok"
+            "id": "18689205-3e0b-46d9-aa94-ddedcee3c9fd",
+            "clue": "Another name for fish eggs; a kind of small deer",
+            "answer": "roe",
+            "normalized": "roe"
           },
           {
-            "id": "971d047b-0584-4ab7-baf1-ee7cfcdb2f7c",
-            "clue": "A legal guardian watches out for one",
-            "answer": "ward",
-            "normalized": "ward"
+            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
+            "clue": "Camera with a particular kind of lens",
+            "answer": "slr",
+            "normalized": "slr"
           },
           {
-            "id": "898e0fcb-8f61-4c72-8708-2b6a94c05772",
-            "clue": "Seven in Roman numerals",
-            "answer": "vii",
-            "normalized": "vii"
+            "id": "bb87f72f-88c4-4f74-abab-08df1214511e",
+            "clue": "Someone who owes money",
+            "answer": "debtor",
+            "normalized": "debtor"
           },
           {
-            "id": "ede35753-03b9-4281-b8fc-26bb7ec923e5",
-            "clue": "Raise the stakes; up the __",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "5d442d22-e2bf-4b8a-acdd-3036d68d287a",
+            "clue": "Male swimsuit popular in Europe, not so much in US",
+            "answer": "speedo",
+            "normalized": "speedo"
           },
           {
-            "id": "1fcf7fde-9938-40ec-904e-f8518cab4563",
-            "clue": "Santa's little helper",
-            "answer": "elf",
-            "normalized": "elf"
+            "id": "bbd482e4-fa5c-449b-871f-b1fc0f864e8c",
+            "clue": "1970s clothing looked like it had run in the wash",
+            "answer": "tie dye",
+            "normalized": "tiedye"
           },
           {
-            "id": "4b0f8371-380a-4922-8a4b-1182bb7fccc0",
-            "clue": "Article in a newspaper; romantic couple",
-            "answer": "item",
-            "normalized": "item"
+            "id": "baf444df-0fe3-4db8-bb94-7fb1602c6f92",
+            "clue": "Mathematical sign meaning the same as",
+            "answer": "equals",
+            "normalized": "equals"
           },
           {
-            "id": "f7eff1fc-1795-41c6-86a0-42a675e0d4b8",
-            "clue": "Restless leg syndrome for short",
-            "answer": "rls",
-            "normalized": "rls"
+            "id": "c42ed7dc-12f7-41a9-9d0b-1a5044d5a32d",
+            "clue": "Director Luis of Un Chien Andalou with Dalí",
+            "answer": "bunuel",
+            "normalized": "bunuel"
           },
           {
-            "id": "42b4b243-3f2e-47ff-9886-d392209f3577",
-            "clue": "Short name for Reginald",
-            "answer": "reg",
-            "normalized": "reg"
+            "id": "9a27c2d0-5307-42df-9913-f24a808ca092",
+            "clue": "Wobble to and fro, e.g. on high heels",
+            "answer": "teeter",
+            "normalized": "teeter"
           },
           {
-            "id": "03c9fd1d-6e3d-42ef-aaaa-dba51e12751d",
-            "clue": "Person who runs a shop or retail business",
-            "answer": "merchant",
-            "normalized": "merchant"
+            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
+            "clue": "Former name of Tokyo",
+            "answer": "edo",
+            "normalized": "edo"
           },
           {
-            "id": "0fd04b74-70c1-4c2f-8a6c-ea46677652a0",
-            "clue": "Dina, became Peruvian president in December 2022",
-            "answer": "boluarte",
-            "normalized": "boluarte"
-          },
-          {
-            "id": "4a0a7469-6816-487c-bf97-f88b692db77f",
-            "clue": "Bums, couch potatoes",
-            "answer": "slobs",
-            "normalized": "slobs"
-          },
-          {
-            "id": "22febb8d-da8f-44d0-b0db-7dbeb04c605a",
-            "clue": "Scrutinise, examine closely",
-            "answer": "pore over",
-            "normalized": "poreover"
-          },
-          {
-            "id": "3538f744-ec3b-4998-ab28-8bb3c206bb7b",
-            "clue": "More of something than is necessary; excess",
-            "answer": "overkill",
-            "normalized": "overkill"
-          },
-          {
-            "id": "028c1ab3-8615-413c-a5e2-239bc38bc26d",
-            "clue": "Hardy heroine of the d'Urbervilles",
-            "answer": "tess",
-            "normalized": "tess"
-          },
-          {
-            "id": "141500fd-c53b-43c6-8f8e-12a6c3fd9b71",
-            "clue": "Gismo that connects PC to internet",
-            "answer": "modem",
-            "normalized": "modem"
-          },
-          {
-            "id": "1a963629-40c0-4649-84ee-415d6b249b91",
-            "clue": "The Bridge Over The River __, Pierre Boulle novel",
-            "answer": "kwai",
-            "normalized": "kwai"
-          },
-          {
-            "id": "ab440ef1-461f-456d-97cb-7a9769318ebd",
-            "clue": "No __, ands or buts",
-            "answer": "ifs",
-            "normalized": "ifs"
+            "id": "310955fb-e544-4e76-8dad-42a8e88df50f",
+            "clue": "The very end of a pen, for writing with",
+            "answer": "nib",
+            "normalized": "nib"
           }
         ],
-        "track": "PC|LenC--Y2026M9D3F1"
+        "track": "PC|LenC--Y2026M9D4F2"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-03",
+      "key": "2026-09-04",
       "year": 2026,
       "month": 9,
-      "day": 3,
+      "day": 4,
       "small": {
-        "puzzleId": "49219601-2f87-4f01-af66-3bb8b240d818",
+        "puzzleId": "1a76088e-acce-4426-8017-426f4dc781c3",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 4,
         "answers": [
           {
-            "id": "0d814d87-b719-4c0b-9ca6-ee5837b58db0",
-            "clue": "Forward movement with one foot",
-            "answer": "step",
-            "normalized": "step"
+            "id": "fb8bc193-bc33-4723-99ca-17f7b49f742c",
+            "clue": "Sauce for chips",
+            "answer": "dip",
+            "normalized": "dip"
           },
           {
-            "id": "df933f07-6ea1-4f27-b6f9-0c2ee2b6844c",
-            "clue": "Tall, slender building",
-            "answer": "tower",
-            "normalized": "tower"
+            "id": "a5d7cb88-5950-49fb-b390-e57440689a5a",
+            "clue": "Mother __ of Calcutta, Nobel prize-winning nun",
+            "answer": "teresa",
+            "normalized": "teresa"
           },
           {
-            "id": "65877283-cac4-4cba-80ed-827a973f4696",
-            "clue": "Burning, aflame",
-            "answer": "afire",
-            "normalized": "afire"
+            "id": "6acd6249-943a-485c-8ee3-94409ef88474",
+            "clue": "They travel the world while sitting in the corner",
+            "answer": "stamps",
+            "normalized": "stamps"
           },
           {
-            "id": "a0402183-45fd-451c-a722-f598002b66a8",
-            "clue": "To remove all the coverings from, e.g. a bed",
-            "answer": "strip",
-            "normalized": "strip"
+            "id": "751c123a-909c-445a-b3d4-9e64d6930ee2",
+            "clue": "To irritate or disturb someone or something",
+            "answer": "annoy",
+            "normalized": "annoy"
           },
           {
-            "id": "5f250f1a-d45b-488a-b049-e7365995fe2a",
-            "clue": "Twin Peaks actor MacLachlan",
-            "answer": "kyle",
-            "normalized": "kyle"
+            "id": "266f9e9a-b71a-4eba-aa46-6c00c1d7d47a",
+            "clue": "Strips of fabric, tatters",
+            "answer": "rags",
+            "normalized": "rags"
           },
           {
-            "id": "1c8c8993-00a6-4b68-be06-8e4148e9e1da",
-            "clue": "Person who is sentimental, quick to sympathy",
-            "answer": "softy",
-            "normalized": "softy"
+            "id": "c4f6ccaf-77dd-42f9-a238-00bf11a931e3",
+            "clue": "Short for demonstrations",
+            "answer": "demos",
+            "normalized": "demos"
           },
           {
-            "id": "d713a72e-1bc8-4f47-93f0-d0402d24429d",
-            "clue": "To spin around quickly; rhymes with curl",
-            "answer": "twirl",
-            "normalized": "twirl"
+            "id": "d016ad2e-f249-4c80-84f8-94e4ef10d8f2",
+            "clue": "Guess the object seen with my little eye",
+            "answer": "i spy",
+            "normalized": "ispy"
           },
           {
-            "id": "15434947-ca64-4adb-8102-ab427b2b1aa1",
-            "clue": "Strange, sinister or unnatural",
-            "answer": "eerie",
-            "normalized": "eerie"
+            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
+            "clue": "__ de deux, ballet duet",
+            "answer": "pas",
+            "normalized": "pas"
           },
           {
-            "id": "49845096-f4c3-4809-babd-d38f1e5c0833",
-            "clue": "Get ready, in short",
-            "answer": "prep",
-            "normalized": "prep"
+            "id": "c9266bd7-7fd4-4d91-936d-f98a19a99c31",
+            "clue": "The most powerful nuclear weapon ever, __ Bomba",
+            "answer": "tsar",
+            "normalized": "tsar"
           },
           {
-            "id": "9a52f9ff-3f3d-4e36-bf8f-f89be44cc8a8",
-            "clue": "Assign someone with work",
-            "answer": "task",
-            "normalized": "task"
+            "id": "04a3864e-cddb-49f5-a143-b093f339d366",
+            "clue": "Sicilian volcano",
+            "answer": "etna",
+            "normalized": "etna"
+          },
+          {
+            "id": "45516b28-3054-462f-b2de-7f0706a0bb36",
+            "clue": "Called someone on the phone",
+            "answer": "rang",
+            "normalized": "rang"
           }
         ],
-        "track": "PC|LenC--Y2026M9D3F0"
+        "track": "PC|LenC--Y2026M9D4F0"
       },
       "mid": {
-        "puzzleId": "e2add608-22de-4561-a10f-8345fe081c25",
-        "fase": 1,
+        "puzzleId": "a0f09758-e0a6-4319-b39a-8ec995f61264",
+        "fase": 2,
         "size": 2,
         "status": 1,
-        "version": 9,
+        "version": 1,
         "answers": [
           {
-            "id": "65c2b7ba-a82e-40a4-9479-e1db2f99d722",
-            "clue": "China's abbreviation for the renminbi",
-            "answer": "rmb",
-            "normalized": "rmb"
+            "id": "f9888e31-e0b2-42e6-9fe7-8fa55b961b74",
+            "clue": "Initialism for spring clock adjustment in the USA",
+            "answer": "dst",
+            "normalized": "dst"
           },
           {
-            "id": "c1784a6d-5551-4138-a550-272f66baf93f",
-            "clue": "To see or notice; a dot",
-            "answer": "spot",
-            "normalized": "spot"
+            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
+            "clue": "Abbreviation for electronic benefit transfer",
+            "answer": "ebt",
+            "normalized": "ebt"
           },
           {
-            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
-            "clue": "Equal employment opportunity, initialism",
-            "answer": "eeo",
-            "normalized": "eeo"
+            "id": "0e61f696-c691-46cb-9edf-187d40eaaf4b",
+            "clue": "Prefix preceding -taph and -logue",
+            "answer": "epi",
+            "normalized": "epi"
           },
           {
-            "id": "bfdec99d-d97d-43a7-b482-875ccf466ae0",
-            "clue": "Celebrated on Valentine's Day",
-            "answer": "love",
-            "normalized": "love"
+            "id": "1d6d99dc-b58e-4efa-91b0-b8a47744e4bb",
+            "clue": "Woman around whom others gather, defer to",
+            "answer": "queen bee",
+            "normalized": "queenbee"
           },
           {
-            "id": "ba938f7e-5cec-40fd-89be-7c364f31dce1",
-            "clue": "Greenland's alpha-3 code",
-            "answer": "grl",
-            "normalized": "grl"
+            "id": "39b4ec83-d8b0-4fc2-9fc6-e922731a353e",
+            "clue": "Not altered ahead of publication",
+            "answer": "unedited",
+            "normalized": "unedited"
           },
           {
-            "id": "03bd7701-c495-4ebe-a5ec-28c0e6b8a49b",
-            "clue": "Galena and haematite",
-            "answer": "ores",
-            "normalized": "ores"
+            "id": "d4f31267-245f-4cb3-94e3-ed0e9faadf0a",
+            "clue": "Term for a shop that deals with fixing cars",
+            "answer": "auto body",
+            "normalized": "autobody"
           },
           {
-            "id": "2feb0eee-55b0-4850-8a48-757f379e7d15",
-            "clue": "Obstructs",
-            "answer": "cumbers",
-            "normalized": "cumbers"
+            "id": "9934259f-4bc5-48e5-b95a-4eff6a412b5b",
+            "clue": "Martial arts master Bruce __",
+            "answer": "lee",
+            "normalized": "lee"
           },
           {
-            "id": "b31842ab-5533-4e9c-b31a-e5b51e1b6496",
-            "clue": "National Park in Surat Thani Province, Thailand",
-            "answer": "khao sok",
-            "normalized": "khaosok"
+            "id": "18689205-3e0b-46d9-aa94-ddedcee3c9fd",
+            "clue": "Another name for fish eggs; a kind of small deer",
+            "answer": "roe",
+            "normalized": "roe"
           },
           {
-            "id": "971d047b-0584-4ab7-baf1-ee7cfcdb2f7c",
-            "clue": "A legal guardian watches out for one",
-            "answer": "ward",
-            "normalized": "ward"
+            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
+            "clue": "Camera with a particular kind of lens",
+            "answer": "slr",
+            "normalized": "slr"
           },
           {
-            "id": "898e0fcb-8f61-4c72-8708-2b6a94c05772",
-            "clue": "Seven in Roman numerals",
-            "answer": "vii",
-            "normalized": "vii"
+            "id": "bb87f72f-88c4-4f74-abab-08df1214511e",
+            "clue": "Someone who owes money",
+            "answer": "debtor",
+            "normalized": "debtor"
           },
           {
-            "id": "ede35753-03b9-4281-b8fc-26bb7ec923e5",
-            "clue": "Raise the stakes; up the __",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "5d442d22-e2bf-4b8a-acdd-3036d68d287a",
+            "clue": "Male swimsuit popular in Europe, not so much in US",
+            "answer": "speedo",
+            "normalized": "speedo"
           },
           {
-            "id": "1fcf7fde-9938-40ec-904e-f8518cab4563",
-            "clue": "Santa's little helper",
-            "answer": "elf",
-            "normalized": "elf"
+            "id": "bbd482e4-fa5c-449b-871f-b1fc0f864e8c",
+            "clue": "1970s clothing looked like it had run in the wash",
+            "answer": "tie dye",
+            "normalized": "tiedye"
           },
           {
-            "id": "4b0f8371-380a-4922-8a4b-1182bb7fccc0",
-            "clue": "Article in a newspaper; romantic couple",
-            "answer": "item",
-            "normalized": "item"
+            "id": "baf444df-0fe3-4db8-bb94-7fb1602c6f92",
+            "clue": "Mathematical sign meaning the same as",
+            "answer": "equals",
+            "normalized": "equals"
           },
           {
-            "id": "f7eff1fc-1795-41c6-86a0-42a675e0d4b8",
-            "clue": "Restless leg syndrome for short",
-            "answer": "rls",
-            "normalized": "rls"
+            "id": "c42ed7dc-12f7-41a9-9d0b-1a5044d5a32d",
+            "clue": "Director Luis of Un Chien Andalou with Dalí",
+            "answer": "bunuel",
+            "normalized": "bunuel"
           },
           {
-            "id": "42b4b243-3f2e-47ff-9886-d392209f3577",
-            "clue": "Short name for Reginald",
-            "answer": "reg",
-            "normalized": "reg"
+            "id": "9a27c2d0-5307-42df-9913-f24a808ca092",
+            "clue": "Wobble to and fro, e.g. on high heels",
+            "answer": "teeter",
+            "normalized": "teeter"
           },
           {
-            "id": "03c9fd1d-6e3d-42ef-aaaa-dba51e12751d",
-            "clue": "Person who runs a shop or retail business",
-            "answer": "merchant",
-            "normalized": "merchant"
+            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
+            "clue": "Former name of Tokyo",
+            "answer": "edo",
+            "normalized": "edo"
           },
           {
-            "id": "0fd04b74-70c1-4c2f-8a6c-ea46677652a0",
-            "clue": "Dina, became Peruvian president in December 2022",
-            "answer": "boluarte",
-            "normalized": "boluarte"
-          },
-          {
-            "id": "4a0a7469-6816-487c-bf97-f88b692db77f",
-            "clue": "Bums, couch potatoes",
-            "answer": "slobs",
-            "normalized": "slobs"
-          },
-          {
-            "id": "22febb8d-da8f-44d0-b0db-7dbeb04c605a",
-            "clue": "Scrutinise, examine closely",
-            "answer": "pore over",
-            "normalized": "poreover"
-          },
-          {
-            "id": "3538f744-ec3b-4998-ab28-8bb3c206bb7b",
-            "clue": "More of something than is necessary; excess",
-            "answer": "overkill",
-            "normalized": "overkill"
-          },
-          {
-            "id": "028c1ab3-8615-413c-a5e2-239bc38bc26d",
-            "clue": "Hardy heroine of the d'Urbervilles",
-            "answer": "tess",
-            "normalized": "tess"
-          },
-          {
-            "id": "141500fd-c53b-43c6-8f8e-12a6c3fd9b71",
-            "clue": "Gismo that connects PC to internet",
-            "answer": "modem",
-            "normalized": "modem"
-          },
-          {
-            "id": "1a963629-40c0-4649-84ee-415d6b249b91",
-            "clue": "The Bridge Over The River __, Pierre Boulle novel",
-            "answer": "kwai",
-            "normalized": "kwai"
-          },
-          {
-            "id": "ab440ef1-461f-456d-97cb-7a9769318ebd",
-            "clue": "No __, ands or buts",
-            "answer": "ifs",
-            "normalized": "ifs"
+            "id": "310955fb-e544-4e76-8dad-42a8e88df50f",
+            "clue": "The very end of a pen, for writing with",
+            "answer": "nib",
+            "normalized": "nib"
           }
         ],
-        "track": "PC|LenC--Y2026M9D3F1"
+        "track": "PC|LenC--Y2026M9D4F2"
       }
     },
     "latestAvailableEntry": {
@@ -441347,21 +441275,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "dSegmpT7cFCTjeH+nk66oEjcGPRiWieRgkqoLTrlayvRH8QjScFbdjQjNv5vX3ZVKSwfTPmyegRDB0fasavfR/kvYRMid0RUFKJ/deJf04zV0gygkG6eJDvt8NHcRdRvQM/rtURXTYLrxF2k9wFq6bjbTf/P3bSYuduPRO9Cc4e5bkWCdlpJHoV926tIL0mC/q+QxYYP9PziNHzuVuiNbiapufdvMDNEb6/XHTpOzt3it0wo6bgRNYVEafQB/LCl6xfkoA76AKnZKDD0+Cd2xVKEAGjFg0sAD8G/z3CbxWE="
+        "ZpCynOXB2exh2uK3Jkbeyku403JEnEnuoJvJdM0x2kggWiOkFt0Ch7VhK/Z6GGujL64phiwVfg+btsm9LA+S6Epn/5Co7bbEw+kn1u5QRB7mV9KECw9Iygz/QO/RN2AvOAXf5LW+sBvLdwL26mm7k0LAS3Q7scm7T443EMhB06Y4AlT3gnAlsnHa1qB4eGKDwpRzIJjObeWrajdJi+B5ogrfnbSpfIFegnpRvHRG+zJNjyqtx4ihyJYHGyVOU0KFZfn0VPypPUaJ3e9IeV2Ih4LKjI6+V4pEkrFD+b11ye8="
       ]
     },
     "decrypted": {
-      "Id": "a9327ae2-925f-4e87-a74c-418ab27e3d57",
-      "Date": "2026-09-03T00:00:00Z",
+      "Id": "7937ca0e-a4aa-4de9-8c2c-c2e20b1b8bf2",
+      "Date": "2026-09-04T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "wafer",
-      "NormalizedPassword": "wafer",
+      "Password": "bushy",
+      "NormalizedPassword": "bushy",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-03T02:40:32.6300000+05:30",
-    "hash": "fc5c7e46d0290d591d81c8e841919271",
+    "dtu": "2026-09-04T02:40:55.2340000+05:30",
+    "hash": "81be7290bf365cd176ea135fb7da778f",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
