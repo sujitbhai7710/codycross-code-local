@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T21:10:55.234Z",
+  "generatedAt": "2026-09-04T20:53:48.848Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 4
+    "day": 5
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 4
+        "QuantidadeDeFases": 6
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -30102,7 +30102,7 @@
             },
             {
               "id": "0c900483-24cd-4658-91ed-4e995d2b1fed",
-              "clue": "From an ancient Andean South American tribe",
+              "clue": "From an ancient Andean South American empire",
               "answer": "incan",
               "normalized": "incan"
             },
@@ -65978,7 +65978,7 @@
             },
             {
               "id": "0c900483-24cd-4658-91ed-4e995d2b1fed",
-              "clue": "From an ancient Andean South American tribe",
+              "clue": "From an ancient Andean South American empire",
               "answer": "incan",
               "normalized": "incan"
             },
@@ -70732,7 +70732,7 @@
             },
             {
               "id": "0c900483-24cd-4658-91ed-4e995d2b1fed",
-              "clue": "From an ancient Andean South American tribe",
+              "clue": "From an ancient Andean South American empire",
               "answer": "incan",
               "normalized": "incan"
             },
@@ -155810,7 +155810,7 @@
             },
             {
               "id": "0c900483-24cd-4658-91ed-4e995d2b1fed",
-              "clue": "From an ancient Andean South American tribe",
+              "clue": "From an ancient Andean South American empire",
               "answer": "incan",
               "normalized": "incan"
             },
@@ -240919,7 +240919,7 @@
             },
             {
               "id": "0c900483-24cd-4658-91ed-4e995d2b1fed",
-              "clue": "From an ancient Andean South American tribe",
+              "clue": "From an ancient Andean South American empire",
               "answer": "incan",
               "normalized": "incan"
             },
@@ -291385,7 +291385,7 @@
             },
             {
               "id": "0c900483-24cd-4658-91ed-4e995d2b1fed",
-              "clue": "From an ancient Andean South American tribe",
+              "clue": "From an ancient Andean South American empire",
               "answer": "incan",
               "normalized": "incan"
             },
@@ -416061,7 +416061,7 @@
             },
             {
               "id": "0c900483-24cd-4658-91ed-4e995d2b1fed",
-              "clue": "From an ancient Andean South American tribe",
+              "clue": "From an ancient Andean South American empire",
               "answer": "incan",
               "normalized": "incan"
             },
@@ -440685,391 +440685,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-04",
+      "key": "2026-09-05",
       "year": 2026,
       "month": 9,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "1a76088e-acce-4426-8017-426f4dc781c3",
+        "puzzleId": "c1c3332f-50d6-4aae-9289-9475807a7147",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 4,
         "answers": [
           {
-            "id": "fb8bc193-bc33-4723-99ca-17f7b49f742c",
-            "clue": "Sauce for chips",
-            "answer": "dip",
-            "normalized": "dip"
+            "id": "02309e49-109c-4b60-a7dd-9e7d1772ff40",
+            "clue": "Taxi",
+            "answer": "cab",
+            "normalized": "cab"
           },
           {
-            "id": "a5d7cb88-5950-49fb-b390-e57440689a5a",
-            "clue": "Mother __ of Calcutta, Nobel prize-winning nun",
-            "answer": "teresa",
-            "normalized": "teresa"
+            "id": "0bc48978-9693-44ee-bc89-bcf800f3a22d",
+            "clue": "The B in BLT",
+            "answer": "bacon",
+            "normalized": "bacon"
           },
           {
-            "id": "6acd6249-943a-485c-8ee3-94409ef88474",
-            "clue": "They travel the world while sitting in the corner",
-            "answer": "stamps",
-            "normalized": "stamps"
+            "id": "3d2bb747-12ff-42cf-9411-2b066421cd0f",
+            "clue": "German artillery used in WWI: Big __",
+            "answer": "bertha",
+            "normalized": "bertha"
           },
           {
-            "id": "751c123a-909c-445a-b3d4-9e64d6930ee2",
-            "clue": "To irritate or disturb someone or something",
-            "answer": "annoy",
-            "normalized": "annoy"
+            "id": "09f16a00-f205-4737-999b-fcada01c5de6",
+            "clue": "Word that modifies verbs or clauses",
+            "answer": "adverb",
+            "normalized": "adverb"
           },
           {
-            "id": "266f9e9a-b71a-4eba-aa46-6c00c1d7d47a",
-            "clue": "Strips of fabric, tatters",
-            "answer": "rags",
-            "normalized": "rags"
+            "id": "e8a7ff57-64f5-496d-82a9-801faeab5ea3",
+            "clue": "Previously owned",
+            "answer": "used",
+            "normalized": "used"
           },
           {
-            "id": "c4f6ccaf-77dd-42f9-a238-00bf11a931e3",
-            "clue": "Short for demonstrations",
-            "answer": "demos",
-            "normalized": "demos"
+            "id": "83279e4c-d67a-46a1-8bd0-f1621e92fa89",
+            "clue": "Pumpkin craft for Halloween lantern",
+            "answer": "carve",
+            "normalized": "carve"
           },
           {
-            "id": "d016ad2e-f249-4c80-84f8-94e4ef10d8f2",
-            "clue": "Guess the object seen with my little eye",
-            "answer": "i spy",
-            "normalized": "ispy"
+            "id": "e63c81ee-cc24-40fa-b306-e70005a05538",
+            "clue": "Performed managerial duties in someone's absence",
+            "answer": "acted",
+            "normalized": "acted"
           },
           {
-            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
-            "clue": "__ de deux, ballet duet",
-            "answer": "pas",
-            "normalized": "pas"
+            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
+            "clue": "Danish Nobel Prize-winning physicist, Niels",
+            "answer": "bohr",
+            "normalized": "bohr"
           },
           {
-            "id": "c9266bd7-7fd4-4d91-936d-f98a19a99c31",
-            "clue": "The most powerful nuclear weapon ever, __ Bomba",
-            "answer": "tsar",
-            "normalized": "tsar"
+            "id": "09bd7919-50da-4af5-81c1-295da5abbafe",
+            "clue": "Places to sleep that could be king-sized",
+            "answer": "beds",
+            "normalized": "beds"
           },
           {
-            "id": "04a3864e-cddb-49f5-a143-b093f339d366",
-            "clue": "Sicilian volcano",
-            "answer": "etna",
-            "normalized": "etna"
+            "id": "a15eddfd-c211-4c30-af4e-84568519d690",
+            "clue": "Seize something or someone, such as a thief",
+            "answer": "nab",
+            "normalized": "nab"
           },
           {
-            "id": "45516b28-3054-462f-b2de-7f0706a0bb36",
-            "clue": "Called someone on the phone",
-            "answer": "rang",
-            "normalized": "rang"
+            "id": "891f31b7-ca61-4150-bad3-627ede62ff38",
+            "clue": "Abbreviation for regular business operations",
+            "answer": "bau",
+            "normalized": "bau"
           }
         ],
-        "track": "PC|LenC--Y2026M9D4F0"
+        "track": "PC|LenC--Y2026M9D5F0"
       },
       "mid": {
-        "puzzleId": "a0f09758-e0a6-4319-b39a-8ec995f61264",
-        "fase": 2,
+        "puzzleId": "bee9fbad-72ca-4b7a-a4ea-74c166f97361",
+        "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 6,
         "answers": [
           {
-            "id": "f9888e31-e0b2-42e6-9fe7-8fa55b961b74",
-            "clue": "Initialism for spring clock adjustment in the USA",
-            "answer": "dst",
-            "normalized": "dst"
+            "id": "5f82d6cf-fdf2-409a-862a-f848d0386c52",
+            "clue": "Short for a brother or a sister",
+            "answer": "sib",
+            "normalized": "sib"
           },
           {
-            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
-            "clue": "Abbreviation for electronic benefit transfer",
-            "answer": "ebt",
-            "normalized": "ebt"
+            "id": "8dd24b64-5c1a-4419-8576-f579f60e4e3b",
+            "clue": "Peacock feathers",
+            "answer": "plumes",
+            "normalized": "plumes"
           },
           {
-            "id": "0e61f696-c691-46cb-9edf-187d40eaaf4b",
-            "clue": "Prefix preceding -taph and -logue",
-            "answer": "epi",
-            "normalized": "epi"
+            "id": "429918d8-8199-49ef-9eba-49ba4be4d19e",
+            "clue": "Organization that raises money for those in need",
+            "answer": "charity",
+            "normalized": "charity"
           },
           {
-            "id": "1d6d99dc-b58e-4efa-91b0-b8a47744e4bb",
-            "clue": "Woman around whom others gather, defer to",
-            "answer": "queen bee",
-            "normalized": "queenbee"
+            "id": "1e4deca9-1287-4e78-aef7-30d4813a6970",
+            "clue": "Cut branches off a tree or bush",
+            "answer": "lop",
+            "normalized": "lop"
           },
           {
-            "id": "39b4ec83-d8b0-4fc2-9fc6-e922731a353e",
-            "clue": "Not altered ahead of publication",
-            "answer": "unedited",
-            "normalized": "unedited"
+            "id": "490521a8-a08a-48f7-87c9-eaa20d0a02bc",
+            "clue": "This Man in the Land of Oz wanted a heart",
+            "answer": "tin",
+            "normalized": "tin"
           },
           {
-            "id": "d4f31267-245f-4cb3-94e3-ed0e9faadf0a",
-            "clue": "Term for a shop that deals with fixing cars",
-            "answer": "auto body",
-            "normalized": "autobody"
+            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
+            "clue": "Army insect that can be fire or leafcutter",
+            "answer": "ant",
+            "normalized": "ant"
           },
           {
-            "id": "9934259f-4bc5-48e5-b95a-4eff6a412b5b",
-            "clue": "Martial arts master Bruce __",
-            "answer": "lee",
-            "normalized": "lee"
+            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
+            "clue": "Shakespeare's much fuss about nothing",
+            "answer": "ado",
+            "normalized": "ado"
           },
           {
-            "id": "18689205-3e0b-46d9-aa94-ddedcee3c9fd",
-            "clue": "Another name for fish eggs; a kind of small deer",
-            "answer": "roe",
-            "normalized": "roe"
+            "id": "83b7a0d4-3036-485c-a03b-770694cc61fe",
+            "clue": "Downloaded illegally",
+            "answer": "pirated",
+            "normalized": "pirated"
           },
           {
-            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
-            "clue": "Camera with a particular kind of lens",
-            "answer": "slr",
-            "normalized": "slr"
+            "id": "4f84c081-b380-4da9-b322-e75c298d1528",
+            "clue": "Caught or trapped",
+            "answer": "snared",
+            "normalized": "snared"
           },
           {
-            "id": "bb87f72f-88c4-4f74-abab-08df1214511e",
-            "clue": "Someone who owes money",
-            "answer": "debtor",
-            "normalized": "debtor"
+            "id": "a084dafd-561a-438f-a00e-f06940ab55c8",
+            "clue": "Workout room",
+            "answer": "gym",
+            "normalized": "gym"
           },
           {
-            "id": "5d442d22-e2bf-4b8a-acdd-3036d68d287a",
-            "clue": "Male swimsuit popular in Europe, not so much in US",
-            "answer": "speedo",
-            "normalized": "speedo"
+            "id": "fcbb564a-926c-4b8c-8374-d117274d1315",
+            "clue": "Mountainous California region, Big __",
+            "answer": "sur",
+            "normalized": "sur"
           },
           {
-            "id": "bbd482e4-fa5c-449b-871f-b1fc0f864e8c",
-            "clue": "1970s clothing looked like it had run in the wash",
-            "answer": "tie dye",
-            "normalized": "tiedye"
+            "id": "1c6a28d1-2a0f-4fed-b71a-4fe482064a72",
+            "clue": "To copy what someone else is doing",
+            "answer": "imitate",
+            "normalized": "imitate"
           },
           {
-            "id": "baf444df-0fe3-4db8-bb94-7fb1602c6f92",
-            "clue": "Mathematical sign meaning the same as",
-            "answer": "equals",
-            "normalized": "equals"
+            "id": "065a3286-d6e2-46fa-a80f-e174f86105f9",
+            "clue": "Came about",
+            "answer": "betided",
+            "normalized": "betided"
           },
           {
-            "id": "c42ed7dc-12f7-41a9-9d0b-1a5044d5a32d",
-            "clue": "Director Luis of Un Chien Andalou with Dalí",
-            "answer": "bunuel",
-            "normalized": "bunuel"
+            "id": "a0a1d385-843a-4e82-8afc-5e62c6b9a06c",
+            "clue": "Calling someone using a handheld device",
+            "answer": "phoning",
+            "normalized": "phoning"
           },
           {
-            "id": "9a27c2d0-5307-42df-9913-f24a808ca092",
-            "clue": "Wobble to and fro, e.g. on high heels",
-            "answer": "teeter",
-            "normalized": "teeter"
+            "id": "493ff869-3fe6-4f6d-afe4-e825763981f1",
+            "clue": "Flat surface for eating from in bed",
+            "answer": "lap tray",
+            "normalized": "laptray"
           },
           {
-            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
-            "clue": "Former name of Tokyo",
-            "answer": "edo",
-            "normalized": "edo"
+            "id": "fa75e671-01a3-441f-9f7e-6d346a4156c1",
+            "clue": "Church assembly for debating doctrines of faith",
+            "answer": "synod",
+            "normalized": "synod"
           },
           {
-            "id": "310955fb-e544-4e76-8dad-42a8e88df50f",
-            "clue": "The very end of a pen, for writing with",
-            "answer": "nib",
-            "normalized": "nib"
+            "id": "4bed1373-4731-4581-9ae8-7b24392728ed",
+            "clue": "Thunder crashes",
+            "answer": "claps",
+            "normalized": "claps"
+          },
+          {
+            "id": "66485089-37ab-4202-9407-05018bf97cdc",
+            "clue": "A limb with fingers",
+            "answer": "arm",
+            "normalized": "arm"
           }
         ],
-        "track": "PC|LenC--Y2026M9D4F2"
+        "track": "PC|LenC--Y2026M9D5F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-04",
+      "key": "2026-09-05",
       "year": 2026,
       "month": 9,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "1a76088e-acce-4426-8017-426f4dc781c3",
+        "puzzleId": "c1c3332f-50d6-4aae-9289-9475807a7147",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 4,
         "answers": [
           {
-            "id": "fb8bc193-bc33-4723-99ca-17f7b49f742c",
-            "clue": "Sauce for chips",
-            "answer": "dip",
-            "normalized": "dip"
+            "id": "02309e49-109c-4b60-a7dd-9e7d1772ff40",
+            "clue": "Taxi",
+            "answer": "cab",
+            "normalized": "cab"
           },
           {
-            "id": "a5d7cb88-5950-49fb-b390-e57440689a5a",
-            "clue": "Mother __ of Calcutta, Nobel prize-winning nun",
-            "answer": "teresa",
-            "normalized": "teresa"
+            "id": "0bc48978-9693-44ee-bc89-bcf800f3a22d",
+            "clue": "The B in BLT",
+            "answer": "bacon",
+            "normalized": "bacon"
           },
           {
-            "id": "6acd6249-943a-485c-8ee3-94409ef88474",
-            "clue": "They travel the world while sitting in the corner",
-            "answer": "stamps",
-            "normalized": "stamps"
+            "id": "3d2bb747-12ff-42cf-9411-2b066421cd0f",
+            "clue": "German artillery used in WWI: Big __",
+            "answer": "bertha",
+            "normalized": "bertha"
           },
           {
-            "id": "751c123a-909c-445a-b3d4-9e64d6930ee2",
-            "clue": "To irritate or disturb someone or something",
-            "answer": "annoy",
-            "normalized": "annoy"
+            "id": "09f16a00-f205-4737-999b-fcada01c5de6",
+            "clue": "Word that modifies verbs or clauses",
+            "answer": "adverb",
+            "normalized": "adverb"
           },
           {
-            "id": "266f9e9a-b71a-4eba-aa46-6c00c1d7d47a",
-            "clue": "Strips of fabric, tatters",
-            "answer": "rags",
-            "normalized": "rags"
+            "id": "e8a7ff57-64f5-496d-82a9-801faeab5ea3",
+            "clue": "Previously owned",
+            "answer": "used",
+            "normalized": "used"
           },
           {
-            "id": "c4f6ccaf-77dd-42f9-a238-00bf11a931e3",
-            "clue": "Short for demonstrations",
-            "answer": "demos",
-            "normalized": "demos"
+            "id": "83279e4c-d67a-46a1-8bd0-f1621e92fa89",
+            "clue": "Pumpkin craft for Halloween lantern",
+            "answer": "carve",
+            "normalized": "carve"
           },
           {
-            "id": "d016ad2e-f249-4c80-84f8-94e4ef10d8f2",
-            "clue": "Guess the object seen with my little eye",
-            "answer": "i spy",
-            "normalized": "ispy"
+            "id": "e63c81ee-cc24-40fa-b306-e70005a05538",
+            "clue": "Performed managerial duties in someone's absence",
+            "answer": "acted",
+            "normalized": "acted"
           },
           {
-            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
-            "clue": "__ de deux, ballet duet",
-            "answer": "pas",
-            "normalized": "pas"
+            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
+            "clue": "Danish Nobel Prize-winning physicist, Niels",
+            "answer": "bohr",
+            "normalized": "bohr"
           },
           {
-            "id": "c9266bd7-7fd4-4d91-936d-f98a19a99c31",
-            "clue": "The most powerful nuclear weapon ever, __ Bomba",
-            "answer": "tsar",
-            "normalized": "tsar"
+            "id": "09bd7919-50da-4af5-81c1-295da5abbafe",
+            "clue": "Places to sleep that could be king-sized",
+            "answer": "beds",
+            "normalized": "beds"
           },
           {
-            "id": "04a3864e-cddb-49f5-a143-b093f339d366",
-            "clue": "Sicilian volcano",
-            "answer": "etna",
-            "normalized": "etna"
+            "id": "a15eddfd-c211-4c30-af4e-84568519d690",
+            "clue": "Seize something or someone, such as a thief",
+            "answer": "nab",
+            "normalized": "nab"
           },
           {
-            "id": "45516b28-3054-462f-b2de-7f0706a0bb36",
-            "clue": "Called someone on the phone",
-            "answer": "rang",
-            "normalized": "rang"
+            "id": "891f31b7-ca61-4150-bad3-627ede62ff38",
+            "clue": "Abbreviation for regular business operations",
+            "answer": "bau",
+            "normalized": "bau"
           }
         ],
-        "track": "PC|LenC--Y2026M9D4F0"
+        "track": "PC|LenC--Y2026M9D5F0"
       },
       "mid": {
-        "puzzleId": "a0f09758-e0a6-4319-b39a-8ec995f61264",
-        "fase": 2,
+        "puzzleId": "bee9fbad-72ca-4b7a-a4ea-74c166f97361",
+        "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 6,
         "answers": [
           {
-            "id": "f9888e31-e0b2-42e6-9fe7-8fa55b961b74",
-            "clue": "Initialism for spring clock adjustment in the USA",
-            "answer": "dst",
-            "normalized": "dst"
+            "id": "5f82d6cf-fdf2-409a-862a-f848d0386c52",
+            "clue": "Short for a brother or a sister",
+            "answer": "sib",
+            "normalized": "sib"
           },
           {
-            "id": "dc92192c-ef26-4c1f-971c-edbc479d2cca",
-            "clue": "Abbreviation for electronic benefit transfer",
-            "answer": "ebt",
-            "normalized": "ebt"
+            "id": "8dd24b64-5c1a-4419-8576-f579f60e4e3b",
+            "clue": "Peacock feathers",
+            "answer": "plumes",
+            "normalized": "plumes"
           },
           {
-            "id": "0e61f696-c691-46cb-9edf-187d40eaaf4b",
-            "clue": "Prefix preceding -taph and -logue",
-            "answer": "epi",
-            "normalized": "epi"
+            "id": "429918d8-8199-49ef-9eba-49ba4be4d19e",
+            "clue": "Organization that raises money for those in need",
+            "answer": "charity",
+            "normalized": "charity"
           },
           {
-            "id": "1d6d99dc-b58e-4efa-91b0-b8a47744e4bb",
-            "clue": "Woman around whom others gather, defer to",
-            "answer": "queen bee",
-            "normalized": "queenbee"
+            "id": "1e4deca9-1287-4e78-aef7-30d4813a6970",
+            "clue": "Cut branches off a tree or bush",
+            "answer": "lop",
+            "normalized": "lop"
           },
           {
-            "id": "39b4ec83-d8b0-4fc2-9fc6-e922731a353e",
-            "clue": "Not altered ahead of publication",
-            "answer": "unedited",
-            "normalized": "unedited"
+            "id": "490521a8-a08a-48f7-87c9-eaa20d0a02bc",
+            "clue": "This Man in the Land of Oz wanted a heart",
+            "answer": "tin",
+            "normalized": "tin"
           },
           {
-            "id": "d4f31267-245f-4cb3-94e3-ed0e9faadf0a",
-            "clue": "Term for a shop that deals with fixing cars",
-            "answer": "auto body",
-            "normalized": "autobody"
+            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
+            "clue": "Army insect that can be fire or leafcutter",
+            "answer": "ant",
+            "normalized": "ant"
           },
           {
-            "id": "9934259f-4bc5-48e5-b95a-4eff6a412b5b",
-            "clue": "Martial arts master Bruce __",
-            "answer": "lee",
-            "normalized": "lee"
+            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
+            "clue": "Shakespeare's much fuss about nothing",
+            "answer": "ado",
+            "normalized": "ado"
           },
           {
-            "id": "18689205-3e0b-46d9-aa94-ddedcee3c9fd",
-            "clue": "Another name for fish eggs; a kind of small deer",
-            "answer": "roe",
-            "normalized": "roe"
+            "id": "83b7a0d4-3036-485c-a03b-770694cc61fe",
+            "clue": "Downloaded illegally",
+            "answer": "pirated",
+            "normalized": "pirated"
           },
           {
-            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
-            "clue": "Camera with a particular kind of lens",
-            "answer": "slr",
-            "normalized": "slr"
+            "id": "4f84c081-b380-4da9-b322-e75c298d1528",
+            "clue": "Caught or trapped",
+            "answer": "snared",
+            "normalized": "snared"
           },
           {
-            "id": "bb87f72f-88c4-4f74-abab-08df1214511e",
-            "clue": "Someone who owes money",
-            "answer": "debtor",
-            "normalized": "debtor"
+            "id": "a084dafd-561a-438f-a00e-f06940ab55c8",
+            "clue": "Workout room",
+            "answer": "gym",
+            "normalized": "gym"
           },
           {
-            "id": "5d442d22-e2bf-4b8a-acdd-3036d68d287a",
-            "clue": "Male swimsuit popular in Europe, not so much in US",
-            "answer": "speedo",
-            "normalized": "speedo"
+            "id": "fcbb564a-926c-4b8c-8374-d117274d1315",
+            "clue": "Mountainous California region, Big __",
+            "answer": "sur",
+            "normalized": "sur"
           },
           {
-            "id": "bbd482e4-fa5c-449b-871f-b1fc0f864e8c",
-            "clue": "1970s clothing looked like it had run in the wash",
-            "answer": "tie dye",
-            "normalized": "tiedye"
+            "id": "1c6a28d1-2a0f-4fed-b71a-4fe482064a72",
+            "clue": "To copy what someone else is doing",
+            "answer": "imitate",
+            "normalized": "imitate"
           },
           {
-            "id": "baf444df-0fe3-4db8-bb94-7fb1602c6f92",
-            "clue": "Mathematical sign meaning the same as",
-            "answer": "equals",
-            "normalized": "equals"
+            "id": "065a3286-d6e2-46fa-a80f-e174f86105f9",
+            "clue": "Came about",
+            "answer": "betided",
+            "normalized": "betided"
           },
           {
-            "id": "c42ed7dc-12f7-41a9-9d0b-1a5044d5a32d",
-            "clue": "Director Luis of Un Chien Andalou with Dalí",
-            "answer": "bunuel",
-            "normalized": "bunuel"
+            "id": "a0a1d385-843a-4e82-8afc-5e62c6b9a06c",
+            "clue": "Calling someone using a handheld device",
+            "answer": "phoning",
+            "normalized": "phoning"
           },
           {
-            "id": "9a27c2d0-5307-42df-9913-f24a808ca092",
-            "clue": "Wobble to and fro, e.g. on high heels",
-            "answer": "teeter",
-            "normalized": "teeter"
+            "id": "493ff869-3fe6-4f6d-afe4-e825763981f1",
+            "clue": "Flat surface for eating from in bed",
+            "answer": "lap tray",
+            "normalized": "laptray"
           },
           {
-            "id": "d0b1b73a-f452-44ad-83e0-f056824faf24",
-            "clue": "Former name of Tokyo",
-            "answer": "edo",
-            "normalized": "edo"
+            "id": "fa75e671-01a3-441f-9f7e-6d346a4156c1",
+            "clue": "Church assembly for debating doctrines of faith",
+            "answer": "synod",
+            "normalized": "synod"
           },
           {
-            "id": "310955fb-e544-4e76-8dad-42a8e88df50f",
-            "clue": "The very end of a pen, for writing with",
-            "answer": "nib",
-            "normalized": "nib"
+            "id": "4bed1373-4731-4581-9ae8-7b24392728ed",
+            "clue": "Thunder crashes",
+            "answer": "claps",
+            "normalized": "claps"
+          },
+          {
+            "id": "66485089-37ab-4202-9407-05018bf97cdc",
+            "clue": "A limb with fingers",
+            "answer": "arm",
+            "normalized": "arm"
           }
         ],
-        "track": "PC|LenC--Y2026M9D4F2"
+        "track": "PC|LenC--Y2026M9D5F1"
       }
     },
     "latestAvailableEntry": {
@@ -441275,21 +441287,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "ZpCynOXB2exh2uK3Jkbeyku403JEnEnuoJvJdM0x2kggWiOkFt0Ch7VhK/Z6GGujL64phiwVfg+btsm9LA+S6Epn/5Co7bbEw+kn1u5QRB7mV9KECw9Iygz/QO/RN2AvOAXf5LW+sBvLdwL26mm7k0LAS3Q7scm7T443EMhB06Y4AlT3gnAlsnHa1qB4eGKDwpRzIJjObeWrajdJi+B5ogrfnbSpfIFegnpRvHRG+zJNjyqtx4ihyJYHGyVOU0KFZfn0VPypPUaJ3e9IeV2Ih4LKjI6+V4pEkrFD+b11ye8="
+        "1Mh4KP/Ir1eXVj7Ex8qijOpOzkWiTyyfa2aGZmMfCO3oDvkd0G3LauvR4UGQUY01jvsp2Dfruu+Os87Yq9wDBT83M73TJc7ZgIsqV2PL3GACnjp1/lMj4nqu79J+YOa0o41jQP9pu4FaWq5c3F9QD6a4JCOhtSioGPz24SCJhcADnc8PscywG70VwGyrwrvt6I13sGP8ognaVvMAUD3CsNHJ189jmLyabo5qxmXyr3agrQHOI9xFr2CKCJvBaeyVLciNEdt3YY8eG4DAcnTS73SBg01HNNvLP9rUIzihTYo="
       ]
     },
     "decrypted": {
-      "Id": "7937ca0e-a4aa-4de9-8c2c-c2e20b1b8bf2",
-      "Date": "2026-09-04T00:00:00Z",
+      "Id": "64f32972-690f-4896-b3f4-bdd593c272a3",
+      "Date": "2026-09-05T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "bushy",
-      "NormalizedPassword": "bushy",
+      "Password": "mimic",
+      "NormalizedPassword": "mimic",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-04T02:40:55.2340000+05:30",
-    "hash": "81be7290bf365cd176ea135fb7da778f",
+    "dtu": "2026-09-05T02:23:48.8480000+05:30",
+    "hash": "b3ebd3fedba592dc554c2545df0dd566",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
