@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T20:53:48.848Z",
+  "generatedAt": "2026-09-05T20:31:21.851Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 5
+    "day": 6
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 6
+        "QuantidadeDeFases": 8
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -63863,7 +63863,7 @@
             },
             {
               "id": "c3443e44-c206-437f-96cc-74e133329873",
-              "clue": "Japanese Buddhist festival honoring ancestors",
+              "clue": "Japanese Buddhist festival honouring ancestors",
               "answer": "obon",
               "normalized": "obon"
             },
@@ -440685,403 +440685,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-05",
+      "key": "2026-09-06",
       "year": 2026,
       "month": 9,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "c1c3332f-50d6-4aae-9289-9475807a7147",
+        "puzzleId": "361901f8-64c4-4f0a-8d69-56187063d414",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 1,
         "answers": [
           {
-            "id": "02309e49-109c-4b60-a7dd-9e7d1772ff40",
-            "clue": "Taxi",
-            "answer": "cab",
-            "normalized": "cab"
+            "id": "eed96a44-9815-4928-a0b8-1687afe14502",
+            "clue": "Sine __ non, indispensable",
+            "answer": "qua",
+            "normalized": "qua"
           },
           {
-            "id": "0bc48978-9693-44ee-bc89-bcf800f3a22d",
-            "clue": "The B in BLT",
-            "answer": "bacon",
-            "normalized": "bacon"
+            "id": "7788d1f4-f353-4e85-b184-0feae79cb762",
+            "clue": "Rend or draw apart",
+            "answer": "pull",
+            "normalized": "pull"
           },
           {
-            "id": "3d2bb747-12ff-42cf-9411-2b066421cd0f",
-            "clue": "German artillery used in WWI: Big __",
-            "answer": "bertha",
-            "normalized": "bertha"
+            "id": "01af94a2-d825-43c3-bf61-5cddd4d75f87",
+            "clue": "An old woman or witch in folklore",
+            "answer": "crone",
+            "normalized": "crone"
           },
           {
-            "id": "09f16a00-f205-4737-999b-fcada01c5de6",
-            "clue": "Word that modifies verbs or clauses",
-            "answer": "adverb",
-            "normalized": "adverb"
+            "id": "435dd2e1-e9d8-42a2-85a8-f2e269f684a7",
+            "clue": "Sodium compound used in many cleaning products",
+            "answer": "borax",
+            "normalized": "borax"
           },
           {
-            "id": "e8a7ff57-64f5-496d-82a9-801faeab5ea3",
-            "clue": "Previously owned",
-            "answer": "used",
-            "normalized": "used"
+            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
+            "clue": "Actor Epps of Shooter and House",
+            "answer": "omar",
+            "normalized": "omar"
           },
           {
-            "id": "83279e4c-d67a-46a1-8bd0-f1621e92fa89",
-            "clue": "Pumpkin craft for Halloween lantern",
-            "answer": "carve",
-            "normalized": "carve"
+            "id": "f54e75a0-9219-4ba4-bafc-99fda380d526",
+            "clue": "Social network for questions or answers",
+            "answer": "quora",
+            "normalized": "quora"
           },
           {
-            "id": "e63c81ee-cc24-40fa-b306-e70005a05538",
-            "clue": "Performed managerial duties in someone's absence",
-            "answer": "acted",
-            "normalized": "acted"
+            "id": "c6d86bdb-6f19-4205-aff5-575105db1040",
+            "clue": "Relating to one of the lower arm bones",
+            "answer": "ulnar",
+            "normalized": "ulnar"
           },
           {
-            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
-            "clue": "Danish Nobel Prize-winning physicist, Niels",
-            "answer": "bohr",
-            "normalized": "bohr"
+            "id": "65d2eac5-ab88-4bb0-ad39-e4efe8bba179",
+            "clue": "Former Jeopardy! host __ Trebek",
+            "answer": "alex",
+            "normalized": "alex"
           },
           {
-            "id": "09bd7919-50da-4af5-81c1-295da5abbafe",
-            "clue": "Places to sleep that could be king-sized",
-            "answer": "beds",
-            "normalized": "beds"
+            "id": "42943f8e-cdeb-4507-900d-786837994027",
+            "clue": "Fancy end-of-year high school dance",
+            "answer": "prom",
+            "normalized": "prom"
           },
           {
-            "id": "a15eddfd-c211-4c30-af4e-84568519d690",
-            "clue": "Seize something or someone, such as a thief",
-            "answer": "nab",
-            "normalized": "nab"
-          },
-          {
-            "id": "891f31b7-ca61-4150-bad3-627ede62ff38",
-            "clue": "Abbreviation for regular business operations",
-            "answer": "bau",
-            "normalized": "bau"
+            "id": "e2be5086-0069-4bbf-ae89-0b2c49f2964a",
+            "clue": "Initialism for chief business officer",
+            "answer": "cbo",
+            "normalized": "cbo"
           }
         ],
-        "track": "PC|LenC--Y2026M9D5F0"
+        "track": "PC|LenC--Y2026M9D6F0"
       },
       "mid": {
-        "puzzleId": "bee9fbad-72ca-4b7a-a4ea-74c166f97361",
+        "puzzleId": "35d9def4-f084-4066-8fea-a6e080eb6cb8",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 1,
         "answers": [
           {
-            "id": "5f82d6cf-fdf2-409a-862a-f848d0386c52",
-            "clue": "Short for a brother or a sister",
-            "answer": "sib",
-            "normalized": "sib"
+            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
+            "clue": "Short for Republic of South Africa",
+            "answer": "rsa",
+            "normalized": "rsa"
           },
           {
-            "id": "8dd24b64-5c1a-4419-8576-f579f60e4e3b",
-            "clue": "Peacock feathers",
-            "answer": "plumes",
-            "normalized": "plumes"
+            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
+            "clue": "Letters in the logo and motto of Elvis Presley",
+            "answer": "tcb",
+            "normalized": "tcb"
           },
           {
-            "id": "429918d8-8199-49ef-9eba-49ba4be4d19e",
-            "clue": "Organization that raises money for those in need",
-            "answer": "charity",
-            "normalized": "charity"
+            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
+            "clue": "Medical abbreviation for nitroglycerin",
+            "answer": "ntg",
+            "normalized": "ntg"
           },
           {
-            "id": "1e4deca9-1287-4e78-aef7-30d4813a6970",
-            "clue": "Cut branches off a tree or bush",
-            "answer": "lop",
-            "normalized": "lop"
+            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
+            "clue": "Jack Black movie Shallow __, or 2001 computer",
+            "answer": "hal",
+            "normalized": "hal"
           },
           {
-            "id": "490521a8-a08a-48f7-87c9-eaa20d0a02bc",
-            "clue": "This Man in the Land of Oz wanted a heart",
-            "answer": "tin",
-            "normalized": "tin"
+            "id": "181e2396-fdce-402c-afb4-3ef6744e43a2",
+            "clue": "One of the ABC islands, with Aruba and Curaçao",
+            "answer": "bonaire",
+            "normalized": "bonaire"
           },
           {
-            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
-            "clue": "Army insect that can be fire or leafcutter",
-            "answer": "ant",
-            "normalized": "ant"
+            "id": "a37238c5-b64c-4b7f-9eaa-59f2865bd47a",
+            "clue": "What happy cats did",
+            "answer": "purred",
+            "normalized": "purred"
           },
           {
-            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
-            "clue": "Shakespeare's much fuss about nothing",
-            "answer": "ado",
-            "normalized": "ado"
+            "id": "3c72cf3c-f52b-4075-828b-22e07c7c2c9a",
+            "clue": "Fruit on top? The flipped __ down cake",
+            "answer": "upside",
+            "normalized": "upside"
           },
           {
-            "id": "83b7a0d4-3036-485c-a03b-770694cc61fe",
-            "clue": "Downloaded illegally",
-            "answer": "pirated",
-            "normalized": "pirated"
+            "id": "a31423c2-2191-41ce-afcf-1a820b36dfdd",
+            "clue": "What happens to your cheeks when you blush",
+            "answer": "reddens",
+            "normalized": "reddens"
           },
           {
-            "id": "4f84c081-b380-4da9-b322-e75c298d1528",
-            "clue": "Caught or trapped",
-            "answer": "snared",
-            "normalized": "snared"
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
           },
           {
-            "id": "a084dafd-561a-438f-a00e-f06940ab55c8",
-            "clue": "Workout room",
-            "answer": "gym",
-            "normalized": "gym"
+            "id": "d38dcc57-ea19-4e11-8cdf-23285626e041",
+            "clue": "Old-fashioned, political yes; opposite of nay",
+            "answer": "yea",
+            "normalized": "yea"
           },
           {
-            "id": "fcbb564a-926c-4b8c-8374-d117274d1315",
-            "clue": "Mountainous California region, Big __",
-            "answer": "sur",
-            "normalized": "sur"
+            "id": "5bc268ad-e41e-43cb-accb-cc51facc4863",
+            "clue": "Law enforcement forensic team",
+            "answer": "csi",
+            "normalized": "csi"
           },
           {
-            "id": "1c6a28d1-2a0f-4fed-b71a-4fe482064a72",
-            "clue": "To copy what someone else is doing",
-            "answer": "imitate",
-            "normalized": "imitate"
+            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
+            "clue": "Initialism for Earliest Due Date scheduling",
+            "answer": "edd",
+            "normalized": "edd"
           },
           {
-            "id": "065a3286-d6e2-46fa-a80f-e174f86105f9",
-            "clue": "Came about",
-            "answer": "betided",
-            "normalized": "betided"
+            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
+            "clue": "Popular music genre, mix of jazz, gospel, blues",
+            "answer": "rnb",
+            "normalized": "rnb"
           },
           {
-            "id": "a0a1d385-843a-4e82-8afc-5e62c6b9a06c",
-            "clue": "Calling someone using a handheld device",
-            "answer": "phoning",
-            "normalized": "phoning"
+            "id": "b3db79c6-f4f0-42ca-8f35-a057c3e8209d",
+            "clue": "Cork plugs placed in bottles' necks",
+            "answer": "stoppers",
+            "normalized": "stoppers"
           },
           {
-            "id": "493ff869-3fe6-4f6d-afe4-e825763981f1",
-            "clue": "Flat surface for eating from in bed",
-            "answer": "lap tray",
-            "normalized": "laptray"
+            "id": "c71b2aa9-2379-487d-8930-86bef6037170",
+            "clue": "Latin term meaning lamb of God",
+            "answer": "agnus dei",
+            "normalized": "agnusdei"
           },
           {
-            "id": "fa75e671-01a3-441f-9f7e-6d346a4156c1",
-            "clue": "Church assembly for debating doctrines of faith",
-            "answer": "synod",
-            "normalized": "synod"
+            "id": "c93971d0-ee8d-4e3b-bed6-f5554e0efbe7",
+            "clue": "Visual organ on the forehead of the god Shiva",
+            "answer": "third eye",
+            "normalized": "thirdeye"
           },
           {
-            "id": "4bed1373-4731-4581-9ae8-7b24392728ed",
-            "clue": "Thunder crashes",
-            "answer": "claps",
-            "normalized": "claps"
+            "id": "22de58c6-4e31-410d-b906-19fc4e5e661c",
+            "clue": "Lurched from side to side like a boat",
+            "answer": "careened",
+            "normalized": "careened"
           },
           {
-            "id": "66485089-37ab-4202-9407-05018bf97cdc",
-            "clue": "A limb with fingers",
-            "answer": "arm",
-            "normalized": "arm"
+            "id": "2efe06b8-95ff-4faf-b18f-06333a55d626",
+            "clue": "Leaked blood",
+            "answer": "bled",
+            "normalized": "bled"
+          },
+          {
+            "id": "502cf269-91ca-4fbb-84ca-6d5e8a875014",
+            "clue": "Dry, waterless",
+            "answer": "arid",
+            "normalized": "arid"
+          },
+          {
+            "id": "d1962e3f-e996-453d-a203-76b50d254552",
+            "clue": "Build-up of this acid around joints can cause gout",
+            "answer": "uric",
+            "normalized": "uric"
+          },
+          {
+            "id": "bcebe44e-5864-4961-a995-07443fd44ec3",
+            "clue": "Unhappy",
+            "answer": "sad",
+            "normalized": "sad"
           }
         ],
-        "track": "PC|LenC--Y2026M9D5F1"
+        "track": "PC|LenC--Y2026M9D6F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-05",
+      "key": "2026-09-06",
       "year": 2026,
       "month": 9,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "c1c3332f-50d6-4aae-9289-9475807a7147",
+        "puzzleId": "361901f8-64c4-4f0a-8d69-56187063d414",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 1,
         "answers": [
           {
-            "id": "02309e49-109c-4b60-a7dd-9e7d1772ff40",
-            "clue": "Taxi",
-            "answer": "cab",
-            "normalized": "cab"
+            "id": "eed96a44-9815-4928-a0b8-1687afe14502",
+            "clue": "Sine __ non, indispensable",
+            "answer": "qua",
+            "normalized": "qua"
           },
           {
-            "id": "0bc48978-9693-44ee-bc89-bcf800f3a22d",
-            "clue": "The B in BLT",
-            "answer": "bacon",
-            "normalized": "bacon"
+            "id": "7788d1f4-f353-4e85-b184-0feae79cb762",
+            "clue": "Rend or draw apart",
+            "answer": "pull",
+            "normalized": "pull"
           },
           {
-            "id": "3d2bb747-12ff-42cf-9411-2b066421cd0f",
-            "clue": "German artillery used in WWI: Big __",
-            "answer": "bertha",
-            "normalized": "bertha"
+            "id": "01af94a2-d825-43c3-bf61-5cddd4d75f87",
+            "clue": "An old woman or witch in folklore",
+            "answer": "crone",
+            "normalized": "crone"
           },
           {
-            "id": "09f16a00-f205-4737-999b-fcada01c5de6",
-            "clue": "Word that modifies verbs or clauses",
-            "answer": "adverb",
-            "normalized": "adverb"
+            "id": "435dd2e1-e9d8-42a2-85a8-f2e269f684a7",
+            "clue": "Sodium compound used in many cleaning products",
+            "answer": "borax",
+            "normalized": "borax"
           },
           {
-            "id": "e8a7ff57-64f5-496d-82a9-801faeab5ea3",
-            "clue": "Previously owned",
-            "answer": "used",
-            "normalized": "used"
+            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
+            "clue": "Actor Epps of Shooter and House",
+            "answer": "omar",
+            "normalized": "omar"
           },
           {
-            "id": "83279e4c-d67a-46a1-8bd0-f1621e92fa89",
-            "clue": "Pumpkin craft for Halloween lantern",
-            "answer": "carve",
-            "normalized": "carve"
+            "id": "f54e75a0-9219-4ba4-bafc-99fda380d526",
+            "clue": "Social network for questions or answers",
+            "answer": "quora",
+            "normalized": "quora"
           },
           {
-            "id": "e63c81ee-cc24-40fa-b306-e70005a05538",
-            "clue": "Performed managerial duties in someone's absence",
-            "answer": "acted",
-            "normalized": "acted"
+            "id": "c6d86bdb-6f19-4205-aff5-575105db1040",
+            "clue": "Relating to one of the lower arm bones",
+            "answer": "ulnar",
+            "normalized": "ulnar"
           },
           {
-            "id": "6933bac7-a28e-4daf-b6bc-b03c14fa45a6",
-            "clue": "Danish Nobel Prize-winning physicist, Niels",
-            "answer": "bohr",
-            "normalized": "bohr"
+            "id": "65d2eac5-ab88-4bb0-ad39-e4efe8bba179",
+            "clue": "Former Jeopardy! host __ Trebek",
+            "answer": "alex",
+            "normalized": "alex"
           },
           {
-            "id": "09bd7919-50da-4af5-81c1-295da5abbafe",
-            "clue": "Places to sleep that could be king-sized",
-            "answer": "beds",
-            "normalized": "beds"
+            "id": "42943f8e-cdeb-4507-900d-786837994027",
+            "clue": "Fancy end-of-year high school dance",
+            "answer": "prom",
+            "normalized": "prom"
           },
           {
-            "id": "a15eddfd-c211-4c30-af4e-84568519d690",
-            "clue": "Seize something or someone, such as a thief",
-            "answer": "nab",
-            "normalized": "nab"
-          },
-          {
-            "id": "891f31b7-ca61-4150-bad3-627ede62ff38",
-            "clue": "Abbreviation for regular business operations",
-            "answer": "bau",
-            "normalized": "bau"
+            "id": "e2be5086-0069-4bbf-ae89-0b2c49f2964a",
+            "clue": "Initialism for chief business officer",
+            "answer": "cbo",
+            "normalized": "cbo"
           }
         ],
-        "track": "PC|LenC--Y2026M9D5F0"
+        "track": "PC|LenC--Y2026M9D6F0"
       },
       "mid": {
-        "puzzleId": "bee9fbad-72ca-4b7a-a4ea-74c166f97361",
+        "puzzleId": "35d9def4-f084-4066-8fea-a6e080eb6cb8",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 1,
         "answers": [
           {
-            "id": "5f82d6cf-fdf2-409a-862a-f848d0386c52",
-            "clue": "Short for a brother or a sister",
-            "answer": "sib",
-            "normalized": "sib"
+            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
+            "clue": "Short for Republic of South Africa",
+            "answer": "rsa",
+            "normalized": "rsa"
           },
           {
-            "id": "8dd24b64-5c1a-4419-8576-f579f60e4e3b",
-            "clue": "Peacock feathers",
-            "answer": "plumes",
-            "normalized": "plumes"
+            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
+            "clue": "Letters in the logo and motto of Elvis Presley",
+            "answer": "tcb",
+            "normalized": "tcb"
           },
           {
-            "id": "429918d8-8199-49ef-9eba-49ba4be4d19e",
-            "clue": "Organization that raises money for those in need",
-            "answer": "charity",
-            "normalized": "charity"
+            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
+            "clue": "Medical abbreviation for nitroglycerin",
+            "answer": "ntg",
+            "normalized": "ntg"
           },
           {
-            "id": "1e4deca9-1287-4e78-aef7-30d4813a6970",
-            "clue": "Cut branches off a tree or bush",
-            "answer": "lop",
-            "normalized": "lop"
+            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
+            "clue": "Jack Black movie Shallow __, or 2001 computer",
+            "answer": "hal",
+            "normalized": "hal"
           },
           {
-            "id": "490521a8-a08a-48f7-87c9-eaa20d0a02bc",
-            "clue": "This Man in the Land of Oz wanted a heart",
-            "answer": "tin",
-            "normalized": "tin"
+            "id": "181e2396-fdce-402c-afb4-3ef6744e43a2",
+            "clue": "One of the ABC islands, with Aruba and Curaçao",
+            "answer": "bonaire",
+            "normalized": "bonaire"
           },
           {
-            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
-            "clue": "Army insect that can be fire or leafcutter",
-            "answer": "ant",
-            "normalized": "ant"
+            "id": "a37238c5-b64c-4b7f-9eaa-59f2865bd47a",
+            "clue": "What happy cats did",
+            "answer": "purred",
+            "normalized": "purred"
           },
           {
-            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
-            "clue": "Shakespeare's much fuss about nothing",
-            "answer": "ado",
-            "normalized": "ado"
+            "id": "3c72cf3c-f52b-4075-828b-22e07c7c2c9a",
+            "clue": "Fruit on top? The flipped __ down cake",
+            "answer": "upside",
+            "normalized": "upside"
           },
           {
-            "id": "83b7a0d4-3036-485c-a03b-770694cc61fe",
-            "clue": "Downloaded illegally",
-            "answer": "pirated",
-            "normalized": "pirated"
+            "id": "a31423c2-2191-41ce-afcf-1a820b36dfdd",
+            "clue": "What happens to your cheeks when you blush",
+            "answer": "reddens",
+            "normalized": "reddens"
           },
           {
-            "id": "4f84c081-b380-4da9-b322-e75c298d1528",
-            "clue": "Caught or trapped",
-            "answer": "snared",
-            "normalized": "snared"
+            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
+            "clue": "Furious wrath",
+            "answer": "ire",
+            "normalized": "ire"
           },
           {
-            "id": "a084dafd-561a-438f-a00e-f06940ab55c8",
-            "clue": "Workout room",
-            "answer": "gym",
-            "normalized": "gym"
+            "id": "d38dcc57-ea19-4e11-8cdf-23285626e041",
+            "clue": "Old-fashioned, political yes; opposite of nay",
+            "answer": "yea",
+            "normalized": "yea"
           },
           {
-            "id": "fcbb564a-926c-4b8c-8374-d117274d1315",
-            "clue": "Mountainous California region, Big __",
-            "answer": "sur",
-            "normalized": "sur"
+            "id": "5bc268ad-e41e-43cb-accb-cc51facc4863",
+            "clue": "Law enforcement forensic team",
+            "answer": "csi",
+            "normalized": "csi"
           },
           {
-            "id": "1c6a28d1-2a0f-4fed-b71a-4fe482064a72",
-            "clue": "To copy what someone else is doing",
-            "answer": "imitate",
-            "normalized": "imitate"
+            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
+            "clue": "Initialism for Earliest Due Date scheduling",
+            "answer": "edd",
+            "normalized": "edd"
           },
           {
-            "id": "065a3286-d6e2-46fa-a80f-e174f86105f9",
-            "clue": "Came about",
-            "answer": "betided",
-            "normalized": "betided"
+            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
+            "clue": "Popular music genre, mix of jazz, gospel, blues",
+            "answer": "rnb",
+            "normalized": "rnb"
           },
           {
-            "id": "a0a1d385-843a-4e82-8afc-5e62c6b9a06c",
-            "clue": "Calling someone using a handheld device",
-            "answer": "phoning",
-            "normalized": "phoning"
+            "id": "b3db79c6-f4f0-42ca-8f35-a057c3e8209d",
+            "clue": "Cork plugs placed in bottles' necks",
+            "answer": "stoppers",
+            "normalized": "stoppers"
           },
           {
-            "id": "493ff869-3fe6-4f6d-afe4-e825763981f1",
-            "clue": "Flat surface for eating from in bed",
-            "answer": "lap tray",
-            "normalized": "laptray"
+            "id": "c71b2aa9-2379-487d-8930-86bef6037170",
+            "clue": "Latin term meaning lamb of God",
+            "answer": "agnus dei",
+            "normalized": "agnusdei"
           },
           {
-            "id": "fa75e671-01a3-441f-9f7e-6d346a4156c1",
-            "clue": "Church assembly for debating doctrines of faith",
-            "answer": "synod",
-            "normalized": "synod"
+            "id": "c93971d0-ee8d-4e3b-bed6-f5554e0efbe7",
+            "clue": "Visual organ on the forehead of the god Shiva",
+            "answer": "third eye",
+            "normalized": "thirdeye"
           },
           {
-            "id": "4bed1373-4731-4581-9ae8-7b24392728ed",
-            "clue": "Thunder crashes",
-            "answer": "claps",
-            "normalized": "claps"
+            "id": "22de58c6-4e31-410d-b906-19fc4e5e661c",
+            "clue": "Lurched from side to side like a boat",
+            "answer": "careened",
+            "normalized": "careened"
           },
           {
-            "id": "66485089-37ab-4202-9407-05018bf97cdc",
-            "clue": "A limb with fingers",
-            "answer": "arm",
-            "normalized": "arm"
+            "id": "2efe06b8-95ff-4faf-b18f-06333a55d626",
+            "clue": "Leaked blood",
+            "answer": "bled",
+            "normalized": "bled"
+          },
+          {
+            "id": "502cf269-91ca-4fbb-84ca-6d5e8a875014",
+            "clue": "Dry, waterless",
+            "answer": "arid",
+            "normalized": "arid"
+          },
+          {
+            "id": "d1962e3f-e996-453d-a203-76b50d254552",
+            "clue": "Build-up of this acid around joints can cause gout",
+            "answer": "uric",
+            "normalized": "uric"
+          },
+          {
+            "id": "bcebe44e-5864-4961-a995-07443fd44ec3",
+            "clue": "Unhappy",
+            "answer": "sad",
+            "normalized": "sad"
           }
         ],
-        "track": "PC|LenC--Y2026M9D5F1"
+        "track": "PC|LenC--Y2026M9D6F1"
       }
     },
     "latestAvailableEntry": {
@@ -441287,21 +441311,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "1Mh4KP/Ir1eXVj7Ex8qijOpOzkWiTyyfa2aGZmMfCO3oDvkd0G3LauvR4UGQUY01jvsp2Dfruu+Os87Yq9wDBT83M73TJc7ZgIsqV2PL3GACnjp1/lMj4nqu79J+YOa0o41jQP9pu4FaWq5c3F9QD6a4JCOhtSioGPz24SCJhcADnc8PscywG70VwGyrwrvt6I13sGP8ognaVvMAUD3CsNHJ189jmLyabo5qxmXyr3agrQHOI9xFr2CKCJvBaeyVLciNEdt3YY8eG4DAcnTS73SBg01HNNvLP9rUIzihTYo="
+        "/wFG7euVfpubpgo3f+qL7Ys2zeOtwXjitTfTbrvxlbbg+e1ZjXo+DkdVOj/UWLfFs15OsvuE4JbLDcXdbkM7fo5B/wRT6NPwVLcizlpUTbXdM7vXppX3IQTcEx/kqR6QFxmJia7sHhkxc0TMjeGTC82SNRJmOEplUCZiOuzb3KY6INzMtoI15otnAlKtuM8R9s6ZyLNzG69o9rh0Ihv0BnYnlqCDdlmIh4scuJ/uYCVkB3SaSk2AYDKOoBwB/sFLM0kJZqisOCTYOZ9Lv48qwdPPvq0oTmA0c42UHZbTwNE="
       ]
     },
     "decrypted": {
-      "Id": "64f32972-690f-4896-b3f4-bdd593c272a3",
-      "Date": "2026-09-05T00:00:00Z",
+      "Id": "1927a013-4f46-45ff-9871-fb5ca95373bc",
+      "Date": "2026-09-06T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "mimic",
-      "NormalizedPassword": "mimic",
+      "Password": "brick",
+      "NormalizedPassword": "brick",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-05T02:23:48.8480000+05:30",
-    "hash": "b3ebd3fedba592dc554c2545df0dd566",
+    "dtu": "2026-09-06T02:01:21.8510000+05:30",
+    "hash": "ec59ad8b7f48bbbebafef1a6ea18f1c3",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
