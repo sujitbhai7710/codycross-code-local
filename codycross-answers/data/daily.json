@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T20:31:21.851Z",
+  "generatedAt": "2026-09-06T20:34:52.833Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 6
+    "day": 7
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 8
+        "QuantidadeDeFases": 10
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440685,427 +440685,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-06",
+      "key": "2026-09-07",
       "year": 2026,
       "month": 9,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "361901f8-64c4-4f0a-8d69-56187063d414",
+        "puzzleId": "bc8213bf-bb06-41e3-a5e4-0f302af93178",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "eed96a44-9815-4928-a0b8-1687afe14502",
-            "clue": "Sine __ non, indispensable",
-            "answer": "qua",
-            "normalized": "qua"
+            "id": "daf6e914-34d9-4272-a6e9-145788b9a5f1",
+            "clue": "Boat built by Noah",
+            "answer": "ark",
+            "normalized": "ark"
           },
           {
-            "id": "7788d1f4-f353-4e85-b184-0feae79cb762",
-            "clue": "Rend or draw apart",
-            "answer": "pull",
-            "normalized": "pull"
+            "id": "26fda6df-98a2-4eb2-8175-0945f907b96a",
+            "clue": "The largest country in South America",
+            "answer": "brazil",
+            "normalized": "brazil"
           },
           {
-            "id": "01af94a2-d825-43c3-bf61-5cddd4d75f87",
-            "clue": "An old woman or witch in folklore",
-            "answer": "crone",
-            "normalized": "crone"
+            "id": "4de44db7-181b-44e1-8297-ecdd9ba39277",
+            "clue": "An oasis is a green watery __ in a desert",
+            "answer": "refuge",
+            "normalized": "refuge"
           },
           {
-            "id": "435dd2e1-e9d8-42a2-85a8-f2e269f684a7",
-            "clue": "Sodium compound used in many cleaning products",
-            "answer": "borax",
-            "normalized": "borax"
+            "id": "e57bf158-0e22-4c25-8250-5dcada7547d3",
+            "clue": "Feeling a strong dislike towards something",
+            "answer": "averse",
+            "normalized": "averse"
           },
           {
-            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
-            "clue": "Actor Epps of Shooter and House",
-            "answer": "omar",
-            "normalized": "omar"
+            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
+            "clue": "South-southwest for short",
+            "answer": "ssw",
+            "normalized": "ssw"
           },
           {
-            "id": "f54e75a0-9219-4ba4-bafc-99fda380d526",
-            "clue": "Social network for questions or answers",
-            "answer": "quora",
-            "normalized": "quora"
+            "id": "ef63e921-0841-4614-a58b-d8271e06e650",
+            "clue": "Poetic French term to say bright, clear blue",
+            "answer": "azur",
+            "normalized": "azur"
           },
           {
-            "id": "c6d86bdb-6f19-4205-aff5-575105db1040",
-            "clue": "Relating to one of the lower arm bones",
-            "answer": "ulnar",
-            "normalized": "ulnar"
+            "id": "233e3c68-c1cf-4109-a81d-e8d672fd1e3c",
+            "clue": "Oil platforms",
+            "answer": "rigs",
+            "normalized": "rigs"
           },
           {
-            "id": "65d2eac5-ab88-4bb0-ad39-e4efe8bba179",
-            "clue": "Former Jeopardy! host __ Trebek",
-            "answer": "alex",
-            "normalized": "alex"
+            "id": "19bd5659-da92-41f4-b964-b1e5be3a2800",
+            "clue": "Swiss-German painter Paul who died in 1940",
+            "answer": "klee",
+            "normalized": "klee"
           },
           {
-            "id": "42943f8e-cdeb-4507-900d-786837994027",
-            "clue": "Fancy end-of-year high school dance",
-            "answer": "prom",
-            "normalized": "prom"
+            "id": "47d658ab-70f4-4ee6-a2d3-63875bdad20c",
+            "clue": "Supportive female undergarments",
+            "answer": "bras",
+            "normalized": "bras"
           },
           {
-            "id": "e2be5086-0069-4bbf-ae89-0b2c49f2964a",
-            "clue": "Initialism for chief business officer",
-            "answer": "cbo",
-            "normalized": "cbo"
+            "id": "2448c2d7-4180-443e-8382-05c1a6b71cf2",
+            "clue": "Speeds up an engine",
+            "answer": "revs",
+            "normalized": "revs"
+          },
+          {
+            "id": "a2e5cf31-b42e-4b0a-b704-9beb112af87e",
+            "clue": "Number of good men in the Cruise, Nicholson film",
+            "answer": "a few",
+            "normalized": "afew"
           }
         ],
-        "track": "PC|LenC--Y2026M9D6F0"
+        "track": "PC|LenC--Y2026M9D7F0"
       },
       "mid": {
-        "puzzleId": "35d9def4-f084-4066-8fea-a6e080eb6cb8",
+        "puzzleId": "a4110fea-b07b-4edd-8e10-a73bf27ca081",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-            "clue": "Short for Republic of South Africa",
-            "answer": "rsa",
-            "normalized": "rsa"
+            "id": "876bbfe4-6135-423d-989c-ed9d06daba9c",
+            "clue": "Communication within the near-field",
+            "answer": "nfc",
+            "normalized": "nfc"
           },
           {
-            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
-            "clue": "Letters in the logo and motto of Elvis Presley",
-            "answer": "tcb",
-            "normalized": "tcb"
+            "id": "940e22b9-9d9b-4b62-8f41-e55caa128e93",
+            "clue": "Fleece-lined footwear",
+            "answer": "uggs",
+            "normalized": "uggs"
           },
           {
-            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
-            "clue": "Medical abbreviation for nitroglycerin",
-            "answer": "ntg",
-            "normalized": "ntg"
+            "id": "3ee8d225-e035-41b4-b42d-dbf2613b882a",
+            "clue": "Sound made when feeling the cold",
+            "answer": "brr",
+            "normalized": "brr"
           },
           {
-            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
-            "clue": "Jack Black movie Shallow __, or 2001 computer",
-            "answer": "hal",
-            "normalized": "hal"
+            "id": "38224a4d-68f2-4f51-9bf5-907cccd7b353",
+            "clue": "Abbreviation for being grammatically genderless",
+            "answer": "neut",
+            "normalized": "neut"
           },
           {
-            "id": "181e2396-fdce-402c-afb4-3ef6744e43a2",
-            "clue": "One of the ABC islands, with Aruba and Curaçao",
-            "answer": "bonaire",
-            "normalized": "bonaire"
+            "id": "63925bed-9016-4e5f-944f-d9adacc5aadc",
+            "clue": "Executive chief of a company",
+            "answer": "ceo",
+            "normalized": "ceo"
           },
           {
-            "id": "a37238c5-b64c-4b7f-9eaa-59f2865bd47a",
-            "clue": "What happy cats did",
-            "answer": "purred",
-            "normalized": "purred"
+            "id": "fd0692dd-32b6-4001-8f39-515e3150582b",
+            "clue": "Not pro; against something",
+            "answer": "anti",
+            "normalized": "anti"
           },
           {
-            "id": "3c72cf3c-f52b-4075-828b-22e07c7c2c9a",
-            "clue": "Fruit on top? The flipped __ down cake",
-            "answer": "upside",
-            "normalized": "upside"
+            "id": "16e11b37-f55b-4901-8605-4148afa27614",
+            "clue": "More terrifying",
+            "answer": "scarier",
+            "normalized": "scarier"
           },
           {
-            "id": "a31423c2-2191-41ce-afcf-1a820b36dfdd",
-            "clue": "What happens to your cheeks when you blush",
-            "answer": "reddens",
-            "normalized": "reddens"
+            "id": "b7bc641c-096e-42f0-9e60-a33de2ed8f66",
+            "clue": "Uma __, actress of Kill Bill",
+            "answer": "thurman",
+            "normalized": "thurman"
           },
           {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
+            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
+            "clue": "Relieve pain or tightness",
+            "answer": "ease",
+            "normalized": "ease"
           },
           {
-            "id": "d38dcc57-ea19-4e11-8cdf-23285626e041",
-            "clue": "Old-fashioned, political yes; opposite of nay",
-            "answer": "yea",
-            "normalized": "yea"
+            "id": "566e7c44-9de8-4844-b760-3d326a09648c",
+            "clue": "Three letters after a limited company",
+            "answer": "ltd",
+            "normalized": "ltd"
           },
           {
-            "id": "5bc268ad-e41e-43cb-accb-cc51facc4863",
-            "clue": "Law enforcement forensic team",
-            "answer": "csi",
-            "normalized": "csi"
+            "id": "67472189-aaf4-4751-a74a-34c25f83eb2c",
+            "clue": "Literary word for appearance and manner",
+            "answer": "mien",
+            "normalized": "mien"
           },
           {
-            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
-            "clue": "Initialism for Earliest Due Date scheduling",
-            "answer": "edd",
-            "normalized": "edd"
+            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
+            "clue": "Relating to the country with Vientiane as capital",
+            "answer": "lao",
+            "normalized": "lao"
           },
           {
-            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
-            "clue": "Popular music genre, mix of jazz, gospel, blues",
-            "answer": "rnb",
-            "normalized": "rnb"
+            "id": "76644505-229a-4440-aee7-fe36d6b7dd25",
+            "clue": "The Big Dipper is part of __ Major",
+            "answer": "ursa",
+            "normalized": "ursa"
           },
           {
-            "id": "b3db79c6-f4f0-42ca-8f35-a057c3e8209d",
-            "clue": "Cork plugs placed in bottles' necks",
-            "answer": "stoppers",
-            "normalized": "stoppers"
+            "id": "1a97c5dd-e61f-4d42-9a8b-c57d24815fe3",
+            "clue": "You've got mail, for short",
+            "answer": "ygm",
+            "normalized": "ygm"
           },
           {
-            "id": "c71b2aa9-2379-487d-8930-86bef6037170",
-            "clue": "Latin term meaning lamb of God",
-            "answer": "agnus dei",
-            "normalized": "agnusdei"
+            "id": "605fcd63-a493-419f-99af-a09321c11144",
+            "clue": "US TV network with rainbow peacock tail logo",
+            "answer": "nbc",
+            "normalized": "nbc"
           },
           {
-            "id": "c93971d0-ee8d-4e3b-bed6-f5554e0efbe7",
-            "clue": "Visual organ on the forehead of the god Shiva",
-            "answer": "third eye",
-            "normalized": "thirdeye"
+            "id": "0978e278-6678-4b7b-9dc9-308cac43f320",
+            "clue": "Breathe this in on a country walk",
+            "answer": "fresh air",
+            "normalized": "freshair"
           },
           {
-            "id": "22de58c6-4e31-410d-b906-19fc4e5e661c",
-            "clue": "Lurched from side to side like a boat",
-            "answer": "careened",
-            "normalized": "careened"
+            "id": "54ca7ca5-d783-4adf-b70b-85ab73788013",
+            "clue": "Small spring bulbs come in purple and gold colours",
+            "answer": "crocuses",
+            "normalized": "crocuses"
           },
           {
-            "id": "2efe06b8-95ff-4faf-b18f-06333a55d626",
-            "clue": "Leaked blood",
-            "answer": "bled",
-            "normalized": "bled"
+            "id": "bdc7b62f-5d87-4ddd-8367-654337961e95",
+            "clue": "To deprive of weapons",
+            "answer": "unarm",
+            "normalized": "unarm"
           },
           {
-            "id": "502cf269-91ca-4fbb-84ca-6d5e8a875014",
-            "clue": "Dry, waterless",
-            "answer": "arid",
-            "normalized": "arid"
+            "id": "8a266deb-c227-44f0-a863-373733d14a9b",
+            "clue": "Affably",
+            "answer": "genially",
+            "normalized": "genially"
           },
           {
-            "id": "d1962e3f-e996-453d-a203-76b50d254552",
-            "clue": "Build-up of this acid around joints can cause gout",
-            "answer": "uric",
-            "normalized": "uric"
+            "id": "47427bd1-bf41-400e-a488-c69a68e79ebe",
+            "clue": "German for \"Good Day\"",
+            "answer": "guten tag",
+            "normalized": "gutentag"
           },
           {
-            "id": "bcebe44e-5864-4961-a995-07443fd44ec3",
-            "clue": "Unhappy",
-            "answer": "sad",
-            "normalized": "sad"
+            "id": "223ffeb3-ba11-4f1f-9d60-5618429b3f04",
+            "clue": "Dissolve sugar in a cup of tea with a spoon",
+            "answer": "stir",
+            "normalized": "stir"
+          },
+          {
+            "id": "5e79b6de-44b7-4b19-9f28-b42a37bc30e5",
+            "clue": "Madison Square Garden is an indoor one",
+            "answer": "arena",
+            "normalized": "arena"
+          },
+          {
+            "id": "7807b88e-b92b-481d-8d63-d23524abf2ed",
+            "clue": "Chinese e-commerce company seen on social media",
+            "answer": "temu",
+            "normalized": "temu"
+          },
+          {
+            "id": "c95104b1-e646-4c7c-8ccc-e347c256199e",
+            "clue": "Goes before Perignon for a monk or a fizzy wine",
+            "answer": "dom",
+            "normalized": "dom"
           }
         ],
-        "track": "PC|LenC--Y2026M9D6F1"
+        "track": "PC|LenC--Y2026M9D7F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-06",
+      "key": "2026-09-07",
       "year": 2026,
       "month": 9,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "361901f8-64c4-4f0a-8d69-56187063d414",
+        "puzzleId": "bc8213bf-bb06-41e3-a5e4-0f302af93178",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "eed96a44-9815-4928-a0b8-1687afe14502",
-            "clue": "Sine __ non, indispensable",
-            "answer": "qua",
-            "normalized": "qua"
+            "id": "daf6e914-34d9-4272-a6e9-145788b9a5f1",
+            "clue": "Boat built by Noah",
+            "answer": "ark",
+            "normalized": "ark"
           },
           {
-            "id": "7788d1f4-f353-4e85-b184-0feae79cb762",
-            "clue": "Rend or draw apart",
-            "answer": "pull",
-            "normalized": "pull"
+            "id": "26fda6df-98a2-4eb2-8175-0945f907b96a",
+            "clue": "The largest country in South America",
+            "answer": "brazil",
+            "normalized": "brazil"
           },
           {
-            "id": "01af94a2-d825-43c3-bf61-5cddd4d75f87",
-            "clue": "An old woman or witch in folklore",
-            "answer": "crone",
-            "normalized": "crone"
+            "id": "4de44db7-181b-44e1-8297-ecdd9ba39277",
+            "clue": "An oasis is a green watery __ in a desert",
+            "answer": "refuge",
+            "normalized": "refuge"
           },
           {
-            "id": "435dd2e1-e9d8-42a2-85a8-f2e269f684a7",
-            "clue": "Sodium compound used in many cleaning products",
-            "answer": "borax",
-            "normalized": "borax"
+            "id": "e57bf158-0e22-4c25-8250-5dcada7547d3",
+            "clue": "Feeling a strong dislike towards something",
+            "answer": "averse",
+            "normalized": "averse"
           },
           {
-            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
-            "clue": "Actor Epps of Shooter and House",
-            "answer": "omar",
-            "normalized": "omar"
+            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
+            "clue": "South-southwest for short",
+            "answer": "ssw",
+            "normalized": "ssw"
           },
           {
-            "id": "f54e75a0-9219-4ba4-bafc-99fda380d526",
-            "clue": "Social network for questions or answers",
-            "answer": "quora",
-            "normalized": "quora"
+            "id": "ef63e921-0841-4614-a58b-d8271e06e650",
+            "clue": "Poetic French term to say bright, clear blue",
+            "answer": "azur",
+            "normalized": "azur"
           },
           {
-            "id": "c6d86bdb-6f19-4205-aff5-575105db1040",
-            "clue": "Relating to one of the lower arm bones",
-            "answer": "ulnar",
-            "normalized": "ulnar"
+            "id": "233e3c68-c1cf-4109-a81d-e8d672fd1e3c",
+            "clue": "Oil platforms",
+            "answer": "rigs",
+            "normalized": "rigs"
           },
           {
-            "id": "65d2eac5-ab88-4bb0-ad39-e4efe8bba179",
-            "clue": "Former Jeopardy! host __ Trebek",
-            "answer": "alex",
-            "normalized": "alex"
+            "id": "19bd5659-da92-41f4-b964-b1e5be3a2800",
+            "clue": "Swiss-German painter Paul who died in 1940",
+            "answer": "klee",
+            "normalized": "klee"
           },
           {
-            "id": "42943f8e-cdeb-4507-900d-786837994027",
-            "clue": "Fancy end-of-year high school dance",
-            "answer": "prom",
-            "normalized": "prom"
+            "id": "47d658ab-70f4-4ee6-a2d3-63875bdad20c",
+            "clue": "Supportive female undergarments",
+            "answer": "bras",
+            "normalized": "bras"
           },
           {
-            "id": "e2be5086-0069-4bbf-ae89-0b2c49f2964a",
-            "clue": "Initialism for chief business officer",
-            "answer": "cbo",
-            "normalized": "cbo"
+            "id": "2448c2d7-4180-443e-8382-05c1a6b71cf2",
+            "clue": "Speeds up an engine",
+            "answer": "revs",
+            "normalized": "revs"
+          },
+          {
+            "id": "a2e5cf31-b42e-4b0a-b704-9beb112af87e",
+            "clue": "Number of good men in the Cruise, Nicholson film",
+            "answer": "a few",
+            "normalized": "afew"
           }
         ],
-        "track": "PC|LenC--Y2026M9D6F0"
+        "track": "PC|LenC--Y2026M9D7F0"
       },
       "mid": {
-        "puzzleId": "35d9def4-f084-4066-8fea-a6e080eb6cb8",
+        "puzzleId": "a4110fea-b07b-4edd-8e10-a73bf27ca081",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-            "clue": "Short for Republic of South Africa",
-            "answer": "rsa",
-            "normalized": "rsa"
+            "id": "876bbfe4-6135-423d-989c-ed9d06daba9c",
+            "clue": "Communication within the near-field",
+            "answer": "nfc",
+            "normalized": "nfc"
           },
           {
-            "id": "d5a9ce94-e44b-434c-8d5c-7ddf3324fe09",
-            "clue": "Letters in the logo and motto of Elvis Presley",
-            "answer": "tcb",
-            "normalized": "tcb"
+            "id": "940e22b9-9d9b-4b62-8f41-e55caa128e93",
+            "clue": "Fleece-lined footwear",
+            "answer": "uggs",
+            "normalized": "uggs"
           },
           {
-            "id": "d30be79d-4042-4a65-9e5f-c012ad7395e4",
-            "clue": "Medical abbreviation for nitroglycerin",
-            "answer": "ntg",
-            "normalized": "ntg"
+            "id": "3ee8d225-e035-41b4-b42d-dbf2613b882a",
+            "clue": "Sound made when feeling the cold",
+            "answer": "brr",
+            "normalized": "brr"
           },
           {
-            "id": "352d0322-5455-4fbd-8bc9-d7be59e4d9e3",
-            "clue": "Jack Black movie Shallow __, or 2001 computer",
-            "answer": "hal",
-            "normalized": "hal"
+            "id": "38224a4d-68f2-4f51-9bf5-907cccd7b353",
+            "clue": "Abbreviation for being grammatically genderless",
+            "answer": "neut",
+            "normalized": "neut"
           },
           {
-            "id": "181e2396-fdce-402c-afb4-3ef6744e43a2",
-            "clue": "One of the ABC islands, with Aruba and Curaçao",
-            "answer": "bonaire",
-            "normalized": "bonaire"
+            "id": "63925bed-9016-4e5f-944f-d9adacc5aadc",
+            "clue": "Executive chief of a company",
+            "answer": "ceo",
+            "normalized": "ceo"
           },
           {
-            "id": "a37238c5-b64c-4b7f-9eaa-59f2865bd47a",
-            "clue": "What happy cats did",
-            "answer": "purred",
-            "normalized": "purred"
+            "id": "fd0692dd-32b6-4001-8f39-515e3150582b",
+            "clue": "Not pro; against something",
+            "answer": "anti",
+            "normalized": "anti"
           },
           {
-            "id": "3c72cf3c-f52b-4075-828b-22e07c7c2c9a",
-            "clue": "Fruit on top? The flipped __ down cake",
-            "answer": "upside",
-            "normalized": "upside"
+            "id": "16e11b37-f55b-4901-8605-4148afa27614",
+            "clue": "More terrifying",
+            "answer": "scarier",
+            "normalized": "scarier"
           },
           {
-            "id": "a31423c2-2191-41ce-afcf-1a820b36dfdd",
-            "clue": "What happens to your cheeks when you blush",
-            "answer": "reddens",
-            "normalized": "reddens"
+            "id": "b7bc641c-096e-42f0-9e60-a33de2ed8f66",
+            "clue": "Uma __, actress of Kill Bill",
+            "answer": "thurman",
+            "normalized": "thurman"
           },
           {
-            "id": "ff5dc063-2f6f-4a5a-813e-2359be1817ac",
-            "clue": "Furious wrath",
-            "answer": "ire",
-            "normalized": "ire"
+            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
+            "clue": "Relieve pain or tightness",
+            "answer": "ease",
+            "normalized": "ease"
           },
           {
-            "id": "d38dcc57-ea19-4e11-8cdf-23285626e041",
-            "clue": "Old-fashioned, political yes; opposite of nay",
-            "answer": "yea",
-            "normalized": "yea"
+            "id": "566e7c44-9de8-4844-b760-3d326a09648c",
+            "clue": "Three letters after a limited company",
+            "answer": "ltd",
+            "normalized": "ltd"
           },
           {
-            "id": "5bc268ad-e41e-43cb-accb-cc51facc4863",
-            "clue": "Law enforcement forensic team",
-            "answer": "csi",
-            "normalized": "csi"
+            "id": "67472189-aaf4-4751-a74a-34c25f83eb2c",
+            "clue": "Literary word for appearance and manner",
+            "answer": "mien",
+            "normalized": "mien"
           },
           {
-            "id": "4bc60ae6-0eca-4e4c-a112-4bdfc8265971",
-            "clue": "Initialism for Earliest Due Date scheduling",
-            "answer": "edd",
-            "normalized": "edd"
+            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
+            "clue": "Relating to the country with Vientiane as capital",
+            "answer": "lao",
+            "normalized": "lao"
           },
           {
-            "id": "6b21b8f7-b9b3-4cab-94e1-e2f22e56d9cc",
-            "clue": "Popular music genre, mix of jazz, gospel, blues",
-            "answer": "rnb",
-            "normalized": "rnb"
+            "id": "76644505-229a-4440-aee7-fe36d6b7dd25",
+            "clue": "The Big Dipper is part of __ Major",
+            "answer": "ursa",
+            "normalized": "ursa"
           },
           {
-            "id": "b3db79c6-f4f0-42ca-8f35-a057c3e8209d",
-            "clue": "Cork plugs placed in bottles' necks",
-            "answer": "stoppers",
-            "normalized": "stoppers"
+            "id": "1a97c5dd-e61f-4d42-9a8b-c57d24815fe3",
+            "clue": "You've got mail, for short",
+            "answer": "ygm",
+            "normalized": "ygm"
           },
           {
-            "id": "c71b2aa9-2379-487d-8930-86bef6037170",
-            "clue": "Latin term meaning lamb of God",
-            "answer": "agnus dei",
-            "normalized": "agnusdei"
+            "id": "605fcd63-a493-419f-99af-a09321c11144",
+            "clue": "US TV network with rainbow peacock tail logo",
+            "answer": "nbc",
+            "normalized": "nbc"
           },
           {
-            "id": "c93971d0-ee8d-4e3b-bed6-f5554e0efbe7",
-            "clue": "Visual organ on the forehead of the god Shiva",
-            "answer": "third eye",
-            "normalized": "thirdeye"
+            "id": "0978e278-6678-4b7b-9dc9-308cac43f320",
+            "clue": "Breathe this in on a country walk",
+            "answer": "fresh air",
+            "normalized": "freshair"
           },
           {
-            "id": "22de58c6-4e31-410d-b906-19fc4e5e661c",
-            "clue": "Lurched from side to side like a boat",
-            "answer": "careened",
-            "normalized": "careened"
+            "id": "54ca7ca5-d783-4adf-b70b-85ab73788013",
+            "clue": "Small spring bulbs come in purple and gold colours",
+            "answer": "crocuses",
+            "normalized": "crocuses"
           },
           {
-            "id": "2efe06b8-95ff-4faf-b18f-06333a55d626",
-            "clue": "Leaked blood",
-            "answer": "bled",
-            "normalized": "bled"
+            "id": "bdc7b62f-5d87-4ddd-8367-654337961e95",
+            "clue": "To deprive of weapons",
+            "answer": "unarm",
+            "normalized": "unarm"
           },
           {
-            "id": "502cf269-91ca-4fbb-84ca-6d5e8a875014",
-            "clue": "Dry, waterless",
-            "answer": "arid",
-            "normalized": "arid"
+            "id": "8a266deb-c227-44f0-a863-373733d14a9b",
+            "clue": "Affably",
+            "answer": "genially",
+            "normalized": "genially"
           },
           {
-            "id": "d1962e3f-e996-453d-a203-76b50d254552",
-            "clue": "Build-up of this acid around joints can cause gout",
-            "answer": "uric",
-            "normalized": "uric"
+            "id": "47427bd1-bf41-400e-a488-c69a68e79ebe",
+            "clue": "German for \"Good Day\"",
+            "answer": "guten tag",
+            "normalized": "gutentag"
           },
           {
-            "id": "bcebe44e-5864-4961-a995-07443fd44ec3",
-            "clue": "Unhappy",
-            "answer": "sad",
-            "normalized": "sad"
+            "id": "223ffeb3-ba11-4f1f-9d60-5618429b3f04",
+            "clue": "Dissolve sugar in a cup of tea with a spoon",
+            "answer": "stir",
+            "normalized": "stir"
+          },
+          {
+            "id": "5e79b6de-44b7-4b19-9f28-b42a37bc30e5",
+            "clue": "Madison Square Garden is an indoor one",
+            "answer": "arena",
+            "normalized": "arena"
+          },
+          {
+            "id": "7807b88e-b92b-481d-8d63-d23524abf2ed",
+            "clue": "Chinese e-commerce company seen on social media",
+            "answer": "temu",
+            "normalized": "temu"
+          },
+          {
+            "id": "c95104b1-e646-4c7c-8ccc-e347c256199e",
+            "clue": "Goes before Perignon for a monk or a fizzy wine",
+            "answer": "dom",
+            "normalized": "dom"
           }
         ],
-        "track": "PC|LenC--Y2026M9D6F1"
+        "track": "PC|LenC--Y2026M9D7F1"
       }
     },
     "latestAvailableEntry": {
@@ -441311,21 +441359,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "/wFG7euVfpubpgo3f+qL7Ys2zeOtwXjitTfTbrvxlbbg+e1ZjXo+DkdVOj/UWLfFs15OsvuE4JbLDcXdbkM7fo5B/wRT6NPwVLcizlpUTbXdM7vXppX3IQTcEx/kqR6QFxmJia7sHhkxc0TMjeGTC82SNRJmOEplUCZiOuzb3KY6INzMtoI15otnAlKtuM8R9s6ZyLNzG69o9rh0Ihv0BnYnlqCDdlmIh4scuJ/uYCVkB3SaSk2AYDKOoBwB/sFLM0kJZqisOCTYOZ9Lv48qwdPPvq0oTmA0c42UHZbTwNE="
+        "KElFz71jw/vEi/lxGpRNXQsopaJY77VCGAOCaDlzwH5bvhIRisyrfdYT5s1seilz3eH5KTIK1akZlP0ekUhiLxJX3Txe2f0UHKasjCLkpjcIp4dwDiDMHWN3OeD8YP+gp06Yx1+bZ1ahjiMEtVe2orQ/wJcJZv1AbLC+9hgi9iEzb7wdoZeGX0I0N7NFkQtHjZu7hqBhBhSsudVLfsPubGj8yO+XuD5aawdapXYg0thhoQazmaJE73glVuZR7j7ax963DgMZ1YKSUrYmXy6TI2aLEV7G3hYgGTdBazIJ4M4="
       ]
     },
     "decrypted": {
-      "Id": "1927a013-4f46-45ff-9871-fb5ca95373bc",
-      "Date": "2026-09-06T00:00:00Z",
+      "Id": "cd9fe3f7-cac5-452a-86ed-bf20c07295a4",
+      "Date": "2026-09-07T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "brick",
-      "NormalizedPassword": "brick",
+      "Password": "sauce",
+      "NormalizedPassword": "sauce",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-06T02:01:21.8510000+05:30",
-    "hash": "ec59ad8b7f48bbbebafef1a6ea18f1c3",
+    "dtu": "2026-09-07T02:04:52.8330000+05:30",
+    "hash": "76233df0949eb1800dbb8db0c024680b",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
