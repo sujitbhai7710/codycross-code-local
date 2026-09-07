@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T20:34:52.833Z",
+  "generatedAt": "2026-09-07T21:37:56.830Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 7
+    "day": 8
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 10
+        "QuantidadeDeFases": 12
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440685,475 +440685,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-07",
+      "key": "2026-09-08",
       "year": 2026,
       "month": 9,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "bc8213bf-bb06-41e3-a5e4-0f302af93178",
+        "puzzleId": "e5e12f09-9a2f-42fa-8c11-c3c0be047c3e",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 4,
-        "answers": [
-          {
-            "id": "daf6e914-34d9-4272-a6e9-145788b9a5f1",
-            "clue": "Boat built by Noah",
-            "answer": "ark",
-            "normalized": "ark"
-          },
-          {
-            "id": "26fda6df-98a2-4eb2-8175-0945f907b96a",
-            "clue": "The largest country in South America",
-            "answer": "brazil",
-            "normalized": "brazil"
-          },
-          {
-            "id": "4de44db7-181b-44e1-8297-ecdd9ba39277",
-            "clue": "An oasis is a green watery __ in a desert",
-            "answer": "refuge",
-            "normalized": "refuge"
-          },
-          {
-            "id": "e57bf158-0e22-4c25-8250-5dcada7547d3",
-            "clue": "Feeling a strong dislike towards something",
-            "answer": "averse",
-            "normalized": "averse"
-          },
-          {
-            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
-            "clue": "South-southwest for short",
-            "answer": "ssw",
-            "normalized": "ssw"
-          },
-          {
-            "id": "ef63e921-0841-4614-a58b-d8271e06e650",
-            "clue": "Poetic French term to say bright, clear blue",
-            "answer": "azur",
-            "normalized": "azur"
-          },
-          {
-            "id": "233e3c68-c1cf-4109-a81d-e8d672fd1e3c",
-            "clue": "Oil platforms",
-            "answer": "rigs",
-            "normalized": "rigs"
-          },
-          {
-            "id": "19bd5659-da92-41f4-b964-b1e5be3a2800",
-            "clue": "Swiss-German painter Paul who died in 1940",
-            "answer": "klee",
-            "normalized": "klee"
-          },
-          {
-            "id": "47d658ab-70f4-4ee6-a2d3-63875bdad20c",
-            "clue": "Supportive female undergarments",
-            "answer": "bras",
-            "normalized": "bras"
-          },
-          {
-            "id": "2448c2d7-4180-443e-8382-05c1a6b71cf2",
-            "clue": "Speeds up an engine",
-            "answer": "revs",
-            "normalized": "revs"
-          },
-          {
-            "id": "a2e5cf31-b42e-4b0a-b704-9beb112af87e",
-            "clue": "Number of good men in the Cruise, Nicholson film",
-            "answer": "a few",
-            "normalized": "afew"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D7F0"
-      },
-      "mid": {
-        "puzzleId": "a4110fea-b07b-4edd-8e10-a73bf27ca081",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "876bbfe4-6135-423d-989c-ed9d06daba9c",
-            "clue": "Communication within the near-field",
-            "answer": "nfc",
-            "normalized": "nfc"
+            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
+            "clue": "London music company founded in 1931",
+            "answer": "emi",
+            "normalized": "emi"
           },
           {
-            "id": "940e22b9-9d9b-4b62-8f41-e55caa128e93",
-            "clue": "Fleece-lined footwear",
-            "answer": "uggs",
-            "normalized": "uggs"
+            "id": "f2ad0c6a-96cd-4935-9282-c77c32497e73",
+            "clue": "Excuse, forgive; absolve",
+            "answer": "pardon",
+            "normalized": "pardon"
           },
           {
-            "id": "3ee8d225-e035-41b4-b42d-dbf2613b882a",
-            "clue": "Sound made when feeling the cold",
-            "answer": "brr",
-            "normalized": "brr"
+            "id": "c8f24686-0a08-4420-8224-5130af43fbfd",
+            "clue": "Book of Changes classical Chinese text",
+            "answer": "i ching",
+            "normalized": "iching"
           },
           {
-            "id": "38224a4d-68f2-4f51-9bf5-907cccd7b353",
-            "clue": "Abbreviation for being grammatically genderless",
-            "answer": "neut",
-            "normalized": "neut"
+            "id": "84019af3-959d-4efd-a4ab-bb503bc27b39",
+            "clue": "Letter th in the Greek alphabet",
+            "answer": "theta",
+            "normalized": "theta"
           },
           {
-            "id": "63925bed-9016-4e5f-944f-d9adacc5aadc",
-            "clue": "Executive chief of a company",
-            "answer": "ceo",
-            "normalized": "ceo"
+            "id": "3666b1b3-6381-4ce3-baac-99c66b001761",
+            "clue": "Informal, easy way of saying yes",
+            "answer": "yeah",
+            "normalized": "yeah"
           },
           {
-            "id": "fd0692dd-32b6-4001-8f39-515e3150582b",
-            "clue": "Not pro; against something",
-            "answer": "anti",
-            "normalized": "anti"
+            "id": "a35dd78b-45fb-4363-b17d-d7b749e0813f",
+            "clue": "Piaf, French singer who regretted nothing",
+            "answer": "edith",
+            "normalized": "edith"
           },
           {
-            "id": "16e11b37-f55b-4901-8605-4148afa27614",
-            "clue": "More terrifying",
-            "answer": "scarier",
-            "normalized": "scarier"
+            "id": "e777e89e-b479-4c14-abe8-93274dfd6255",
+            "clue": "Lisa in the famous da Vinci painting",
+            "answer": "mona",
+            "normalized": "mona"
           },
           {
-            "id": "b7bc641c-096e-42f0-9e60-a33de2ed8f66",
-            "clue": "Uma __, actress of Kill Bill",
-            "answer": "thurman",
-            "normalized": "thurman"
+            "id": "11986ec0-5261-4714-bbed-c10f7a87822b",
+            "clue": "Dutch banking group with a lion logo",
+            "answer": "ing",
+            "normalized": "ing"
           },
           {
-            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
-            "clue": "Relieve pain or tightness",
-            "answer": "ease",
-            "normalized": "ease"
+            "id": "a7c55023-7c55-49bc-b936-6befd16027e5",
+            "clue": "Mr. T catchphrase, I __ the fool",
+            "answer": "pity",
+            "normalized": "pity"
           },
           {
-            "id": "566e7c44-9de8-4844-b760-3d326a09648c",
-            "clue": "Three letters after a limited company",
-            "answer": "ltd",
-            "normalized": "ltd"
+            "id": "7c9d20c7-37be-4ea1-866a-7966069571d5",
+            "clue": "Sore pain",
+            "answer": "ache",
+            "normalized": "ache"
           },
           {
-            "id": "67472189-aaf4-4751-a74a-34c25f83eb2c",
-            "clue": "Literary word for appearance and manner",
-            "answer": "mien",
-            "normalized": "mien"
-          },
-          {
-            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
-            "clue": "Relating to the country with Vientiane as capital",
-            "answer": "lao",
-            "normalized": "lao"
-          },
-          {
-            "id": "76644505-229a-4440-aee7-fe36d6b7dd25",
-            "clue": "The Big Dipper is part of __ Major",
-            "answer": "ursa",
-            "normalized": "ursa"
-          },
-          {
-            "id": "1a97c5dd-e61f-4d42-9a8b-c57d24815fe3",
-            "clue": "You've got mail, for short",
-            "answer": "ygm",
-            "normalized": "ygm"
-          },
-          {
-            "id": "605fcd63-a493-419f-99af-a09321c11144",
-            "clue": "US TV network with rainbow peacock tail logo",
-            "answer": "nbc",
-            "normalized": "nbc"
-          },
-          {
-            "id": "0978e278-6678-4b7b-9dc9-308cac43f320",
-            "clue": "Breathe this in on a country walk",
-            "answer": "fresh air",
-            "normalized": "freshair"
-          },
-          {
-            "id": "54ca7ca5-d783-4adf-b70b-85ab73788013",
-            "clue": "Small spring bulbs come in purple and gold colours",
-            "answer": "crocuses",
-            "normalized": "crocuses"
-          },
-          {
-            "id": "bdc7b62f-5d87-4ddd-8367-654337961e95",
-            "clue": "To deprive of weapons",
-            "answer": "unarm",
-            "normalized": "unarm"
-          },
-          {
-            "id": "8a266deb-c227-44f0-a863-373733d14a9b",
-            "clue": "Affably",
-            "answer": "genially",
-            "normalized": "genially"
-          },
-          {
-            "id": "47427bd1-bf41-400e-a488-c69a68e79ebe",
-            "clue": "German for \"Good Day\"",
-            "answer": "guten tag",
-            "normalized": "gutentag"
-          },
-          {
-            "id": "223ffeb3-ba11-4f1f-9d60-5618429b3f04",
-            "clue": "Dissolve sugar in a cup of tea with a spoon",
-            "answer": "stir",
-            "normalized": "stir"
-          },
-          {
-            "id": "5e79b6de-44b7-4b19-9f28-b42a37bc30e5",
-            "clue": "Madison Square Garden is an indoor one",
-            "answer": "arena",
-            "normalized": "arena"
-          },
-          {
-            "id": "7807b88e-b92b-481d-8d63-d23524abf2ed",
-            "clue": "Chinese e-commerce company seen on social media",
-            "answer": "temu",
-            "normalized": "temu"
-          },
-          {
-            "id": "c95104b1-e646-4c7c-8ccc-e347c256199e",
-            "clue": "Goes before Perignon for a monk or a fizzy wine",
-            "answer": "dom",
-            "normalized": "dom"
+            "id": "940021c2-d62d-42b2-a017-0ea1943362a9",
+            "clue": "Perlman, Carla from Cheers",
+            "answer": "rhea",
+            "normalized": "rhea"
           }
         ],
-        "track": "PC|LenC--Y2026M9D7F1"
+        "track": "PC|LenC--Y2026M9D8F0"
+      },
+      "mid": {
+        "puzzleId": "a5417605-b8c7-49aa-b642-f40076f7c1fc",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 5,
+        "answers": [
+          {
+            "id": "44ff3de9-bd85-496b-ba89-684b2e2e6093",
+            "clue": "Old expression of shock or anger",
+            "answer": "egad",
+            "normalized": "egad"
+          },
+          {
+            "id": "fa52a55c-2c9b-4d42-817c-b7dd1c689d8b",
+            "clue": "Short for exterior",
+            "answer": "ext",
+            "normalized": "ext"
+          },
+          {
+            "id": "7d35050e-0abd-4266-a6b9-95a90f8df018",
+            "clue": "Able to read and write",
+            "answer": "literate",
+            "normalized": "literate"
+          },
+          {
+            "id": "6992b917-92ba-41ed-b319-ccedea6b0414",
+            "clue": "Spanish spelling of largest Balearic island",
+            "answer": "mallorca",
+            "normalized": "mallorca"
+          },
+          {
+            "id": "f32c8de1-7deb-4fd8-80de-5c856fc565ab",
+            "clue": "Nuclear fission happens if you split one",
+            "answer": "atom",
+            "normalized": "atom"
+          },
+          {
+            "id": "43382d8c-0e3b-4e7d-a78d-75cd2f49a985",
+            "clue": "Be towed in the air behind a boat",
+            "answer": "parasail",
+            "normalized": "parasail"
+          },
+          {
+            "id": "48a7fed4-7fd4-45d9-8dad-98608ef883a1",
+            "clue": "Rabbit's surname in the John Updike novels",
+            "answer": "angstrom",
+            "normalized": "angstrom"
+          },
+          {
+            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
+            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
+            "answer": "rae",
+            "normalized": "rae"
+          },
+          {
+            "id": "130b09d0-fd3d-4abe-9157-7e47f9eeb4ab",
+            "clue": "Large brown seabird found in icy climates",
+            "answer": "skua",
+            "normalized": "skua"
+          },
+          {
+            "id": "66f83741-26ed-46d8-9c66-8ffbcbda71d5",
+            "clue": "Type of tree that can have a Dutch disease",
+            "answer": "elm",
+            "normalized": "elm"
+          },
+          {
+            "id": "a5bc831d-5653-48db-a9ba-cc6910ac4630",
+            "clue": "Angelina Jolie biographical nineties model movie",
+            "answer": "gia",
+            "normalized": "gia"
+          },
+          {
+            "id": "ed9da01c-a857-406a-a47c-783a5f9a361c",
+            "clue": "An escaped criminal is this until captured",
+            "answer": "at large",
+            "normalized": "atlarge"
+          },
+          {
+            "id": "f68ffc0f-c8ff-481a-9901-bc978e145b77",
+            "clue": "Triangular river mouths",
+            "answer": "deltas",
+            "normalized": "deltas"
+          },
+          {
+            "id": "253e1dfe-0896-4d99-a30b-e7be075625b6",
+            "clue": "Designate funding for a particular project",
+            "answer": "earmark",
+            "normalized": "earmark"
+          },
+          {
+            "id": "10d9ae47-b632-4cd2-a09b-e45a71c29cf3",
+            "clue": "English rock band fronted by Andy Partridge",
+            "answer": "xtc",
+            "normalized": "xtc"
+          },
+          {
+            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
+            "clue": "Leafy drink",
+            "answer": "tea",
+            "normalized": "tea"
+          },
+          {
+            "id": "79e35fa9-23b4-4465-a585-913ff99a0618",
+            "clue": "Places where hens sleep",
+            "answer": "roosts",
+            "normalized": "roosts"
+          },
+          {
+            "id": "3fe5f146-6a08-4008-86d0-5edff737dace",
+            "clue": "Standard number of golf strokes for a hole",
+            "answer": "par",
+            "normalized": "par"
+          },
+          {
+            "id": "0bbff95c-10b8-477e-9417-fe5d1f29e431",
+            "clue": "No Time To Die actress de Armas",
+            "answer": "ana",
+            "normalized": "ana"
+          },
+          {
+            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
+            "clue": "Note scribbled to someone after borrowing money",
+            "answer": "iou",
+            "normalized": "iou"
+          },
+          {
+            "id": "439d8dfb-5a50-4645-93fa-27594879e863",
+            "clue": "Leave me alone",
+            "answer": "lma",
+            "normalized": "lma"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D8F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-07",
+      "key": "2026-09-08",
       "year": 2026,
       "month": 9,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "bc8213bf-bb06-41e3-a5e4-0f302af93178",
+        "puzzleId": "e5e12f09-9a2f-42fa-8c11-c3c0be047c3e",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 4,
-        "answers": [
-          {
-            "id": "daf6e914-34d9-4272-a6e9-145788b9a5f1",
-            "clue": "Boat built by Noah",
-            "answer": "ark",
-            "normalized": "ark"
-          },
-          {
-            "id": "26fda6df-98a2-4eb2-8175-0945f907b96a",
-            "clue": "The largest country in South America",
-            "answer": "brazil",
-            "normalized": "brazil"
-          },
-          {
-            "id": "4de44db7-181b-44e1-8297-ecdd9ba39277",
-            "clue": "An oasis is a green watery __ in a desert",
-            "answer": "refuge",
-            "normalized": "refuge"
-          },
-          {
-            "id": "e57bf158-0e22-4c25-8250-5dcada7547d3",
-            "clue": "Feeling a strong dislike towards something",
-            "answer": "averse",
-            "normalized": "averse"
-          },
-          {
-            "id": "70818c2b-5ff9-4ff1-afa0-03d8bce5f72e",
-            "clue": "South-southwest for short",
-            "answer": "ssw",
-            "normalized": "ssw"
-          },
-          {
-            "id": "ef63e921-0841-4614-a58b-d8271e06e650",
-            "clue": "Poetic French term to say bright, clear blue",
-            "answer": "azur",
-            "normalized": "azur"
-          },
-          {
-            "id": "233e3c68-c1cf-4109-a81d-e8d672fd1e3c",
-            "clue": "Oil platforms",
-            "answer": "rigs",
-            "normalized": "rigs"
-          },
-          {
-            "id": "19bd5659-da92-41f4-b964-b1e5be3a2800",
-            "clue": "Swiss-German painter Paul who died in 1940",
-            "answer": "klee",
-            "normalized": "klee"
-          },
-          {
-            "id": "47d658ab-70f4-4ee6-a2d3-63875bdad20c",
-            "clue": "Supportive female undergarments",
-            "answer": "bras",
-            "normalized": "bras"
-          },
-          {
-            "id": "2448c2d7-4180-443e-8382-05c1a6b71cf2",
-            "clue": "Speeds up an engine",
-            "answer": "revs",
-            "normalized": "revs"
-          },
-          {
-            "id": "a2e5cf31-b42e-4b0a-b704-9beb112af87e",
-            "clue": "Number of good men in the Cruise, Nicholson film",
-            "answer": "a few",
-            "normalized": "afew"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D7F0"
-      },
-      "mid": {
-        "puzzleId": "a4110fea-b07b-4edd-8e10-a73bf27ca081",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "876bbfe4-6135-423d-989c-ed9d06daba9c",
-            "clue": "Communication within the near-field",
-            "answer": "nfc",
-            "normalized": "nfc"
+            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
+            "clue": "London music company founded in 1931",
+            "answer": "emi",
+            "normalized": "emi"
           },
           {
-            "id": "940e22b9-9d9b-4b62-8f41-e55caa128e93",
-            "clue": "Fleece-lined footwear",
-            "answer": "uggs",
-            "normalized": "uggs"
+            "id": "f2ad0c6a-96cd-4935-9282-c77c32497e73",
+            "clue": "Excuse, forgive; absolve",
+            "answer": "pardon",
+            "normalized": "pardon"
           },
           {
-            "id": "3ee8d225-e035-41b4-b42d-dbf2613b882a",
-            "clue": "Sound made when feeling the cold",
-            "answer": "brr",
-            "normalized": "brr"
+            "id": "c8f24686-0a08-4420-8224-5130af43fbfd",
+            "clue": "Book of Changes classical Chinese text",
+            "answer": "i ching",
+            "normalized": "iching"
           },
           {
-            "id": "38224a4d-68f2-4f51-9bf5-907cccd7b353",
-            "clue": "Abbreviation for being grammatically genderless",
-            "answer": "neut",
-            "normalized": "neut"
+            "id": "84019af3-959d-4efd-a4ab-bb503bc27b39",
+            "clue": "Letter th in the Greek alphabet",
+            "answer": "theta",
+            "normalized": "theta"
           },
           {
-            "id": "63925bed-9016-4e5f-944f-d9adacc5aadc",
-            "clue": "Executive chief of a company",
-            "answer": "ceo",
-            "normalized": "ceo"
+            "id": "3666b1b3-6381-4ce3-baac-99c66b001761",
+            "clue": "Informal, easy way of saying yes",
+            "answer": "yeah",
+            "normalized": "yeah"
           },
           {
-            "id": "fd0692dd-32b6-4001-8f39-515e3150582b",
-            "clue": "Not pro; against something",
-            "answer": "anti",
-            "normalized": "anti"
+            "id": "a35dd78b-45fb-4363-b17d-d7b749e0813f",
+            "clue": "Piaf, French singer who regretted nothing",
+            "answer": "edith",
+            "normalized": "edith"
           },
           {
-            "id": "16e11b37-f55b-4901-8605-4148afa27614",
-            "clue": "More terrifying",
-            "answer": "scarier",
-            "normalized": "scarier"
+            "id": "e777e89e-b479-4c14-abe8-93274dfd6255",
+            "clue": "Lisa in the famous da Vinci painting",
+            "answer": "mona",
+            "normalized": "mona"
           },
           {
-            "id": "b7bc641c-096e-42f0-9e60-a33de2ed8f66",
-            "clue": "Uma __, actress of Kill Bill",
-            "answer": "thurman",
-            "normalized": "thurman"
+            "id": "11986ec0-5261-4714-bbed-c10f7a87822b",
+            "clue": "Dutch banking group with a lion logo",
+            "answer": "ing",
+            "normalized": "ing"
           },
           {
-            "id": "86537af5-2180-45e9-b9da-c253e81ca18c",
-            "clue": "Relieve pain or tightness",
-            "answer": "ease",
-            "normalized": "ease"
+            "id": "a7c55023-7c55-49bc-b936-6befd16027e5",
+            "clue": "Mr. T catchphrase, I __ the fool",
+            "answer": "pity",
+            "normalized": "pity"
           },
           {
-            "id": "566e7c44-9de8-4844-b760-3d326a09648c",
-            "clue": "Three letters after a limited company",
-            "answer": "ltd",
-            "normalized": "ltd"
+            "id": "7c9d20c7-37be-4ea1-866a-7966069571d5",
+            "clue": "Sore pain",
+            "answer": "ache",
+            "normalized": "ache"
           },
           {
-            "id": "67472189-aaf4-4751-a74a-34c25f83eb2c",
-            "clue": "Literary word for appearance and manner",
-            "answer": "mien",
-            "normalized": "mien"
-          },
-          {
-            "id": "8fdd004f-f671-434d-ab12-30412ffe6fa6",
-            "clue": "Relating to the country with Vientiane as capital",
-            "answer": "lao",
-            "normalized": "lao"
-          },
-          {
-            "id": "76644505-229a-4440-aee7-fe36d6b7dd25",
-            "clue": "The Big Dipper is part of __ Major",
-            "answer": "ursa",
-            "normalized": "ursa"
-          },
-          {
-            "id": "1a97c5dd-e61f-4d42-9a8b-c57d24815fe3",
-            "clue": "You've got mail, for short",
-            "answer": "ygm",
-            "normalized": "ygm"
-          },
-          {
-            "id": "605fcd63-a493-419f-99af-a09321c11144",
-            "clue": "US TV network with rainbow peacock tail logo",
-            "answer": "nbc",
-            "normalized": "nbc"
-          },
-          {
-            "id": "0978e278-6678-4b7b-9dc9-308cac43f320",
-            "clue": "Breathe this in on a country walk",
-            "answer": "fresh air",
-            "normalized": "freshair"
-          },
-          {
-            "id": "54ca7ca5-d783-4adf-b70b-85ab73788013",
-            "clue": "Small spring bulbs come in purple and gold colours",
-            "answer": "crocuses",
-            "normalized": "crocuses"
-          },
-          {
-            "id": "bdc7b62f-5d87-4ddd-8367-654337961e95",
-            "clue": "To deprive of weapons",
-            "answer": "unarm",
-            "normalized": "unarm"
-          },
-          {
-            "id": "8a266deb-c227-44f0-a863-373733d14a9b",
-            "clue": "Affably",
-            "answer": "genially",
-            "normalized": "genially"
-          },
-          {
-            "id": "47427bd1-bf41-400e-a488-c69a68e79ebe",
-            "clue": "German for \"Good Day\"",
-            "answer": "guten tag",
-            "normalized": "gutentag"
-          },
-          {
-            "id": "223ffeb3-ba11-4f1f-9d60-5618429b3f04",
-            "clue": "Dissolve sugar in a cup of tea with a spoon",
-            "answer": "stir",
-            "normalized": "stir"
-          },
-          {
-            "id": "5e79b6de-44b7-4b19-9f28-b42a37bc30e5",
-            "clue": "Madison Square Garden is an indoor one",
-            "answer": "arena",
-            "normalized": "arena"
-          },
-          {
-            "id": "7807b88e-b92b-481d-8d63-d23524abf2ed",
-            "clue": "Chinese e-commerce company seen on social media",
-            "answer": "temu",
-            "normalized": "temu"
-          },
-          {
-            "id": "c95104b1-e646-4c7c-8ccc-e347c256199e",
-            "clue": "Goes before Perignon for a monk or a fizzy wine",
-            "answer": "dom",
-            "normalized": "dom"
+            "id": "940021c2-d62d-42b2-a017-0ea1943362a9",
+            "clue": "Perlman, Carla from Cheers",
+            "answer": "rhea",
+            "normalized": "rhea"
           }
         ],
-        "track": "PC|LenC--Y2026M9D7F1"
+        "track": "PC|LenC--Y2026M9D8F0"
+      },
+      "mid": {
+        "puzzleId": "a5417605-b8c7-49aa-b642-f40076f7c1fc",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 5,
+        "answers": [
+          {
+            "id": "44ff3de9-bd85-496b-ba89-684b2e2e6093",
+            "clue": "Old expression of shock or anger",
+            "answer": "egad",
+            "normalized": "egad"
+          },
+          {
+            "id": "fa52a55c-2c9b-4d42-817c-b7dd1c689d8b",
+            "clue": "Short for exterior",
+            "answer": "ext",
+            "normalized": "ext"
+          },
+          {
+            "id": "7d35050e-0abd-4266-a6b9-95a90f8df018",
+            "clue": "Able to read and write",
+            "answer": "literate",
+            "normalized": "literate"
+          },
+          {
+            "id": "6992b917-92ba-41ed-b319-ccedea6b0414",
+            "clue": "Spanish spelling of largest Balearic island",
+            "answer": "mallorca",
+            "normalized": "mallorca"
+          },
+          {
+            "id": "f32c8de1-7deb-4fd8-80de-5c856fc565ab",
+            "clue": "Nuclear fission happens if you split one",
+            "answer": "atom",
+            "normalized": "atom"
+          },
+          {
+            "id": "43382d8c-0e3b-4e7d-a78d-75cd2f49a985",
+            "clue": "Be towed in the air behind a boat",
+            "answer": "parasail",
+            "normalized": "parasail"
+          },
+          {
+            "id": "48a7fed4-7fd4-45d9-8dad-98608ef883a1",
+            "clue": "Rabbit's surname in the John Updike novels",
+            "answer": "angstrom",
+            "normalized": "angstrom"
+          },
+          {
+            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
+            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
+            "answer": "rae",
+            "normalized": "rae"
+          },
+          {
+            "id": "130b09d0-fd3d-4abe-9157-7e47f9eeb4ab",
+            "clue": "Large brown seabird found in icy climates",
+            "answer": "skua",
+            "normalized": "skua"
+          },
+          {
+            "id": "66f83741-26ed-46d8-9c66-8ffbcbda71d5",
+            "clue": "Type of tree that can have a Dutch disease",
+            "answer": "elm",
+            "normalized": "elm"
+          },
+          {
+            "id": "a5bc831d-5653-48db-a9ba-cc6910ac4630",
+            "clue": "Angelina Jolie biographical nineties model movie",
+            "answer": "gia",
+            "normalized": "gia"
+          },
+          {
+            "id": "ed9da01c-a857-406a-a47c-783a5f9a361c",
+            "clue": "An escaped criminal is this until captured",
+            "answer": "at large",
+            "normalized": "atlarge"
+          },
+          {
+            "id": "f68ffc0f-c8ff-481a-9901-bc978e145b77",
+            "clue": "Triangular river mouths",
+            "answer": "deltas",
+            "normalized": "deltas"
+          },
+          {
+            "id": "253e1dfe-0896-4d99-a30b-e7be075625b6",
+            "clue": "Designate funding for a particular project",
+            "answer": "earmark",
+            "normalized": "earmark"
+          },
+          {
+            "id": "10d9ae47-b632-4cd2-a09b-e45a71c29cf3",
+            "clue": "English rock band fronted by Andy Partridge",
+            "answer": "xtc",
+            "normalized": "xtc"
+          },
+          {
+            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
+            "clue": "Leafy drink",
+            "answer": "tea",
+            "normalized": "tea"
+          },
+          {
+            "id": "79e35fa9-23b4-4465-a585-913ff99a0618",
+            "clue": "Places where hens sleep",
+            "answer": "roosts",
+            "normalized": "roosts"
+          },
+          {
+            "id": "3fe5f146-6a08-4008-86d0-5edff737dace",
+            "clue": "Standard number of golf strokes for a hole",
+            "answer": "par",
+            "normalized": "par"
+          },
+          {
+            "id": "0bbff95c-10b8-477e-9417-fe5d1f29e431",
+            "clue": "No Time To Die actress de Armas",
+            "answer": "ana",
+            "normalized": "ana"
+          },
+          {
+            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
+            "clue": "Note scribbled to someone after borrowing money",
+            "answer": "iou",
+            "normalized": "iou"
+          },
+          {
+            "id": "439d8dfb-5a50-4645-93fa-27594879e863",
+            "clue": "Leave me alone",
+            "answer": "lma",
+            "normalized": "lma"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D8F1"
       }
     },
     "latestAvailableEntry": {
@@ -441359,21 +441323,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "KElFz71jw/vEi/lxGpRNXQsopaJY77VCGAOCaDlzwH5bvhIRisyrfdYT5s1seilz3eH5KTIK1akZlP0ekUhiLxJX3Txe2f0UHKasjCLkpjcIp4dwDiDMHWN3OeD8YP+gp06Yx1+bZ1ahjiMEtVe2orQ/wJcJZv1AbLC+9hgi9iEzb7wdoZeGX0I0N7NFkQtHjZu7hqBhBhSsudVLfsPubGj8yO+XuD5aawdapXYg0thhoQazmaJE73glVuZR7j7ax963DgMZ1YKSUrYmXy6TI2aLEV7G3hYgGTdBazIJ4M4="
+        "H8h1RVSz5mpowzGUDj+5c2SvYFiDxLtmGs78UronD9XRCvZmM47oJYM3MfQ9/jX1A+ssm2eE65HE1gkv4y/IK6U7j9m6Q3k2khgtzO+1SteTCPXxdXbAHp1hz61mXPrYc6GXG654gXXAB9af5ReRbFaJe3dR8yzsWZDsQx7zEaHH3/FqPLxbBMZZ4d8PMaVGHF23T6vyVOCcvkqITr8O5Cpru2otzK9xMl+v8LQuWXtRKmTU839LaH9mi6PybDXUntQ8xLDlNme7Ud3ZAuL0jtLzaO6i4SySKxSFaEVDerc="
       ]
     },
     "decrypted": {
-      "Id": "cd9fe3f7-cac5-452a-86ed-bf20c07295a4",
-      "Date": "2026-09-07T00:00:00Z",
+      "Id": "9f85338d-ae25-409b-beca-e4b8802c8292",
+      "Date": "2026-09-08T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "sauce",
-      "NormalizedPassword": "sauce",
+      "Password": "onion",
+      "NormalizedPassword": "onion",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-07T02:04:52.8330000+05:30",
-    "hash": "76233df0949eb1800dbb8db0c024680b",
+    "dtu": "2026-09-08T03:07:56.8300000+05:30",
+    "hash": "945b09c7ac6acc22466230139c278cb9",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
