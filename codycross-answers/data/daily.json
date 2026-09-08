@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T21:37:56.830Z",
+  "generatedAt": "2026-09-08T21:17:07.538Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 8
+    "day": 9
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 12
+        "QuantidadeDeFases": 14
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440685,439 +440685,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-08",
+      "key": "2026-09-09",
       "year": 2026,
       "month": 9,
-      "day": 8,
+      "day": 9,
       "small": {
-        "puzzleId": "e5e12f09-9a2f-42fa-8c11-c3c0be047c3e",
+        "puzzleId": "5f2a5cf4-48f6-4c86-8e26-0695c933cf9c",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
-            "clue": "London music company founded in 1931",
-            "answer": "emi",
-            "normalized": "emi"
-          },
-          {
-            "id": "f2ad0c6a-96cd-4935-9282-c77c32497e73",
-            "clue": "Excuse, forgive; absolve",
-            "answer": "pardon",
-            "normalized": "pardon"
-          },
-          {
-            "id": "c8f24686-0a08-4420-8224-5130af43fbfd",
-            "clue": "Book of Changes classical Chinese text",
-            "answer": "i ching",
-            "normalized": "iching"
-          },
-          {
-            "id": "84019af3-959d-4efd-a4ab-bb503bc27b39",
-            "clue": "Letter th in the Greek alphabet",
-            "answer": "theta",
-            "normalized": "theta"
-          },
-          {
-            "id": "3666b1b3-6381-4ce3-baac-99c66b001761",
-            "clue": "Informal, easy way of saying yes",
-            "answer": "yeah",
-            "normalized": "yeah"
-          },
-          {
-            "id": "a35dd78b-45fb-4363-b17d-d7b749e0813f",
-            "clue": "Piaf, French singer who regretted nothing",
-            "answer": "edith",
-            "normalized": "edith"
-          },
-          {
-            "id": "e777e89e-b479-4c14-abe8-93274dfd6255",
-            "clue": "Lisa in the famous da Vinci painting",
-            "answer": "mona",
-            "normalized": "mona"
-          },
-          {
-            "id": "11986ec0-5261-4714-bbed-c10f7a87822b",
-            "clue": "Dutch banking group with a lion logo",
-            "answer": "ing",
-            "normalized": "ing"
-          },
-          {
-            "id": "a7c55023-7c55-49bc-b936-6befd16027e5",
-            "clue": "Mr. T catchphrase, I __ the fool",
-            "answer": "pity",
-            "normalized": "pity"
-          },
-          {
-            "id": "7c9d20c7-37be-4ea1-866a-7966069571d5",
-            "clue": "Sore pain",
-            "answer": "ache",
-            "normalized": "ache"
-          },
-          {
-            "id": "940021c2-d62d-42b2-a017-0ea1943362a9",
-            "clue": "Perlman, Carla from Cheers",
-            "answer": "rhea",
-            "normalized": "rhea"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D8F0"
-      },
-      "mid": {
-        "puzzleId": "a5417605-b8c7-49aa-b642-f40076f7c1fc",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 5,
         "answers": [
           {
-            "id": "44ff3de9-bd85-496b-ba89-684b2e2e6093",
-            "clue": "Old expression of shock or anger",
-            "answer": "egad",
-            "normalized": "egad"
+            "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
+            "clue": "Craven, horror movie director of Scream",
+            "answer": "wes",
+            "normalized": "wes"
           },
           {
-            "id": "fa52a55c-2c9b-4d42-817c-b7dd1c689d8b",
-            "clue": "Short for exterior",
-            "answer": "ext",
-            "normalized": "ext"
+            "id": "4fa0dc96-296a-4181-bcbe-71c82d409741",
+            "clue": "To physically make something, art, music",
+            "answer": "create",
+            "normalized": "create"
           },
           {
-            "id": "7d35050e-0abd-4266-a6b9-95a90f8df018",
-            "clue": "Able to read and write",
-            "answer": "literate",
-            "normalized": "literate"
+            "id": "65c5db08-0b09-4626-a73e-ba73f1053daa",
+            "clue": "Large, dray-pulling equines with hairy feet",
+            "answer": "shires",
+            "normalized": "shires"
           },
           {
-            "id": "6992b917-92ba-41ed-b319-ccedea6b0414",
-            "clue": "Spanish spelling of largest Balearic island",
-            "answer": "mallorca",
-            "normalized": "mallorca"
+            "id": "57df5a96-c781-4073-8cba-e2c912d6bf6d",
+            "clue": "Strengths and skills",
+            "answer": "fortes",
+            "normalized": "fortes"
           },
           {
-            "id": "f32c8de1-7deb-4fd8-80de-5c856fc565ab",
-            "clue": "Nuclear fission happens if you split one",
-            "answer": "atom",
-            "normalized": "atom"
+            "id": "dbc5c93f-aa6c-4637-a75d-1c0d432bf78c",
+            "clue": "Parcel delivery company with red and yellow logo",
+            "answer": "dhl",
+            "normalized": "dhl"
           },
           {
-            "id": "43382d8c-0e3b-4e7d-a78d-75cd2f49a985",
-            "clue": "Be towed in the air behind a boat",
-            "answer": "parasail",
-            "normalized": "parasail"
+            "id": "c738314a-9086-4855-9a6d-45596a8e510c",
+            "clue": "Strange or unusual",
+            "answer": "weird",
+            "normalized": "weird"
           },
           {
-            "id": "48a7fed4-7fd4-45d9-8dad-98608ef883a1",
-            "clue": "Rabbit's surname in the John Updike novels",
-            "answer": "angstrom",
-            "normalized": "angstrom"
+            "id": "a0a775a8-2c63-41e8-a406-4b123255f8f8",
+            "clue": "The only planet not named after mythology",
+            "answer": "earth",
+            "normalized": "earth"
           },
           {
-            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
-            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
-            "answer": "rae",
-            "normalized": "rae"
+            "id": "8e0a6579-e6c1-4b3f-b15e-7aa227b8a549",
+            "clue": "Type of magnolias in the 1989 film",
+            "answer": "steel",
+            "normalized": "steel"
           },
           {
-            "id": "130b09d0-fd3d-4abe-9157-7e47f9eeb4ab",
-            "clue": "Large brown seabird found in icy climates",
-            "answer": "skua",
-            "normalized": "skua"
+            "id": "ed448a63-6078-49c9-a10d-3a99fc5544a6",
+            "clue": "Chemical formula for caesium fluoride",
+            "answer": "csf",
+            "normalized": "csf"
           },
           {
-            "id": "66f83741-26ed-46d8-9c66-8ffbcbda71d5",
-            "clue": "Type of tree that can have a Dutch disease",
-            "answer": "elm",
-            "normalized": "elm"
+            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
+            "clue": "17th letter of the Greek alphabet",
+            "answer": "rho",
+            "normalized": "rho"
           },
           {
-            "id": "a5bc831d-5653-48db-a9ba-cc6910ac4630",
-            "clue": "Angelina Jolie biographical nineties model movie",
-            "answer": "gia",
-            "normalized": "gia"
-          },
-          {
-            "id": "ed9da01c-a857-406a-a47c-783a5f9a361c",
-            "clue": "An escaped criminal is this until captured",
-            "answer": "at large",
-            "normalized": "atlarge"
-          },
-          {
-            "id": "f68ffc0f-c8ff-481a-9901-bc978e145b77",
-            "clue": "Triangular river mouths",
-            "answer": "deltas",
-            "normalized": "deltas"
-          },
-          {
-            "id": "253e1dfe-0896-4d99-a30b-e7be075625b6",
-            "clue": "Designate funding for a particular project",
-            "answer": "earmark",
-            "normalized": "earmark"
-          },
-          {
-            "id": "10d9ae47-b632-4cd2-a09b-e45a71c29cf3",
-            "clue": "English rock band fronted by Andy Partridge",
-            "answer": "xtc",
-            "normalized": "xtc"
-          },
-          {
-            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
-            "clue": "Leafy drink",
-            "answer": "tea",
-            "normalized": "tea"
-          },
-          {
-            "id": "79e35fa9-23b4-4465-a585-913ff99a0618",
-            "clue": "Places where hens sleep",
-            "answer": "roosts",
-            "normalized": "roosts"
-          },
-          {
-            "id": "3fe5f146-6a08-4008-86d0-5edff737dace",
-            "clue": "Standard number of golf strokes for a hole",
-            "answer": "par",
-            "normalized": "par"
-          },
-          {
-            "id": "0bbff95c-10b8-477e-9417-fe5d1f29e431",
-            "clue": "No Time To Die actress de Armas",
-            "answer": "ana",
-            "normalized": "ana"
-          },
-          {
-            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
-            "clue": "Note scribbled to someone after borrowing money",
-            "answer": "iou",
-            "normalized": "iou"
-          },
-          {
-            "id": "439d8dfb-5a50-4645-93fa-27594879e863",
-            "clue": "Leave me alone",
-            "answer": "lma",
-            "normalized": "lma"
+            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
+            "clue": "S, written phonetically as a full word",
+            "answer": "ess",
+            "normalized": "ess"
           }
         ],
-        "track": "PC|LenC--Y2026M9D8F1"
+        "track": "PC|LenC--Y2026M9D9F0"
+      },
+      "mid": {
+        "puzzleId": "217e7a87-2be0-4114-adfa-1eba3edf6bd2",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "1a74edd9-91d3-4254-ac53-ad078ec89d00",
+            "clue": "Unsolicited emails or text messages",
+            "answer": "spam",
+            "normalized": "spam"
+          },
+          {
+            "id": "492ac7c2-2637-4e42-aafd-1e0ff69e6e99",
+            "clue": "Just a number, according to older people",
+            "answer": "age",
+            "normalized": "age"
+          },
+          {
+            "id": "de92b8d7-1f25-4c43-818c-de1e31c56daf",
+            "clue": "List of a restaurant's dishes",
+            "answer": "menu",
+            "normalized": "menu"
+          },
+          {
+            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
+            "clue": "Young man",
+            "answer": "boy",
+            "normalized": "boy"
+          },
+          {
+            "id": "5f842a3c-4ad3-45f6-a2b5-82a11469a56f",
+            "clue": "Built by a human being",
+            "answer": "handmade",
+            "normalized": "handmade"
+          },
+          {
+            "id": "4d0ffe93-2efa-440c-af4f-6b9e11b4059b",
+            "clue": "Numbers puzzle with grids of 3 x 3 squares",
+            "answer": "sudoku",
+            "normalized": "sudoku"
+          },
+          {
+            "id": "bf987120-389b-4e82-8fe9-c4cb50f0a186",
+            "clue": "Knows a lot about a lot of things",
+            "answer": "polymath",
+            "normalized": "polymath"
+          },
+          {
+            "id": "0472e0cc-803a-469a-8cda-c10fbe15bf5a",
+            "clue": "New Rules singer Lipa",
+            "answer": "dua",
+            "normalized": "dua"
+          },
+          {
+            "id": "61baac68-fdbb-4c2b-a63d-6bc1b2c40401",
+            "clue": "Only a single time",
+            "answer": "once",
+            "normalized": "once"
+          },
+          {
+            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
+            "clue": "Interest rate across a whole year",
+            "answer": "apr",
+            "normalized": "apr"
+          },
+          {
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
+          },
+          {
+            "id": "ef64fd03-4d84-4e0a-a49a-f247a620d7ef",
+            "clue": "Shaking my head, in text",
+            "answer": "smh",
+            "normalized": "smh"
+          },
+          {
+            "id": "373fa511-a491-47c3-9b8f-b8dddd8157a2",
+            "clue": "A simile for thick fog",
+            "answer": "peasoup",
+            "normalized": "peasoup"
+          },
+          {
+            "id": "b9cb68ee-f479-494c-91ea-4f2596792a69",
+            "clue": "Eclipse with a ring of fire around the Moon",
+            "answer": "annular",
+            "normalized": "annular"
+          },
+          {
+            "id": "7d05258b-9298-494a-8be6-e57b7b6089ee",
+            "clue": "Covered in wet dirt",
+            "answer": "muddy",
+            "normalized": "muddy"
+          },
+          {
+            "id": "09075205-f211-49ab-bad2-220b3e48793f",
+            "clue": "Almost eponymous name of Abakanowicz's sculptures",
+            "answer": "abakans",
+            "normalized": "abakans"
+          },
+          {
+            "id": "ade52435-3738-4ca1-858a-fbac6f50a397",
+            "clue": "Split a restaurant bill equally",
+            "answer": "go dutch",
+            "normalized": "godutch"
+          },
+          {
+            "id": "ed694b91-bbac-4268-818a-e69ea8292a5f",
+            "clue": "Organ that's all the better to see you with",
+            "answer": "eye",
+            "normalized": "eye"
+          },
+          {
+            "id": "c07f5a74-d01c-444a-862c-2c375f11c501",
+            "clue": "Aquaman, Baba Voss, Khal Drogo",
+            "answer": "momoa",
+            "normalized": "momoa"
+          },
+          {
+            "id": "0f0fecc1-f92a-4a64-a23b-62655eb9bc00",
+            "clue": "Showing affection in public",
+            "answer": "pda",
+            "normalized": "pda"
+          },
+          {
+            "id": "cb700945-666b-42ab-aac2-3ca0fa65ab33",
+            "clue": "Hi, how's it going?",
+            "answer": "hey",
+            "normalized": "hey"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D9F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-08",
+      "key": "2026-09-09",
       "year": 2026,
       "month": 9,
-      "day": 8,
+      "day": 9,
       "small": {
-        "puzzleId": "e5e12f09-9a2f-42fa-8c11-c3c0be047c3e",
+        "puzzleId": "5f2a5cf4-48f6-4c86-8e26-0695c933cf9c",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "35ac1acb-5e8d-4149-ba7f-be7bafd9035f",
-            "clue": "London music company founded in 1931",
-            "answer": "emi",
-            "normalized": "emi"
-          },
-          {
-            "id": "f2ad0c6a-96cd-4935-9282-c77c32497e73",
-            "clue": "Excuse, forgive; absolve",
-            "answer": "pardon",
-            "normalized": "pardon"
-          },
-          {
-            "id": "c8f24686-0a08-4420-8224-5130af43fbfd",
-            "clue": "Book of Changes classical Chinese text",
-            "answer": "i ching",
-            "normalized": "iching"
-          },
-          {
-            "id": "84019af3-959d-4efd-a4ab-bb503bc27b39",
-            "clue": "Letter th in the Greek alphabet",
-            "answer": "theta",
-            "normalized": "theta"
-          },
-          {
-            "id": "3666b1b3-6381-4ce3-baac-99c66b001761",
-            "clue": "Informal, easy way of saying yes",
-            "answer": "yeah",
-            "normalized": "yeah"
-          },
-          {
-            "id": "a35dd78b-45fb-4363-b17d-d7b749e0813f",
-            "clue": "Piaf, French singer who regretted nothing",
-            "answer": "edith",
-            "normalized": "edith"
-          },
-          {
-            "id": "e777e89e-b479-4c14-abe8-93274dfd6255",
-            "clue": "Lisa in the famous da Vinci painting",
-            "answer": "mona",
-            "normalized": "mona"
-          },
-          {
-            "id": "11986ec0-5261-4714-bbed-c10f7a87822b",
-            "clue": "Dutch banking group with a lion logo",
-            "answer": "ing",
-            "normalized": "ing"
-          },
-          {
-            "id": "a7c55023-7c55-49bc-b936-6befd16027e5",
-            "clue": "Mr. T catchphrase, I __ the fool",
-            "answer": "pity",
-            "normalized": "pity"
-          },
-          {
-            "id": "7c9d20c7-37be-4ea1-866a-7966069571d5",
-            "clue": "Sore pain",
-            "answer": "ache",
-            "normalized": "ache"
-          },
-          {
-            "id": "940021c2-d62d-42b2-a017-0ea1943362a9",
-            "clue": "Perlman, Carla from Cheers",
-            "answer": "rhea",
-            "normalized": "rhea"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D8F0"
-      },
-      "mid": {
-        "puzzleId": "a5417605-b8c7-49aa-b642-f40076f7c1fc",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 5,
         "answers": [
           {
-            "id": "44ff3de9-bd85-496b-ba89-684b2e2e6093",
-            "clue": "Old expression of shock or anger",
-            "answer": "egad",
-            "normalized": "egad"
+            "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
+            "clue": "Craven, horror movie director of Scream",
+            "answer": "wes",
+            "normalized": "wes"
           },
           {
-            "id": "fa52a55c-2c9b-4d42-817c-b7dd1c689d8b",
-            "clue": "Short for exterior",
-            "answer": "ext",
-            "normalized": "ext"
+            "id": "4fa0dc96-296a-4181-bcbe-71c82d409741",
+            "clue": "To physically make something, art, music",
+            "answer": "create",
+            "normalized": "create"
           },
           {
-            "id": "7d35050e-0abd-4266-a6b9-95a90f8df018",
-            "clue": "Able to read and write",
-            "answer": "literate",
-            "normalized": "literate"
+            "id": "65c5db08-0b09-4626-a73e-ba73f1053daa",
+            "clue": "Large, dray-pulling equines with hairy feet",
+            "answer": "shires",
+            "normalized": "shires"
           },
           {
-            "id": "6992b917-92ba-41ed-b319-ccedea6b0414",
-            "clue": "Spanish spelling of largest Balearic island",
-            "answer": "mallorca",
-            "normalized": "mallorca"
+            "id": "57df5a96-c781-4073-8cba-e2c912d6bf6d",
+            "clue": "Strengths and skills",
+            "answer": "fortes",
+            "normalized": "fortes"
           },
           {
-            "id": "f32c8de1-7deb-4fd8-80de-5c856fc565ab",
-            "clue": "Nuclear fission happens if you split one",
-            "answer": "atom",
-            "normalized": "atom"
+            "id": "dbc5c93f-aa6c-4637-a75d-1c0d432bf78c",
+            "clue": "Parcel delivery company with red and yellow logo",
+            "answer": "dhl",
+            "normalized": "dhl"
           },
           {
-            "id": "43382d8c-0e3b-4e7d-a78d-75cd2f49a985",
-            "clue": "Be towed in the air behind a boat",
-            "answer": "parasail",
-            "normalized": "parasail"
+            "id": "c738314a-9086-4855-9a6d-45596a8e510c",
+            "clue": "Strange or unusual",
+            "answer": "weird",
+            "normalized": "weird"
           },
           {
-            "id": "48a7fed4-7fd4-45d9-8dad-98608ef883a1",
-            "clue": "Rabbit's surname in the John Updike novels",
-            "answer": "angstrom",
-            "normalized": "angstrom"
+            "id": "a0a775a8-2c63-41e8-a406-4b123255f8f8",
+            "clue": "The only planet not named after mythology",
+            "answer": "earth",
+            "normalized": "earth"
           },
           {
-            "id": "9af1963c-8e97-4c09-a773-8f5a21af2f25",
-            "clue": "Middle name of Call Me Maybe singer Carly Jepsen",
-            "answer": "rae",
-            "normalized": "rae"
+            "id": "8e0a6579-e6c1-4b3f-b15e-7aa227b8a549",
+            "clue": "Type of magnolias in the 1989 film",
+            "answer": "steel",
+            "normalized": "steel"
           },
           {
-            "id": "130b09d0-fd3d-4abe-9157-7e47f9eeb4ab",
-            "clue": "Large brown seabird found in icy climates",
-            "answer": "skua",
-            "normalized": "skua"
+            "id": "ed448a63-6078-49c9-a10d-3a99fc5544a6",
+            "clue": "Chemical formula for caesium fluoride",
+            "answer": "csf",
+            "normalized": "csf"
           },
           {
-            "id": "66f83741-26ed-46d8-9c66-8ffbcbda71d5",
-            "clue": "Type of tree that can have a Dutch disease",
-            "answer": "elm",
-            "normalized": "elm"
+            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
+            "clue": "17th letter of the Greek alphabet",
+            "answer": "rho",
+            "normalized": "rho"
           },
           {
-            "id": "a5bc831d-5653-48db-a9ba-cc6910ac4630",
-            "clue": "Angelina Jolie biographical nineties model movie",
-            "answer": "gia",
-            "normalized": "gia"
-          },
-          {
-            "id": "ed9da01c-a857-406a-a47c-783a5f9a361c",
-            "clue": "An escaped criminal is this until captured",
-            "answer": "at large",
-            "normalized": "atlarge"
-          },
-          {
-            "id": "f68ffc0f-c8ff-481a-9901-bc978e145b77",
-            "clue": "Triangular river mouths",
-            "answer": "deltas",
-            "normalized": "deltas"
-          },
-          {
-            "id": "253e1dfe-0896-4d99-a30b-e7be075625b6",
-            "clue": "Designate funding for a particular project",
-            "answer": "earmark",
-            "normalized": "earmark"
-          },
-          {
-            "id": "10d9ae47-b632-4cd2-a09b-e45a71c29cf3",
-            "clue": "English rock band fronted by Andy Partridge",
-            "answer": "xtc",
-            "normalized": "xtc"
-          },
-          {
-            "id": "8240bd2d-e397-4b0b-a62e-0280c9c170a9",
-            "clue": "Leafy drink",
-            "answer": "tea",
-            "normalized": "tea"
-          },
-          {
-            "id": "79e35fa9-23b4-4465-a585-913ff99a0618",
-            "clue": "Places where hens sleep",
-            "answer": "roosts",
-            "normalized": "roosts"
-          },
-          {
-            "id": "3fe5f146-6a08-4008-86d0-5edff737dace",
-            "clue": "Standard number of golf strokes for a hole",
-            "answer": "par",
-            "normalized": "par"
-          },
-          {
-            "id": "0bbff95c-10b8-477e-9417-fe5d1f29e431",
-            "clue": "No Time To Die actress de Armas",
-            "answer": "ana",
-            "normalized": "ana"
-          },
-          {
-            "id": "08e4f804-e200-4e6e-b595-0b7ea96c1c79",
-            "clue": "Note scribbled to someone after borrowing money",
-            "answer": "iou",
-            "normalized": "iou"
-          },
-          {
-            "id": "439d8dfb-5a50-4645-93fa-27594879e863",
-            "clue": "Leave me alone",
-            "answer": "lma",
-            "normalized": "lma"
+            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
+            "clue": "S, written phonetically as a full word",
+            "answer": "ess",
+            "normalized": "ess"
           }
         ],
-        "track": "PC|LenC--Y2026M9D8F1"
+        "track": "PC|LenC--Y2026M9D9F0"
+      },
+      "mid": {
+        "puzzleId": "217e7a87-2be0-4114-adfa-1eba3edf6bd2",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "1a74edd9-91d3-4254-ac53-ad078ec89d00",
+            "clue": "Unsolicited emails or text messages",
+            "answer": "spam",
+            "normalized": "spam"
+          },
+          {
+            "id": "492ac7c2-2637-4e42-aafd-1e0ff69e6e99",
+            "clue": "Just a number, according to older people",
+            "answer": "age",
+            "normalized": "age"
+          },
+          {
+            "id": "de92b8d7-1f25-4c43-818c-de1e31c56daf",
+            "clue": "List of a restaurant's dishes",
+            "answer": "menu",
+            "normalized": "menu"
+          },
+          {
+            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
+            "clue": "Young man",
+            "answer": "boy",
+            "normalized": "boy"
+          },
+          {
+            "id": "5f842a3c-4ad3-45f6-a2b5-82a11469a56f",
+            "clue": "Built by a human being",
+            "answer": "handmade",
+            "normalized": "handmade"
+          },
+          {
+            "id": "4d0ffe93-2efa-440c-af4f-6b9e11b4059b",
+            "clue": "Numbers puzzle with grids of 3 x 3 squares",
+            "answer": "sudoku",
+            "normalized": "sudoku"
+          },
+          {
+            "id": "bf987120-389b-4e82-8fe9-c4cb50f0a186",
+            "clue": "Knows a lot about a lot of things",
+            "answer": "polymath",
+            "normalized": "polymath"
+          },
+          {
+            "id": "0472e0cc-803a-469a-8cda-c10fbe15bf5a",
+            "clue": "New Rules singer Lipa",
+            "answer": "dua",
+            "normalized": "dua"
+          },
+          {
+            "id": "61baac68-fdbb-4c2b-a63d-6bc1b2c40401",
+            "clue": "Only a single time",
+            "answer": "once",
+            "normalized": "once"
+          },
+          {
+            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
+            "clue": "Interest rate across a whole year",
+            "answer": "apr",
+            "normalized": "apr"
+          },
+          {
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
+          },
+          {
+            "id": "ef64fd03-4d84-4e0a-a49a-f247a620d7ef",
+            "clue": "Shaking my head, in text",
+            "answer": "smh",
+            "normalized": "smh"
+          },
+          {
+            "id": "373fa511-a491-47c3-9b8f-b8dddd8157a2",
+            "clue": "A simile for thick fog",
+            "answer": "peasoup",
+            "normalized": "peasoup"
+          },
+          {
+            "id": "b9cb68ee-f479-494c-91ea-4f2596792a69",
+            "clue": "Eclipse with a ring of fire around the Moon",
+            "answer": "annular",
+            "normalized": "annular"
+          },
+          {
+            "id": "7d05258b-9298-494a-8be6-e57b7b6089ee",
+            "clue": "Covered in wet dirt",
+            "answer": "muddy",
+            "normalized": "muddy"
+          },
+          {
+            "id": "09075205-f211-49ab-bad2-220b3e48793f",
+            "clue": "Almost eponymous name of Abakanowicz's sculptures",
+            "answer": "abakans",
+            "normalized": "abakans"
+          },
+          {
+            "id": "ade52435-3738-4ca1-858a-fbac6f50a397",
+            "clue": "Split a restaurant bill equally",
+            "answer": "go dutch",
+            "normalized": "godutch"
+          },
+          {
+            "id": "ed694b91-bbac-4268-818a-e69ea8292a5f",
+            "clue": "Organ that's all the better to see you with",
+            "answer": "eye",
+            "normalized": "eye"
+          },
+          {
+            "id": "c07f5a74-d01c-444a-862c-2c375f11c501",
+            "clue": "Aquaman, Baba Voss, Khal Drogo",
+            "answer": "momoa",
+            "normalized": "momoa"
+          },
+          {
+            "id": "0f0fecc1-f92a-4a64-a23b-62655eb9bc00",
+            "clue": "Showing affection in public",
+            "answer": "pda",
+            "normalized": "pda"
+          },
+          {
+            "id": "cb700945-666b-42ab-aac2-3ca0fa65ab33",
+            "clue": "Hi, how's it going?",
+            "answer": "hey",
+            "normalized": "hey"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D9F1"
       }
     },
     "latestAvailableEntry": {
@@ -441323,21 +441323,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "H8h1RVSz5mpowzGUDj+5c2SvYFiDxLtmGs78UronD9XRCvZmM47oJYM3MfQ9/jX1A+ssm2eE65HE1gkv4y/IK6U7j9m6Q3k2khgtzO+1SteTCPXxdXbAHp1hz61mXPrYc6GXG654gXXAB9af5ReRbFaJe3dR8yzsWZDsQx7zEaHH3/FqPLxbBMZZ4d8PMaVGHF23T6vyVOCcvkqITr8O5Cpru2otzK9xMl+v8LQuWXtRKmTU839LaH9mi6PybDXUntQ8xLDlNme7Ud3ZAuL0jtLzaO6i4SySKxSFaEVDerc="
+        "ONEDEQH7PVctR8MNUCpPsBXh5X0eGRQ1m5gZtUjKFa732ftUxgT2epUOSLsMC3KdzS7aBvB0ctt2VPyqZ7x0gK4aHvYKM4U1g01XRWPf/nwGYVvj4rKppEGVngKOXO7jPon5SfZPeb3ZBEy758lWsRdYOMVXHw1fbx1yT+9tjoPDMKswuZIsMo59xAAXNBILinYrsegUFsOLLH+iduuuenk/bUOyurg8QTPC2NU4doqVYEZH1er04tEqIVr1/GPuDVnC+uyErkSK5P9OZ2ZhYueNpWlKm4P/63iffJIlxdU="
       ]
     },
     "decrypted": {
-      "Id": "9f85338d-ae25-409b-beca-e4b8802c8292",
-      "Date": "2026-09-08T00:00:00Z",
+      "Id": "9976bbe1-ec12-470b-9f21-74ea776a31c1",
+      "Date": "2026-09-09T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "onion",
-      "NormalizedPassword": "onion",
+      "Password": "quilt",
+      "NormalizedPassword": "quilt",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-08T03:07:56.8300000+05:30",
-    "hash": "945b09c7ac6acc22466230139c278cb9",
+    "dtu": "2026-09-09T02:47:07.5380000+05:30",
+    "hash": "2e51b13f9185240c1aca98b51085bf04",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
