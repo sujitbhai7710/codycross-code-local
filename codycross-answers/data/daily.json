@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T21:17:07.538Z",
+  "generatedAt": "2026-09-09T21:02:54.652Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 9
+    "day": 10
   },
   "crossword": {
     "archive": [
@@ -11,13 +11,13 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 14
+        "QuantidadeDeFases": 16
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 8,
-        "QuantidadeDeFases": 62
+        "QuantidadeDeFases": 61
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -4902,151 +4902,67 @@
           "version": 1,
           "answers": [
             {
-              "id": "0e6f0a3b-57b9-422d-9ce4-d23a712cb994",
-              "clue": "The Little Engine Who Could said, \"I __ I can\"",
-              "answer": "think",
-              "normalized": "think"
+              "id": "761e08c0-5660-464d-b541-5b39ec084205",
+              "clue": "The Army Air Corps for short",
+              "answer": "aac",
+              "normalized": "aac"
             },
             {
-              "id": "ebae5b66-5cfe-45d8-b2d9-42114a8d5936",
-              "clue": "To be announced",
-              "answer": "tba",
-              "normalized": "tba"
+              "id": "64387b9e-99ab-4353-9083-836e4804fcbf",
+              "clue": "To cut away, make smooth with a tool",
+              "answer": "file",
+              "normalized": "file"
             },
             {
-              "id": "16d9b12f-9f17-4acb-86eb-23241506356b",
-              "clue": "Malcolm in the Middle actor, Frankie __",
-              "answer": "muniz",
-              "normalized": "muniz"
+              "id": "9fd27c12-5fa6-4042-bca6-167cd0d5ac1d",
+              "clue": "Weasel relative known as ermine when white",
+              "answer": "stoat",
+              "normalized": "stoat"
             },
             {
-              "id": "d02788d1-3610-49f4-8f95-efe15a526d41",
-              "clue": "Return on investment, in short",
-              "answer": "roi",
-              "normalized": "roi"
+              "id": "e5067a70-6891-45cb-8586-88abc363854d",
+              "clue": "Small sandwich shops",
+              "answer": "delis",
+              "normalized": "delis"
             },
             {
-              "id": "2a8c3128-097c-40c9-b42f-991f63364d41",
-              "clue": "Carbon reducing within a company",
-              "answer": "insetting",
-              "normalized": "insetting"
+              "id": "990a3ca3-e014-4639-92e8-78ef407c3032",
+              "clue": "Filthy, covered in dirt",
+              "answer": "grimy",
+              "normalized": "grimy"
             },
             {
-              "id": "7e7081c8-efcb-4ca1-b1d7-b5c242f8bbcf",
-              "clue": "Cost-per-click in tech lingo",
-              "answer": "cpc",
-              "normalized": "cpc"
+              "id": "eef8ed9f-a4d9-40a2-928c-92c88a3ed2ae",
+              "clue": "The opposite of before",
+              "answer": "after",
+              "normalized": "after"
             },
             {
-              "id": "42b01b1a-e6cd-4bdb-84e9-8a17e7cdbd2f",
-              "clue": "Cry that accompanies smashing of Greek plates",
-              "answer": "opa",
-              "normalized": "opa"
+              "id": "7cf3946f-c676-41ed-b2ee-563bae17d9ce",
+              "clue": "Creamy spread from Spain of lemon, garlic, and egg",
+              "answer": "aioli",
+              "normalized": "aioli"
             },
             {
-              "id": "21a1d921-71bc-4f5b-8fe9-fee5c1482d3c",
-              "clue": "Processed cheese product used in Philly sandwiches",
-              "answer": "cheez whiz",
-              "normalized": "cheezwhiz"
+              "id": "ccce8abf-fe93-473b-a094-d91caccd3259",
+              "clue": "Statement passed as truth but doubted by others",
+              "answer": "claim",
+              "normalized": "claim"
             },
             {
-              "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
-              "clue": "Parks & __, TV show for short",
-              "answer": "rec",
-              "normalized": "rec"
+              "id": "0be5f02d-7636-4089-884f-1210fc340142",
+              "clue": "Online selling platform for creative goods",
+              "answer": "etsy",
+              "normalized": "etsy"
             },
             {
-              "id": "f72f3dc4-9257-415d-bd51-5b5766da0b74",
-              "clue": "A noise some people make when sleeping",
-              "answer": "snore",
-              "normalized": "snore"
-            },
-            {
-              "id": "73e3ae1e-6d36-43e1-bb52-d65b057a4724",
-              "clue": "American time zone used in the mountain in summer",
-              "answer": "mdt",
-              "normalized": "mdt"
-            },
-            {
-              "id": "ae077877-e924-4d36-9c2a-33b7f58a2d47",
-              "clue": "Colorado ski town named after a tree",
-              "answer": "aspen",
-              "normalized": "aspen"
-            },
-            {
-              "id": "a4e8d7ca-de6d-483d-b5d0-e0cf514799ff",
-              "clue": "Texting abbreviation for oversharing",
-              "answer": "tmi",
-              "normalized": "tmi"
-            },
-            {
-              "id": "b0dd00e0-bad0-45f8-a75e-a28315d58574",
-              "clue": "Bent over",
-              "answer": "hunched",
-              "normalized": "hunched"
-            },
-            {
-              "id": "35f7367f-d414-4c0f-9a81-625bbed1de0d",
-              "clue": "Examine carefully",
-              "answer": "inspect",
-              "normalized": "inspect"
-            },
-            {
-              "id": "8a829175-43bc-4276-bc1f-885d1cfc4097",
-              "clue": "The daughter of one's brother or sister",
-              "answer": "niece",
-              "normalized": "niece"
-            },
-            {
-              "id": "409385b4-8338-4360-b259-d18a159e03f6",
-              "clue": "Three-letter code for the Kazakhstan tenge",
-              "answer": "kzt",
-              "normalized": "kzt"
-            },
-            {
-              "id": "703ac1ba-98cc-46b8-bd05-f716761d8054",
-              "clue": "Dance music evolved from hip-hop to psychedelia",
-              "answer": "trip hop",
-              "normalized": "triphop"
-            },
-            {
-              "id": "0919452a-7950-43da-973b-8f3b68fc443d",
-              "clue": "ABC island with capital Kralendijk",
-              "answer": "bonaire",
-              "normalized": "bonaire"
-            },
-            {
-              "id": "1af832b1-29dd-4225-85b8-8a5d879382b5",
-              "clue": "Abbreviation for American International Group",
-              "answer": "aig",
-              "normalized": "aig"
-            },
-            {
-              "id": "4fc54565-6357-4ebf-97de-d4789d6d3486",
-              "clue": "Smaller than cities",
-              "answer": "towns",
-              "normalized": "towns"
-            },
-            {
-              "id": "5d3a4928-2c75-40ae-afe8-72f0a5b9b76f",
-              "clue": "Customer relationship management in business",
-              "answer": "crm",
-              "normalized": "crm"
-            },
-            {
-              "id": "e3b3e99c-9108-4027-8503-5a677ad3dc18",
-              "clue": "Repeat this for socialite Gabor's first name",
-              "answer": "zsa",
-              "normalized": "zsa"
-            },
-            {
-              "id": "3cfbba66-640d-484e-a251-8c81d6e6bb4f",
-              "clue": "Peaceful meditative state in Buddhism",
-              "answer": "zen",
-              "normalized": "zen"
+              "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+              "clue": "Acronym for a UN Sustainable Development Goal",
+              "answer": "sdg",
+              "normalized": "sdg"
             }
           ],
-          "track": "PC|LenC--Y2026M9D10F0"
+          "track": "PC|LenC--Y2026M9D10F1"
         }
       },
       {
@@ -7504,142 +7420,7 @@
           ],
           "track": "PC|LenC--Y2026M8D29F0"
         },
-        "mid": {
-          "puzzleId": "c51ea6d3-cabd-40a3-bc87-03f1c0528089",
-          "fase": 1,
-          "size": 2,
-          "status": 1,
-          "version": 1,
-          "answers": [
-            {
-              "id": "1ef265b1-1b01-49af-ae5f-f95c929ead6b",
-              "clue": "Bank machine for getting cash out of the wall",
-              "answer": "atm",
-              "normalized": "atm"
-            },
-            {
-              "id": "5011cb51-20ec-4841-b207-55d0f8a2bdbf",
-              "clue": "French for water",
-              "answer": "eau",
-              "normalized": "eau"
-            },
-            {
-              "id": "d74f283a-8741-4f3a-9e08-0c97e176ff42",
-              "clue": "What I'm doing when I look at a book",
-              "answer": "reading",
-              "normalized": "reading"
-            },
-            {
-              "id": "dc6dc5d6-d517-453d-a1eb-7054870cffaa",
-              "clue": "Animal form of vitamin A; a skincare serum",
-              "answer": "retinol",
-              "normalized": "retinol"
-            },
-            {
-              "id": "32d4e761-96a0-4cd1-8a11-a36a0b107458",
-              "clue": "First name of deposed Egyptian leader Mubarak",
-              "answer": "hosni",
-              "normalized": "hosni"
-            },
-            {
-              "id": "e055e41b-5623-43ed-8e3c-963dbe0f8889",
-              "clue": "\"There is many a slip __ cup and lip\"",
-              "answer": "twixt",
-              "normalized": "twixt"
-            },
-            {
-              "id": "22cea16c-3aa5-4b47-afe5-565f15ec9f2f",
-              "clue": "The opposite of \"hardest\", least difficult",
-              "answer": "easiest",
-              "normalized": "easiest"
-            },
-            {
-              "id": "b6bbf16f-6a39-48d7-ba1e-0eb4843e2983",
-              "clue": "Close friends and companions",
-              "answer": "cronies",
-              "normalized": "cronies"
-            },
-            {
-              "id": "119fafb7-91a5-4355-9141-492838ad997a",
-              "clue": "Female chicken",
-              "answer": "hen",
-              "normalized": "hen"
-            },
-            {
-              "id": "d4fcb305-760d-4932-863e-23d5c4dcdd44",
-              "clue": "Short sleep",
-              "answer": "nap",
-              "normalized": "nap"
-            },
-            {
-              "id": "f6646979-00dc-4f13-bf69-73489adc7506",
-              "clue": "Annual subscription-based revenue, abbreviated",
-              "answer": "arr",
-              "normalized": "arr"
-            },
-            {
-              "id": "996210c8-e359-446e-833c-d7caf6ba8139",
-              "clue": "Golf ball platform",
-              "answer": "tee",
-              "normalized": "tee"
-            },
-            {
-              "id": "de18b7ad-d255-4671-95cb-2a8bac00a039",
-              "clue": "Middle name of code-breaker Alan Turing",
-              "answer": "mathison",
-              "normalized": "mathison"
-            },
-            {
-              "id": "85cc492b-19d7-45e1-a9a2-6a1043ffc73c",
-              "clue": "Physicist offered the Presidency of Israel",
-              "answer": "einstein",
-              "normalized": "einstein"
-            },
-            {
-              "id": "c5930316-3156-4be3-80c8-4548c74ff4db",
-              "clue": "Short for an unknown writer",
-              "answer": "anon",
-              "normalized": "anon"
-            },
-            {
-              "id": "05e797c4-6edf-4544-84be-f0bddb307f74",
-              "clue": "Jamaican tangelo; fruit with unattractive skin",
-              "answer": "ugli",
-              "normalized": "ugli"
-            },
-            {
-              "id": "9cc3e249-a2db-4ff4-86ea-14092219e7b6",
-              "clue": "Highly toxic compound",
-              "answer": "dioxin",
-              "normalized": "dioxin"
-            },
-            {
-              "id": "32b1f634-9725-43ab-b5c9-2c8c8d90841b",
-              "clue": "French river near the border with Spain",
-              "answer": "tech",
-              "normalized": "tech"
-            },
-            {
-              "id": "899bee0c-8c1f-4b3b-aaa2-041346bb3873",
-              "clue": "Another word for merchandise that sounds like wear",
-              "answer": "ware",
-              "normalized": "ware"
-            },
-            {
-              "id": "d01cfe89-e6e0-42f9-9e59-1c35bef95cf1",
-              "clue": "One of seven sailed by Sinbad",
-              "answer": "sea",
-              "normalized": "sea"
-            },
-            {
-              "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
-              "clue": "Abbreviation for small spoon measure in baking",
-              "answer": "tsp",
-              "normalized": "tsp"
-            }
-          ],
-          "track": "PC|LenC--Y2026M8D29F1"
-        }
+        "mid": null
       },
       {
         "key": "2026-08-28",
@@ -73728,7 +73509,7 @@
             },
             {
               "id": "9717f3c5-366f-40ea-9532-86046e6bd960",
-              "clue": "Half of a century",
+              "clue": "Half a century in years",
               "answer": "fifty",
               "normalized": "fifty"
             },
@@ -440685,439 +440466,463 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-09",
+      "key": "2026-09-10",
       "year": 2026,
       "month": 9,
-      "day": 9,
+      "day": 10,
       "small": {
-        "puzzleId": "5f2a5cf4-48f6-4c86-8e26-0695c933cf9c",
+        "puzzleId": "9cb4458e-b3ad-454f-8b16-004846faf898",
         "fase": 0,
-        "size": 1,
-        "status": 1,
-        "version": 5,
-        "answers": [
-          {
-            "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-            "clue": "Craven, horror movie director of Scream",
-            "answer": "wes",
-            "normalized": "wes"
-          },
-          {
-            "id": "4fa0dc96-296a-4181-bcbe-71c82d409741",
-            "clue": "To physically make something, art, music",
-            "answer": "create",
-            "normalized": "create"
-          },
-          {
-            "id": "65c5db08-0b09-4626-a73e-ba73f1053daa",
-            "clue": "Large, dray-pulling equines with hairy feet",
-            "answer": "shires",
-            "normalized": "shires"
-          },
-          {
-            "id": "57df5a96-c781-4073-8cba-e2c912d6bf6d",
-            "clue": "Strengths and skills",
-            "answer": "fortes",
-            "normalized": "fortes"
-          },
-          {
-            "id": "dbc5c93f-aa6c-4637-a75d-1c0d432bf78c",
-            "clue": "Parcel delivery company with red and yellow logo",
-            "answer": "dhl",
-            "normalized": "dhl"
-          },
-          {
-            "id": "c738314a-9086-4855-9a6d-45596a8e510c",
-            "clue": "Strange or unusual",
-            "answer": "weird",
-            "normalized": "weird"
-          },
-          {
-            "id": "a0a775a8-2c63-41e8-a406-4b123255f8f8",
-            "clue": "The only planet not named after mythology",
-            "answer": "earth",
-            "normalized": "earth"
-          },
-          {
-            "id": "8e0a6579-e6c1-4b3f-b15e-7aa227b8a549",
-            "clue": "Type of magnolias in the 1989 film",
-            "answer": "steel",
-            "normalized": "steel"
-          },
-          {
-            "id": "ed448a63-6078-49c9-a10d-3a99fc5544a6",
-            "clue": "Chemical formula for caesium fluoride",
-            "answer": "csf",
-            "normalized": "csf"
-          },
-          {
-            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
-            "clue": "17th letter of the Greek alphabet",
-            "answer": "rho",
-            "normalized": "rho"
-          },
-          {
-            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
-            "clue": "S, written phonetically as a full word",
-            "answer": "ess",
-            "normalized": "ess"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D9F0"
-      },
-      "mid": {
-        "puzzleId": "217e7a87-2be0-4114-adfa-1eba3edf6bd2",
-        "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "1a74edd9-91d3-4254-ac53-ad078ec89d00",
-            "clue": "Unsolicited emails or text messages",
-            "answer": "spam",
-            "normalized": "spam"
+            "id": "0e6f0a3b-57b9-422d-9ce4-d23a712cb994",
+            "clue": "The Little Engine Who Could said, \"I __ I can\"",
+            "answer": "think",
+            "normalized": "think"
           },
           {
-            "id": "492ac7c2-2637-4e42-aafd-1e0ff69e6e99",
-            "clue": "Just a number, according to older people",
-            "answer": "age",
-            "normalized": "age"
+            "id": "ebae5b66-5cfe-45d8-b2d9-42114a8d5936",
+            "clue": "To be announced",
+            "answer": "tba",
+            "normalized": "tba"
           },
           {
-            "id": "de92b8d7-1f25-4c43-818c-de1e31c56daf",
-            "clue": "List of a restaurant's dishes",
-            "answer": "menu",
-            "normalized": "menu"
+            "id": "16d9b12f-9f17-4acb-86eb-23241506356b",
+            "clue": "Malcolm in the Middle actor, Frankie __",
+            "answer": "muniz",
+            "normalized": "muniz"
           },
           {
-            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
-            "clue": "Young man",
-            "answer": "boy",
-            "normalized": "boy"
+            "id": "d02788d1-3610-49f4-8f95-efe15a526d41",
+            "clue": "Return on investment, in short",
+            "answer": "roi",
+            "normalized": "roi"
           },
           {
-            "id": "5f842a3c-4ad3-45f6-a2b5-82a11469a56f",
-            "clue": "Built by a human being",
-            "answer": "handmade",
-            "normalized": "handmade"
+            "id": "2a8c3128-097c-40c9-b42f-991f63364d41",
+            "clue": "Carbon reducing within a company",
+            "answer": "insetting",
+            "normalized": "insetting"
           },
           {
-            "id": "4d0ffe93-2efa-440c-af4f-6b9e11b4059b",
-            "clue": "Numbers puzzle with grids of 3 x 3 squares",
-            "answer": "sudoku",
-            "normalized": "sudoku"
+            "id": "7e7081c8-efcb-4ca1-b1d7-b5c242f8bbcf",
+            "clue": "Cost-per-click in tech lingo",
+            "answer": "cpc",
+            "normalized": "cpc"
           },
           {
-            "id": "bf987120-389b-4e82-8fe9-c4cb50f0a186",
-            "clue": "Knows a lot about a lot of things",
-            "answer": "polymath",
-            "normalized": "polymath"
+            "id": "42b01b1a-e6cd-4bdb-84e9-8a17e7cdbd2f",
+            "clue": "Cry that accompanies smashing of Greek plates",
+            "answer": "opa",
+            "normalized": "opa"
           },
           {
-            "id": "0472e0cc-803a-469a-8cda-c10fbe15bf5a",
-            "clue": "New Rules singer Lipa",
-            "answer": "dua",
-            "normalized": "dua"
+            "id": "21a1d921-71bc-4f5b-8fe9-fee5c1482d3c",
+            "clue": "Processed cheese product used in Philly sandwiches",
+            "answer": "cheez whiz",
+            "normalized": "cheezwhiz"
           },
           {
-            "id": "61baac68-fdbb-4c2b-a63d-6bc1b2c40401",
-            "clue": "Only a single time",
-            "answer": "once",
-            "normalized": "once"
+            "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
+            "clue": "Parks & __, TV show for short",
+            "answer": "rec",
+            "normalized": "rec"
           },
           {
-            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
-            "clue": "Interest rate across a whole year",
-            "answer": "apr",
-            "normalized": "apr"
+            "id": "f72f3dc4-9257-415d-bd51-5b5766da0b74",
+            "clue": "A noise some people make when sleeping",
+            "answer": "snore",
+            "normalized": "snore"
           },
           {
-            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
-            "clue": "Covered in cinders",
-            "answer": "ashy",
-            "normalized": "ashy"
+            "id": "73e3ae1e-6d36-43e1-bb52-d65b057a4724",
+            "clue": "American time zone used in the mountain in summer",
+            "answer": "mdt",
+            "normalized": "mdt"
           },
           {
-            "id": "ef64fd03-4d84-4e0a-a49a-f247a620d7ef",
-            "clue": "Shaking my head, in text",
-            "answer": "smh",
-            "normalized": "smh"
+            "id": "ae077877-e924-4d36-9c2a-33b7f58a2d47",
+            "clue": "Colorado ski town named after a tree",
+            "answer": "aspen",
+            "normalized": "aspen"
           },
           {
-            "id": "373fa511-a491-47c3-9b8f-b8dddd8157a2",
-            "clue": "A simile for thick fog",
-            "answer": "peasoup",
-            "normalized": "peasoup"
+            "id": "a4e8d7ca-de6d-483d-b5d0-e0cf514799ff",
+            "clue": "Texting abbreviation for oversharing",
+            "answer": "tmi",
+            "normalized": "tmi"
           },
           {
-            "id": "b9cb68ee-f479-494c-91ea-4f2596792a69",
-            "clue": "Eclipse with a ring of fire around the Moon",
-            "answer": "annular",
-            "normalized": "annular"
+            "id": "b0dd00e0-bad0-45f8-a75e-a28315d58574",
+            "clue": "Bent over",
+            "answer": "hunched",
+            "normalized": "hunched"
           },
           {
-            "id": "7d05258b-9298-494a-8be6-e57b7b6089ee",
-            "clue": "Covered in wet dirt",
-            "answer": "muddy",
-            "normalized": "muddy"
+            "id": "35f7367f-d414-4c0f-9a81-625bbed1de0d",
+            "clue": "Examine carefully",
+            "answer": "inspect",
+            "normalized": "inspect"
           },
           {
-            "id": "09075205-f211-49ab-bad2-220b3e48793f",
-            "clue": "Almost eponymous name of Abakanowicz's sculptures",
-            "answer": "abakans",
-            "normalized": "abakans"
+            "id": "8a829175-43bc-4276-bc1f-885d1cfc4097",
+            "clue": "The daughter of one's brother or sister",
+            "answer": "niece",
+            "normalized": "niece"
           },
           {
-            "id": "ade52435-3738-4ca1-858a-fbac6f50a397",
-            "clue": "Split a restaurant bill equally",
-            "answer": "go dutch",
-            "normalized": "godutch"
+            "id": "409385b4-8338-4360-b259-d18a159e03f6",
+            "clue": "Three-letter code for the Kazakhstan tenge",
+            "answer": "kzt",
+            "normalized": "kzt"
           },
           {
-            "id": "ed694b91-bbac-4268-818a-e69ea8292a5f",
-            "clue": "Organ that's all the better to see you with",
-            "answer": "eye",
-            "normalized": "eye"
+            "id": "703ac1ba-98cc-46b8-bd05-f716761d8054",
+            "clue": "Dance music evolved from hip-hop to psychedelia",
+            "answer": "trip hop",
+            "normalized": "triphop"
           },
           {
-            "id": "c07f5a74-d01c-444a-862c-2c375f11c501",
-            "clue": "Aquaman, Baba Voss, Khal Drogo",
-            "answer": "momoa",
-            "normalized": "momoa"
+            "id": "0919452a-7950-43da-973b-8f3b68fc443d",
+            "clue": "ABC island with capital Kralendijk",
+            "answer": "bonaire",
+            "normalized": "bonaire"
           },
           {
-            "id": "0f0fecc1-f92a-4a64-a23b-62655eb9bc00",
-            "clue": "Showing affection in public",
-            "answer": "pda",
-            "normalized": "pda"
+            "id": "1af832b1-29dd-4225-85b8-8a5d879382b5",
+            "clue": "Abbreviation for American International Group",
+            "answer": "aig",
+            "normalized": "aig"
           },
           {
-            "id": "cb700945-666b-42ab-aac2-3ca0fa65ab33",
-            "clue": "Hi, how's it going?",
-            "answer": "hey",
-            "normalized": "hey"
+            "id": "4fc54565-6357-4ebf-97de-d4789d6d3486",
+            "clue": "Smaller than cities",
+            "answer": "towns",
+            "normalized": "towns"
+          },
+          {
+            "id": "5d3a4928-2c75-40ae-afe8-72f0a5b9b76f",
+            "clue": "Customer relationship management in business",
+            "answer": "crm",
+            "normalized": "crm"
+          },
+          {
+            "id": "e3b3e99c-9108-4027-8503-5a677ad3dc18",
+            "clue": "Repeat this for socialite Gabor's first name",
+            "answer": "zsa",
+            "normalized": "zsa"
+          },
+          {
+            "id": "3cfbba66-640d-484e-a251-8c81d6e6bb4f",
+            "clue": "Peaceful meditative state in Buddhism",
+            "answer": "zen",
+            "normalized": "zen"
           }
         ],
-        "track": "PC|LenC--Y2026M9D9F1"
+        "track": "PC|LenC--Y2026M9D10F0"
+      },
+      "mid": {
+        "puzzleId": "9cb4458e-b3ad-454f-8b16-004846faf898",
+        "fase": 0,
+        "size": 2,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "761e08c0-5660-464d-b541-5b39ec084205",
+            "clue": "The Army Air Corps for short",
+            "answer": "aac",
+            "normalized": "aac"
+          },
+          {
+            "id": "64387b9e-99ab-4353-9083-836e4804fcbf",
+            "clue": "To cut away, make smooth with a tool",
+            "answer": "file",
+            "normalized": "file"
+          },
+          {
+            "id": "9fd27c12-5fa6-4042-bca6-167cd0d5ac1d",
+            "clue": "Weasel relative known as ermine when white",
+            "answer": "stoat",
+            "normalized": "stoat"
+          },
+          {
+            "id": "e5067a70-6891-45cb-8586-88abc363854d",
+            "clue": "Small sandwich shops",
+            "answer": "delis",
+            "normalized": "delis"
+          },
+          {
+            "id": "990a3ca3-e014-4639-92e8-78ef407c3032",
+            "clue": "Filthy, covered in dirt",
+            "answer": "grimy",
+            "normalized": "grimy"
+          },
+          {
+            "id": "eef8ed9f-a4d9-40a2-928c-92c88a3ed2ae",
+            "clue": "The opposite of before",
+            "answer": "after",
+            "normalized": "after"
+          },
+          {
+            "id": "7cf3946f-c676-41ed-b2ee-563bae17d9ce",
+            "clue": "Creamy spread from Spain of lemon, garlic, and egg",
+            "answer": "aioli",
+            "normalized": "aioli"
+          },
+          {
+            "id": "ccce8abf-fe93-473b-a094-d91caccd3259",
+            "clue": "Statement passed as truth but doubted by others",
+            "answer": "claim",
+            "normalized": "claim"
+          },
+          {
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
+          },
+          {
+            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+            "clue": "Acronym for a UN Sustainable Development Goal",
+            "answer": "sdg",
+            "normalized": "sdg"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D10F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-09",
+      "key": "2026-09-10",
       "year": 2026,
       "month": 9,
-      "day": 9,
+      "day": 10,
       "small": {
-        "puzzleId": "5f2a5cf4-48f6-4c86-8e26-0695c933cf9c",
+        "puzzleId": "9cb4458e-b3ad-454f-8b16-004846faf898",
         "fase": 0,
-        "size": 1,
-        "status": 1,
-        "version": 5,
-        "answers": [
-          {
-            "id": "2667f2c9-9c72-4a3e-a8a3-050c3e1d7e3f",
-            "clue": "Craven, horror movie director of Scream",
-            "answer": "wes",
-            "normalized": "wes"
-          },
-          {
-            "id": "4fa0dc96-296a-4181-bcbe-71c82d409741",
-            "clue": "To physically make something, art, music",
-            "answer": "create",
-            "normalized": "create"
-          },
-          {
-            "id": "65c5db08-0b09-4626-a73e-ba73f1053daa",
-            "clue": "Large, dray-pulling equines with hairy feet",
-            "answer": "shires",
-            "normalized": "shires"
-          },
-          {
-            "id": "57df5a96-c781-4073-8cba-e2c912d6bf6d",
-            "clue": "Strengths and skills",
-            "answer": "fortes",
-            "normalized": "fortes"
-          },
-          {
-            "id": "dbc5c93f-aa6c-4637-a75d-1c0d432bf78c",
-            "clue": "Parcel delivery company with red and yellow logo",
-            "answer": "dhl",
-            "normalized": "dhl"
-          },
-          {
-            "id": "c738314a-9086-4855-9a6d-45596a8e510c",
-            "clue": "Strange or unusual",
-            "answer": "weird",
-            "normalized": "weird"
-          },
-          {
-            "id": "a0a775a8-2c63-41e8-a406-4b123255f8f8",
-            "clue": "The only planet not named after mythology",
-            "answer": "earth",
-            "normalized": "earth"
-          },
-          {
-            "id": "8e0a6579-e6c1-4b3f-b15e-7aa227b8a549",
-            "clue": "Type of magnolias in the 1989 film",
-            "answer": "steel",
-            "normalized": "steel"
-          },
-          {
-            "id": "ed448a63-6078-49c9-a10d-3a99fc5544a6",
-            "clue": "Chemical formula for caesium fluoride",
-            "answer": "csf",
-            "normalized": "csf"
-          },
-          {
-            "id": "af4d5c37-aa49-4d2f-82e3-32417fd04e16",
-            "clue": "17th letter of the Greek alphabet",
-            "answer": "rho",
-            "normalized": "rho"
-          },
-          {
-            "id": "a3959db1-a577-4178-a7c3-8da46e44e238",
-            "clue": "S, written phonetically as a full word",
-            "answer": "ess",
-            "normalized": "ess"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D9F0"
-      },
-      "mid": {
-        "puzzleId": "217e7a87-2be0-4114-adfa-1eba3edf6bd2",
-        "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "1a74edd9-91d3-4254-ac53-ad078ec89d00",
-            "clue": "Unsolicited emails or text messages",
-            "answer": "spam",
-            "normalized": "spam"
+            "id": "0e6f0a3b-57b9-422d-9ce4-d23a712cb994",
+            "clue": "The Little Engine Who Could said, \"I __ I can\"",
+            "answer": "think",
+            "normalized": "think"
           },
           {
-            "id": "492ac7c2-2637-4e42-aafd-1e0ff69e6e99",
-            "clue": "Just a number, according to older people",
-            "answer": "age",
-            "normalized": "age"
+            "id": "ebae5b66-5cfe-45d8-b2d9-42114a8d5936",
+            "clue": "To be announced",
+            "answer": "tba",
+            "normalized": "tba"
           },
           {
-            "id": "de92b8d7-1f25-4c43-818c-de1e31c56daf",
-            "clue": "List of a restaurant's dishes",
-            "answer": "menu",
-            "normalized": "menu"
+            "id": "16d9b12f-9f17-4acb-86eb-23241506356b",
+            "clue": "Malcolm in the Middle actor, Frankie __",
+            "answer": "muniz",
+            "normalized": "muniz"
           },
           {
-            "id": "ce7cee19-0f51-427a-acb1-d92c53f124f7",
-            "clue": "Young man",
-            "answer": "boy",
-            "normalized": "boy"
+            "id": "d02788d1-3610-49f4-8f95-efe15a526d41",
+            "clue": "Return on investment, in short",
+            "answer": "roi",
+            "normalized": "roi"
           },
           {
-            "id": "5f842a3c-4ad3-45f6-a2b5-82a11469a56f",
-            "clue": "Built by a human being",
-            "answer": "handmade",
-            "normalized": "handmade"
+            "id": "2a8c3128-097c-40c9-b42f-991f63364d41",
+            "clue": "Carbon reducing within a company",
+            "answer": "insetting",
+            "normalized": "insetting"
           },
           {
-            "id": "4d0ffe93-2efa-440c-af4f-6b9e11b4059b",
-            "clue": "Numbers puzzle with grids of 3 x 3 squares",
-            "answer": "sudoku",
-            "normalized": "sudoku"
+            "id": "7e7081c8-efcb-4ca1-b1d7-b5c242f8bbcf",
+            "clue": "Cost-per-click in tech lingo",
+            "answer": "cpc",
+            "normalized": "cpc"
           },
           {
-            "id": "bf987120-389b-4e82-8fe9-c4cb50f0a186",
-            "clue": "Knows a lot about a lot of things",
-            "answer": "polymath",
-            "normalized": "polymath"
+            "id": "42b01b1a-e6cd-4bdb-84e9-8a17e7cdbd2f",
+            "clue": "Cry that accompanies smashing of Greek plates",
+            "answer": "opa",
+            "normalized": "opa"
           },
           {
-            "id": "0472e0cc-803a-469a-8cda-c10fbe15bf5a",
-            "clue": "New Rules singer Lipa",
-            "answer": "dua",
-            "normalized": "dua"
+            "id": "21a1d921-71bc-4f5b-8fe9-fee5c1482d3c",
+            "clue": "Processed cheese product used in Philly sandwiches",
+            "answer": "cheez whiz",
+            "normalized": "cheezwhiz"
           },
           {
-            "id": "61baac68-fdbb-4c2b-a63d-6bc1b2c40401",
-            "clue": "Only a single time",
-            "answer": "once",
-            "normalized": "once"
+            "id": "712497af-ee60-4d93-8867-5c1cbac4e072",
+            "clue": "Parks & __, TV show for short",
+            "answer": "rec",
+            "normalized": "rec"
           },
           {
-            "id": "3e398ac5-7f33-4cb1-bac9-6486f49cc34b",
-            "clue": "Interest rate across a whole year",
-            "answer": "apr",
-            "normalized": "apr"
+            "id": "f72f3dc4-9257-415d-bd51-5b5766da0b74",
+            "clue": "A noise some people make when sleeping",
+            "answer": "snore",
+            "normalized": "snore"
           },
           {
-            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
-            "clue": "Covered in cinders",
-            "answer": "ashy",
-            "normalized": "ashy"
+            "id": "73e3ae1e-6d36-43e1-bb52-d65b057a4724",
+            "clue": "American time zone used in the mountain in summer",
+            "answer": "mdt",
+            "normalized": "mdt"
           },
           {
-            "id": "ef64fd03-4d84-4e0a-a49a-f247a620d7ef",
-            "clue": "Shaking my head, in text",
-            "answer": "smh",
-            "normalized": "smh"
+            "id": "ae077877-e924-4d36-9c2a-33b7f58a2d47",
+            "clue": "Colorado ski town named after a tree",
+            "answer": "aspen",
+            "normalized": "aspen"
           },
           {
-            "id": "373fa511-a491-47c3-9b8f-b8dddd8157a2",
-            "clue": "A simile for thick fog",
-            "answer": "peasoup",
-            "normalized": "peasoup"
+            "id": "a4e8d7ca-de6d-483d-b5d0-e0cf514799ff",
+            "clue": "Texting abbreviation for oversharing",
+            "answer": "tmi",
+            "normalized": "tmi"
           },
           {
-            "id": "b9cb68ee-f479-494c-91ea-4f2596792a69",
-            "clue": "Eclipse with a ring of fire around the Moon",
-            "answer": "annular",
-            "normalized": "annular"
+            "id": "b0dd00e0-bad0-45f8-a75e-a28315d58574",
+            "clue": "Bent over",
+            "answer": "hunched",
+            "normalized": "hunched"
           },
           {
-            "id": "7d05258b-9298-494a-8be6-e57b7b6089ee",
-            "clue": "Covered in wet dirt",
-            "answer": "muddy",
-            "normalized": "muddy"
+            "id": "35f7367f-d414-4c0f-9a81-625bbed1de0d",
+            "clue": "Examine carefully",
+            "answer": "inspect",
+            "normalized": "inspect"
           },
           {
-            "id": "09075205-f211-49ab-bad2-220b3e48793f",
-            "clue": "Almost eponymous name of Abakanowicz's sculptures",
-            "answer": "abakans",
-            "normalized": "abakans"
+            "id": "8a829175-43bc-4276-bc1f-885d1cfc4097",
+            "clue": "The daughter of one's brother or sister",
+            "answer": "niece",
+            "normalized": "niece"
           },
           {
-            "id": "ade52435-3738-4ca1-858a-fbac6f50a397",
-            "clue": "Split a restaurant bill equally",
-            "answer": "go dutch",
-            "normalized": "godutch"
+            "id": "409385b4-8338-4360-b259-d18a159e03f6",
+            "clue": "Three-letter code for the Kazakhstan tenge",
+            "answer": "kzt",
+            "normalized": "kzt"
           },
           {
-            "id": "ed694b91-bbac-4268-818a-e69ea8292a5f",
-            "clue": "Organ that's all the better to see you with",
-            "answer": "eye",
-            "normalized": "eye"
+            "id": "703ac1ba-98cc-46b8-bd05-f716761d8054",
+            "clue": "Dance music evolved from hip-hop to psychedelia",
+            "answer": "trip hop",
+            "normalized": "triphop"
           },
           {
-            "id": "c07f5a74-d01c-444a-862c-2c375f11c501",
-            "clue": "Aquaman, Baba Voss, Khal Drogo",
-            "answer": "momoa",
-            "normalized": "momoa"
+            "id": "0919452a-7950-43da-973b-8f3b68fc443d",
+            "clue": "ABC island with capital Kralendijk",
+            "answer": "bonaire",
+            "normalized": "bonaire"
           },
           {
-            "id": "0f0fecc1-f92a-4a64-a23b-62655eb9bc00",
-            "clue": "Showing affection in public",
-            "answer": "pda",
-            "normalized": "pda"
+            "id": "1af832b1-29dd-4225-85b8-8a5d879382b5",
+            "clue": "Abbreviation for American International Group",
+            "answer": "aig",
+            "normalized": "aig"
           },
           {
-            "id": "cb700945-666b-42ab-aac2-3ca0fa65ab33",
-            "clue": "Hi, how's it going?",
-            "answer": "hey",
-            "normalized": "hey"
+            "id": "4fc54565-6357-4ebf-97de-d4789d6d3486",
+            "clue": "Smaller than cities",
+            "answer": "towns",
+            "normalized": "towns"
+          },
+          {
+            "id": "5d3a4928-2c75-40ae-afe8-72f0a5b9b76f",
+            "clue": "Customer relationship management in business",
+            "answer": "crm",
+            "normalized": "crm"
+          },
+          {
+            "id": "e3b3e99c-9108-4027-8503-5a677ad3dc18",
+            "clue": "Repeat this for socialite Gabor's first name",
+            "answer": "zsa",
+            "normalized": "zsa"
+          },
+          {
+            "id": "3cfbba66-640d-484e-a251-8c81d6e6bb4f",
+            "clue": "Peaceful meditative state in Buddhism",
+            "answer": "zen",
+            "normalized": "zen"
           }
         ],
-        "track": "PC|LenC--Y2026M9D9F1"
+        "track": "PC|LenC--Y2026M9D10F0"
+      },
+      "mid": {
+        "puzzleId": "9cb4458e-b3ad-454f-8b16-004846faf898",
+        "fase": 0,
+        "size": 2,
+        "status": 1,
+        "version": 1,
+        "answers": [
+          {
+            "id": "761e08c0-5660-464d-b541-5b39ec084205",
+            "clue": "The Army Air Corps for short",
+            "answer": "aac",
+            "normalized": "aac"
+          },
+          {
+            "id": "64387b9e-99ab-4353-9083-836e4804fcbf",
+            "clue": "To cut away, make smooth with a tool",
+            "answer": "file",
+            "normalized": "file"
+          },
+          {
+            "id": "9fd27c12-5fa6-4042-bca6-167cd0d5ac1d",
+            "clue": "Weasel relative known as ermine when white",
+            "answer": "stoat",
+            "normalized": "stoat"
+          },
+          {
+            "id": "e5067a70-6891-45cb-8586-88abc363854d",
+            "clue": "Small sandwich shops",
+            "answer": "delis",
+            "normalized": "delis"
+          },
+          {
+            "id": "990a3ca3-e014-4639-92e8-78ef407c3032",
+            "clue": "Filthy, covered in dirt",
+            "answer": "grimy",
+            "normalized": "grimy"
+          },
+          {
+            "id": "eef8ed9f-a4d9-40a2-928c-92c88a3ed2ae",
+            "clue": "The opposite of before",
+            "answer": "after",
+            "normalized": "after"
+          },
+          {
+            "id": "7cf3946f-c676-41ed-b2ee-563bae17d9ce",
+            "clue": "Creamy spread from Spain of lemon, garlic, and egg",
+            "answer": "aioli",
+            "normalized": "aioli"
+          },
+          {
+            "id": "ccce8abf-fe93-473b-a094-d91caccd3259",
+            "clue": "Statement passed as truth but doubted by others",
+            "answer": "claim",
+            "normalized": "claim"
+          },
+          {
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
+          },
+          {
+            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+            "clue": "Acronym for a UN Sustainable Development Goal",
+            "answer": "sdg",
+            "normalized": "sdg"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D10F1"
       }
     },
     "latestAvailableEntry": {
@@ -441323,21 +441128,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "ONEDEQH7PVctR8MNUCpPsBXh5X0eGRQ1m5gZtUjKFa732ftUxgT2epUOSLsMC3KdzS7aBvB0ctt2VPyqZ7x0gK4aHvYKM4U1g01XRWPf/nwGYVvj4rKppEGVngKOXO7jPon5SfZPeb3ZBEy758lWsRdYOMVXHw1fbx1yT+9tjoPDMKswuZIsMo59xAAXNBILinYrsegUFsOLLH+iduuuenk/bUOyurg8QTPC2NU4doqVYEZH1er04tEqIVr1/GPuDVnC+uyErkSK5P9OZ2ZhYueNpWlKm4P/63iffJIlxdU="
+        "Uvk6WfsWUbJqKyzAHuqjYRJX8uLzYbl++RN9mTXksEg+YZVCMPZf9vDo2QJ/i+G9BG5VpUqeOSjEWVfFHGXW4lmI1FJRdb2Ms9da+7LVPo/Eur+DrGMLJ32tXrGxb2r5ZzdeH/BrFJUEDOl7jRwhR2gXz43v8LpgJHjyvOntrP8A2YhBEJcUO6oAfcZhkV1Ur1BAavBz5izhygKMA3307WnG9nycmtFS67wOFvPfcLJP56d0Av70dmJkVdNXBGvxz04SyCdZ9MzN1U4+dvpd7Vn9lq9fmBdPKLSyF4Z3W/0="
       ]
     },
     "decrypted": {
-      "Id": "9976bbe1-ec12-470b-9f21-74ea776a31c1",
-      "Date": "2026-09-09T00:00:00Z",
+      "Id": "62cb6d92-1644-47bb-8648-453ecb42b8ff",
+      "Date": "2026-09-10T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "quilt",
-      "NormalizedPassword": "quilt",
+      "Password": "dense",
+      "NormalizedPassword": "dense",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-09T02:47:07.5380000+05:30",
-    "hash": "2e51b13f9185240c1aca98b51085bf04",
+    "dtu": "2026-09-10T02:32:54.6520000+05:30",
+    "hash": "e9e0ac0774a9f3699fc8a43d09ff9931",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
