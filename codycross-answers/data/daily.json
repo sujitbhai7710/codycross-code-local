@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T21:05:52.643Z",
+  "generatedAt": "2026-09-12T20:43:21.372Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 12
+    "day": 13
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 20
+        "QuantidadeDeFases": 22
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440550,475 +440550,439 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-12",
+      "key": "2026-09-13",
       "year": 2026,
       "month": 9,
-      "day": 12,
+      "day": 13,
       "small": {
-        "puzzleId": "aac06377-1a11-4283-a409-bdf20c9cc613",
+        "puzzleId": "054fb834-b4dd-47b0-9aaf-c7e31a916c31",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 4,
-        "answers": [
-          {
-            "id": "3b3cd09f-9c3f-4eef-9f06-e0826212d131",
-            "clue": "Radio or TV signal",
-            "answer": "feed",
-            "normalized": "feed"
-          },
-          {
-            "id": "2d1c3fc4-a874-4151-b959-2d8d6f0ed049",
-            "clue": "Street or avenue, like the Beatles' Penny",
-            "answer": "lane",
-            "normalized": "lane"
-          },
-          {
-            "id": "b44e8545-9c38-46d7-8e30-7a9edd6e9ba4",
-            "clue": "The skin is the body's largest one",
-            "answer": "organ",
-            "normalized": "organ"
-          },
-          {
-            "id": "342ccba2-ad3f-4671-871f-b7f813694b05",
-            "clue": "Evade, dodge",
-            "answer": "elude",
-            "normalized": "elude"
-          },
-          {
-            "id": "180ac655-67e6-44b3-b01f-c3edf7cabe53",
-            "clue": "Mush eaten by pigs",
-            "answer": "slop",
-            "normalized": "slop"
-          },
-          {
-            "id": "fef6cb65-2098-4e24-8e56-16a077e8767d",
-            "clue": "To and __",
-            "answer": "fro",
-            "normalized": "fro"
-          },
-          {
-            "id": "1f2147e3-1fd3-443b-8918-f9f8ff3d845b",
-            "clue": "Sheet of ice on the water",
-            "answer": "floe",
-            "normalized": "floe"
-          },
-          {
-            "id": "16ff6208-c402-43c2-9a20-43868c825f8b",
-            "clue": "British male peers higher than viscounts",
-            "answer": "earls",
-            "normalized": "earls"
-          },
-          {
-            "id": "b36c5542-ae98-4a58-9e9c-2726d156a742",
-            "clue": "Flood, swallow up",
-            "answer": "engulf",
-            "normalized": "engulf"
-          },
-          {
-            "id": "a9895f9f-8671-4a3f-b2ef-1780427baf95",
-            "clue": "Wanted __ alive, on posters seeking fugitives",
-            "answer": "dead or",
-            "normalized": "deador"
-          },
-          {
-            "id": "e473ec9a-c6ad-47eb-b429-46928216e8b8",
-            "clue": "Celebrities born to famous people, __ babies",
-            "answer": "nepo",
-            "normalized": "nepo"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D12F0"
-      },
-      "mid": {
-        "puzzleId": "5da9af9e-0cb0-4d5e-b7be-7c10aee7fce4",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "89e9a250-19c0-49be-a2f9-bad81309e0aa",
-            "clue": "Homer's ancient Greek epic set during Trojan War",
-            "answer": "iliad",
-            "normalized": "iliad"
+            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
+            "clue": "Quick way of saying you must leave a chat session",
+            "answer": "gtg",
+            "normalized": "gtg"
           },
           {
-            "id": "43c6fba2-4db1-46cd-a921-783534766f2c",
-            "clue": "Central nervous system, initialism",
-            "answer": "cns",
-            "normalized": "cns"
+            "id": "3ebb59ea-b652-402f-8828-3af4d09feb99",
+            "clue": "Large enclosure for birds",
+            "answer": "aviary",
+            "normalized": "aviary"
           },
           {
-            "id": "76db6705-cc46-4fb5-a9c8-302a41e5c22c",
-            "clue": "Swiss fried potato cake",
-            "answer": "rosti",
-            "normalized": "rosti"
+            "id": "cad1a4cf-e6da-484c-bfc1-99c9629c73ef",
+            "clue": "Grim __, personification of death",
+            "answer": "reaper",
+            "normalized": "reaper"
           },
           {
-            "id": "4e29c8a8-5f85-46e9-9ab5-2249eea561c9",
-            "clue": "__ and hers",
-            "answer": "his",
-            "normalized": "his"
+            "id": "db3fc113-58d8-4ce2-87f0-33f27286fd6b",
+            "clue": "Religious truths or beliefs",
+            "answer": "tenets",
+            "normalized": "tenets"
           },
           {
-            "id": "e05cb8ef-b3c8-4c2e-b8e1-02d396dbb4a3",
-            "clue": "Chocolate is made from this",
-            "answer": "cocoa bean",
-            "normalized": "cocoabean"
+            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
+            "clue": "US agency tasked with security at airports",
+            "answer": "tsa",
+            "normalized": "tsa"
           },
           {
-            "id": "c4a45c88-1cd4-46d2-a155-5f6a983d9682",
-            "clue": "Consecutive letters that make a Dutch airline",
-            "answer": "klm",
-            "normalized": "klm"
+            "id": "6068437a-0179-4e01-9b9f-d135dde58df4",
+            "clue": "Creature much larger than the average person",
+            "answer": "giant",
+            "normalized": "giant"
           },
           {
-            "id": "268f63fd-5086-4858-8dc5-5f80fa4924fe",
-            "clue": "Abbreviation of Anti-Virus Guard",
-            "answer": "avg",
-            "normalized": "avg"
+            "id": "a087c0a9-5186-4ef5-8e02-e8a13f2167eb",
+            "clue": "Records on cassette",
+            "answer": "tapes",
+            "normalized": "tapes"
           },
           {
-            "id": "705416ad-dfd5-42bf-8856-c904e32f1a53",
-            "clue": "Famous 19th-century Ferris wheel in central Vienna",
-            "answer": "riesenrad",
-            "normalized": "riesenrad"
+            "id": "55daa5a3-d76a-4b38-8ff7-0c5967e482d7",
+            "clue": "Swedish environmental activist Thunberg's forename",
+            "answer": "greta",
+            "normalized": "greta"
           },
           {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
+            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
+            "clue": "Paintings, sculptures, and more",
+            "answer": "art",
+            "normalized": "art"
           },
           {
-            "id": "b7574c6d-91f8-49fa-94c2-986600eb5de7",
-            "clue": "Native people of New Zealand",
-            "answer": "maori",
-            "normalized": "maori"
+            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
+            "clue": "How to spell the letter V when said aloud",
+            "answer": "vee",
+            "normalized": "vee"
           },
           {
-            "id": "23078e9d-d09c-4a5d-954e-5857b806697c",
-            "clue": "Three-letter alpha code for Bulgaria",
-            "answer": "bgr",
-            "normalized": "bgr"
-          },
-          {
-            "id": "62fb26a7-3d42-4e8c-8900-9c645cde0855",
-            "clue": "Forearm bones partnered with radii",
-            "answer": "ulnas",
-            "normalized": "ulnas"
-          },
-          {
-            "id": "06770cd5-b7c9-43f0-8511-fe0f7559a9ff",
-            "clue": "International Rescue Committee, initialism",
-            "answer": "irc",
-            "normalized": "irc"
-          },
-          {
-            "id": "1fe8cb85-ac1c-4d42-aefe-74605aea5372",
-            "clue": "Alice Through the __ Glass, novel by Lewis Carroll",
-            "answer": "looking",
-            "normalized": "looking"
-          },
-          {
-            "id": "a2821093-0599-4016-a8e3-d376ee8a9961",
-            "clue": "The coast __, make a run for it without being seen",
-            "answer": "is clear",
-            "normalized": "isclear"
-          },
-          {
-            "id": "3151a0d4-5ec5-4f04-bcfc-7ea615cee9cc",
-            "clue": "The smallest constituent units of matter",
-            "answer": "atoms",
-            "normalized": "atoms"
-          },
-          {
-            "id": "5396dea7-b19f-401e-bdc0-e6a9746b5fc7",
-            "clue": "Spanish or Portuguese word for day",
-            "answer": "dia",
-            "normalized": "dia"
-          },
-          {
-            "id": "80b4805a-2578-4788-8afe-c2350e6e1b02",
-            "clue": "Huge US oil company merged with Texaco",
-            "answer": "chevron",
-            "normalized": "chevron"
-          },
-          {
-            "id": "47b8ba6f-8610-4a45-8c2c-bccda06e464a",
-            "clue": "US-Canada border site of the Horseshoe Falls",
-            "answer": "niagara",
-            "normalized": "niagara"
-          },
-          {
-            "id": "12ad09fa-e5d0-4d4c-81e1-c5437869436c",
-            "clue": "Personal digits you might keep secret in the US",
-            "answer": "ssn",
-            "normalized": "ssn"
-          },
-          {
-            "id": "e1896b45-0967-492c-bfba-999c102d446e",
-            "clue": "Something commonplace and boring",
-            "answer": "banal",
-            "normalized": "banal"
-          },
-          {
-            "id": "26a60069-e6ce-49eb-a92b-6c9a03c38051",
-            "clue": "Massage, knead",
-            "answer": "rub",
-            "normalized": "rub"
-          },
-          {
-            "id": "2ea4d778-4104-446f-9026-8c3ae560c721",
-            "clue": "Ostrich-like flightless bird",
-            "answer": "emu",
-            "normalized": "emu"
-          },
-          {
-            "id": "df0ea13e-5c22-4c67-a4e3-0a596499bff7",
-            "clue": "Hip-hop slang for insulting someone",
-            "answer": "dis",
-            "normalized": "dis"
+            "id": "1ab0c547-a369-4ed2-bf67-0530d45b0f26",
+            "clue": "Abbreviation of 12-month periods",
+            "answer": "yrs",
+            "normalized": "yrs"
           }
         ],
-        "track": "PC|LenC--Y2026M9D12F1"
+        "track": "PC|LenC--Y2026M9D13F0"
+      },
+      "mid": {
+        "puzzleId": "6f4438e1-db14-4a7c-8bcf-f54c29bf588d",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "81ea5d63-7624-41c9-832a-0bdc1d377b8f",
+            "clue": "European data protection regulations",
+            "answer": "gdpr",
+            "normalized": "gdpr"
+          },
+          {
+            "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
+            "clue": "Imaging body scan for seeing soft tissues",
+            "answer": "mri",
+            "normalized": "mri"
+          },
+          {
+            "id": "ad6b1bf7-9c5c-41fb-817f-c48b14d646bb",
+            "clue": "Large black-and-white African storks",
+            "answer": "marabous",
+            "normalized": "marabous"
+          },
+          {
+            "id": "309c2061-4f94-4e86-ab44-06fe3c7a07d4",
+            "clue": "Platform shoes, elevated wearers above dirty roads",
+            "answer": "chopines",
+            "normalized": "chopines"
+          },
+          {
+            "id": "62981069-3af2-484e-a108-195850f6030a",
+            "clue": "Gold coating on furniture",
+            "answer": "gilt",
+            "normalized": "gilt"
+          },
+          {
+            "id": "c67a4962-454a-4bc6-9855-af7f3278dbde",
+            "clue": "Most studious, most geeky",
+            "answer": "nerdiest",
+            "normalized": "nerdiest"
+          },
+          {
+            "id": "b5f797b2-8d75-4274-afd4-d7d3d05ff174",
+            "clue": "Rubbings out or data deletions",
+            "answer": "erasures",
+            "normalized": "erasures"
+          },
+          {
+            "id": "bd2a76ee-fb78-44e2-a0a7-9a819312cd7b",
+            "clue": "A leg, slangily",
+            "answer": "gam",
+            "normalized": "gam"
+          },
+          {
+            "id": "ec95bde0-9795-4612-a430-9061a4187d4d",
+            "clue": "TV drama show like All My Children, __ opera",
+            "answer": "soap",
+            "normalized": "soap"
+          },
+          {
+            "id": "c3ff8053-c3db-49ca-b170-f7a99a2565a9",
+            "clue": "US auto brand known for its Sierra and Yukon",
+            "answer": "gmc",
+            "normalized": "gmc"
+          },
+          {
+            "id": "f866dbaf-bfb4-4cac-9ad2-8add3986382a",
+            "clue": "Comes after Zip-a-Dee-Doo, in the song",
+            "answer": "dah",
+            "normalized": "dah"
+          },
+          {
+            "id": "131f57e9-ad4c-4b64-ae35-107b768a8ae8",
+            "clue": "Computer application",
+            "answer": "program",
+            "normalized": "program"
+          },
+          {
+            "id": "3d087268-de40-42c6-98e1-4e09a49d75ae",
+            "clue": "Area of a river where currents run extremely fast",
+            "answer": "rapids",
+            "normalized": "rapids"
+          },
+          {
+            "id": "732a54c8-13f8-405a-be75-c8ba70dafef9",
+            "clue": "Lil Nas X debut studio album in 2021",
+            "answer": "montero",
+            "normalized": "montero"
+          },
+          {
+            "id": "05c26e0a-082a-4e18-b84d-a4be55d29c72",
+            "clue": "Regret",
+            "answer": "rue",
+            "normalized": "rue"
+          },
+          {
+            "id": "b13b9329-5a1a-41d0-a9f5-93b6198e81ea",
+            "clue": "Successor to Mir",
+            "answer": "iss",
+            "normalized": "iss"
+          },
+          {
+            "id": "24f0d4fe-cbcd-4b90-893d-dcde9a5b3a8f",
+            "clue": "Ron Weasley's middle name in Harry Potter",
+            "answer": "bilius",
+            "normalized": "bilius"
+          },
+          {
+            "id": "20d50edd-3cb0-4b58-9896-0ca28e43fd3b",
+            "clue": "Written abbreviation of negative",
+            "answer": "neg",
+            "normalized": "neg"
+          },
+          {
+            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
+            "clue": "Distinct stage in history or evolution",
+            "answer": "era",
+            "normalized": "era"
+          },
+          {
+            "id": "d01cfe89-e6e0-42f9-9e59-1c35bef95cf1",
+            "clue": "One of seven sailed by Sinbad",
+            "answer": "sea",
+            "normalized": "sea"
+          },
+          {
+            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
+            "clue": "Abbreviation for small spoon measure in baking",
+            "answer": "tsp",
+            "normalized": "tsp"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D13F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-12",
+      "key": "2026-09-13",
       "year": 2026,
       "month": 9,
-      "day": 12,
+      "day": 13,
       "small": {
-        "puzzleId": "aac06377-1a11-4283-a409-bdf20c9cc613",
+        "puzzleId": "054fb834-b4dd-47b0-9aaf-c7e31a916c31",
         "fase": 0,
         "size": 1,
-        "status": 1,
-        "version": 4,
-        "answers": [
-          {
-            "id": "3b3cd09f-9c3f-4eef-9f06-e0826212d131",
-            "clue": "Radio or TV signal",
-            "answer": "feed",
-            "normalized": "feed"
-          },
-          {
-            "id": "2d1c3fc4-a874-4151-b959-2d8d6f0ed049",
-            "clue": "Street or avenue, like the Beatles' Penny",
-            "answer": "lane",
-            "normalized": "lane"
-          },
-          {
-            "id": "b44e8545-9c38-46d7-8e30-7a9edd6e9ba4",
-            "clue": "The skin is the body's largest one",
-            "answer": "organ",
-            "normalized": "organ"
-          },
-          {
-            "id": "342ccba2-ad3f-4671-871f-b7f813694b05",
-            "clue": "Evade, dodge",
-            "answer": "elude",
-            "normalized": "elude"
-          },
-          {
-            "id": "180ac655-67e6-44b3-b01f-c3edf7cabe53",
-            "clue": "Mush eaten by pigs",
-            "answer": "slop",
-            "normalized": "slop"
-          },
-          {
-            "id": "fef6cb65-2098-4e24-8e56-16a077e8767d",
-            "clue": "To and __",
-            "answer": "fro",
-            "normalized": "fro"
-          },
-          {
-            "id": "1f2147e3-1fd3-443b-8918-f9f8ff3d845b",
-            "clue": "Sheet of ice on the water",
-            "answer": "floe",
-            "normalized": "floe"
-          },
-          {
-            "id": "16ff6208-c402-43c2-9a20-43868c825f8b",
-            "clue": "British male peers higher than viscounts",
-            "answer": "earls",
-            "normalized": "earls"
-          },
-          {
-            "id": "b36c5542-ae98-4a58-9e9c-2726d156a742",
-            "clue": "Flood, swallow up",
-            "answer": "engulf",
-            "normalized": "engulf"
-          },
-          {
-            "id": "a9895f9f-8671-4a3f-b2ef-1780427baf95",
-            "clue": "Wanted __ alive, on posters seeking fugitives",
-            "answer": "dead or",
-            "normalized": "deador"
-          },
-          {
-            "id": "e473ec9a-c6ad-47eb-b429-46928216e8b8",
-            "clue": "Celebrities born to famous people, __ babies",
-            "answer": "nepo",
-            "normalized": "nepo"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D12F0"
-      },
-      "mid": {
-        "puzzleId": "5da9af9e-0cb0-4d5e-b7be-7c10aee7fce4",
-        "fase": 1,
-        "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "89e9a250-19c0-49be-a2f9-bad81309e0aa",
-            "clue": "Homer's ancient Greek epic set during Trojan War",
-            "answer": "iliad",
-            "normalized": "iliad"
+            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
+            "clue": "Quick way of saying you must leave a chat session",
+            "answer": "gtg",
+            "normalized": "gtg"
           },
           {
-            "id": "43c6fba2-4db1-46cd-a921-783534766f2c",
-            "clue": "Central nervous system, initialism",
-            "answer": "cns",
-            "normalized": "cns"
+            "id": "3ebb59ea-b652-402f-8828-3af4d09feb99",
+            "clue": "Large enclosure for birds",
+            "answer": "aviary",
+            "normalized": "aviary"
           },
           {
-            "id": "76db6705-cc46-4fb5-a9c8-302a41e5c22c",
-            "clue": "Swiss fried potato cake",
-            "answer": "rosti",
-            "normalized": "rosti"
+            "id": "cad1a4cf-e6da-484c-bfc1-99c9629c73ef",
+            "clue": "Grim __, personification of death",
+            "answer": "reaper",
+            "normalized": "reaper"
           },
           {
-            "id": "4e29c8a8-5f85-46e9-9ab5-2249eea561c9",
-            "clue": "__ and hers",
-            "answer": "his",
-            "normalized": "his"
+            "id": "db3fc113-58d8-4ce2-87f0-33f27286fd6b",
+            "clue": "Religious truths or beliefs",
+            "answer": "tenets",
+            "normalized": "tenets"
           },
           {
-            "id": "e05cb8ef-b3c8-4c2e-b8e1-02d396dbb4a3",
-            "clue": "Chocolate is made from this",
-            "answer": "cocoa bean",
-            "normalized": "cocoabean"
+            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
+            "clue": "US agency tasked with security at airports",
+            "answer": "tsa",
+            "normalized": "tsa"
           },
           {
-            "id": "c4a45c88-1cd4-46d2-a155-5f6a983d9682",
-            "clue": "Consecutive letters that make a Dutch airline",
-            "answer": "klm",
-            "normalized": "klm"
+            "id": "6068437a-0179-4e01-9b9f-d135dde58df4",
+            "clue": "Creature much larger than the average person",
+            "answer": "giant",
+            "normalized": "giant"
           },
           {
-            "id": "268f63fd-5086-4858-8dc5-5f80fa4924fe",
-            "clue": "Abbreviation of Anti-Virus Guard",
-            "answer": "avg",
-            "normalized": "avg"
+            "id": "a087c0a9-5186-4ef5-8e02-e8a13f2167eb",
+            "clue": "Records on cassette",
+            "answer": "tapes",
+            "normalized": "tapes"
           },
           {
-            "id": "705416ad-dfd5-42bf-8856-c904e32f1a53",
-            "clue": "Famous 19th-century Ferris wheel in central Vienna",
-            "answer": "riesenrad",
-            "normalized": "riesenrad"
+            "id": "55daa5a3-d76a-4b38-8ff7-0c5967e482d7",
+            "clue": "Swedish environmental activist Thunberg's forename",
+            "answer": "greta",
+            "normalized": "greta"
           },
           {
-            "id": "48b19f48-de73-4a6f-b6a4-d8ea1cf67450",
-            "clue": "Feminine form of one in Spanish",
-            "answer": "una",
-            "normalized": "una"
+            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
+            "clue": "Paintings, sculptures, and more",
+            "answer": "art",
+            "normalized": "art"
           },
           {
-            "id": "b7574c6d-91f8-49fa-94c2-986600eb5de7",
-            "clue": "Native people of New Zealand",
-            "answer": "maori",
-            "normalized": "maori"
+            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
+            "clue": "How to spell the letter V when said aloud",
+            "answer": "vee",
+            "normalized": "vee"
           },
           {
-            "id": "23078e9d-d09c-4a5d-954e-5857b806697c",
-            "clue": "Three-letter alpha code for Bulgaria",
-            "answer": "bgr",
-            "normalized": "bgr"
-          },
-          {
-            "id": "62fb26a7-3d42-4e8c-8900-9c645cde0855",
-            "clue": "Forearm bones partnered with radii",
-            "answer": "ulnas",
-            "normalized": "ulnas"
-          },
-          {
-            "id": "06770cd5-b7c9-43f0-8511-fe0f7559a9ff",
-            "clue": "International Rescue Committee, initialism",
-            "answer": "irc",
-            "normalized": "irc"
-          },
-          {
-            "id": "1fe8cb85-ac1c-4d42-aefe-74605aea5372",
-            "clue": "Alice Through the __ Glass, novel by Lewis Carroll",
-            "answer": "looking",
-            "normalized": "looking"
-          },
-          {
-            "id": "a2821093-0599-4016-a8e3-d376ee8a9961",
-            "clue": "The coast __, make a run for it without being seen",
-            "answer": "is clear",
-            "normalized": "isclear"
-          },
-          {
-            "id": "3151a0d4-5ec5-4f04-bcfc-7ea615cee9cc",
-            "clue": "The smallest constituent units of matter",
-            "answer": "atoms",
-            "normalized": "atoms"
-          },
-          {
-            "id": "5396dea7-b19f-401e-bdc0-e6a9746b5fc7",
-            "clue": "Spanish or Portuguese word for day",
-            "answer": "dia",
-            "normalized": "dia"
-          },
-          {
-            "id": "80b4805a-2578-4788-8afe-c2350e6e1b02",
-            "clue": "Huge US oil company merged with Texaco",
-            "answer": "chevron",
-            "normalized": "chevron"
-          },
-          {
-            "id": "47b8ba6f-8610-4a45-8c2c-bccda06e464a",
-            "clue": "US-Canada border site of the Horseshoe Falls",
-            "answer": "niagara",
-            "normalized": "niagara"
-          },
-          {
-            "id": "12ad09fa-e5d0-4d4c-81e1-c5437869436c",
-            "clue": "Personal digits you might keep secret in the US",
-            "answer": "ssn",
-            "normalized": "ssn"
-          },
-          {
-            "id": "e1896b45-0967-492c-bfba-999c102d446e",
-            "clue": "Something commonplace and boring",
-            "answer": "banal",
-            "normalized": "banal"
-          },
-          {
-            "id": "26a60069-e6ce-49eb-a92b-6c9a03c38051",
-            "clue": "Massage, knead",
-            "answer": "rub",
-            "normalized": "rub"
-          },
-          {
-            "id": "2ea4d778-4104-446f-9026-8c3ae560c721",
-            "clue": "Ostrich-like flightless bird",
-            "answer": "emu",
-            "normalized": "emu"
-          },
-          {
-            "id": "df0ea13e-5c22-4c67-a4e3-0a596499bff7",
-            "clue": "Hip-hop slang for insulting someone",
-            "answer": "dis",
-            "normalized": "dis"
+            "id": "1ab0c547-a369-4ed2-bf67-0530d45b0f26",
+            "clue": "Abbreviation of 12-month periods",
+            "answer": "yrs",
+            "normalized": "yrs"
           }
         ],
-        "track": "PC|LenC--Y2026M9D12F1"
+        "track": "PC|LenC--Y2026M9D13F0"
+      },
+      "mid": {
+        "puzzleId": "6f4438e1-db14-4a7c-8bcf-f54c29bf588d",
+        "fase": 1,
+        "size": 2,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "81ea5d63-7624-41c9-832a-0bdc1d377b8f",
+            "clue": "European data protection regulations",
+            "answer": "gdpr",
+            "normalized": "gdpr"
+          },
+          {
+            "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
+            "clue": "Imaging body scan for seeing soft tissues",
+            "answer": "mri",
+            "normalized": "mri"
+          },
+          {
+            "id": "ad6b1bf7-9c5c-41fb-817f-c48b14d646bb",
+            "clue": "Large black-and-white African storks",
+            "answer": "marabous",
+            "normalized": "marabous"
+          },
+          {
+            "id": "309c2061-4f94-4e86-ab44-06fe3c7a07d4",
+            "clue": "Platform shoes, elevated wearers above dirty roads",
+            "answer": "chopines",
+            "normalized": "chopines"
+          },
+          {
+            "id": "62981069-3af2-484e-a108-195850f6030a",
+            "clue": "Gold coating on furniture",
+            "answer": "gilt",
+            "normalized": "gilt"
+          },
+          {
+            "id": "c67a4962-454a-4bc6-9855-af7f3278dbde",
+            "clue": "Most studious, most geeky",
+            "answer": "nerdiest",
+            "normalized": "nerdiest"
+          },
+          {
+            "id": "b5f797b2-8d75-4274-afd4-d7d3d05ff174",
+            "clue": "Rubbings out or data deletions",
+            "answer": "erasures",
+            "normalized": "erasures"
+          },
+          {
+            "id": "bd2a76ee-fb78-44e2-a0a7-9a819312cd7b",
+            "clue": "A leg, slangily",
+            "answer": "gam",
+            "normalized": "gam"
+          },
+          {
+            "id": "ec95bde0-9795-4612-a430-9061a4187d4d",
+            "clue": "TV drama show like All My Children, __ opera",
+            "answer": "soap",
+            "normalized": "soap"
+          },
+          {
+            "id": "c3ff8053-c3db-49ca-b170-f7a99a2565a9",
+            "clue": "US auto brand known for its Sierra and Yukon",
+            "answer": "gmc",
+            "normalized": "gmc"
+          },
+          {
+            "id": "f866dbaf-bfb4-4cac-9ad2-8add3986382a",
+            "clue": "Comes after Zip-a-Dee-Doo, in the song",
+            "answer": "dah",
+            "normalized": "dah"
+          },
+          {
+            "id": "131f57e9-ad4c-4b64-ae35-107b768a8ae8",
+            "clue": "Computer application",
+            "answer": "program",
+            "normalized": "program"
+          },
+          {
+            "id": "3d087268-de40-42c6-98e1-4e09a49d75ae",
+            "clue": "Area of a river where currents run extremely fast",
+            "answer": "rapids",
+            "normalized": "rapids"
+          },
+          {
+            "id": "732a54c8-13f8-405a-be75-c8ba70dafef9",
+            "clue": "Lil Nas X debut studio album in 2021",
+            "answer": "montero",
+            "normalized": "montero"
+          },
+          {
+            "id": "05c26e0a-082a-4e18-b84d-a4be55d29c72",
+            "clue": "Regret",
+            "answer": "rue",
+            "normalized": "rue"
+          },
+          {
+            "id": "b13b9329-5a1a-41d0-a9f5-93b6198e81ea",
+            "clue": "Successor to Mir",
+            "answer": "iss",
+            "normalized": "iss"
+          },
+          {
+            "id": "24f0d4fe-cbcd-4b90-893d-dcde9a5b3a8f",
+            "clue": "Ron Weasley's middle name in Harry Potter",
+            "answer": "bilius",
+            "normalized": "bilius"
+          },
+          {
+            "id": "20d50edd-3cb0-4b58-9896-0ca28e43fd3b",
+            "clue": "Written abbreviation of negative",
+            "answer": "neg",
+            "normalized": "neg"
+          },
+          {
+            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
+            "clue": "Distinct stage in history or evolution",
+            "answer": "era",
+            "normalized": "era"
+          },
+          {
+            "id": "d01cfe89-e6e0-42f9-9e59-1c35bef95cf1",
+            "clue": "One of seven sailed by Sinbad",
+            "answer": "sea",
+            "normalized": "sea"
+          },
+          {
+            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
+            "clue": "Abbreviation for small spoon measure in baking",
+            "answer": "tsp",
+            "normalized": "tsp"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D13F1"
       }
     },
     "latestAvailableEntry": {
@@ -441224,21 +441188,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "7AZdzDPjVEGt7GItHHP4U4e5qiXSDmuPEDVObm2k57MpoNj/49KiB8xQ+jtDP7HAxC9O33pjfjJ2pppiREGqgD11y1noybteV15yAQlmF8jaRW0AMO9SNeGFMPqf3GGX2pp4IaMVRRHTtG6+YB2WZhu1DQzyEaNfD9dunAiMEUBijmjDoJ4AD5iLG3H/7TF+Ti25F0alVZdVMLpA87+fAopler6fLqDqSN/XZ8l131NGq9YRWXpsSXzgBvLg1lyWn15uRrSvu5r4F439tzRcW+ORBMNOp0JqSCCetN3+cEo="
+        "lgalDLvwaCPl1lUbt6PLyCeM4TEXtlDSGZcR2ZfbFImnyx/tQ38TsoiCGflI7uNM48D0wcxsMdi2c58k2w5kJIgx86E7LuLrsB7P9ESetqzbqGREHyZan4B0rlN2q1OX6nDv4wtPxesGQyFmCyq2QVrCYYFbndtWdGZetPX44xjD9sMNCynpUIAJKWmtHtUv4Ib8UL5L2JeLQDVs5ZebtQBDT+rXr8MWpjUnB5ce8/ZUfzm4Ilg5A4247g/eO9u2vw6Oc5EX08ApOBpDAdaKDFhkebHevB9eJOxm0fjs+vY="
       ]
     },
     "decrypted": {
-      "Id": "1c3a00fc-e4f2-4aa0-9304-7f6a3689a6e6",
-      "Date": "2026-09-12T00:00:00Z",
+      "Id": "f5242d29-76d5-481e-bd97-100a9ebab371",
+      "Date": "2026-09-13T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "being",
-      "NormalizedPassword": "being",
+      "Password": "vinyl",
+      "NormalizedPassword": "vinyl",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-12T02:35:52.6430000+05:30",
-    "hash": "538993a8ae8da56534c9a66454397703",
+    "dtu": "2026-09-13T02:13:21.3720000+05:30",
+    "hash": "80a50374374eac10bf2832e29b6f9f4a",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
