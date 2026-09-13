@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T20:43:21.372Z",
+  "generatedAt": "2026-09-13T20:59:06.260Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 13
+    "day": 14
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 22
+        "QuantidadeDeFases": 24
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440550,439 +440550,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-13",
+      "key": "2026-09-14",
       "year": 2026,
       "month": 9,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "054fb834-b4dd-47b0-9aaf-c7e31a916c31",
+        "puzzleId": "c333fb53-02d0-4fdc-851a-592a92fb090a",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
-            "clue": "Quick way of saying you must leave a chat session",
-            "answer": "gtg",
-            "normalized": "gtg"
+            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
+            "clue": "Goes before \"ching\" for a cash register noise",
+            "answer": "cha",
+            "normalized": "cha"
           },
           {
-            "id": "3ebb59ea-b652-402f-8828-3af4d09feb99",
-            "clue": "Large enclosure for birds",
-            "answer": "aviary",
-            "normalized": "aviary"
+            "id": "ae190657-764e-47c9-bd27-f4e777a52e08",
+            "clue": "National flower of Bulgaria and Czech Republic",
+            "answer": "rose",
+            "normalized": "rose"
           },
           {
-            "id": "cad1a4cf-e6da-484c-bfc1-99c9629c73ef",
-            "clue": "Grim __, personification of death",
-            "answer": "reaper",
-            "normalized": "reaper"
+            "id": "37ad6f93-e14b-4de9-9098-9e8fe70253d9",
+            "clue": "Prefix meaning within",
+            "answer": "intra",
+            "normalized": "intra"
           },
           {
-            "id": "db3fc113-58d8-4ce2-87f0-33f27286fd6b",
-            "clue": "Religious truths or beliefs",
-            "answer": "tenets",
-            "normalized": "tenets"
+            "id": "2c3de174-2ff6-441b-8f41-35181fb6e6f1",
+            "clue": "2 Broke Girls and The Neighborhood actress Beth",
+            "answer": "behrs",
+            "normalized": "behrs"
           },
           {
-            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
-            "clue": "US agency tasked with security at airports",
-            "answer": "tsa",
-            "normalized": "tsa"
+            "id": "b13a6f3d-277c-4752-a924-b336eb679419",
+            "clue": "Slang for something that's tiny and adorable",
+            "answer": "smol",
+            "normalized": "smol"
           },
           {
-            "id": "6068437a-0179-4e01-9b9f-d135dde58df4",
-            "clue": "Creature much larger than the average person",
-            "answer": "giant",
-            "normalized": "giant"
+            "id": "7c1317da-c045-4b41-905a-144d066cfb86",
+            "clue": "Sealant commonly used in asphalt, on roofs",
+            "answer": "tar",
+            "normalized": "tar"
           },
           {
-            "id": "a087c0a9-5186-4ef5-8e02-e8a13f2167eb",
-            "clue": "Records on cassette",
-            "answer": "tapes",
-            "normalized": "tapes"
+            "id": "046e1f0e-83bb-44e7-a940-80076a94edc2",
+            "clue": "Celebrity home, according to an MTV series",
+            "answer": "crib",
+            "normalized": "crib"
           },
           {
-            "id": "55daa5a3-d76a-4b38-8ff7-0c5967e482d7",
-            "clue": "Swedish environmental activist Thunberg's forename",
-            "answer": "greta",
-            "normalized": "greta"
+            "id": "02404d96-c77f-48ff-af9a-65f0c5ee1743",
+            "clue": "Not a liar, honourable, fair, sincere",
+            "answer": "honest",
+            "normalized": "honest"
           },
           {
-            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
-            "clue": "Paintings, sculptures, and more",
-            "answer": "art",
-            "normalized": "art"
+            "id": "4f6ab383-a901-45c5-ba0f-8ee828d57282",
+            "clue": "Respiratory disorder associated with inhalers",
+            "answer": "asthma",
+            "normalized": "asthma"
           },
           {
-            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
-            "clue": "How to spell the letter V when said aloud",
-            "answer": "vee",
-            "normalized": "vee"
+            "id": "3dd4d847-4af0-4b6e-b41e-6618c3628db0",
+            "clue": "Misinterpretation of information",
+            "answer": "error",
+            "normalized": "error"
           },
           {
-            "id": "1ab0c547-a369-4ed2-bf67-0530d45b0f26",
-            "clue": "Abbreviation of 12-month periods",
-            "answer": "yrs",
-            "normalized": "yrs"
+            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
+            "clue": "Common query in early internet chat rooms",
+            "answer": "asl",
+            "normalized": "asl"
           }
         ],
-        "track": "PC|LenC--Y2026M9D13F0"
+        "track": "PC|LenC--Y2026M9D14F0"
       },
       "mid": {
-        "puzzleId": "6f4438e1-db14-4a7c-8bcf-f54c29bf588d",
+        "puzzleId": "81faed44-0dfd-46f2-a5c8-ce7f4716aa80",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 5,
         "answers": [
           {
-            "id": "81ea5d63-7624-41c9-832a-0bdc1d377b8f",
-            "clue": "European data protection regulations",
-            "answer": "gdpr",
-            "normalized": "gdpr"
+            "id": "0cbede17-9d9f-442c-9816-2da57c48daed",
+            "clue": "Paper money",
+            "answer": "cash",
+            "normalized": "cash"
           },
           {
-            "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-            "clue": "Imaging body scan for seeing soft tissues",
-            "answer": "mri",
-            "normalized": "mri"
+            "id": "4c60b30e-6539-455e-bfc2-fccb098557cc",
+            "clue": "__ Bergere, French theatre famed for its cabaret",
+            "answer": "folies",
+            "normalized": "folies"
           },
           {
-            "id": "ad6b1bf7-9c5c-41fb-817f-c48b14d646bb",
-            "clue": "Large black-and-white African storks",
-            "answer": "marabous",
-            "normalized": "marabous"
+            "id": "73ef8086-63a9-45e1-b2c4-96fdf7d45934",
+            "clue": "To ask someone for money or information",
+            "answer": "solicit",
+            "normalized": "solicit"
           },
           {
-            "id": "309c2061-4f94-4e86-ab44-06fe3c7a07d4",
-            "clue": "Platform shoes, elevated wearers above dirty roads",
-            "answer": "chopines",
-            "normalized": "chopines"
+            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
+            "clue": "Sea fish used for liver oil",
+            "answer": "cod",
+            "normalized": "cod"
           },
           {
-            "id": "62981069-3af2-484e-a108-195850f6030a",
-            "clue": "Gold coating on furniture",
-            "answer": "gilt",
-            "normalized": "gilt"
+            "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
+            "clue": "Organisations created by nations working together",
+            "answer": "igo",
+            "normalized": "igo"
           },
           {
-            "id": "c67a4962-454a-4bc6-9855-af7f3278dbde",
-            "clue": "Most studious, most geeky",
-            "answer": "nerdiest",
-            "normalized": "nerdiest"
+            "id": "baf81f7d-c446-44da-a027-35fe45ffec80",
+            "clue": "Abbreviation for easily procured medicines",
+            "answer": "otc",
+            "normalized": "otc"
           },
           {
-            "id": "b5f797b2-8d75-4274-afd4-d7d3d05ff174",
-            "clue": "Rubbings out or data deletions",
-            "answer": "erasures",
-            "normalized": "erasures"
+            "id": "b54da8ea-b0f0-4b22-b452-2f9042cad15b",
+            "clue": "Airport code for London Heathrow",
+            "answer": "lhr",
+            "normalized": "lhr"
           },
           {
-            "id": "bd2a76ee-fb78-44e2-a0a7-9a819312cd7b",
-            "clue": "A leg, slangily",
-            "answer": "gam",
-            "normalized": "gam"
+            "id": "4bb8e7dd-fed0-460e-a858-fc807d016835",
+            "clue": "It makes it hard or impossible to see through",
+            "answer": "opacity",
+            "normalized": "opacity"
           },
           {
-            "id": "ec95bde0-9795-4612-a430-9061a4187d4d",
-            "clue": "TV drama show like All My Children, __ opera",
-            "answer": "soap",
-            "normalized": "soap"
+            "id": "372d711a-0cbc-4740-871e-59aa4ac74a0f",
+            "clue": "Tests for saltiness",
+            "answer": "tastes",
+            "normalized": "tastes"
           },
           {
-            "id": "c3ff8053-c3db-49ca-b170-f7a99a2565a9",
-            "clue": "US auto brand known for its Sierra and Yukon",
-            "answer": "gmc",
-            "normalized": "gmc"
+            "id": "e4a8fcb2-7bce-45e7-b769-3d5f1a6b01c9",
+            "clue": "Lion homes",
+            "answer": "dens",
+            "normalized": "dens"
           },
           {
-            "id": "f866dbaf-bfb4-4cac-9ad2-8add3986382a",
-            "clue": "Comes after Zip-a-Dee-Doo, in the song",
-            "answer": "dah",
-            "normalized": "dah"
+            "id": "a17e58a4-1d2d-4aaf-a303-5d4190ae8f1a",
+            "clue": "Unsolved crime of the past, not enough evidence",
+            "answer": "cold case",
+            "normalized": "coldcase"
           },
           {
-            "id": "131f57e9-ad4c-4b64-ae35-107b768a8ae8",
-            "clue": "Computer application",
-            "answer": "program",
-            "normalized": "program"
+            "id": "712996a4-277d-4054-8774-a90d9bff6414",
+            "clue": "Boxer Muhammad who was Cassius Clay",
+            "answer": "ali",
+            "normalized": "ali"
           },
           {
-            "id": "3d087268-de40-42c6-98e1-4e09a49d75ae",
-            "clue": "Area of a river where currents run extremely fast",
-            "answer": "rapids",
-            "normalized": "rapids"
+            "id": "13a1ed23-3ca9-44d8-a86b-f152f244f587",
+            "clue": "Kingdom of the Two __, political entity 1816-60",
+            "answer": "sicilies",
+            "normalized": "sicilies"
           },
           {
-            "id": "732a54c8-13f8-405a-be75-c8ba70dafef9",
-            "clue": "Lil Nas X debut studio album in 2021",
-            "answer": "montero",
-            "normalized": "montero"
+            "id": "14e53576-c45a-470d-97cf-2712e59c6662",
+            "clue": "Acrophobia is the fear of __",
+            "answer": "heights",
+            "normalized": "heights"
           },
           {
-            "id": "05c26e0a-082a-4e18-b84d-a4be55d29c72",
-            "clue": "Regret",
-            "answer": "rue",
-            "normalized": "rue"
+            "id": "fe466d92-d815-4239-aa18-a3a2270cc85f",
+            "clue": "Archaic term for a highwayman without a horse",
+            "answer": "footpad",
+            "normalized": "footpad"
           },
           {
-            "id": "b13b9329-5a1a-41d0-a9f5-93b6198e81ea",
-            "clue": "Successor to Mir",
-            "answer": "iss",
-            "normalized": "iss"
+            "id": "d76e7054-898d-4a11-abe3-e98a75c1c063",
+            "clue": "Michael Ende wrote a Neverending one",
+            "answer": "story",
+            "normalized": "story"
           },
           {
-            "id": "24f0d4fe-cbcd-4b90-893d-dcde9a5b3a8f",
-            "clue": "Ron Weasley's middle name in Harry Potter",
-            "answer": "bilius",
-            "normalized": "bilius"
+            "id": "fecb61fa-bb7d-4071-86c9-b038919294e4",
+            "clue": "Move over",
+            "answer": "scoot",
+            "normalized": "scoot"
           },
           {
-            "id": "20d50edd-3cb0-4b58-9896-0ca28e43fd3b",
-            "clue": "Written abbreviation of negative",
-            "answer": "neg",
-            "normalized": "neg"
-          },
-          {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
-          },
-          {
-            "id": "d01cfe89-e6e0-42f9-9e59-1c35bef95cf1",
-            "clue": "One of seven sailed by Sinbad",
-            "answer": "sea",
-            "normalized": "sea"
-          },
-          {
-            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
-            "clue": "Abbreviation for small spoon measure in baking",
-            "answer": "tsp",
-            "normalized": "tsp"
+            "id": "ce6b98b2-a6ba-42a1-b146-3a8c6765aa38",
+            "clue": "Quick way to say \"can't talk now\" in messaging",
+            "answer": "ctn",
+            "normalized": "ctn"
           }
         ],
-        "track": "PC|LenC--Y2026M9D13F1"
+        "track": "PC|LenC--Y2026M9D14F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-13",
+      "key": "2026-09-14",
       "year": 2026,
       "month": 9,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "054fb834-b4dd-47b0-9aaf-c7e31a916c31",
+        "puzzleId": "c333fb53-02d0-4fdc-851a-592a92fb090a",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 1,
+        "version": 4,
         "answers": [
           {
-            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
-            "clue": "Quick way of saying you must leave a chat session",
-            "answer": "gtg",
-            "normalized": "gtg"
+            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
+            "clue": "Goes before \"ching\" for a cash register noise",
+            "answer": "cha",
+            "normalized": "cha"
           },
           {
-            "id": "3ebb59ea-b652-402f-8828-3af4d09feb99",
-            "clue": "Large enclosure for birds",
-            "answer": "aviary",
-            "normalized": "aviary"
+            "id": "ae190657-764e-47c9-bd27-f4e777a52e08",
+            "clue": "National flower of Bulgaria and Czech Republic",
+            "answer": "rose",
+            "normalized": "rose"
           },
           {
-            "id": "cad1a4cf-e6da-484c-bfc1-99c9629c73ef",
-            "clue": "Grim __, personification of death",
-            "answer": "reaper",
-            "normalized": "reaper"
+            "id": "37ad6f93-e14b-4de9-9098-9e8fe70253d9",
+            "clue": "Prefix meaning within",
+            "answer": "intra",
+            "normalized": "intra"
           },
           {
-            "id": "db3fc113-58d8-4ce2-87f0-33f27286fd6b",
-            "clue": "Religious truths or beliefs",
-            "answer": "tenets",
-            "normalized": "tenets"
+            "id": "2c3de174-2ff6-441b-8f41-35181fb6e6f1",
+            "clue": "2 Broke Girls and The Neighborhood actress Beth",
+            "answer": "behrs",
+            "normalized": "behrs"
           },
           {
-            "id": "aa9d38d2-f048-4616-a3d6-e7ac17fcfab1",
-            "clue": "US agency tasked with security at airports",
-            "answer": "tsa",
-            "normalized": "tsa"
+            "id": "b13a6f3d-277c-4752-a924-b336eb679419",
+            "clue": "Slang for something that's tiny and adorable",
+            "answer": "smol",
+            "normalized": "smol"
           },
           {
-            "id": "6068437a-0179-4e01-9b9f-d135dde58df4",
-            "clue": "Creature much larger than the average person",
-            "answer": "giant",
-            "normalized": "giant"
+            "id": "7c1317da-c045-4b41-905a-144d066cfb86",
+            "clue": "Sealant commonly used in asphalt, on roofs",
+            "answer": "tar",
+            "normalized": "tar"
           },
           {
-            "id": "a087c0a9-5186-4ef5-8e02-e8a13f2167eb",
-            "clue": "Records on cassette",
-            "answer": "tapes",
-            "normalized": "tapes"
+            "id": "046e1f0e-83bb-44e7-a940-80076a94edc2",
+            "clue": "Celebrity home, according to an MTV series",
+            "answer": "crib",
+            "normalized": "crib"
           },
           {
-            "id": "55daa5a3-d76a-4b38-8ff7-0c5967e482d7",
-            "clue": "Swedish environmental activist Thunberg's forename",
-            "answer": "greta",
-            "normalized": "greta"
+            "id": "02404d96-c77f-48ff-af9a-65f0c5ee1743",
+            "clue": "Not a liar, honourable, fair, sincere",
+            "answer": "honest",
+            "normalized": "honest"
           },
           {
-            "id": "3062eec2-9dc6-4ab8-995d-6050401c0eea",
-            "clue": "Paintings, sculptures, and more",
-            "answer": "art",
-            "normalized": "art"
+            "id": "4f6ab383-a901-45c5-ba0f-8ee828d57282",
+            "clue": "Respiratory disorder associated with inhalers",
+            "answer": "asthma",
+            "normalized": "asthma"
           },
           {
-            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
-            "clue": "How to spell the letter V when said aloud",
-            "answer": "vee",
-            "normalized": "vee"
+            "id": "3dd4d847-4af0-4b6e-b41e-6618c3628db0",
+            "clue": "Misinterpretation of information",
+            "answer": "error",
+            "normalized": "error"
           },
           {
-            "id": "1ab0c547-a369-4ed2-bf67-0530d45b0f26",
-            "clue": "Abbreviation of 12-month periods",
-            "answer": "yrs",
-            "normalized": "yrs"
+            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
+            "clue": "Common query in early internet chat rooms",
+            "answer": "asl",
+            "normalized": "asl"
           }
         ],
-        "track": "PC|LenC--Y2026M9D13F0"
+        "track": "PC|LenC--Y2026M9D14F0"
       },
       "mid": {
-        "puzzleId": "6f4438e1-db14-4a7c-8bcf-f54c29bf588d",
+        "puzzleId": "81faed44-0dfd-46f2-a5c8-ce7f4716aa80",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 5,
         "answers": [
           {
-            "id": "81ea5d63-7624-41c9-832a-0bdc1d377b8f",
-            "clue": "European data protection regulations",
-            "answer": "gdpr",
-            "normalized": "gdpr"
+            "id": "0cbede17-9d9f-442c-9816-2da57c48daed",
+            "clue": "Paper money",
+            "answer": "cash",
+            "normalized": "cash"
           },
           {
-            "id": "3c7536a0-6053-4265-ba5d-e1feb1c99f1e",
-            "clue": "Imaging body scan for seeing soft tissues",
-            "answer": "mri",
-            "normalized": "mri"
+            "id": "4c60b30e-6539-455e-bfc2-fccb098557cc",
+            "clue": "__ Bergere, French theatre famed for its cabaret",
+            "answer": "folies",
+            "normalized": "folies"
           },
           {
-            "id": "ad6b1bf7-9c5c-41fb-817f-c48b14d646bb",
-            "clue": "Large black-and-white African storks",
-            "answer": "marabous",
-            "normalized": "marabous"
+            "id": "73ef8086-63a9-45e1-b2c4-96fdf7d45934",
+            "clue": "To ask someone for money or information",
+            "answer": "solicit",
+            "normalized": "solicit"
           },
           {
-            "id": "309c2061-4f94-4e86-ab44-06fe3c7a07d4",
-            "clue": "Platform shoes, elevated wearers above dirty roads",
-            "answer": "chopines",
-            "normalized": "chopines"
+            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
+            "clue": "Sea fish used for liver oil",
+            "answer": "cod",
+            "normalized": "cod"
           },
           {
-            "id": "62981069-3af2-484e-a108-195850f6030a",
-            "clue": "Gold coating on furniture",
-            "answer": "gilt",
-            "normalized": "gilt"
+            "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
+            "clue": "Organisations created by nations working together",
+            "answer": "igo",
+            "normalized": "igo"
           },
           {
-            "id": "c67a4962-454a-4bc6-9855-af7f3278dbde",
-            "clue": "Most studious, most geeky",
-            "answer": "nerdiest",
-            "normalized": "nerdiest"
+            "id": "baf81f7d-c446-44da-a027-35fe45ffec80",
+            "clue": "Abbreviation for easily procured medicines",
+            "answer": "otc",
+            "normalized": "otc"
           },
           {
-            "id": "b5f797b2-8d75-4274-afd4-d7d3d05ff174",
-            "clue": "Rubbings out or data deletions",
-            "answer": "erasures",
-            "normalized": "erasures"
+            "id": "b54da8ea-b0f0-4b22-b452-2f9042cad15b",
+            "clue": "Airport code for London Heathrow",
+            "answer": "lhr",
+            "normalized": "lhr"
           },
           {
-            "id": "bd2a76ee-fb78-44e2-a0a7-9a819312cd7b",
-            "clue": "A leg, slangily",
-            "answer": "gam",
-            "normalized": "gam"
+            "id": "4bb8e7dd-fed0-460e-a858-fc807d016835",
+            "clue": "It makes it hard or impossible to see through",
+            "answer": "opacity",
+            "normalized": "opacity"
           },
           {
-            "id": "ec95bde0-9795-4612-a430-9061a4187d4d",
-            "clue": "TV drama show like All My Children, __ opera",
-            "answer": "soap",
-            "normalized": "soap"
+            "id": "372d711a-0cbc-4740-871e-59aa4ac74a0f",
+            "clue": "Tests for saltiness",
+            "answer": "tastes",
+            "normalized": "tastes"
           },
           {
-            "id": "c3ff8053-c3db-49ca-b170-f7a99a2565a9",
-            "clue": "US auto brand known for its Sierra and Yukon",
-            "answer": "gmc",
-            "normalized": "gmc"
+            "id": "e4a8fcb2-7bce-45e7-b769-3d5f1a6b01c9",
+            "clue": "Lion homes",
+            "answer": "dens",
+            "normalized": "dens"
           },
           {
-            "id": "f866dbaf-bfb4-4cac-9ad2-8add3986382a",
-            "clue": "Comes after Zip-a-Dee-Doo, in the song",
-            "answer": "dah",
-            "normalized": "dah"
+            "id": "a17e58a4-1d2d-4aaf-a303-5d4190ae8f1a",
+            "clue": "Unsolved crime of the past, not enough evidence",
+            "answer": "cold case",
+            "normalized": "coldcase"
           },
           {
-            "id": "131f57e9-ad4c-4b64-ae35-107b768a8ae8",
-            "clue": "Computer application",
-            "answer": "program",
-            "normalized": "program"
+            "id": "712996a4-277d-4054-8774-a90d9bff6414",
+            "clue": "Boxer Muhammad who was Cassius Clay",
+            "answer": "ali",
+            "normalized": "ali"
           },
           {
-            "id": "3d087268-de40-42c6-98e1-4e09a49d75ae",
-            "clue": "Area of a river where currents run extremely fast",
-            "answer": "rapids",
-            "normalized": "rapids"
+            "id": "13a1ed23-3ca9-44d8-a86b-f152f244f587",
+            "clue": "Kingdom of the Two __, political entity 1816-60",
+            "answer": "sicilies",
+            "normalized": "sicilies"
           },
           {
-            "id": "732a54c8-13f8-405a-be75-c8ba70dafef9",
-            "clue": "Lil Nas X debut studio album in 2021",
-            "answer": "montero",
-            "normalized": "montero"
+            "id": "14e53576-c45a-470d-97cf-2712e59c6662",
+            "clue": "Acrophobia is the fear of __",
+            "answer": "heights",
+            "normalized": "heights"
           },
           {
-            "id": "05c26e0a-082a-4e18-b84d-a4be55d29c72",
-            "clue": "Regret",
-            "answer": "rue",
-            "normalized": "rue"
+            "id": "fe466d92-d815-4239-aa18-a3a2270cc85f",
+            "clue": "Archaic term for a highwayman without a horse",
+            "answer": "footpad",
+            "normalized": "footpad"
           },
           {
-            "id": "b13b9329-5a1a-41d0-a9f5-93b6198e81ea",
-            "clue": "Successor to Mir",
-            "answer": "iss",
-            "normalized": "iss"
+            "id": "d76e7054-898d-4a11-abe3-e98a75c1c063",
+            "clue": "Michael Ende wrote a Neverending one",
+            "answer": "story",
+            "normalized": "story"
           },
           {
-            "id": "24f0d4fe-cbcd-4b90-893d-dcde9a5b3a8f",
-            "clue": "Ron Weasley's middle name in Harry Potter",
-            "answer": "bilius",
-            "normalized": "bilius"
+            "id": "fecb61fa-bb7d-4071-86c9-b038919294e4",
+            "clue": "Move over",
+            "answer": "scoot",
+            "normalized": "scoot"
           },
           {
-            "id": "20d50edd-3cb0-4b58-9896-0ca28e43fd3b",
-            "clue": "Written abbreviation of negative",
-            "answer": "neg",
-            "normalized": "neg"
-          },
-          {
-            "id": "8372ac03-46c7-446f-b464-ce277f6722d6",
-            "clue": "Distinct stage in history or evolution",
-            "answer": "era",
-            "normalized": "era"
-          },
-          {
-            "id": "d01cfe89-e6e0-42f9-9e59-1c35bef95cf1",
-            "clue": "One of seven sailed by Sinbad",
-            "answer": "sea",
-            "normalized": "sea"
-          },
-          {
-            "id": "58b36e43-2064-45c3-8b68-5f80589ef63f",
-            "clue": "Abbreviation for small spoon measure in baking",
-            "answer": "tsp",
-            "normalized": "tsp"
+            "id": "ce6b98b2-a6ba-42a1-b146-3a8c6765aa38",
+            "clue": "Quick way to say \"can't talk now\" in messaging",
+            "answer": "ctn",
+            "normalized": "ctn"
           }
         ],
-        "track": "PC|LenC--Y2026M9D13F1"
+        "track": "PC|LenC--Y2026M9D14F1"
       }
     },
     "latestAvailableEntry": {
@@ -441188,21 +441152,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "lgalDLvwaCPl1lUbt6PLyCeM4TEXtlDSGZcR2ZfbFImnyx/tQ38TsoiCGflI7uNM48D0wcxsMdi2c58k2w5kJIgx86E7LuLrsB7P9ESetqzbqGREHyZan4B0rlN2q1OX6nDv4wtPxesGQyFmCyq2QVrCYYFbndtWdGZetPX44xjD9sMNCynpUIAJKWmtHtUv4Ib8UL5L2JeLQDVs5ZebtQBDT+rXr8MWpjUnB5ce8/ZUfzm4Ilg5A4247g/eO9u2vw6Oc5EX08ApOBpDAdaKDFhkebHevB9eJOxm0fjs+vY="
+        "agwcMmJLDovKi3/gTV1d2qglgQNYJi7VvH2wdfQHFUfgCPp+qb9L1Zan19ymW8eKxqih8mZfxcz2KvWffdqjlfQ2XijTU48na9PLwK9xWoeU56J/HpCiVlLjSlCViiigc+NayhUylcDR2dmwrcOhdGk3t8vCYgZ0nAelPNCu2QifgdmqHEVmqNzIrOeECLCD23LFq0embK++vDJbYAYgOTILuNrqTtkrVYsrwPaP21FHfePiz4XLGDhG3SEKz7xzLefzDQo46QpEDmgpjiYRBs+8+lKsEyXDaZ2rE4rL2eA="
       ]
     },
     "decrypted": {
-      "Id": "f5242d29-76d5-481e-bd97-100a9ebab371",
-      "Date": "2026-09-13T00:00:00Z",
+      "Id": "11694c11-80fe-47b5-9bd6-2d8f42d63f24",
+      "Date": "2026-09-14T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "vinyl",
-      "NormalizedPassword": "vinyl",
+      "Password": "usage",
+      "NormalizedPassword": "usage",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-13T02:13:21.3720000+05:30",
-    "hash": "80a50374374eac10bf2832e29b6f9f4a",
+    "dtu": "2026-09-14T02:29:06.2600000+05:30",
+    "hash": "c607fa51c564adc3d6985066b7dad38c",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
