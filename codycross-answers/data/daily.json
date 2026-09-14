@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T20:59:06.260Z",
+  "generatedAt": "2026-09-14T21:55:58.595Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 14
+    "day": 15
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 24
+        "QuantidadeDeFases": 26
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440550,403 +440550,499 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-14",
+      "key": "2026-09-15",
       "year": 2026,
       "month": 9,
-      "day": 14,
+      "day": 15,
       "small": {
-        "puzzleId": "c333fb53-02d0-4fdc-851a-592a92fb090a",
+        "puzzleId": "5fd7a9ba-6c16-4d91-9b64-970101d75ecc",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 1,
         "answers": [
           {
-            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
-            "clue": "Goes before \"ching\" for a cash register noise",
-            "answer": "cha",
-            "normalized": "cha"
+            "id": "0c7e49e8-9b3c-47bd-81e9-367ef3ebd791",
+            "clue": "Short name, alternative to Teddy",
+            "answer": "theo",
+            "normalized": "theo"
           },
           {
-            "id": "ae190657-764e-47c9-bd27-f4e777a52e08",
-            "clue": "National flower of Bulgaria and Czech Republic",
-            "answer": "rose",
-            "normalized": "rose"
+            "id": "71e55978-3a03-40b7-a9d7-c68e82359a4b",
+            "clue": "Makes damp",
+            "answer": "wets",
+            "normalized": "wets"
           },
           {
-            "id": "37ad6f93-e14b-4de9-9098-9e8fe70253d9",
-            "clue": "Prefix meaning within",
-            "answer": "intra",
-            "normalized": "intra"
+            "id": "89307430-08f5-4f0f-8914-5dfb186d6e9b",
+            "clue": "__ Minh City, alternative name for Saigon, Vietnam",
+            "answer": "ho chi",
+            "normalized": "hochi"
           },
           {
-            "id": "2c3de174-2ff6-441b-8f41-35181fb6e6f1",
-            "clue": "2 Broke Girls and The Neighborhood actress Beth",
-            "answer": "behrs",
-            "normalized": "behrs"
+            "id": "597dc0db-7f5e-439c-a9fc-4c1ece939465",
+            "clue": "Abbreviation for attorney",
+            "answer": "atty",
+            "normalized": "atty"
           },
           {
-            "id": "b13a6f3d-277c-4752-a924-b336eb679419",
-            "clue": "Slang for something that's tiny and adorable",
-            "answer": "smol",
-            "normalized": "smol"
+            "id": "3423e985-9673-4714-8ce9-9e22c88918ce",
+            "clue": "Device for doing a task, such as a screwdriver",
+            "answer": "tool",
+            "normalized": "tool"
           },
           {
-            "id": "7c1317da-c045-4b41-905a-144d066cfb86",
-            "clue": "Sealant commonly used in asphalt, on roofs",
-            "answer": "tar",
-            "normalized": "tar"
+            "id": "f506016f-04bd-4730-816b-0efcc9f7b633",
+            "clue": "Just about outnumbered, __ one",
+            "answer": "two to",
+            "normalized": "twoto"
           },
           {
-            "id": "046e1f0e-83bb-44e7-a940-80076a94edc2",
-            "clue": "Celebrity home, according to an MTV series",
-            "answer": "crib",
-            "normalized": "crib"
+            "id": "79b3438e-7c14-4e27-9c36-44bf2dd01a4a",
+            "clue": "Prefix for one hundred",
+            "answer": "hecto",
+            "normalized": "hecto"
           },
           {
-            "id": "02404d96-c77f-48ff-af9a-65f0c5ee1743",
-            "clue": "Not a liar, honourable, fair, sincere",
-            "answer": "honest",
-            "normalized": "honest"
+            "id": "17cfea6c-ca0a-4778-a268-bec0c7fc55a3",
+            "clue": "Alkyl substituent of ethane",
+            "answer": "ethyl",
+            "normalized": "ethyl"
           },
           {
-            "id": "4f6ab383-a901-45c5-ba0f-8ee828d57282",
-            "clue": "Respiratory disorder associated with inhalers",
-            "answer": "asthma",
-            "normalized": "asthma"
+            "id": "54ada50d-f939-4985-a8d0-ef58a8c17710",
+            "clue": "Open source initiative for short",
+            "answer": "osi",
+            "normalized": "osi"
           },
           {
-            "id": "3dd4d847-4af0-4b6e-b41e-6618c3628db0",
-            "clue": "Misinterpretation of information",
-            "answer": "error",
-            "normalized": "error"
-          },
-          {
-            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
-            "clue": "Common query in early internet chat rooms",
-            "answer": "asl",
-            "normalized": "asl"
+            "id": "16461d88-fabd-40fe-8a0b-e5a5bedbfa2a",
+            "clue": "Bowler, cloche, or beanie",
+            "answer": "hat",
+            "normalized": "hat"
           }
         ],
-        "track": "PC|LenC--Y2026M9D14F0"
+        "track": "PC|LenC--Y2026M9D15F0"
       },
       "mid": {
-        "puzzleId": "81faed44-0dfd-46f2-a5c8-ce7f4716aa80",
+        "puzzleId": "69440c56-1568-4612-982d-8e2c25deae79",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 5,
         "answers": [
           {
-            "id": "0cbede17-9d9f-442c-9816-2da57c48daed",
-            "clue": "Paper money",
-            "answer": "cash",
-            "normalized": "cash"
+            "id": "144e1807-1e9d-4015-b587-40bb0944c8b8",
+            "clue": "Feng __ focuses on Asian theory of balance",
+            "answer": "shui",
+            "normalized": "shui"
           },
           {
-            "id": "4c60b30e-6539-455e-bfc2-fccb098557cc",
-            "clue": "__ Bergere, French theatre famed for its cabaret",
-            "answer": "folies",
-            "normalized": "folies"
+            "id": "87293123-5b03-4bc7-95a9-d1525fbd5074",
+            "clue": "British term for a baby carriage",
+            "answer": "pram",
+            "normalized": "pram"
           },
           {
-            "id": "73ef8086-63a9-45e1-b2c4-96fdf7d45934",
-            "clue": "To ask someone for money or information",
-            "answer": "solicit",
-            "normalized": "solicit"
+            "id": "27884f69-4795-4be7-8f6a-a1d0c656723e",
+            "clue": "Country with cities Cartago, San José, Puerto Limón",
+            "answer": "costa rica",
+            "normalized": "costarica"
           },
           {
-            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
-            "clue": "Sea fish used for liver oil",
-            "answer": "cod",
-            "normalized": "cod"
+            "id": "5ab02fc1-2113-4fb3-8607-8ef2921323e2",
+            "clue": "A drug or similar agent able to induce dreaming",
+            "answer": "oneirogen",
+            "normalized": "oneirogen"
           },
           {
-            "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
-            "clue": "Organisations created by nations working together",
-            "answer": "igo",
-            "normalized": "igo"
+            "id": "c7cbec4a-715c-4ef3-8ba4-4ec1e8cd87cc",
+            "clue": "Curt, brusque",
+            "answer": "terse",
+            "normalized": "terse"
           },
           {
-            "id": "baf81f7d-c446-44da-a027-35fe45ffec80",
-            "clue": "Abbreviation for easily procured medicines",
-            "answer": "otc",
-            "normalized": "otc"
+            "id": "b5f5089e-1a4a-4a9d-8afe-16d475731c0f",
+            "clue": "Innsbruck is capital of this Austrian Alpine state",
+            "answer": "tyrol",
+            "normalized": "tyrol"
           },
           {
-            "id": "b54da8ea-b0f0-4b22-b452-2f9042cad15b",
-            "clue": "Airport code for London Heathrow",
-            "answer": "lhr",
-            "normalized": "lhr"
+            "id": "a90fbdcd-b19d-4fc7-9881-33d5e92060b5",
+            "clue": "French IT company founded in 1967",
+            "answer": "capgemini",
+            "normalized": "capgemini"
           },
           {
-            "id": "4bb8e7dd-fed0-460e-a858-fc807d016835",
-            "clue": "It makes it hard or impossible to see through",
-            "answer": "opacity",
-            "normalized": "opacity"
+            "id": "81633b2c-1024-4295-91d2-d40d309b951e",
+            "clue": "Third line: Silent Night, Holy Night, __",
+            "answer": "all is calm",
+            "normalized": "alliscalm"
           },
           {
-            "id": "372d711a-0cbc-4740-871e-59aa4ac74a0f",
-            "clue": "Tests for saltiness",
-            "answer": "tastes",
-            "normalized": "tastes"
+            "id": "bded9847-51f2-49e5-8291-baf06efcc243",
+            "clue": "Chemical formula for sodium chloride",
+            "answer": "nacl",
+            "normalized": "nacl"
           },
           {
-            "id": "e4a8fcb2-7bce-45e7-b769-3d5f1a6b01c9",
-            "clue": "Lion homes",
-            "answer": "dens",
-            "normalized": "dens"
+            "id": "3e685889-007e-4434-9b8e-4a98d271e46d",
+            "clue": "Actress Taylor-Joy, star of The Queen's Gambit",
+            "answer": "anya",
+            "normalized": "anya"
           },
           {
-            "id": "a17e58a4-1d2d-4aaf-a303-5d4190ae8f1a",
-            "clue": "Unsolved crime of the past, not enough evidence",
-            "answer": "cold case",
-            "normalized": "coldcase"
+            "id": "c9ac4f36-7cf9-4c49-afa1-2e744b27b7de",
+            "clue": "Edinburgh native",
+            "answer": "scot",
+            "normalized": "scot"
           },
           {
-            "id": "712996a4-277d-4054-8774-a90d9bff6414",
-            "clue": "Boxer Muhammad who was Cassius Clay",
-            "answer": "ali",
-            "normalized": "ali"
+            "id": "bcf99805-a408-42e9-8590-999b1d4cc8e8",
+            "clue": "Sharpen one's skills",
+            "answer": "hone",
+            "normalized": "hone"
           },
           {
-            "id": "13a1ed23-3ca9-44d8-a86b-f152f244f587",
-            "clue": "Kingdom of the Two __, political entity 1816-60",
-            "answer": "sicilies",
-            "normalized": "sicilies"
+            "id": "4775e278-2d0f-4e5a-bbff-c262ad30f6c0",
+            "clue": "Operator of software",
+            "answer": "user",
+            "normalized": "user"
           },
           {
-            "id": "14e53576-c45a-470d-97cf-2712e59c6662",
-            "clue": "Acrophobia is the fear of __",
-            "answer": "heights",
-            "normalized": "heights"
+            "id": "417ec153-a2a7-4369-bad9-28d5f3121fd0",
+            "clue": "Suffix used in medicine to name inflammations",
+            "answer": "itis",
+            "normalized": "itis"
           },
           {
-            "id": "fe466d92-d815-4239-aa18-a3a2270cc85f",
-            "clue": "Archaic term for a highwayman without a horse",
-            "answer": "footpad",
-            "normalized": "footpad"
+            "id": "78917036-07b0-482f-9dcc-918595745d37",
+            "clue": "Not a con",
+            "answer": "pro",
+            "normalized": "pro"
           },
           {
-            "id": "d76e7054-898d-4a11-abe3-e98a75c1c063",
-            "clue": "Michael Ende wrote a Neverending one",
-            "answer": "story",
-            "normalized": "story"
+            "id": "fe20317b-f910-4d18-9afc-f7be374619b6",
+            "clue": "Manipulate, as in a game or competition",
+            "answer": "rig",
+            "normalized": "rig"
           },
           {
-            "id": "fecb61fa-bb7d-4071-86c9-b038919294e4",
-            "clue": "Move over",
-            "answer": "scoot",
-            "normalized": "scoot"
+            "id": "d27e635e-f55a-415d-904f-265994e78f70",
+            "clue": "The highest card in most games",
+            "answer": "ace",
+            "normalized": "ace"
           },
           {
-            "id": "ce6b98b2-a6ba-42a1-b146-3a8c6765aa38",
-            "clue": "Quick way to say \"can't talk now\" in messaging",
-            "answer": "ctn",
-            "normalized": "ctn"
+            "id": "a0314b02-081e-47cd-83fb-5bac135a0a0e",
+            "clue": "An adult male",
+            "answer": "man",
+            "normalized": "man"
+          },
+          {
+            "id": "4f4bf260-4616-45fa-872f-d3b01231b65a",
+            "clue": "Crests of rock formed by glacial erosion",
+            "answer": "aretes",
+            "normalized": "aretes"
+          },
+          {
+            "id": "d6aef50c-107c-47b9-87bc-5dc7fe822989",
+            "clue": "Village People anthem",
+            "answer": "ymca",
+            "normalized": "ymca"
+          },
+          {
+            "id": "4887bc89-c480-4f04-8943-448ca9cf3526",
+            "clue": "Johnson, writer-director of 2022 film Glass Onion",
+            "answer": "rian",
+            "normalized": "rian"
+          },
+          {
+            "id": "ba17ec8e-3e7b-4986-b640-23b637b1ca6a",
+            "clue": "Simply this, no other",
+            "answer": "only",
+            "normalized": "only"
+          },
+          {
+            "id": "099a61b7-8c4a-4373-952b-a7bd0e3a6d3c",
+            "clue": "Peru's capital city",
+            "answer": "lima",
+            "normalized": "lima"
+          },
+          {
+            "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
+            "clue": "Container for Coke and beans",
+            "answer": "can",
+            "normalized": "can"
+          },
+          {
+            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
+            "clue": "French phrase, goes before \"mode\"",
+            "answer": "a la",
+            "normalized": "ala"
+          },
+          {
+            "id": "d592d3bc-48a2-4744-ab01-80b4f4109cfc",
+            "clue": "Public limited company in the UK",
+            "answer": "plc",
+            "normalized": "plc"
+          },
+          {
+            "id": "e7557bb3-da2d-4a32-b4ea-8a8eed153c5e",
+            "clue": "Spoken-word US poet Scott-Heron",
+            "answer": "gil",
+            "normalized": "gil"
           }
         ],
-        "track": "PC|LenC--Y2026M9D14F1"
+        "track": "PC|LenC--Y2026M9D15F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-14",
+      "key": "2026-09-15",
       "year": 2026,
       "month": 9,
-      "day": 14,
+      "day": 15,
       "small": {
-        "puzzleId": "c333fb53-02d0-4fdc-851a-592a92fb090a",
+        "puzzleId": "5fd7a9ba-6c16-4d91-9b64-970101d75ecc",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 1,
         "answers": [
           {
-            "id": "fb589463-8912-4ef4-9e12-6d7f7fb9df3a",
-            "clue": "Goes before \"ching\" for a cash register noise",
-            "answer": "cha",
-            "normalized": "cha"
+            "id": "0c7e49e8-9b3c-47bd-81e9-367ef3ebd791",
+            "clue": "Short name, alternative to Teddy",
+            "answer": "theo",
+            "normalized": "theo"
           },
           {
-            "id": "ae190657-764e-47c9-bd27-f4e777a52e08",
-            "clue": "National flower of Bulgaria and Czech Republic",
-            "answer": "rose",
-            "normalized": "rose"
+            "id": "71e55978-3a03-40b7-a9d7-c68e82359a4b",
+            "clue": "Makes damp",
+            "answer": "wets",
+            "normalized": "wets"
           },
           {
-            "id": "37ad6f93-e14b-4de9-9098-9e8fe70253d9",
-            "clue": "Prefix meaning within",
-            "answer": "intra",
-            "normalized": "intra"
+            "id": "89307430-08f5-4f0f-8914-5dfb186d6e9b",
+            "clue": "__ Minh City, alternative name for Saigon, Vietnam",
+            "answer": "ho chi",
+            "normalized": "hochi"
           },
           {
-            "id": "2c3de174-2ff6-441b-8f41-35181fb6e6f1",
-            "clue": "2 Broke Girls and The Neighborhood actress Beth",
-            "answer": "behrs",
-            "normalized": "behrs"
+            "id": "597dc0db-7f5e-439c-a9fc-4c1ece939465",
+            "clue": "Abbreviation for attorney",
+            "answer": "atty",
+            "normalized": "atty"
           },
           {
-            "id": "b13a6f3d-277c-4752-a924-b336eb679419",
-            "clue": "Slang for something that's tiny and adorable",
-            "answer": "smol",
-            "normalized": "smol"
+            "id": "3423e985-9673-4714-8ce9-9e22c88918ce",
+            "clue": "Device for doing a task, such as a screwdriver",
+            "answer": "tool",
+            "normalized": "tool"
           },
           {
-            "id": "7c1317da-c045-4b41-905a-144d066cfb86",
-            "clue": "Sealant commonly used in asphalt, on roofs",
-            "answer": "tar",
-            "normalized": "tar"
+            "id": "f506016f-04bd-4730-816b-0efcc9f7b633",
+            "clue": "Just about outnumbered, __ one",
+            "answer": "two to",
+            "normalized": "twoto"
           },
           {
-            "id": "046e1f0e-83bb-44e7-a940-80076a94edc2",
-            "clue": "Celebrity home, according to an MTV series",
-            "answer": "crib",
-            "normalized": "crib"
+            "id": "79b3438e-7c14-4e27-9c36-44bf2dd01a4a",
+            "clue": "Prefix for one hundred",
+            "answer": "hecto",
+            "normalized": "hecto"
           },
           {
-            "id": "02404d96-c77f-48ff-af9a-65f0c5ee1743",
-            "clue": "Not a liar, honourable, fair, sincere",
-            "answer": "honest",
-            "normalized": "honest"
+            "id": "17cfea6c-ca0a-4778-a268-bec0c7fc55a3",
+            "clue": "Alkyl substituent of ethane",
+            "answer": "ethyl",
+            "normalized": "ethyl"
           },
           {
-            "id": "4f6ab383-a901-45c5-ba0f-8ee828d57282",
-            "clue": "Respiratory disorder associated with inhalers",
-            "answer": "asthma",
-            "normalized": "asthma"
+            "id": "54ada50d-f939-4985-a8d0-ef58a8c17710",
+            "clue": "Open source initiative for short",
+            "answer": "osi",
+            "normalized": "osi"
           },
           {
-            "id": "3dd4d847-4af0-4b6e-b41e-6618c3628db0",
-            "clue": "Misinterpretation of information",
-            "answer": "error",
-            "normalized": "error"
-          },
-          {
-            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
-            "clue": "Common query in early internet chat rooms",
-            "answer": "asl",
-            "normalized": "asl"
+            "id": "16461d88-fabd-40fe-8a0b-e5a5bedbfa2a",
+            "clue": "Bowler, cloche, or beanie",
+            "answer": "hat",
+            "normalized": "hat"
           }
         ],
-        "track": "PC|LenC--Y2026M9D14F0"
+        "track": "PC|LenC--Y2026M9D15F0"
       },
       "mid": {
-        "puzzleId": "81faed44-0dfd-46f2-a5c8-ce7f4716aa80",
+        "puzzleId": "69440c56-1568-4612-982d-8e2c25deae79",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 5,
         "answers": [
           {
-            "id": "0cbede17-9d9f-442c-9816-2da57c48daed",
-            "clue": "Paper money",
-            "answer": "cash",
-            "normalized": "cash"
+            "id": "144e1807-1e9d-4015-b587-40bb0944c8b8",
+            "clue": "Feng __ focuses on Asian theory of balance",
+            "answer": "shui",
+            "normalized": "shui"
           },
           {
-            "id": "4c60b30e-6539-455e-bfc2-fccb098557cc",
-            "clue": "__ Bergere, French theatre famed for its cabaret",
-            "answer": "folies",
-            "normalized": "folies"
+            "id": "87293123-5b03-4bc7-95a9-d1525fbd5074",
+            "clue": "British term for a baby carriage",
+            "answer": "pram",
+            "normalized": "pram"
           },
           {
-            "id": "73ef8086-63a9-45e1-b2c4-96fdf7d45934",
-            "clue": "To ask someone for money or information",
-            "answer": "solicit",
-            "normalized": "solicit"
+            "id": "27884f69-4795-4be7-8f6a-a1d0c656723e",
+            "clue": "Country with cities Cartago, San José, Puerto Limón",
+            "answer": "costa rica",
+            "normalized": "costarica"
           },
           {
-            "id": "a86c345f-cd31-4cfb-a6a8-722f928c0e49",
-            "clue": "Sea fish used for liver oil",
-            "answer": "cod",
-            "normalized": "cod"
+            "id": "5ab02fc1-2113-4fb3-8607-8ef2921323e2",
+            "clue": "A drug or similar agent able to induce dreaming",
+            "answer": "oneirogen",
+            "normalized": "oneirogen"
           },
           {
-            "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
-            "clue": "Organisations created by nations working together",
-            "answer": "igo",
-            "normalized": "igo"
+            "id": "c7cbec4a-715c-4ef3-8ba4-4ec1e8cd87cc",
+            "clue": "Curt, brusque",
+            "answer": "terse",
+            "normalized": "terse"
           },
           {
-            "id": "baf81f7d-c446-44da-a027-35fe45ffec80",
-            "clue": "Abbreviation for easily procured medicines",
-            "answer": "otc",
-            "normalized": "otc"
+            "id": "b5f5089e-1a4a-4a9d-8afe-16d475731c0f",
+            "clue": "Innsbruck is capital of this Austrian Alpine state",
+            "answer": "tyrol",
+            "normalized": "tyrol"
           },
           {
-            "id": "b54da8ea-b0f0-4b22-b452-2f9042cad15b",
-            "clue": "Airport code for London Heathrow",
-            "answer": "lhr",
-            "normalized": "lhr"
+            "id": "a90fbdcd-b19d-4fc7-9881-33d5e92060b5",
+            "clue": "French IT company founded in 1967",
+            "answer": "capgemini",
+            "normalized": "capgemini"
           },
           {
-            "id": "4bb8e7dd-fed0-460e-a858-fc807d016835",
-            "clue": "It makes it hard or impossible to see through",
-            "answer": "opacity",
-            "normalized": "opacity"
+            "id": "81633b2c-1024-4295-91d2-d40d309b951e",
+            "clue": "Third line: Silent Night, Holy Night, __",
+            "answer": "all is calm",
+            "normalized": "alliscalm"
           },
           {
-            "id": "372d711a-0cbc-4740-871e-59aa4ac74a0f",
-            "clue": "Tests for saltiness",
-            "answer": "tastes",
-            "normalized": "tastes"
+            "id": "bded9847-51f2-49e5-8291-baf06efcc243",
+            "clue": "Chemical formula for sodium chloride",
+            "answer": "nacl",
+            "normalized": "nacl"
           },
           {
-            "id": "e4a8fcb2-7bce-45e7-b769-3d5f1a6b01c9",
-            "clue": "Lion homes",
-            "answer": "dens",
-            "normalized": "dens"
+            "id": "3e685889-007e-4434-9b8e-4a98d271e46d",
+            "clue": "Actress Taylor-Joy, star of The Queen's Gambit",
+            "answer": "anya",
+            "normalized": "anya"
           },
           {
-            "id": "a17e58a4-1d2d-4aaf-a303-5d4190ae8f1a",
-            "clue": "Unsolved crime of the past, not enough evidence",
-            "answer": "cold case",
-            "normalized": "coldcase"
+            "id": "c9ac4f36-7cf9-4c49-afa1-2e744b27b7de",
+            "clue": "Edinburgh native",
+            "answer": "scot",
+            "normalized": "scot"
           },
           {
-            "id": "712996a4-277d-4054-8774-a90d9bff6414",
-            "clue": "Boxer Muhammad who was Cassius Clay",
-            "answer": "ali",
-            "normalized": "ali"
+            "id": "bcf99805-a408-42e9-8590-999b1d4cc8e8",
+            "clue": "Sharpen one's skills",
+            "answer": "hone",
+            "normalized": "hone"
           },
           {
-            "id": "13a1ed23-3ca9-44d8-a86b-f152f244f587",
-            "clue": "Kingdom of the Two __, political entity 1816-60",
-            "answer": "sicilies",
-            "normalized": "sicilies"
+            "id": "4775e278-2d0f-4e5a-bbff-c262ad30f6c0",
+            "clue": "Operator of software",
+            "answer": "user",
+            "normalized": "user"
           },
           {
-            "id": "14e53576-c45a-470d-97cf-2712e59c6662",
-            "clue": "Acrophobia is the fear of __",
-            "answer": "heights",
-            "normalized": "heights"
+            "id": "417ec153-a2a7-4369-bad9-28d5f3121fd0",
+            "clue": "Suffix used in medicine to name inflammations",
+            "answer": "itis",
+            "normalized": "itis"
           },
           {
-            "id": "fe466d92-d815-4239-aa18-a3a2270cc85f",
-            "clue": "Archaic term for a highwayman without a horse",
-            "answer": "footpad",
-            "normalized": "footpad"
+            "id": "78917036-07b0-482f-9dcc-918595745d37",
+            "clue": "Not a con",
+            "answer": "pro",
+            "normalized": "pro"
           },
           {
-            "id": "d76e7054-898d-4a11-abe3-e98a75c1c063",
-            "clue": "Michael Ende wrote a Neverending one",
-            "answer": "story",
-            "normalized": "story"
+            "id": "fe20317b-f910-4d18-9afc-f7be374619b6",
+            "clue": "Manipulate, as in a game or competition",
+            "answer": "rig",
+            "normalized": "rig"
           },
           {
-            "id": "fecb61fa-bb7d-4071-86c9-b038919294e4",
-            "clue": "Move over",
-            "answer": "scoot",
-            "normalized": "scoot"
+            "id": "d27e635e-f55a-415d-904f-265994e78f70",
+            "clue": "The highest card in most games",
+            "answer": "ace",
+            "normalized": "ace"
           },
           {
-            "id": "ce6b98b2-a6ba-42a1-b146-3a8c6765aa38",
-            "clue": "Quick way to say \"can't talk now\" in messaging",
-            "answer": "ctn",
-            "normalized": "ctn"
+            "id": "a0314b02-081e-47cd-83fb-5bac135a0a0e",
+            "clue": "An adult male",
+            "answer": "man",
+            "normalized": "man"
+          },
+          {
+            "id": "4f4bf260-4616-45fa-872f-d3b01231b65a",
+            "clue": "Crests of rock formed by glacial erosion",
+            "answer": "aretes",
+            "normalized": "aretes"
+          },
+          {
+            "id": "d6aef50c-107c-47b9-87bc-5dc7fe822989",
+            "clue": "Village People anthem",
+            "answer": "ymca",
+            "normalized": "ymca"
+          },
+          {
+            "id": "4887bc89-c480-4f04-8943-448ca9cf3526",
+            "clue": "Johnson, writer-director of 2022 film Glass Onion",
+            "answer": "rian",
+            "normalized": "rian"
+          },
+          {
+            "id": "ba17ec8e-3e7b-4986-b640-23b637b1ca6a",
+            "clue": "Simply this, no other",
+            "answer": "only",
+            "normalized": "only"
+          },
+          {
+            "id": "099a61b7-8c4a-4373-952b-a7bd0e3a6d3c",
+            "clue": "Peru's capital city",
+            "answer": "lima",
+            "normalized": "lima"
+          },
+          {
+            "id": "17513f9b-0360-4446-a8d8-44a0b2df6a15",
+            "clue": "Container for Coke and beans",
+            "answer": "can",
+            "normalized": "can"
+          },
+          {
+            "id": "606ad03e-54ea-43f7-9624-95f4e5828091",
+            "clue": "French phrase, goes before \"mode\"",
+            "answer": "a la",
+            "normalized": "ala"
+          },
+          {
+            "id": "d592d3bc-48a2-4744-ab01-80b4f4109cfc",
+            "clue": "Public limited company in the UK",
+            "answer": "plc",
+            "normalized": "plc"
+          },
+          {
+            "id": "e7557bb3-da2d-4a32-b4ea-8a8eed153c5e",
+            "clue": "Spoken-word US poet Scott-Heron",
+            "answer": "gil",
+            "normalized": "gil"
           }
         ],
-        "track": "PC|LenC--Y2026M9D14F1"
+        "track": "PC|LenC--Y2026M9D15F1"
       }
     },
     "latestAvailableEntry": {
@@ -441152,21 +441248,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "agwcMmJLDovKi3/gTV1d2qglgQNYJi7VvH2wdfQHFUfgCPp+qb9L1Zan19ymW8eKxqih8mZfxcz2KvWffdqjlfQ2XijTU48na9PLwK9xWoeU56J/HpCiVlLjSlCViiigc+NayhUylcDR2dmwrcOhdGk3t8vCYgZ0nAelPNCu2QifgdmqHEVmqNzIrOeECLCD23LFq0embK++vDJbYAYgOTILuNrqTtkrVYsrwPaP21FHfePiz4XLGDhG3SEKz7xzLefzDQo46QpEDmgpjiYRBs+8+lKsEyXDaZ2rE4rL2eA="
+        "AkfFlxgQmo0XCsxRYgb5yeF968wMcjBbVvxx3+Wlvc2YK3d10F9vMDM63yctsFN9FGjQ6rVtz/xh/mJElIFZhpkIwG5kZEMBQTNYug7xa+VTx70PLlC3SkMOA/VjGv1aGvFIHziVUkuZ0AioswtqciltgNDhdI7azskksOA6uEgvnsNy4tGrJusgaiHJyqBHrXGxzcV8O5mILqyY8sSwqq5SaW4JkD7eAm5MkAAPpvQRvxVTA4RLJyR2+kTajvfkxfPKetuU3iFBo3I+uvCq4+aj15tr6HotHd41Uj88AME="
       ]
     },
     "decrypted": {
-      "Id": "11694c11-80fe-47b5-9bd6-2d8f42d63f24",
-      "Date": "2026-09-14T00:00:00Z",
+      "Id": "7b367c48-dd6a-433d-9b5f-3aee157b05d5",
+      "Date": "2026-09-15T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "usage",
-      "NormalizedPassword": "usage",
+      "Password": "stout",
+      "NormalizedPassword": "stout",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-14T02:29:06.2600000+05:30",
-    "hash": "c607fa51c564adc3d6985066b7dad38c",
+    "dtu": "2026-09-15T03:25:58.5950000+05:30",
+    "hash": "fceafcb1abe411f4d8f7e83eb53dbb16",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
