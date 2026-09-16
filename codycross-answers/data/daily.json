@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T21:33:22.577Z",
+  "generatedAt": "2026-09-16T21:28:54.594Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 16
+    "day": 17
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 28
+        "QuantidadeDeFases": 30
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440550,403 +440550,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-16",
+      "key": "2026-09-17",
       "year": 2026,
       "month": 9,
-      "day": 16,
+      "day": 17,
       "small": {
-        "puzzleId": "065af62b-1a4b-4ce6-9d2c-4e77c548b80c",
+        "puzzleId": "86a7f47a-7c33-4e58-9431-582d77834bde",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 3,
         "answers": [
           {
-            "id": "7007bbee-133f-4e08-ad0c-a762247524a8",
-            "clue": "Scrooge's exclamation, reacting to humbug",
-            "answer": "bah",
-            "normalized": "bah"
+            "id": "b493fbd9-64b2-4e1b-9451-3203084489fd",
+            "clue": "To show unwillingness in taking on new work, say",
+            "answer": "balk",
+            "normalized": "balk"
           },
           {
-            "id": "e2d4c25e-8818-4813-988e-dca7f2b25c4c",
-            "clue": "Amorite goddess of hunting and war",
-            "answer": "anat",
-            "normalized": "anat"
+            "id": "fbee2390-cd63-4774-8864-9397fc9db21a",
+            "clue": "Slang term for a native of Australia",
+            "answer": "aussie",
+            "normalized": "aussie"
           },
           {
-            "id": "da00e872-21f4-41ab-850a-34ffc6b793b3",
-            "clue": "Wryly, sarcastically, in a deadpan way",
-            "answer": "dryly",
-            "normalized": "dryly"
+            "id": "57441991-4a66-4ba2-be39-57c6eb6533cc",
+            "clue": "Ditzy, absentminded, forgetful",
+            "answer": "scatty",
+            "normalized": "scatty"
           },
           {
-            "id": "aedd63ca-968d-4c7c-85ae-e1280c3fc975",
-            "clue": "Work of literature converted to read on a device",
-            "answer": "ebook",
-            "normalized": "ebook"
+            "id": "04efaa02-a523-452a-8d00-b64716fa9211",
+            "clue": "Ropes of interlaced hair, braids",
+            "answer": "plaits",
+            "normalized": "plaits"
           },
           {
-            "id": "60a32734-2435-4dbf-84b3-d7fb95a4e056",
-            "clue": "Bridget Jones actress Zellweger",
-            "answer": "renee",
-            "normalized": "renee"
+            "id": "eecc3b99-07bf-4cd2-b000-a0c7045094f4",
+            "clue": "Spied, as in “I spy with my little eye…”",
+            "answer": "saw",
+            "normalized": "saw"
           },
           {
-            "id": "67f610ea-a2cd-4fa6-a4f4-bb0f8501a584",
-            "clue": "Shade of fire vehicles and stop signs",
-            "answer": "red",
-            "normalized": "red"
+            "id": "9f8f0d53-86fa-45aa-8fe7-877b9394b9dd",
+            "clue": "Text slang for big smile and a wink",
+            "answer": "bsaaw",
+            "normalized": "bsaaw"
           },
           {
-            "id": "fcfb9552-ff9a-4e1d-89ca-a43ac2c532ca",
-            "clue": "Profession of opera's most famous Sevillian",
-            "answer": "barber",
-            "normalized": "barber"
+            "id": "5143dcda-ea6a-4e40-b596-837e3390397c",
+            "clue": "Sparkling Italian wine from the Piedmont region",
+            "answer": "asti",
+            "normalized": "asti"
           },
           {
-            "id": "9af31dfb-6220-4856-9905-1db4974531c2",
-            "clue": "Anybody, any person out there, no one particular",
-            "answer": "anyone",
-            "normalized": "anyone"
+            "id": "e54817b2-621b-494e-8f27-0c1a7c9110d7",
+            "clue": "Played by Rick Hoffman in Suits, Lewis",
+            "answer": "litt",
+            "normalized": "litt"
           },
           {
-            "id": "45236d02-b141-40db-80ca-529954a30ada",
-            "clue": "Surrounded by a ring of light above head",
-            "answer": "haloed",
-            "normalized": "haloed"
+            "id": "131eda43-8118-4ec4-b0aa-2472348a338e",
+            "clue": "Lock openers",
+            "answer": "keys",
+            "normalized": "keys"
           },
           {
-            "id": "3d834282-ac60-44d7-aba4-270158b0267f",
-            "clue": "Small child",
-            "answer": "tyke",
-            "normalized": "tyke"
+            "id": "665e8b01-75f8-4453-b934-4d214c16e399",
+            "clue": "Venomous snakes, from the Greek word for \"cobra\"",
+            "answer": "asps",
+            "normalized": "asps"
           },
           {
-            "id": "230725e0-5050-4205-b7dc-80d3dc3f71a9",
-            "clue": "German masculine article meaning \"the\"",
-            "answer": "der",
-            "normalized": "der"
+            "id": "f09ede92-a433-4166-88dc-b88d6ad286f4",
+            "clue": "University of California, Los Angeles, for short",
+            "answer": "ucla",
+            "normalized": "ucla"
           }
         ],
-        "track": "PC|LenC--Y2026M9D16F0"
+        "track": "PC|LenC--Y2026M9D17F0"
       },
       "mid": {
-        "puzzleId": "0af4a893-a2f8-4d67-b832-0030cde93a06",
+        "puzzleId": "7c1b3aa2-cb82-461c-8d77-bbc3fbf5ef89",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 4,
+        "version": 3,
         "answers": [
           {
-            "id": "f38c9872-07ef-4c95-8945-9ba82aae4a71",
-            "clue": "Smartphone programs for texts, playing games etc.",
-            "answer": "apps",
-            "normalized": "apps"
+            "id": "012dbe1d-1fc9-43cc-9a46-d06052012715",
+            "clue": "Short for change",
+            "answer": "chg",
+            "normalized": "chg"
           },
           {
-            "id": "2422895a-cdba-4b1a-be2d-1c176669a611",
-            "clue": "Italian ballet dancer Carlotta, famous as Giselle",
-            "answer": "grisi",
-            "normalized": "grisi"
+            "id": "14dfa941-9367-41d3-88ea-02af5f7ddd55",
+            "clue": "Fee Fi Fo and this",
+            "answer": "fum",
+            "normalized": "fum"
           },
           {
-            "id": "efee4fed-3507-49af-94cf-e9e56b6d3863",
-            "clue": "Home of Cancun and Puerto Vallarta",
-            "answer": "mexico",
-            "normalized": "mexico"
+            "id": "70f549a7-a56d-4f63-a389-1447de3f8380",
+            "clue": "MGM's lion mascot",
+            "answer": "leo",
+            "normalized": "leo"
           },
           {
-            "id": "76009b1f-887e-48de-91af-e73e0bf8dd9d",
-            "clue": "Sheep sound",
-            "answer": "baa",
-            "normalized": "baa"
+            "id": "eb662ea1-a02d-4b14-80eb-32e4818cc356",
+            "clue": "Music player introduced to replace Apple's Mini",
+            "answer": "ipod nano",
+            "normalized": "ipodnano"
           },
           {
-            "id": "ac76c006-0b27-4509-85a9-9a0552e649cf",
-            "clue": "Initialism for a corporation for local development",
-            "answer": "ldc",
-            "normalized": "ldc"
+            "id": "5a3b845e-a468-4581-86c8-2e0920db18a4",
+            "clue": "Scooping out mud from a river",
+            "answer": "dredging",
+            "normalized": "dredging"
           },
           {
-            "id": "ea99d471-5507-48a3-b8a2-5a7ded6c3c24",
-            "clue": "Attacked with surprise",
-            "answer": "raided",
-            "normalized": "raided"
+            "id": "d22135b6-597b-44f4-a976-9d17bb199816",
+            "clue": "Research degree, such as PhD",
+            "answer": "doctoral",
+            "normalized": "doctoral"
           },
           {
-            "id": "8f994cae-bbc7-42d7-aad7-58fa84bcebd9",
-            "clue": "Type of acids that combine to form proteins",
-            "answer": "amino",
-            "normalized": "amino"
+            "id": "af5c92d6-3947-4c6d-9dcb-75b9d2467d06",
+            "clue": "Lithium aluminium hydride",
+            "answer": "lah",
+            "normalized": "lah"
           },
           {
-            "id": "e773e2bb-9532-43bb-85ce-16bea8698d7c",
-            "clue": "Singer Lewis whose band is The News",
-            "answer": "huey",
-            "normalized": "huey"
+            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
+            "clue": "Direction halfway between east and southeast",
+            "answer": "ese",
+            "normalized": "ese"
           },
           {
-            "id": "54576ff0-11b1-4b4a-862c-49e93f14259b",
-            "clue": "Square the length of a square's side to find it",
-            "answer": "area",
-            "normalized": "area"
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
           },
           {
-            "id": "dc8ca0da-433f-431a-a426-d497e44522e7",
-            "clue": "An animation studio owned by Disney",
-            "answer": "pixar",
-            "normalized": "pixar"
+            "id": "5d23a147-c5f2-4d13-ab8d-8069b1d49bb6",
+            "clue": "Marie __, monthly health and beauty magazine",
+            "answer": "claire",
+            "normalized": "claire"
           },
           {
-            "id": "5ff174aa-f9e6-47ef-bcbe-e6bc4cc4e26b",
-            "clue": "Greek letter that looks like a trident",
-            "answer": "psi",
-            "normalized": "psi"
+            "id": "72491696-c4b3-4b3a-91bf-20f5ef8a50a0",
+            "clue": "Red-brown plant dyes",
+            "answer": "hennas",
+            "normalized": "hennas"
           },
           {
-            "id": "769fc39f-5a82-4f11-8a2f-6a9eb77a9f03",
-            "clue": "Latin three letters to mark an error in writing",
-            "answer": "sic",
-            "normalized": "sic"
+            "id": "ce32e561-b914-4422-9ed6-425c2cb17f66",
+            "clue": "Online searching tool",
+            "answer": "google",
+            "normalized": "google"
           },
           {
-            "id": "d9c00e8c-2dfc-42e5-aa31-e9ce8c98b602",
-            "clue": "Three-letter alpha code for Gambia",
-            "answer": "gmb",
-            "normalized": "gmb"
+            "id": "ce0399d9-5203-47f1-99e4-9560a15036e8",
+            "clue": "Hey diddle diddle, the cat and this instrument",
+            "answer": "fiddle",
+            "normalized": "fiddle"
           },
           {
-            "id": "be2548b2-163d-4de0-ab7a-73f57ceeb8fd",
-            "clue": "__ but a goodie",
-            "answer": "oldie",
-            "normalized": "oldie"
+            "id": "0b0cd08d-c1a3-41f7-b2b2-6288e3ee5c93",
+            "clue": "Noisy disturbance but not by a lion",
+            "answer": "uproar",
+            "normalized": "uproar"
           },
           {
-            "id": "093c246b-06ff-4cd0-bcc7-5aace92d24f2",
-            "clue": "Refuse someone permission or entry",
-            "answer": "deny",
-            "normalized": "deny"
+            "id": "b8a606ff-be88-4762-883e-0c4ddafa43ef",
+            "clue": "Venetian delicacy of soft-shell crabs",
+            "answer": "moeche",
+            "normalized": "moeche"
           },
           {
-            "id": "0bb076fc-a5dd-4ee8-a81b-ace842255b1a",
-            "clue": "Chemical formula for cadmium oxide",
-            "answer": "cdo",
-            "normalized": "cdo"
+            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
+            "clue": "Pest spray that's banned in many countries",
+            "answer": "ddt",
+            "normalized": "ddt"
           },
           {
-            "id": "906d3896-ffad-49e3-8586-805183997f92",
-            "clue": "Breathing out word when relaxing",
-            "answer": "aah",
-            "normalized": "aah"
-          },
-          {
-            "id": "87a3ad02-627e-421f-9799-213df3e98a42",
-            "clue": "Three letters texting someone that you miss them",
-            "answer": "imu",
-            "normalized": "imu"
+            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
+            "clue": "Non-profit charity independent of any government",
+            "answer": "ngo",
+            "normalized": "ngo"
           }
         ],
-        "track": "PC|LenC--Y2026M9D16F1"
+        "track": "PC|LenC--Y2026M9D17F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-16",
+      "key": "2026-09-17",
       "year": 2026,
       "month": 9,
-      "day": 16,
+      "day": 17,
       "small": {
-        "puzzleId": "065af62b-1a4b-4ce6-9d2c-4e77c548b80c",
+        "puzzleId": "86a7f47a-7c33-4e58-9431-582d77834bde",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 4,
+        "version": 3,
         "answers": [
           {
-            "id": "7007bbee-133f-4e08-ad0c-a762247524a8",
-            "clue": "Scrooge's exclamation, reacting to humbug",
-            "answer": "bah",
-            "normalized": "bah"
+            "id": "b493fbd9-64b2-4e1b-9451-3203084489fd",
+            "clue": "To show unwillingness in taking on new work, say",
+            "answer": "balk",
+            "normalized": "balk"
           },
           {
-            "id": "e2d4c25e-8818-4813-988e-dca7f2b25c4c",
-            "clue": "Amorite goddess of hunting and war",
-            "answer": "anat",
-            "normalized": "anat"
+            "id": "fbee2390-cd63-4774-8864-9397fc9db21a",
+            "clue": "Slang term for a native of Australia",
+            "answer": "aussie",
+            "normalized": "aussie"
           },
           {
-            "id": "da00e872-21f4-41ab-850a-34ffc6b793b3",
-            "clue": "Wryly, sarcastically, in a deadpan way",
-            "answer": "dryly",
-            "normalized": "dryly"
+            "id": "57441991-4a66-4ba2-be39-57c6eb6533cc",
+            "clue": "Ditzy, absentminded, forgetful",
+            "answer": "scatty",
+            "normalized": "scatty"
           },
           {
-            "id": "aedd63ca-968d-4c7c-85ae-e1280c3fc975",
-            "clue": "Work of literature converted to read on a device",
-            "answer": "ebook",
-            "normalized": "ebook"
+            "id": "04efaa02-a523-452a-8d00-b64716fa9211",
+            "clue": "Ropes of interlaced hair, braids",
+            "answer": "plaits",
+            "normalized": "plaits"
           },
           {
-            "id": "60a32734-2435-4dbf-84b3-d7fb95a4e056",
-            "clue": "Bridget Jones actress Zellweger",
-            "answer": "renee",
-            "normalized": "renee"
+            "id": "eecc3b99-07bf-4cd2-b000-a0c7045094f4",
+            "clue": "Spied, as in “I spy with my little eye…”",
+            "answer": "saw",
+            "normalized": "saw"
           },
           {
-            "id": "67f610ea-a2cd-4fa6-a4f4-bb0f8501a584",
-            "clue": "Shade of fire vehicles and stop signs",
-            "answer": "red",
-            "normalized": "red"
+            "id": "9f8f0d53-86fa-45aa-8fe7-877b9394b9dd",
+            "clue": "Text slang for big smile and a wink",
+            "answer": "bsaaw",
+            "normalized": "bsaaw"
           },
           {
-            "id": "fcfb9552-ff9a-4e1d-89ca-a43ac2c532ca",
-            "clue": "Profession of opera's most famous Sevillian",
-            "answer": "barber",
-            "normalized": "barber"
+            "id": "5143dcda-ea6a-4e40-b596-837e3390397c",
+            "clue": "Sparkling Italian wine from the Piedmont region",
+            "answer": "asti",
+            "normalized": "asti"
           },
           {
-            "id": "9af31dfb-6220-4856-9905-1db4974531c2",
-            "clue": "Anybody, any person out there, no one particular",
-            "answer": "anyone",
-            "normalized": "anyone"
+            "id": "e54817b2-621b-494e-8f27-0c1a7c9110d7",
+            "clue": "Played by Rick Hoffman in Suits, Lewis",
+            "answer": "litt",
+            "normalized": "litt"
           },
           {
-            "id": "45236d02-b141-40db-80ca-529954a30ada",
-            "clue": "Surrounded by a ring of light above head",
-            "answer": "haloed",
-            "normalized": "haloed"
+            "id": "131eda43-8118-4ec4-b0aa-2472348a338e",
+            "clue": "Lock openers",
+            "answer": "keys",
+            "normalized": "keys"
           },
           {
-            "id": "3d834282-ac60-44d7-aba4-270158b0267f",
-            "clue": "Small child",
-            "answer": "tyke",
-            "normalized": "tyke"
+            "id": "665e8b01-75f8-4453-b934-4d214c16e399",
+            "clue": "Venomous snakes, from the Greek word for \"cobra\"",
+            "answer": "asps",
+            "normalized": "asps"
           },
           {
-            "id": "230725e0-5050-4205-b7dc-80d3dc3f71a9",
-            "clue": "German masculine article meaning \"the\"",
-            "answer": "der",
-            "normalized": "der"
+            "id": "f09ede92-a433-4166-88dc-b88d6ad286f4",
+            "clue": "University of California, Los Angeles, for short",
+            "answer": "ucla",
+            "normalized": "ucla"
           }
         ],
-        "track": "PC|LenC--Y2026M9D16F0"
+        "track": "PC|LenC--Y2026M9D17F0"
       },
       "mid": {
-        "puzzleId": "0af4a893-a2f8-4d67-b832-0030cde93a06",
+        "puzzleId": "7c1b3aa2-cb82-461c-8d77-bbc3fbf5ef89",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 4,
+        "version": 3,
         "answers": [
           {
-            "id": "f38c9872-07ef-4c95-8945-9ba82aae4a71",
-            "clue": "Smartphone programs for texts, playing games etc.",
-            "answer": "apps",
-            "normalized": "apps"
+            "id": "012dbe1d-1fc9-43cc-9a46-d06052012715",
+            "clue": "Short for change",
+            "answer": "chg",
+            "normalized": "chg"
           },
           {
-            "id": "2422895a-cdba-4b1a-be2d-1c176669a611",
-            "clue": "Italian ballet dancer Carlotta, famous as Giselle",
-            "answer": "grisi",
-            "normalized": "grisi"
+            "id": "14dfa941-9367-41d3-88ea-02af5f7ddd55",
+            "clue": "Fee Fi Fo and this",
+            "answer": "fum",
+            "normalized": "fum"
           },
           {
-            "id": "efee4fed-3507-49af-94cf-e9e56b6d3863",
-            "clue": "Home of Cancun and Puerto Vallarta",
-            "answer": "mexico",
-            "normalized": "mexico"
+            "id": "70f549a7-a56d-4f63-a389-1447de3f8380",
+            "clue": "MGM's lion mascot",
+            "answer": "leo",
+            "normalized": "leo"
           },
           {
-            "id": "76009b1f-887e-48de-91af-e73e0bf8dd9d",
-            "clue": "Sheep sound",
-            "answer": "baa",
-            "normalized": "baa"
+            "id": "eb662ea1-a02d-4b14-80eb-32e4818cc356",
+            "clue": "Music player introduced to replace Apple's Mini",
+            "answer": "ipod nano",
+            "normalized": "ipodnano"
           },
           {
-            "id": "ac76c006-0b27-4509-85a9-9a0552e649cf",
-            "clue": "Initialism for a corporation for local development",
-            "answer": "ldc",
-            "normalized": "ldc"
+            "id": "5a3b845e-a468-4581-86c8-2e0920db18a4",
+            "clue": "Scooping out mud from a river",
+            "answer": "dredging",
+            "normalized": "dredging"
           },
           {
-            "id": "ea99d471-5507-48a3-b8a2-5a7ded6c3c24",
-            "clue": "Attacked with surprise",
-            "answer": "raided",
-            "normalized": "raided"
+            "id": "d22135b6-597b-44f4-a976-9d17bb199816",
+            "clue": "Research degree, such as PhD",
+            "answer": "doctoral",
+            "normalized": "doctoral"
           },
           {
-            "id": "8f994cae-bbc7-42d7-aad7-58fa84bcebd9",
-            "clue": "Type of acids that combine to form proteins",
-            "answer": "amino",
-            "normalized": "amino"
+            "id": "af5c92d6-3947-4c6d-9dcb-75b9d2467d06",
+            "clue": "Lithium aluminium hydride",
+            "answer": "lah",
+            "normalized": "lah"
           },
           {
-            "id": "e773e2bb-9532-43bb-85ce-16bea8698d7c",
-            "clue": "Singer Lewis whose band is The News",
-            "answer": "huey",
-            "normalized": "huey"
+            "id": "c3eb9218-573b-41fe-ad72-bb965e2a0cb4",
+            "clue": "Direction halfway between east and southeast",
+            "answer": "ese",
+            "normalized": "ese"
           },
           {
-            "id": "54576ff0-11b1-4b4a-862c-49e93f14259b",
-            "clue": "Square the length of a square's side to find it",
-            "answer": "area",
-            "normalized": "area"
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
           },
           {
-            "id": "dc8ca0da-433f-431a-a426-d497e44522e7",
-            "clue": "An animation studio owned by Disney",
-            "answer": "pixar",
-            "normalized": "pixar"
+            "id": "5d23a147-c5f2-4d13-ab8d-8069b1d49bb6",
+            "clue": "Marie __, monthly health and beauty magazine",
+            "answer": "claire",
+            "normalized": "claire"
           },
           {
-            "id": "5ff174aa-f9e6-47ef-bcbe-e6bc4cc4e26b",
-            "clue": "Greek letter that looks like a trident",
-            "answer": "psi",
-            "normalized": "psi"
+            "id": "72491696-c4b3-4b3a-91bf-20f5ef8a50a0",
+            "clue": "Red-brown plant dyes",
+            "answer": "hennas",
+            "normalized": "hennas"
           },
           {
-            "id": "769fc39f-5a82-4f11-8a2f-6a9eb77a9f03",
-            "clue": "Latin three letters to mark an error in writing",
-            "answer": "sic",
-            "normalized": "sic"
+            "id": "ce32e561-b914-4422-9ed6-425c2cb17f66",
+            "clue": "Online searching tool",
+            "answer": "google",
+            "normalized": "google"
           },
           {
-            "id": "d9c00e8c-2dfc-42e5-aa31-e9ce8c98b602",
-            "clue": "Three-letter alpha code for Gambia",
-            "answer": "gmb",
-            "normalized": "gmb"
+            "id": "ce0399d9-5203-47f1-99e4-9560a15036e8",
+            "clue": "Hey diddle diddle, the cat and this instrument",
+            "answer": "fiddle",
+            "normalized": "fiddle"
           },
           {
-            "id": "be2548b2-163d-4de0-ab7a-73f57ceeb8fd",
-            "clue": "__ but a goodie",
-            "answer": "oldie",
-            "normalized": "oldie"
+            "id": "0b0cd08d-c1a3-41f7-b2b2-6288e3ee5c93",
+            "clue": "Noisy disturbance but not by a lion",
+            "answer": "uproar",
+            "normalized": "uproar"
           },
           {
-            "id": "093c246b-06ff-4cd0-bcc7-5aace92d24f2",
-            "clue": "Refuse someone permission or entry",
-            "answer": "deny",
-            "normalized": "deny"
+            "id": "b8a606ff-be88-4762-883e-0c4ddafa43ef",
+            "clue": "Venetian delicacy of soft-shell crabs",
+            "answer": "moeche",
+            "normalized": "moeche"
           },
           {
-            "id": "0bb076fc-a5dd-4ee8-a81b-ace842255b1a",
-            "clue": "Chemical formula for cadmium oxide",
-            "answer": "cdo",
-            "normalized": "cdo"
+            "id": "c5840d87-ec28-4f50-84f5-30fe3effd618",
+            "clue": "Pest spray that's banned in many countries",
+            "answer": "ddt",
+            "normalized": "ddt"
           },
           {
-            "id": "906d3896-ffad-49e3-8586-805183997f92",
-            "clue": "Breathing out word when relaxing",
-            "answer": "aah",
-            "normalized": "aah"
-          },
-          {
-            "id": "87a3ad02-627e-421f-9799-213df3e98a42",
-            "clue": "Three letters texting someone that you miss them",
-            "answer": "imu",
-            "normalized": "imu"
+            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
+            "clue": "Non-profit charity independent of any government",
+            "answer": "ngo",
+            "normalized": "ngo"
           }
         ],
-        "track": "PC|LenC--Y2026M9D16F1"
+        "track": "PC|LenC--Y2026M9D17F1"
       }
     },
     "latestAvailableEntry": {
@@ -441152,21 +441140,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "+iEFOLOHqhXRsxFn7nproCKQww+zD6HdDRWj85okNvsxrjoXYjsv9oh7e0Mvfak+dfFqfWl3glXD44Z27ZNoG7qiic4xKp2oNIn9teF6+SmZZ7720pT8P8KeER9S5v0qPDwqWdi3LMD+HuWQMW5AIALdylLtYcEONKqFGbjH3HwsVlJvNo1ny5wUQwkGNFkmy/7YVlRHzlbEz+cQDUNfj3SUwpos1jvi+OW99FKflbvACximVQRzFtJwEvuu+xV+6nWdnkHPO5ZVRKeswCZqCIYR8408FiFG/GFb6pcPBn8="
+        "cIWHm2xj1OToSw1+YXohuqTWorSWaCyQ2wtBM818bGC4QFHqGodwlGiG6R2DWIejjDs7CUCI3qP00WAUYMHBVo4k6BxTyHIaUirtvv+xhC0Yu/vfgq8MXpHXrMhwX0hhl5gDtZr+oNNUtJC2E62Vng/rDlVouVbpUFjaX8AYyLVuSNStfhJ1c87m1taNUFOYZtrzJ0ld08qo1SsCGDG4Y/77C6iiBf0MCZz5i6fr3FJ4tGAq2Lr5s5i73gr0Hnd8qv5uT8MmN0LrIMJqVtKPr+qFWXd/UzVAGi3tSk0t2Is="
       ]
     },
     "decrypted": {
-      "Id": "4a43ce9e-6fc4-4112-a3a1-d4ccda56e525",
-      "Date": "2026-09-16T00:00:00Z",
+      "Id": "4054edbb-f0e3-4759-b926-41342d2d2e9d",
+      "Date": "2026-09-17T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "vague",
-      "NormalizedPassword": "vague",
+      "Password": "lyric",
+      "NormalizedPassword": "lyric",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-16T03:03:22.5770000+05:30",
-    "hash": "add8d1ed792bfe2ca6efed07c5b4ea4a",
+    "dtu": "2026-09-17T02:58:54.5940000+05:30",
+    "hash": "9f900849d87c9e2a4027d1ad8050645a",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
