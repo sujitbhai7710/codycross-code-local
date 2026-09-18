@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T21:33:06.634Z",
+  "generatedAt": "2026-09-18T21:03:41.492Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 18
+    "day": 19
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 32
+        "QuantidadeDeFases": 34
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -147903,7 +147903,7 @@
             },
             {
               "id": "bea84728-4490-4afc-aa49-a75c5afbe95b",
-              "clue": "__ Rhimes, creator of How to Get Away with Murder",
+              "clue": "__ Rhimes, creator of Grey's Anatomy",
               "answer": "shonda",
               "normalized": "shonda"
             },
@@ -257133,7 +257133,7 @@
             },
             {
               "id": "8cd722cb-699e-4079-8e8b-87c9f512f2bf",
-              "clue": "Greek goddess of the moon",
+              "clue": "Titan goddess of the moon in Greek mythology",
               "answer": "selene",
               "normalized": "selene"
             },
@@ -438997,7 +438997,76 @@
         "year": 2021,
         "month": 3,
         "day": 7,
-        "small": null,
+        "small": {
+          "puzzleId": "e6860730-9f72-43d4-a562-d2a0b652ad99",
+          "fase": 1,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "1ab8fb53-889b-44ea-9bbb-065119712c1d",
+              "clue": "First name of film director Besson",
+              "answer": "luc",
+              "normalized": "luc"
+            },
+            {
+              "id": "acb9e3bd-9ded-4461-85a7-cff5e4c70f86",
+              "clue": "Takes a seat",
+              "answer": "sits",
+              "normalized": "sits"
+            },
+            {
+              "id": "74c5cd31-33ea-4d60-ac5d-6da6cbbd58d4",
+              "clue": "Mount on which Moses received the Ten Commandments",
+              "answer": "sinai",
+              "normalized": "sinai"
+            },
+            {
+              "id": "a5eaa994-8575-4b45-b273-b519f8a64d46",
+              "clue": "Ancient Egyptian symbol of life",
+              "answer": "ankh",
+              "normalized": "ankh"
+            },
+            {
+              "id": "7c44026d-d932-4b4e-8538-c07c62fa7154",
+              "clue": "No's positive partner",
+              "answer": "yes",
+              "normalized": "yes"
+            },
+            {
+              "id": "d4da744a-3e03-4cf7-8c5f-3215f80406b6",
+              "clue": "Directs to another webpage",
+              "answer": "links",
+              "normalized": "links"
+            },
+            {
+              "id": "6a3c7047-eff6-4e2e-92da-4e02ab0daa32",
+              "clue": "State known for Salt Lake City and lots of snow",
+              "answer": "utah",
+              "normalized": "utah"
+            },
+            {
+              "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
+              "clue": "Forensic show set in Vegas, then Miami",
+              "answer": "csi",
+              "normalized": "csi"
+            },
+            {
+              "id": "312d4c59-5416-4024-ab92-122f803e46bb",
+              "clue": "Opposite over hypotenuse, in a right triangle",
+              "answer": "sine",
+              "normalized": "sine"
+            },
+            {
+              "id": "406764ea-eb11-4640-a0c0-9af03a8c8f19",
+              "clue": "To utter words, to speak",
+              "answer": "say",
+              "normalized": "say"
+            }
+          ],
+          "track": "PC|LenC--Y2021M3D7F1"
+        },
         "mid": {
           "puzzleId": "a9aafe72-7818-4d79-a216-2cf297ccaf14",
           "fase": 2,
@@ -439122,7 +439191,76 @@
         "year": 2021,
         "month": 3,
         "day": 6,
-        "small": null,
+        "small": {
+          "puzzleId": "d319e10f-d43b-435a-b06b-f7c204f099de",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "28bdd26c-c188-4ca0-a2aa-b9248c95808c",
+              "clue": "Too, as well",
+              "answer": "also",
+              "normalized": "also"
+            },
+            {
+              "id": "40b162b7-e6bd-4878-a961-7f29eb223159",
+              "clue": "Cuban dance",
+              "answer": "rumba",
+              "normalized": "rumba"
+            },
+            {
+              "id": "023b44f4-86ab-4613-9534-9cd1a04ec9ff",
+              "clue": "This type of mill is used for exercise",
+              "answer": "tread",
+              "normalized": "tread"
+            },
+            {
+              "id": "2b3c17da-beb7-4081-b130-53159199311f",
+              "clue": "Sister of Marge and Patty in The Simpsons",
+              "answer": "selma",
+              "normalized": "selma"
+            },
+            {
+              "id": "e1893c7e-f756-44fd-9ca7-e0b87311c897",
+              "clue": "Close a door very loudly",
+              "answer": "slam",
+              "normalized": "slam"
+            },
+            {
+              "id": "84d0a8e1-01cb-4fc9-8b83-790db33b4209",
+              "clue": "Creative pursuits that go with crafts",
+              "answer": "arts",
+              "normalized": "arts"
+            },
+            {
+              "id": "bdd4fc2a-3339-4750-9eaa-e5ba03f9844e",
+              "clue": "Entices with bait",
+              "answer": "lures",
+              "normalized": "lures"
+            },
+            {
+              "id": "a127a0b8-5543-46cc-a049-8831c022ab93",
+              "clue": "Popular saying, \"Wake up and __ the coffee\"",
+              "answer": "smell",
+              "normalized": "smell"
+            },
+            {
+              "id": "74cc6ff7-a51c-4748-a7a9-70a64bf1a12b",
+              "clue": "44th US president",
+              "answer": "obama",
+              "normalized": "obama"
+            },
+            {
+              "id": "7b04b387-2598-44ac-9cc4-14f00e78eb2a",
+              "clue": "First man mentioned in the Bible",
+              "answer": "adam",
+              "normalized": "adam"
+            }
+          ],
+          "track": "PC|LenC--Y2021M3D6F0"
+        },
         "mid": {
           "puzzleId": "cede19f2-5b99-4c41-836c-dc1933f1e2bf",
           "fase": 2,
@@ -439301,7 +439439,76 @@
         "year": 2021,
         "month": 3,
         "day": 5,
-        "small": null,
+        "small": {
+          "puzzleId": "d9453bdc-3b10-4c4f-be7e-715e8bc567ce",
+          "fase": 1,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "1f16e8ae-244d-42f0-b662-0bd2a8d316e4",
+              "clue": "A baby lion",
+              "answer": "cub",
+              "normalized": "cub"
+            },
+            {
+              "id": "dd0a65df-3d4a-448f-8441-03f4144bbaf4",
+              "clue": "Lincoln quote, \"Good things come to __ who wait\"",
+              "answer": "those",
+              "normalized": "those"
+            },
+            {
+              "id": "149808ca-6bf4-4d0c-a7ec-0d404e7cf753",
+              "clue": "Tiny fox-like Pokemon that has eight evolutions",
+              "answer": "eevee",
+              "normalized": "eevee"
+            },
+            {
+              "id": "ac0cdab7-5be6-4bc7-9607-f21ef27fe184",
+              "clue": "Garment that brides say yes to",
+              "answer": "dress",
+              "normalized": "dress"
+            },
+            {
+              "id": "fceb8dcb-ef69-45b4-9949-7223b2308f76",
+              "clue": "Fermented sauce served with sushi",
+              "answer": "soy",
+              "normalized": "soy"
+            },
+            {
+              "id": "326e20d0-aa04-4d05-8929-e3a11b673642",
+              "clue": "Small flock of birds, like partridges",
+              "answer": "covey",
+              "normalized": "covey"
+            },
+            {
+              "id": "1723850a-a53f-48ce-aecb-f33e1388c12f",
+              "clue": "Applications, operations",
+              "answer": "uses",
+              "normalized": "uses"
+            },
+            {
+              "id": "3782707c-a446-4199-bc4a-82287faa9bc8",
+              "clue": "Flying insects often thought to be busy",
+              "answer": "bees",
+              "normalized": "bees"
+            },
+            {
+              "id": "c83ba2aa-4969-4260-999c-9c29d91d0ae2",
+              "clue": "Danson, Turner and Williams",
+              "answer": "teds",
+              "normalized": "teds"
+            },
+            {
+              "id": "6969d315-56af-4e98-a631-b657829f5b80",
+              "clue": "Sandwich for a good guy",
+              "answer": "hero",
+              "normalized": "hero"
+            }
+          ],
+          "track": "PC|LenC--Y2021M3D5F1"
+        },
         "mid": {
           "puzzleId": "7d4e981c-2096-4849-b7b1-b4ece2d58439",
           "fase": 2,
@@ -439426,7 +439633,118 @@
         "year": 2021,
         "month": 3,
         "day": 4,
-        "small": null,
+        "small": {
+          "puzzleId": "b1c9638e-8e96-473f-b731-23414c9188e3",
+          "fase": 0,
+          "size": 2,
+          "status": 1,
+          "version": 1,
+          "answers": [
+            {
+              "id": "a66b1d54-feea-44d4-928a-0b856cb793f7",
+              "clue": "Fast food chain founded by Colonel Sanders",
+              "answer": "kfc",
+              "normalized": "kfc"
+            },
+            {
+              "id": "ba17f710-066c-4b7a-b0e7-327f24eae5ae",
+              "clue": "Apply paint in small movements with a brush",
+              "answer": "dab",
+              "normalized": "dab"
+            },
+            {
+              "id": "4b4681fe-27ed-4c31-9c67-85dd4317346b",
+              "clue": "Parramatta NRL player",
+              "answer": "eel",
+              "normalized": "eel"
+            },
+            {
+              "id": "865477b6-78ba-4054-bd8a-e69987937f46",
+              "clue": "Yellow Shih Tzu in Animal Crossing franchise",
+              "answer": "isabelle",
+              "normalized": "isabelle"
+            },
+            {
+              "id": "8b72dc6a-63e9-4788-825a-13fd943f7ad8",
+              "clue": "Edgar __, author of The Tell-Tale Heart",
+              "answer": "allan poe",
+              "normalized": "allanpoe"
+            },
+            {
+              "id": "0f52d14e-d466-4e97-b04c-04119b06963b",
+              "clue": "There were 12 in Charlemagne's court",
+              "answer": "paladins",
+              "normalized": "paladins"
+            },
+            {
+              "id": "1dddedc3-e880-492f-aff3-3b0a652d5fef",
+              "clue": "The first name of __ Peron, Mendes, Green",
+              "answer": "eva",
+              "normalized": "eva"
+            },
+            {
+              "id": "dac08a92-bcbf-4851-aa6b-8bfac5a2a42f",
+              "clue": "Three letters to describe the opening in a needle",
+              "answer": "eye",
+              "normalized": "eye"
+            },
+            {
+              "id": "a96cc3b0-56b9-408b-b608-a6fa7a571219",
+              "clue": "The most used shade in the world's national flags",
+              "answer": "red",
+              "normalized": "red"
+            },
+            {
+              "id": "f218344f-af68-4726-912a-a6ed635bc699",
+              "clue": "Shape-shifting water spirit of Scottish legend",
+              "answer": "kelpie",
+              "normalized": "kelpie"
+            },
+            {
+              "id": "7976081f-617b-4b47-8985-ee6af20b2d6d",
+              "clue": "General legal term for a serious crime",
+              "answer": "felony",
+              "normalized": "felony"
+            },
+            {
+              "id": "fc1aa29e-3c06-47ff-9ed9-e5bed156f3c5",
+              "clue": "Monty Python member, John __",
+              "answer": "cleese",
+              "normalized": "cleese"
+            },
+            {
+              "id": "9c21a2ea-bc5e-4c5e-94af-bff3d11b30cf",
+              "clue": "American word for what Britons call a nappy",
+              "answer": "diaper",
+              "normalized": "diaper"
+            },
+            {
+              "id": "e183d2eb-8024-45ba-bb4b-4bb96d2d3e35",
+              "clue": "12 Years __, adaptation of Northup memoir",
+              "answer": "a slave",
+              "normalized": "aslave"
+            },
+            {
+              "id": "be38c4c1-b66b-4035-92b8-68695ec13e2e",
+              "clue": "Another name for a slow, poetic love song",
+              "answer": "ballad",
+              "normalized": "ballad"
+            },
+            {
+              "id": "7f8ad701-f254-4322-ac66-3485c0d340bd",
+              "clue": "Sound a sheep makes",
+              "answer": "baa",
+              "normalized": "baa"
+            },
+            {
+              "id": "db3373bd-1c86-49d4-8b78-ee303fe61206",
+              "clue": "Finale",
+              "answer": "end",
+              "normalized": "end"
+            }
+          ],
+          "track": "PC|LenC--Y2021M3D4F0"
+        },
         "mid": {
           "puzzleId": "b1c9638e-8e96-473f-b731-23414c9188e3",
           "fase": 0,
@@ -439545,7 +439863,76 @@
         "year": 2021,
         "month": 3,
         "day": 3,
-        "small": null,
+        "small": {
+          "puzzleId": "932b5445-cdae-4ef7-95fa-170d93a5c1a3",
+          "fase": 1,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "5631e95c-95db-4ec0-913b-433dec419f6c",
+              "clue": "A term for years-old wine and cheese",
+              "answer": "aged",
+              "normalized": "aged"
+            },
+            {
+              "id": "4f14deca-f399-4140-8f6d-3299c39b9c2b",
+              "clue": "Relating to a city",
+              "answer": "urban",
+              "normalized": "urban"
+            },
+            {
+              "id": "f5514b21-eee0-4463-bbd7-69debb28bfb6",
+              "clue": "Like an inexperienced person who's easily fooled",
+              "answer": "naive",
+              "normalized": "naive"
+            },
+            {
+              "id": "6c7ed1b6-d10e-4066-9488-3204b83bfe04",
+              "clue": "Polynesian wood or stone carvings of humans",
+              "answer": "tikis",
+              "normalized": "tikis"
+            },
+            {
+              "id": "ca3a3c73-d974-424f-935d-e65bd7350c61",
+              "clue": "Not as much as, a smaller amount",
+              "answer": "less",
+              "normalized": "less"
+            },
+            {
+              "id": "4446c932-ab4a-46f3-8ce8-5413c3d33f04",
+              "clue": "Uncle's wife",
+              "answer": "aunt",
+              "normalized": "aunt"
+            },
+            {
+              "id": "4a0f1cf5-b611-4dd7-afb6-d4446449a0d9",
+              "clue": "Cup that is sometimes holy",
+              "answer": "grail",
+              "normalized": "grail"
+            },
+            {
+              "id": "6981675b-0e10-4955-b485-adf7c7928458",
+              "clue": "A bicycle with motor-assisted pedal power",
+              "answer": "ebike",
+              "normalized": "ebike"
+            },
+            {
+              "id": "ad24b8a4-8d10-4e2a-89fb-58d9e3ed58b5",
+              "clue": "Actresses Viola and Geena, trumpeter Miles",
+              "answer": "davis",
+              "normalized": "davis"
+            },
+            {
+              "id": "2bb19113-26fa-4028-b0a1-f891b9137fed",
+              "clue": "Bat-toting boy hero of Nintendo's EarthBound",
+              "answer": "ness",
+              "normalized": "ness"
+            }
+          ],
+          "track": "PC|LenC--Y2021M3D3F1"
+        },
         "mid": {
           "puzzleId": "a1c88d06-e333-4983-a9c3-00250367cc61",
           "fase": 2,
@@ -439724,7 +440111,76 @@
         "year": 2021,
         "month": 3,
         "day": 2,
-        "small": null,
+        "small": {
+          "puzzleId": "e158d839-ef1d-40d9-a7f8-defeb566393d",
+          "fase": 1,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "e98b5f09-da52-46ab-8e6c-880dc01991c4",
+              "clue": "Hard rock band with name related to electricity",
+              "answer": "acdc",
+              "normalized": "acdc"
+            },
+            {
+              "id": "a77ca33c-55c0-4ba8-8a2d-c0b84476e70a",
+              "clue": "The Peanuts strips feature a kite-eating one",
+              "answer": "tree",
+              "normalized": "tree"
+            },
+            {
+              "id": "5528c091-d455-49e5-ac96-03b744735956",
+              "clue": "Timid and murine",
+              "answer": "mousy",
+              "normalized": "mousy"
+            },
+            {
+              "id": "d6577372-00a6-41ef-b3d6-a7fd58e8a222",
+              "clue": "Antioxidant-rich purple berry from South America",
+              "answer": "acai",
+              "normalized": "acai"
+            },
+            {
+              "id": "e818c8b4-218d-4736-991e-e084900b3ed8",
+              "clue": "Seagull relative often found in the Arctic",
+              "answer": "tern",
+              "normalized": "tern"
+            },
+            {
+              "id": "d995bd47-b0b6-453e-8b0b-33f22bb567d9",
+              "clue": "Cash-dispensing machine",
+              "answer": "atm",
+              "normalized": "atm"
+            },
+            {
+              "id": "44340180-3244-4e8c-b381-5a00d0a4c7fa",
+              "clue": "Person from Dubrovnik or Split",
+              "answer": "croat",
+              "normalized": "croat"
+            },
+            {
+              "id": "1e5be40d-c34c-449a-a062-f6a011ca98ad",
+              "clue": "The __, old name for NYC's 42nd Street",
+              "answer": "deuce",
+              "normalized": "deuce"
+            },
+            {
+              "id": "5f07c17b-b01d-48ac-8de0-c2b6e2d433bb",
+              "clue": "This Millan whispers to dogs",
+              "answer": "cesar",
+              "normalized": "cesar"
+            },
+            {
+              "id": "157bc52d-cb05-495c-8a75-aa8aa5fda699",
+              "clue": "With yang, black and white symbol of balance",
+              "answer": "yin",
+              "normalized": "yin"
+            }
+          ],
+          "track": "PC|LenC--Y2021M3D2F1"
+        },
         "mid": {
           "puzzleId": "8c08279a-e6c1-4fba-a638-97677e4eef5f",
           "fase": 2,
@@ -439849,7 +440305,76 @@
         "year": 2021,
         "month": 3,
         "day": 1,
-        "small": null,
+        "small": {
+          "puzzleId": "8220fb24-144d-4ae5-a947-515301cb4a01",
+          "fase": 1,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "b0f3fa83-455b-47bc-adda-7197c7bfa732",
+              "clue": "Freight or cargo carried by a ship",
+              "answer": "load",
+              "normalized": "load"
+            },
+            {
+              "id": "c1fbff7d-a5b1-43f4-9891-c2c84e1adb9e",
+              "clue": "Rounded knob or protuberance",
+              "answer": "umbo",
+              "normalized": "umbo"
+            },
+            {
+              "id": "19af8979-4afe-4c00-bda6-4518c93a34c6",
+              "clue": "Surrendered",
+              "answer": "ceded",
+              "normalized": "ceded"
+            },
+            {
+              "id": "272c0109-a751-4731-a681-2da93840af00",
+              "clue": "Masterful teacher in Indian tradition",
+              "answer": "guru",
+              "normalized": "guru"
+            },
+            {
+              "id": "28bdd26c-c188-4ca0-a2aa-b9248c95808c",
+              "clue": "Too, as well",
+              "answer": "also",
+              "normalized": "also"
+            },
+            {
+              "id": "1ab8fb53-889b-44ea-9bbb-065119712c1d",
+              "clue": "First name of film director Besson",
+              "answer": "luc",
+              "normalized": "luc"
+            },
+            {
+              "id": "06a4c963-7a88-43fc-89da-4d1a35693327",
+              "clue": "__-3 fatty acid found in fish oils",
+              "answer": "omega",
+              "normalized": "omega"
+            },
+            {
+              "id": "6a1af5f7-e720-454c-ad49-4e5ae42060d7",
+              "clue": "Paula the American Idol judge",
+              "answer": "abdul",
+              "normalized": "abdul"
+            },
+            {
+              "id": "e4969d8c-e877-407e-9590-a9ba07aea85b",
+              "clue": "There are two types of people, talkers, and these",
+              "answer": "doers",
+              "normalized": "doers"
+            },
+            {
+              "id": "ad1e57f7-1ecd-49b9-9757-8994138eb7c5",
+              "clue": "A prefix that means two",
+              "answer": "duo",
+              "normalized": "duo"
+            }
+          ],
+          "track": "PC|LenC--Y2021M3D1F1"
+        },
         "mid": {
           "puzzleId": "dd9123ab-2e25-4628-916b-bc26eabd09f8",
           "fase": 2,
@@ -440025,499 +440550,475 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-18",
+      "key": "2026-09-19",
       "year": 2026,
       "month": 9,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "0e5cf25c-f653-49f6-a462-9139b2e33c6f",
+        "puzzleId": "e8bc133f-8ba4-4c5d-862f-46aec0fdb134",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
+            "clue": "Short for enclosed",
+            "answer": "enc",
+            "normalized": "enc"
+          },
+          {
+            "id": "1e4acb41-4fc4-41ac-bdee-6a0ebad1386e",
+            "clue": "To liberally coat with a thick substance",
+            "answer": "daub",
+            "normalized": "daub"
+          },
+          {
+            "id": "14090395-ea4e-4b09-8b8b-a83e59a7b5a3",
+            "clue": "Fruit often associated with Adam and Eve",
+            "answer": "apple",
+            "normalized": "apple"
+          },
+          {
+            "id": "ca24f16e-a7d2-4d90-b265-fe0256804d5a",
+            "clue": "Puzo, who penned The Godfather",
+            "answer": "mario",
+            "normalized": "mario"
+          },
+          {
+            "id": "184538b2-a171-450e-b929-966701ad68ef",
+            "clue": "Falls on ice",
+            "answer": "slips",
+            "normalized": "slips"
+          },
+          {
+            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
+            "clue": "Masters of ceremonies, in short",
+            "answer": "mcs",
+            "normalized": "mcs"
+          },
+          {
+            "id": "9e210456-8c09-4b10-b6e9-23856c0b0a69",
+            "clue": "Dutch cheeses with red wax rinds",
+            "answer": "edams",
+            "normalized": "edams"
+          },
+          {
+            "id": "58bcd809-229c-433b-bc04-d7fee7ac7c5e",
+            "clue": "Incendiary gel made from gasoline for bombs",
+            "answer": "napalm",
+            "normalized": "napalm"
+          },
+          {
+            "id": "b6951c9c-f18d-45ce-b4df-e8c8f9e81790",
+            "clue": "Relating to a type of copper",
+            "answer": "cupric",
+            "normalized": "cupric"
+          },
+          {
+            "id": "b32e1773-f82e-4d40-8a99-26f39825c061",
+            "clue": "Small issues along the way",
+            "answer": "blips",
+            "normalized": "blips"
+          },
+          {
+            "id": "6c74d3e3-ca12-483c-b3ef-5f3d9cb9ddcc",
+            "clue": "Goddess of the dawn in Greek mythology",
+            "answer": "eos",
+            "normalized": "eos"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D19F0"
+      },
+      "mid": {
+        "puzzleId": "f4a28ddd-4a3e-454c-8003-fa91a7d28614",
+        "fase": 2,
+        "size": 2,
         "status": 1,
         "version": 6,
         "answers": [
           {
-            "id": "d6a7cdcb-7028-42c1-b3b2-fdd7e5093336",
-            "clue": "Nicholas I and Ivan the Terrible's title",
-            "answer": "tsar",
-            "normalized": "tsar"
+            "id": "57447df1-df9d-46b4-a90a-1686e4dce2ae",
+            "clue": "Units of electric current, abbreviated",
+            "answer": "amps",
+            "normalized": "amps"
           },
           {
-            "id": "f95a4285-eff7-48cd-84a7-f1458d8b1deb",
-            "clue": "Balanced, evenly distributed",
-            "answer": "equal",
-            "normalized": "equal"
+            "id": "95e6ce36-4223-4b3b-a067-688e488203c8",
+            "clue": "US fashion organisation known for its awards",
+            "answer": "cfda",
+            "normalized": "cfda"
           },
           {
-            "id": "498f46cd-0a06-4509-8251-87df4356eed8",
-            "clue": "A gentle reminder; a playful touch",
-            "answer": "nudge",
-            "normalized": "nudge"
+            "id": "9ee027b9-22ec-456e-91bc-b0faebd1b623",
+            "clue": "Skinny",
+            "answer": "thin",
+            "normalized": "thin"
           },
           {
-            "id": "0c393d97-82f5-4ac2-acb3-ac9505b8ec02",
-            "clue": "Periods of anger",
-            "answer": "ires",
-            "normalized": "ires"
+            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
+            "clue": "Relating to the mouth, anatomically",
+            "answer": "oral",
+            "normalized": "oral"
           },
           {
-            "id": "d0330c58-8fab-45c8-8221-144614d60023",
-            "clue": "Fathers",
-            "answer": "dads",
-            "normalized": "dads"
+            "id": "9f4bb563-6ff6-4eb8-8e8b-ae21b0917519",
+            "clue": "Filled, \"windblown\" bite-size pastry",
+            "answer": "vol au vent",
+            "normalized": "volauvent"
           },
           {
-            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
-            "clue": "The number of toes most people have",
-            "answer": "ten",
-            "normalized": "ten"
+            "id": "a8ea6c33-3d43-430f-9303-f262736c3125",
+            "clue": "Boxes in a friendly scrimmage match",
+            "answer": "spars",
+            "normalized": "spars"
           },
           {
-            "id": "20a99f7a-ea32-46ee-9926-749579322038",
-            "clue": "Sea creature that shoots ink to defend itself",
-            "answer": "squid",
-            "normalized": "squid"
+            "id": "67210c84-9d0e-4c53-8c99-33d59a6d722e",
+            "clue": "Marks made by sharp needles",
+            "answer": "pinpricks",
+            "normalized": "pinpricks"
           },
           {
-            "id": "754a2283-cfd7-408a-b039-750e19643686",
-            "clue": "Girl's name meaning noble strength",
-            "answer": "audra",
-            "normalized": "audra"
+            "id": "4c746d6c-f3f0-457e-ac89-85634d614a74",
+            "clue": "Profoundly wicked stunt performer, __ Knievel",
+            "answer": "evel",
+            "normalized": "evel"
           },
           {
-            "id": "be5e4bdf-8636-44ec-9c90-c2bd62e32bc7",
-            "clue": "Seethed, ranted",
-            "answer": "raged",
-            "normalized": "raged"
+            "id": "ca45433d-84cf-4ee7-8980-2d7b9e064408",
+            "clue": "White, low-heeled boot popular in the 1960s",
+            "answer": "gogo",
+            "normalized": "gogo"
           },
           {
-            "id": "d3037cb5-dce6-4d4c-8275-eafbba8d167e",
-            "clue": "A smaller amount of something",
-            "answer": "less",
-            "normalized": "less"
+            "id": "022242f2-7d74-40c3-91be-db24958a4f7f",
+            "clue": "Surname of Charlotte Brontë's book Jane",
+            "answer": "eyre",
+            "normalized": "eyre"
+          },
+          {
+            "id": "902fe458-3ec0-4220-ab2c-d90d0b2c9e2d",
+            "clue": "Unique identifying number for a published book",
+            "answer": "isbn",
+            "normalized": "isbn"
+          },
+          {
+            "id": "2ff8daaa-e1f8-421d-b66f-589d3db3fb1a",
+            "clue": "All-terrain vehicle",
+            "answer": "atv",
+            "normalized": "atv"
+          },
+          {
+            "id": "029e47a9-70ac-4648-b6f4-4d6f46ecba5d",
+            "clue": "The siemens, or reciprocal of one ohm",
+            "answer": "mho",
+            "normalized": "mho"
+          },
+          {
+            "id": "66cdb932-7f21-4f15-a01b-786b0c097796",
+            "clue": "Type of lager named after a city in Bohemia",
+            "answer": "pilsner",
+            "normalized": "pilsner"
+          },
+          {
+            "id": "e80f8f69-a34a-4252-ba27-ab17497fd200",
+            "clue": "Tea, juice drink with facts on inside of cap",
+            "answer": "snapple",
+            "normalized": "snapple"
+          },
+          {
+            "id": "c0aae012-741c-4e08-ab73-5f3c6bbbaa54",
+            "clue": "Romanian pretzels",
+            "answer": "covrigi",
+            "normalized": "covrigi"
+          },
+          {
+            "id": "d3bde223-a995-436a-afdb-9c9b614912c4",
+            "clue": "Paintings on plaster",
+            "answer": "frescos",
+            "normalized": "frescos"
+          },
+          {
+            "id": "977b11a6-4f47-488f-95d2-c04af0303da6",
+            "clue": "Second word of Steely band, Deacon Blues singers",
+            "answer": "dan",
+            "normalized": "dan"
+          },
+          {
+            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
+            "clue": "Key typed with Ctrl and Del",
+            "answer": "alt",
+            "normalized": "alt"
+          },
+          {
+            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
+            "clue": "Abbreviation for User Access Review",
+            "answer": "uar",
+            "normalized": "uar"
+          },
+          {
+            "id": "bd2cb7b6-e3ce-417f-97d2-78caec8f02e7",
+            "clue": "The letter P, written as a word",
+            "answer": "pee",
+            "normalized": "pee"
+          },
+          {
+            "id": "35563857-8fdc-4357-9ae6-bdb3ab91f5fb",
+            "clue": "Plant that grows up walls",
+            "answer": "ivy",
+            "normalized": "ivy"
+          },
+          {
+            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
+            "clue": "Former Soviet spy agency",
+            "answer": "kgb",
+            "normalized": "kgb"
+          },
+          {
+            "id": "18a1ceb6-58c6-4729-a878-a2daf5471cf7",
+            "clue": "Male child",
+            "answer": "son",
+            "normalized": "son"
           }
         ],
-        "track": "PC|LenC--Y2026M9D18F0"
-      },
-      "mid": {
-        "puzzleId": "3070c52d-a5aa-4ccd-8179-56f9e509aa23",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "a98e7009-b729-4a28-a0fa-086c2673a1c0",
-            "clue": "Whispered noise for \"over here!\"",
-            "answer": "psst",
-            "normalized": "psst"
-          },
-          {
-            "id": "aa82387f-75a1-485f-a894-0efae4dc0c1f",
-            "clue": "Grains used by Quaker",
-            "answer": "oats",
-            "normalized": "oats"
-          },
-          {
-            "id": "6ca271f1-36ef-4b39-af77-2ec5b96c864e",
-            "clue": "Public officials frequently swear one",
-            "answer": "oath",
-            "normalized": "oath"
-          },
-          {
-            "id": "5081422b-dd2b-4a8e-888d-e779bb5a5a0f",
-            "clue": "Old Italian currency",
-            "answer": "lira",
-            "normalized": "lira"
-          },
-          {
-            "id": "cd1a2e1a-aaa6-436c-8a07-e7acdae1742d",
-            "clue": "Thwarted from playing a shot in a game like pool",
-            "answer": "snookered",
-            "normalized": "snookered"
-          },
-          {
-            "id": "334230cb-8ef5-487f-9694-1bf4962314cd",
-            "clue": "And so on",
-            "answer": "etc",
-            "normalized": "etc"
-          },
-          {
-            "id": "1ffb864f-e573-40d4-9417-a5822cf7d61f",
-            "clue": "Amazes, excites",
-            "answer": "wows",
-            "normalized": "wows"
-          },
-          {
-            "id": "2d3cb4f1-14f7-461e-9074-59de0605f76f",
-            "clue": "Global retailer known for its furniture",
-            "answer": "ikea",
-            "normalized": "ikea"
-          },
-          {
-            "id": "da79c1bc-b655-431d-8078-8624545a3994",
-            "clue": "Short term for \"operations\" used in the military",
-            "answer": "ops",
-            "normalized": "ops"
-          },
-          {
-            "id": "f0281519-06ab-4768-a501-84cb27be8801",
-            "clue": "Kind of font in a church used for babies",
-            "answer": "baptismal",
-            "normalized": "baptismal"
-          },
-          {
-            "id": "afbd4fa7-df83-419a-bcc5-73c8e5c62072",
-            "clue": "Sheena Easton duet with Prince, __ the Look",
-            "answer": "u got",
-            "normalized": "ugot"
-          },
-          {
-            "id": "cbcf9768-639e-4e1d-ae8a-591e5666f1ef",
-            "clue": "Spanish house",
-            "answer": "casa",
-            "normalized": "casa"
-          },
-          {
-            "id": "3300865f-1afb-455b-bc21-c8f59df8e661",
-            "clue": "UK term for list showing whose turn it is to work",
-            "answer": "rota",
-            "normalized": "rota"
-          },
-          {
-            "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
-            "clue": "Common abbreviation for institute",
-            "answer": "inst",
-            "normalized": "inst"
-          },
-          {
-            "id": "e1a0cb71-c9ba-4f48-8408-3a0b5b1c9cf6",
-            "clue": "Strike one for a photo",
-            "answer": "pose",
-            "normalized": "pose"
-          },
-          {
-            "id": "ca96fd55-8b9b-473a-8416-340e4228c925",
-            "clue": "Spanish name; St James",
-            "answer": "santiago",
-            "normalized": "santiago"
-          },
-          {
-            "id": "9d58943b-9a3b-4a47-947f-1debfbfce77d",
-            "clue": "Large cooking container to make soups or stews",
-            "answer": "stockpot",
-            "normalized": "stockpot"
-          },
-          {
-            "id": "cabcc0e9-39ae-4113-8886-27a2668b8ffc",
-            "clue": "Short form of \"though\", used in texting",
-            "answer": "tho",
-            "normalized": "tho"
-          },
-          {
-            "id": "3de51ed2-1829-4c22-aba3-31f09b77a869",
-            "clue": "Another, slightly dated, term for margarine",
-            "answer": "oleo",
-            "normalized": "oleo"
-          },
-          {
-            "id": "4f484f11-322b-4d19-bce1-65d2d7601857",
-            "clue": "Female pilot",
-            "answer": "airwoman",
-            "normalized": "airwoman"
-          },
-          {
-            "id": "0061a170-ba58-4ef8-8d42-466a8d5f44df",
-            "clue": "To enter someone's property without permission",
-            "answer": "trespass",
-            "normalized": "trespass"
-          },
-          {
-            "id": "bcebe44e-5864-4961-a995-07443fd44ec3",
-            "clue": "Unhappy",
-            "answer": "sad",
-            "normalized": "sad"
-          },
-          {
-            "id": "1a963629-40c0-4649-84ee-415d6b249b91",
-            "clue": "The Bridge Over The River __, Pierre Boulle novel",
-            "answer": "kwai",
-            "normalized": "kwai"
-          },
-          {
-            "id": "0b8753f4-c028-4809-9d54-4eff6752d3bc",
-            "clue": "At last, __ James' \"love has come along\"",
-            "answer": "etta",
-            "normalized": "etta"
-          },
-          {
-            "id": "f88d2562-d266-47c5-99f5-ca0f520a5047",
-            "clue": "Strip of wood used to support a mattress",
-            "answer": "slat",
-            "normalized": "slat"
-          },
-          {
-            "id": "26dccf33-e648-4a87-a7f8-dcc422addb54",
-            "clue": "Prickly plant pod covered in hooks",
-            "answer": "bur",
-            "normalized": "bur"
-          },
-          {
-            "id": "778bef57-89a3-4695-9383-c668169ce87e",
-            "clue": "Abbreviation for \"spinal cord injury\"",
-            "answer": "sci",
-            "normalized": "sci"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D18F1"
+        "track": "PC|LenC--Y2026M9D19F2"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-18",
+      "key": "2026-09-19",
       "year": 2026,
       "month": 9,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "0e5cf25c-f653-49f6-a462-9139b2e33c6f",
+        "puzzleId": "e8bc133f-8ba4-4c5d-862f-46aec0fdb134",
         "fase": 0,
         "size": 1,
+        "status": 1,
+        "version": 3,
+        "answers": [
+          {
+            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
+            "clue": "Short for enclosed",
+            "answer": "enc",
+            "normalized": "enc"
+          },
+          {
+            "id": "1e4acb41-4fc4-41ac-bdee-6a0ebad1386e",
+            "clue": "To liberally coat with a thick substance",
+            "answer": "daub",
+            "normalized": "daub"
+          },
+          {
+            "id": "14090395-ea4e-4b09-8b8b-a83e59a7b5a3",
+            "clue": "Fruit often associated with Adam and Eve",
+            "answer": "apple",
+            "normalized": "apple"
+          },
+          {
+            "id": "ca24f16e-a7d2-4d90-b265-fe0256804d5a",
+            "clue": "Puzo, who penned The Godfather",
+            "answer": "mario",
+            "normalized": "mario"
+          },
+          {
+            "id": "184538b2-a171-450e-b929-966701ad68ef",
+            "clue": "Falls on ice",
+            "answer": "slips",
+            "normalized": "slips"
+          },
+          {
+            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
+            "clue": "Masters of ceremonies, in short",
+            "answer": "mcs",
+            "normalized": "mcs"
+          },
+          {
+            "id": "9e210456-8c09-4b10-b6e9-23856c0b0a69",
+            "clue": "Dutch cheeses with red wax rinds",
+            "answer": "edams",
+            "normalized": "edams"
+          },
+          {
+            "id": "58bcd809-229c-433b-bc04-d7fee7ac7c5e",
+            "clue": "Incendiary gel made from gasoline for bombs",
+            "answer": "napalm",
+            "normalized": "napalm"
+          },
+          {
+            "id": "b6951c9c-f18d-45ce-b4df-e8c8f9e81790",
+            "clue": "Relating to a type of copper",
+            "answer": "cupric",
+            "normalized": "cupric"
+          },
+          {
+            "id": "b32e1773-f82e-4d40-8a99-26f39825c061",
+            "clue": "Small issues along the way",
+            "answer": "blips",
+            "normalized": "blips"
+          },
+          {
+            "id": "6c74d3e3-ca12-483c-b3ef-5f3d9cb9ddcc",
+            "clue": "Goddess of the dawn in Greek mythology",
+            "answer": "eos",
+            "normalized": "eos"
+          }
+        ],
+        "track": "PC|LenC--Y2026M9D19F0"
+      },
+      "mid": {
+        "puzzleId": "f4a28ddd-4a3e-454c-8003-fa91a7d28614",
+        "fase": 2,
+        "size": 2,
         "status": 1,
         "version": 6,
         "answers": [
           {
-            "id": "d6a7cdcb-7028-42c1-b3b2-fdd7e5093336",
-            "clue": "Nicholas I and Ivan the Terrible's title",
-            "answer": "tsar",
-            "normalized": "tsar"
+            "id": "57447df1-df9d-46b4-a90a-1686e4dce2ae",
+            "clue": "Units of electric current, abbreviated",
+            "answer": "amps",
+            "normalized": "amps"
           },
           {
-            "id": "f95a4285-eff7-48cd-84a7-f1458d8b1deb",
-            "clue": "Balanced, evenly distributed",
-            "answer": "equal",
-            "normalized": "equal"
+            "id": "95e6ce36-4223-4b3b-a067-688e488203c8",
+            "clue": "US fashion organisation known for its awards",
+            "answer": "cfda",
+            "normalized": "cfda"
           },
           {
-            "id": "498f46cd-0a06-4509-8251-87df4356eed8",
-            "clue": "A gentle reminder; a playful touch",
-            "answer": "nudge",
-            "normalized": "nudge"
+            "id": "9ee027b9-22ec-456e-91bc-b0faebd1b623",
+            "clue": "Skinny",
+            "answer": "thin",
+            "normalized": "thin"
           },
           {
-            "id": "0c393d97-82f5-4ac2-acb3-ac9505b8ec02",
-            "clue": "Periods of anger",
-            "answer": "ires",
-            "normalized": "ires"
+            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
+            "clue": "Relating to the mouth, anatomically",
+            "answer": "oral",
+            "normalized": "oral"
           },
           {
-            "id": "d0330c58-8fab-45c8-8221-144614d60023",
-            "clue": "Fathers",
-            "answer": "dads",
-            "normalized": "dads"
+            "id": "9f4bb563-6ff6-4eb8-8e8b-ae21b0917519",
+            "clue": "Filled, \"windblown\" bite-size pastry",
+            "answer": "vol au vent",
+            "normalized": "volauvent"
           },
           {
-            "id": "f2dabdd3-ba2a-42bf-9019-df07f3c6389e",
-            "clue": "The number of toes most people have",
-            "answer": "ten",
-            "normalized": "ten"
+            "id": "a8ea6c33-3d43-430f-9303-f262736c3125",
+            "clue": "Boxes in a friendly scrimmage match",
+            "answer": "spars",
+            "normalized": "spars"
           },
           {
-            "id": "20a99f7a-ea32-46ee-9926-749579322038",
-            "clue": "Sea creature that shoots ink to defend itself",
-            "answer": "squid",
-            "normalized": "squid"
+            "id": "67210c84-9d0e-4c53-8c99-33d59a6d722e",
+            "clue": "Marks made by sharp needles",
+            "answer": "pinpricks",
+            "normalized": "pinpricks"
           },
           {
-            "id": "754a2283-cfd7-408a-b039-750e19643686",
-            "clue": "Girl's name meaning noble strength",
-            "answer": "audra",
-            "normalized": "audra"
+            "id": "4c746d6c-f3f0-457e-ac89-85634d614a74",
+            "clue": "Profoundly wicked stunt performer, __ Knievel",
+            "answer": "evel",
+            "normalized": "evel"
           },
           {
-            "id": "be5e4bdf-8636-44ec-9c90-c2bd62e32bc7",
-            "clue": "Seethed, ranted",
-            "answer": "raged",
-            "normalized": "raged"
+            "id": "ca45433d-84cf-4ee7-8980-2d7b9e064408",
+            "clue": "White, low-heeled boot popular in the 1960s",
+            "answer": "gogo",
+            "normalized": "gogo"
           },
           {
-            "id": "d3037cb5-dce6-4d4c-8275-eafbba8d167e",
-            "clue": "A smaller amount of something",
-            "answer": "less",
-            "normalized": "less"
+            "id": "022242f2-7d74-40c3-91be-db24958a4f7f",
+            "clue": "Surname of Charlotte Brontë's book Jane",
+            "answer": "eyre",
+            "normalized": "eyre"
+          },
+          {
+            "id": "902fe458-3ec0-4220-ab2c-d90d0b2c9e2d",
+            "clue": "Unique identifying number for a published book",
+            "answer": "isbn",
+            "normalized": "isbn"
+          },
+          {
+            "id": "2ff8daaa-e1f8-421d-b66f-589d3db3fb1a",
+            "clue": "All-terrain vehicle",
+            "answer": "atv",
+            "normalized": "atv"
+          },
+          {
+            "id": "029e47a9-70ac-4648-b6f4-4d6f46ecba5d",
+            "clue": "The siemens, or reciprocal of one ohm",
+            "answer": "mho",
+            "normalized": "mho"
+          },
+          {
+            "id": "66cdb932-7f21-4f15-a01b-786b0c097796",
+            "clue": "Type of lager named after a city in Bohemia",
+            "answer": "pilsner",
+            "normalized": "pilsner"
+          },
+          {
+            "id": "e80f8f69-a34a-4252-ba27-ab17497fd200",
+            "clue": "Tea, juice drink with facts on inside of cap",
+            "answer": "snapple",
+            "normalized": "snapple"
+          },
+          {
+            "id": "c0aae012-741c-4e08-ab73-5f3c6bbbaa54",
+            "clue": "Romanian pretzels",
+            "answer": "covrigi",
+            "normalized": "covrigi"
+          },
+          {
+            "id": "d3bde223-a995-436a-afdb-9c9b614912c4",
+            "clue": "Paintings on plaster",
+            "answer": "frescos",
+            "normalized": "frescos"
+          },
+          {
+            "id": "977b11a6-4f47-488f-95d2-c04af0303da6",
+            "clue": "Second word of Steely band, Deacon Blues singers",
+            "answer": "dan",
+            "normalized": "dan"
+          },
+          {
+            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
+            "clue": "Key typed with Ctrl and Del",
+            "answer": "alt",
+            "normalized": "alt"
+          },
+          {
+            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
+            "clue": "Abbreviation for User Access Review",
+            "answer": "uar",
+            "normalized": "uar"
+          },
+          {
+            "id": "bd2cb7b6-e3ce-417f-97d2-78caec8f02e7",
+            "clue": "The letter P, written as a word",
+            "answer": "pee",
+            "normalized": "pee"
+          },
+          {
+            "id": "35563857-8fdc-4357-9ae6-bdb3ab91f5fb",
+            "clue": "Plant that grows up walls",
+            "answer": "ivy",
+            "normalized": "ivy"
+          },
+          {
+            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
+            "clue": "Former Soviet spy agency",
+            "answer": "kgb",
+            "normalized": "kgb"
+          },
+          {
+            "id": "18a1ceb6-58c6-4729-a878-a2daf5471cf7",
+            "clue": "Male child",
+            "answer": "son",
+            "normalized": "son"
           }
         ],
-        "track": "PC|LenC--Y2026M9D18F0"
-      },
-      "mid": {
-        "puzzleId": "3070c52d-a5aa-4ccd-8179-56f9e509aa23",
-        "fase": 1,
-        "size": 2,
-        "status": 1,
-        "version": 1,
-        "answers": [
-          {
-            "id": "a98e7009-b729-4a28-a0fa-086c2673a1c0",
-            "clue": "Whispered noise for \"over here!\"",
-            "answer": "psst",
-            "normalized": "psst"
-          },
-          {
-            "id": "aa82387f-75a1-485f-a894-0efae4dc0c1f",
-            "clue": "Grains used by Quaker",
-            "answer": "oats",
-            "normalized": "oats"
-          },
-          {
-            "id": "6ca271f1-36ef-4b39-af77-2ec5b96c864e",
-            "clue": "Public officials frequently swear one",
-            "answer": "oath",
-            "normalized": "oath"
-          },
-          {
-            "id": "5081422b-dd2b-4a8e-888d-e779bb5a5a0f",
-            "clue": "Old Italian currency",
-            "answer": "lira",
-            "normalized": "lira"
-          },
-          {
-            "id": "cd1a2e1a-aaa6-436c-8a07-e7acdae1742d",
-            "clue": "Thwarted from playing a shot in a game like pool",
-            "answer": "snookered",
-            "normalized": "snookered"
-          },
-          {
-            "id": "334230cb-8ef5-487f-9694-1bf4962314cd",
-            "clue": "And so on",
-            "answer": "etc",
-            "normalized": "etc"
-          },
-          {
-            "id": "1ffb864f-e573-40d4-9417-a5822cf7d61f",
-            "clue": "Amazes, excites",
-            "answer": "wows",
-            "normalized": "wows"
-          },
-          {
-            "id": "2d3cb4f1-14f7-461e-9074-59de0605f76f",
-            "clue": "Global retailer known for its furniture",
-            "answer": "ikea",
-            "normalized": "ikea"
-          },
-          {
-            "id": "da79c1bc-b655-431d-8078-8624545a3994",
-            "clue": "Short term for \"operations\" used in the military",
-            "answer": "ops",
-            "normalized": "ops"
-          },
-          {
-            "id": "f0281519-06ab-4768-a501-84cb27be8801",
-            "clue": "Kind of font in a church used for babies",
-            "answer": "baptismal",
-            "normalized": "baptismal"
-          },
-          {
-            "id": "afbd4fa7-df83-419a-bcc5-73c8e5c62072",
-            "clue": "Sheena Easton duet with Prince, __ the Look",
-            "answer": "u got",
-            "normalized": "ugot"
-          },
-          {
-            "id": "cbcf9768-639e-4e1d-ae8a-591e5666f1ef",
-            "clue": "Spanish house",
-            "answer": "casa",
-            "normalized": "casa"
-          },
-          {
-            "id": "3300865f-1afb-455b-bc21-c8f59df8e661",
-            "clue": "UK term for list showing whose turn it is to work",
-            "answer": "rota",
-            "normalized": "rota"
-          },
-          {
-            "id": "522dccc1-4619-42ae-ac95-94d02e53454c",
-            "clue": "Common abbreviation for institute",
-            "answer": "inst",
-            "normalized": "inst"
-          },
-          {
-            "id": "e1a0cb71-c9ba-4f48-8408-3a0b5b1c9cf6",
-            "clue": "Strike one for a photo",
-            "answer": "pose",
-            "normalized": "pose"
-          },
-          {
-            "id": "ca96fd55-8b9b-473a-8416-340e4228c925",
-            "clue": "Spanish name; St James",
-            "answer": "santiago",
-            "normalized": "santiago"
-          },
-          {
-            "id": "9d58943b-9a3b-4a47-947f-1debfbfce77d",
-            "clue": "Large cooking container to make soups or stews",
-            "answer": "stockpot",
-            "normalized": "stockpot"
-          },
-          {
-            "id": "cabcc0e9-39ae-4113-8886-27a2668b8ffc",
-            "clue": "Short form of \"though\", used in texting",
-            "answer": "tho",
-            "normalized": "tho"
-          },
-          {
-            "id": "3de51ed2-1829-4c22-aba3-31f09b77a869",
-            "clue": "Another, slightly dated, term for margarine",
-            "answer": "oleo",
-            "normalized": "oleo"
-          },
-          {
-            "id": "4f484f11-322b-4d19-bce1-65d2d7601857",
-            "clue": "Female pilot",
-            "answer": "airwoman",
-            "normalized": "airwoman"
-          },
-          {
-            "id": "0061a170-ba58-4ef8-8d42-466a8d5f44df",
-            "clue": "To enter someone's property without permission",
-            "answer": "trespass",
-            "normalized": "trespass"
-          },
-          {
-            "id": "bcebe44e-5864-4961-a995-07443fd44ec3",
-            "clue": "Unhappy",
-            "answer": "sad",
-            "normalized": "sad"
-          },
-          {
-            "id": "1a963629-40c0-4649-84ee-415d6b249b91",
-            "clue": "The Bridge Over The River __, Pierre Boulle novel",
-            "answer": "kwai",
-            "normalized": "kwai"
-          },
-          {
-            "id": "0b8753f4-c028-4809-9d54-4eff6752d3bc",
-            "clue": "At last, __ James' \"love has come along\"",
-            "answer": "etta",
-            "normalized": "etta"
-          },
-          {
-            "id": "f88d2562-d266-47c5-99f5-ca0f520a5047",
-            "clue": "Strip of wood used to support a mattress",
-            "answer": "slat",
-            "normalized": "slat"
-          },
-          {
-            "id": "26dccf33-e648-4a87-a7f8-dcc422addb54",
-            "clue": "Prickly plant pod covered in hooks",
-            "answer": "bur",
-            "normalized": "bur"
-          },
-          {
-            "id": "778bef57-89a3-4695-9383-c668169ce87e",
-            "clue": "Abbreviation for \"spinal cord injury\"",
-            "answer": "sci",
-            "normalized": "sci"
-          }
-        ],
-        "track": "PC|LenC--Y2026M9D18F1"
+        "track": "PC|LenC--Y2026M9D19F2"
       }
     },
     "latestAvailableEntry": {
@@ -440723,21 +441224,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "xnO7OdCPNvLh9ngjXbp0YxTDe8ep/8oCiiklCY1Br+RF7EXweqpTLlbhRtam0Y4H/KAWMekU2S2II26TV9WtdZPTeRHdUIhOu0u32xvot9UgNT4ZMj4TjOsLQRX9TbYUMqaEcGE8KGQHlMAUIZYjImeh4lOvwSirqrv0u+1yv5CTCmq7hJ+Pj0+yZSXdtP+9ty13/p5XFtJ2nOE6vYpyMgVq3IXoNKY04rqu1D60SWVWZCXjRRh9HaJN28IAHwAQ2Rl+BWPSYY1F805t9i0H1mvX1ea6SMVOkEGxNzTHvwA="
+        "3SH8Q95bREqlh5L/EWodgeZXY+8gydlulWg/t/yAYX/6ZjJArEdk0YXbx+1woBELXB58EE37qchLEWLncX3KNMryomqzUm6bVSG++6LhonLzdtl5WUWl/3KYzv/Y2IccBxx5kgI4skD1yFdjIPczBbF/9lFQyANi0wLin6WTMuEHaijiMSAlZlP3DLC/zQxzj6I4Jrn+BmRpxC8iFHQD91C/hctFTt13kYApn0+Tt0JBLQRTHuVaX9w55qXbm5G70Tfrh+tS09u5C2cUWBE0VjaRGCMppxrUcKHsjLaAoJU="
       ]
     },
     "decrypted": {
-      "Id": "dad928b5-0dff-4db4-898b-801d999958c3",
-      "Date": "2026-09-18T00:00:00Z",
+      "Id": "d9d87feb-0651-4f53-b838-705b473f5219",
+      "Date": "2026-09-19T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "floor",
-      "NormalizedPassword": "floor",
+      "Password": "truck",
+      "NormalizedPassword": "truck",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-18T03:03:06.6340000+05:30",
-    "hash": "f66b2758d8cdacae4492cb30e72f9ff6",
+    "dtu": "2026-09-19T02:33:41.4920000+05:30",
+    "hash": "0d2555406e0f8e53953621d5fc939af1",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
