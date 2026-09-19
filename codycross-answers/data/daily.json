@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T21:03:41.492Z",
+  "generatedAt": "2026-09-19T20:52:18.531Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 19
+    "day": 20
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 34
+        "QuantidadeDeFases": 36
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -203,7 +203,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2024,
         "Month": 1,
-        "QuantidadeDeFases": 58
+        "QuantidadeDeFases": 59
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -213014,76 +213014,349 @@
         "month": 1,
         "day": 19,
         "small": {
-          "puzzleId": "b4eff18f-4d4a-44a4-ae2d-c23f7c45c906",
-          "fase": 2,
-          "size": 1,
+          "puzzleId": "00bd8d88-9185-4fda-97b1-ee2a7307f9a4",
+          "fase": 0,
+          "size": 2,
           "status": 1,
           "version": 1,
           "answers": [
             {
-              "id": "cc8e6173-9fbb-432a-aadc-fa53a99f43d1",
-              "clue": "Animal that isn't tame",
-              "answer": "wild",
-              "normalized": "wild"
+              "id": "58bab5e3-4a52-4c74-808f-a5409be71672",
+              "clue": "Spanish for blue",
+              "answer": "azul",
+              "normalized": "azul"
             },
             {
-              "id": "d06d8d37-d2b0-4235-aace-10705830d95e",
-              "clue": "A kiln is one of these, used for wood or clay",
-              "answer": "oven",
-              "normalized": "oven"
+              "id": "481d73c4-229c-445b-8fc5-21acff89f5fa",
+              "clue": "Part of the ear that is often pierced",
+              "answer": "lobe",
+              "normalized": "lobe"
             },
             {
-              "id": "5a32b885-e212-4812-9bed-4790368e0dc8",
-              "clue": "A subatomic particle and a ferengi bartender",
-              "answer": "quark",
-              "normalized": "quark"
+              "id": "057a37bc-231e-4811-b775-3adac4287683",
+              "clue": "Consistency, logic, reason, soundness",
+              "answer": "coherence",
+              "normalized": "coherence"
             },
             {
-              "id": "3cd2c70a-473c-4fcb-9c14-805176e9c6b7",
-              "clue": "Forearm bone",
-              "answer": "ulna",
-              "normalized": "ulna"
+              "id": "766b92fe-ac83-45af-9d29-fe025f173bb3",
+              "clue": "Hexing",
+              "answer": "hoodooing",
+              "normalized": "hoodooing"
             },
             {
-              "id": "d3c89406-d9d3-4cdd-ace5-6f6dac607093",
-              "clue": "An apple __ keeps the doctor away",
-              "answer": "a day",
-              "normalized": "aday"
+              "id": "f29f4f64-f3cf-4031-9da8-57368aa6adfa",
+              "clue": "Hawke, Before Sunrise actor",
+              "answer": "ethan",
+              "normalized": "ethan"
             },
             {
-              "id": "87c0665a-78ce-4ae1-bba3-9a14375dbf79",
-              "clue": "What the 'd means in she'd",
-              "answer": "would",
-              "normalized": "would"
+              "id": "5be42641-1377-453f-9752-415135219cbc",
+              "clue": "Zodiac sign Sagittarius is depicted shooting one",
+              "answer": "arrow",
+              "normalized": "arrow"
             },
             {
-              "id": "beae9ed5-6787-4e16-8c2e-480f09ee936c",
-              "clue": "The first wife of Donald Trump",
-              "answer": "ivana",
-              "normalized": "ivana"
+              "id": "a6cf6eb5-efc8-4efc-a45f-99d1dce1d3ee",
+              "clue": "Disposable, designed to be thrown away",
+              "answer": "single use",
+              "normalized": "singleuse"
             },
             {
-              "id": "c8945f70-3006-443b-ab2a-937730d60fce",
-              "clue": "Coi, US rap artist known for the 2023 song Players",
-              "answer": "leray",
-              "normalized": "leray"
+              "id": "93a7c9da-effd-468f-aa96-f4a951d4cd13",
+              "clue": "Something that can be dodged, prevented",
+              "answer": "avoidable",
+              "normalized": "avoidable"
             },
             {
-              "id": "8d59cc9f-8171-4261-b9c9-762c0da37f46",
-              "clue": "Three-letter country code for Denmark",
-              "answer": "dnk",
-              "normalized": "dnk"
+              "id": "142e81da-a757-4563-befb-464860458a21",
+              "clue": "The C in CMYK of printer inks",
+              "answer": "cyan",
+              "normalized": "cyan"
             },
             {
-              "id": "eed96a44-9815-4928-a0b8-1687afe14502",
-              "clue": "Sine __ non, indispensable",
-              "answer": "qua",
-              "normalized": "qua"
+              "id": "e41c0c0a-1618-4c66-b983-b0da32f957c8",
+              "clue": "First name of Russian revolutionary Trotsky",
+              "answer": "leon",
+              "normalized": "leon"
+            },
+            {
+              "id": "7c9d20c7-37be-4ea1-866a-7966069571d5",
+              "clue": "Sore pain",
+              "answer": "ache",
+              "normalized": "ache"
+            },
+            {
+              "id": "aaf8f832-2e1f-4fdd-92aa-409ab05ce7f4",
+              "clue": "Slick forties suit, often worn with a fedora",
+              "answer": "zoot",
+              "normalized": "zoot"
+            },
+            {
+              "id": "ffde4991-449e-4f3c-9007-f3d80787b7dc",
+              "clue": "Said when someone has bad vibes about something",
+              "answer": "uh oh",
+              "normalized": "uhoh"
+            },
+            {
+              "id": "7d082478-4b1a-4ba6-a8be-8ee8eec6f093",
+              "clue": "Jupiter's moon named after a Spartan queen",
+              "answer": "leda",
+              "normalized": "leda"
+            },
+            {
+              "id": "70f549a7-a56d-4f63-a389-1447de3f8380",
+              "clue": "MGM's lion mascot",
+              "answer": "leo",
+              "normalized": "leo"
+            },
+            {
+              "id": "8efe4bb3-cf7c-4c4a-960f-5453bc37c16c",
+              "clue": "A demon, or sometimes ogre, in Japanese mythology",
+              "answer": "oni",
+              "normalized": "oni"
+            },
+            {
+              "id": "c989df0c-2ae6-468f-8ba3-05c739dcd00e",
+              "clue": "Barcelona–El Prat airport in three letters",
+              "answer": "bcn",
+              "normalized": "bcn"
+            },
+            {
+              "id": "bf879294-39d9-49fd-8408-746d1448ba1a",
+              "clue": "Short for electroencephalogram",
+              "answer": "eeg",
+              "normalized": "eeg"
+            },
+            {
+              "id": "7cb04006-e04b-43e1-ab3f-23b04df23774",
+              "clue": "__ McDonald House help for kids in need",
+              "answer": "ronald",
+              "normalized": "ronald"
+            },
+            {
+              "id": "4818b428-6db7-4de3-8025-94cd1e110464",
+              "clue": "Not fake",
+              "answer": "real",
+              "normalized": "real"
+            },
+            {
+              "id": "b30eda01-5e8a-4cfc-bd38-17caea420fb1",
+              "clue": "Country bumpkin",
+              "answer": "rube",
+              "normalized": "rube"
+            },
+            {
+              "id": "46b5ff8c-13fb-4641-9ad2-a00a1e551ac6",
+              "clue": "Norwegian capital city",
+              "answer": "oslo",
+              "normalized": "oslo"
+            },
+            {
+              "id": "62537f77-391f-46fc-b2c1-c6d1cf71ef03",
+              "clue": "Old word for \"be of the opinion\"",
+              "answer": "ween",
+              "normalized": "ween"
+            },
+            {
+              "id": "ac530b43-e818-40a3-a486-5632d5790a52",
+              "clue": "French term for a dead end, cul-de-__",
+              "answer": "sac",
+              "normalized": "sac"
+            },
+            {
+              "id": "35563857-8fdc-4357-9ae6-bdb3ab91f5fb",
+              "clue": "Plant that grows up walls",
+              "answer": "ivy",
+              "normalized": "ivy"
+            },
+            {
+              "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
+              "clue": "Net Operating Assets in business speak",
+              "answer": "noa",
+              "normalized": "noa"
+            },
+            {
+              "id": "f6350cb1-56eb-4ae5-a3df-d161b7264f3e",
+              "clue": "The gimlet cocktail uses this alcohol",
+              "answer": "gin",
+              "normalized": "gin"
             }
           ],
-          "track": "PC|LenC--Y2024M1D19F2"
+          "track": "PC|LenC--Y2024M1D19F0"
         },
-        "mid": null
+        "mid": {
+          "puzzleId": "00bd8d88-9185-4fda-97b1-ee2a7307f9a4",
+          "fase": 0,
+          "size": 2,
+          "status": 1,
+          "version": 1,
+          "answers": [
+            {
+              "id": "58bab5e3-4a52-4c74-808f-a5409be71672",
+              "clue": "Spanish for blue",
+              "answer": "azul",
+              "normalized": "azul"
+            },
+            {
+              "id": "481d73c4-229c-445b-8fc5-21acff89f5fa",
+              "clue": "Part of the ear that is often pierced",
+              "answer": "lobe",
+              "normalized": "lobe"
+            },
+            {
+              "id": "057a37bc-231e-4811-b775-3adac4287683",
+              "clue": "Consistency, logic, reason, soundness",
+              "answer": "coherence",
+              "normalized": "coherence"
+            },
+            {
+              "id": "766b92fe-ac83-45af-9d29-fe025f173bb3",
+              "clue": "Hexing",
+              "answer": "hoodooing",
+              "normalized": "hoodooing"
+            },
+            {
+              "id": "f29f4f64-f3cf-4031-9da8-57368aa6adfa",
+              "clue": "Hawke, Before Sunrise actor",
+              "answer": "ethan",
+              "normalized": "ethan"
+            },
+            {
+              "id": "5be42641-1377-453f-9752-415135219cbc",
+              "clue": "Zodiac sign Sagittarius is depicted shooting one",
+              "answer": "arrow",
+              "normalized": "arrow"
+            },
+            {
+              "id": "a6cf6eb5-efc8-4efc-a45f-99d1dce1d3ee",
+              "clue": "Disposable, designed to be thrown away",
+              "answer": "single use",
+              "normalized": "singleuse"
+            },
+            {
+              "id": "93a7c9da-effd-468f-aa96-f4a951d4cd13",
+              "clue": "Something that can be dodged, prevented",
+              "answer": "avoidable",
+              "normalized": "avoidable"
+            },
+            {
+              "id": "142e81da-a757-4563-befb-464860458a21",
+              "clue": "The C in CMYK of printer inks",
+              "answer": "cyan",
+              "normalized": "cyan"
+            },
+            {
+              "id": "e41c0c0a-1618-4c66-b983-b0da32f957c8",
+              "clue": "First name of Russian revolutionary Trotsky",
+              "answer": "leon",
+              "normalized": "leon"
+            },
+            {
+              "id": "7c9d20c7-37be-4ea1-866a-7966069571d5",
+              "clue": "Sore pain",
+              "answer": "ache",
+              "normalized": "ache"
+            },
+            {
+              "id": "aaf8f832-2e1f-4fdd-92aa-409ab05ce7f4",
+              "clue": "Slick forties suit, often worn with a fedora",
+              "answer": "zoot",
+              "normalized": "zoot"
+            },
+            {
+              "id": "ffde4991-449e-4f3c-9007-f3d80787b7dc",
+              "clue": "Said when someone has bad vibes about something",
+              "answer": "uh oh",
+              "normalized": "uhoh"
+            },
+            {
+              "id": "7d082478-4b1a-4ba6-a8be-8ee8eec6f093",
+              "clue": "Jupiter's moon named after a Spartan queen",
+              "answer": "leda",
+              "normalized": "leda"
+            },
+            {
+              "id": "70f549a7-a56d-4f63-a389-1447de3f8380",
+              "clue": "MGM's lion mascot",
+              "answer": "leo",
+              "normalized": "leo"
+            },
+            {
+              "id": "8efe4bb3-cf7c-4c4a-960f-5453bc37c16c",
+              "clue": "A demon, or sometimes ogre, in Japanese mythology",
+              "answer": "oni",
+              "normalized": "oni"
+            },
+            {
+              "id": "c989df0c-2ae6-468f-8ba3-05c739dcd00e",
+              "clue": "Barcelona–El Prat airport in three letters",
+              "answer": "bcn",
+              "normalized": "bcn"
+            },
+            {
+              "id": "bf879294-39d9-49fd-8408-746d1448ba1a",
+              "clue": "Short for electroencephalogram",
+              "answer": "eeg",
+              "normalized": "eeg"
+            },
+            {
+              "id": "7cb04006-e04b-43e1-ab3f-23b04df23774",
+              "clue": "__ McDonald House help for kids in need",
+              "answer": "ronald",
+              "normalized": "ronald"
+            },
+            {
+              "id": "4818b428-6db7-4de3-8025-94cd1e110464",
+              "clue": "Not fake",
+              "answer": "real",
+              "normalized": "real"
+            },
+            {
+              "id": "b30eda01-5e8a-4cfc-bd38-17caea420fb1",
+              "clue": "Country bumpkin",
+              "answer": "rube",
+              "normalized": "rube"
+            },
+            {
+              "id": "46b5ff8c-13fb-4641-9ad2-a00a1e551ac6",
+              "clue": "Norwegian capital city",
+              "answer": "oslo",
+              "normalized": "oslo"
+            },
+            {
+              "id": "62537f77-391f-46fc-b2c1-c6d1cf71ef03",
+              "clue": "Old word for \"be of the opinion\"",
+              "answer": "ween",
+              "normalized": "ween"
+            },
+            {
+              "id": "ac530b43-e818-40a3-a486-5632d5790a52",
+              "clue": "French term for a dead end, cul-de-__",
+              "answer": "sac",
+              "normalized": "sac"
+            },
+            {
+              "id": "35563857-8fdc-4357-9ae6-bdb3ab91f5fb",
+              "clue": "Plant that grows up walls",
+              "answer": "ivy",
+              "normalized": "ivy"
+            },
+            {
+              "id": "5c10d7a6-fdd5-4fb3-9a45-db37cf684f7c",
+              "clue": "Net Operating Assets in business speak",
+              "answer": "noa",
+              "normalized": "noa"
+            },
+            {
+              "id": "f6350cb1-56eb-4ae5-a3df-d161b7264f3e",
+              "clue": "The gimlet cocktail uses this alcohol",
+              "answer": "gin",
+              "normalized": "gin"
+            }
+          ],
+          "track": "PC|LenC--Y2024M1D19F0"
+        }
       },
       {
         "key": "2024-01-18",
@@ -440550,475 +440823,427 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-19",
+      "key": "2026-09-20",
       "year": 2026,
       "month": 9,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "e8bc133f-8ba4-4c5d-862f-46aec0fdb134",
+        "puzzleId": "1ab10691-301b-4bcf-9ed6-4ede627b0d8a",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
-            "clue": "Short for enclosed",
-            "answer": "enc",
-            "normalized": "enc"
+            "id": "f9ceaa27-15b7-4ddf-9d93-2f8d13d34466",
+            "clue": "Deceptive ploy to gain money or personal details",
+            "answer": "scam",
+            "normalized": "scam"
           },
           {
-            "id": "1e4acb41-4fc4-41ac-bdee-6a0ebad1386e",
-            "clue": "To liberally coat with a thick substance",
-            "answer": "daub",
-            "normalized": "daub"
+            "id": "0e56b573-50b6-41a4-b432-928304a77ccd",
+            "clue": "Makes money in a job",
+            "answer": "earns",
+            "normalized": "earns"
           },
           {
-            "id": "14090395-ea4e-4b09-8b8b-a83e59a7b5a3",
-            "clue": "Fruit often associated with Adam and Eve",
-            "answer": "apple",
-            "normalized": "apple"
+            "id": "4ef139af-7b99-4345-aae5-12eb23cd43b3",
+            "clue": "Stuck to food like plastic wrap or film",
+            "answer": "clung",
+            "normalized": "clung"
           },
           {
-            "id": "ca24f16e-a7d2-4d90-b265-fe0256804d5a",
-            "clue": "Puzo, who penned The Godfather",
-            "answer": "mario",
-            "normalized": "mario"
+            "id": "e9078949-bc52-4250-acfc-8ea073b01650",
+            "clue": "Tree on Lebanon's flag",
+            "answer": "cedar",
+            "normalized": "cedar"
           },
           {
-            "id": "184538b2-a171-450e-b929-966701ad68ef",
-            "clue": "Falls on ice",
-            "answer": "slips",
-            "normalized": "slips"
+            "id": "1cf2519e-8269-4cfb-92ee-5a02827f6a38",
+            "clue": "Premonition of the future",
+            "answer": "omen",
+            "normalized": "omen"
           },
           {
-            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
-            "clue": "Masters of ceremonies, in short",
-            "answer": "mcs",
-            "normalized": "mcs"
+            "id": "1ca58726-6c7e-44ae-b9ca-e5d64ceca0d1",
+            "clue": "Centre of the Witch Trials in the United States",
+            "answer": "salem",
+            "normalized": "salem"
           },
           {
-            "id": "9e210456-8c09-4b10-b6e9-23856c0b0a69",
-            "clue": "Dutch cheeses with red wax rinds",
-            "answer": "edams",
-            "normalized": "edams"
+            "id": "52008a3f-d363-4403-83b1-3fb87dc90e84",
+            "clue": "State of natural petroleum before it's refined",
+            "answer": "crude",
+            "normalized": "crude"
           },
           {
-            "id": "58bcd809-229c-433b-bc04-d7fee7ac7c5e",
-            "clue": "Incendiary gel made from gasoline for bombs",
-            "answer": "napalm",
-            "normalized": "napalm"
+            "id": "8cf59849-506e-4b89-a85a-b37dfd908b79",
+            "clue": "Former UN secretary-general Kofi",
+            "answer": "annan",
+            "normalized": "annan"
           },
           {
-            "id": "b6951c9c-f18d-45ce-b4df-e8c8f9e81790",
-            "clue": "Relating to a type of copper",
-            "answer": "cupric",
-            "normalized": "cupric"
+            "id": "9ca5728c-e9e3-4b72-9e33-83ff019e853c",
+            "clue": "Abbreviation for Monsignor",
+            "answer": "msgr",
+            "normalized": "msgr"
           },
           {
-            "id": "b32e1773-f82e-4d40-8a99-26f39825c061",
-            "clue": "Small issues along the way",
-            "answer": "blips",
-            "normalized": "blips"
-          },
-          {
-            "id": "6c74d3e3-ca12-483c-b3ef-5f3d9cb9ddcc",
-            "clue": "Goddess of the dawn in Greek mythology",
-            "answer": "eos",
-            "normalized": "eos"
+            "id": "4480a635-c720-4419-b3a0-5a5e47ec458c",
+            "clue": "Danish brand of comfortable shoes",
+            "answer": "ecco",
+            "normalized": "ecco"
           }
         ],
-        "track": "PC|LenC--Y2026M9D19F0"
+        "track": "PC|LenC--Y2026M9D20F0"
       },
       "mid": {
-        "puzzleId": "f4a28ddd-4a3e-454c-8003-fa91a7d28614",
-        "fase": 2,
+        "puzzleId": "71e380cd-5f3f-463d-8bf0-8dbf278f3ee0",
+        "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 1,
         "answers": [
           {
-            "id": "57447df1-df9d-46b4-a90a-1686e4dce2ae",
-            "clue": "Units of electric current, abbreviated",
-            "answer": "amps",
-            "normalized": "amps"
+            "id": "efb1ec60-1175-4cbb-b62e-63c61ca4db33",
+            "clue": "Psychedelic rock band that sang Electric Feel",
+            "answer": "mgmt",
+            "normalized": "mgmt"
           },
           {
-            "id": "95e6ce36-4223-4b3b-a067-688e488203c8",
-            "clue": "US fashion organisation known for its awards",
-            "answer": "cfda",
-            "normalized": "cfda"
+            "id": "004eb133-86da-4aa8-96f5-3ba8ddf1fd8c",
+            "clue": "Use one's eyes",
+            "answer": "see",
+            "normalized": "see"
           },
           {
-            "id": "9ee027b9-22ec-456e-91bc-b0faebd1b623",
-            "clue": "Skinny",
-            "answer": "thin",
-            "normalized": "thin"
+            "id": "eb475e58-abdb-4125-8113-966384523cda",
+            "clue": "Weasel-like marine mammal native to North Pacific",
+            "answer": "sea otter",
+            "normalized": "seaotter"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
+            "id": "cd84be72-1fc1-40a7-a9ea-ec2f501cb5b2",
+            "clue": "One who refuses to take an oath",
+            "answer": "nonjuror",
+            "normalized": "nonjuror"
           },
           {
-            "id": "9f4bb563-6ff6-4eb8-8e8b-ae21b0917519",
-            "clue": "Filled, \"windblown\" bite-size pastry",
-            "answer": "vol au vent",
-            "normalized": "volauvent"
+            "id": "259f3726-2bde-4e22-a59a-5292e777a5f9",
+            "clue": "Where Scarlett O'Hara lived",
+            "answer": "tara",
+            "normalized": "tara"
           },
           {
-            "id": "a8ea6c33-3d43-430f-9303-f262736c3125",
-            "clue": "Boxes in a friendly scrimmage match",
-            "answer": "spars",
-            "normalized": "spars"
+            "id": "56671ea2-73d1-4fd4-a286-6878c7f5cd86",
+            "clue": "Luck of __, fortune endowed to the Emerald Isle",
+            "answer": "the irish",
+            "normalized": "theirish"
           },
           {
-            "id": "67210c84-9d0e-4c53-8c99-33d59a6d722e",
-            "clue": "Marks made by sharp needles",
-            "answer": "pinpricks",
-            "normalized": "pinpricks"
+            "id": "f3cdb224-1b86-4716-bd20-1aa72ab3b3c3",
+            "clue": "French-speaking region of Belgium",
+            "answer": "wallonia",
+            "normalized": "wallonia"
           },
           {
-            "id": "4c746d6c-f3f0-457e-ac89-85634d614a74",
-            "clue": "Profoundly wicked stunt performer, __ Knievel",
-            "answer": "evel",
-            "normalized": "evel"
+            "id": "4a0a8ad9-4a5d-4f3c-99df-b170671963e6",
+            "clue": "Government-funded UK medical service in short",
+            "answer": "nhs",
+            "normalized": "nhs"
           },
           {
-            "id": "ca45433d-84cf-4ee7-8980-2d7b9e064408",
-            "clue": "White, low-heeled boot popular in the 1960s",
-            "answer": "gogo",
-            "normalized": "gogo"
+            "id": "17d261a1-f477-4c00-8d70-0531daae76dc",
+            "clue": "Risqué internet content, not to be viewed at work",
+            "answer": "nsfw",
+            "normalized": "nsfw"
           },
           {
-            "id": "022242f2-7d74-40c3-91be-db24958a4f7f",
-            "clue": "Surname of Charlotte Brontë's book Jane",
-            "answer": "eyre",
-            "normalized": "eyre"
+            "id": "fd7e7bff-d90f-4d76-9e26-2c02fe374c12",
+            "clue": "Microsoft web and news portal",
+            "answer": "msn",
+            "normalized": "msn"
           },
           {
-            "id": "902fe458-3ec0-4220-ab2c-d90d0b2c9e2d",
-            "clue": "Unique identifying number for a published book",
-            "answer": "isbn",
-            "normalized": "isbn"
+            "id": "e9d361dd-aed1-4c44-ab36-01c579201c41",
+            "clue": "Relating to the earth",
+            "answer": "geo",
+            "normalized": "geo"
           },
           {
-            "id": "2ff8daaa-e1f8-421d-b66f-589d3db3fb1a",
-            "clue": "All-terrain vehicle",
-            "answer": "atv",
-            "normalized": "atv"
+            "id": "307560a6-0af6-44d7-8901-60e7eef7ab65",
+            "clue": "Fireplace frames",
+            "answer": "mantels",
+            "normalized": "mantels"
           },
           {
-            "id": "029e47a9-70ac-4648-b6f4-4d6f46ecba5d",
-            "clue": "The siemens, or reciprocal of one ohm",
-            "answer": "mho",
-            "normalized": "mho"
+            "id": "92e687c8-12b8-47e8-8eaa-1f7afc7869d6",
+            "clue": "Go __, go directly there, do not pass Go!",
+            "answer": "to jail",
+            "normalized": "tojail"
           },
           {
-            "id": "66cdb932-7f21-4f15-a01b-786b0c097796",
-            "clue": "Type of lager named after a city in Bohemia",
-            "answer": "pilsner",
-            "normalized": "pilsner"
+            "id": "27990270-2ed0-443a-8045-8d486fe7f0d2",
+            "clue": "Synonym of separates, eg leaves from tea",
+            "answer": "strains",
+            "normalized": "strains"
           },
           {
-            "id": "e80f8f69-a34a-4252-ba27-ab17497fd200",
-            "clue": "Tea, juice drink with facts on inside of cap",
-            "answer": "snapple",
-            "normalized": "snapple"
+            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
+            "clue": "Equal employment opportunity, initialism",
+            "answer": "eeo",
+            "normalized": "eeo"
           },
           {
-            "id": "c0aae012-741c-4e08-ab73-5f3c6bbbaa54",
-            "clue": "Romanian pretzels",
-            "answer": "covrigi",
-            "normalized": "covrigi"
+            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
+            "clue": "To __ is human",
+            "answer": "err",
+            "normalized": "err"
           },
           {
-            "id": "d3bde223-a995-436a-afdb-9c9b614912c4",
-            "clue": "Paintings on plaster",
-            "answer": "frescos",
-            "normalized": "frescos"
+            "id": "e0d1f3cb-b5d3-4180-a0b6-3f9dc53c6f2f",
+            "clue": "Spanish nougaty almond sweet, either hard or soft",
+            "answer": "turron",
+            "normalized": "turron"
           },
           {
-            "id": "977b11a6-4f47-488f-95d2-c04af0303da6",
-            "clue": "Second word of Steely band, Deacon Blues singers",
-            "answer": "dan",
-            "normalized": "dan"
+            "id": "77f18281-58b6-463d-9ee4-120a1a2bfcc4",
+            "clue": "Three-letter alpha code for Taiwan",
+            "answer": "twn",
+            "normalized": "twn"
           },
           {
-            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-            "clue": "Key typed with Ctrl and Del",
-            "answer": "alt",
-            "normalized": "alt"
+            "id": "8baa7437-d481-4932-a936-01b9440c0ead",
+            "clue": "Word expressing triumphant laughter",
+            "answer": "hah",
+            "normalized": "hah"
           },
           {
-            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
-            "clue": "Abbreviation for User Access Review",
-            "answer": "uar",
-            "normalized": "uar"
+            "id": "6adc4e1b-2403-4470-b1d3-fe639b68e492",
+            "clue": "Thor's female warrior friend in Marvel",
+            "answer": "sif",
+            "normalized": "sif"
           },
           {
-            "id": "bd2cb7b6-e3ce-417f-97d2-78caec8f02e7",
-            "clue": "The letter P, written as a word",
-            "answer": "pee",
-            "normalized": "pee"
-          },
-          {
-            "id": "35563857-8fdc-4357-9ae6-bdb3ab91f5fb",
-            "clue": "Plant that grows up walls",
-            "answer": "ivy",
-            "normalized": "ivy"
-          },
-          {
-            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
-            "clue": "Former Soviet spy agency",
-            "answer": "kgb",
-            "normalized": "kgb"
-          },
-          {
-            "id": "18a1ceb6-58c6-4729-a878-a2daf5471cf7",
-            "clue": "Male child",
-            "answer": "son",
-            "normalized": "son"
+            "id": "6bba1a7b-0b64-4705-bb36-2bf2cfa10348",
+            "clue": "Donkey sound, \"hee-__\"",
+            "answer": "haw",
+            "normalized": "haw"
           }
         ],
-        "track": "PC|LenC--Y2026M9D19F2"
+        "track": "PC|LenC--Y2026M9D20F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-19",
+      "key": "2026-09-20",
       "year": 2026,
       "month": 9,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "e8bc133f-8ba4-4c5d-862f-46aec0fdb134",
+        "puzzleId": "1ab10691-301b-4bcf-9ed6-4ede627b0d8a",
         "fase": 0,
         "size": 1,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "51a5d6da-4be9-48a5-b760-1ddac47f0d95",
-            "clue": "Short for enclosed",
-            "answer": "enc",
-            "normalized": "enc"
+            "id": "f9ceaa27-15b7-4ddf-9d93-2f8d13d34466",
+            "clue": "Deceptive ploy to gain money or personal details",
+            "answer": "scam",
+            "normalized": "scam"
           },
           {
-            "id": "1e4acb41-4fc4-41ac-bdee-6a0ebad1386e",
-            "clue": "To liberally coat with a thick substance",
-            "answer": "daub",
-            "normalized": "daub"
+            "id": "0e56b573-50b6-41a4-b432-928304a77ccd",
+            "clue": "Makes money in a job",
+            "answer": "earns",
+            "normalized": "earns"
           },
           {
-            "id": "14090395-ea4e-4b09-8b8b-a83e59a7b5a3",
-            "clue": "Fruit often associated with Adam and Eve",
-            "answer": "apple",
-            "normalized": "apple"
+            "id": "4ef139af-7b99-4345-aae5-12eb23cd43b3",
+            "clue": "Stuck to food like plastic wrap or film",
+            "answer": "clung",
+            "normalized": "clung"
           },
           {
-            "id": "ca24f16e-a7d2-4d90-b265-fe0256804d5a",
-            "clue": "Puzo, who penned The Godfather",
-            "answer": "mario",
-            "normalized": "mario"
+            "id": "e9078949-bc52-4250-acfc-8ea073b01650",
+            "clue": "Tree on Lebanon's flag",
+            "answer": "cedar",
+            "normalized": "cedar"
           },
           {
-            "id": "184538b2-a171-450e-b929-966701ad68ef",
-            "clue": "Falls on ice",
-            "answer": "slips",
-            "normalized": "slips"
+            "id": "1cf2519e-8269-4cfb-92ee-5a02827f6a38",
+            "clue": "Premonition of the future",
+            "answer": "omen",
+            "normalized": "omen"
           },
           {
-            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
-            "clue": "Masters of ceremonies, in short",
-            "answer": "mcs",
-            "normalized": "mcs"
+            "id": "1ca58726-6c7e-44ae-b9ca-e5d64ceca0d1",
+            "clue": "Centre of the Witch Trials in the United States",
+            "answer": "salem",
+            "normalized": "salem"
           },
           {
-            "id": "9e210456-8c09-4b10-b6e9-23856c0b0a69",
-            "clue": "Dutch cheeses with red wax rinds",
-            "answer": "edams",
-            "normalized": "edams"
+            "id": "52008a3f-d363-4403-83b1-3fb87dc90e84",
+            "clue": "State of natural petroleum before it's refined",
+            "answer": "crude",
+            "normalized": "crude"
           },
           {
-            "id": "58bcd809-229c-433b-bc04-d7fee7ac7c5e",
-            "clue": "Incendiary gel made from gasoline for bombs",
-            "answer": "napalm",
-            "normalized": "napalm"
+            "id": "8cf59849-506e-4b89-a85a-b37dfd908b79",
+            "clue": "Former UN secretary-general Kofi",
+            "answer": "annan",
+            "normalized": "annan"
           },
           {
-            "id": "b6951c9c-f18d-45ce-b4df-e8c8f9e81790",
-            "clue": "Relating to a type of copper",
-            "answer": "cupric",
-            "normalized": "cupric"
+            "id": "9ca5728c-e9e3-4b72-9e33-83ff019e853c",
+            "clue": "Abbreviation for Monsignor",
+            "answer": "msgr",
+            "normalized": "msgr"
           },
           {
-            "id": "b32e1773-f82e-4d40-8a99-26f39825c061",
-            "clue": "Small issues along the way",
-            "answer": "blips",
-            "normalized": "blips"
-          },
-          {
-            "id": "6c74d3e3-ca12-483c-b3ef-5f3d9cb9ddcc",
-            "clue": "Goddess of the dawn in Greek mythology",
-            "answer": "eos",
-            "normalized": "eos"
+            "id": "4480a635-c720-4419-b3a0-5a5e47ec458c",
+            "clue": "Danish brand of comfortable shoes",
+            "answer": "ecco",
+            "normalized": "ecco"
           }
         ],
-        "track": "PC|LenC--Y2026M9D19F0"
+        "track": "PC|LenC--Y2026M9D20F0"
       },
       "mid": {
-        "puzzleId": "f4a28ddd-4a3e-454c-8003-fa91a7d28614",
-        "fase": 2,
+        "puzzleId": "71e380cd-5f3f-463d-8bf0-8dbf278f3ee0",
+        "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 6,
+        "version": 1,
         "answers": [
           {
-            "id": "57447df1-df9d-46b4-a90a-1686e4dce2ae",
-            "clue": "Units of electric current, abbreviated",
-            "answer": "amps",
-            "normalized": "amps"
+            "id": "efb1ec60-1175-4cbb-b62e-63c61ca4db33",
+            "clue": "Psychedelic rock band that sang Electric Feel",
+            "answer": "mgmt",
+            "normalized": "mgmt"
           },
           {
-            "id": "95e6ce36-4223-4b3b-a067-688e488203c8",
-            "clue": "US fashion organisation known for its awards",
-            "answer": "cfda",
-            "normalized": "cfda"
+            "id": "004eb133-86da-4aa8-96f5-3ba8ddf1fd8c",
+            "clue": "Use one's eyes",
+            "answer": "see",
+            "normalized": "see"
           },
           {
-            "id": "9ee027b9-22ec-456e-91bc-b0faebd1b623",
-            "clue": "Skinny",
-            "answer": "thin",
-            "normalized": "thin"
+            "id": "eb475e58-abdb-4125-8113-966384523cda",
+            "clue": "Weasel-like marine mammal native to North Pacific",
+            "answer": "sea otter",
+            "normalized": "seaotter"
           },
           {
-            "id": "61b72c15-c9a1-4270-9109-9fd437c708e5",
-            "clue": "Relating to the mouth, anatomically",
-            "answer": "oral",
-            "normalized": "oral"
+            "id": "cd84be72-1fc1-40a7-a9ea-ec2f501cb5b2",
+            "clue": "One who refuses to take an oath",
+            "answer": "nonjuror",
+            "normalized": "nonjuror"
           },
           {
-            "id": "9f4bb563-6ff6-4eb8-8e8b-ae21b0917519",
-            "clue": "Filled, \"windblown\" bite-size pastry",
-            "answer": "vol au vent",
-            "normalized": "volauvent"
+            "id": "259f3726-2bde-4e22-a59a-5292e777a5f9",
+            "clue": "Where Scarlett O'Hara lived",
+            "answer": "tara",
+            "normalized": "tara"
           },
           {
-            "id": "a8ea6c33-3d43-430f-9303-f262736c3125",
-            "clue": "Boxes in a friendly scrimmage match",
-            "answer": "spars",
-            "normalized": "spars"
+            "id": "56671ea2-73d1-4fd4-a286-6878c7f5cd86",
+            "clue": "Luck of __, fortune endowed to the Emerald Isle",
+            "answer": "the irish",
+            "normalized": "theirish"
           },
           {
-            "id": "67210c84-9d0e-4c53-8c99-33d59a6d722e",
-            "clue": "Marks made by sharp needles",
-            "answer": "pinpricks",
-            "normalized": "pinpricks"
+            "id": "f3cdb224-1b86-4716-bd20-1aa72ab3b3c3",
+            "clue": "French-speaking region of Belgium",
+            "answer": "wallonia",
+            "normalized": "wallonia"
           },
           {
-            "id": "4c746d6c-f3f0-457e-ac89-85634d614a74",
-            "clue": "Profoundly wicked stunt performer, __ Knievel",
-            "answer": "evel",
-            "normalized": "evel"
+            "id": "4a0a8ad9-4a5d-4f3c-99df-b170671963e6",
+            "clue": "Government-funded UK medical service in short",
+            "answer": "nhs",
+            "normalized": "nhs"
           },
           {
-            "id": "ca45433d-84cf-4ee7-8980-2d7b9e064408",
-            "clue": "White, low-heeled boot popular in the 1960s",
-            "answer": "gogo",
-            "normalized": "gogo"
+            "id": "17d261a1-f477-4c00-8d70-0531daae76dc",
+            "clue": "Risqué internet content, not to be viewed at work",
+            "answer": "nsfw",
+            "normalized": "nsfw"
           },
           {
-            "id": "022242f2-7d74-40c3-91be-db24958a4f7f",
-            "clue": "Surname of Charlotte Brontë's book Jane",
-            "answer": "eyre",
-            "normalized": "eyre"
+            "id": "fd7e7bff-d90f-4d76-9e26-2c02fe374c12",
+            "clue": "Microsoft web and news portal",
+            "answer": "msn",
+            "normalized": "msn"
           },
           {
-            "id": "902fe458-3ec0-4220-ab2c-d90d0b2c9e2d",
-            "clue": "Unique identifying number for a published book",
-            "answer": "isbn",
-            "normalized": "isbn"
+            "id": "e9d361dd-aed1-4c44-ab36-01c579201c41",
+            "clue": "Relating to the earth",
+            "answer": "geo",
+            "normalized": "geo"
           },
           {
-            "id": "2ff8daaa-e1f8-421d-b66f-589d3db3fb1a",
-            "clue": "All-terrain vehicle",
-            "answer": "atv",
-            "normalized": "atv"
+            "id": "307560a6-0af6-44d7-8901-60e7eef7ab65",
+            "clue": "Fireplace frames",
+            "answer": "mantels",
+            "normalized": "mantels"
           },
           {
-            "id": "029e47a9-70ac-4648-b6f4-4d6f46ecba5d",
-            "clue": "The siemens, or reciprocal of one ohm",
-            "answer": "mho",
-            "normalized": "mho"
+            "id": "92e687c8-12b8-47e8-8eaa-1f7afc7869d6",
+            "clue": "Go __, go directly there, do not pass Go!",
+            "answer": "to jail",
+            "normalized": "tojail"
           },
           {
-            "id": "66cdb932-7f21-4f15-a01b-786b0c097796",
-            "clue": "Type of lager named after a city in Bohemia",
-            "answer": "pilsner",
-            "normalized": "pilsner"
+            "id": "27990270-2ed0-443a-8045-8d486fe7f0d2",
+            "clue": "Synonym of separates, eg leaves from tea",
+            "answer": "strains",
+            "normalized": "strains"
           },
           {
-            "id": "e80f8f69-a34a-4252-ba27-ab17497fd200",
-            "clue": "Tea, juice drink with facts on inside of cap",
-            "answer": "snapple",
-            "normalized": "snapple"
+            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
+            "clue": "Equal employment opportunity, initialism",
+            "answer": "eeo",
+            "normalized": "eeo"
           },
           {
-            "id": "c0aae012-741c-4e08-ab73-5f3c6bbbaa54",
-            "clue": "Romanian pretzels",
-            "answer": "covrigi",
-            "normalized": "covrigi"
+            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
+            "clue": "To __ is human",
+            "answer": "err",
+            "normalized": "err"
           },
           {
-            "id": "d3bde223-a995-436a-afdb-9c9b614912c4",
-            "clue": "Paintings on plaster",
-            "answer": "frescos",
-            "normalized": "frescos"
+            "id": "e0d1f3cb-b5d3-4180-a0b6-3f9dc53c6f2f",
+            "clue": "Spanish nougaty almond sweet, either hard or soft",
+            "answer": "turron",
+            "normalized": "turron"
           },
           {
-            "id": "977b11a6-4f47-488f-95d2-c04af0303da6",
-            "clue": "Second word of Steely band, Deacon Blues singers",
-            "answer": "dan",
-            "normalized": "dan"
+            "id": "77f18281-58b6-463d-9ee4-120a1a2bfcc4",
+            "clue": "Three-letter alpha code for Taiwan",
+            "answer": "twn",
+            "normalized": "twn"
           },
           {
-            "id": "51fe93e7-1d06-40a7-b365-8f02f7e8167b",
-            "clue": "Key typed with Ctrl and Del",
-            "answer": "alt",
-            "normalized": "alt"
+            "id": "8baa7437-d481-4932-a936-01b9440c0ead",
+            "clue": "Word expressing triumphant laughter",
+            "answer": "hah",
+            "normalized": "hah"
           },
           {
-            "id": "b76bb36f-dadb-49b2-9ac2-19ebda7780dc",
-            "clue": "Abbreviation for User Access Review",
-            "answer": "uar",
-            "normalized": "uar"
+            "id": "6adc4e1b-2403-4470-b1d3-fe639b68e492",
+            "clue": "Thor's female warrior friend in Marvel",
+            "answer": "sif",
+            "normalized": "sif"
           },
           {
-            "id": "bd2cb7b6-e3ce-417f-97d2-78caec8f02e7",
-            "clue": "The letter P, written as a word",
-            "answer": "pee",
-            "normalized": "pee"
-          },
-          {
-            "id": "35563857-8fdc-4357-9ae6-bdb3ab91f5fb",
-            "clue": "Plant that grows up walls",
-            "answer": "ivy",
-            "normalized": "ivy"
-          },
-          {
-            "id": "cbfe7037-5d7e-480a-9ff3-e719a01ff0e0",
-            "clue": "Former Soviet spy agency",
-            "answer": "kgb",
-            "normalized": "kgb"
-          },
-          {
-            "id": "18a1ceb6-58c6-4729-a878-a2daf5471cf7",
-            "clue": "Male child",
-            "answer": "son",
-            "normalized": "son"
+            "id": "6bba1a7b-0b64-4705-bb36-2bf2cfa10348",
+            "clue": "Donkey sound, \"hee-__\"",
+            "answer": "haw",
+            "normalized": "haw"
           }
         ],
-        "track": "PC|LenC--Y2026M9D19F2"
+        "track": "PC|LenC--Y2026M9D20F1"
       }
     },
     "latestAvailableEntry": {
@@ -441224,21 +441449,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "3SH8Q95bREqlh5L/EWodgeZXY+8gydlulWg/t/yAYX/6ZjJArEdk0YXbx+1woBELXB58EE37qchLEWLncX3KNMryomqzUm6bVSG++6LhonLzdtl5WUWl/3KYzv/Y2IccBxx5kgI4skD1yFdjIPczBbF/9lFQyANi0wLin6WTMuEHaijiMSAlZlP3DLC/zQxzj6I4Jrn+BmRpxC8iFHQD91C/hctFTt13kYApn0+Tt0JBLQRTHuVaX9w55qXbm5G70Tfrh+tS09u5C2cUWBE0VjaRGCMppxrUcKHsjLaAoJU="
+        "wJcumg6l8QCYSv+nhNAnVZRsY66jqVOwaAvcw56ZvPUCrVAfunNJElZHefuLLobURHN31hS1sn8+HTRE96N9T28wIq0Re9GnPBWDDRWI9MY9Hal9HO0kX6FuMuu7ZsAPAOmKe4OE0n2IhnrbDCLtXFBjbA4ilVlSu5eSQEdoD4woxATdKlnhyRhNNL8bLccsAEnyFAaHG5h/IGfgX/kC8JKq6v9Q+bSkMTsf2GaxFIXieyNYjjnnoD99J+i+W66EAZH8dC1ASI1DEPOxb1UAO+35e4DctynQmQ44QP5LB7M="
       ]
     },
     "decrypted": {
-      "Id": "d9d87feb-0651-4f53-b838-705b473f5219",
-      "Date": "2026-09-19T00:00:00Z",
+      "Id": "671486c0-83da-4180-bdeb-63d74c9a4827",
+      "Date": "2026-09-20T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "truck",
-      "NormalizedPassword": "truck",
+      "Password": "bliss",
+      "NormalizedPassword": "bliss",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-19T02:33:41.4920000+05:30",
-    "hash": "0d2555406e0f8e53953621d5fc939af1",
+    "dtu": "2026-09-20T02:22:18.5310000+05:30",
+    "hash": "890858c518971e9258e5d492e3fbe620",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
