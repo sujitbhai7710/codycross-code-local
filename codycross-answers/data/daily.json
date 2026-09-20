@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T20:52:18.531Z",
+  "generatedAt": "2026-09-20T20:57:14.880Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 20
+    "day": 21
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 36
+        "QuantidadeDeFases": 38
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440823,427 +440823,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-20",
+      "key": "2026-09-21",
       "year": 2026,
       "month": 9,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "1ab10691-301b-4bcf-9ed6-4ede627b0d8a",
+        "puzzleId": "51765876-6767-4840-8dfb-ad29e5ee0a8d",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "f9ceaa27-15b7-4ddf-9d93-2f8d13d34466",
-            "clue": "Deceptive ploy to gain money or personal details",
-            "answer": "scam",
-            "normalized": "scam"
+            "id": "98615f08-9e85-469b-91a1-80cfe4f4a5b0",
+            "clue": "Profound, or a very long hole in the ground",
+            "answer": "deep",
+            "normalized": "deep"
           },
           {
-            "id": "0e56b573-50b6-41a4-b432-928304a77ccd",
-            "clue": "Makes money in a job",
-            "answer": "earns",
-            "normalized": "earns"
+            "id": "60e7e9d7-c07f-4d5c-8aa2-f5abd77d0cfc",
+            "clue": "Sesame Street's lovable, ticklish, red monster",
+            "answer": "elmo",
+            "normalized": "elmo"
           },
           {
-            "id": "4ef139af-7b99-4345-aae5-12eb23cd43b3",
-            "clue": "Stuck to food like plastic wrap or film",
-            "answer": "clung",
-            "normalized": "clung"
+            "id": "d0c8c3b5-f89c-45f4-a553-fd6b291a3c50",
+            "clue": "Chest bones",
+            "answer": "ribs",
+            "normalized": "ribs"
           },
           {
-            "id": "e9078949-bc52-4250-acfc-8ea073b01650",
-            "clue": "Tree on Lebanon's flag",
-            "answer": "cedar",
-            "normalized": "cedar"
+            "id": "b9affefb-b0bf-48b5-b42f-cb0f340e6e04",
+            "clue": "Ex-British colony and naval base in the Med",
+            "answer": "malta",
+            "normalized": "malta"
           },
           {
-            "id": "1cf2519e-8269-4cfb-92ee-5a02827f6a38",
-            "clue": "Premonition of the future",
-            "answer": "omen",
-            "normalized": "omen"
+            "id": "bc756505-b084-4aa8-82ea-bd583b7bc0b2",
+            "clue": "Some experiments use salt to do this to clouds",
+            "answer": "seed",
+            "normalized": "seed"
           },
           {
-            "id": "1ca58726-6c7e-44ae-b9ca-e5d64ceca0d1",
-            "clue": "Centre of the Witch Trials in the United States",
-            "answer": "salem",
-            "normalized": "salem"
+            "id": "1cad4346-5c16-4592-be26-4c6de77a664e",
+            "clue": "Medical doctors, abbreviated",
+            "answer": "mds",
+            "normalized": "mds"
           },
           {
-            "id": "52008a3f-d363-4403-83b1-3fb87dc90e84",
-            "clue": "State of natural petroleum before it's refined",
-            "answer": "crude",
-            "normalized": "crude"
+            "id": "04aba8ff-57f2-4e73-b90e-5b38ee70b19d",
+            "clue": "Medical root word pertaining to the skin",
+            "answer": "derm",
+            "normalized": "derm"
           },
           {
-            "id": "8cf59849-506e-4b89-a85a-b37dfd908b79",
-            "clue": "Former UN secretary-general Kofi",
-            "answer": "annan",
-            "normalized": "annan"
+            "id": "1c00b899-6718-441c-9262-ab373351c874",
+            "clue": "Greek equivalent of Elijah",
+            "answer": "elias",
+            "normalized": "elias"
           },
           {
-            "id": "9ca5728c-e9e3-4b72-9e33-83ff019e853c",
-            "clue": "Abbreviation for Monsignor",
-            "answer": "msgr",
-            "normalized": "msgr"
+            "id": "79131d29-7cac-4b83-b948-36c15c911779",
+            "clue": "A device or symbol used as an identifying mark",
+            "answer": "emblem",
+            "normalized": "emblem"
           },
           {
-            "id": "4480a635-c720-4419-b3a0-5a5e47ec458c",
-            "clue": "Danish brand of comfortable shoes",
-            "answer": "ecco",
-            "normalized": "ecco"
+            "id": "f3c56e1d-43eb-4185-b18f-b5eb8d640268",
+            "clue": "Mailed",
+            "answer": "posted",
+            "normalized": "posted"
+          },
+          {
+            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
+            "clue": "TV commercials",
+            "answer": "ads",
+            "normalized": "ads"
           }
         ],
-        "track": "PC|LenC--Y2026M9D20F0"
+        "track": "PC|LenC--Y2026M9D21F0"
       },
       "mid": {
-        "puzzleId": "71e380cd-5f3f-463d-8bf0-8dbf278f3ee0",
+        "puzzleId": "35b015ee-c7d8-4542-b939-50b6fe331d32",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "efb1ec60-1175-4cbb-b62e-63c61ca4db33",
-            "clue": "Psychedelic rock band that sang Electric Feel",
-            "answer": "mgmt",
-            "normalized": "mgmt"
+            "id": "40696e45-3c11-4b86-9370-68aef46620f6",
+            "clue": "Not good",
+            "answer": "bad",
+            "normalized": "bad"
           },
           {
-            "id": "004eb133-86da-4aa8-96f5-3ba8ddf1fd8c",
-            "clue": "Use one's eyes",
-            "answer": "see",
-            "normalized": "see"
+            "id": "2907d806-aa44-4f2f-a806-b54e8a037388",
+            "clue": "Latin name for the region called Gaul",
+            "answer": "gallia",
+            "normalized": "gallia"
           },
           {
-            "id": "eb475e58-abdb-4125-8113-966384523cda",
-            "clue": "Weasel-like marine mammal native to North Pacific",
-            "answer": "sea otter",
-            "normalized": "seaotter"
+            "id": "ce3acd1a-fb47-42f9-9b07-2206d1031bfd",
+            "clue": "Gently hitting a golf ball into the hole",
+            "answer": "putting",
+            "normalized": "putting"
           },
           {
-            "id": "cd84be72-1fc1-40a7-a9ea-ec2f501cb5b2",
-            "clue": "One who refuses to take an oath",
-            "answer": "nonjuror",
-            "normalized": "nonjuror"
+            "id": "29dfae89-6c41-40a0-bed9-86c45862dd40",
+            "clue": "White vestment worn by Christian priests",
+            "answer": "alb",
+            "normalized": "alb"
           },
           {
-            "id": "259f3726-2bde-4e22-a59a-5292e777a5f9",
-            "clue": "Where Scarlett O'Hara lived",
-            "answer": "tara",
-            "normalized": "tara"
+            "id": "00b467e4-2c16-4028-8293-0345112f348e",
+            "clue": "French for (male) friend",
+            "answer": "ami",
+            "normalized": "ami"
           },
           {
-            "id": "56671ea2-73d1-4fd4-a286-6878c7f5cd86",
-            "clue": "Luck of __, fortune endowed to the Emerald Isle",
-            "answer": "the irish",
-            "normalized": "theirish"
+            "id": "9362388f-bbc5-436e-9639-13448f2f0142",
+            "clue": "UK measure of inflation, retail price index",
+            "answer": "rpi",
+            "normalized": "rpi"
           },
           {
-            "id": "f3cdb224-1b86-4716-bd20-1aa72ab3b3c3",
-            "clue": "French-speaking region of Belgium",
-            "answer": "wallonia",
-            "normalized": "wallonia"
+            "id": "4fc15c02-0443-4620-aa33-f48128901b5f",
+            "clue": "The Roman sun god",
+            "answer": "sol",
+            "normalized": "sol"
           },
           {
-            "id": "4a0a8ad9-4a5d-4f3c-99df-b170671963e6",
-            "clue": "Government-funded UK medical service in short",
-            "answer": "nhs",
-            "normalized": "nhs"
+            "id": "ca253735-5a5b-48b4-b244-a5289e02dfbe",
+            "clue": "Ottey, Jamaican-born Slovenian sprinter",
+            "answer": "merlene",
+            "normalized": "merlene"
           },
           {
-            "id": "17d261a1-f477-4c00-8d70-0531daae76dc",
-            "clue": "Risqué internet content, not to be viewed at work",
-            "answer": "nsfw",
-            "normalized": "nsfw"
+            "id": "997a1fcb-0bc0-4339-94bb-5148617ab8c3",
+            "clue": "Person who creates visual pieces",
+            "answer": "artist",
+            "normalized": "artist"
           },
           {
-            "id": "fd7e7bff-d90f-4d76-9e26-2c02fe374c12",
-            "clue": "Microsoft web and news portal",
-            "answer": "msn",
-            "normalized": "msn"
+            "id": "370a87ee-9e53-4c3a-9502-8fe192538650",
+            "clue": "Feminine pronoun",
+            "answer": "she",
+            "normalized": "she"
           },
           {
-            "id": "e9d361dd-aed1-4c44-ab36-01c579201c41",
-            "clue": "Relating to the earth",
-            "answer": "geo",
-            "normalized": "geo"
+            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
+            "clue": "Sandwich made with bacon, lettuce and tomato",
+            "answer": "blt",
+            "normalized": "blt"
           },
           {
-            "id": "307560a6-0af6-44d7-8901-60e7eef7ab65",
-            "clue": "Fireplace frames",
-            "answer": "mantels",
-            "normalized": "mantels"
+            "id": "9ae681fa-0a9d-43c8-899e-143c594ff696",
+            "clue": "Different fake names used by criminals",
+            "answer": "aliases",
+            "normalized": "aliases"
           },
           {
-            "id": "92e687c8-12b8-47e8-8eaa-1f7afc7869d6",
-            "clue": "Go __, go directly there, do not pass Go!",
-            "answer": "to jail",
-            "normalized": "tojail"
+            "id": "b4b70536-4873-4aff-9b99-fbf04e96c3fb",
+            "clue": "Dandie __, short-legged terrier with a long body",
+            "answer": "dinmont",
+            "normalized": "dinmont"
           },
           {
-            "id": "27990270-2ed0-443a-8045-8d486fe7f0d2",
-            "clue": "Synonym of separates, eg leaves from tea",
-            "answer": "strains",
-            "normalized": "strains"
+            "id": "abd3e8a2-19dd-43d0-a651-6d44d7c28ead",
+            "clue": "Quick drinkers",
+            "answer": "gulpers",
+            "normalized": "gulpers"
           },
           {
-            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
-            "clue": "Equal employment opportunity, initialism",
-            "answer": "eeo",
-            "normalized": "eeo"
+            "id": "d3b4e20b-b149-4a07-9ee7-6c162bbab385",
+            "clue": "Separated __?; unrelated people who look alike",
+            "answer": "at birth",
+            "normalized": "atbirth"
           },
           {
-            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
-            "clue": "To __ is human",
-            "answer": "err",
-            "normalized": "err"
+            "id": "9d793d4a-8d71-4cd2-bb6f-42890e7db435",
+            "clue": "Nimble, quick-moving like a ninja",
+            "answer": "agile",
+            "normalized": "agile"
           },
           {
-            "id": "e0d1f3cb-b5d3-4180-a0b6-3f9dc53c6f2f",
-            "clue": "Spanish nougaty almond sweet, either hard or soft",
-            "answer": "turron",
-            "normalized": "turron"
+            "id": "25d4df31-43a1-42c8-9229-00cf66a69b2c",
+            "clue": "City in northern Italy with ancient university",
+            "answer": "parma",
+            "normalized": "parma"
           },
           {
-            "id": "77f18281-58b6-463d-9ee4-120a1a2bfcc4",
-            "clue": "Three-letter alpha code for Taiwan",
-            "answer": "twn",
-            "normalized": "twn"
-          },
-          {
-            "id": "8baa7437-d481-4932-a936-01b9440c0ead",
-            "clue": "Word expressing triumphant laughter",
-            "answer": "hah",
-            "normalized": "hah"
-          },
-          {
-            "id": "6adc4e1b-2403-4470-b1d3-fe639b68e492",
-            "clue": "Thor's female warrior friend in Marvel",
-            "answer": "sif",
-            "normalized": "sif"
-          },
-          {
-            "id": "6bba1a7b-0b64-4705-bb36-2bf2cfa10348",
-            "clue": "Donkey sound, \"hee-__\"",
-            "answer": "haw",
-            "normalized": "haw"
+            "id": "106684cc-02dc-48aa-817b-a6b423709431",
+            "clue": "Tell a fib",
+            "answer": "lie",
+            "normalized": "lie"
           }
         ],
-        "track": "PC|LenC--Y2026M9D20F1"
+        "track": "PC|LenC--Y2026M9D21F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-20",
+      "key": "2026-09-21",
       "year": 2026,
       "month": 9,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "1ab10691-301b-4bcf-9ed6-4ede627b0d8a",
+        "puzzleId": "51765876-6767-4840-8dfb-ad29e5ee0a8d",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "f9ceaa27-15b7-4ddf-9d93-2f8d13d34466",
-            "clue": "Deceptive ploy to gain money or personal details",
-            "answer": "scam",
-            "normalized": "scam"
+            "id": "98615f08-9e85-469b-91a1-80cfe4f4a5b0",
+            "clue": "Profound, or a very long hole in the ground",
+            "answer": "deep",
+            "normalized": "deep"
           },
           {
-            "id": "0e56b573-50b6-41a4-b432-928304a77ccd",
-            "clue": "Makes money in a job",
-            "answer": "earns",
-            "normalized": "earns"
+            "id": "60e7e9d7-c07f-4d5c-8aa2-f5abd77d0cfc",
+            "clue": "Sesame Street's lovable, ticklish, red monster",
+            "answer": "elmo",
+            "normalized": "elmo"
           },
           {
-            "id": "4ef139af-7b99-4345-aae5-12eb23cd43b3",
-            "clue": "Stuck to food like plastic wrap or film",
-            "answer": "clung",
-            "normalized": "clung"
+            "id": "d0c8c3b5-f89c-45f4-a553-fd6b291a3c50",
+            "clue": "Chest bones",
+            "answer": "ribs",
+            "normalized": "ribs"
           },
           {
-            "id": "e9078949-bc52-4250-acfc-8ea073b01650",
-            "clue": "Tree on Lebanon's flag",
-            "answer": "cedar",
-            "normalized": "cedar"
+            "id": "b9affefb-b0bf-48b5-b42f-cb0f340e6e04",
+            "clue": "Ex-British colony and naval base in the Med",
+            "answer": "malta",
+            "normalized": "malta"
           },
           {
-            "id": "1cf2519e-8269-4cfb-92ee-5a02827f6a38",
-            "clue": "Premonition of the future",
-            "answer": "omen",
-            "normalized": "omen"
+            "id": "bc756505-b084-4aa8-82ea-bd583b7bc0b2",
+            "clue": "Some experiments use salt to do this to clouds",
+            "answer": "seed",
+            "normalized": "seed"
           },
           {
-            "id": "1ca58726-6c7e-44ae-b9ca-e5d64ceca0d1",
-            "clue": "Centre of the Witch Trials in the United States",
-            "answer": "salem",
-            "normalized": "salem"
+            "id": "1cad4346-5c16-4592-be26-4c6de77a664e",
+            "clue": "Medical doctors, abbreviated",
+            "answer": "mds",
+            "normalized": "mds"
           },
           {
-            "id": "52008a3f-d363-4403-83b1-3fb87dc90e84",
-            "clue": "State of natural petroleum before it's refined",
-            "answer": "crude",
-            "normalized": "crude"
+            "id": "04aba8ff-57f2-4e73-b90e-5b38ee70b19d",
+            "clue": "Medical root word pertaining to the skin",
+            "answer": "derm",
+            "normalized": "derm"
           },
           {
-            "id": "8cf59849-506e-4b89-a85a-b37dfd908b79",
-            "clue": "Former UN secretary-general Kofi",
-            "answer": "annan",
-            "normalized": "annan"
+            "id": "1c00b899-6718-441c-9262-ab373351c874",
+            "clue": "Greek equivalent of Elijah",
+            "answer": "elias",
+            "normalized": "elias"
           },
           {
-            "id": "9ca5728c-e9e3-4b72-9e33-83ff019e853c",
-            "clue": "Abbreviation for Monsignor",
-            "answer": "msgr",
-            "normalized": "msgr"
+            "id": "79131d29-7cac-4b83-b948-36c15c911779",
+            "clue": "A device or symbol used as an identifying mark",
+            "answer": "emblem",
+            "normalized": "emblem"
           },
           {
-            "id": "4480a635-c720-4419-b3a0-5a5e47ec458c",
-            "clue": "Danish brand of comfortable shoes",
-            "answer": "ecco",
-            "normalized": "ecco"
+            "id": "f3c56e1d-43eb-4185-b18f-b5eb8d640268",
+            "clue": "Mailed",
+            "answer": "posted",
+            "normalized": "posted"
+          },
+          {
+            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
+            "clue": "TV commercials",
+            "answer": "ads",
+            "normalized": "ads"
           }
         ],
-        "track": "PC|LenC--Y2026M9D20F0"
+        "track": "PC|LenC--Y2026M9D21F0"
       },
       "mid": {
-        "puzzleId": "71e380cd-5f3f-463d-8bf0-8dbf278f3ee0",
+        "puzzleId": "35b015ee-c7d8-4542-b939-50b6fe331d32",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "efb1ec60-1175-4cbb-b62e-63c61ca4db33",
-            "clue": "Psychedelic rock band that sang Electric Feel",
-            "answer": "mgmt",
-            "normalized": "mgmt"
+            "id": "40696e45-3c11-4b86-9370-68aef46620f6",
+            "clue": "Not good",
+            "answer": "bad",
+            "normalized": "bad"
           },
           {
-            "id": "004eb133-86da-4aa8-96f5-3ba8ddf1fd8c",
-            "clue": "Use one's eyes",
-            "answer": "see",
-            "normalized": "see"
+            "id": "2907d806-aa44-4f2f-a806-b54e8a037388",
+            "clue": "Latin name for the region called Gaul",
+            "answer": "gallia",
+            "normalized": "gallia"
           },
           {
-            "id": "eb475e58-abdb-4125-8113-966384523cda",
-            "clue": "Weasel-like marine mammal native to North Pacific",
-            "answer": "sea otter",
-            "normalized": "seaotter"
+            "id": "ce3acd1a-fb47-42f9-9b07-2206d1031bfd",
+            "clue": "Gently hitting a golf ball into the hole",
+            "answer": "putting",
+            "normalized": "putting"
           },
           {
-            "id": "cd84be72-1fc1-40a7-a9ea-ec2f501cb5b2",
-            "clue": "One who refuses to take an oath",
-            "answer": "nonjuror",
-            "normalized": "nonjuror"
+            "id": "29dfae89-6c41-40a0-bed9-86c45862dd40",
+            "clue": "White vestment worn by Christian priests",
+            "answer": "alb",
+            "normalized": "alb"
           },
           {
-            "id": "259f3726-2bde-4e22-a59a-5292e777a5f9",
-            "clue": "Where Scarlett O'Hara lived",
-            "answer": "tara",
-            "normalized": "tara"
+            "id": "00b467e4-2c16-4028-8293-0345112f348e",
+            "clue": "French for (male) friend",
+            "answer": "ami",
+            "normalized": "ami"
           },
           {
-            "id": "56671ea2-73d1-4fd4-a286-6878c7f5cd86",
-            "clue": "Luck of __, fortune endowed to the Emerald Isle",
-            "answer": "the irish",
-            "normalized": "theirish"
+            "id": "9362388f-bbc5-436e-9639-13448f2f0142",
+            "clue": "UK measure of inflation, retail price index",
+            "answer": "rpi",
+            "normalized": "rpi"
           },
           {
-            "id": "f3cdb224-1b86-4716-bd20-1aa72ab3b3c3",
-            "clue": "French-speaking region of Belgium",
-            "answer": "wallonia",
-            "normalized": "wallonia"
+            "id": "4fc15c02-0443-4620-aa33-f48128901b5f",
+            "clue": "The Roman sun god",
+            "answer": "sol",
+            "normalized": "sol"
           },
           {
-            "id": "4a0a8ad9-4a5d-4f3c-99df-b170671963e6",
-            "clue": "Government-funded UK medical service in short",
-            "answer": "nhs",
-            "normalized": "nhs"
+            "id": "ca253735-5a5b-48b4-b244-a5289e02dfbe",
+            "clue": "Ottey, Jamaican-born Slovenian sprinter",
+            "answer": "merlene",
+            "normalized": "merlene"
           },
           {
-            "id": "17d261a1-f477-4c00-8d70-0531daae76dc",
-            "clue": "Risqué internet content, not to be viewed at work",
-            "answer": "nsfw",
-            "normalized": "nsfw"
+            "id": "997a1fcb-0bc0-4339-94bb-5148617ab8c3",
+            "clue": "Person who creates visual pieces",
+            "answer": "artist",
+            "normalized": "artist"
           },
           {
-            "id": "fd7e7bff-d90f-4d76-9e26-2c02fe374c12",
-            "clue": "Microsoft web and news portal",
-            "answer": "msn",
-            "normalized": "msn"
+            "id": "370a87ee-9e53-4c3a-9502-8fe192538650",
+            "clue": "Feminine pronoun",
+            "answer": "she",
+            "normalized": "she"
           },
           {
-            "id": "e9d361dd-aed1-4c44-ab36-01c579201c41",
-            "clue": "Relating to the earth",
-            "answer": "geo",
-            "normalized": "geo"
+            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
+            "clue": "Sandwich made with bacon, lettuce and tomato",
+            "answer": "blt",
+            "normalized": "blt"
           },
           {
-            "id": "307560a6-0af6-44d7-8901-60e7eef7ab65",
-            "clue": "Fireplace frames",
-            "answer": "mantels",
-            "normalized": "mantels"
+            "id": "9ae681fa-0a9d-43c8-899e-143c594ff696",
+            "clue": "Different fake names used by criminals",
+            "answer": "aliases",
+            "normalized": "aliases"
           },
           {
-            "id": "92e687c8-12b8-47e8-8eaa-1f7afc7869d6",
-            "clue": "Go __, go directly there, do not pass Go!",
-            "answer": "to jail",
-            "normalized": "tojail"
+            "id": "b4b70536-4873-4aff-9b99-fbf04e96c3fb",
+            "clue": "Dandie __, short-legged terrier with a long body",
+            "answer": "dinmont",
+            "normalized": "dinmont"
           },
           {
-            "id": "27990270-2ed0-443a-8045-8d486fe7f0d2",
-            "clue": "Synonym of separates, eg leaves from tea",
-            "answer": "strains",
-            "normalized": "strains"
+            "id": "abd3e8a2-19dd-43d0-a651-6d44d7c28ead",
+            "clue": "Quick drinkers",
+            "answer": "gulpers",
+            "normalized": "gulpers"
           },
           {
-            "id": "04a89f7b-c167-4feb-b73d-0514a2acfac7",
-            "clue": "Equal employment opportunity, initialism",
-            "answer": "eeo",
-            "normalized": "eeo"
+            "id": "d3b4e20b-b149-4a07-9ee7-6c162bbab385",
+            "clue": "Separated __?; unrelated people who look alike",
+            "answer": "at birth",
+            "normalized": "atbirth"
           },
           {
-            "id": "223d6b8e-5005-4f4e-9a11-bfc2c44ed068",
-            "clue": "To __ is human",
-            "answer": "err",
-            "normalized": "err"
+            "id": "9d793d4a-8d71-4cd2-bb6f-42890e7db435",
+            "clue": "Nimble, quick-moving like a ninja",
+            "answer": "agile",
+            "normalized": "agile"
           },
           {
-            "id": "e0d1f3cb-b5d3-4180-a0b6-3f9dc53c6f2f",
-            "clue": "Spanish nougaty almond sweet, either hard or soft",
-            "answer": "turron",
-            "normalized": "turron"
+            "id": "25d4df31-43a1-42c8-9229-00cf66a69b2c",
+            "clue": "City in northern Italy with ancient university",
+            "answer": "parma",
+            "normalized": "parma"
           },
           {
-            "id": "77f18281-58b6-463d-9ee4-120a1a2bfcc4",
-            "clue": "Three-letter alpha code for Taiwan",
-            "answer": "twn",
-            "normalized": "twn"
-          },
-          {
-            "id": "8baa7437-d481-4932-a936-01b9440c0ead",
-            "clue": "Word expressing triumphant laughter",
-            "answer": "hah",
-            "normalized": "hah"
-          },
-          {
-            "id": "6adc4e1b-2403-4470-b1d3-fe639b68e492",
-            "clue": "Thor's female warrior friend in Marvel",
-            "answer": "sif",
-            "normalized": "sif"
-          },
-          {
-            "id": "6bba1a7b-0b64-4705-bb36-2bf2cfa10348",
-            "clue": "Donkey sound, \"hee-__\"",
-            "answer": "haw",
-            "normalized": "haw"
+            "id": "106684cc-02dc-48aa-817b-a6b423709431",
+            "clue": "Tell a fib",
+            "answer": "lie",
+            "normalized": "lie"
           }
         ],
-        "track": "PC|LenC--Y2026M9D20F1"
+        "track": "PC|LenC--Y2026M9D21F1"
       }
     },
     "latestAvailableEntry": {
@@ -441449,21 +441425,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "wJcumg6l8QCYSv+nhNAnVZRsY66jqVOwaAvcw56ZvPUCrVAfunNJElZHefuLLobURHN31hS1sn8+HTRE96N9T28wIq0Re9GnPBWDDRWI9MY9Hal9HO0kX6FuMuu7ZsAPAOmKe4OE0n2IhnrbDCLtXFBjbA4ilVlSu5eSQEdoD4woxATdKlnhyRhNNL8bLccsAEnyFAaHG5h/IGfgX/kC8JKq6v9Q+bSkMTsf2GaxFIXieyNYjjnnoD99J+i+W66EAZH8dC1ASI1DEPOxb1UAO+35e4DctynQmQ44QP5LB7M="
+        "a/3/jiwRD1efPqeIxg7ZKPqhXQXnrOCsrG9xKhaqpaJJvouMqYSSQ6jvcaDspsOgijgro3tVGBlvdCRTQdP11DTVGmkHWrjicQQ6wQD8w13S1u4FnM3m0JF5rhZuCFGs21HEA5uu19q4Hqs7jXpjWFDGKVZCzPRLEt3t3LPLmLl/fCPztFtJf0chr+AmkkiRBuIC3fL+91Xzi8tH8NDCMqNAN5J5hsgOy3qRL7l4vdvUMv7OVUb41K2AWc/1hUT3fhXIb7AhagQ5gojNtL17ohxjyBRNf3riRdPaPuqYglo="
       ]
     },
     "decrypted": {
-      "Id": "671486c0-83da-4180-bdeb-63d74c9a4827",
-      "Date": "2026-09-20T00:00:00Z",
+      "Id": "67f99131-f5b1-4a96-8e99-73e6868388e9",
+      "Date": "2026-09-21T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "bliss",
-      "NormalizedPassword": "bliss",
+      "Password": "gloom",
+      "NormalizedPassword": "gloom",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-20T02:22:18.5310000+05:30",
-    "hash": "890858c518971e9258e5d492e3fbe620",
+    "dtu": "2026-09-21T02:27:14.8800000+05:30",
+    "hash": "0b76ee3cfdeef55c5a52b2a668382516",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
