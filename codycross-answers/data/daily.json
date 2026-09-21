@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T20:57:14.880Z",
+  "generatedAt": "2026-09-21T22:05:15.027Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 21
+    "day": 22
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 38
+        "QuantidadeDeFases": 40
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -117093,7 +117093,7 @@
             },
             {
               "id": "147cb54d-f2e1-40cc-b591-fe9beb3d71a6",
-              "clue": "Further studies in Engineering Management, abbr.",
+              "clue": "Engineering Management master's degree, abbr.",
               "answer": "mem",
               "normalized": "mem"
             },
@@ -117247,7 +117247,7 @@
             },
             {
               "id": "147cb54d-f2e1-40cc-b591-fe9beb3d71a6",
-              "clue": "Further studies in Engineering Management, abbr.",
+              "clue": "Engineering Management master's degree, abbr.",
               "answer": "mem",
               "normalized": "mem"
             },
@@ -142351,7 +142351,7 @@
             },
             {
               "id": "147cb54d-f2e1-40cc-b591-fe9beb3d71a6",
-              "clue": "Further studies in Engineering Management, abbr.",
+              "clue": "Engineering Management master's degree, abbr.",
               "answer": "mem",
               "normalized": "mem"
             },
@@ -154972,7 +154972,7 @@
             },
             {
               "id": "147cb54d-f2e1-40cc-b591-fe9beb3d71a6",
-              "clue": "Further studies in Engineering Management, abbr.",
+              "clue": "Engineering Management master's degree, abbr.",
               "answer": "mem",
               "normalized": "mem"
             },
@@ -172226,7 +172226,7 @@
             },
             {
               "id": "147cb54d-f2e1-40cc-b591-fe9beb3d71a6",
-              "clue": "Further studies in Engineering Management, abbr.",
+              "clue": "Engineering Management master's degree, abbr.",
               "answer": "mem",
               "normalized": "mem"
             },
@@ -185277,7 +185277,7 @@
             },
             {
               "id": "147cb54d-f2e1-40cc-b591-fe9beb3d71a6",
-              "clue": "Further studies in Engineering Management, abbr.",
+              "clue": "Engineering Management master's degree, abbr.",
               "answer": "mem",
               "normalized": "mem"
             },
@@ -250275,7 +250275,7 @@
             },
             {
               "id": "147cb54d-f2e1-40cc-b591-fe9beb3d71a6",
-              "clue": "Further studies in Engineering Management, abbr.",
+              "clue": "Engineering Management master's degree, abbr.",
               "answer": "mem",
               "normalized": "mem"
             },
@@ -440823,403 +440823,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-21",
+      "key": "2026-09-22",
       "year": 2026,
       "month": 9,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "51765876-6767-4840-8dfb-ad29e5ee0a8d",
+        "puzzleId": "4639baec-d055-459c-be1a-be1fd67a352c",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "98615f08-9e85-469b-91a1-80cfe4f4a5b0",
-            "clue": "Profound, or a very long hole in the ground",
-            "answer": "deep",
-            "normalized": "deep"
+            "id": "c49b4cff-13a0-4fc9-aec8-ecd6e7799252",
+            "clue": "Workers in a NASCAR pit or a Broadway set",
+            "answer": "crew",
+            "normalized": "crew"
           },
           {
-            "id": "60e7e9d7-c07f-4d5c-8aa2-f5abd77d0cfc",
-            "clue": "Sesame Street's lovable, ticklish, red monster",
-            "answer": "elmo",
-            "normalized": "elmo"
+            "id": "fe7e3983-09a1-4656-bfd6-ae73e75f5d8a",
+            "clue": "Long mirror that sounds like a French horse",
+            "answer": "cheval",
+            "normalized": "cheval"
           },
           {
-            "id": "d0c8c3b5-f89c-45f4-a553-fd6b291a3c50",
-            "clue": "Chest bones",
-            "answer": "ribs",
-            "normalized": "ribs"
+            "id": "99629c70-c7c4-494e-8ba9-21de3660c320",
+            "clue": "Easy or effortless, in French",
+            "answer": "facile",
+            "normalized": "facile"
           },
           {
-            "id": "b9affefb-b0bf-48b5-b42f-cb0f340e6e04",
-            "clue": "Ex-British colony and naval base in the Med",
-            "answer": "malta",
-            "normalized": "malta"
+            "id": "a695fc5a-bd13-43e9-9274-38a2203091bb",
+            "clue": "Small, not big",
+            "answer": "little",
+            "normalized": "little"
           },
           {
-            "id": "bc756505-b084-4aa8-82ea-bd583b7bc0b2",
-            "clue": "Some experiments use salt to do this to clouds",
-            "answer": "seed",
-            "normalized": "seed"
+            "id": "8b0996b1-0de5-4275-82aa-484ae5a93bd4",
+            "clue": "Negative votes or answers",
+            "answer": "noes",
+            "normalized": "noes"
           },
           {
-            "id": "1cad4346-5c16-4592-be26-4c6de77a664e",
-            "clue": "Medical doctors, abbreviated",
-            "answer": "mds",
-            "normalized": "mds"
+            "id": "f834046f-0beb-4da8-a20f-f2a89bd7be5c",
+            "clue": "Ball and __\", from a way to restrain prisoners",
+            "answer": "chain",
+            "normalized": "chain"
           },
           {
-            "id": "04aba8ff-57f2-4e73-b90e-5b38ee70b19d",
-            "clue": "Medical root word pertaining to the skin",
-            "answer": "derm",
-            "normalized": "derm"
+            "id": "a875ebf3-e473-4b7e-908b-e4b34cd215b5",
+            "clue": "Front side of a leaf of paper",
+            "answer": "recto",
+            "normalized": "recto"
           },
           {
-            "id": "1c00b899-6718-441c-9262-ab373351c874",
-            "clue": "Greek equivalent of Elijah",
-            "answer": "elias",
-            "normalized": "elias"
+            "id": "a0be93c4-337b-43b1-84a0-958481472fd5",
+            "clue": "Digital save the date",
+            "answer": "evite",
+            "normalized": "evite"
           },
           {
-            "id": "79131d29-7cac-4b83-b948-36c15c911779",
-            "clue": "A device or symbol used as an identifying mark",
-            "answer": "emblem",
-            "normalized": "emblem"
+            "id": "5e5643e2-5e07-4f6f-a075-827b43bd03ee",
+            "clue": "Vertical structures that make up a house",
+            "answer": "walls",
+            "normalized": "walls"
           },
           {
-            "id": "f3c56e1d-43eb-4185-b18f-b5eb8d640268",
-            "clue": "Mailed",
-            "answer": "posted",
-            "normalized": "posted"
+            "id": "ed8d54cd-b7d8-45ec-b2c0-b4c07421dcf4",
+            "clue": "Initialism for the Canadian Football League",
+            "answer": "cfl",
+            "normalized": "cfl"
           },
           {
-            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
-            "clue": "TV commercials",
-            "answer": "ads",
-            "normalized": "ads"
+            "id": "9934259f-4bc5-48e5-b95a-4eff6a412b5b",
+            "clue": "Martial arts master Bruce __",
+            "answer": "lee",
+            "normalized": "lee"
           }
         ],
-        "track": "PC|LenC--Y2026M9D21F0"
+        "track": "PC|LenC--Y2026M9D22F0"
       },
       "mid": {
-        "puzzleId": "35b015ee-c7d8-4542-b939-50b6fe331d32",
+        "puzzleId": "d4a8acf4-b629-438a-99e3-5a85b06d69f1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "40696e45-3c11-4b86-9370-68aef46620f6",
-            "clue": "Not good",
-            "answer": "bad",
-            "normalized": "bad"
+            "id": "ca865469-9270-4f76-ad13-735e7e9ae867",
+            "clue": "Initials of the band behind Proud Mary",
+            "answer": "ccr",
+            "normalized": "ccr"
           },
           {
-            "id": "2907d806-aa44-4f2f-a806-b54e8a037388",
-            "clue": "Latin name for the region called Gaul",
-            "answer": "gallia",
-            "normalized": "gallia"
+            "id": "4642f596-0f3e-4ffd-8897-a0bc62a9f067",
+            "clue": "French wine term to indicate high-quality vineyard",
+            "answer": "cru",
+            "normalized": "cru"
           },
           {
-            "id": "ce3acd1a-fb47-42f9-9b07-2206d1031bfd",
-            "clue": "Gently hitting a golf ball into the hole",
-            "answer": "putting",
-            "normalized": "putting"
+            "id": "cfc18406-be4b-4f5b-9396-1da57f77539a",
+            "clue": "Japanese \"yes\"",
+            "answer": "hai",
+            "normalized": "hai"
           },
           {
-            "id": "29dfae89-6c41-40a0-bed9-86c45862dd40",
-            "clue": "White vestment worn by Christian priests",
-            "answer": "alb",
-            "normalized": "alb"
+            "id": "3616c381-4518-47e6-a3f2-4a7d9a9c459a",
+            "clue": "Fictional Mayor of Casterbridge: Michael __",
+            "answer": "henchard",
+            "normalized": "henchard"
           },
           {
-            "id": "00b467e4-2c16-4028-8293-0345112f348e",
-            "clue": "French for (male) friend",
-            "answer": "ami",
-            "normalized": "ami"
+            "id": "95595e4e-7429-44fa-8b63-4c021495fe63",
+            "clue": "Attributed to",
+            "answer": "ascribed",
+            "normalized": "ascribed"
           },
           {
-            "id": "9362388f-bbc5-436e-9639-13448f2f0142",
-            "clue": "UK measure of inflation, retail price index",
-            "answer": "rpi",
-            "normalized": "rpi"
+            "id": "eb59cb92-b481-40a9-9bba-941189253f1b",
+            "clue": "Someone who shares an accommodation with you",
+            "answer": "roommate",
+            "normalized": "roommate"
           },
           {
-            "id": "4fc15c02-0443-4620-aa33-f48128901b5f",
-            "clue": "The Roman sun god",
-            "answer": "sol",
-            "normalized": "sol"
+            "id": "07afb114-121e-4980-87c1-868dd7e88b60",
+            "clue": "Day-__, extremely bright yellow, orange or pink",
+            "answer": "glo",
+            "normalized": "glo"
           },
           {
-            "id": "ca253735-5a5b-48b4-b244-a5289e02dfbe",
-            "clue": "Ottey, Jamaican-born Slovenian sprinter",
-            "answer": "merlene",
-            "normalized": "merlene"
+            "id": "1ed8252b-331f-46ce-8175-369c2e6d9725",
+            "clue": "Deep Space Network, for short",
+            "answer": "dsn",
+            "normalized": "dsn"
           },
           {
-            "id": "997a1fcb-0bc0-4339-94bb-5148617ab8c3",
-            "clue": "Person who creates visual pieces",
-            "answer": "artist",
-            "normalized": "artist"
+            "id": "e04709e0-c3d6-4e13-b6ca-8ce5690411b4",
+            "clue": "Sushi unagi",
+            "answer": "eel",
+            "normalized": "eel"
           },
           {
-            "id": "370a87ee-9e53-4c3a-9502-8fe192538650",
-            "clue": "Feminine pronoun",
-            "answer": "she",
-            "normalized": "she"
+            "id": "5192ae27-62a2-4091-939c-f6eb154f0076",
+            "clue": "International group of Orthodox Jews: __-Lubavitch",
+            "answer": "chabad",
+            "normalized": "chabad"
           },
           {
-            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
-            "clue": "Sandwich made with bacon, lettuce and tomato",
-            "answer": "blt",
-            "normalized": "blt"
+            "id": "5cb69dd7-25e5-4c67-a5f2-e1bef959cdb2",
+            "clue": "Insertion marks in text",
+            "answer": "carets",
+            "normalized": "carets"
           },
           {
-            "id": "9ae681fa-0a9d-43c8-899e-143c594ff696",
-            "clue": "Different fake names used by criminals",
-            "answer": "aliases",
-            "normalized": "aliases"
+            "id": "7388d7bc-9279-4492-92d3-240de06c02a0",
+            "clue": "Angst-__; plagued by worry",
+            "answer": "ridden",
+            "normalized": "ridden"
           },
           {
-            "id": "b4b70536-4873-4aff-9b99-fbf04e96c3fb",
-            "clue": "Dandie __, short-legged terrier with a long body",
-            "answer": "dinmont",
-            "normalized": "dinmont"
+            "id": "4dfc06e6-220a-4bf9-8a75-eb717c52f1b0",
+            "clue": "The Light Brigade undertook a doomed one",
+            "answer": "charge",
+            "normalized": "charge"
           },
           {
-            "id": "abd3e8a2-19dd-43d0-a651-6d44d7c28ead",
-            "clue": "Quick drinkers",
-            "answer": "gulpers",
-            "normalized": "gulpers"
+            "id": "ab6a7895-1cce-4517-b0d5-7c0ef1577a29",
+            "clue": "Reapply the undersides of a shoe",
+            "answer": "resole",
+            "normalized": "resole"
           },
           {
-            "id": "d3b4e20b-b149-4a07-9ee7-6c162bbab385",
-            "clue": "Separated __?; unrelated people who look alike",
-            "answer": "at birth",
-            "normalized": "atbirth"
+            "id": "492069c9-92c9-4e6f-9f6a-b5d2840c3365",
+            "clue": "Not fashionable; cringeworthy",
+            "answer": "uncool",
+            "normalized": "uncool"
           },
           {
-            "id": "9d793d4a-8d71-4cd2-bb6f-42890e7db435",
-            "clue": "Nimble, quick-moving like a ninja",
-            "answer": "agile",
-            "normalized": "agile"
+            "id": "5d3a4928-2c75-40ae-afe8-72f0a5b9b76f",
+            "clue": "Customer relationship management in business",
+            "answer": "crm",
+            "normalized": "crm"
           },
           {
-            "id": "25d4df31-43a1-42c8-9229-00cf66a69b2c",
-            "clue": "City in northern Italy with ancient university",
-            "answer": "parma",
-            "normalized": "parma"
-          },
-          {
-            "id": "106684cc-02dc-48aa-817b-a6b423709431",
-            "clue": "Tell a fib",
-            "answer": "lie",
-            "normalized": "lie"
+            "id": "854e74ba-2313-4319-b282-062fbf5790a2",
+            "clue": "Opposite of her",
+            "answer": "him",
+            "normalized": "him"
           }
         ],
-        "track": "PC|LenC--Y2026M9D21F1"
+        "track": "PC|LenC--Y2026M9D22F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-21",
+      "key": "2026-09-22",
       "year": 2026,
       "month": 9,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "51765876-6767-4840-8dfb-ad29e5ee0a8d",
+        "puzzleId": "4639baec-d055-459c-be1a-be1fd67a352c",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "98615f08-9e85-469b-91a1-80cfe4f4a5b0",
-            "clue": "Profound, or a very long hole in the ground",
-            "answer": "deep",
-            "normalized": "deep"
+            "id": "c49b4cff-13a0-4fc9-aec8-ecd6e7799252",
+            "clue": "Workers in a NASCAR pit or a Broadway set",
+            "answer": "crew",
+            "normalized": "crew"
           },
           {
-            "id": "60e7e9d7-c07f-4d5c-8aa2-f5abd77d0cfc",
-            "clue": "Sesame Street's lovable, ticklish, red monster",
-            "answer": "elmo",
-            "normalized": "elmo"
+            "id": "fe7e3983-09a1-4656-bfd6-ae73e75f5d8a",
+            "clue": "Long mirror that sounds like a French horse",
+            "answer": "cheval",
+            "normalized": "cheval"
           },
           {
-            "id": "d0c8c3b5-f89c-45f4-a553-fd6b291a3c50",
-            "clue": "Chest bones",
-            "answer": "ribs",
-            "normalized": "ribs"
+            "id": "99629c70-c7c4-494e-8ba9-21de3660c320",
+            "clue": "Easy or effortless, in French",
+            "answer": "facile",
+            "normalized": "facile"
           },
           {
-            "id": "b9affefb-b0bf-48b5-b42f-cb0f340e6e04",
-            "clue": "Ex-British colony and naval base in the Med",
-            "answer": "malta",
-            "normalized": "malta"
+            "id": "a695fc5a-bd13-43e9-9274-38a2203091bb",
+            "clue": "Small, not big",
+            "answer": "little",
+            "normalized": "little"
           },
           {
-            "id": "bc756505-b084-4aa8-82ea-bd583b7bc0b2",
-            "clue": "Some experiments use salt to do this to clouds",
-            "answer": "seed",
-            "normalized": "seed"
+            "id": "8b0996b1-0de5-4275-82aa-484ae5a93bd4",
+            "clue": "Negative votes or answers",
+            "answer": "noes",
+            "normalized": "noes"
           },
           {
-            "id": "1cad4346-5c16-4592-be26-4c6de77a664e",
-            "clue": "Medical doctors, abbreviated",
-            "answer": "mds",
-            "normalized": "mds"
+            "id": "f834046f-0beb-4da8-a20f-f2a89bd7be5c",
+            "clue": "Ball and __\", from a way to restrain prisoners",
+            "answer": "chain",
+            "normalized": "chain"
           },
           {
-            "id": "04aba8ff-57f2-4e73-b90e-5b38ee70b19d",
-            "clue": "Medical root word pertaining to the skin",
-            "answer": "derm",
-            "normalized": "derm"
+            "id": "a875ebf3-e473-4b7e-908b-e4b34cd215b5",
+            "clue": "Front side of a leaf of paper",
+            "answer": "recto",
+            "normalized": "recto"
           },
           {
-            "id": "1c00b899-6718-441c-9262-ab373351c874",
-            "clue": "Greek equivalent of Elijah",
-            "answer": "elias",
-            "normalized": "elias"
+            "id": "a0be93c4-337b-43b1-84a0-958481472fd5",
+            "clue": "Digital save the date",
+            "answer": "evite",
+            "normalized": "evite"
           },
           {
-            "id": "79131d29-7cac-4b83-b948-36c15c911779",
-            "clue": "A device or symbol used as an identifying mark",
-            "answer": "emblem",
-            "normalized": "emblem"
+            "id": "5e5643e2-5e07-4f6f-a075-827b43bd03ee",
+            "clue": "Vertical structures that make up a house",
+            "answer": "walls",
+            "normalized": "walls"
           },
           {
-            "id": "f3c56e1d-43eb-4185-b18f-b5eb8d640268",
-            "clue": "Mailed",
-            "answer": "posted",
-            "normalized": "posted"
+            "id": "ed8d54cd-b7d8-45ec-b2c0-b4c07421dcf4",
+            "clue": "Initialism for the Canadian Football League",
+            "answer": "cfl",
+            "normalized": "cfl"
           },
           {
-            "id": "d129b103-f6e8-4ece-987b-d97aba21b1e0",
-            "clue": "TV commercials",
-            "answer": "ads",
-            "normalized": "ads"
+            "id": "9934259f-4bc5-48e5-b95a-4eff6a412b5b",
+            "clue": "Martial arts master Bruce __",
+            "answer": "lee",
+            "normalized": "lee"
           }
         ],
-        "track": "PC|LenC--Y2026M9D21F0"
+        "track": "PC|LenC--Y2026M9D22F0"
       },
       "mid": {
-        "puzzleId": "35b015ee-c7d8-4542-b939-50b6fe331d32",
+        "puzzleId": "d4a8acf4-b629-438a-99e3-5a85b06d69f1",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "40696e45-3c11-4b86-9370-68aef46620f6",
-            "clue": "Not good",
-            "answer": "bad",
-            "normalized": "bad"
+            "id": "ca865469-9270-4f76-ad13-735e7e9ae867",
+            "clue": "Initials of the band behind Proud Mary",
+            "answer": "ccr",
+            "normalized": "ccr"
           },
           {
-            "id": "2907d806-aa44-4f2f-a806-b54e8a037388",
-            "clue": "Latin name for the region called Gaul",
-            "answer": "gallia",
-            "normalized": "gallia"
+            "id": "4642f596-0f3e-4ffd-8897-a0bc62a9f067",
+            "clue": "French wine term to indicate high-quality vineyard",
+            "answer": "cru",
+            "normalized": "cru"
           },
           {
-            "id": "ce3acd1a-fb47-42f9-9b07-2206d1031bfd",
-            "clue": "Gently hitting a golf ball into the hole",
-            "answer": "putting",
-            "normalized": "putting"
+            "id": "cfc18406-be4b-4f5b-9396-1da57f77539a",
+            "clue": "Japanese \"yes\"",
+            "answer": "hai",
+            "normalized": "hai"
           },
           {
-            "id": "29dfae89-6c41-40a0-bed9-86c45862dd40",
-            "clue": "White vestment worn by Christian priests",
-            "answer": "alb",
-            "normalized": "alb"
+            "id": "3616c381-4518-47e6-a3f2-4a7d9a9c459a",
+            "clue": "Fictional Mayor of Casterbridge: Michael __",
+            "answer": "henchard",
+            "normalized": "henchard"
           },
           {
-            "id": "00b467e4-2c16-4028-8293-0345112f348e",
-            "clue": "French for (male) friend",
-            "answer": "ami",
-            "normalized": "ami"
+            "id": "95595e4e-7429-44fa-8b63-4c021495fe63",
+            "clue": "Attributed to",
+            "answer": "ascribed",
+            "normalized": "ascribed"
           },
           {
-            "id": "9362388f-bbc5-436e-9639-13448f2f0142",
-            "clue": "UK measure of inflation, retail price index",
-            "answer": "rpi",
-            "normalized": "rpi"
+            "id": "eb59cb92-b481-40a9-9bba-941189253f1b",
+            "clue": "Someone who shares an accommodation with you",
+            "answer": "roommate",
+            "normalized": "roommate"
           },
           {
-            "id": "4fc15c02-0443-4620-aa33-f48128901b5f",
-            "clue": "The Roman sun god",
-            "answer": "sol",
-            "normalized": "sol"
+            "id": "07afb114-121e-4980-87c1-868dd7e88b60",
+            "clue": "Day-__, extremely bright yellow, orange or pink",
+            "answer": "glo",
+            "normalized": "glo"
           },
           {
-            "id": "ca253735-5a5b-48b4-b244-a5289e02dfbe",
-            "clue": "Ottey, Jamaican-born Slovenian sprinter",
-            "answer": "merlene",
-            "normalized": "merlene"
+            "id": "1ed8252b-331f-46ce-8175-369c2e6d9725",
+            "clue": "Deep Space Network, for short",
+            "answer": "dsn",
+            "normalized": "dsn"
           },
           {
-            "id": "997a1fcb-0bc0-4339-94bb-5148617ab8c3",
-            "clue": "Person who creates visual pieces",
-            "answer": "artist",
-            "normalized": "artist"
+            "id": "e04709e0-c3d6-4e13-b6ca-8ce5690411b4",
+            "clue": "Sushi unagi",
+            "answer": "eel",
+            "normalized": "eel"
           },
           {
-            "id": "370a87ee-9e53-4c3a-9502-8fe192538650",
-            "clue": "Feminine pronoun",
-            "answer": "she",
-            "normalized": "she"
+            "id": "5192ae27-62a2-4091-939c-f6eb154f0076",
+            "clue": "International group of Orthodox Jews: __-Lubavitch",
+            "answer": "chabad",
+            "normalized": "chabad"
           },
           {
-            "id": "86d7d203-7c89-40c5-a0f9-be99e431289e",
-            "clue": "Sandwich made with bacon, lettuce and tomato",
-            "answer": "blt",
-            "normalized": "blt"
+            "id": "5cb69dd7-25e5-4c67-a5f2-e1bef959cdb2",
+            "clue": "Insertion marks in text",
+            "answer": "carets",
+            "normalized": "carets"
           },
           {
-            "id": "9ae681fa-0a9d-43c8-899e-143c594ff696",
-            "clue": "Different fake names used by criminals",
-            "answer": "aliases",
-            "normalized": "aliases"
+            "id": "7388d7bc-9279-4492-92d3-240de06c02a0",
+            "clue": "Angst-__; plagued by worry",
+            "answer": "ridden",
+            "normalized": "ridden"
           },
           {
-            "id": "b4b70536-4873-4aff-9b99-fbf04e96c3fb",
-            "clue": "Dandie __, short-legged terrier with a long body",
-            "answer": "dinmont",
-            "normalized": "dinmont"
+            "id": "4dfc06e6-220a-4bf9-8a75-eb717c52f1b0",
+            "clue": "The Light Brigade undertook a doomed one",
+            "answer": "charge",
+            "normalized": "charge"
           },
           {
-            "id": "abd3e8a2-19dd-43d0-a651-6d44d7c28ead",
-            "clue": "Quick drinkers",
-            "answer": "gulpers",
-            "normalized": "gulpers"
+            "id": "ab6a7895-1cce-4517-b0d5-7c0ef1577a29",
+            "clue": "Reapply the undersides of a shoe",
+            "answer": "resole",
+            "normalized": "resole"
           },
           {
-            "id": "d3b4e20b-b149-4a07-9ee7-6c162bbab385",
-            "clue": "Separated __?; unrelated people who look alike",
-            "answer": "at birth",
-            "normalized": "atbirth"
+            "id": "492069c9-92c9-4e6f-9f6a-b5d2840c3365",
+            "clue": "Not fashionable; cringeworthy",
+            "answer": "uncool",
+            "normalized": "uncool"
           },
           {
-            "id": "9d793d4a-8d71-4cd2-bb6f-42890e7db435",
-            "clue": "Nimble, quick-moving like a ninja",
-            "answer": "agile",
-            "normalized": "agile"
+            "id": "5d3a4928-2c75-40ae-afe8-72f0a5b9b76f",
+            "clue": "Customer relationship management in business",
+            "answer": "crm",
+            "normalized": "crm"
           },
           {
-            "id": "25d4df31-43a1-42c8-9229-00cf66a69b2c",
-            "clue": "City in northern Italy with ancient university",
-            "answer": "parma",
-            "normalized": "parma"
-          },
-          {
-            "id": "106684cc-02dc-48aa-817b-a6b423709431",
-            "clue": "Tell a fib",
-            "answer": "lie",
-            "normalized": "lie"
+            "id": "854e74ba-2313-4319-b282-062fbf5790a2",
+            "clue": "Opposite of her",
+            "answer": "him",
+            "normalized": "him"
           }
         ],
-        "track": "PC|LenC--Y2026M9D21F1"
+        "track": "PC|LenC--Y2026M9D22F1"
       }
     },
     "latestAvailableEntry": {
@@ -441425,21 +441413,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "a/3/jiwRD1efPqeIxg7ZKPqhXQXnrOCsrG9xKhaqpaJJvouMqYSSQ6jvcaDspsOgijgro3tVGBlvdCRTQdP11DTVGmkHWrjicQQ6wQD8w13S1u4FnM3m0JF5rhZuCFGs21HEA5uu19q4Hqs7jXpjWFDGKVZCzPRLEt3t3LPLmLl/fCPztFtJf0chr+AmkkiRBuIC3fL+91Xzi8tH8NDCMqNAN5J5hsgOy3qRL7l4vdvUMv7OVUb41K2AWc/1hUT3fhXIb7AhagQ5gojNtL17ohxjyBRNf3riRdPaPuqYglo="
+        "fIYk8YLiSnxPk3l/o4fipI/8LhJbFS4HESLeDwWEvhfU/q3H+H0TjtiIT/zRkBz1ZYjU02kEMbx7M58BasELL7qf2dl6IaIzVHu3UPFuZppBmUwEy9u0eP4evlHa3a9xBaZkYc4d/IquGmeY6UDJdI+hyZqT1OH9nfn9U2Nw22sFLzv4FACxA2qBe39t5zwtKsoQSBqvlKgMJNXowpWMTDvzj47pdifOEfUk5DCtNbaqmYZz4XM7MoXCe4hpSOxwRMO3VBE3rlat7CBE86X+tTWVsF3sEWhkV1tlrsMYL5w="
       ]
     },
     "decrypted": {
-      "Id": "67f99131-f5b1-4a96-8e99-73e6868388e9",
-      "Date": "2026-09-21T00:00:00Z",
+      "Id": "a2f624c8-89ae-454b-86c3-0d86f6ba3b01",
+      "Date": "2026-09-22T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "gloom",
-      "NormalizedPassword": "gloom",
+      "Password": "opera",
+      "NormalizedPassword": "opera",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 3,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-21T02:27:14.8800000+05:30",
-    "hash": "0b76ee3cfdeef55c5a52b2a668382516",
+    "dtu": "2026-09-22T03:35:15.0270000+05:30",
+    "hash": "1ab237ea281eb4e2f60385482ea33d1d",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
