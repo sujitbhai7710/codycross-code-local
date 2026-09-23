@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T21:31:18.778Z",
+  "generatedAt": "2026-09-23T21:37:11.359Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 23
+    "day": 24
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 42
+        "QuantidadeDeFases": 44
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440823,391 +440823,499 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-23",
+      "key": "2026-09-24",
       "year": 2026,
       "month": 9,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "48fb0961-0e3c-4416-8a43-b11096446ed3",
+        "puzzleId": "31f0dbe0-600c-49b9-bfa8-ed32a7294280",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "69c32204-622d-4726-84f4-d2578fc9c2da",
-            "clue": "US agency tasked with regulating financial markets",
-            "answer": "sec",
-            "normalized": "sec"
+            "id": "314b7b8c-c1da-49cc-88a6-4eafcc76d2c9",
+            "clue": "UK time zone for the non-winter months",
+            "answer": "bst",
+            "normalized": "bst"
           },
           {
-            "id": "65f739c2-5b1f-4bcf-b92d-4086aedacab4",
-            "clue": "Referring to two people or things together",
-            "answer": "both",
-            "normalized": "both"
+            "id": "c6ccec82-c568-4b00-ba6c-f201c393145b",
+            "clue": "What people beg for; rhymes with Percy",
+            "answer": "mercy",
+            "normalized": "mercy"
           },
           {
-            "id": "c608f004-740e-42f2-9056-7e114ace4fe7",
-            "clue": "NASA's weather-mapping instrument for Mars",
-            "answer": "marci",
-            "normalized": "marci"
+            "id": "2c52c6ab-53b4-41d9-aae7-40a33326e518",
+            "clue": "Separated from something",
+            "answer": "apart",
+            "normalized": "apart"
           },
           {
-            "id": "77307a28-3a7f-49cc-bf3f-977e9f1dcf2b",
-            "clue": "Singer Charlie, had a hit with See You Again",
-            "answer": "puth",
-            "normalized": "puth"
+            "id": "7d9c9336-ca5f-4ed3-b203-be1694a7948c",
+            "clue": "River flowing through St Petersburg",
+            "answer": "neva",
+            "normalized": "neva"
           },
           {
-            "id": "1256bc08-b78d-4539-89e3-9f57e55df0ff",
-            "clue": "Three letters seen before regal ship names",
-            "answer": "hms",
-            "normalized": "hms"
+            "id": "c7960fa6-3087-41c9-9145-30c857627d9f",
+            "clue": "Slowly ooze out of a container",
+            "answer": "seep",
+            "normalized": "seep"
           },
           {
-            "id": "aa5feaab-0b60-44d3-97cc-850087b06aa1",
-            "clue": "Arranges things into an order",
-            "answer": "sorts",
-            "normalized": "sorts"
+            "id": "3d73f2ca-ed1b-4cd2-a275-54bd2246111b",
+            "clue": "Courageous and valiant",
+            "answer": "brave",
+            "normalized": "brave"
           },
           {
-            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
-            "clue": "To engrave with a technique that uses acid",
-            "answer": "etch",
-            "normalized": "etch"
+            "id": "8ee9e457-76a1-4f0d-876c-d89140738f2d",
+            "clue": "A leftover piece of paper for example",
+            "answer": "scrap",
+            "normalized": "scrap"
           },
           {
-            "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
-            "clue": "Energy in our bodies in Chinese medicine tradition",
-            "answer": "chi",
-            "normalized": "chi"
+            "id": "256b2b52-ee6b-42cb-be67-7129a7837a1f",
+            "clue": "Internet abbreviation for take your time",
+            "answer": "tyt",
+            "normalized": "tyt"
           },
           {
-            "id": "d25ac646-b507-4fd7-9f17-d2228d712c38",
-            "clue": "This Frank wrote of the World of Oz",
-            "answer": "baum",
-            "normalized": "baum"
+            "id": "75a72b0a-9fdb-43aa-9d4e-d1b41fa59a3b",
+            "clue": "Le __, French city with 24-hour motor race",
+            "answer": "mans",
+            "normalized": "mans"
           },
           {
-            "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-            "clue": "Imperial unit used on some speedometers",
-            "answer": "mph",
-            "normalized": "mph"
+            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
+            "clue": "One of three types of sword used in fencing",
+            "answer": "epee",
+            "normalized": "epee"
           }
         ],
-        "track": "PC|LenC--Y2026M9D23F0"
+        "track": "PC|LenC--Y2026M9D24F0"
       },
       "mid": {
-        "puzzleId": "fa77474e-0e9e-41c1-849a-e1fd0218494e",
+        "puzzleId": "a36cdb68-97bc-42f1-8083-763e8ff069d8",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "a3643618-0336-4ff4-b9e5-7b9d88a0e5d1",
-            "clue": "Season of dropping leaves",
-            "answer": "fall",
-            "normalized": "fall"
+            "id": "736c88d4-b13b-4694-af7c-4b2888526c83",
+            "clue": "Money to get out of custody",
+            "answer": "bail",
+            "normalized": "bail"
           },
           {
-            "id": "1792abc2-f177-44ba-b117-599caab92816",
-            "clue": "To beat an opponent; a loss in a sporting event",
-            "answer": "defeat",
-            "normalized": "defeat"
+            "id": "aae3d1de-3039-43f6-a2a7-e4b40f387ec5",
+            "clue": "Chief compliance officer, for short",
+            "answer": "cco",
+            "normalized": "cco"
           },
           {
-            "id": "64fd0f2d-7d7d-418b-be33-d9e926e0afc7",
-            "clue": "Describes someone who dies with a valid will",
-            "answer": "testate",
-            "normalized": "testate"
+            "id": "092020ba-9f6f-4983-bac7-c1a305c84608",
+            "clue": "Film industry in India",
+            "answer": "bollywood",
+            "normalized": "bollywood"
           },
           {
-            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
-            "clue": "The terrestrial phase of an aquatic newt",
-            "answer": "eft",
-            "normalized": "eft"
+            "id": "8a64f912-e859-4f92-8823-1b1ffe9526ee",
+            "clue": "To be easy to understand, have a clear meaning",
+            "answer": "make sense",
+            "normalized": "makesense"
           },
           {
-            "id": "fe6b222b-4ddf-4c30-9872-649d92954889",
-            "clue": "Fox shelter",
-            "answer": "den",
-            "normalized": "den"
+            "id": "95aee970-7599-49b5-8020-802ad60c6246",
+            "clue": "Freely-spread message that regards the community",
+            "answer": "psa",
+            "normalized": "psa"
           },
           {
-            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
-            "clue": "Warm-fermented beer, sometimes dark in colour",
-            "answer": "ale",
-            "normalized": "ale"
+            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
+            "clue": "Army insect that can be fire or leafcutter",
+            "answer": "ant",
+            "normalized": "ant"
           },
           {
-            "id": "2aba6dfd-52ab-4704-8bc6-7bdc196e63ea",
-            "clue": "Acronym for personal flotation device",
-            "answer": "pfd",
-            "normalized": "pfd"
+            "id": "6620db46-6415-4292-b430-2488ec389c16",
+            "clue": "Horror movie pioneer __ Chaney",
+            "answer": "lon",
+            "normalized": "lon"
           },
           {
-            "id": "524733ae-8ab9-4556-af8e-bbd9554e1730",
-            "clue": "Gets hitched to",
-            "answer": "marries",
-            "normalized": "marries"
+            "id": "1fcf7fde-9938-40ec-904e-f8518cab4563",
+            "clue": "Santa's little helper",
+            "answer": "elf",
+            "normalized": "elf"
           },
           {
-            "id": "8f1d89b5-86c9-4c81-9475-ae1398e8df34",
-            "clue": "Russian biosystem, famed for Przewalski's horse",
-            "answer": "steppe",
-            "normalized": "steppe"
+            "id": "a873182b-ea06-4bf3-94d9-9cc342b5a91b",
+            "clue": "Soft French bread used for making sandwiches",
+            "answer": "pain de mie",
+            "normalized": "paindemie"
           },
           {
-            "id": "e50b8337-477a-474d-b8b8-2768630d30ff",
-            "clue": "Microsoft web browser released with Windows 10",
-            "answer": "edge",
-            "normalized": "edge"
+            "id": "71d5e3fd-fb70-46f6-b5d9-6c9969e1d667",
+            "clue": "Scorned, in old-timey speak",
+            "answer": "contemned",
+            "normalized": "contemned"
           },
           {
-            "id": "2963c3f6-3626-4276-95f9-00dc03650cea",
-            "clue": "Became septic",
-            "answer": "festered",
-            "normalized": "festered"
+            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
+            "clue": "Currency code for the Sierra Leonean leone",
+            "answer": "sle",
+            "normalized": "sle"
           },
           {
-            "id": "9778c5bb-c452-40eb-b049-3a9555a9ad2a",
-            "clue": "On a ship, this is the word for behind",
-            "answer": "aft",
-            "normalized": "aft"
+            "id": "2feb479c-a02d-49dc-b1b7-66ab4dac7f40",
+            "clue": "Friends dinosaur expert",
+            "answer": "ross",
+            "normalized": "ross"
           },
           {
-            "id": "d8db5d5a-d387-4327-b71b-4fd0743b7b17",
-            "clue": "Toxic conduit for drawing water into a house",
-            "answer": "lead pipe",
-            "normalized": "leadpipe"
+            "id": "25c1c1ee-748e-4a03-a33c-11d5bfa04bb9",
+            "clue": "Feathery scarves",
+            "answer": "boas",
+            "normalized": "boas"
           },
           {
-            "id": "0a0f2803-406b-42d2-8643-ff512f445d4d",
-            "clue": "Fine charged when you miss a payment",
-            "answer": "late fee",
-            "normalized": "latefee"
+            "id": "ba429ee1-b957-4359-be92-ff72868bda69",
+            "clue": "Most common type of household battery",
+            "answer": "alkaline",
+            "normalized": "alkaline"
           },
           {
-            "id": "1fa91392-d77e-426c-bcd9-a795bd8734e3",
-            "clue": "Let air out of a tyre",
-            "answer": "deflate",
-            "normalized": "deflate"
+            "id": "aba63fe2-d08d-48d4-9c8b-8187573bff0b",
+            "clue": "French for island, goes before \"de France\"",
+            "answer": "ile",
+            "normalized": "ile"
           },
           {
-            "id": "a1028756-5600-4f39-a807-cea6ba73410a",
-            "clue": "Looks after plants",
-            "answer": "tends",
-            "normalized": "tends"
+            "id": "5699e5a5-1807-48d2-95e8-e56488a195e4",
+            "clue": "Spartan admiral; he ended the Peloponnesian War",
+            "answer": "lysander",
+            "normalized": "lysander"
           },
           {
-            "id": "a4161f86-a870-4a42-b0e7-7a1bbbf633e0",
-            "clue": "Groups of people working together",
-            "answer": "teams",
-            "normalized": "teams"
+            "id": "8bf112ad-398e-456e-ad5e-c04db085c70c",
+            "clue": "Archaic word for despises",
+            "answer": "contemns",
+            "normalized": "contemns"
           },
           {
-            "id": "901ed63e-8da8-4938-bfd5-91142b31798d",
-            "clue": "Initialism for games like D&D, World of Warcraft",
-            "answer": "rpg",
-            "normalized": "rpg"
+            "id": "3ee6f385-1284-4fdb-9a09-9576311392fa",
+            "clue": "How the Brits shorten the word because",
+            "answer": "cos",
+            "normalized": "cos"
+          },
+          {
+            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
+            "clue": "Poem addressed to someone",
+            "answer": "ode",
+            "normalized": "ode"
+          },
+          {
+            "id": "65395ac4-1c6c-4ad4-aaf9-5e44cd5d38d2",
+            "clue": "Aka a bitmap file",
+            "answer": "bmp",
+            "normalized": "bmp"
+          },
+          {
+            "id": "a27efca4-d692-450c-97bc-364add54cf8b",
+            "clue": "An old word for a very big or overcrowded city",
+            "answer": "wen",
+            "normalized": "wen"
+          },
+          {
+            "id": "4f0a17ba-2dd8-4859-a22c-a6ecb162edcd",
+            "clue": "Abbreviation for Optical Network Terminal",
+            "answer": "ont",
+            "normalized": "ont"
+          },
+          {
+            "id": "5bc722ec-81c7-45d8-a8d0-c53f5a277391",
+            "clue": "Liane Moriarty's Big Little these",
+            "answer": "lies",
+            "normalized": "lies"
+          },
+          {
+            "id": "f276fb02-0281-4446-a7cd-6b041d0cc92d",
+            "clue": "Gave food to",
+            "answer": "fed",
+            "normalized": "fed"
+          },
+          {
+            "id": "5d6adb91-7ecd-4df8-9407-2077dd21f6c1",
+            "clue": "Short name for desktop computers",
+            "answer": "pcs",
+            "normalized": "pcs"
+          },
+          {
+            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
+            "clue": "Early US internet company that bought Netscape",
+            "answer": "aol",
+            "normalized": "aol"
+          },
+          {
+            "id": "00aa550a-916e-44d2-8444-c7f948fbf0f2",
+            "clue": "Punk rock genre with feelings",
+            "answer": "emo",
+            "normalized": "emo"
           }
         ],
-        "track": "PC|LenC--Y2026M9D23F1"
+        "track": "PC|LenC--Y2026M9D24F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-23",
+      "key": "2026-09-24",
       "year": 2026,
       "month": 9,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "48fb0961-0e3c-4416-8a43-b11096446ed3",
+        "puzzleId": "31f0dbe0-600c-49b9-bfa8-ed32a7294280",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "69c32204-622d-4726-84f4-d2578fc9c2da",
-            "clue": "US agency tasked with regulating financial markets",
-            "answer": "sec",
-            "normalized": "sec"
+            "id": "314b7b8c-c1da-49cc-88a6-4eafcc76d2c9",
+            "clue": "UK time zone for the non-winter months",
+            "answer": "bst",
+            "normalized": "bst"
           },
           {
-            "id": "65f739c2-5b1f-4bcf-b92d-4086aedacab4",
-            "clue": "Referring to two people or things together",
-            "answer": "both",
-            "normalized": "both"
+            "id": "c6ccec82-c568-4b00-ba6c-f201c393145b",
+            "clue": "What people beg for; rhymes with Percy",
+            "answer": "mercy",
+            "normalized": "mercy"
           },
           {
-            "id": "c608f004-740e-42f2-9056-7e114ace4fe7",
-            "clue": "NASA's weather-mapping instrument for Mars",
-            "answer": "marci",
-            "normalized": "marci"
+            "id": "2c52c6ab-53b4-41d9-aae7-40a33326e518",
+            "clue": "Separated from something",
+            "answer": "apart",
+            "normalized": "apart"
           },
           {
-            "id": "77307a28-3a7f-49cc-bf3f-977e9f1dcf2b",
-            "clue": "Singer Charlie, had a hit with See You Again",
-            "answer": "puth",
-            "normalized": "puth"
+            "id": "7d9c9336-ca5f-4ed3-b203-be1694a7948c",
+            "clue": "River flowing through St Petersburg",
+            "answer": "neva",
+            "normalized": "neva"
           },
           {
-            "id": "1256bc08-b78d-4539-89e3-9f57e55df0ff",
-            "clue": "Three letters seen before regal ship names",
-            "answer": "hms",
-            "normalized": "hms"
+            "id": "c7960fa6-3087-41c9-9145-30c857627d9f",
+            "clue": "Slowly ooze out of a container",
+            "answer": "seep",
+            "normalized": "seep"
           },
           {
-            "id": "aa5feaab-0b60-44d3-97cc-850087b06aa1",
-            "clue": "Arranges things into an order",
-            "answer": "sorts",
-            "normalized": "sorts"
+            "id": "3d73f2ca-ed1b-4cd2-a275-54bd2246111b",
+            "clue": "Courageous and valiant",
+            "answer": "brave",
+            "normalized": "brave"
           },
           {
-            "id": "479e99b2-eb2a-4ff2-a054-812171a42305",
-            "clue": "To engrave with a technique that uses acid",
-            "answer": "etch",
-            "normalized": "etch"
+            "id": "8ee9e457-76a1-4f0d-876c-d89140738f2d",
+            "clue": "A leftover piece of paper for example",
+            "answer": "scrap",
+            "normalized": "scrap"
           },
           {
-            "id": "8c7056b1-2354-4fbc-86bf-7121936ef555",
-            "clue": "Energy in our bodies in Chinese medicine tradition",
-            "answer": "chi",
-            "normalized": "chi"
+            "id": "256b2b52-ee6b-42cb-be67-7129a7837a1f",
+            "clue": "Internet abbreviation for take your time",
+            "answer": "tyt",
+            "normalized": "tyt"
           },
           {
-            "id": "d25ac646-b507-4fd7-9f17-d2228d712c38",
-            "clue": "This Frank wrote of the World of Oz",
-            "answer": "baum",
-            "normalized": "baum"
+            "id": "75a72b0a-9fdb-43aa-9d4e-d1b41fa59a3b",
+            "clue": "Le __, French city with 24-hour motor race",
+            "answer": "mans",
+            "normalized": "mans"
           },
           {
-            "id": "66e4edd6-f8ff-4b6b-8fe9-0a1f7f4af4a2",
-            "clue": "Imperial unit used on some speedometers",
-            "answer": "mph",
-            "normalized": "mph"
+            "id": "045e2ab5-dc09-4af8-a9dd-00b746b65a93",
+            "clue": "One of three types of sword used in fencing",
+            "answer": "epee",
+            "normalized": "epee"
           }
         ],
-        "track": "PC|LenC--Y2026M9D23F0"
+        "track": "PC|LenC--Y2026M9D24F0"
       },
       "mid": {
-        "puzzleId": "fa77474e-0e9e-41c1-849a-e1fd0218494e",
+        "puzzleId": "a36cdb68-97bc-42f1-8083-763e8ff069d8",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "a3643618-0336-4ff4-b9e5-7b9d88a0e5d1",
-            "clue": "Season of dropping leaves",
-            "answer": "fall",
-            "normalized": "fall"
+            "id": "736c88d4-b13b-4694-af7c-4b2888526c83",
+            "clue": "Money to get out of custody",
+            "answer": "bail",
+            "normalized": "bail"
           },
           {
-            "id": "1792abc2-f177-44ba-b117-599caab92816",
-            "clue": "To beat an opponent; a loss in a sporting event",
-            "answer": "defeat",
-            "normalized": "defeat"
+            "id": "aae3d1de-3039-43f6-a2a7-e4b40f387ec5",
+            "clue": "Chief compliance officer, for short",
+            "answer": "cco",
+            "normalized": "cco"
           },
           {
-            "id": "64fd0f2d-7d7d-418b-be33-d9e926e0afc7",
-            "clue": "Describes someone who dies with a valid will",
-            "answer": "testate",
-            "normalized": "testate"
+            "id": "092020ba-9f6f-4983-bac7-c1a305c84608",
+            "clue": "Film industry in India",
+            "answer": "bollywood",
+            "normalized": "bollywood"
           },
           {
-            "id": "e9ffe54a-3590-4240-aa5d-78b658571059",
-            "clue": "The terrestrial phase of an aquatic newt",
-            "answer": "eft",
-            "normalized": "eft"
+            "id": "8a64f912-e859-4f92-8823-1b1ffe9526ee",
+            "clue": "To be easy to understand, have a clear meaning",
+            "answer": "make sense",
+            "normalized": "makesense"
           },
           {
-            "id": "fe6b222b-4ddf-4c30-9872-649d92954889",
-            "clue": "Fox shelter",
-            "answer": "den",
-            "normalized": "den"
+            "id": "95aee970-7599-49b5-8020-802ad60c6246",
+            "clue": "Freely-spread message that regards the community",
+            "answer": "psa",
+            "normalized": "psa"
           },
           {
-            "id": "2c7c04fd-9267-4068-a44b-64160a44909d",
-            "clue": "Warm-fermented beer, sometimes dark in colour",
-            "answer": "ale",
-            "normalized": "ale"
+            "id": "2db152c8-ae10-4c11-a8ef-92f84f0b2a7d",
+            "clue": "Army insect that can be fire or leafcutter",
+            "answer": "ant",
+            "normalized": "ant"
           },
           {
-            "id": "2aba6dfd-52ab-4704-8bc6-7bdc196e63ea",
-            "clue": "Acronym for personal flotation device",
-            "answer": "pfd",
-            "normalized": "pfd"
+            "id": "6620db46-6415-4292-b430-2488ec389c16",
+            "clue": "Horror movie pioneer __ Chaney",
+            "answer": "lon",
+            "normalized": "lon"
           },
           {
-            "id": "524733ae-8ab9-4556-af8e-bbd9554e1730",
-            "clue": "Gets hitched to",
-            "answer": "marries",
-            "normalized": "marries"
+            "id": "1fcf7fde-9938-40ec-904e-f8518cab4563",
+            "clue": "Santa's little helper",
+            "answer": "elf",
+            "normalized": "elf"
           },
           {
-            "id": "8f1d89b5-86c9-4c81-9475-ae1398e8df34",
-            "clue": "Russian biosystem, famed for Przewalski's horse",
-            "answer": "steppe",
-            "normalized": "steppe"
+            "id": "a873182b-ea06-4bf3-94d9-9cc342b5a91b",
+            "clue": "Soft French bread used for making sandwiches",
+            "answer": "pain de mie",
+            "normalized": "paindemie"
           },
           {
-            "id": "e50b8337-477a-474d-b8b8-2768630d30ff",
-            "clue": "Microsoft web browser released with Windows 10",
-            "answer": "edge",
-            "normalized": "edge"
+            "id": "71d5e3fd-fb70-46f6-b5d9-6c9969e1d667",
+            "clue": "Scorned, in old-timey speak",
+            "answer": "contemned",
+            "normalized": "contemned"
           },
           {
-            "id": "2963c3f6-3626-4276-95f9-00dc03650cea",
-            "clue": "Became septic",
-            "answer": "festered",
-            "normalized": "festered"
+            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
+            "clue": "Currency code for the Sierra Leonean leone",
+            "answer": "sle",
+            "normalized": "sle"
           },
           {
-            "id": "9778c5bb-c452-40eb-b049-3a9555a9ad2a",
-            "clue": "On a ship, this is the word for behind",
-            "answer": "aft",
-            "normalized": "aft"
+            "id": "2feb479c-a02d-49dc-b1b7-66ab4dac7f40",
+            "clue": "Friends dinosaur expert",
+            "answer": "ross",
+            "normalized": "ross"
           },
           {
-            "id": "d8db5d5a-d387-4327-b71b-4fd0743b7b17",
-            "clue": "Toxic conduit for drawing water into a house",
-            "answer": "lead pipe",
-            "normalized": "leadpipe"
+            "id": "25c1c1ee-748e-4a03-a33c-11d5bfa04bb9",
+            "clue": "Feathery scarves",
+            "answer": "boas",
+            "normalized": "boas"
           },
           {
-            "id": "0a0f2803-406b-42d2-8643-ff512f445d4d",
-            "clue": "Fine charged when you miss a payment",
-            "answer": "late fee",
-            "normalized": "latefee"
+            "id": "ba429ee1-b957-4359-be92-ff72868bda69",
+            "clue": "Most common type of household battery",
+            "answer": "alkaline",
+            "normalized": "alkaline"
           },
           {
-            "id": "1fa91392-d77e-426c-bcd9-a795bd8734e3",
-            "clue": "Let air out of a tyre",
-            "answer": "deflate",
-            "normalized": "deflate"
+            "id": "aba63fe2-d08d-48d4-9c8b-8187573bff0b",
+            "clue": "French for island, goes before \"de France\"",
+            "answer": "ile",
+            "normalized": "ile"
           },
           {
-            "id": "a1028756-5600-4f39-a807-cea6ba73410a",
-            "clue": "Looks after plants",
-            "answer": "tends",
-            "normalized": "tends"
+            "id": "5699e5a5-1807-48d2-95e8-e56488a195e4",
+            "clue": "Spartan admiral; he ended the Peloponnesian War",
+            "answer": "lysander",
+            "normalized": "lysander"
           },
           {
-            "id": "a4161f86-a870-4a42-b0e7-7a1bbbf633e0",
-            "clue": "Groups of people working together",
-            "answer": "teams",
-            "normalized": "teams"
+            "id": "8bf112ad-398e-456e-ad5e-c04db085c70c",
+            "clue": "Archaic word for despises",
+            "answer": "contemns",
+            "normalized": "contemns"
           },
           {
-            "id": "901ed63e-8da8-4938-bfd5-91142b31798d",
-            "clue": "Initialism for games like D&D, World of Warcraft",
-            "answer": "rpg",
-            "normalized": "rpg"
+            "id": "3ee6f385-1284-4fdb-9a09-9576311392fa",
+            "clue": "How the Brits shorten the word because",
+            "answer": "cos",
+            "normalized": "cos"
+          },
+          {
+            "id": "ad584ffb-64d8-40e9-aee7-b06c1adb491e",
+            "clue": "Poem addressed to someone",
+            "answer": "ode",
+            "normalized": "ode"
+          },
+          {
+            "id": "65395ac4-1c6c-4ad4-aaf9-5e44cd5d38d2",
+            "clue": "Aka a bitmap file",
+            "answer": "bmp",
+            "normalized": "bmp"
+          },
+          {
+            "id": "a27efca4-d692-450c-97bc-364add54cf8b",
+            "clue": "An old word for a very big or overcrowded city",
+            "answer": "wen",
+            "normalized": "wen"
+          },
+          {
+            "id": "4f0a17ba-2dd8-4859-a22c-a6ecb162edcd",
+            "clue": "Abbreviation for Optical Network Terminal",
+            "answer": "ont",
+            "normalized": "ont"
+          },
+          {
+            "id": "5bc722ec-81c7-45d8-a8d0-c53f5a277391",
+            "clue": "Liane Moriarty's Big Little these",
+            "answer": "lies",
+            "normalized": "lies"
+          },
+          {
+            "id": "f276fb02-0281-4446-a7cd-6b041d0cc92d",
+            "clue": "Gave food to",
+            "answer": "fed",
+            "normalized": "fed"
+          },
+          {
+            "id": "5d6adb91-7ecd-4df8-9407-2077dd21f6c1",
+            "clue": "Short name for desktop computers",
+            "answer": "pcs",
+            "normalized": "pcs"
+          },
+          {
+            "id": "0e3d4378-9513-460f-ac5d-7c233e892a55",
+            "clue": "Early US internet company that bought Netscape",
+            "answer": "aol",
+            "normalized": "aol"
+          },
+          {
+            "id": "00aa550a-916e-44d2-8444-c7f948fbf0f2",
+            "clue": "Punk rock genre with feelings",
+            "answer": "emo",
+            "normalized": "emo"
           }
         ],
-        "track": "PC|LenC--Y2026M9D23F1"
+        "track": "PC|LenC--Y2026M9D24F1"
       }
     },
     "latestAvailableEntry": {
@@ -441413,21 +441521,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "rVUf6k8zNbpEl5uVbJycloVqNBdjqBiqQnVtopymt8h4HGcLcdKN9ch6UyKjBvFPBdBs7J8xk9LsBNiPaDVA1F+/P7VLYEOlJhfPNIWVN8MVP/cLJUAa5M0Ar5lmJb64WTB34C2uhOkd4tZf8wfFzt0KCI0ecHnTp1aDkKIO0bI5mhkw55t13ALUUZ1Rd/8UMgaQeCp7k7U010008XOV9S8kUGnvg7MW4AFgBEfe3k2ncHezawlDFHGe7LWFH0hRQBMMIW6yjUXvi6nEVBX9Vp3wjJtPIZW6Dc1lhf0wLU4="
+        "EiEsKWSwio/LYJ94Lpkwgw2O2pYmeXbYLDiSslcUSlZq+q1oCM6W8F71ikRbLz4/C2EVU7R5kpEwcDoHDtGj/4k/o9urJYIvhzy7WxUgL262bNtNVFJ1X8cmf7ZSoPsxrWBQaysqDVpM/W9IjIQygjpnFJHJU9swwuZ2jTKHnKLfFZqUMAcXP4KgY3TknsBrljsvXDnaKQDfnV09dgaDB6WDJJbANYdp8g2JYag813U76cBirapijAQXUMu3DlDbsmOnM4AZbgaRSQKi+Zu0uUs1EOCjHot03Wdn3jE0N38="
       ]
     },
     "decrypted": {
-      "Id": "54affe2d-e296-4c78-868f-3c87da569d58",
-      "Date": "2026-09-23T00:00:00Z",
+      "Id": "b168dae0-dde5-46f6-aee0-6b6cab3d50bd",
+      "Date": "2026-09-24T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "smash",
-      "NormalizedPassword": "smash",
+      "Password": "lease",
+      "NormalizedPassword": "lease",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-23T03:01:18.7780000+05:30",
-    "hash": "01f2e6a205940be0b61b0ffe4122d815",
+    "dtu": "2026-09-24T03:07:11.3590000+05:30",
+    "hash": "6c1efc7f9b781dae3bb0313e598dc641",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
