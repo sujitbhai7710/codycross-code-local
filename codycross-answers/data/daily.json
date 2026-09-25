@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T21:38:50.289Z",
+  "generatedAt": "2026-09-25T21:43:20.011Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 25
+    "day": 26
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 46
+        "QuantidadeDeFases": 48
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -8770,7 +8770,7 @@
             },
             {
               "id": "ae4eeb29-7ccb-4dfb-93de-67afe79eee68",
-              "clue": "The __ Line; 1998 Terrence Malick war film",
+              "clue": "The __ Line, 1998 Terrence Malick war film",
               "answer": "thin red",
               "normalized": "thinred"
             },
@@ -101292,7 +101292,7 @@
             },
             {
               "id": "444b4b15-e153-43af-9d73-20057c77b3d7",
-              "clue": "Evil spirits that rob graves",
+              "clue": "Creatures associated with graveyards and the dead",
               "answer": "ghouls",
               "normalized": "ghouls"
             },
@@ -109545,7 +109545,7 @@
             },
             {
               "id": "d8e2d84e-a4ad-487e-8016-3c192209f304",
-              "clue": "Rock that when polished results into Jade",
+              "clue": "Rock that becomes jade when polished",
               "answer": "nephrite",
               "normalized": "nephrite"
             },
@@ -440823,403 +440823,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-25",
+      "key": "2026-09-26",
       "year": 2026,
       "month": 9,
-      "day": 25,
+      "day": 26,
       "small": {
-        "puzzleId": "0e7c72b1-97ce-4cf7-a307-1898a9239472",
+        "puzzleId": "dd5cddbd-e8e0-4d05-ba8b-7227e8b5d45c",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "79c121e5-6005-439c-807c-e6d0f82950a1",
-            "clue": "Abbreviation for athlete who did not finish a race",
-            "answer": "dnf",
-            "normalized": "dnf"
+            "id": "ec5729cd-5001-4043-9122-62f22e718fce",
+            "clue": "A person's thighs where a cat or dog might sit",
+            "answer": "lap",
+            "normalized": "lap"
           },
           {
-            "id": "c75c0332-da74-4819-94a4-146ca8e09cc8",
-            "clue": "Ad slogan, \"Have __, have a Kit Kat\"",
-            "answer": "a break",
-            "normalized": "abreak"
+            "id": "216a81f2-49a5-44b3-932e-4ecb0633339c",
+            "clue": "To go somewhere, on foot",
+            "answer": "walk",
+            "normalized": "walk"
           },
           {
-            "id": "6887e425-343a-4f56-9961-071dc3f12d71",
-            "clue": "Starbucks' largest drink size; thirty in Italian",
-            "answer": "trenta",
-            "normalized": "trenta"
+            "id": "37683ed4-1c45-46f7-a2f8-1de4b0a4020d",
+            "clue": "Czech car manufacturer that makes the Octavia",
+            "answer": "skoda",
+            "normalized": "skoda"
           },
           {
-            "id": "1be33f8c-c72c-455a-9aba-4542cd0ea44a",
-            "clue": "Liquid in the blood that holds cells together",
-            "answer": "plasma",
-            "normalized": "plasma"
+            "id": "c891cd12-ee46-412c-9c09-74d922106353",
+            "clue": "A group of three",
+            "answer": "trio",
+            "normalized": "trio"
           },
           {
-            "id": "f1e971e6-fa33-471a-9560-6aaff4afedf9",
-            "clue": "Actress and UNICEF Goodwill Ambassador Farrow",
-            "answer": "mia",
-            "normalized": "mia"
+            "id": "7568b282-2f11-4458-93de-b5510cf4cca8",
+            "clue": "An after-afterthought in a letter",
+            "answer": "pps",
+            "normalized": "pps"
           },
           {
-            "id": "7288ffc1-0a42-4306-8424-672c55652474",
-            "clue": "Barbara Eden's genie show, I __ of Jeannie",
-            "answer": "dream",
-            "normalized": "dream"
+            "id": "1634bbe6-c100-44a2-8458-d396136c2b21",
+            "clue": "Irish county with the Rock of Dunamase landmark",
+            "answer": "laois",
+            "normalized": "laois"
           },
           {
-            "id": "02c451e4-1f69-4fba-8277-98a852b9a23e",
-            "clue": "Designer known for her strappy dresses, __ Dojaka",
-            "answer": "nensi",
-            "normalized": "nensi"
+            "id": "75992d2b-34f3-4aee-9cdc-a0fa2d0cb9c5",
+            "clue": "Canadian footwear brand with Italian-sounding name",
+            "answer": "aldo",
+            "normalized": "aldo"
           },
           {
-            "id": "a7f85c87-4507-4626-9959-0eac483f38c5",
-            "clue": "Turkish drama series about a house cleaner",
-            "answer": "fatma",
-            "normalized": "fatma"
+            "id": "3d3e2c6d-3ac3-4a26-877f-738f6fa98265",
+            "clue": "Acronym for previously known as",
+            "answer": "pka",
+            "normalized": "pka"
           },
           {
-            "id": "d20715e5-f413-4a05-b85b-7e898734a143",
-            "clue": "Association of Tennis Professionals, acronym",
-            "answer": "atp",
-            "normalized": "atp"
+            "id": "f37a9c6c-5f30-4b19-a913-1fa9f0153425",
+            "clue": "Fake Cincinnati radio station in the 70s TV show",
+            "answer": "wkrp",
+            "normalized": "wkrp"
           },
           {
-            "id": "2c8fca9a-a5d4-4dbb-8598-dff861873cf3",
-            "clue": "Short form for Brazil's currency",
-            "answer": "brl",
-            "normalized": "brl"
-          },
-          {
-            "id": "a11ef576-c28c-4366-b713-bcd3d5356ee8",
-            "clue": "Hypnotic snake in The Jungle Book",
-            "answer": "kaa",
-            "normalized": "kaa"
+            "id": "06c018fe-d62c-4571-aab8-e8a90fd83f66",
+            "clue": "Initialism for standard temperature and pressure",
+            "answer": "stp",
+            "normalized": "stp"
           }
         ],
-        "track": "PC|LenC--Y2026M9D25F0"
+        "track": "PC|LenC--Y2026M9D26F0"
       },
       "mid": {
-        "puzzleId": "78480b3c-4869-4bd4-982a-36f573c721cf",
+        "puzzleId": "ceb45fdf-d241-4745-a59d-1f712eefa987",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "2ccff216-43c7-4579-ae56-55e957f0e372",
-            "clue": "To marry, get hitched",
-            "answer": "wed",
-            "normalized": "wed"
+            "id": "4dbe49b0-1ad8-40b7-8bdb-dc314e04e392",
+            "clue": "Kallas, became Estonian PM in January 2021",
+            "answer": "kaja",
+            "normalized": "kaja"
           },
           {
-            "id": "20fae59d-1a67-4da8-b38d-52963e656056",
-            "clue": "Piles of them might fall from trees in autumn",
-            "answer": "leaves",
-            "normalized": "leaves"
+            "id": "89e9a250-19c0-49be-a2f9-bad81309e0aa",
+            "clue": "Homer's ancient Greek epic set during Trojan War",
+            "answer": "iliad",
+            "normalized": "iliad"
           },
           {
-            "id": "41f81b69-3ebc-4bc9-879a-89e400b36982",
-            "clue": "Time of year when crops are gathered",
-            "answer": "harvest",
-            "normalized": "harvest"
+            "id": "ee47e116-19bd-46a1-8b06-7acff8ecc865",
+            "clue": "Make like a mole",
+            "answer": "burrow",
+            "normalized": "burrow"
           },
           {
-            "id": "440ca3ca-b27f-4950-b747-e3dfd864d4b8",
-            "clue": "1940s, 50s actress Gardner from Show Boat",
-            "answer": "ava",
-            "normalized": "ava"
+            "id": "93aa1bf4-2b24-4c5d-9d67-cd0d691efc43",
+            "clue": "French abbreviation for addressing a woman",
+            "answer": "mme",
+            "normalized": "mme"
           },
           {
-            "id": "441d05be-4627-4164-b7a1-f5c623c2fe7f",
-            "clue": "Possible nickname for Maria",
-            "answer": "ria",
-            "normalized": "ria"
+            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
+            "clue": "Short for Republic of South Africa",
+            "answer": "rsa",
+            "normalized": "rsa"
           },
           {
-            "id": "f112dbfc-8a03-4ca3-9e88-e2f2d324d1d5",
-            "clue": "Fleur-de-__, French for lily flower",
-            "answer": "lis",
-            "normalized": "lis"
+            "id": "1a11820b-4659-46bc-bc07-5c41e8ba34cb",
+            "clue": "Valuable Italian coins of the Middle Ages",
+            "answer": "ducats",
+            "normalized": "ducats"
           },
           {
-            "id": "2440b909-f122-4a81-811a-a85cba2899f7",
-            "clue": "Telling off sound, expression of disapproval",
-            "answer": "tsk",
-            "normalized": "tsk"
+            "id": "04866776-e5ab-4beb-a16d-ae2939fcfdb0",
+            "clue": "Plant part that supports petals",
+            "answer": "sepal",
+            "normalized": "sepal"
           },
           {
-            "id": "eefa714d-75cc-43b0-a9bb-ebab35430088",
-            "clue": "Microsoft Office program for little reminders",
-            "answer": "onenote",
-            "normalized": "onenote"
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
           },
           {
-            "id": "ed9c6666-628c-4c28-975e-a26926ae78e4",
-            "clue": "Women singing in the sea",
-            "answer": "sirens",
-            "normalized": "sirens"
+            "id": "77afec34-166f-416e-a820-c095ebde5898",
+            "clue": "Heidi, German model and America's Got Talent judge",
+            "answer": "klum",
+            "normalized": "klum"
           },
           {
-            "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
-            "clue": "Crude name for a male donkey, comes after \"jack\"",
-            "answer": "ass",
-            "normalized": "ass"
+            "id": "6dbeaaf1-fb2f-4f0a-8179-322aa523b301",
+            "clue": "To have put out a radio show",
+            "answer": "aired",
+            "normalized": "aired"
           },
           {
-            "id": "c0d28eed-0cab-40b6-ac64-840d003c74dc",
-            "clue": "Common audio file format",
-            "answer": "wav",
-            "normalized": "wav"
+            "id": "ea1c8ec6-fa6e-4102-81e1-99254c93665d",
+            "clue": "Glass jam container",
+            "answer": "jar",
+            "normalized": "jar"
           },
           {
-            "id": "1081f6b6-3bb5-4210-bace-b4a6a99998b8",
-            "clue": "English soccer team shares name with Chilean team",
-            "answer": "everton",
-            "normalized": "everton"
+            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
+            "clue": "Shakespeare's much fuss about nothing",
+            "answer": "ado",
+            "normalized": "ado"
           },
           {
-            "id": "565cbd78-5954-43c9-805d-bd4bbb6b4d1f",
-            "clue": "Ceases",
-            "answer": "desists",
-            "normalized": "desists"
+            "id": "c1c68580-45f8-4f34-a340-57d4e29fcc06",
+            "clue": "Computer company that \"puts smart to work\"",
+            "answer": "ibm",
+            "normalized": "ibm"
           },
           {
-            "id": "a1765f93-5948-4dcc-999e-5dbeaa778c35",
-            "clue": "Titus' only daughter in Titus Andronicus",
-            "answer": "lavinia",
-            "normalized": "lavinia"
+            "id": "1f7a4975-e9ad-43a5-97db-e20140a1b39f",
+            "clue": "Covers a gift in paper",
+            "answer": "wraps",
+            "normalized": "wraps"
           },
           {
-            "id": "56579d9f-07bb-46de-8e18-2370eadb7e3c",
-            "clue": "Rubber pieces used to remove pencil marks",
-            "answer": "erasers",
-            "normalized": "erasers"
+            "id": "ad19e906-e1ed-458f-93a7-d3c01fab7d20",
+            "clue": "Remain, don't move",
+            "answer": "stay",
+            "normalized": "stay"
           },
           {
-            "id": "406f31e9-fb83-4a43-9d96-41762a26558d",
-            "clue": "Cut of beef with letters switched; kills vampires",
-            "answer": "stake",
-            "normalized": "stake"
+            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
+            "clue": "Common query in early internet chat rooms",
+            "answer": "asl",
+            "normalized": "asl"
           },
           {
-            "id": "94b43209-56b0-4e11-bb47-f2fe23e792fa",
-            "clue": "These glow around the heads of saints",
-            "answer": "halos",
-            "normalized": "halos"
+            "id": "d4e2af26-19f7-4303-a1c6-8fa14523e867",
+            "clue": "Employ a tool to do a job",
+            "answer": "use",
+            "normalized": "use"
           },
           {
-            "id": "5b9d8641-60d6-4105-bf8b-a31979a39715",
-            "clue": "8-bit Nintendo console",
-            "answer": "nes",
-            "normalized": "nes"
+            "id": "3317a183-19f2-4b6a-8f06-b1698bc3cc53",
+            "clue": "Central European Time, abbreviated",
+            "answer": "cet",
+            "normalized": "cet"
           }
         ],
-        "track": "PC|LenC--Y2026M9D25F1"
+        "track": "PC|LenC--Y2026M9D26F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-25",
+      "key": "2026-09-26",
       "year": 2026,
       "month": 9,
-      "day": 25,
+      "day": 26,
       "small": {
-        "puzzleId": "0e7c72b1-97ce-4cf7-a307-1898a9239472",
+        "puzzleId": "dd5cddbd-e8e0-4d05-ba8b-7227e8b5d45c",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "79c121e5-6005-439c-807c-e6d0f82950a1",
-            "clue": "Abbreviation for athlete who did not finish a race",
-            "answer": "dnf",
-            "normalized": "dnf"
+            "id": "ec5729cd-5001-4043-9122-62f22e718fce",
+            "clue": "A person's thighs where a cat or dog might sit",
+            "answer": "lap",
+            "normalized": "lap"
           },
           {
-            "id": "c75c0332-da74-4819-94a4-146ca8e09cc8",
-            "clue": "Ad slogan, \"Have __, have a Kit Kat\"",
-            "answer": "a break",
-            "normalized": "abreak"
+            "id": "216a81f2-49a5-44b3-932e-4ecb0633339c",
+            "clue": "To go somewhere, on foot",
+            "answer": "walk",
+            "normalized": "walk"
           },
           {
-            "id": "6887e425-343a-4f56-9961-071dc3f12d71",
-            "clue": "Starbucks' largest drink size; thirty in Italian",
-            "answer": "trenta",
-            "normalized": "trenta"
+            "id": "37683ed4-1c45-46f7-a2f8-1de4b0a4020d",
+            "clue": "Czech car manufacturer that makes the Octavia",
+            "answer": "skoda",
+            "normalized": "skoda"
           },
           {
-            "id": "1be33f8c-c72c-455a-9aba-4542cd0ea44a",
-            "clue": "Liquid in the blood that holds cells together",
-            "answer": "plasma",
-            "normalized": "plasma"
+            "id": "c891cd12-ee46-412c-9c09-74d922106353",
+            "clue": "A group of three",
+            "answer": "trio",
+            "normalized": "trio"
           },
           {
-            "id": "f1e971e6-fa33-471a-9560-6aaff4afedf9",
-            "clue": "Actress and UNICEF Goodwill Ambassador Farrow",
-            "answer": "mia",
-            "normalized": "mia"
+            "id": "7568b282-2f11-4458-93de-b5510cf4cca8",
+            "clue": "An after-afterthought in a letter",
+            "answer": "pps",
+            "normalized": "pps"
           },
           {
-            "id": "7288ffc1-0a42-4306-8424-672c55652474",
-            "clue": "Barbara Eden's genie show, I __ of Jeannie",
-            "answer": "dream",
-            "normalized": "dream"
+            "id": "1634bbe6-c100-44a2-8458-d396136c2b21",
+            "clue": "Irish county with the Rock of Dunamase landmark",
+            "answer": "laois",
+            "normalized": "laois"
           },
           {
-            "id": "02c451e4-1f69-4fba-8277-98a852b9a23e",
-            "clue": "Designer known for her strappy dresses, __ Dojaka",
-            "answer": "nensi",
-            "normalized": "nensi"
+            "id": "75992d2b-34f3-4aee-9cdc-a0fa2d0cb9c5",
+            "clue": "Canadian footwear brand with Italian-sounding name",
+            "answer": "aldo",
+            "normalized": "aldo"
           },
           {
-            "id": "a7f85c87-4507-4626-9959-0eac483f38c5",
-            "clue": "Turkish drama series about a house cleaner",
-            "answer": "fatma",
-            "normalized": "fatma"
+            "id": "3d3e2c6d-3ac3-4a26-877f-738f6fa98265",
+            "clue": "Acronym for previously known as",
+            "answer": "pka",
+            "normalized": "pka"
           },
           {
-            "id": "d20715e5-f413-4a05-b85b-7e898734a143",
-            "clue": "Association of Tennis Professionals, acronym",
-            "answer": "atp",
-            "normalized": "atp"
+            "id": "f37a9c6c-5f30-4b19-a913-1fa9f0153425",
+            "clue": "Fake Cincinnati radio station in the 70s TV show",
+            "answer": "wkrp",
+            "normalized": "wkrp"
           },
           {
-            "id": "2c8fca9a-a5d4-4dbb-8598-dff861873cf3",
-            "clue": "Short form for Brazil's currency",
-            "answer": "brl",
-            "normalized": "brl"
-          },
-          {
-            "id": "a11ef576-c28c-4366-b713-bcd3d5356ee8",
-            "clue": "Hypnotic snake in The Jungle Book",
-            "answer": "kaa",
-            "normalized": "kaa"
+            "id": "06c018fe-d62c-4571-aab8-e8a90fd83f66",
+            "clue": "Initialism for standard temperature and pressure",
+            "answer": "stp",
+            "normalized": "stp"
           }
         ],
-        "track": "PC|LenC--Y2026M9D25F0"
+        "track": "PC|LenC--Y2026M9D26F0"
       },
       "mid": {
-        "puzzleId": "78480b3c-4869-4bd4-982a-36f573c721cf",
+        "puzzleId": "ceb45fdf-d241-4745-a59d-1f712eefa987",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "2ccff216-43c7-4579-ae56-55e957f0e372",
-            "clue": "To marry, get hitched",
-            "answer": "wed",
-            "normalized": "wed"
+            "id": "4dbe49b0-1ad8-40b7-8bdb-dc314e04e392",
+            "clue": "Kallas, became Estonian PM in January 2021",
+            "answer": "kaja",
+            "normalized": "kaja"
           },
           {
-            "id": "20fae59d-1a67-4da8-b38d-52963e656056",
-            "clue": "Piles of them might fall from trees in autumn",
-            "answer": "leaves",
-            "normalized": "leaves"
+            "id": "89e9a250-19c0-49be-a2f9-bad81309e0aa",
+            "clue": "Homer's ancient Greek epic set during Trojan War",
+            "answer": "iliad",
+            "normalized": "iliad"
           },
           {
-            "id": "41f81b69-3ebc-4bc9-879a-89e400b36982",
-            "clue": "Time of year when crops are gathered",
-            "answer": "harvest",
-            "normalized": "harvest"
+            "id": "ee47e116-19bd-46a1-8b06-7acff8ecc865",
+            "clue": "Make like a mole",
+            "answer": "burrow",
+            "normalized": "burrow"
           },
           {
-            "id": "440ca3ca-b27f-4950-b747-e3dfd864d4b8",
-            "clue": "1940s, 50s actress Gardner from Show Boat",
-            "answer": "ava",
-            "normalized": "ava"
+            "id": "93aa1bf4-2b24-4c5d-9d67-cd0d691efc43",
+            "clue": "French abbreviation for addressing a woman",
+            "answer": "mme",
+            "normalized": "mme"
           },
           {
-            "id": "441d05be-4627-4164-b7a1-f5c623c2fe7f",
-            "clue": "Possible nickname for Maria",
-            "answer": "ria",
-            "normalized": "ria"
+            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
+            "clue": "Short for Republic of South Africa",
+            "answer": "rsa",
+            "normalized": "rsa"
           },
           {
-            "id": "f112dbfc-8a03-4ca3-9e88-e2f2d324d1d5",
-            "clue": "Fleur-de-__, French for lily flower",
-            "answer": "lis",
-            "normalized": "lis"
+            "id": "1a11820b-4659-46bc-bc07-5c41e8ba34cb",
+            "clue": "Valuable Italian coins of the Middle Ages",
+            "answer": "ducats",
+            "normalized": "ducats"
           },
           {
-            "id": "2440b909-f122-4a81-811a-a85cba2899f7",
-            "clue": "Telling off sound, expression of disapproval",
-            "answer": "tsk",
-            "normalized": "tsk"
+            "id": "04866776-e5ab-4beb-a16d-ae2939fcfdb0",
+            "clue": "Plant part that supports petals",
+            "answer": "sepal",
+            "normalized": "sepal"
           },
           {
-            "id": "eefa714d-75cc-43b0-a9bb-ebab35430088",
-            "clue": "Microsoft Office program for little reminders",
-            "answer": "onenote",
-            "normalized": "onenote"
+            "id": "0be5f02d-7636-4089-884f-1210fc340142",
+            "clue": "Online selling platform for creative goods",
+            "answer": "etsy",
+            "normalized": "etsy"
           },
           {
-            "id": "ed9c6666-628c-4c28-975e-a26926ae78e4",
-            "clue": "Women singing in the sea",
-            "answer": "sirens",
-            "normalized": "sirens"
+            "id": "77afec34-166f-416e-a820-c095ebde5898",
+            "clue": "Heidi, German model and America's Got Talent judge",
+            "answer": "klum",
+            "normalized": "klum"
           },
           {
-            "id": "c2ba193e-7d83-4af8-a91c-41b91b3da74e",
-            "clue": "Crude name for a male donkey, comes after \"jack\"",
-            "answer": "ass",
-            "normalized": "ass"
+            "id": "6dbeaaf1-fb2f-4f0a-8179-322aa523b301",
+            "clue": "To have put out a radio show",
+            "answer": "aired",
+            "normalized": "aired"
           },
           {
-            "id": "c0d28eed-0cab-40b6-ac64-840d003c74dc",
-            "clue": "Common audio file format",
-            "answer": "wav",
-            "normalized": "wav"
+            "id": "ea1c8ec6-fa6e-4102-81e1-99254c93665d",
+            "clue": "Glass jam container",
+            "answer": "jar",
+            "normalized": "jar"
           },
           {
-            "id": "1081f6b6-3bb5-4210-bace-b4a6a99998b8",
-            "clue": "English soccer team shares name with Chilean team",
-            "answer": "everton",
-            "normalized": "everton"
+            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
+            "clue": "Shakespeare's much fuss about nothing",
+            "answer": "ado",
+            "normalized": "ado"
           },
           {
-            "id": "565cbd78-5954-43c9-805d-bd4bbb6b4d1f",
-            "clue": "Ceases",
-            "answer": "desists",
-            "normalized": "desists"
+            "id": "c1c68580-45f8-4f34-a340-57d4e29fcc06",
+            "clue": "Computer company that \"puts smart to work\"",
+            "answer": "ibm",
+            "normalized": "ibm"
           },
           {
-            "id": "a1765f93-5948-4dcc-999e-5dbeaa778c35",
-            "clue": "Titus' only daughter in Titus Andronicus",
-            "answer": "lavinia",
-            "normalized": "lavinia"
+            "id": "1f7a4975-e9ad-43a5-97db-e20140a1b39f",
+            "clue": "Covers a gift in paper",
+            "answer": "wraps",
+            "normalized": "wraps"
           },
           {
-            "id": "56579d9f-07bb-46de-8e18-2370eadb7e3c",
-            "clue": "Rubber pieces used to remove pencil marks",
-            "answer": "erasers",
-            "normalized": "erasers"
+            "id": "ad19e906-e1ed-458f-93a7-d3c01fab7d20",
+            "clue": "Remain, don't move",
+            "answer": "stay",
+            "normalized": "stay"
           },
           {
-            "id": "406f31e9-fb83-4a43-9d96-41762a26558d",
-            "clue": "Cut of beef with letters switched; kills vampires",
-            "answer": "stake",
-            "normalized": "stake"
+            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
+            "clue": "Common query in early internet chat rooms",
+            "answer": "asl",
+            "normalized": "asl"
           },
           {
-            "id": "94b43209-56b0-4e11-bb47-f2fe23e792fa",
-            "clue": "These glow around the heads of saints",
-            "answer": "halos",
-            "normalized": "halos"
+            "id": "d4e2af26-19f7-4303-a1c6-8fa14523e867",
+            "clue": "Employ a tool to do a job",
+            "answer": "use",
+            "normalized": "use"
           },
           {
-            "id": "5b9d8641-60d6-4105-bf8b-a31979a39715",
-            "clue": "8-bit Nintendo console",
-            "answer": "nes",
-            "normalized": "nes"
+            "id": "3317a183-19f2-4b6a-8f06-b1698bc3cc53",
+            "clue": "Central European Time, abbreviated",
+            "answer": "cet",
+            "normalized": "cet"
           }
         ],
-        "track": "PC|LenC--Y2026M9D25F1"
+        "track": "PC|LenC--Y2026M9D26F1"
       }
     },
     "latestAvailableEntry": {
@@ -441425,21 +441413,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "yNN6EWHw+4LcQek6+JXF+nUe9YL9sb8BtXPJKWaPt7PHuu2WgTzT8ULfb1G92Q+anhmIT6DM5+IjOJMIRzMvjjnwhxwC2lXd1Hxv7KWtu1wbY3u24KAj8R3RdiDhabopI8fv6Mde64a1IMb0ERpFBJ8JTJc+euP35lstkhO33bvt5ZbPg3jVmg/ok4AMPok7p8muPU7ST+NO/Qyt/KmhIbmTGYLV3oKQu7Pj2YhyyuUrowc34C7xkh5GVF4HiXWfM6DVkVEMc0mwl3muUyJ2lccBCMNHUoC08HG+1qbSNxs="
+        "j0vs/okvaxbOAFr0qmczho1JBHiFRonrZ/KtTWKTbxiuoo3hK2anwZrCdc3FbjQ9hILwgNxfXB4IB1qIOq4tV3klDUOnJ3h96txupih45XdF9dEoYZnmPi1wVsMZurL821uPwXfFbkQpvAHDs8F9epHP2v7/FJAAXw0z/zRkY8WMLE5Ednf1zJukhTcI/qH5jrKv63MoqIE9QAyAcINefK16QYow5+BmBVCiKpXCVAP+mu9MlG0ma9kOdS1TG2gV693PzuN2Jk7zfWvSXHMluSxMVnn6IFKYLzcf7BzBxUE="
       ]
     },
     "decrypted": {
-      "Id": "9f868289-f33d-49a5-aadb-9b062fd71646",
-      "Date": "2026-09-25T00:00:00Z",
+      "Id": "7d9ae329-0f33-4fd7-aaa0-5fa0f3bb570b",
+      "Date": "2026-09-26T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "quote",
-      "NormalizedPassword": "quote",
+      "Password": "foggy",
+      "NormalizedPassword": "foggy",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-25T03:08:50.2890000+05:30",
-    "hash": "b6eaffd344ee173958811bab47d327f0",
+    "dtu": "2026-09-26T03:13:20.0110000+05:30",
+    "hash": "c0304a9f15eb96f073941dcc2f7c6bc8",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
