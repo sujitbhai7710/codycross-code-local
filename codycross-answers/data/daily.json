@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T21:43:20.011Z",
+  "generatedAt": "2026-09-26T21:19:44.541Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 26
+    "day": 27
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 48
+        "QuantidadeDeFases": 50
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -440823,391 +440823,451 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-26",
+      "key": "2026-09-27",
       "year": 2026,
       "month": 9,
-      "day": 26,
+      "day": 27,
       "small": {
-        "puzzleId": "dd5cddbd-e8e0-4d05-ba8b-7227e8b5d45c",
+        "puzzleId": "58bd3570-002c-4fa9-aab9-642e2bd6c4ec",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "ec5729cd-5001-4043-9122-62f22e718fce",
-            "clue": "A person's thighs where a cat or dog might sit",
-            "answer": "lap",
-            "normalized": "lap"
+            "id": "0711c676-f0f1-47cb-a7d0-a9aed9b77431",
+            "clue": "Location of a computer’s BIOS",
+            "answer": "rom",
+            "normalized": "rom"
           },
           {
-            "id": "216a81f2-49a5-44b3-932e-4ecb0633339c",
-            "clue": "To go somewhere, on foot",
-            "answer": "walk",
-            "normalized": "walk"
+            "id": "7c2bb47b-6791-4cc6-835f-daa356b7d90c",
+            "clue": "Language in which the word \"miel\" means honey",
+            "answer": "french",
+            "normalized": "french"
           },
           {
-            "id": "37683ed4-1c45-46f7-a2f8-1de4b0a4020d",
-            "clue": "Czech car manufacturer that makes the Octavia",
-            "answer": "skoda",
-            "normalized": "skoda"
+            "id": "2c5c4587-da84-4b25-a2a5-d2ef69dc4c7f",
+            "clue": "To actively not take notice of someone",
+            "answer": "ignore",
+            "normalized": "ignore"
           },
           {
-            "id": "c891cd12-ee46-412c-9c09-74d922106353",
-            "clue": "A group of three",
-            "answer": "trio",
-            "normalized": "trio"
+            "id": "5c9d8927-c9bc-42a9-b2da-7da8ec9681db",
+            "clue": "Rack for drying freshly laundered clothes",
+            "answer": "airer",
+            "normalized": "airer"
           },
           {
-            "id": "7568b282-2f11-4458-93de-b5510cf4cca8",
-            "clue": "An after-afterthought in a letter",
-            "answer": "pps",
-            "normalized": "pps"
+            "id": "e53201be-568c-4478-a17d-07475648c8b7",
+            "clue": "Called, given a title",
+            "answer": "named",
+            "normalized": "named"
           },
           {
-            "id": "1634bbe6-c100-44a2-8458-d396136c2b21",
-            "clue": "Irish county with the Rock of Dunamase landmark",
-            "answer": "laois",
-            "normalized": "laois"
+            "id": "891c8c69-9eea-4a20-8d85-4a8b3dff86cf",
+            "clue": "Smacks with palm",
+            "answer": "slaps",
+            "normalized": "slaps"
           },
           {
-            "id": "75992d2b-34f3-4aee-9cdc-a0fa2d0cb9c5",
-            "clue": "Canadian footwear brand with Italian-sounding name",
-            "answer": "aldo",
-            "normalized": "aldo"
+            "id": "34b09dc1-034d-47b6-9ae5-7e510f9dbdd2",
+            "clue": "Initialism for ready for inspection",
+            "answer": "rfi",
+            "normalized": "rfi"
           },
           {
-            "id": "3d3e2c6d-3ac3-4a26-877f-738f6fa98265",
-            "clue": "Acronym for previously known as",
-            "answer": "pka",
-            "normalized": "pka"
+            "id": "4e7475bf-6238-41b9-b40d-c6d9118fafc7",
+            "clue": "Structures that perform a special task in the body",
+            "answer": "organs",
+            "normalized": "organs"
           },
           {
-            "id": "f37a9c6c-5f30-4b19-a913-1fa9f0153425",
-            "clue": "Fake Cincinnati radio station in the 70s TV show",
-            "answer": "wkrp",
-            "normalized": "wkrp"
+            "id": "774521b8-40ff-4a6f-aaca-d6670b57b739",
+            "clue": "Scullions did this sort of task",
+            "answer": "menial",
+            "normalized": "menial"
           },
           {
-            "id": "06c018fe-d62c-4571-aab8-e8a90fd83f66",
-            "clue": "Initialism for standard temperature and pressure",
-            "answer": "stp",
-            "normalized": "stp"
+            "id": "a299d0a7-16b7-4de7-8644-93dad5786de1",
+            "clue": "Marilyn Monroe's birth name, __ Jean",
+            "answer": "norma",
+            "normalized": "norma"
+          },
+          {
+            "id": "e2112ac9-27ca-4fe4-9dd8-5f4dd0354ab3",
+            "clue": "Spread like a clinging plant such as ivy",
+            "answer": "creep",
+            "normalized": "creep"
+          },
+          {
+            "id": "0234393c-2442-4c6a-a2c5-0661c56a20c4",
+            "clue": "Groups of domestic animals",
+            "answer": "herds",
+            "normalized": "herds"
           }
         ],
-        "track": "PC|LenC--Y2026M9D26F0"
+        "track": "PC|LenC--Y2026M9D27F0"
       },
       "mid": {
-        "puzzleId": "ceb45fdf-d241-4745-a59d-1f712eefa987",
+        "puzzleId": "cbe82e03-fa0c-43d9-9ed2-6677dc396c1a",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "4dbe49b0-1ad8-40b7-8bdb-dc314e04e392",
-            "clue": "Kallas, became Estonian PM in January 2021",
-            "answer": "kaja",
-            "normalized": "kaja"
+            "id": "fc08f3fa-7f11-465c-ae97-b07a475f224e",
+            "clue": "Acronym for positive negative positive",
+            "answer": "pnp",
+            "normalized": "pnp"
           },
           {
-            "id": "89e9a250-19c0-49be-a2f9-bad81309e0aa",
-            "clue": "Homer's ancient Greek epic set during Trojan War",
-            "answer": "iliad",
-            "normalized": "iliad"
+            "id": "aa460af8-e066-4f26-a319-95fbee4135e3",
+            "clue": "Bachelor of Computer Science",
+            "answer": "bcs",
+            "normalized": "bcs"
           },
           {
-            "id": "ee47e116-19bd-46a1-8b06-7acff8ecc865",
-            "clue": "Make like a mole",
-            "answer": "burrow",
-            "normalized": "burrow"
+            "id": "720b30f1-8a12-49b1-a1c8-5a31879852e6",
+            "clue": "Idiom meaning a run of winning or luck",
+            "answer": "on a roll",
+            "normalized": "onaroll"
           },
           {
-            "id": "93aa1bf4-2b24-4c5d-9d67-cd0d691efc43",
-            "clue": "French abbreviation for addressing a woman",
-            "answer": "mme",
-            "normalized": "mme"
+            "id": "fdc0d40b-a369-49d3-a810-b52aaf619877",
+            "clue": "Take over for an exhausted pitcher",
+            "answer": "relieve",
+            "normalized": "relieve"
           },
           {
-            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-            "clue": "Short for Republic of South Africa",
-            "answer": "rsa",
-            "normalized": "rsa"
+            "id": "dce3c899-e2d9-4f83-bc88-a933f871e15f",
+            "clue": "To purposefully dodge something",
+            "answer": "avoid",
+            "normalized": "avoid"
           },
           {
-            "id": "1a11820b-4659-46bc-bc07-5c41e8ba34cb",
-            "clue": "Valuable Italian coins of the Middle Ages",
-            "answer": "ducats",
-            "normalized": "ducats"
+            "id": "602e15e2-65a0-4871-a497-e8b973a0a004",
+            "clue": "A group of eight living or non-living things",
+            "answer": "octet",
+            "normalized": "octet"
           },
           {
-            "id": "04866776-e5ab-4beb-a16d-ae2939fcfdb0",
-            "clue": "Plant part that supports petals",
-            "answer": "sepal",
-            "normalized": "sepal"
+            "id": "b58c6311-a485-4b1e-967f-d8a758a830d9",
+            "clue": "Combination of wine with certain foods",
+            "answer": "pairing",
+            "normalized": "pairing"
           },
           {
-            "id": "0be5f02d-7636-4089-884f-1210fc340142",
-            "clue": "Online selling platform for creative goods",
-            "answer": "etsy",
-            "normalized": "etsy"
+            "id": "d5322d24-8a57-4098-9172-debb579ca5a8",
+            "clue": "Native people of what is now the Southwestern US",
+            "answer": "anasazi",
+            "normalized": "anasazi"
           },
           {
-            "id": "77afec34-166f-416e-a820-c095ebde5898",
-            "clue": "Heidi, German model and America's Got Talent judge",
-            "answer": "klum",
-            "normalized": "klum"
+            "id": "093bc1b5-d217-42ca-8a9f-9fad104a97a0",
+            "clue": "Three-letter code for the Lesotho loti",
+            "answer": "lsl",
+            "normalized": "lsl"
           },
           {
-            "id": "6dbeaaf1-fb2f-4f0a-8179-322aa523b301",
-            "clue": "To have put out a radio show",
-            "answer": "aired",
-            "normalized": "aired"
+            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
+            "clue": "Non-disclosure agreement, in short",
+            "answer": "nda",
+            "normalized": "nda"
           },
           {
-            "id": "ea1c8ec6-fa6e-4102-81e1-99254c93665d",
-            "clue": "Glass jam container",
-            "answer": "jar",
-            "normalized": "jar"
+            "id": "9ae42aea-d9c8-4838-8b32-2165339b51a8",
+            "clue": "__ favor, Spanish phrase meaning please",
+            "answer": "por",
+            "normalized": "por"
           },
           {
-            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
-            "clue": "Shakespeare's much fuss about nothing",
-            "answer": "ado",
-            "normalized": "ado"
+            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
+            "clue": "On a compass, the opposite of SSW",
+            "answer": "nne",
+            "normalized": "nne"
           },
           {
-            "id": "c1c68580-45f8-4f34-a340-57d4e29fcc06",
-            "clue": "Computer company that \"puts smart to work\"",
-            "answer": "ibm",
-            "normalized": "ibm"
+            "id": "95b6e846-ca28-4d04-91a6-e71543b02b11",
+            "clue": "Like a palace",
+            "answer": "palatial",
+            "normalized": "palatial"
           },
           {
-            "id": "1f7a4975-e9ad-43a5-97db-e20140a1b39f",
-            "clue": "Covers a gift in paper",
-            "answer": "wraps",
-            "normalized": "wraps"
+            "id": "83678b06-2977-43fe-9332-9d4043bab7c9",
+            "clue": "From the Greek region of Thebes in ancient times",
+            "answer": "boeotian",
+            "normalized": "boeotian"
           },
           {
-            "id": "ad19e906-e1ed-458f-93a7-d3c01fab7d20",
-            "clue": "Remain, don't move",
-            "answer": "stay",
-            "normalized": "stay"
+            "id": "387f12af-aa3e-4f12-90c8-ff58750c048c",
+            "clue": "156 written in Roman numerals",
+            "answer": "clvi",
+            "normalized": "clvi"
           },
           {
-            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
-            "clue": "Common query in early internet chat rooms",
-            "answer": "asl",
-            "normalized": "asl"
+            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
+            "clue": "Arctic vehicle pulled by dogs",
+            "answer": "sled",
+            "normalized": "sled"
           },
           {
-            "id": "d4e2af26-19f7-4303-a1c6-8fa14523e867",
-            "clue": "Employ a tool to do a job",
-            "answer": "use",
-            "normalized": "use"
+            "id": "ad2b2dbe-2d74-4c9c-91e3-56f1734cbb2a",
+            "clue": "Imploded stadium replaced by Heinz Field: Three __",
+            "answer": "rivers",
+            "normalized": "rivers"
           },
           {
-            "id": "3317a183-19f2-4b6a-8f06-b1698bc3cc53",
-            "clue": "Central European Time, abbreviated",
-            "answer": "cet",
-            "normalized": "cet"
+            "id": "75096422-f17b-4cba-bb9d-fbb33680d6f5",
+            "clue": "White, semi-precious stone",
+            "answer": "opal",
+            "normalized": "opal"
+          },
+          {
+            "id": "48f63ab6-5fee-4212-8e10-2925fea6e54c",
+            "clue": "Fanta comes in these",
+            "answer": "cans",
+            "normalized": "cans"
+          },
+          {
+            "id": "868b26a3-b30e-43db-b4a1-53d5698b9f28",
+            "clue": "Abbreviation for Kiwi dollars",
+            "answer": "nzd",
+            "normalized": "nzd"
+          },
+          {
+            "id": "a5bc831d-5653-48db-a9ba-cc6910ac4630",
+            "clue": "Angelina Jolie biographical nineties model movie",
+            "answer": "gia",
+            "normalized": "gia"
           }
         ],
-        "track": "PC|LenC--Y2026M9D26F1"
+        "track": "PC|LenC--Y2026M9D27F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-26",
+      "key": "2026-09-27",
       "year": 2026,
       "month": 9,
-      "day": 26,
+      "day": 27,
       "small": {
-        "puzzleId": "dd5cddbd-e8e0-4d05-ba8b-7227e8b5d45c",
+        "puzzleId": "58bd3570-002c-4fa9-aab9-642e2bd6c4ec",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "ec5729cd-5001-4043-9122-62f22e718fce",
-            "clue": "A person's thighs where a cat or dog might sit",
-            "answer": "lap",
-            "normalized": "lap"
+            "id": "0711c676-f0f1-47cb-a7d0-a9aed9b77431",
+            "clue": "Location of a computer’s BIOS",
+            "answer": "rom",
+            "normalized": "rom"
           },
           {
-            "id": "216a81f2-49a5-44b3-932e-4ecb0633339c",
-            "clue": "To go somewhere, on foot",
-            "answer": "walk",
-            "normalized": "walk"
+            "id": "7c2bb47b-6791-4cc6-835f-daa356b7d90c",
+            "clue": "Language in which the word \"miel\" means honey",
+            "answer": "french",
+            "normalized": "french"
           },
           {
-            "id": "37683ed4-1c45-46f7-a2f8-1de4b0a4020d",
-            "clue": "Czech car manufacturer that makes the Octavia",
-            "answer": "skoda",
-            "normalized": "skoda"
+            "id": "2c5c4587-da84-4b25-a2a5-d2ef69dc4c7f",
+            "clue": "To actively not take notice of someone",
+            "answer": "ignore",
+            "normalized": "ignore"
           },
           {
-            "id": "c891cd12-ee46-412c-9c09-74d922106353",
-            "clue": "A group of three",
-            "answer": "trio",
-            "normalized": "trio"
+            "id": "5c9d8927-c9bc-42a9-b2da-7da8ec9681db",
+            "clue": "Rack for drying freshly laundered clothes",
+            "answer": "airer",
+            "normalized": "airer"
           },
           {
-            "id": "7568b282-2f11-4458-93de-b5510cf4cca8",
-            "clue": "An after-afterthought in a letter",
-            "answer": "pps",
-            "normalized": "pps"
+            "id": "e53201be-568c-4478-a17d-07475648c8b7",
+            "clue": "Called, given a title",
+            "answer": "named",
+            "normalized": "named"
           },
           {
-            "id": "1634bbe6-c100-44a2-8458-d396136c2b21",
-            "clue": "Irish county with the Rock of Dunamase landmark",
-            "answer": "laois",
-            "normalized": "laois"
+            "id": "891c8c69-9eea-4a20-8d85-4a8b3dff86cf",
+            "clue": "Smacks with palm",
+            "answer": "slaps",
+            "normalized": "slaps"
           },
           {
-            "id": "75992d2b-34f3-4aee-9cdc-a0fa2d0cb9c5",
-            "clue": "Canadian footwear brand with Italian-sounding name",
-            "answer": "aldo",
-            "normalized": "aldo"
+            "id": "34b09dc1-034d-47b6-9ae5-7e510f9dbdd2",
+            "clue": "Initialism for ready for inspection",
+            "answer": "rfi",
+            "normalized": "rfi"
           },
           {
-            "id": "3d3e2c6d-3ac3-4a26-877f-738f6fa98265",
-            "clue": "Acronym for previously known as",
-            "answer": "pka",
-            "normalized": "pka"
+            "id": "4e7475bf-6238-41b9-b40d-c6d9118fafc7",
+            "clue": "Structures that perform a special task in the body",
+            "answer": "organs",
+            "normalized": "organs"
           },
           {
-            "id": "f37a9c6c-5f30-4b19-a913-1fa9f0153425",
-            "clue": "Fake Cincinnati radio station in the 70s TV show",
-            "answer": "wkrp",
-            "normalized": "wkrp"
+            "id": "774521b8-40ff-4a6f-aaca-d6670b57b739",
+            "clue": "Scullions did this sort of task",
+            "answer": "menial",
+            "normalized": "menial"
           },
           {
-            "id": "06c018fe-d62c-4571-aab8-e8a90fd83f66",
-            "clue": "Initialism for standard temperature and pressure",
-            "answer": "stp",
-            "normalized": "stp"
+            "id": "a299d0a7-16b7-4de7-8644-93dad5786de1",
+            "clue": "Marilyn Monroe's birth name, __ Jean",
+            "answer": "norma",
+            "normalized": "norma"
+          },
+          {
+            "id": "e2112ac9-27ca-4fe4-9dd8-5f4dd0354ab3",
+            "clue": "Spread like a clinging plant such as ivy",
+            "answer": "creep",
+            "normalized": "creep"
+          },
+          {
+            "id": "0234393c-2442-4c6a-a2c5-0661c56a20c4",
+            "clue": "Groups of domestic animals",
+            "answer": "herds",
+            "normalized": "herds"
           }
         ],
-        "track": "PC|LenC--Y2026M9D26F0"
+        "track": "PC|LenC--Y2026M9D27F0"
       },
       "mid": {
-        "puzzleId": "ceb45fdf-d241-4745-a59d-1f712eefa987",
+        "puzzleId": "cbe82e03-fa0c-43d9-9ed2-6677dc396c1a",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 1,
+        "version": 3,
         "answers": [
           {
-            "id": "4dbe49b0-1ad8-40b7-8bdb-dc314e04e392",
-            "clue": "Kallas, became Estonian PM in January 2021",
-            "answer": "kaja",
-            "normalized": "kaja"
+            "id": "fc08f3fa-7f11-465c-ae97-b07a475f224e",
+            "clue": "Acronym for positive negative positive",
+            "answer": "pnp",
+            "normalized": "pnp"
           },
           {
-            "id": "89e9a250-19c0-49be-a2f9-bad81309e0aa",
-            "clue": "Homer's ancient Greek epic set during Trojan War",
-            "answer": "iliad",
-            "normalized": "iliad"
+            "id": "aa460af8-e066-4f26-a319-95fbee4135e3",
+            "clue": "Bachelor of Computer Science",
+            "answer": "bcs",
+            "normalized": "bcs"
           },
           {
-            "id": "ee47e116-19bd-46a1-8b06-7acff8ecc865",
-            "clue": "Make like a mole",
-            "answer": "burrow",
-            "normalized": "burrow"
+            "id": "720b30f1-8a12-49b1-a1c8-5a31879852e6",
+            "clue": "Idiom meaning a run of winning or luck",
+            "answer": "on a roll",
+            "normalized": "onaroll"
           },
           {
-            "id": "93aa1bf4-2b24-4c5d-9d67-cd0d691efc43",
-            "clue": "French abbreviation for addressing a woman",
-            "answer": "mme",
-            "normalized": "mme"
+            "id": "fdc0d40b-a369-49d3-a810-b52aaf619877",
+            "clue": "Take over for an exhausted pitcher",
+            "answer": "relieve",
+            "normalized": "relieve"
           },
           {
-            "id": "eeebc659-2edd-41f4-b121-786c418b9fc9",
-            "clue": "Short for Republic of South Africa",
-            "answer": "rsa",
-            "normalized": "rsa"
+            "id": "dce3c899-e2d9-4f83-bc88-a933f871e15f",
+            "clue": "To purposefully dodge something",
+            "answer": "avoid",
+            "normalized": "avoid"
           },
           {
-            "id": "1a11820b-4659-46bc-bc07-5c41e8ba34cb",
-            "clue": "Valuable Italian coins of the Middle Ages",
-            "answer": "ducats",
-            "normalized": "ducats"
+            "id": "602e15e2-65a0-4871-a497-e8b973a0a004",
+            "clue": "A group of eight living or non-living things",
+            "answer": "octet",
+            "normalized": "octet"
           },
           {
-            "id": "04866776-e5ab-4beb-a16d-ae2939fcfdb0",
-            "clue": "Plant part that supports petals",
-            "answer": "sepal",
-            "normalized": "sepal"
+            "id": "b58c6311-a485-4b1e-967f-d8a758a830d9",
+            "clue": "Combination of wine with certain foods",
+            "answer": "pairing",
+            "normalized": "pairing"
           },
           {
-            "id": "0be5f02d-7636-4089-884f-1210fc340142",
-            "clue": "Online selling platform for creative goods",
-            "answer": "etsy",
-            "normalized": "etsy"
+            "id": "d5322d24-8a57-4098-9172-debb579ca5a8",
+            "clue": "Native people of what is now the Southwestern US",
+            "answer": "anasazi",
+            "normalized": "anasazi"
           },
           {
-            "id": "77afec34-166f-416e-a820-c095ebde5898",
-            "clue": "Heidi, German model and America's Got Talent judge",
-            "answer": "klum",
-            "normalized": "klum"
+            "id": "093bc1b5-d217-42ca-8a9f-9fad104a97a0",
+            "clue": "Three-letter code for the Lesotho loti",
+            "answer": "lsl",
+            "normalized": "lsl"
           },
           {
-            "id": "6dbeaaf1-fb2f-4f0a-8179-322aa523b301",
-            "clue": "To have put out a radio show",
-            "answer": "aired",
-            "normalized": "aired"
+            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
+            "clue": "Non-disclosure agreement, in short",
+            "answer": "nda",
+            "normalized": "nda"
           },
           {
-            "id": "ea1c8ec6-fa6e-4102-81e1-99254c93665d",
-            "clue": "Glass jam container",
-            "answer": "jar",
-            "normalized": "jar"
+            "id": "9ae42aea-d9c8-4838-8b32-2165339b51a8",
+            "clue": "__ favor, Spanish phrase meaning please",
+            "answer": "por",
+            "normalized": "por"
           },
           {
-            "id": "dac9f902-a785-42ff-8e55-3a539188c605",
-            "clue": "Shakespeare's much fuss about nothing",
-            "answer": "ado",
-            "normalized": "ado"
+            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
+            "clue": "On a compass, the opposite of SSW",
+            "answer": "nne",
+            "normalized": "nne"
           },
           {
-            "id": "c1c68580-45f8-4f34-a340-57d4e29fcc06",
-            "clue": "Computer company that \"puts smart to work\"",
-            "answer": "ibm",
-            "normalized": "ibm"
+            "id": "95b6e846-ca28-4d04-91a6-e71543b02b11",
+            "clue": "Like a palace",
+            "answer": "palatial",
+            "normalized": "palatial"
           },
           {
-            "id": "1f7a4975-e9ad-43a5-97db-e20140a1b39f",
-            "clue": "Covers a gift in paper",
-            "answer": "wraps",
-            "normalized": "wraps"
+            "id": "83678b06-2977-43fe-9332-9d4043bab7c9",
+            "clue": "From the Greek region of Thebes in ancient times",
+            "answer": "boeotian",
+            "normalized": "boeotian"
           },
           {
-            "id": "ad19e906-e1ed-458f-93a7-d3c01fab7d20",
-            "clue": "Remain, don't move",
-            "answer": "stay",
-            "normalized": "stay"
+            "id": "387f12af-aa3e-4f12-90c8-ff58750c048c",
+            "clue": "156 written in Roman numerals",
+            "answer": "clvi",
+            "normalized": "clvi"
           },
           {
-            "id": "d6682a06-2c3d-451c-a52b-8f67aae226f1",
-            "clue": "Common query in early internet chat rooms",
-            "answer": "asl",
-            "normalized": "asl"
+            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
+            "clue": "Arctic vehicle pulled by dogs",
+            "answer": "sled",
+            "normalized": "sled"
           },
           {
-            "id": "d4e2af26-19f7-4303-a1c6-8fa14523e867",
-            "clue": "Employ a tool to do a job",
-            "answer": "use",
-            "normalized": "use"
+            "id": "ad2b2dbe-2d74-4c9c-91e3-56f1734cbb2a",
+            "clue": "Imploded stadium replaced by Heinz Field: Three __",
+            "answer": "rivers",
+            "normalized": "rivers"
           },
           {
-            "id": "3317a183-19f2-4b6a-8f06-b1698bc3cc53",
-            "clue": "Central European Time, abbreviated",
-            "answer": "cet",
-            "normalized": "cet"
+            "id": "75096422-f17b-4cba-bb9d-fbb33680d6f5",
+            "clue": "White, semi-precious stone",
+            "answer": "opal",
+            "normalized": "opal"
+          },
+          {
+            "id": "48f63ab6-5fee-4212-8e10-2925fea6e54c",
+            "clue": "Fanta comes in these",
+            "answer": "cans",
+            "normalized": "cans"
+          },
+          {
+            "id": "868b26a3-b30e-43db-b4a1-53d5698b9f28",
+            "clue": "Abbreviation for Kiwi dollars",
+            "answer": "nzd",
+            "normalized": "nzd"
+          },
+          {
+            "id": "a5bc831d-5653-48db-a9ba-cc6910ac4630",
+            "clue": "Angelina Jolie biographical nineties model movie",
+            "answer": "gia",
+            "normalized": "gia"
           }
         ],
-        "track": "PC|LenC--Y2026M9D26F1"
+        "track": "PC|LenC--Y2026M9D27F1"
       }
     },
     "latestAvailableEntry": {
@@ -441413,21 +441473,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "j0vs/okvaxbOAFr0qmczho1JBHiFRonrZ/KtTWKTbxiuoo3hK2anwZrCdc3FbjQ9hILwgNxfXB4IB1qIOq4tV3klDUOnJ3h96txupih45XdF9dEoYZnmPi1wVsMZurL821uPwXfFbkQpvAHDs8F9epHP2v7/FJAAXw0z/zRkY8WMLE5Ednf1zJukhTcI/qH5jrKv63MoqIE9QAyAcINefK16QYow5+BmBVCiKpXCVAP+mu9MlG0ma9kOdS1TG2gV693PzuN2Jk7zfWvSXHMluSxMVnn6IFKYLzcf7BzBxUE="
+        "YLUJWOkdgtdqO6lm5u4Cygr8hoQUWIMd/M9Up6/UkSpuWDmngyIonVhatZ2pfMmfdVLf2zSPfuol/kS3pBTkA14siLVMmeoeaVnNRg6XZ0Q9MMJUWO7KOjOZcR5A/D4eue/to/Mwq7T/wUKc8mzVpv11TR4bDYq/5enZfWv90eTIla24mWIQumu9mRXKUMcSmda3IS4zf0g3DU+jGxOXqBZxlwlf0BIUUbnBhBsP4FpkOj8Eru7I0lhrC7HbyTklwgBywT1R59hKxBU9frraZKdzTf0zpGj6Mth3pXz13QE="
       ]
     },
     "decrypted": {
-      "Id": "7d9ae329-0f33-4fd7-aaa0-5fa0f3bb570b",
-      "Date": "2026-09-26T00:00:00Z",
+      "Id": "e68e8b98-d03b-49c2-825a-7c5fa805134d",
+      "Date": "2026-09-27T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "foggy",
-      "NormalizedPassword": "foggy",
+      "Password": "shave",
+      "NormalizedPassword": "shave",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-26T03:13:20.0110000+05:30",
-    "hash": "c0304a9f15eb96f073941dcc2f7c6bc8",
+    "dtu": "2026-09-27T02:49:44.5410000+05:30",
+    "hash": "2b5f15bda27aeb4605e655c54303b170",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
