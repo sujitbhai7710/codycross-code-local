@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T21:19:44.541Z",
+  "generatedAt": "2026-09-27T21:29:28.053Z",
   "today": {
     "year": 2026,
     "month": 9,
-    "day": 27
+    "day": 28
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 50
+        "QuantidadeDeFases": 52
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -84063,7 +84063,7 @@
             },
             {
               "id": "9444a88c-7263-46ec-af29-c785935010d8",
-              "clue": "Get covered in frozen water, like car windows",
+              "clue": "Become covered in frozen water, like car windows",
               "answer": "ice up",
               "normalized": "iceup"
             },
@@ -126672,7 +126672,7 @@
             },
             {
               "id": "9444a88c-7263-46ec-af29-c785935010d8",
-              "clue": "Get covered in frozen water, like car windows",
+              "clue": "Become covered in frozen water, like car windows",
               "answer": "ice up",
               "normalized": "iceup"
             },
@@ -440823,451 +440823,511 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-27",
+      "key": "2026-09-28",
       "year": 2026,
       "month": 9,
-      "day": 27,
+      "day": 28,
       "small": {
-        "puzzleId": "58bd3570-002c-4fa9-aab9-642e2bd6c4ec",
+        "puzzleId": "4abf1316-7ba3-4ff1-8d05-67018b506076",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "0711c676-f0f1-47cb-a7d0-a9aed9b77431",
-            "clue": "Location of a computer’s BIOS",
-            "answer": "rom",
-            "normalized": "rom"
+            "id": "9b417f43-8a84-479a-8d01-2816b77b2ef9",
+            "clue": "Goes out like a tide",
+            "answer": "ebbs",
+            "normalized": "ebbs"
           },
           {
-            "id": "7c2bb47b-6791-4cc6-835f-daa356b7d90c",
-            "clue": "Language in which the word \"miel\" means honey",
-            "answer": "french",
-            "normalized": "french"
+            "id": "64d2d0b9-26b8-48d7-9801-e9bf16b05dc6",
+            "clue": "Brusque, abrupt with words",
+            "answer": "curt",
+            "normalized": "curt"
           },
           {
-            "id": "2c5c4587-da84-4b25-a2a5-d2ef69dc4c7f",
-            "clue": "To actively not take notice of someone",
-            "answer": "ignore",
-            "normalized": "ignore"
+            "id": "f788d490-3be3-4154-9566-0d8fbcccb208",
+            "clue": "Blood pumping organ",
+            "answer": "heart",
+            "normalized": "heart"
           },
           {
-            "id": "5c9d8927-c9bc-42a9-b2da-7da8ec9681db",
-            "clue": "Rack for drying freshly laundered clothes",
-            "answer": "airer",
-            "normalized": "airer"
+            "id": "0bbf6337-835a-447f-8f7e-946cbbe7ae24",
+            "clue": "Broadcasting live",
+            "answer": "on air",
+            "normalized": "onair"
           },
           {
-            "id": "e53201be-568c-4478-a17d-07475648c8b7",
-            "clue": "Called, given a title",
-            "answer": "named",
-            "normalized": "named"
+            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
+            "clue": "Verdi Egyptian opera about Ethiopian princess",
+            "answer": "aida",
+            "normalized": "aida"
           },
           {
-            "id": "891c8c69-9eea-4a20-8d85-4a8b3dff86cf",
-            "clue": "Smacks with palm",
-            "answer": "slaps",
-            "normalized": "slaps"
+            "id": "c82f5ad3-a1bc-4f6b-bda3-f4780e723a21",
+            "clue": "Abbreviation for month that was once seventh",
+            "answer": "sep",
+            "normalized": "sep"
           },
           {
-            "id": "34b09dc1-034d-47b6-9ae5-7e510f9dbdd2",
-            "clue": "Initialism for ready for inspection",
-            "answer": "rfi",
-            "normalized": "rfi"
+            "id": "b6a4cdd2-27b1-4a00-9a43-267c9e5e9e7b",
+            "clue": "Amazon smart speaker",
+            "answer": "echo",
+            "normalized": "echo"
           },
           {
-            "id": "4e7475bf-6238-41b9-b40d-c6d9118fafc7",
-            "clue": "Structures that perform a special task in the body",
-            "answer": "organs",
-            "normalized": "organs"
+            "id": "f8892056-bcfc-4968-a570-e907da10ebcf",
+            "clue": "__ Vista, Disney brand with \"good view\" name",
+            "answer": "buena",
+            "normalized": "buena"
           },
           {
-            "id": "774521b8-40ff-4a6f-aaca-d6670b57b739",
-            "clue": "Scullions did this sort of task",
-            "answer": "menial",
-            "normalized": "menial"
+            "id": "acb3196b-2cad-4a72-ba2a-3a28a1376935",
+            "clue": "Traditional South African barbecues",
+            "answer": "braais",
+            "normalized": "braais"
           },
           {
-            "id": "a299d0a7-16b7-4de7-8644-93dad5786de1",
-            "clue": "Marilyn Monroe's birth name, __ Jean",
-            "answer": "norma",
-            "normalized": "norma"
+            "id": "d5da4dd3-3072-468f-8d5b-e221e1c639ea",
+            "clue": "To walk with long steps",
+            "answer": "stride",
+            "normalized": "stride"
           },
           {
-            "id": "e2112ac9-27ca-4fe4-9dd8-5f4dd0354ab3",
-            "clue": "Spread like a clinging plant such as ivy",
-            "answer": "creep",
-            "normalized": "creep"
-          },
-          {
-            "id": "0234393c-2442-4c6a-a2c5-0661c56a20c4",
-            "clue": "Groups of domestic animals",
-            "answer": "herds",
-            "normalized": "herds"
+            "id": "f5366fcd-6756-45a2-a1b2-d58c4c60e572",
+            "clue": "Overly touristy spot designed to pull in crowds",
+            "answer": "trap",
+            "normalized": "trap"
           }
         ],
-        "track": "PC|LenC--Y2026M9D27F0"
+        "track": "PC|LenC--Y2026M9D28F0"
       },
       "mid": {
-        "puzzleId": "cbe82e03-fa0c-43d9-9ed2-6677dc396c1a",
+        "puzzleId": "ded1e19a-2712-45b7-b152-7a31d856c912",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "fc08f3fa-7f11-465c-ae97-b07a475f224e",
-            "clue": "Acronym for positive negative positive",
-            "answer": "pnp",
-            "normalized": "pnp"
+            "id": "210709ca-b858-4004-b1a8-89c518b1e337",
+            "clue": "Carpets, mats",
+            "answer": "rugs",
+            "normalized": "rugs"
           },
           {
-            "id": "aa460af8-e066-4f26-a319-95fbee4135e3",
-            "clue": "Bachelor of Computer Science",
-            "answer": "bcs",
-            "normalized": "bcs"
+            "id": "aa65d557-f788-4980-a529-02190e90912b",
+            "clue": "Short for Deborah",
+            "answer": "deb",
+            "normalized": "deb"
           },
           {
-            "id": "720b30f1-8a12-49b1-a1c8-5a31879852e6",
-            "clue": "Idiom meaning a run of winning or luck",
-            "answer": "on a roll",
-            "normalized": "onaroll"
+            "id": "a8dce381-66d6-4869-a3af-d2fa58bea425",
+            "clue": "Chinese political philosopher from 5th century BCE",
+            "answer": "confucius",
+            "normalized": "confucius"
           },
           {
-            "id": "fdc0d40b-a369-49d3-a810-b52aaf619877",
-            "clue": "Take over for an exhausted pitcher",
-            "answer": "relieve",
-            "normalized": "relieve"
+            "id": "69fdc8bf-95c6-4349-82ba-50ea379351c5",
+            "clue": "R&B supergroup with hit Dance Tonight",
+            "answer": "lucy pearl",
+            "normalized": "lucypearl"
           },
           {
-            "id": "dce3c899-e2d9-4f83-bc88-a933f871e15f",
-            "clue": "To purposefully dodge something",
-            "answer": "avoid",
-            "normalized": "avoid"
+            "id": "83db27d6-0005-4f29-9c76-e3993ddea6dc",
+            "clue": "Hug, kiss, hug, at the end of a letter",
+            "answer": "oxo",
+            "normalized": "oxo"
           },
           {
-            "id": "602e15e2-65a0-4871-a497-e8b973a0a004",
-            "clue": "A group of eight living or non-living things",
-            "answer": "octet",
-            "normalized": "octet"
+            "id": "f7eff1fc-1795-41c6-86a0-42a675e0d4b8",
+            "clue": "Restless leg syndrome for short",
+            "answer": "rls",
+            "normalized": "rls"
           },
           {
-            "id": "b58c6311-a485-4b1e-967f-d8a758a830d9",
-            "clue": "Combination of wine with certain foods",
-            "answer": "pairing",
-            "normalized": "pairing"
+            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
+            "clue": "How to spell the letter V when said aloud",
+            "answer": "vee",
+            "normalized": "vee"
           },
           {
-            "id": "d5322d24-8a57-4098-9172-debb579ca5a8",
-            "clue": "Native people of what is now the Southwestern US",
-            "answer": "anasazi",
-            "normalized": "anasazi"
+            "id": "29acb32d-92c9-4060-ba66-b3231fbed2e9",
+            "clue": "It sometimes calls the kettle black",
+            "answer": "pot",
+            "normalized": "pot"
           },
           {
-            "id": "093bc1b5-d217-42ca-8a9f-9fad104a97a0",
-            "clue": "Three-letter code for the Lesotho loti",
-            "answer": "lsl",
-            "normalized": "lsl"
+            "id": "2c15b25f-13f1-42c0-bcf3-51e3a89c3916",
+            "clue": "One's fantasy house",
+            "answer": "dream home",
+            "normalized": "dreamhome"
           },
           {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "13d7b8a8-34d8-4ef2-aa4c-82912fa4499f",
+            "clue": "Bones that make up the spinal column",
+            "answer": "vertebrae",
+            "normalized": "vertebrae"
           },
           {
-            "id": "9ae42aea-d9c8-4838-8b32-2165339b51a8",
-            "clue": "__ favor, Spanish phrase meaning please",
-            "answer": "por",
-            "normalized": "por"
+            "id": "6ac63f3c-4798-4ce7-ba22-9c6f369ad59f",
+            "clue": "Private messages on e.g. Instagram",
+            "answer": "dms",
+            "normalized": "dms"
           },
           {
-            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
-            "clue": "On a compass, the opposite of SSW",
-            "answer": "nne",
-            "normalized": "nne"
+            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
+            "clue": "Fly high in the air",
+            "answer": "soar",
+            "normalized": "soar"
           },
           {
-            "id": "95b6e846-ca28-4d04-91a6-e71543b02b11",
-            "clue": "Like a palace",
-            "answer": "palatial",
-            "normalized": "palatial"
+            "id": "0a9678a7-8c2a-43b3-be65-27b3e2cdf877",
+            "clue": "Flour and fat mix used to thicken sauce or gravy",
+            "answer": "roux",
+            "normalized": "roux"
           },
           {
-            "id": "83678b06-2977-43fe-9332-9d4043bab7c9",
-            "clue": "From the Greek region of Thebes in ancient times",
-            "answer": "boeotian",
-            "normalized": "boeotian"
+            "id": "7e20cefd-c731-48d2-bc3a-ad05cc3935f5",
+            "clue": "Reveals; exposes",
+            "answer": "uncovers",
+            "normalized": "uncovers"
           },
           {
-            "id": "387f12af-aa3e-4f12-90c8-ff58750c048c",
-            "clue": "156 written in Roman numerals",
-            "answer": "clvi",
-            "normalized": "clvi"
+            "id": "9f588c4a-ba5f-4d7d-a5ca-5dc0ae8375bf",
+            "clue": "In internet speak, it means good for you",
+            "answer": "gfy",
+            "normalized": "gfy"
           },
           {
-            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
-            "clue": "Arctic vehicle pulled by dogs",
-            "answer": "sled",
-            "normalized": "sled"
+            "id": "a51311b0-5f1b-4a98-b939-052e73f4d2c3",
+            "clue": "Diana Ross and The __",
+            "answer": "supremes",
+            "normalized": "supremes"
           },
           {
-            "id": "ad2b2dbe-2d74-4c9c-91e3-56f1734cbb2a",
-            "clue": "Imploded stadium replaced by Heinz Field: Three __",
-            "answer": "rivers",
-            "normalized": "rivers"
+            "id": "3c090a19-1be3-45bb-8aeb-e5cb7fff6148",
+            "clue": "Dispersion of a group of peoples around the world",
+            "answer": "diaspora",
+            "normalized": "diaspora"
           },
           {
-            "id": "75096422-f17b-4cba-bb9d-fbb33680d6f5",
-            "clue": "White, semi-precious stone",
-            "answer": "opal",
-            "normalized": "opal"
+            "id": "f6054265-a1a5-44c8-92fd-8ba629532a58",
+            "clue": "Three-letter code for the currency spent in France",
+            "answer": "eur",
+            "normalized": "eur"
           },
           {
-            "id": "48f63ab6-5fee-4212-8e10-2925fea6e54c",
-            "clue": "Fanta comes in these",
-            "answer": "cans",
-            "normalized": "cans"
+            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
+            "clue": "Many deaf people use this language in the UK",
+            "answer": "bsl",
+            "normalized": "bsl"
           },
           {
-            "id": "868b26a3-b30e-43db-b4a1-53d5698b9f28",
-            "clue": "Abbreviation for Kiwi dollars",
-            "answer": "nzd",
-            "normalized": "nzd"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "a5bc831d-5653-48db-a9ba-cc6910ac4630",
-            "clue": "Angelina Jolie biographical nineties model movie",
-            "answer": "gia",
-            "normalized": "gia"
+            "id": "0f8595ac-603f-4de6-a27a-ecf95fff03dd",
+            "clue": "Animation frame",
+            "answer": "cel",
+            "normalized": "cel"
+          },
+          {
+            "id": "f162be9b-3fc4-4941-bff4-9931c8f3b61f",
+            "clue": "Consume food",
+            "answer": "eat",
+            "normalized": "eat"
+          },
+          {
+            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
+            "clue": "Actor Epps of Shooter and House",
+            "answer": "omar",
+            "normalized": "omar"
+          },
+          {
+            "id": "996210c8-e359-446e-833c-d7caf6ba8139",
+            "clue": "Golf ball platform",
+            "answer": "tee",
+            "normalized": "tee"
+          },
+          {
+            "id": "c497d577-af0d-405d-b05c-4b04c99f8996",
+            "clue": "Disc for playing movies at home or on a PC",
+            "answer": "dvd",
+            "normalized": "dvd"
+          },
+          {
+            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
+            "clue": "Shiny Happy People band",
+            "answer": "rem",
+            "normalized": "rem"
+          },
+          {
+            "id": "9eb57aea-aef0-4c67-a3ff-46adbd9e12bf",
+            "clue": "Game of Thrones' television network",
+            "answer": "hbo",
+            "normalized": "hbo"
           }
         ],
-        "track": "PC|LenC--Y2026M9D27F1"
+        "track": "PC|LenC--Y2026M9D28F1"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-27",
+      "key": "2026-09-28",
       "year": 2026,
       "month": 9,
-      "day": 27,
+      "day": 28,
       "small": {
-        "puzzleId": "58bd3570-002c-4fa9-aab9-642e2bd6c4ec",
+        "puzzleId": "4abf1316-7ba3-4ff1-8d05-67018b506076",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 1,
         "answers": [
           {
-            "id": "0711c676-f0f1-47cb-a7d0-a9aed9b77431",
-            "clue": "Location of a computer’s BIOS",
-            "answer": "rom",
-            "normalized": "rom"
+            "id": "9b417f43-8a84-479a-8d01-2816b77b2ef9",
+            "clue": "Goes out like a tide",
+            "answer": "ebbs",
+            "normalized": "ebbs"
           },
           {
-            "id": "7c2bb47b-6791-4cc6-835f-daa356b7d90c",
-            "clue": "Language in which the word \"miel\" means honey",
-            "answer": "french",
-            "normalized": "french"
+            "id": "64d2d0b9-26b8-48d7-9801-e9bf16b05dc6",
+            "clue": "Brusque, abrupt with words",
+            "answer": "curt",
+            "normalized": "curt"
           },
           {
-            "id": "2c5c4587-da84-4b25-a2a5-d2ef69dc4c7f",
-            "clue": "To actively not take notice of someone",
-            "answer": "ignore",
-            "normalized": "ignore"
+            "id": "f788d490-3be3-4154-9566-0d8fbcccb208",
+            "clue": "Blood pumping organ",
+            "answer": "heart",
+            "normalized": "heart"
           },
           {
-            "id": "5c9d8927-c9bc-42a9-b2da-7da8ec9681db",
-            "clue": "Rack for drying freshly laundered clothes",
-            "answer": "airer",
-            "normalized": "airer"
+            "id": "0bbf6337-835a-447f-8f7e-946cbbe7ae24",
+            "clue": "Broadcasting live",
+            "answer": "on air",
+            "normalized": "onair"
           },
           {
-            "id": "e53201be-568c-4478-a17d-07475648c8b7",
-            "clue": "Called, given a title",
-            "answer": "named",
-            "normalized": "named"
+            "id": "da8c197b-686e-4416-af32-0b2b6ceb127f",
+            "clue": "Verdi Egyptian opera about Ethiopian princess",
+            "answer": "aida",
+            "normalized": "aida"
           },
           {
-            "id": "891c8c69-9eea-4a20-8d85-4a8b3dff86cf",
-            "clue": "Smacks with palm",
-            "answer": "slaps",
-            "normalized": "slaps"
+            "id": "c82f5ad3-a1bc-4f6b-bda3-f4780e723a21",
+            "clue": "Abbreviation for month that was once seventh",
+            "answer": "sep",
+            "normalized": "sep"
           },
           {
-            "id": "34b09dc1-034d-47b6-9ae5-7e510f9dbdd2",
-            "clue": "Initialism for ready for inspection",
-            "answer": "rfi",
-            "normalized": "rfi"
+            "id": "b6a4cdd2-27b1-4a00-9a43-267c9e5e9e7b",
+            "clue": "Amazon smart speaker",
+            "answer": "echo",
+            "normalized": "echo"
           },
           {
-            "id": "4e7475bf-6238-41b9-b40d-c6d9118fafc7",
-            "clue": "Structures that perform a special task in the body",
-            "answer": "organs",
-            "normalized": "organs"
+            "id": "f8892056-bcfc-4968-a570-e907da10ebcf",
+            "clue": "__ Vista, Disney brand with \"good view\" name",
+            "answer": "buena",
+            "normalized": "buena"
           },
           {
-            "id": "774521b8-40ff-4a6f-aaca-d6670b57b739",
-            "clue": "Scullions did this sort of task",
-            "answer": "menial",
-            "normalized": "menial"
+            "id": "acb3196b-2cad-4a72-ba2a-3a28a1376935",
+            "clue": "Traditional South African barbecues",
+            "answer": "braais",
+            "normalized": "braais"
           },
           {
-            "id": "a299d0a7-16b7-4de7-8644-93dad5786de1",
-            "clue": "Marilyn Monroe's birth name, __ Jean",
-            "answer": "norma",
-            "normalized": "norma"
+            "id": "d5da4dd3-3072-468f-8d5b-e221e1c639ea",
+            "clue": "To walk with long steps",
+            "answer": "stride",
+            "normalized": "stride"
           },
           {
-            "id": "e2112ac9-27ca-4fe4-9dd8-5f4dd0354ab3",
-            "clue": "Spread like a clinging plant such as ivy",
-            "answer": "creep",
-            "normalized": "creep"
-          },
-          {
-            "id": "0234393c-2442-4c6a-a2c5-0661c56a20c4",
-            "clue": "Groups of domestic animals",
-            "answer": "herds",
-            "normalized": "herds"
+            "id": "f5366fcd-6756-45a2-a1b2-d58c4c60e572",
+            "clue": "Overly touristy spot designed to pull in crowds",
+            "answer": "trap",
+            "normalized": "trap"
           }
         ],
-        "track": "PC|LenC--Y2026M9D27F0"
+        "track": "PC|LenC--Y2026M9D28F0"
       },
       "mid": {
-        "puzzleId": "cbe82e03-fa0c-43d9-9ed2-6677dc396c1a",
+        "puzzleId": "ded1e19a-2712-45b7-b152-7a31d856c912",
         "fase": 1,
         "size": 2,
         "status": 1,
-        "version": 3,
+        "version": 1,
         "answers": [
           {
-            "id": "fc08f3fa-7f11-465c-ae97-b07a475f224e",
-            "clue": "Acronym for positive negative positive",
-            "answer": "pnp",
-            "normalized": "pnp"
+            "id": "210709ca-b858-4004-b1a8-89c518b1e337",
+            "clue": "Carpets, mats",
+            "answer": "rugs",
+            "normalized": "rugs"
           },
           {
-            "id": "aa460af8-e066-4f26-a319-95fbee4135e3",
-            "clue": "Bachelor of Computer Science",
-            "answer": "bcs",
-            "normalized": "bcs"
+            "id": "aa65d557-f788-4980-a529-02190e90912b",
+            "clue": "Short for Deborah",
+            "answer": "deb",
+            "normalized": "deb"
           },
           {
-            "id": "720b30f1-8a12-49b1-a1c8-5a31879852e6",
-            "clue": "Idiom meaning a run of winning or luck",
-            "answer": "on a roll",
-            "normalized": "onaroll"
+            "id": "a8dce381-66d6-4869-a3af-d2fa58bea425",
+            "clue": "Chinese political philosopher from 5th century BCE",
+            "answer": "confucius",
+            "normalized": "confucius"
           },
           {
-            "id": "fdc0d40b-a369-49d3-a810-b52aaf619877",
-            "clue": "Take over for an exhausted pitcher",
-            "answer": "relieve",
-            "normalized": "relieve"
+            "id": "69fdc8bf-95c6-4349-82ba-50ea379351c5",
+            "clue": "R&B supergroup with hit Dance Tonight",
+            "answer": "lucy pearl",
+            "normalized": "lucypearl"
           },
           {
-            "id": "dce3c899-e2d9-4f83-bc88-a933f871e15f",
-            "clue": "To purposefully dodge something",
-            "answer": "avoid",
-            "normalized": "avoid"
+            "id": "83db27d6-0005-4f29-9c76-e3993ddea6dc",
+            "clue": "Hug, kiss, hug, at the end of a letter",
+            "answer": "oxo",
+            "normalized": "oxo"
           },
           {
-            "id": "602e15e2-65a0-4871-a497-e8b973a0a004",
-            "clue": "A group of eight living or non-living things",
-            "answer": "octet",
-            "normalized": "octet"
+            "id": "f7eff1fc-1795-41c6-86a0-42a675e0d4b8",
+            "clue": "Restless leg syndrome for short",
+            "answer": "rls",
+            "normalized": "rls"
           },
           {
-            "id": "b58c6311-a485-4b1e-967f-d8a758a830d9",
-            "clue": "Combination of wine with certain foods",
-            "answer": "pairing",
-            "normalized": "pairing"
+            "id": "7be5a79b-78dc-4e68-a6b8-d47104d30d94",
+            "clue": "How to spell the letter V when said aloud",
+            "answer": "vee",
+            "normalized": "vee"
           },
           {
-            "id": "d5322d24-8a57-4098-9172-debb579ca5a8",
-            "clue": "Native people of what is now the Southwestern US",
-            "answer": "anasazi",
-            "normalized": "anasazi"
+            "id": "29acb32d-92c9-4060-ba66-b3231fbed2e9",
+            "clue": "It sometimes calls the kettle black",
+            "answer": "pot",
+            "normalized": "pot"
           },
           {
-            "id": "093bc1b5-d217-42ca-8a9f-9fad104a97a0",
-            "clue": "Three-letter code for the Lesotho loti",
-            "answer": "lsl",
-            "normalized": "lsl"
+            "id": "2c15b25f-13f1-42c0-bcf3-51e3a89c3916",
+            "clue": "One's fantasy house",
+            "answer": "dream home",
+            "normalized": "dreamhome"
           },
           {
-            "id": "21634f2c-7d83-4cbd-978d-dfb12c947c4a",
-            "clue": "Non-disclosure agreement, in short",
-            "answer": "nda",
-            "normalized": "nda"
+            "id": "13d7b8a8-34d8-4ef2-aa4c-82912fa4499f",
+            "clue": "Bones that make up the spinal column",
+            "answer": "vertebrae",
+            "normalized": "vertebrae"
           },
           {
-            "id": "9ae42aea-d9c8-4838-8b32-2165339b51a8",
-            "clue": "__ favor, Spanish phrase meaning please",
-            "answer": "por",
-            "normalized": "por"
+            "id": "6ac63f3c-4798-4ce7-ba22-9c6f369ad59f",
+            "clue": "Private messages on e.g. Instagram",
+            "answer": "dms",
+            "normalized": "dms"
           },
           {
-            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
-            "clue": "On a compass, the opposite of SSW",
-            "answer": "nne",
-            "normalized": "nne"
+            "id": "14c2b20c-ee17-4ae5-8ffe-9742151edd6a",
+            "clue": "Fly high in the air",
+            "answer": "soar",
+            "normalized": "soar"
           },
           {
-            "id": "95b6e846-ca28-4d04-91a6-e71543b02b11",
-            "clue": "Like a palace",
-            "answer": "palatial",
-            "normalized": "palatial"
+            "id": "0a9678a7-8c2a-43b3-be65-27b3e2cdf877",
+            "clue": "Flour and fat mix used to thicken sauce or gravy",
+            "answer": "roux",
+            "normalized": "roux"
           },
           {
-            "id": "83678b06-2977-43fe-9332-9d4043bab7c9",
-            "clue": "From the Greek region of Thebes in ancient times",
-            "answer": "boeotian",
-            "normalized": "boeotian"
+            "id": "7e20cefd-c731-48d2-bc3a-ad05cc3935f5",
+            "clue": "Reveals; exposes",
+            "answer": "uncovers",
+            "normalized": "uncovers"
           },
           {
-            "id": "387f12af-aa3e-4f12-90c8-ff58750c048c",
-            "clue": "156 written in Roman numerals",
-            "answer": "clvi",
-            "normalized": "clvi"
+            "id": "9f588c4a-ba5f-4d7d-a5ca-5dc0ae8375bf",
+            "clue": "In internet speak, it means good for you",
+            "answer": "gfy",
+            "normalized": "gfy"
           },
           {
-            "id": "f17da3ba-4130-47da-8783-0da30ef645c6",
-            "clue": "Arctic vehicle pulled by dogs",
-            "answer": "sled",
-            "normalized": "sled"
+            "id": "a51311b0-5f1b-4a98-b939-052e73f4d2c3",
+            "clue": "Diana Ross and The __",
+            "answer": "supremes",
+            "normalized": "supremes"
           },
           {
-            "id": "ad2b2dbe-2d74-4c9c-91e3-56f1734cbb2a",
-            "clue": "Imploded stadium replaced by Heinz Field: Three __",
-            "answer": "rivers",
-            "normalized": "rivers"
+            "id": "3c090a19-1be3-45bb-8aeb-e5cb7fff6148",
+            "clue": "Dispersion of a group of peoples around the world",
+            "answer": "diaspora",
+            "normalized": "diaspora"
           },
           {
-            "id": "75096422-f17b-4cba-bb9d-fbb33680d6f5",
-            "clue": "White, semi-precious stone",
-            "answer": "opal",
-            "normalized": "opal"
+            "id": "f6054265-a1a5-44c8-92fd-8ba629532a58",
+            "clue": "Three-letter code for the currency spent in France",
+            "answer": "eur",
+            "normalized": "eur"
           },
           {
-            "id": "48f63ab6-5fee-4212-8e10-2925fea6e54c",
-            "clue": "Fanta comes in these",
-            "answer": "cans",
-            "normalized": "cans"
+            "id": "618a6cf7-aad9-4a0d-ae71-00f8d5316eec",
+            "clue": "Many deaf people use this language in the UK",
+            "answer": "bsl",
+            "normalized": "bsl"
           },
           {
-            "id": "868b26a3-b30e-43db-b4a1-53d5698b9f28",
-            "clue": "Abbreviation for Kiwi dollars",
-            "answer": "nzd",
-            "normalized": "nzd"
+            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
+            "clue": "Acronym for a chief legal officer",
+            "answer": "clo",
+            "normalized": "clo"
           },
           {
-            "id": "a5bc831d-5653-48db-a9ba-cc6910ac4630",
-            "clue": "Angelina Jolie biographical nineties model movie",
-            "answer": "gia",
-            "normalized": "gia"
+            "id": "0f8595ac-603f-4de6-a27a-ecf95fff03dd",
+            "clue": "Animation frame",
+            "answer": "cel",
+            "normalized": "cel"
+          },
+          {
+            "id": "f162be9b-3fc4-4941-bff4-9931c8f3b61f",
+            "clue": "Consume food",
+            "answer": "eat",
+            "normalized": "eat"
+          },
+          {
+            "id": "9b887875-d17b-4e3a-814b-8a2aadcc34ed",
+            "clue": "Actor Epps of Shooter and House",
+            "answer": "omar",
+            "normalized": "omar"
+          },
+          {
+            "id": "996210c8-e359-446e-833c-d7caf6ba8139",
+            "clue": "Golf ball platform",
+            "answer": "tee",
+            "normalized": "tee"
+          },
+          {
+            "id": "c497d577-af0d-405d-b05c-4b04c99f8996",
+            "clue": "Disc for playing movies at home or on a PC",
+            "answer": "dvd",
+            "normalized": "dvd"
+          },
+          {
+            "id": "4777414d-e1b7-4335-938c-ef8af23d30c1",
+            "clue": "Shiny Happy People band",
+            "answer": "rem",
+            "normalized": "rem"
+          },
+          {
+            "id": "9eb57aea-aef0-4c67-a3ff-46adbd9e12bf",
+            "clue": "Game of Thrones' television network",
+            "answer": "hbo",
+            "normalized": "hbo"
           }
         ],
-        "track": "PC|LenC--Y2026M9D27F1"
+        "track": "PC|LenC--Y2026M9D28F1"
       }
     },
     "latestAvailableEntry": {
@@ -441473,21 +441533,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "YLUJWOkdgtdqO6lm5u4Cygr8hoQUWIMd/M9Up6/UkSpuWDmngyIonVhatZ2pfMmfdVLf2zSPfuol/kS3pBTkA14siLVMmeoeaVnNRg6XZ0Q9MMJUWO7KOjOZcR5A/D4eue/to/Mwq7T/wUKc8mzVpv11TR4bDYq/5enZfWv90eTIla24mWIQumu9mRXKUMcSmda3IS4zf0g3DU+jGxOXqBZxlwlf0BIUUbnBhBsP4FpkOj8Eru7I0lhrC7HbyTklwgBywT1R59hKxBU9frraZKdzTf0zpGj6Mth3pXz13QE="
+        "ILy29cIZ+xO5ijppo6ZfY5+amU0wo1uc3J5WivQhc4gZWPAIWEDdbT/Q1NqItCMMufUaibpo58y1vxjOLACmjjmtocT8IHsLh5KfEMN5ZAZb8hbSqZR6IWf30fVDaDpAMmXtOv/DkXDXXE9Dcs52eh1nzPm8H1HuiFngvSfDzIgBoFZop7Jd37fLiTwk+bJmsI4kL8tPrGP9arzlTdwHu1FmDjuMbcqu6OOIKhTB9B2VWd+hz+fb97sOriHtuj7k4AXBBiVAJrrX21dSkc4uwTOr8pwFngpK+Yk0bRgubkE="
       ]
     },
     "decrypted": {
-      "Id": "e68e8b98-d03b-49c2-825a-7c5fa805134d",
-      "Date": "2026-09-27T00:00:00Z",
+      "Id": "a4a1c56c-8bbf-422e-94f9-21be54e82929",
+      "Date": "2026-09-28T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "shave",
-      "NormalizedPassword": "shave",
+      "Password": "below",
+      "NormalizedPassword": "below",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-27T02:49:44.5410000+05:30",
-    "hash": "2b5f15bda27aeb4605e655c54303b170",
+    "dtu": "2026-09-28T02:59:28.0530000+05:30",
+    "hash": "feaf671dabc4e8459db5303d192c3163",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
