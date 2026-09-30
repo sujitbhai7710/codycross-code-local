@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T22:27:36.845Z",
+  "generatedAt": "2026-09-30T22:26:14.366Z",
   "today": {
     "year": 2026,
-    "month": 9,
-    "day": 30
+    "month": 10,
+    "day": 1
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 56
+        "QuantidadeDeFases": 58
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -423,6 +423,188 @@
       }
     ],
     "archiveEntries": [
+      {
+        "key": "2026-10-01",
+        "year": 2026,
+        "month": 10,
+        "day": 1,
+        "small": {
+          "puzzleId": "PC|LenCinY2026M10D1F0V000",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "f119f6b9-016d-4a89-978b-7e4efd792d11",
+              "clue": "Fibreglass casings for broken arms or legs",
+              "answer": "casts",
+              "normalized": "casts"
+            },
+            {
+              "id": "9f626347-958b-461c-b836-157f521167a8",
+              "clue": "Eight-person musical group",
+              "answer": "octet",
+              "normalized": "octet"
+            },
+            {
+              "id": "240dcb31-0579-4211-a115-177f63e6faee",
+              "clue": "A sweet pudding made with semolina",
+              "answer": "sheera",
+              "normalized": "sheera"
+            },
+            {
+              "id": "f47f2ab6-f567-4df3-8361-ac43947511fb",
+              "clue": "Ship or truck transports oil",
+              "answer": "tanker",
+              "normalized": "tanker"
+            },
+            {
+              "id": "f529c90f-33ca-479d-a33e-455658cb9bbc",
+              "clue": "Curved at the top",
+              "answer": "arched",
+              "normalized": "arched"
+            },
+            {
+              "id": "3495ea7d-2a96-4783-bfbe-fe4160441cbc",
+              "clue": "Hell __ no fury like a woman scorned",
+              "answer": "hath",
+              "normalized": "hath"
+            },
+            {
+              "id": "5edb9c2d-e2f0-4646-b35a-defedb5c6017",
+              "clue": "Rich coast country, __ Rica",
+              "answer": "costa",
+              "normalized": "costa"
+            },
+            {
+              "id": "4452567a-c33c-44a4-b96d-f9b50a86d111",
+              "clue": "Pickled young bamboo part",
+              "answer": "achar",
+              "normalized": "achar"
+            },
+            {
+              "id": "189a2f4a-0f2b-42cc-93ad-d8e3e1adb0e6",
+              "clue": "Foul smell",
+              "answer": "stench",
+              "normalized": "stench"
+            },
+            {
+              "id": "5093ecc7-407f-45e1-b029-79578bd3ac45",
+              "clue": "Spicy flavour of the Pani Puri water",
+              "answer": "teekha",
+              "normalized": "teekha"
+            },
+            {
+              "id": "1d3e05a0-3a18-448f-94fa-d78dbfe5479f",
+              "clue": "A road, especially with buildings on either side",
+              "answer": "street",
+              "normalized": "street"
+            },
+            {
+              "id": "782f4cf9-25cd-47d7-bce1-2e8c4a8822b7",
+              "clue": "The 'half' Kumbh Mela held every six years",
+              "answer": "ardh",
+              "normalized": "ardh"
+            }
+          ],
+          "track": "PC|LenCinY2026M10D1F0V000"
+        },
+        "mid": {
+          "puzzleId": "PC|LenCinY2026M10D1F1V000",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "c2228da0-eb68-452c-ac05-c50a7755fd92",
+              "clue": "Sudden muscle pains",
+              "answer": "spasms",
+              "normalized": "spasms"
+            },
+            {
+              "id": "34e6273c-ad56-4062-93bf-ec62ef256d74",
+              "clue": "Production amount of a factory",
+              "answer": "output",
+              "normalized": "output"
+            },
+            {
+              "id": "ceacb3d3-c0f3-44e7-b0d7-80a432549595",
+              "clue": "Desert south and east of Morocco",
+              "answer": "sahara",
+              "normalized": "sahara"
+            },
+            {
+              "id": "b44bf748-ccb0-4c16-93d1-d9ce91216ccd",
+              "clue": "Salar Jung Museum is largely a ____ collection",
+              "answer": "one man",
+              "normalized": "oneman"
+            },
+            {
+              "id": "a4db06b7-9a5e-407f-b514-f750861a86b8",
+              "clue": "Stroll, walk gently",
+              "answer": "amble",
+              "normalized": "amble"
+            },
+            {
+              "id": "88e107d5-1e3e-40e4-b8b7-f91cf883238c",
+              "clue": "Outspoken protester or military deserter",
+              "answer": "rebel",
+              "normalized": "rebel"
+            },
+            {
+              "id": "c7e98736-ee02-46ef-8de3-f66cf9574ac4",
+              "clue": "Flat servers used to carry plates, cups, dishes",
+              "answer": "trays",
+              "normalized": "trays"
+            },
+            {
+              "id": "d1a088de-e67b-4d51-89a9-3a0becfac7db",
+              "clue": "Describes a mood that's just average",
+              "answer": "so-so",
+              "normalized": "soso"
+            },
+            {
+              "id": "a2a56eb3-0168-4c6b-b70f-6aa7e5206338",
+              "clue": "Traditional Mizoram wrap-around garment",
+              "answer": "puan",
+              "normalized": "puan"
+            },
+            {
+              "id": "54fc9fa1-faee-4b36-862b-a3529b5daeb6",
+              "clue": "Young __; age is just a number",
+              "answer": "at heart",
+              "normalized": "atheart"
+            },
+            {
+              "id": "305cb646-835e-4630-bed2-b6d2383fbb44",
+              "clue": "Someone who posts junk messages online",
+              "answer": "spammer",
+              "normalized": "spammer"
+            },
+            {
+              "id": "88fe7814-85a2-4ac7-8b7a-15e892b64e20",
+              "clue": "Sweet preserve made from Indian Gooseberry",
+              "answer": "murabba",
+              "normalized": "murabba"
+            },
+            {
+              "id": "c0baea0c-68af-456d-b9fb-da8a40df3f7c",
+              "clue": "Morgan __, financial company",
+              "answer": "stanley",
+              "normalized": "stanley"
+            },
+            {
+              "id": "3ef5f7fa-8593-4eeb-880d-ecee0bd4aa92",
+              "clue": "South African golfer Ernie",
+              "answer": "els",
+              "normalized": "els"
+            }
+          ],
+          "track": "PC|LenCinY2026M10D1F1V000"
+        }
+      },
       {
         "key": "2026-09-30",
         "year": 2026,
@@ -377060,513 +377242,549 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-09-30",
+      "key": "2026-10-01",
       "year": 2026,
-      "month": 9,
-      "day": 30,
+      "month": 10,
+      "day": 1,
       "small": {
-        "puzzleId": "d4cb82cd-b8f8-48d1-aafb-c7c802152c7f",
+        "puzzleId": "PC|LenCinY2026M10D1F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1aee7848-07d4-4309-8f8a-285aec25fb4d",
-            "clue": "Italian dish that includes lasagna and linguine",
-            "answer": "pasta",
-            "normalized": "pasta"
+            "id": "f119f6b9-016d-4a89-978b-7e4efd792d11",
+            "clue": "Fibreglass casings for broken arms or legs",
+            "answer": "casts",
+            "normalized": "casts"
           },
           {
-            "id": "76bc5545-1eab-4b8b-bb77-a5fc3d682e8f",
-            "clue": "Like a face that has become pale with shock, fear",
-            "answer": "ashen",
-            "normalized": "ashen"
+            "id": "9f626347-958b-461c-b836-157f521167a8",
+            "clue": "Eight-person musical group",
+            "answer": "octet",
+            "normalized": "octet"
           },
           {
-            "id": "f73967b9-cbda-449b-8691-6ce9b4855f71",
-            "clue": "Brahmaputra's local name in Arunachal Pradesh",
-            "answer": "siang",
-            "normalized": "siang"
+            "id": "240dcb31-0579-4211-a115-177f63e6faee",
+            "clue": "A sweet pudding made with semolina",
+            "answer": "sheera",
+            "normalized": "sheera"
           },
           {
-            "id": "d6d8a38b-04c8-4e0f-b137-cb31d916ba70",
-            "clue": "Word for put money up in advance, i.e. in poker",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "f47f2ab6-f567-4df3-8361-ac43947511fb",
+            "clue": "Ship or truck transports oil",
+            "answer": "tanker",
+            "normalized": "tanker"
           },
           {
-            "id": "c3f95749-ae25-4245-b822-51b51e0d4847",
-            "clue": "The Cambodian riels three-letter code",
-            "answer": "khr",
-            "normalized": "khr"
+            "id": "f529c90f-33ca-479d-a33e-455658cb9bbc",
+            "clue": "Curved at the top",
+            "answer": "arched",
+            "normalized": "arched"
           },
           {
-            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
-            "clue": "__ de deux, ballet duet",
-            "answer": "pas",
-            "normalized": "pas"
+            "id": "3495ea7d-2a96-4783-bfbe-fe4160441cbc",
+            "clue": "Hell __ no fury like a woman scorned",
+            "answer": "hath",
+            "normalized": "hath"
           },
           {
-            "id": "c30c3658-9659-4cf8-a59b-9802b262d453",
-            "clue": "Continent one should never start a land war with",
-            "answer": "asia",
-            "normalized": "asia"
+            "id": "5edb9c2d-e2f0-4646-b35a-defedb5c6017",
+            "clue": "Rich coast country, __ Rica",
+            "answer": "costa",
+            "normalized": "costa"
           },
           {
-            "id": "2d1bc97f-a93d-4046-a7d1-c8e9bec29517",
-            "clue": "Cut of lamb from a leg bone",
-            "answer": "shank",
-            "normalized": "shank"
+            "id": "4452567a-c33c-44a4-b96d-f9b50a86d111",
+            "clue": "Pickled young bamboo part",
+            "answer": "achar",
+            "normalized": "achar"
           },
           {
-            "id": "d692ba05-ebb6-4bff-bf74-1ebb1f7841bd",
-            "clue": "Date in October marking World Mental Health Day",
-            "answer": "tenth",
-            "normalized": "tenth"
+            "id": "189a2f4a-0f2b-42cc-93ad-d8e3e1adb0e6",
+            "clue": "Foul smell",
+            "answer": "stench",
+            "normalized": "stench"
           },
           {
-            "id": "6f4e4c60-927a-4e1a-a7f5-fca3b1fd97e4",
-            "clue": "The emotion that drives Doga",
-            "answer": "anger",
-            "normalized": "anger"
+            "id": "5093ecc7-407f-45e1-b029-79578bd3ac45",
+            "clue": "Spicy flavour of the Pani Puri water",
+            "answer": "teekha",
+            "normalized": "teekha"
+          },
+          {
+            "id": "1d3e05a0-3a18-448f-94fa-d78dbfe5479f",
+            "clue": "A road, especially with buildings on either side",
+            "answer": "street",
+            "normalized": "street"
+          },
+          {
+            "id": "782f4cf9-25cd-47d7-bce1-2e8c4a8822b7",
+            "clue": "The 'half' Kumbh Mela held every six years",
+            "answer": "ardh",
+            "normalized": "ardh"
           }
         ],
-        "track": "PC|LenCinY2026M9D30F0V000"
+        "track": "PC|LenCinY2026M10D1F0V000"
       },
       "mid": {
-        "puzzleId": "c01682be-6ed0-4e50-a974-85202a67d7f1",
+        "puzzleId": "PC|LenCinY2026M10D1F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1976beef-0d2a-4b26-aa2b-7f6dd5137d2a",
-            "clue": "Poses a question",
-            "answer": "asks",
-            "normalized": "asks"
+            "id": "c2228da0-eb68-452c-ac05-c50a7755fd92",
+            "clue": "Sudden muscle pains",
+            "answer": "spasms",
+            "normalized": "spasms"
           },
           {
-            "id": "6b2d81ca-4bc9-42db-b8d3-878fd4fcf949",
-            "clue": "Not this, but...",
-            "answer": "that",
-            "normalized": "that"
+            "id": "34e6273c-ad56-4062-93bf-ec62ef256d74",
+            "clue": "Production amount of a factory",
+            "answer": "output",
+            "normalized": "output"
           },
           {
-            "id": "ffce6c57-920d-4e93-9f39-600d9bd4ab86",
-            "clue": "Junior military officers in the army or navy",
-            "answer": "cadets",
-            "normalized": "cadets"
+            "id": "ceacb3d3-c0f3-44e7-b0d7-80a432549595",
+            "clue": "Desert south and east of Morocco",
+            "answer": "sahara",
+            "normalized": "sahara"
           },
           {
-            "id": "1fe14dae-82c6-40b5-b6a8-e759726ec6f6",
-            "clue": "An extremely unusual event",
-            "answer": "freak",
-            "normalized": "freak"
+            "id": "b44bf748-ccb0-4c16-93d1-d9ce91216ccd",
+            "clue": "Salar Jung Museum is largely a ____ collection",
+            "answer": "one man",
+            "normalized": "oneman"
           },
           {
-            "id": "0f4570b5-d713-4052-8e0f-25557ff46913",
-            "clue": "Earl __, inventor of kitchen storage phenomenon",
-            "answer": "tupper",
-            "normalized": "tupper"
+            "id": "a4db06b7-9a5e-407f-b514-f750861a86b8",
+            "clue": "Stroll, walk gently",
+            "answer": "amble",
+            "normalized": "amble"
           },
           {
-            "id": "5a943656-c50e-42be-aaf7-c10596765b45",
-            "clue": "Call Me By Your Name character played by Chalamet",
-            "answer": "elio",
-            "normalized": "elio"
+            "id": "88e107d5-1e3e-40e4-b8b7-f91cf883238c",
+            "clue": "Outspoken protester or military deserter",
+            "answer": "rebel",
+            "normalized": "rebel"
           },
           {
-            "id": "abe3fb9e-2e5e-4232-88c4-8671e2783c79",
-            "clue": "Ice skating arena",
-            "answer": "rink",
-            "normalized": "rink"
+            "id": "c7e98736-ee02-46ef-8de3-f66cf9574ac4",
+            "clue": "Flat servers used to carry plates, cups, dishes",
+            "answer": "trays",
+            "normalized": "trays"
           },
           {
-            "id": "d4798f96-7ccf-4c13-aafe-674ab3303aad",
-            "clue": "The ground control in The Final Call",
-            "answer": "atc",
-            "normalized": "atc"
+            "id": "d1a088de-e67b-4d51-89a9-3a0becfac7db",
+            "clue": "Describes a mood that's just average",
+            "answer": "so-so",
+            "normalized": "soso"
           },
           {
-            "id": "ac433c78-cff6-461e-83f0-b38549b3379d",
-            "clue": "Vertical space an elevator or lift travels",
-            "answer": "shaft",
-            "normalized": "shaft"
+            "id": "a2a56eb3-0168-4c6b-b70f-6aa7e5206338",
+            "clue": "Traditional Mizoram wrap-around garment",
+            "answer": "puan",
+            "normalized": "puan"
           },
           {
-            "id": "c34f9626-2b47-4319-98bf-2d67bb342cff",
-            "clue": "The mother of all Nagas in the myth of the Naga",
-            "answer": "kadru",
-            "normalized": "kadru"
+            "id": "54fc9fa1-faee-4b36-862b-a3529b5daeb6",
+            "clue": "Young __; age is just a number",
+            "answer": "at heart",
+            "normalized": "atheart"
           },
           {
-            "id": "f698a7c5-2b82-4008-9c73-2acbb71fe8c6",
-            "clue": "Describes a hill with a bigger slope",
-            "answer": "steeper",
-            "normalized": "steeper"
+            "id": "305cb646-835e-4630-bed2-b6d2383fbb44",
+            "clue": "Someone who posts junk messages online",
+            "answer": "spammer",
+            "normalized": "spammer"
           },
           {
-            "id": "4a24ee30-23c0-42fb-b97d-a9c964c91ccf",
-            "clue": "A playful tap on the head from a yaar",
-            "answer": "tapli",
-            "normalized": "tapli"
+            "id": "88fe7814-85a2-4ac7-8b7a-15e892b64e20",
+            "clue": "Sweet preserve made from Indian Gooseberry",
+            "answer": "murabba",
+            "normalized": "murabba"
           },
           {
-            "id": "85d7777c-9508-4da0-b3d1-571c26d6b551",
-            "clue": "Loosely coiled, oblong roll of yarn",
-            "answer": "skein",
-            "normalized": "skein"
+            "id": "c0baea0c-68af-456d-b9fb-da8a40df3f7c",
+            "clue": "Morgan __, financial company",
+            "answer": "stanley",
+            "normalized": "stanley"
           },
           {
-            "id": "ad07f1ee-a6fd-4b7c-90bd-2945ad16ba11",
-            "clue": "Acronym for the Republic of Korea",
-            "answer": "rok",
-            "normalized": "rok"
+            "id": "3ef5f7fa-8593-4eeb-880d-ecee0bd4aa92",
+            "clue": "South African golfer Ernie",
+            "answer": "els",
+            "normalized": "els"
           }
         ],
-        "track": "PC|LenCinY2026M9D30F1V000"
+        "track": "PC|LenCinY2026M10D1F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-09-30",
+      "key": "2026-10-01",
       "year": 2026,
-      "month": 9,
-      "day": 30,
+      "month": 10,
+      "day": 1,
       "small": {
-        "puzzleId": "d4cb82cd-b8f8-48d1-aafb-c7c802152c7f",
+        "puzzleId": "PC|LenCinY2026M10D1F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1aee7848-07d4-4309-8f8a-285aec25fb4d",
-            "clue": "Italian dish that includes lasagna and linguine",
-            "answer": "pasta",
-            "normalized": "pasta"
+            "id": "f119f6b9-016d-4a89-978b-7e4efd792d11",
+            "clue": "Fibreglass casings for broken arms or legs",
+            "answer": "casts",
+            "normalized": "casts"
           },
           {
-            "id": "76bc5545-1eab-4b8b-bb77-a5fc3d682e8f",
-            "clue": "Like a face that has become pale with shock, fear",
-            "answer": "ashen",
-            "normalized": "ashen"
+            "id": "9f626347-958b-461c-b836-157f521167a8",
+            "clue": "Eight-person musical group",
+            "answer": "octet",
+            "normalized": "octet"
           },
           {
-            "id": "f73967b9-cbda-449b-8691-6ce9b4855f71",
-            "clue": "Brahmaputra's local name in Arunachal Pradesh",
-            "answer": "siang",
-            "normalized": "siang"
+            "id": "240dcb31-0579-4211-a115-177f63e6faee",
+            "clue": "A sweet pudding made with semolina",
+            "answer": "sheera",
+            "normalized": "sheera"
           },
           {
-            "id": "d6d8a38b-04c8-4e0f-b137-cb31d916ba70",
-            "clue": "Word for put money up in advance, i.e. in poker",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "f47f2ab6-f567-4df3-8361-ac43947511fb",
+            "clue": "Ship or truck transports oil",
+            "answer": "tanker",
+            "normalized": "tanker"
           },
           {
-            "id": "c3f95749-ae25-4245-b822-51b51e0d4847",
-            "clue": "The Cambodian riels three-letter code",
-            "answer": "khr",
-            "normalized": "khr"
+            "id": "f529c90f-33ca-479d-a33e-455658cb9bbc",
+            "clue": "Curved at the top",
+            "answer": "arched",
+            "normalized": "arched"
           },
           {
-            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
-            "clue": "__ de deux, ballet duet",
-            "answer": "pas",
-            "normalized": "pas"
+            "id": "3495ea7d-2a96-4783-bfbe-fe4160441cbc",
+            "clue": "Hell __ no fury like a woman scorned",
+            "answer": "hath",
+            "normalized": "hath"
           },
           {
-            "id": "c30c3658-9659-4cf8-a59b-9802b262d453",
-            "clue": "Continent one should never start a land war with",
-            "answer": "asia",
-            "normalized": "asia"
+            "id": "5edb9c2d-e2f0-4646-b35a-defedb5c6017",
+            "clue": "Rich coast country, __ Rica",
+            "answer": "costa",
+            "normalized": "costa"
           },
           {
-            "id": "2d1bc97f-a93d-4046-a7d1-c8e9bec29517",
-            "clue": "Cut of lamb from a leg bone",
-            "answer": "shank",
-            "normalized": "shank"
+            "id": "4452567a-c33c-44a4-b96d-f9b50a86d111",
+            "clue": "Pickled young bamboo part",
+            "answer": "achar",
+            "normalized": "achar"
           },
           {
-            "id": "d692ba05-ebb6-4bff-bf74-1ebb1f7841bd",
-            "clue": "Date in October marking World Mental Health Day",
-            "answer": "tenth",
-            "normalized": "tenth"
+            "id": "189a2f4a-0f2b-42cc-93ad-d8e3e1adb0e6",
+            "clue": "Foul smell",
+            "answer": "stench",
+            "normalized": "stench"
           },
           {
-            "id": "6f4e4c60-927a-4e1a-a7f5-fca3b1fd97e4",
-            "clue": "The emotion that drives Doga",
-            "answer": "anger",
-            "normalized": "anger"
+            "id": "5093ecc7-407f-45e1-b029-79578bd3ac45",
+            "clue": "Spicy flavour of the Pani Puri water",
+            "answer": "teekha",
+            "normalized": "teekha"
+          },
+          {
+            "id": "1d3e05a0-3a18-448f-94fa-d78dbfe5479f",
+            "clue": "A road, especially with buildings on either side",
+            "answer": "street",
+            "normalized": "street"
+          },
+          {
+            "id": "782f4cf9-25cd-47d7-bce1-2e8c4a8822b7",
+            "clue": "The 'half' Kumbh Mela held every six years",
+            "answer": "ardh",
+            "normalized": "ardh"
           }
         ],
-        "track": "PC|LenCinY2026M9D30F0V000"
+        "track": "PC|LenCinY2026M10D1F0V000"
       },
       "mid": {
-        "puzzleId": "c01682be-6ed0-4e50-a974-85202a67d7f1",
+        "puzzleId": "PC|LenCinY2026M10D1F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1976beef-0d2a-4b26-aa2b-7f6dd5137d2a",
-            "clue": "Poses a question",
-            "answer": "asks",
-            "normalized": "asks"
+            "id": "c2228da0-eb68-452c-ac05-c50a7755fd92",
+            "clue": "Sudden muscle pains",
+            "answer": "spasms",
+            "normalized": "spasms"
           },
           {
-            "id": "6b2d81ca-4bc9-42db-b8d3-878fd4fcf949",
-            "clue": "Not this, but...",
-            "answer": "that",
-            "normalized": "that"
+            "id": "34e6273c-ad56-4062-93bf-ec62ef256d74",
+            "clue": "Production amount of a factory",
+            "answer": "output",
+            "normalized": "output"
           },
           {
-            "id": "ffce6c57-920d-4e93-9f39-600d9bd4ab86",
-            "clue": "Junior military officers in the army or navy",
-            "answer": "cadets",
-            "normalized": "cadets"
+            "id": "ceacb3d3-c0f3-44e7-b0d7-80a432549595",
+            "clue": "Desert south and east of Morocco",
+            "answer": "sahara",
+            "normalized": "sahara"
           },
           {
-            "id": "1fe14dae-82c6-40b5-b6a8-e759726ec6f6",
-            "clue": "An extremely unusual event",
-            "answer": "freak",
-            "normalized": "freak"
+            "id": "b44bf748-ccb0-4c16-93d1-d9ce91216ccd",
+            "clue": "Salar Jung Museum is largely a ____ collection",
+            "answer": "one man",
+            "normalized": "oneman"
           },
           {
-            "id": "0f4570b5-d713-4052-8e0f-25557ff46913",
-            "clue": "Earl __, inventor of kitchen storage phenomenon",
-            "answer": "tupper",
-            "normalized": "tupper"
+            "id": "a4db06b7-9a5e-407f-b514-f750861a86b8",
+            "clue": "Stroll, walk gently",
+            "answer": "amble",
+            "normalized": "amble"
           },
           {
-            "id": "5a943656-c50e-42be-aaf7-c10596765b45",
-            "clue": "Call Me By Your Name character played by Chalamet",
-            "answer": "elio",
-            "normalized": "elio"
+            "id": "88e107d5-1e3e-40e4-b8b7-f91cf883238c",
+            "clue": "Outspoken protester or military deserter",
+            "answer": "rebel",
+            "normalized": "rebel"
           },
           {
-            "id": "abe3fb9e-2e5e-4232-88c4-8671e2783c79",
-            "clue": "Ice skating arena",
-            "answer": "rink",
-            "normalized": "rink"
+            "id": "c7e98736-ee02-46ef-8de3-f66cf9574ac4",
+            "clue": "Flat servers used to carry plates, cups, dishes",
+            "answer": "trays",
+            "normalized": "trays"
           },
           {
-            "id": "d4798f96-7ccf-4c13-aafe-674ab3303aad",
-            "clue": "The ground control in The Final Call",
-            "answer": "atc",
-            "normalized": "atc"
+            "id": "d1a088de-e67b-4d51-89a9-3a0becfac7db",
+            "clue": "Describes a mood that's just average",
+            "answer": "so-so",
+            "normalized": "soso"
           },
           {
-            "id": "ac433c78-cff6-461e-83f0-b38549b3379d",
-            "clue": "Vertical space an elevator or lift travels",
-            "answer": "shaft",
-            "normalized": "shaft"
+            "id": "a2a56eb3-0168-4c6b-b70f-6aa7e5206338",
+            "clue": "Traditional Mizoram wrap-around garment",
+            "answer": "puan",
+            "normalized": "puan"
           },
           {
-            "id": "c34f9626-2b47-4319-98bf-2d67bb342cff",
-            "clue": "The mother of all Nagas in the myth of the Naga",
-            "answer": "kadru",
-            "normalized": "kadru"
+            "id": "54fc9fa1-faee-4b36-862b-a3529b5daeb6",
+            "clue": "Young __; age is just a number",
+            "answer": "at heart",
+            "normalized": "atheart"
           },
           {
-            "id": "f698a7c5-2b82-4008-9c73-2acbb71fe8c6",
-            "clue": "Describes a hill with a bigger slope",
-            "answer": "steeper",
-            "normalized": "steeper"
+            "id": "305cb646-835e-4630-bed2-b6d2383fbb44",
+            "clue": "Someone who posts junk messages online",
+            "answer": "spammer",
+            "normalized": "spammer"
           },
           {
-            "id": "4a24ee30-23c0-42fb-b97d-a9c964c91ccf",
-            "clue": "A playful tap on the head from a yaar",
-            "answer": "tapli",
-            "normalized": "tapli"
+            "id": "88fe7814-85a2-4ac7-8b7a-15e892b64e20",
+            "clue": "Sweet preserve made from Indian Gooseberry",
+            "answer": "murabba",
+            "normalized": "murabba"
           },
           {
-            "id": "85d7777c-9508-4da0-b3d1-571c26d6b551",
-            "clue": "Loosely coiled, oblong roll of yarn",
-            "answer": "skein",
-            "normalized": "skein"
+            "id": "c0baea0c-68af-456d-b9fb-da8a40df3f7c",
+            "clue": "Morgan __, financial company",
+            "answer": "stanley",
+            "normalized": "stanley"
           },
           {
-            "id": "ad07f1ee-a6fd-4b7c-90bd-2945ad16ba11",
-            "clue": "Acronym for the Republic of Korea",
-            "answer": "rok",
-            "normalized": "rok"
+            "id": "3ef5f7fa-8593-4eeb-880d-ecee0bd4aa92",
+            "clue": "South African golfer Ernie",
+            "answer": "els",
+            "normalized": "els"
           }
         ],
-        "track": "PC|LenCinY2026M9D30F1V000"
+        "track": "PC|LenCinY2026M10D1F1V000"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-09-30",
+      "key": "2026-10-01",
       "year": 2026,
-      "month": 9,
-      "day": 30,
+      "month": 10,
+      "day": 1,
       "small": {
-        "puzzleId": "d4cb82cd-b8f8-48d1-aafb-c7c802152c7f",
+        "puzzleId": "PC|LenCinY2026M10D1F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1aee7848-07d4-4309-8f8a-285aec25fb4d",
-            "clue": "Italian dish that includes lasagna and linguine",
-            "answer": "pasta",
-            "normalized": "pasta"
+            "id": "f119f6b9-016d-4a89-978b-7e4efd792d11",
+            "clue": "Fibreglass casings for broken arms or legs",
+            "answer": "casts",
+            "normalized": "casts"
           },
           {
-            "id": "76bc5545-1eab-4b8b-bb77-a5fc3d682e8f",
-            "clue": "Like a face that has become pale with shock, fear",
-            "answer": "ashen",
-            "normalized": "ashen"
+            "id": "9f626347-958b-461c-b836-157f521167a8",
+            "clue": "Eight-person musical group",
+            "answer": "octet",
+            "normalized": "octet"
           },
           {
-            "id": "f73967b9-cbda-449b-8691-6ce9b4855f71",
-            "clue": "Brahmaputra's local name in Arunachal Pradesh",
-            "answer": "siang",
-            "normalized": "siang"
+            "id": "240dcb31-0579-4211-a115-177f63e6faee",
+            "clue": "A sweet pudding made with semolina",
+            "answer": "sheera",
+            "normalized": "sheera"
           },
           {
-            "id": "d6d8a38b-04c8-4e0f-b137-cb31d916ba70",
-            "clue": "Word for put money up in advance, i.e. in poker",
-            "answer": "ante",
-            "normalized": "ante"
+            "id": "f47f2ab6-f567-4df3-8361-ac43947511fb",
+            "clue": "Ship or truck transports oil",
+            "answer": "tanker",
+            "normalized": "tanker"
           },
           {
-            "id": "c3f95749-ae25-4245-b822-51b51e0d4847",
-            "clue": "The Cambodian riels three-letter code",
-            "answer": "khr",
-            "normalized": "khr"
+            "id": "f529c90f-33ca-479d-a33e-455658cb9bbc",
+            "clue": "Curved at the top",
+            "answer": "arched",
+            "normalized": "arched"
           },
           {
-            "id": "a952ef48-fdec-42da-9d34-c51629fcb044",
-            "clue": "__ de deux, ballet duet",
-            "answer": "pas",
-            "normalized": "pas"
+            "id": "3495ea7d-2a96-4783-bfbe-fe4160441cbc",
+            "clue": "Hell __ no fury like a woman scorned",
+            "answer": "hath",
+            "normalized": "hath"
           },
           {
-            "id": "c30c3658-9659-4cf8-a59b-9802b262d453",
-            "clue": "Continent one should never start a land war with",
-            "answer": "asia",
-            "normalized": "asia"
+            "id": "5edb9c2d-e2f0-4646-b35a-defedb5c6017",
+            "clue": "Rich coast country, __ Rica",
+            "answer": "costa",
+            "normalized": "costa"
           },
           {
-            "id": "2d1bc97f-a93d-4046-a7d1-c8e9bec29517",
-            "clue": "Cut of lamb from a leg bone",
-            "answer": "shank",
-            "normalized": "shank"
+            "id": "4452567a-c33c-44a4-b96d-f9b50a86d111",
+            "clue": "Pickled young bamboo part",
+            "answer": "achar",
+            "normalized": "achar"
           },
           {
-            "id": "d692ba05-ebb6-4bff-bf74-1ebb1f7841bd",
-            "clue": "Date in October marking World Mental Health Day",
-            "answer": "tenth",
-            "normalized": "tenth"
+            "id": "189a2f4a-0f2b-42cc-93ad-d8e3e1adb0e6",
+            "clue": "Foul smell",
+            "answer": "stench",
+            "normalized": "stench"
           },
           {
-            "id": "6f4e4c60-927a-4e1a-a7f5-fca3b1fd97e4",
-            "clue": "The emotion that drives Doga",
-            "answer": "anger",
-            "normalized": "anger"
+            "id": "5093ecc7-407f-45e1-b029-79578bd3ac45",
+            "clue": "Spicy flavour of the Pani Puri water",
+            "answer": "teekha",
+            "normalized": "teekha"
+          },
+          {
+            "id": "1d3e05a0-3a18-448f-94fa-d78dbfe5479f",
+            "clue": "A road, especially with buildings on either side",
+            "answer": "street",
+            "normalized": "street"
+          },
+          {
+            "id": "782f4cf9-25cd-47d7-bce1-2e8c4a8822b7",
+            "clue": "The 'half' Kumbh Mela held every six years",
+            "answer": "ardh",
+            "normalized": "ardh"
           }
         ],
-        "track": "PC|LenCinY2026M9D30F0V000"
+        "track": "PC|LenCinY2026M10D1F0V000"
       },
       "mid": {
-        "puzzleId": "c01682be-6ed0-4e50-a974-85202a67d7f1",
+        "puzzleId": "PC|LenCinY2026M10D1F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1976beef-0d2a-4b26-aa2b-7f6dd5137d2a",
-            "clue": "Poses a question",
-            "answer": "asks",
-            "normalized": "asks"
+            "id": "c2228da0-eb68-452c-ac05-c50a7755fd92",
+            "clue": "Sudden muscle pains",
+            "answer": "spasms",
+            "normalized": "spasms"
           },
           {
-            "id": "6b2d81ca-4bc9-42db-b8d3-878fd4fcf949",
-            "clue": "Not this, but...",
-            "answer": "that",
-            "normalized": "that"
+            "id": "34e6273c-ad56-4062-93bf-ec62ef256d74",
+            "clue": "Production amount of a factory",
+            "answer": "output",
+            "normalized": "output"
           },
           {
-            "id": "ffce6c57-920d-4e93-9f39-600d9bd4ab86",
-            "clue": "Junior military officers in the army or navy",
-            "answer": "cadets",
-            "normalized": "cadets"
+            "id": "ceacb3d3-c0f3-44e7-b0d7-80a432549595",
+            "clue": "Desert south and east of Morocco",
+            "answer": "sahara",
+            "normalized": "sahara"
           },
           {
-            "id": "1fe14dae-82c6-40b5-b6a8-e759726ec6f6",
-            "clue": "An extremely unusual event",
-            "answer": "freak",
-            "normalized": "freak"
+            "id": "b44bf748-ccb0-4c16-93d1-d9ce91216ccd",
+            "clue": "Salar Jung Museum is largely a ____ collection",
+            "answer": "one man",
+            "normalized": "oneman"
           },
           {
-            "id": "0f4570b5-d713-4052-8e0f-25557ff46913",
-            "clue": "Earl __, inventor of kitchen storage phenomenon",
-            "answer": "tupper",
-            "normalized": "tupper"
+            "id": "a4db06b7-9a5e-407f-b514-f750861a86b8",
+            "clue": "Stroll, walk gently",
+            "answer": "amble",
+            "normalized": "amble"
           },
           {
-            "id": "5a943656-c50e-42be-aaf7-c10596765b45",
-            "clue": "Call Me By Your Name character played by Chalamet",
-            "answer": "elio",
-            "normalized": "elio"
+            "id": "88e107d5-1e3e-40e4-b8b7-f91cf883238c",
+            "clue": "Outspoken protester or military deserter",
+            "answer": "rebel",
+            "normalized": "rebel"
           },
           {
-            "id": "abe3fb9e-2e5e-4232-88c4-8671e2783c79",
-            "clue": "Ice skating arena",
-            "answer": "rink",
-            "normalized": "rink"
+            "id": "c7e98736-ee02-46ef-8de3-f66cf9574ac4",
+            "clue": "Flat servers used to carry plates, cups, dishes",
+            "answer": "trays",
+            "normalized": "trays"
           },
           {
-            "id": "d4798f96-7ccf-4c13-aafe-674ab3303aad",
-            "clue": "The ground control in The Final Call",
-            "answer": "atc",
-            "normalized": "atc"
+            "id": "d1a088de-e67b-4d51-89a9-3a0becfac7db",
+            "clue": "Describes a mood that's just average",
+            "answer": "so-so",
+            "normalized": "soso"
           },
           {
-            "id": "ac433c78-cff6-461e-83f0-b38549b3379d",
-            "clue": "Vertical space an elevator or lift travels",
-            "answer": "shaft",
-            "normalized": "shaft"
+            "id": "a2a56eb3-0168-4c6b-b70f-6aa7e5206338",
+            "clue": "Traditional Mizoram wrap-around garment",
+            "answer": "puan",
+            "normalized": "puan"
           },
           {
-            "id": "c34f9626-2b47-4319-98bf-2d67bb342cff",
-            "clue": "The mother of all Nagas in the myth of the Naga",
-            "answer": "kadru",
-            "normalized": "kadru"
+            "id": "54fc9fa1-faee-4b36-862b-a3529b5daeb6",
+            "clue": "Young __; age is just a number",
+            "answer": "at heart",
+            "normalized": "atheart"
           },
           {
-            "id": "f698a7c5-2b82-4008-9c73-2acbb71fe8c6",
-            "clue": "Describes a hill with a bigger slope",
-            "answer": "steeper",
-            "normalized": "steeper"
+            "id": "305cb646-835e-4630-bed2-b6d2383fbb44",
+            "clue": "Someone who posts junk messages online",
+            "answer": "spammer",
+            "normalized": "spammer"
           },
           {
-            "id": "4a24ee30-23c0-42fb-b97d-a9c964c91ccf",
-            "clue": "A playful tap on the head from a yaar",
-            "answer": "tapli",
-            "normalized": "tapli"
+            "id": "88fe7814-85a2-4ac7-8b7a-15e892b64e20",
+            "clue": "Sweet preserve made from Indian Gooseberry",
+            "answer": "murabba",
+            "normalized": "murabba"
           },
           {
-            "id": "85d7777c-9508-4da0-b3d1-571c26d6b551",
-            "clue": "Loosely coiled, oblong roll of yarn",
-            "answer": "skein",
-            "normalized": "skein"
+            "id": "c0baea0c-68af-456d-b9fb-da8a40df3f7c",
+            "clue": "Morgan __, financial company",
+            "answer": "stanley",
+            "normalized": "stanley"
           },
           {
-            "id": "ad07f1ee-a6fd-4b7c-90bd-2945ad16ba11",
-            "clue": "Acronym for the Republic of Korea",
-            "answer": "rok",
-            "normalized": "rok"
+            "id": "3ef5f7fa-8593-4eeb-880d-ecee0bd4aa92",
+            "clue": "South African golfer Ernie",
+            "answer": "els",
+            "normalized": "els"
           }
         ],
-        "track": "PC|LenCinY2026M9D30F1V000"
+        "track": "PC|LenCinY2026M10D1F1V000"
       }
     },
     "todayPublished": true
@@ -377578,21 +377796,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "28RP/9lmcC8vR2Rem/TzUyfQW+tu1iYD0u/VshKhNSd8eVg2P66QIhd22XZeJfhtH4+Y6uONpQB2uIHjY4zq2pSObEjUeriCM07DSG26GTgJyCz/3OOKX2yetCazMbcNUgl4x3Xn3vO4TDULm09XUutl6ZEOJSFbtZjrr22J8MfAJHBqzp+OA4lf5GYE9jAsjHMMGsjtCANHPrv8xd86jB7Oiml91y6t43/WHi4qMAHdbZ0/JQ0KikYC9rbrZjqwHcU83wodKV+H6MGk9ozdUrqBJ2QzuILBzbY339bEhbg="
+        "JE8NJ3cHJjxyInDRYa92dZp3+XKESc3v/zABYorBX4O8ffemt9PfYxNUX1tr6fiNQ2UPLdy6uTvCnu0nWOi8jv3txcnFcTj1gPX3DfJ3tE+ooudjjcBoAt7okLSaMAwXeL5He7POpRowVPbEE63Qha9suxgv78x4sB7AInztqHFBImh/XDrf1gOBQuorbtr7IUmjicGbgmnnipSAbqRAVy3j14PyhEIsUva2PMOLiqiJzKs4rp/4rQL0gcKvr8YbOlQngb7b2gs2tajr8NuXU2eSU/MQRNFe4SCk4Hwwj5Q="
       ]
     },
     "decrypted": {
-      "Id": "d83bc031-74f3-4f3d-8e3a-45bddb741f89",
-      "Date": "2026-09-30T00:00:00Z",
+      "Id": "ee27c91b-63c8-4047-b778-36dd87ecbf00",
+      "Date": "2026-10-01T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "stalk",
-      "NormalizedPassword": "stalk",
+      "Password": "wrist",
+      "NormalizedPassword": "wrist",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-09-30T03:57:36.8450000+05:30",
-    "hash": "9b40c3e9795ae7124a2b666364b292ff",
+    "dtu": "2026-10-01T03:56:14.3660000+05:30",
+    "hash": "256835c28959fff9d1c770759b4bf3f2",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
