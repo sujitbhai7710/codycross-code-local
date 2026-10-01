@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T22:26:14.366Z",
+  "generatedAt": "2026-10-01T22:48:28.899Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 1
+    "day": 2
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 9,
-        "QuantidadeDeFases": 58
+        "QuantidadeDeFases": 60
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -424,185 +424,197 @@
     ],
     "archiveEntries": [
       {
-        "key": "2026-10-01",
+        "key": "2026-10-02",
         "year": 2026,
         "month": 10,
-        "day": 1,
+        "day": 2,
         "small": {
-          "puzzleId": "PC|LenCinY2026M10D1F0V000",
+          "puzzleId": "PC|LenCinY2026M10D2F0V000",
           "fase": 0,
           "size": 1,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "f119f6b9-016d-4a89-978b-7e4efd792d11",
-              "clue": "Fibreglass casings for broken arms or legs",
-              "answer": "casts",
-              "normalized": "casts"
+              "id": "a9b4256b-164f-41fd-a95d-10e55f3ffeb9",
+              "clue": "Men in Black",
+              "answer": "mib",
+              "normalized": "mib"
             },
             {
-              "id": "9f626347-958b-461c-b836-157f521167a8",
-              "clue": "Eight-person musical group",
-              "answer": "octet",
-              "normalized": "octet"
+              "id": "bf81de9c-d5f7-40af-bb76-2b6d9c487871",
+              "clue": "Authoritative big cat in the land of Narnia",
+              "answer": "aslan",
+              "normalized": "aslan"
             },
             {
-              "id": "240dcb31-0579-4211-a115-177f63e6faee",
-              "clue": "A sweet pudding made with semolina",
-              "answer": "sheera",
-              "normalized": "sheera"
+              "id": "121a6db4-a126-42e7-b199-e65d1420dfcf",
+              "clue": "__ skates; roller blades",
+              "answer": "inline",
+              "normalized": "inline"
             },
             {
-              "id": "f47f2ab6-f567-4df3-8361-ac43947511fb",
-              "clue": "Ship or truck transports oil",
-              "answer": "tanker",
-              "normalized": "tanker"
+              "id": "61566742-495c-4742-b0af-cd9ab6217909",
+              "clue": "Three words said when understanding a joke",
+              "answer": "i get it",
+              "normalized": "igetit"
             },
             {
-              "id": "f529c90f-33ca-479d-a33e-455658cb9bbc",
-              "clue": "Curved at the top",
-              "answer": "arched",
-              "normalized": "arched"
+              "id": "909afcc3-1ab7-42b8-b327-cbe30da23aaa",
+              "clue": "A core subject on every school time table",
+              "answer": "maths",
+              "normalized": "maths"
             },
             {
-              "id": "3495ea7d-2a96-4783-bfbe-fe4160441cbc",
-              "clue": "Hell __ no fury like a woman scorned",
-              "answer": "hath",
-              "normalized": "hath"
+              "id": "da1c4f80-558a-46b5-a641-d2ec0d23bad4",
+              "clue": "Holy seat for a bishop; view eye to eye",
+              "answer": "see",
+              "normalized": "see"
             },
             {
-              "id": "5edb9c2d-e2f0-4646-b35a-defedb5c6017",
-              "clue": "Rich coast country, __ Rica",
-              "answer": "costa",
-              "normalized": "costa"
+              "id": "aa0b6336-3f1b-4fc2-a5f4-3b21c403aadb",
+              "clue": "Type of Japanese comic or graphic novel",
+              "answer": "manga",
+              "normalized": "manga"
             },
             {
-              "id": "4452567a-c33c-44a4-b96d-f9b50a86d111",
-              "clue": "Pickled young bamboo part",
-              "answer": "achar",
-              "normalized": "achar"
+              "id": "7e2811ce-b4f9-4a1a-a35e-390b3291c2b4",
+              "clue": "Tiny islands",
+              "answer": "islets",
+              "normalized": "islets"
             },
             {
-              "id": "189a2f4a-0f2b-42cc-93ad-d8e3e1adb0e6",
-              "clue": "Foul smell",
-              "answer": "stench",
-              "normalized": "stench"
+              "id": "6e22fc30-7c20-43cc-bfd7-3ac9442d4f0b",
+              "clue": "Cheerfully carefree",
+              "answer": "blithe",
+              "normalized": "blithe"
             },
             {
-              "id": "5093ecc7-407f-45e1-b029-79578bd3ac45",
-              "clue": "Spicy flavour of the Pani Puri water",
-              "answer": "teekha",
-              "normalized": "teekha"
+              "id": "343d7822-262c-4ab7-a261-68019571a0b1",
+              "clue": "Seed with a similar flavour to liquorice",
+              "answer": "anise",
+              "normalized": "anise"
             },
             {
-              "id": "1d3e05a0-3a18-448f-94fa-d78dbfe5479f",
-              "clue": "A road, especially with buildings on either side",
-              "answer": "street",
-              "normalized": "street"
+              "id": "b0255878-04c8-499f-a4f4-d4cfb1acabef",
+              "clue": "Mesh used to catch fish",
+              "answer": "net",
+              "normalized": "net"
             },
             {
-              "id": "782f4cf9-25cd-47d7-bce1-2e8c4a8822b7",
-              "clue": "The 'half' Kumbh Mela held every six years",
-              "answer": "ardh",
-              "normalized": "ardh"
+              "id": "ee7afbd2-ea05-48dc-94ff-560dae12a336",
+              "clue": "Prestigious management institute in Indore",
+              "answer": "iim",
+              "normalized": "iim"
             }
           ],
-          "track": "PC|LenCinY2026M10D1F0V000"
+          "track": "PC|LenCinY2026M10D2F0V000"
         },
         "mid": {
-          "puzzleId": "PC|LenCinY2026M10D1F1V000",
+          "puzzleId": "PC|LenCinY2026M10D2F1V000",
           "fase": 1,
           "size": 2,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "c2228da0-eb68-452c-ac05-c50a7755fd92",
-              "clue": "Sudden muscle pains",
-              "answer": "spasms",
-              "normalized": "spasms"
+              "id": "6005571a-2e2a-4adf-926d-94aea3e692b1",
+              "clue": "Set of things sharing similar properties",
+              "answer": "class",
+              "normalized": "class"
             },
             {
-              "id": "34e6273c-ad56-4062-93bf-ec62ef256d74",
-              "clue": "Production amount of a factory",
-              "answer": "output",
-              "normalized": "output"
+              "id": "89c319ae-f9c8-4a81-a6f5-383a60e02352",
+              "clue": "Devotional prayer sung during Diwali puja",
+              "answer": "aarti",
+              "normalized": "aarti"
             },
             {
-              "id": "ceacb3d3-c0f3-44e7-b0d7-80a432549595",
-              "clue": "Desert south and east of Morocco",
-              "answer": "sahara",
-              "normalized": "sahara"
+              "id": "93a1a271-a1b7-4b18-ac02-397dfae30134",
+              "clue": "Bronze pale skin with sun exposure",
+              "answer": "suntan",
+              "normalized": "suntan"
             },
             {
-              "id": "b44bf748-ccb0-4c16-93d1-d9ce91216ccd",
-              "clue": "Salar Jung Museum is largely a ____ collection",
-              "answer": "one man",
-              "normalized": "oneman"
+              "id": "ba7de0ea-7dbc-4a2f-80b8-8c4f56368205",
+              "clue": "Appropriate",
+              "answer": "apt",
+              "normalized": "apt"
             },
             {
-              "id": "a4db06b7-9a5e-407f-b514-f750861a86b8",
-              "clue": "Stroll, walk gently",
-              "answer": "amble",
-              "normalized": "amble"
+              "id": "353c9cb7-57e7-4600-836f-09a3e92da486",
+              "clue": "Decorative French emblem: fleur-de-__",
+              "answer": "lis",
+              "normalized": "lis"
             },
             {
-              "id": "88e107d5-1e3e-40e4-b8b7-f91cf883238c",
-              "clue": "Outspoken protester or military deserter",
-              "answer": "rebel",
-              "normalized": "rebel"
+              "id": "8b3efad2-68bb-4921-8ba7-0be81d4d3449",
+              "clue": "Hammered, pinned, tacked",
+              "answer": "nailed",
+              "normalized": "nailed"
             },
             {
-              "id": "c7e98736-ee02-46ef-8de3-f66cf9574ac4",
-              "clue": "Flat servers used to carry plates, cups, dishes",
-              "answer": "trays",
-              "normalized": "trays"
+              "id": "c8496957-f6d1-464c-b58a-90834735a373",
+              "clue": "French word for three: un, deux, __",
+              "answer": "trois",
+              "normalized": "trois"
             },
             {
-              "id": "d1a088de-e67b-4d51-89a9-3a0becfac7db",
-              "clue": "Describes a mood that's just average",
-              "answer": "so-so",
-              "normalized": "soso"
+              "id": "91f83754-cf12-4ca8-b001-c400339af687",
+              "clue": "Puts in the post",
+              "answer": "sends",
+              "normalized": "sends"
             },
             {
-              "id": "a2a56eb3-0168-4c6b-b70f-6aa7e5206338",
-              "clue": "Traditional Mizoram wrap-around garment",
-              "answer": "puan",
-              "normalized": "puan"
+              "id": "faddb65a-ed0b-4d15-8b37-43534f2335ed",
+              "clue": "Throw __ to the wind",
+              "answer": "caution",
+              "normalized": "caution"
             },
             {
-              "id": "54fc9fa1-faee-4b36-862b-a3529b5daeb6",
-              "clue": "Young __; age is just a number",
-              "answer": "at heart",
-              "normalized": "atheart"
+              "id": "4d21fd92-289b-4539-8583-750ffa6c0493",
+              "clue": "Local area network",
+              "answer": "lan",
+              "normalized": "lan"
             },
             {
-              "id": "305cb646-835e-4630-bed2-b6d2383fbb44",
-              "clue": "Someone who posts junk messages online",
-              "answer": "spammer",
-              "normalized": "spammer"
+              "id": "7b208151-aeb6-45c1-810e-96c440f63330",
+              "clue": "Crude, unskilled",
+              "answer": "artless",
+              "normalized": "artless"
             },
             {
-              "id": "88fe7814-85a2-4ac7-8b7a-15e892b64e20",
-              "clue": "Sweet preserve made from Indian Gooseberry",
-              "answer": "murabba",
-              "normalized": "murabba"
+              "id": "6b5734e1-7962-462e-9758-2c82a6b898f7",
+              "clue": "Sedate and restrained",
+              "answer": "staid",
+              "normalized": "staid"
             },
             {
-              "id": "c0baea0c-68af-456d-b9fb-da8a40df3f7c",
-              "clue": "Morgan __, financial company",
-              "answer": "stanley",
-              "normalized": "stanley"
+              "id": "1a595154-9aa1-40a2-abeb-282daec2e0a6",
+              "clue": "Bathing in the Ganga is said to wash these away",
+              "answer": "sins",
+              "normalized": "sins"
             },
             {
-              "id": "3ef5f7fa-8593-4eeb-880d-ecee0bd4aa92",
-              "clue": "South African golfer Ernie",
-              "answer": "els",
-              "normalized": "els"
+              "id": "d1ff3616-72c5-46c3-a730-803ae6de0549",
+              "clue": "Item kept in case the original is lost",
+              "answer": "spare",
+              "normalized": "spare"
+            },
+            {
+              "id": "1e3e0d5e-1681-4e7b-b0e1-bf19f0454e0d",
+              "clue": "Unwanted picnic guests",
+              "answer": "ants",
+              "normalized": "ants"
+            },
+            {
+              "id": "fb223ab4-2b49-444c-9c35-0533c53ef92b",
+              "clue": "Cap of a bottle or jar",
+              "answer": "lid",
+              "normalized": "lid"
             }
           ],
-          "track": "PC|LenCinY2026M10D1F1V000"
+          "track": "PC|LenCinY2026M10D2F1V000"
         }
       },
       {
@@ -377242,549 +377254,585 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-01",
+      "key": "2026-10-02",
       "year": 2026,
       "month": 10,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenCinY2026M10D1F0V000",
+        "puzzleId": "PC|LenCinY2026M10D2F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f119f6b9-016d-4a89-978b-7e4efd792d11",
-            "clue": "Fibreglass casings for broken arms or legs",
-            "answer": "casts",
-            "normalized": "casts"
+            "id": "a9b4256b-164f-41fd-a95d-10e55f3ffeb9",
+            "clue": "Men in Black",
+            "answer": "mib",
+            "normalized": "mib"
           },
           {
-            "id": "9f626347-958b-461c-b836-157f521167a8",
-            "clue": "Eight-person musical group",
-            "answer": "octet",
-            "normalized": "octet"
+            "id": "bf81de9c-d5f7-40af-bb76-2b6d9c487871",
+            "clue": "Authoritative big cat in the land of Narnia",
+            "answer": "aslan",
+            "normalized": "aslan"
           },
           {
-            "id": "240dcb31-0579-4211-a115-177f63e6faee",
-            "clue": "A sweet pudding made with semolina",
-            "answer": "sheera",
-            "normalized": "sheera"
+            "id": "121a6db4-a126-42e7-b199-e65d1420dfcf",
+            "clue": "__ skates; roller blades",
+            "answer": "inline",
+            "normalized": "inline"
           },
           {
-            "id": "f47f2ab6-f567-4df3-8361-ac43947511fb",
-            "clue": "Ship or truck transports oil",
-            "answer": "tanker",
-            "normalized": "tanker"
+            "id": "61566742-495c-4742-b0af-cd9ab6217909",
+            "clue": "Three words said when understanding a joke",
+            "answer": "i get it",
+            "normalized": "igetit"
           },
           {
-            "id": "f529c90f-33ca-479d-a33e-455658cb9bbc",
-            "clue": "Curved at the top",
-            "answer": "arched",
-            "normalized": "arched"
+            "id": "909afcc3-1ab7-42b8-b327-cbe30da23aaa",
+            "clue": "A core subject on every school time table",
+            "answer": "maths",
+            "normalized": "maths"
           },
           {
-            "id": "3495ea7d-2a96-4783-bfbe-fe4160441cbc",
-            "clue": "Hell __ no fury like a woman scorned",
-            "answer": "hath",
-            "normalized": "hath"
+            "id": "da1c4f80-558a-46b5-a641-d2ec0d23bad4",
+            "clue": "Holy seat for a bishop; view eye to eye",
+            "answer": "see",
+            "normalized": "see"
           },
           {
-            "id": "5edb9c2d-e2f0-4646-b35a-defedb5c6017",
-            "clue": "Rich coast country, __ Rica",
-            "answer": "costa",
-            "normalized": "costa"
+            "id": "aa0b6336-3f1b-4fc2-a5f4-3b21c403aadb",
+            "clue": "Type of Japanese comic or graphic novel",
+            "answer": "manga",
+            "normalized": "manga"
           },
           {
-            "id": "4452567a-c33c-44a4-b96d-f9b50a86d111",
-            "clue": "Pickled young bamboo part",
-            "answer": "achar",
-            "normalized": "achar"
+            "id": "7e2811ce-b4f9-4a1a-a35e-390b3291c2b4",
+            "clue": "Tiny islands",
+            "answer": "islets",
+            "normalized": "islets"
           },
           {
-            "id": "189a2f4a-0f2b-42cc-93ad-d8e3e1adb0e6",
-            "clue": "Foul smell",
-            "answer": "stench",
-            "normalized": "stench"
+            "id": "6e22fc30-7c20-43cc-bfd7-3ac9442d4f0b",
+            "clue": "Cheerfully carefree",
+            "answer": "blithe",
+            "normalized": "blithe"
           },
           {
-            "id": "5093ecc7-407f-45e1-b029-79578bd3ac45",
-            "clue": "Spicy flavour of the Pani Puri water",
-            "answer": "teekha",
-            "normalized": "teekha"
+            "id": "343d7822-262c-4ab7-a261-68019571a0b1",
+            "clue": "Seed with a similar flavour to liquorice",
+            "answer": "anise",
+            "normalized": "anise"
           },
           {
-            "id": "1d3e05a0-3a18-448f-94fa-d78dbfe5479f",
-            "clue": "A road, especially with buildings on either side",
-            "answer": "street",
-            "normalized": "street"
+            "id": "b0255878-04c8-499f-a4f4-d4cfb1acabef",
+            "clue": "Mesh used to catch fish",
+            "answer": "net",
+            "normalized": "net"
           },
           {
-            "id": "782f4cf9-25cd-47d7-bce1-2e8c4a8822b7",
-            "clue": "The 'half' Kumbh Mela held every six years",
-            "answer": "ardh",
-            "normalized": "ardh"
+            "id": "ee7afbd2-ea05-48dc-94ff-560dae12a336",
+            "clue": "Prestigious management institute in Indore",
+            "answer": "iim",
+            "normalized": "iim"
           }
         ],
-        "track": "PC|LenCinY2026M10D1F0V000"
+        "track": "PC|LenCinY2026M10D2F0V000"
       },
       "mid": {
-        "puzzleId": "PC|LenCinY2026M10D1F1V000",
+        "puzzleId": "PC|LenCinY2026M10D2F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c2228da0-eb68-452c-ac05-c50a7755fd92",
-            "clue": "Sudden muscle pains",
-            "answer": "spasms",
-            "normalized": "spasms"
+            "id": "6005571a-2e2a-4adf-926d-94aea3e692b1",
+            "clue": "Set of things sharing similar properties",
+            "answer": "class",
+            "normalized": "class"
           },
           {
-            "id": "34e6273c-ad56-4062-93bf-ec62ef256d74",
-            "clue": "Production amount of a factory",
-            "answer": "output",
-            "normalized": "output"
+            "id": "89c319ae-f9c8-4a81-a6f5-383a60e02352",
+            "clue": "Devotional prayer sung during Diwali puja",
+            "answer": "aarti",
+            "normalized": "aarti"
           },
           {
-            "id": "ceacb3d3-c0f3-44e7-b0d7-80a432549595",
-            "clue": "Desert south and east of Morocco",
-            "answer": "sahara",
-            "normalized": "sahara"
+            "id": "93a1a271-a1b7-4b18-ac02-397dfae30134",
+            "clue": "Bronze pale skin with sun exposure",
+            "answer": "suntan",
+            "normalized": "suntan"
           },
           {
-            "id": "b44bf748-ccb0-4c16-93d1-d9ce91216ccd",
-            "clue": "Salar Jung Museum is largely a ____ collection",
-            "answer": "one man",
-            "normalized": "oneman"
+            "id": "ba7de0ea-7dbc-4a2f-80b8-8c4f56368205",
+            "clue": "Appropriate",
+            "answer": "apt",
+            "normalized": "apt"
           },
           {
-            "id": "a4db06b7-9a5e-407f-b514-f750861a86b8",
-            "clue": "Stroll, walk gently",
-            "answer": "amble",
-            "normalized": "amble"
+            "id": "353c9cb7-57e7-4600-836f-09a3e92da486",
+            "clue": "Decorative French emblem: fleur-de-__",
+            "answer": "lis",
+            "normalized": "lis"
           },
           {
-            "id": "88e107d5-1e3e-40e4-b8b7-f91cf883238c",
-            "clue": "Outspoken protester or military deserter",
-            "answer": "rebel",
-            "normalized": "rebel"
+            "id": "8b3efad2-68bb-4921-8ba7-0be81d4d3449",
+            "clue": "Hammered, pinned, tacked",
+            "answer": "nailed",
+            "normalized": "nailed"
           },
           {
-            "id": "c7e98736-ee02-46ef-8de3-f66cf9574ac4",
-            "clue": "Flat servers used to carry plates, cups, dishes",
-            "answer": "trays",
-            "normalized": "trays"
+            "id": "c8496957-f6d1-464c-b58a-90834735a373",
+            "clue": "French word for three: un, deux, __",
+            "answer": "trois",
+            "normalized": "trois"
           },
           {
-            "id": "d1a088de-e67b-4d51-89a9-3a0becfac7db",
-            "clue": "Describes a mood that's just average",
-            "answer": "so-so",
-            "normalized": "soso"
+            "id": "91f83754-cf12-4ca8-b001-c400339af687",
+            "clue": "Puts in the post",
+            "answer": "sends",
+            "normalized": "sends"
           },
           {
-            "id": "a2a56eb3-0168-4c6b-b70f-6aa7e5206338",
-            "clue": "Traditional Mizoram wrap-around garment",
-            "answer": "puan",
-            "normalized": "puan"
+            "id": "faddb65a-ed0b-4d15-8b37-43534f2335ed",
+            "clue": "Throw __ to the wind",
+            "answer": "caution",
+            "normalized": "caution"
           },
           {
-            "id": "54fc9fa1-faee-4b36-862b-a3529b5daeb6",
-            "clue": "Young __; age is just a number",
-            "answer": "at heart",
-            "normalized": "atheart"
+            "id": "4d21fd92-289b-4539-8583-750ffa6c0493",
+            "clue": "Local area network",
+            "answer": "lan",
+            "normalized": "lan"
           },
           {
-            "id": "305cb646-835e-4630-bed2-b6d2383fbb44",
-            "clue": "Someone who posts junk messages online",
-            "answer": "spammer",
-            "normalized": "spammer"
+            "id": "7b208151-aeb6-45c1-810e-96c440f63330",
+            "clue": "Crude, unskilled",
+            "answer": "artless",
+            "normalized": "artless"
           },
           {
-            "id": "88fe7814-85a2-4ac7-8b7a-15e892b64e20",
-            "clue": "Sweet preserve made from Indian Gooseberry",
-            "answer": "murabba",
-            "normalized": "murabba"
+            "id": "6b5734e1-7962-462e-9758-2c82a6b898f7",
+            "clue": "Sedate and restrained",
+            "answer": "staid",
+            "normalized": "staid"
           },
           {
-            "id": "c0baea0c-68af-456d-b9fb-da8a40df3f7c",
-            "clue": "Morgan __, financial company",
-            "answer": "stanley",
-            "normalized": "stanley"
+            "id": "1a595154-9aa1-40a2-abeb-282daec2e0a6",
+            "clue": "Bathing in the Ganga is said to wash these away",
+            "answer": "sins",
+            "normalized": "sins"
           },
           {
-            "id": "3ef5f7fa-8593-4eeb-880d-ecee0bd4aa92",
-            "clue": "South African golfer Ernie",
-            "answer": "els",
-            "normalized": "els"
+            "id": "d1ff3616-72c5-46c3-a730-803ae6de0549",
+            "clue": "Item kept in case the original is lost",
+            "answer": "spare",
+            "normalized": "spare"
+          },
+          {
+            "id": "1e3e0d5e-1681-4e7b-b0e1-bf19f0454e0d",
+            "clue": "Unwanted picnic guests",
+            "answer": "ants",
+            "normalized": "ants"
+          },
+          {
+            "id": "fb223ab4-2b49-444c-9c35-0533c53ef92b",
+            "clue": "Cap of a bottle or jar",
+            "answer": "lid",
+            "normalized": "lid"
           }
         ],
-        "track": "PC|LenCinY2026M10D1F1V000"
+        "track": "PC|LenCinY2026M10D2F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-01",
+      "key": "2026-10-02",
       "year": 2026,
       "month": 10,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenCinY2026M10D1F0V000",
+        "puzzleId": "PC|LenCinY2026M10D2F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f119f6b9-016d-4a89-978b-7e4efd792d11",
-            "clue": "Fibreglass casings for broken arms or legs",
-            "answer": "casts",
-            "normalized": "casts"
+            "id": "a9b4256b-164f-41fd-a95d-10e55f3ffeb9",
+            "clue": "Men in Black",
+            "answer": "mib",
+            "normalized": "mib"
           },
           {
-            "id": "9f626347-958b-461c-b836-157f521167a8",
-            "clue": "Eight-person musical group",
-            "answer": "octet",
-            "normalized": "octet"
+            "id": "bf81de9c-d5f7-40af-bb76-2b6d9c487871",
+            "clue": "Authoritative big cat in the land of Narnia",
+            "answer": "aslan",
+            "normalized": "aslan"
           },
           {
-            "id": "240dcb31-0579-4211-a115-177f63e6faee",
-            "clue": "A sweet pudding made with semolina",
-            "answer": "sheera",
-            "normalized": "sheera"
+            "id": "121a6db4-a126-42e7-b199-e65d1420dfcf",
+            "clue": "__ skates; roller blades",
+            "answer": "inline",
+            "normalized": "inline"
           },
           {
-            "id": "f47f2ab6-f567-4df3-8361-ac43947511fb",
-            "clue": "Ship or truck transports oil",
-            "answer": "tanker",
-            "normalized": "tanker"
+            "id": "61566742-495c-4742-b0af-cd9ab6217909",
+            "clue": "Three words said when understanding a joke",
+            "answer": "i get it",
+            "normalized": "igetit"
           },
           {
-            "id": "f529c90f-33ca-479d-a33e-455658cb9bbc",
-            "clue": "Curved at the top",
-            "answer": "arched",
-            "normalized": "arched"
+            "id": "909afcc3-1ab7-42b8-b327-cbe30da23aaa",
+            "clue": "A core subject on every school time table",
+            "answer": "maths",
+            "normalized": "maths"
           },
           {
-            "id": "3495ea7d-2a96-4783-bfbe-fe4160441cbc",
-            "clue": "Hell __ no fury like a woman scorned",
-            "answer": "hath",
-            "normalized": "hath"
+            "id": "da1c4f80-558a-46b5-a641-d2ec0d23bad4",
+            "clue": "Holy seat for a bishop; view eye to eye",
+            "answer": "see",
+            "normalized": "see"
           },
           {
-            "id": "5edb9c2d-e2f0-4646-b35a-defedb5c6017",
-            "clue": "Rich coast country, __ Rica",
-            "answer": "costa",
-            "normalized": "costa"
+            "id": "aa0b6336-3f1b-4fc2-a5f4-3b21c403aadb",
+            "clue": "Type of Japanese comic or graphic novel",
+            "answer": "manga",
+            "normalized": "manga"
           },
           {
-            "id": "4452567a-c33c-44a4-b96d-f9b50a86d111",
-            "clue": "Pickled young bamboo part",
-            "answer": "achar",
-            "normalized": "achar"
+            "id": "7e2811ce-b4f9-4a1a-a35e-390b3291c2b4",
+            "clue": "Tiny islands",
+            "answer": "islets",
+            "normalized": "islets"
           },
           {
-            "id": "189a2f4a-0f2b-42cc-93ad-d8e3e1adb0e6",
-            "clue": "Foul smell",
-            "answer": "stench",
-            "normalized": "stench"
+            "id": "6e22fc30-7c20-43cc-bfd7-3ac9442d4f0b",
+            "clue": "Cheerfully carefree",
+            "answer": "blithe",
+            "normalized": "blithe"
           },
           {
-            "id": "5093ecc7-407f-45e1-b029-79578bd3ac45",
-            "clue": "Spicy flavour of the Pani Puri water",
-            "answer": "teekha",
-            "normalized": "teekha"
+            "id": "343d7822-262c-4ab7-a261-68019571a0b1",
+            "clue": "Seed with a similar flavour to liquorice",
+            "answer": "anise",
+            "normalized": "anise"
           },
           {
-            "id": "1d3e05a0-3a18-448f-94fa-d78dbfe5479f",
-            "clue": "A road, especially with buildings on either side",
-            "answer": "street",
-            "normalized": "street"
+            "id": "b0255878-04c8-499f-a4f4-d4cfb1acabef",
+            "clue": "Mesh used to catch fish",
+            "answer": "net",
+            "normalized": "net"
           },
           {
-            "id": "782f4cf9-25cd-47d7-bce1-2e8c4a8822b7",
-            "clue": "The 'half' Kumbh Mela held every six years",
-            "answer": "ardh",
-            "normalized": "ardh"
+            "id": "ee7afbd2-ea05-48dc-94ff-560dae12a336",
+            "clue": "Prestigious management institute in Indore",
+            "answer": "iim",
+            "normalized": "iim"
           }
         ],
-        "track": "PC|LenCinY2026M10D1F0V000"
+        "track": "PC|LenCinY2026M10D2F0V000"
       },
       "mid": {
-        "puzzleId": "PC|LenCinY2026M10D1F1V000",
+        "puzzleId": "PC|LenCinY2026M10D2F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c2228da0-eb68-452c-ac05-c50a7755fd92",
-            "clue": "Sudden muscle pains",
-            "answer": "spasms",
-            "normalized": "spasms"
+            "id": "6005571a-2e2a-4adf-926d-94aea3e692b1",
+            "clue": "Set of things sharing similar properties",
+            "answer": "class",
+            "normalized": "class"
           },
           {
-            "id": "34e6273c-ad56-4062-93bf-ec62ef256d74",
-            "clue": "Production amount of a factory",
-            "answer": "output",
-            "normalized": "output"
+            "id": "89c319ae-f9c8-4a81-a6f5-383a60e02352",
+            "clue": "Devotional prayer sung during Diwali puja",
+            "answer": "aarti",
+            "normalized": "aarti"
           },
           {
-            "id": "ceacb3d3-c0f3-44e7-b0d7-80a432549595",
-            "clue": "Desert south and east of Morocco",
-            "answer": "sahara",
-            "normalized": "sahara"
+            "id": "93a1a271-a1b7-4b18-ac02-397dfae30134",
+            "clue": "Bronze pale skin with sun exposure",
+            "answer": "suntan",
+            "normalized": "suntan"
           },
           {
-            "id": "b44bf748-ccb0-4c16-93d1-d9ce91216ccd",
-            "clue": "Salar Jung Museum is largely a ____ collection",
-            "answer": "one man",
-            "normalized": "oneman"
+            "id": "ba7de0ea-7dbc-4a2f-80b8-8c4f56368205",
+            "clue": "Appropriate",
+            "answer": "apt",
+            "normalized": "apt"
           },
           {
-            "id": "a4db06b7-9a5e-407f-b514-f750861a86b8",
-            "clue": "Stroll, walk gently",
-            "answer": "amble",
-            "normalized": "amble"
+            "id": "353c9cb7-57e7-4600-836f-09a3e92da486",
+            "clue": "Decorative French emblem: fleur-de-__",
+            "answer": "lis",
+            "normalized": "lis"
           },
           {
-            "id": "88e107d5-1e3e-40e4-b8b7-f91cf883238c",
-            "clue": "Outspoken protester or military deserter",
-            "answer": "rebel",
-            "normalized": "rebel"
+            "id": "8b3efad2-68bb-4921-8ba7-0be81d4d3449",
+            "clue": "Hammered, pinned, tacked",
+            "answer": "nailed",
+            "normalized": "nailed"
           },
           {
-            "id": "c7e98736-ee02-46ef-8de3-f66cf9574ac4",
-            "clue": "Flat servers used to carry plates, cups, dishes",
-            "answer": "trays",
-            "normalized": "trays"
+            "id": "c8496957-f6d1-464c-b58a-90834735a373",
+            "clue": "French word for three: un, deux, __",
+            "answer": "trois",
+            "normalized": "trois"
           },
           {
-            "id": "d1a088de-e67b-4d51-89a9-3a0becfac7db",
-            "clue": "Describes a mood that's just average",
-            "answer": "so-so",
-            "normalized": "soso"
+            "id": "91f83754-cf12-4ca8-b001-c400339af687",
+            "clue": "Puts in the post",
+            "answer": "sends",
+            "normalized": "sends"
           },
           {
-            "id": "a2a56eb3-0168-4c6b-b70f-6aa7e5206338",
-            "clue": "Traditional Mizoram wrap-around garment",
-            "answer": "puan",
-            "normalized": "puan"
+            "id": "faddb65a-ed0b-4d15-8b37-43534f2335ed",
+            "clue": "Throw __ to the wind",
+            "answer": "caution",
+            "normalized": "caution"
           },
           {
-            "id": "54fc9fa1-faee-4b36-862b-a3529b5daeb6",
-            "clue": "Young __; age is just a number",
-            "answer": "at heart",
-            "normalized": "atheart"
+            "id": "4d21fd92-289b-4539-8583-750ffa6c0493",
+            "clue": "Local area network",
+            "answer": "lan",
+            "normalized": "lan"
           },
           {
-            "id": "305cb646-835e-4630-bed2-b6d2383fbb44",
-            "clue": "Someone who posts junk messages online",
-            "answer": "spammer",
-            "normalized": "spammer"
+            "id": "7b208151-aeb6-45c1-810e-96c440f63330",
+            "clue": "Crude, unskilled",
+            "answer": "artless",
+            "normalized": "artless"
           },
           {
-            "id": "88fe7814-85a2-4ac7-8b7a-15e892b64e20",
-            "clue": "Sweet preserve made from Indian Gooseberry",
-            "answer": "murabba",
-            "normalized": "murabba"
+            "id": "6b5734e1-7962-462e-9758-2c82a6b898f7",
+            "clue": "Sedate and restrained",
+            "answer": "staid",
+            "normalized": "staid"
           },
           {
-            "id": "c0baea0c-68af-456d-b9fb-da8a40df3f7c",
-            "clue": "Morgan __, financial company",
-            "answer": "stanley",
-            "normalized": "stanley"
+            "id": "1a595154-9aa1-40a2-abeb-282daec2e0a6",
+            "clue": "Bathing in the Ganga is said to wash these away",
+            "answer": "sins",
+            "normalized": "sins"
           },
           {
-            "id": "3ef5f7fa-8593-4eeb-880d-ecee0bd4aa92",
-            "clue": "South African golfer Ernie",
-            "answer": "els",
-            "normalized": "els"
+            "id": "d1ff3616-72c5-46c3-a730-803ae6de0549",
+            "clue": "Item kept in case the original is lost",
+            "answer": "spare",
+            "normalized": "spare"
+          },
+          {
+            "id": "1e3e0d5e-1681-4e7b-b0e1-bf19f0454e0d",
+            "clue": "Unwanted picnic guests",
+            "answer": "ants",
+            "normalized": "ants"
+          },
+          {
+            "id": "fb223ab4-2b49-444c-9c35-0533c53ef92b",
+            "clue": "Cap of a bottle or jar",
+            "answer": "lid",
+            "normalized": "lid"
           }
         ],
-        "track": "PC|LenCinY2026M10D1F1V000"
+        "track": "PC|LenCinY2026M10D2F1V000"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-10-01",
+      "key": "2026-10-02",
       "year": 2026,
       "month": 10,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenCinY2026M10D1F0V000",
+        "puzzleId": "PC|LenCinY2026M10D2F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f119f6b9-016d-4a89-978b-7e4efd792d11",
-            "clue": "Fibreglass casings for broken arms or legs",
-            "answer": "casts",
-            "normalized": "casts"
+            "id": "a9b4256b-164f-41fd-a95d-10e55f3ffeb9",
+            "clue": "Men in Black",
+            "answer": "mib",
+            "normalized": "mib"
           },
           {
-            "id": "9f626347-958b-461c-b836-157f521167a8",
-            "clue": "Eight-person musical group",
-            "answer": "octet",
-            "normalized": "octet"
+            "id": "bf81de9c-d5f7-40af-bb76-2b6d9c487871",
+            "clue": "Authoritative big cat in the land of Narnia",
+            "answer": "aslan",
+            "normalized": "aslan"
           },
           {
-            "id": "240dcb31-0579-4211-a115-177f63e6faee",
-            "clue": "A sweet pudding made with semolina",
-            "answer": "sheera",
-            "normalized": "sheera"
+            "id": "121a6db4-a126-42e7-b199-e65d1420dfcf",
+            "clue": "__ skates; roller blades",
+            "answer": "inline",
+            "normalized": "inline"
           },
           {
-            "id": "f47f2ab6-f567-4df3-8361-ac43947511fb",
-            "clue": "Ship or truck transports oil",
-            "answer": "tanker",
-            "normalized": "tanker"
+            "id": "61566742-495c-4742-b0af-cd9ab6217909",
+            "clue": "Three words said when understanding a joke",
+            "answer": "i get it",
+            "normalized": "igetit"
           },
           {
-            "id": "f529c90f-33ca-479d-a33e-455658cb9bbc",
-            "clue": "Curved at the top",
-            "answer": "arched",
-            "normalized": "arched"
+            "id": "909afcc3-1ab7-42b8-b327-cbe30da23aaa",
+            "clue": "A core subject on every school time table",
+            "answer": "maths",
+            "normalized": "maths"
           },
           {
-            "id": "3495ea7d-2a96-4783-bfbe-fe4160441cbc",
-            "clue": "Hell __ no fury like a woman scorned",
-            "answer": "hath",
-            "normalized": "hath"
+            "id": "da1c4f80-558a-46b5-a641-d2ec0d23bad4",
+            "clue": "Holy seat for a bishop; view eye to eye",
+            "answer": "see",
+            "normalized": "see"
           },
           {
-            "id": "5edb9c2d-e2f0-4646-b35a-defedb5c6017",
-            "clue": "Rich coast country, __ Rica",
-            "answer": "costa",
-            "normalized": "costa"
+            "id": "aa0b6336-3f1b-4fc2-a5f4-3b21c403aadb",
+            "clue": "Type of Japanese comic or graphic novel",
+            "answer": "manga",
+            "normalized": "manga"
           },
           {
-            "id": "4452567a-c33c-44a4-b96d-f9b50a86d111",
-            "clue": "Pickled young bamboo part",
-            "answer": "achar",
-            "normalized": "achar"
+            "id": "7e2811ce-b4f9-4a1a-a35e-390b3291c2b4",
+            "clue": "Tiny islands",
+            "answer": "islets",
+            "normalized": "islets"
           },
           {
-            "id": "189a2f4a-0f2b-42cc-93ad-d8e3e1adb0e6",
-            "clue": "Foul smell",
-            "answer": "stench",
-            "normalized": "stench"
+            "id": "6e22fc30-7c20-43cc-bfd7-3ac9442d4f0b",
+            "clue": "Cheerfully carefree",
+            "answer": "blithe",
+            "normalized": "blithe"
           },
           {
-            "id": "5093ecc7-407f-45e1-b029-79578bd3ac45",
-            "clue": "Spicy flavour of the Pani Puri water",
-            "answer": "teekha",
-            "normalized": "teekha"
+            "id": "343d7822-262c-4ab7-a261-68019571a0b1",
+            "clue": "Seed with a similar flavour to liquorice",
+            "answer": "anise",
+            "normalized": "anise"
           },
           {
-            "id": "1d3e05a0-3a18-448f-94fa-d78dbfe5479f",
-            "clue": "A road, especially with buildings on either side",
-            "answer": "street",
-            "normalized": "street"
+            "id": "b0255878-04c8-499f-a4f4-d4cfb1acabef",
+            "clue": "Mesh used to catch fish",
+            "answer": "net",
+            "normalized": "net"
           },
           {
-            "id": "782f4cf9-25cd-47d7-bce1-2e8c4a8822b7",
-            "clue": "The 'half' Kumbh Mela held every six years",
-            "answer": "ardh",
-            "normalized": "ardh"
+            "id": "ee7afbd2-ea05-48dc-94ff-560dae12a336",
+            "clue": "Prestigious management institute in Indore",
+            "answer": "iim",
+            "normalized": "iim"
           }
         ],
-        "track": "PC|LenCinY2026M10D1F0V000"
+        "track": "PC|LenCinY2026M10D2F0V000"
       },
       "mid": {
-        "puzzleId": "PC|LenCinY2026M10D1F1V000",
+        "puzzleId": "PC|LenCinY2026M10D2F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c2228da0-eb68-452c-ac05-c50a7755fd92",
-            "clue": "Sudden muscle pains",
-            "answer": "spasms",
-            "normalized": "spasms"
+            "id": "6005571a-2e2a-4adf-926d-94aea3e692b1",
+            "clue": "Set of things sharing similar properties",
+            "answer": "class",
+            "normalized": "class"
           },
           {
-            "id": "34e6273c-ad56-4062-93bf-ec62ef256d74",
-            "clue": "Production amount of a factory",
-            "answer": "output",
-            "normalized": "output"
+            "id": "89c319ae-f9c8-4a81-a6f5-383a60e02352",
+            "clue": "Devotional prayer sung during Diwali puja",
+            "answer": "aarti",
+            "normalized": "aarti"
           },
           {
-            "id": "ceacb3d3-c0f3-44e7-b0d7-80a432549595",
-            "clue": "Desert south and east of Morocco",
-            "answer": "sahara",
-            "normalized": "sahara"
+            "id": "93a1a271-a1b7-4b18-ac02-397dfae30134",
+            "clue": "Bronze pale skin with sun exposure",
+            "answer": "suntan",
+            "normalized": "suntan"
           },
           {
-            "id": "b44bf748-ccb0-4c16-93d1-d9ce91216ccd",
-            "clue": "Salar Jung Museum is largely a ____ collection",
-            "answer": "one man",
-            "normalized": "oneman"
+            "id": "ba7de0ea-7dbc-4a2f-80b8-8c4f56368205",
+            "clue": "Appropriate",
+            "answer": "apt",
+            "normalized": "apt"
           },
           {
-            "id": "a4db06b7-9a5e-407f-b514-f750861a86b8",
-            "clue": "Stroll, walk gently",
-            "answer": "amble",
-            "normalized": "amble"
+            "id": "353c9cb7-57e7-4600-836f-09a3e92da486",
+            "clue": "Decorative French emblem: fleur-de-__",
+            "answer": "lis",
+            "normalized": "lis"
           },
           {
-            "id": "88e107d5-1e3e-40e4-b8b7-f91cf883238c",
-            "clue": "Outspoken protester or military deserter",
-            "answer": "rebel",
-            "normalized": "rebel"
+            "id": "8b3efad2-68bb-4921-8ba7-0be81d4d3449",
+            "clue": "Hammered, pinned, tacked",
+            "answer": "nailed",
+            "normalized": "nailed"
           },
           {
-            "id": "c7e98736-ee02-46ef-8de3-f66cf9574ac4",
-            "clue": "Flat servers used to carry plates, cups, dishes",
-            "answer": "trays",
-            "normalized": "trays"
+            "id": "c8496957-f6d1-464c-b58a-90834735a373",
+            "clue": "French word for three: un, deux, __",
+            "answer": "trois",
+            "normalized": "trois"
           },
           {
-            "id": "d1a088de-e67b-4d51-89a9-3a0becfac7db",
-            "clue": "Describes a mood that's just average",
-            "answer": "so-so",
-            "normalized": "soso"
+            "id": "91f83754-cf12-4ca8-b001-c400339af687",
+            "clue": "Puts in the post",
+            "answer": "sends",
+            "normalized": "sends"
           },
           {
-            "id": "a2a56eb3-0168-4c6b-b70f-6aa7e5206338",
-            "clue": "Traditional Mizoram wrap-around garment",
-            "answer": "puan",
-            "normalized": "puan"
+            "id": "faddb65a-ed0b-4d15-8b37-43534f2335ed",
+            "clue": "Throw __ to the wind",
+            "answer": "caution",
+            "normalized": "caution"
           },
           {
-            "id": "54fc9fa1-faee-4b36-862b-a3529b5daeb6",
-            "clue": "Young __; age is just a number",
-            "answer": "at heart",
-            "normalized": "atheart"
+            "id": "4d21fd92-289b-4539-8583-750ffa6c0493",
+            "clue": "Local area network",
+            "answer": "lan",
+            "normalized": "lan"
           },
           {
-            "id": "305cb646-835e-4630-bed2-b6d2383fbb44",
-            "clue": "Someone who posts junk messages online",
-            "answer": "spammer",
-            "normalized": "spammer"
+            "id": "7b208151-aeb6-45c1-810e-96c440f63330",
+            "clue": "Crude, unskilled",
+            "answer": "artless",
+            "normalized": "artless"
           },
           {
-            "id": "88fe7814-85a2-4ac7-8b7a-15e892b64e20",
-            "clue": "Sweet preserve made from Indian Gooseberry",
-            "answer": "murabba",
-            "normalized": "murabba"
+            "id": "6b5734e1-7962-462e-9758-2c82a6b898f7",
+            "clue": "Sedate and restrained",
+            "answer": "staid",
+            "normalized": "staid"
           },
           {
-            "id": "c0baea0c-68af-456d-b9fb-da8a40df3f7c",
-            "clue": "Morgan __, financial company",
-            "answer": "stanley",
-            "normalized": "stanley"
+            "id": "1a595154-9aa1-40a2-abeb-282daec2e0a6",
+            "clue": "Bathing in the Ganga is said to wash these away",
+            "answer": "sins",
+            "normalized": "sins"
           },
           {
-            "id": "3ef5f7fa-8593-4eeb-880d-ecee0bd4aa92",
-            "clue": "South African golfer Ernie",
-            "answer": "els",
-            "normalized": "els"
+            "id": "d1ff3616-72c5-46c3-a730-803ae6de0549",
+            "clue": "Item kept in case the original is lost",
+            "answer": "spare",
+            "normalized": "spare"
+          },
+          {
+            "id": "1e3e0d5e-1681-4e7b-b0e1-bf19f0454e0d",
+            "clue": "Unwanted picnic guests",
+            "answer": "ants",
+            "normalized": "ants"
+          },
+          {
+            "id": "fb223ab4-2b49-444c-9c35-0533c53ef92b",
+            "clue": "Cap of a bottle or jar",
+            "answer": "lid",
+            "normalized": "lid"
           }
         ],
-        "track": "PC|LenCinY2026M10D1F1V000"
+        "track": "PC|LenCinY2026M10D2F1V000"
       }
     },
     "todayPublished": true
@@ -377796,21 +377844,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "JE8NJ3cHJjxyInDRYa92dZp3+XKESc3v/zABYorBX4O8ffemt9PfYxNUX1tr6fiNQ2UPLdy6uTvCnu0nWOi8jv3txcnFcTj1gPX3DfJ3tE+ooudjjcBoAt7okLSaMAwXeL5He7POpRowVPbEE63Qha9suxgv78x4sB7AInztqHFBImh/XDrf1gOBQuorbtr7IUmjicGbgmnnipSAbqRAVy3j14PyhEIsUva2PMOLiqiJzKs4rp/4rQL0gcKvr8YbOlQngb7b2gs2tajr8NuXU2eSU/MQRNFe4SCk4Hwwj5Q="
+        "zsSXvjTLV2I2GkL6fZB7SXAw07UzArPsM75gpxXGFgpbdcIPygWMd84no32qaUZj0p0WjY5qILdGmeJTG8wbGilu5nAzRg5kwTqRHgGAh4Nrb9mXRypMcplW7AQUS2vuXL5l+9jK4Vr/2FCDyY7/4M+Dx4iDt2Z2cp7u2WmKl90IP8th9eKUiQXkzAt39yOaST/3lBAnS3yEuiJV8Z8oVcTM9pkyrMdbFEWUVbHzUGroXHQLvLV8XP3msKHjvuEuFSZghTCkMBubeQtAO2et5POvD3O4ub8WCMjjrLbIz4E="
       ]
     },
     "decrypted": {
-      "Id": "ee27c91b-63c8-4047-b778-36dd87ecbf00",
-      "Date": "2026-10-01T00:00:00Z",
+      "Id": "977272ad-d88f-4889-9123-c1c177396de8",
+      "Date": "2026-10-02T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "wrist",
-      "NormalizedPassword": "wrist",
+      "Password": "quirk",
+      "NormalizedPassword": "quirk",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-01T03:56:14.3660000+05:30",
-    "hash": "256835c28959fff9d1c770759b4bf3f2",
+    "dtu": "2026-10-02T04:18:28.8990000+05:30",
+    "hash": "aa4f6ddb4cda13b24d137d0ca5b3ce46",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
