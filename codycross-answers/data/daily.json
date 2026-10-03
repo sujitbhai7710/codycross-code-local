@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T22:23:57.180Z",
+  "generatedAt": "2026-10-03T21:35:09.557Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 3
+    "day": 4
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 2
+        "QuantidadeDeFases": 4
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -382720,367 +382720,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-03",
+      "key": "2026-10-04",
       "year": 2026,
       "month": 10,
-      "day": 3,
+      "day": 4,
       "small": {
-        "puzzleId": "310248b8-8b8b-4bd0-9b74-c6607115e828",
+        "puzzleId": "b51b6eca-c56c-4d55-8db7-024c33a444e1",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b398c8bb-fb24-43e1-b1ff-1c65f09c7953",
-            "clue": "US TV network with an eyeball logo",
-            "answer": "cbs",
-            "normalized": "cbs"
+            "id": "cdb8bfab-67b5-42ea-8c87-498ac9537a48",
+            "clue": "Chunk of hard stone",
+            "answer": "rock",
+            "normalized": "rock"
           },
           {
-            "id": "444b4b15-e153-43af-9d73-20057c77b3d7",
-            "clue": "Creatures associated with graveyards and the dead",
-            "answer": "ghouls",
-            "normalized": "ghouls"
+            "id": "ae2c5854-847a-4da6-8e8e-b4c3da586d5e",
+            "clue": "When two kites start to fight in kite fighting",
+            "answer": "pecha",
+            "normalized": "pecha"
           },
           {
-            "id": "a85f1284-0fda-443a-855e-b7b27744760e",
-            "clue": "West Bengal's second-largest city",
-            "answer": "howrah",
-            "normalized": "howrah"
+            "id": "d2b290e9-bab8-43e2-8a20-4f89fd06305b",
+            "clue": "Saif Ali Khan's role in Dil Chahta Hai",
+            "answer": "sameer",
+            "normalized": "sameer"
           },
           {
-            "id": "5c32ed83-3a1f-4fcc-816c-d843c094122b",
-            "clue": "Girlfriend of cartoon cat Garfield",
-            "answer": "arlene",
-            "normalized": "arlene"
+            "id": "99d903f0-5762-4617-8450-14db8580df5f",
+            "clue": "Country whose provinces include Alberta and Quebec",
+            "answer": "canada",
+            "normalized": "canada"
           },
           {
-            "id": "e2e0bef7-25ae-4fb8-ab2b-66b5f533dd95",
-            "clue": "Wound a fishing line back in",
-            "answer": "reeled",
-            "normalized": "reeled"
+            "id": "9ba860af-e420-4e36-b083-bccfcc6859bd",
+            "clue": "Famous National Chess Champion from Chennai",
+            "answer": "anand",
+            "normalized": "anand"
           },
           {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
+            "id": "f8f60a38-95fb-4cf9-86e5-97ec348f86c0",
+            "clue": "An excessive enthusiasm or obsession",
+            "answer": "mania",
+            "normalized": "mania"
           },
           {
-            "id": "7f319eb5-6c54-49af-a857-8d7fc60bd698",
-            "clue": "An errand, an unpleasant task",
-            "answer": "chore",
-            "normalized": "chore"
+            "id": "3007281b-e96f-4444-bbe8-def48e2d3499",
+            "clue": "The instrument Anoushka Shankar plays",
+            "answer": "sitar",
+            "normalized": "sitar"
           },
           {
-            "id": "ac510101-26ea-47cf-94ee-6074e099f30f",
-            "clue": "Parker __; Camilla's surname before royal wedding",
-            "answer": "bowles",
-            "normalized": "bowles"
+            "id": "78e9f628-f5a1-4603-9343-c60ddb9cbc68",
+            "clue": "Leftover scrap",
+            "answer": "remnant",
+            "normalized": "remnant"
           },
           {
-            "id": "571fa59d-f6cc-441c-81d7-3279d31ca756",
-            "clue": "Certainly, definitely",
-            "answer": "surely",
-            "normalized": "surely"
+            "id": "00053a50-b711-4cda-ba21-7c15c1a0b7f7",
+            "clue": "Region including Polynesia and Australasia",
+            "answer": "oceania",
+            "normalized": "oceania"
           },
           {
-            "id": "7f0810bf-c633-4ce6-97b1-0d50a7853907",
-            "clue": "The central 'home' square in a Chaupar game",
-            "answer": "ghar",
-            "normalized": "ghar"
+            "id": "a575acd2-b77e-4c39-b81c-6f2a7c93acf1",
+            "clue": "Orange cheese from a Somerset, England town",
+            "answer": "cheddar",
+            "normalized": "cheddar"
           },
           {
-            "id": "f84b074f-4287-4645-a25f-5796265a454b",
-            "clue": "Bowling alley divisions",
-            "answer": "lanes",
-            "normalized": "lanes"
+            "id": "cf0243f1-2526-48fc-b364-42ee25096f82",
+            "clue": "First name of the original Supergirl, __ Zor-El",
+            "answer": "kara",
+            "normalized": "kara"
           },
           {
-            "id": "9d400591-312e-41ec-8f3b-5e798c339b9b",
-            "clue": "Wooden hut in the garden",
-            "answer": "shed",
-            "normalized": "shed"
+            "id": "a65ba179-8009-422f-9618-4893746e3a91",
+            "clue": "The pot motif in a Pongal Kolam design",
+            "answer": "paanai",
+            "normalized": "paanai"
+          },
+          {
+            "id": "d1d19d91-669e-4bbd-9f49-543e10d7fbcf",
+            "clue": "Hoaxes, frauds",
+            "answer": "scams",
+            "normalized": "scams"
           }
         ],
-        "track": "PC|LenCinY2026M10D3F0V000"
+        "track": "PC|LenCinY2026M10D4F0V000"
       },
       "mid": {
-        "puzzleId": "edaeefa2-7f34-42cb-82ff-8b0aaebcb71c",
+        "puzzleId": "ff892fb6-dec3-4475-a38a-79ee414a4423",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c1fa5843-aa9c-4b91-994b-b491864c63ea",
-            "clue": "Digital India Initiative's rural service kiosks",
-            "answer": "csc",
-            "normalized": "csc"
+            "id": "b4597743-3324-41c4-9850-5737ba6dbe3b",
+            "clue": "Volcano in central Honshu, Japan",
+            "answer": "asama",
+            "normalized": "asama"
           },
           {
-            "id": "bb21927b-dd21-4148-b642-c3ec20f944eb",
-            "clue": "A group of fish in the sea",
-            "answer": "shoal",
-            "normalized": "shoal"
+            "id": "70a08553-531c-4c92-bd8e-881d1ca9891f",
+            "clue": "Indian industrialist, former Tata Group chairman",
+            "answer": "ratan",
+            "normalized": "ratan"
           },
           {
-            "id": "3bc49c0c-f93d-48d4-be14-419689f8adc8",
-            "clue": "An apparition or spectre, it’s a Star Wars menace",
-            "answer": "phantom",
-            "normalized": "phantom"
+            "id": "54d5dc6c-deef-42da-9acc-b39537331d6e",
+            "clue": "Groups of cells that produce something, sweat",
+            "answer": "glands",
+            "normalized": "glands"
           },
           {
-            "id": "2065177e-069b-4e1c-a8b0-f2b6f770c554",
-            "clue": "Borrowing money against goods",
-            "answer": "pawning",
-            "normalized": "pawning"
+            "id": "6242d42b-600a-4eaf-a831-94304245df78",
+            "clue": "Norse goddess who ruled over the underworld",
+            "answer": "hel",
+            "normalized": "hel"
           },
           {
-            "id": "7933e1fa-c3e0-4355-b8ff-bbf3f169a3d9",
-            "clue": "Another word for a gym instructor",
-            "answer": "trainer",
-            "normalized": "trainer"
+            "id": "9362388f-bbc5-436e-9639-13448f2f0142",
+            "clue": "UK measure of inflation, retail price index",
+            "answer": "rpi",
+            "normalized": "rpi"
           },
           {
-            "id": "5eb06b8d-3b1d-4205-8aaf-15b79b1d1e06",
-            "clue": "Race of people with pointy ears; Legolas and Arwen",
-            "answer": "elves",
-            "normalized": "elves"
+            "id": "90d6eb94-4c73-48dd-86d2-5c0454eb5acd",
+            "clue": "Fabric from the coat of an Angora goat",
+            "answer": "mohair",
+            "normalized": "mohair"
           },
           {
-            "id": "8da54122-7897-4a6a-be54-4aa851fed838",
-            "clue": "US automotive engineering standards body",
-            "answer": "sae",
-            "normalized": "sae"
+            "id": "a2c88e37-b105-4a15-98c2-8961437f902e",
+            "clue": "An unfair deal: \"get the short end of the __\"",
+            "answer": "stick",
+            "normalized": "stick"
           },
           {
-            "id": "6cd3a7bd-2d29-4d92-85da-0e873c4a3d68",
-            "clue": "Collude, scheme, plot",
-            "answer": "connive",
-            "normalized": "connive"
+            "id": "d8c06a2d-8c57-4999-8d5f-9e29a6d5dd7e",
+            "clue": "Doesn't float",
+            "answer": "sinks",
+            "normalized": "sinks"
           },
           {
-            "id": "187779ea-76c2-4fe3-aa99-9734303347c6",
-            "clue": "Nicole Kidman's character in Moulin Rouge",
-            "answer": "satine",
-            "normalized": "satine"
+            "id": "15acae89-4a34-47b8-a260-4d04cde965a4",
+            "clue": "Expression of fright or frustration",
+            "answer": "argh",
+            "normalized": "argh"
           },
           {
-            "id": "df36d426-fcc1-4422-b6c8-cdd5692e0694",
-            "clue": "Multiple identical versions of a living being",
-            "answer": "clones",
-            "normalized": "clones"
+            "id": "3b203b21-033c-4873-8d00-d35b99dc902f",
+            "clue": "T. Natarajan's birthplace in Tamil Nadu",
+            "answer": "salem",
+            "normalized": "salem"
           },
           {
-            "id": "a3700397-d6c3-4f84-a1b0-df6c84a6a5ed",
-            "clue": "Portions of the capital of a company, up for sale",
-            "answer": "shares",
-            "normalized": "shares"
+            "id": "ce6d6032-693a-48ea-b917-78dcac1bdb9c",
+            "clue": "Not knowing what to do, helpless",
+            "answer": "at a loss",
+            "normalized": "ataloss"
           },
           {
-            "id": "0e11faa5-4654-4ea6-b438-4da9fad6074c",
-            "clue": "Middle East money-moving system based on trust",
-            "answer": "hawala",
-            "normalized": "hawala"
+            "id": "ca63c12d-4f75-4ba1-829a-2d1fa56d3f14",
+            "clue": "Isle of which Douglas is the admin centre",
+            "answer": "man",
+            "normalized": "man"
           },
           {
-            "id": "5bf27cb3-cbf8-43c0-928f-1ca2fafa38a6",
-            "clue": "Abbreviation for a powerpoint presentation",
-            "answer": "ppt",
-            "normalized": "ppt"
+            "id": "4f983e08-e5df-4d9f-aee2-947c11d500b8",
+            "clue": "Fire __, hit song on James Taylor's second album",
+            "answer": "and rain",
+            "normalized": "andrain"
           },
           {
-            "id": "a482087b-b92c-40ae-a956-66a8fce8a057",
-            "clue": "Abbreviation for the game Metal Gear Rising",
-            "answer": "mgr",
-            "normalized": "mgr"
+            "id": "8a9ecae8-3976-4a07-813e-a0b2bb3689d2",
+            "clue": "__ and span, neat and tidy",
+            "answer": "spick",
+            "normalized": "spick"
+          },
+          {
+            "id": "e5e87776-39de-4ab6-a575-638395035e2c",
+            "clue": "Irritates, annoys",
+            "answer": "irks",
+            "normalized": "irks"
+          },
+          {
+            "id": "a034829a-f4ac-4f54-9834-a975c0d20c89",
+            "clue": "Three-letter alpha code for Haiti",
+            "answer": "hti",
+            "normalized": "hti"
           }
         ],
-        "track": "PC|LenCinY2026M10D3F1V000"
+        "track": "PC|LenCinY2026M10D4F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-03",
+      "key": "2026-10-04",
       "year": 2026,
       "month": 10,
-      "day": 3,
+      "day": 4,
       "small": {
-        "puzzleId": "310248b8-8b8b-4bd0-9b74-c6607115e828",
+        "puzzleId": "b51b6eca-c56c-4d55-8db7-024c33a444e1",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b398c8bb-fb24-43e1-b1ff-1c65f09c7953",
-            "clue": "US TV network with an eyeball logo",
-            "answer": "cbs",
-            "normalized": "cbs"
+            "id": "cdb8bfab-67b5-42ea-8c87-498ac9537a48",
+            "clue": "Chunk of hard stone",
+            "answer": "rock",
+            "normalized": "rock"
           },
           {
-            "id": "444b4b15-e153-43af-9d73-20057c77b3d7",
-            "clue": "Creatures associated with graveyards and the dead",
-            "answer": "ghouls",
-            "normalized": "ghouls"
+            "id": "ae2c5854-847a-4da6-8e8e-b4c3da586d5e",
+            "clue": "When two kites start to fight in kite fighting",
+            "answer": "pecha",
+            "normalized": "pecha"
           },
           {
-            "id": "a85f1284-0fda-443a-855e-b7b27744760e",
-            "clue": "West Bengal's second-largest city",
-            "answer": "howrah",
-            "normalized": "howrah"
+            "id": "d2b290e9-bab8-43e2-8a20-4f89fd06305b",
+            "clue": "Saif Ali Khan's role in Dil Chahta Hai",
+            "answer": "sameer",
+            "normalized": "sameer"
           },
           {
-            "id": "5c32ed83-3a1f-4fcc-816c-d843c094122b",
-            "clue": "Girlfriend of cartoon cat Garfield",
-            "answer": "arlene",
-            "normalized": "arlene"
+            "id": "99d903f0-5762-4617-8450-14db8580df5f",
+            "clue": "Country whose provinces include Alberta and Quebec",
+            "answer": "canada",
+            "normalized": "canada"
           },
           {
-            "id": "e2e0bef7-25ae-4fb8-ab2b-66b5f533dd95",
-            "clue": "Wound a fishing line back in",
-            "answer": "reeled",
-            "normalized": "reeled"
+            "id": "9ba860af-e420-4e36-b083-bccfcc6859bd",
+            "clue": "Famous National Chess Champion from Chennai",
+            "answer": "anand",
+            "normalized": "anand"
           },
           {
-            "id": "f8c1317c-8d15-4852-89fc-54af9b3dec93",
-            "clue": "Windows system file extension",
-            "answer": "sys",
-            "normalized": "sys"
+            "id": "f8f60a38-95fb-4cf9-86e5-97ec348f86c0",
+            "clue": "An excessive enthusiasm or obsession",
+            "answer": "mania",
+            "normalized": "mania"
           },
           {
-            "id": "7f319eb5-6c54-49af-a857-8d7fc60bd698",
-            "clue": "An errand, an unpleasant task",
-            "answer": "chore",
-            "normalized": "chore"
+            "id": "3007281b-e96f-4444-bbe8-def48e2d3499",
+            "clue": "The instrument Anoushka Shankar plays",
+            "answer": "sitar",
+            "normalized": "sitar"
           },
           {
-            "id": "ac510101-26ea-47cf-94ee-6074e099f30f",
-            "clue": "Parker __; Camilla's surname before royal wedding",
-            "answer": "bowles",
-            "normalized": "bowles"
+            "id": "78e9f628-f5a1-4603-9343-c60ddb9cbc68",
+            "clue": "Leftover scrap",
+            "answer": "remnant",
+            "normalized": "remnant"
           },
           {
-            "id": "571fa59d-f6cc-441c-81d7-3279d31ca756",
-            "clue": "Certainly, definitely",
-            "answer": "surely",
-            "normalized": "surely"
+            "id": "00053a50-b711-4cda-ba21-7c15c1a0b7f7",
+            "clue": "Region including Polynesia and Australasia",
+            "answer": "oceania",
+            "normalized": "oceania"
           },
           {
-            "id": "7f0810bf-c633-4ce6-97b1-0d50a7853907",
-            "clue": "The central 'home' square in a Chaupar game",
-            "answer": "ghar",
-            "normalized": "ghar"
+            "id": "a575acd2-b77e-4c39-b81c-6f2a7c93acf1",
+            "clue": "Orange cheese from a Somerset, England town",
+            "answer": "cheddar",
+            "normalized": "cheddar"
           },
           {
-            "id": "f84b074f-4287-4645-a25f-5796265a454b",
-            "clue": "Bowling alley divisions",
-            "answer": "lanes",
-            "normalized": "lanes"
+            "id": "cf0243f1-2526-48fc-b364-42ee25096f82",
+            "clue": "First name of the original Supergirl, __ Zor-El",
+            "answer": "kara",
+            "normalized": "kara"
           },
           {
-            "id": "9d400591-312e-41ec-8f3b-5e798c339b9b",
-            "clue": "Wooden hut in the garden",
-            "answer": "shed",
-            "normalized": "shed"
+            "id": "a65ba179-8009-422f-9618-4893746e3a91",
+            "clue": "The pot motif in a Pongal Kolam design",
+            "answer": "paanai",
+            "normalized": "paanai"
+          },
+          {
+            "id": "d1d19d91-669e-4bbd-9f49-543e10d7fbcf",
+            "clue": "Hoaxes, frauds",
+            "answer": "scams",
+            "normalized": "scams"
           }
         ],
-        "track": "PC|LenCinY2026M10D3F0V000"
+        "track": "PC|LenCinY2026M10D4F0V000"
       },
       "mid": {
-        "puzzleId": "edaeefa2-7f34-42cb-82ff-8b0aaebcb71c",
+        "puzzleId": "ff892fb6-dec3-4475-a38a-79ee414a4423",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c1fa5843-aa9c-4b91-994b-b491864c63ea",
-            "clue": "Digital India Initiative's rural service kiosks",
-            "answer": "csc",
-            "normalized": "csc"
+            "id": "b4597743-3324-41c4-9850-5737ba6dbe3b",
+            "clue": "Volcano in central Honshu, Japan",
+            "answer": "asama",
+            "normalized": "asama"
           },
           {
-            "id": "bb21927b-dd21-4148-b642-c3ec20f944eb",
-            "clue": "A group of fish in the sea",
-            "answer": "shoal",
-            "normalized": "shoal"
+            "id": "70a08553-531c-4c92-bd8e-881d1ca9891f",
+            "clue": "Indian industrialist, former Tata Group chairman",
+            "answer": "ratan",
+            "normalized": "ratan"
           },
           {
-            "id": "3bc49c0c-f93d-48d4-be14-419689f8adc8",
-            "clue": "An apparition or spectre, it’s a Star Wars menace",
-            "answer": "phantom",
-            "normalized": "phantom"
+            "id": "54d5dc6c-deef-42da-9acc-b39537331d6e",
+            "clue": "Groups of cells that produce something, sweat",
+            "answer": "glands",
+            "normalized": "glands"
           },
           {
-            "id": "2065177e-069b-4e1c-a8b0-f2b6f770c554",
-            "clue": "Borrowing money against goods",
-            "answer": "pawning",
-            "normalized": "pawning"
+            "id": "6242d42b-600a-4eaf-a831-94304245df78",
+            "clue": "Norse goddess who ruled over the underworld",
+            "answer": "hel",
+            "normalized": "hel"
           },
           {
-            "id": "7933e1fa-c3e0-4355-b8ff-bbf3f169a3d9",
-            "clue": "Another word for a gym instructor",
-            "answer": "trainer",
-            "normalized": "trainer"
+            "id": "9362388f-bbc5-436e-9639-13448f2f0142",
+            "clue": "UK measure of inflation, retail price index",
+            "answer": "rpi",
+            "normalized": "rpi"
           },
           {
-            "id": "5eb06b8d-3b1d-4205-8aaf-15b79b1d1e06",
-            "clue": "Race of people with pointy ears; Legolas and Arwen",
-            "answer": "elves",
-            "normalized": "elves"
+            "id": "90d6eb94-4c73-48dd-86d2-5c0454eb5acd",
+            "clue": "Fabric from the coat of an Angora goat",
+            "answer": "mohair",
+            "normalized": "mohair"
           },
           {
-            "id": "8da54122-7897-4a6a-be54-4aa851fed838",
-            "clue": "US automotive engineering standards body",
-            "answer": "sae",
-            "normalized": "sae"
+            "id": "a2c88e37-b105-4a15-98c2-8961437f902e",
+            "clue": "An unfair deal: \"get the short end of the __\"",
+            "answer": "stick",
+            "normalized": "stick"
           },
           {
-            "id": "6cd3a7bd-2d29-4d92-85da-0e873c4a3d68",
-            "clue": "Collude, scheme, plot",
-            "answer": "connive",
-            "normalized": "connive"
+            "id": "d8c06a2d-8c57-4999-8d5f-9e29a6d5dd7e",
+            "clue": "Doesn't float",
+            "answer": "sinks",
+            "normalized": "sinks"
           },
           {
-            "id": "187779ea-76c2-4fe3-aa99-9734303347c6",
-            "clue": "Nicole Kidman's character in Moulin Rouge",
-            "answer": "satine",
-            "normalized": "satine"
+            "id": "15acae89-4a34-47b8-a260-4d04cde965a4",
+            "clue": "Expression of fright or frustration",
+            "answer": "argh",
+            "normalized": "argh"
           },
           {
-            "id": "df36d426-fcc1-4422-b6c8-cdd5692e0694",
-            "clue": "Multiple identical versions of a living being",
-            "answer": "clones",
-            "normalized": "clones"
+            "id": "3b203b21-033c-4873-8d00-d35b99dc902f",
+            "clue": "T. Natarajan's birthplace in Tamil Nadu",
+            "answer": "salem",
+            "normalized": "salem"
           },
           {
-            "id": "a3700397-d6c3-4f84-a1b0-df6c84a6a5ed",
-            "clue": "Portions of the capital of a company, up for sale",
-            "answer": "shares",
-            "normalized": "shares"
+            "id": "ce6d6032-693a-48ea-b917-78dcac1bdb9c",
+            "clue": "Not knowing what to do, helpless",
+            "answer": "at a loss",
+            "normalized": "ataloss"
           },
           {
-            "id": "0e11faa5-4654-4ea6-b438-4da9fad6074c",
-            "clue": "Middle East money-moving system based on trust",
-            "answer": "hawala",
-            "normalized": "hawala"
+            "id": "ca63c12d-4f75-4ba1-829a-2d1fa56d3f14",
+            "clue": "Isle of which Douglas is the admin centre",
+            "answer": "man",
+            "normalized": "man"
           },
           {
-            "id": "5bf27cb3-cbf8-43c0-928f-1ca2fafa38a6",
-            "clue": "Abbreviation for a powerpoint presentation",
-            "answer": "ppt",
-            "normalized": "ppt"
+            "id": "4f983e08-e5df-4d9f-aee2-947c11d500b8",
+            "clue": "Fire __, hit song on James Taylor's second album",
+            "answer": "and rain",
+            "normalized": "andrain"
           },
           {
-            "id": "a482087b-b92c-40ae-a956-66a8fce8a057",
-            "clue": "Abbreviation for the game Metal Gear Rising",
-            "answer": "mgr",
-            "normalized": "mgr"
+            "id": "8a9ecae8-3976-4a07-813e-a0b2bb3689d2",
+            "clue": "__ and span, neat and tidy",
+            "answer": "spick",
+            "normalized": "spick"
+          },
+          {
+            "id": "e5e87776-39de-4ab6-a575-638395035e2c",
+            "clue": "Irritates, annoys",
+            "answer": "irks",
+            "normalized": "irks"
+          },
+          {
+            "id": "a034829a-f4ac-4f54-9834-a975c0d20c89",
+            "clue": "Three-letter alpha code for Haiti",
+            "answer": "hti",
+            "normalized": "hti"
           }
         ],
-        "track": "PC|LenCinY2026M10D3F1V000"
+        "track": "PC|LenCinY2026M10D4F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383286,21 +383322,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "UjUEFqbOO8GhuwrXc/aJmSXGK42/99q4llHC+hCqXemrptpUhLErlamL0xq/xP38+mCuwDKWT+lPwch391gxFQ4GNXWJ51fYkQOedb5RqoTuxgBAwTDOfXVxv0hGTBJBhDuKtyB8ycWLWuRuZr16sAg8GlZobbcwMYxoZI6AAvpKr2uY8YFkSHcok0Z3fz8j3G4soIIteYBuWR4nc2AqHla2nRUbE0lmtJl/n3VjnlrYR03vZ75SDtMXCJTKWDyXXNM7A4RzQPQrp7n5K/+0sp8lT+PR85NYh/QF2pPjXm4="
+        "LWfFBzK65KXrAx+SDBUBm3S7l1MW++Bix72c3hNySI1TXXdF4gKvmV0lL29XgfQH90jFQXLlwWIxiEm0337CuHkzsGukFoOYi2r1rt3yM+Zyln55ZDqXfRD5rBelonacTajLXqKALy5LUzYViZ55c80MDA/JZqXL2Q/YngPQ8czF6ptN/Gn1j8mk43JR6chXngRicPeW92ItNmspno9jBGWkVNARbzHe3ZiavM1ydcUu2u8xbspUxxBmRJa/Xi3B3ulEkipovp/SDrr6RIWoqAI4yiPnFdswzkOh3dij1tg="
       ]
     },
     "decrypted": {
-      "Id": "3571c523-8f73-42a5-886e-0f2c66397ac9",
-      "Date": "2026-10-03T00:00:00Z",
+      "Id": "71fcecc7-df3d-4d1b-af04-7d687a5c4102",
+      "Date": "2026-10-04T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "trail",
-      "NormalizedPassword": "trail",
+      "Password": "daisy",
+      "NormalizedPassword": "daisy",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-03T03:53:57.1800000+05:30",
-    "hash": "75446e5602a65c6e75a6d5704b27e53f",
+    "dtu": "2026-10-04T03:05:09.5570000+05:30",
+    "hash": "5d83a023718b67010bfd477d44be8141",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
