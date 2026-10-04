@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T21:35:09.557Z",
+  "generatedAt": "2026-10-04T21:42:28.636Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 4
+    "day": 5
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 4
+        "QuantidadeDeFases": 6
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -382720,403 +382720,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-04",
+      "key": "2026-10-05",
       "year": 2026,
       "month": 10,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "b51b6eca-c56c-4d55-8db7-024c33a444e1",
+        "puzzleId": "4c6c88e3-8f80-4d0a-b45e-00821c1a3cfc",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "cdb8bfab-67b5-42ea-8c87-498ac9537a48",
-            "clue": "Chunk of hard stone",
-            "answer": "rock",
-            "normalized": "rock"
+            "id": "2b53cef4-4497-42aa-b96f-2116650943ff",
+            "clue": "Capital city of Jordan",
+            "answer": "amman",
+            "normalized": "amman"
           },
           {
-            "id": "ae2c5854-847a-4da6-8e8e-b4c3da586d5e",
-            "clue": "When two kites start to fight in kite fighting",
-            "answer": "pecha",
-            "normalized": "pecha"
+            "id": "d6f8a8ee-6811-4cc9-ae62-301d3c781429",
+            "clue": "Overly extravagant and tasteless",
+            "answer": "gaudy",
+            "normalized": "gaudy"
           },
           {
-            "id": "d2b290e9-bab8-43e2-8a20-4f89fd06305b",
-            "clue": "Saif Ali Khan's role in Dil Chahta Hai",
-            "answer": "sameer",
-            "normalized": "sameer"
+            "id": "9ef5901d-b3ad-42e0-a531-8f30d89ec841",
+            "clue": "Roland __, Parisian Grand Slam tennis venue",
+            "answer": "garros",
+            "normalized": "garros"
           },
           {
-            "id": "99d903f0-5762-4617-8450-14db8580df5f",
-            "clue": "Country whose provinces include Alberta and Quebec",
-            "answer": "canada",
-            "normalized": "canada"
+            "id": "0a27d562-6ead-4f4e-b629-2ead6aea335b",
+            "clue": "Another word for clothing or outfit",
+            "answer": "attire",
+            "normalized": "attire"
           },
           {
-            "id": "9ba860af-e420-4e36-b083-bccfcc6859bd",
-            "clue": "Famous National Chess Champion from Chennai",
-            "answer": "anand",
-            "normalized": "anand"
+            "id": "f2572cf7-a63a-4419-af6a-fe97ccddc35f",
+            "clue": "R.L., Goosebumps author",
+            "answer": "stine",
+            "normalized": "stine"
           },
           {
-            "id": "f8f60a38-95fb-4cf9-86e5-97ec348f86c0",
-            "clue": "An excessive enthusiasm or obsession",
-            "answer": "mania",
-            "normalized": "mania"
+            "id": "b1999aa1-1fd7-43ef-9a06-b7357a4ce8e2",
+            "clue": "Longed for someone",
+            "answer": "pined",
+            "normalized": "pined"
           },
           {
-            "id": "3007281b-e96f-4444-bbe8-def48e2d3499",
-            "clue": "The instrument Anoushka Shankar plays",
-            "answer": "sitar",
-            "normalized": "sitar"
+            "id": "4529c6b8-cd35-4d4c-9fff-c8e188748563",
+            "clue": "The only airport in Lakshadweep",
+            "answer": "agatti",
+            "normalized": "agatti"
           },
           {
-            "id": "78e9f628-f5a1-4603-9343-c60ddb9cbc68",
-            "clue": "Leftover scrap",
-            "answer": "remnant",
-            "normalized": "remnant"
+            "id": "5b0b8644-81a9-4616-967b-075d2347c407",
+            "clue": "Bird with deep forked tail, long pointed wings",
+            "answer": "martin",
+            "normalized": "martin"
           },
           {
-            "id": "00053a50-b711-4cda-ba21-7c15c1a0b7f7",
-            "clue": "Region including Polynesia and Australasia",
-            "answer": "oceania",
-            "normalized": "oceania"
+            "id": "9e0f0901-7c02-4151-82c3-7580ac4dbc79",
+            "clue": "Of or relating to mice",
+            "answer": "murine",
+            "normalized": "murine"
           },
           {
-            "id": "a575acd2-b77e-4c39-b81c-6f2a7c93acf1",
-            "clue": "Orange cheese from a Somerset, England town",
-            "answer": "cheddar",
-            "normalized": "cheddar"
+            "id": "6f310aa9-8ed2-4d9c-b89f-2adc297d4141",
+            "clue": "Worshipped and cherished someone",
+            "answer": "adored",
+            "normalized": "adored"
           },
           {
-            "id": "cf0243f1-2526-48fc-b364-42ee25096f82",
-            "clue": "First name of the original Supergirl, __ Zor-El",
-            "answer": "kara",
-            "normalized": "kara"
+            "id": "0be81ea5-a8b9-464f-88f2-21db05152c71",
+            "clue": "Dr. Reddy's is listed on this US stock exchange",
+            "answer": "nyse",
+            "normalized": "nyse"
           },
           {
-            "id": "a65ba179-8009-422f-9618-4893746e3a91",
-            "clue": "The pot motif in a Pongal Kolam design",
-            "answer": "paanai",
-            "normalized": "paanai"
-          },
-          {
-            "id": "d1d19d91-669e-4bbd-9f49-543e10d7fbcf",
-            "clue": "Hoaxes, frauds",
-            "answer": "scams",
-            "normalized": "scams"
+            "id": "2df39f20-244b-43f5-9845-def63a7b7411",
+            "clue": "Gulp for breath",
+            "answer": "gasp",
+            "normalized": "gasp"
           }
         ],
-        "track": "PC|LenCinY2026M10D4F0V000"
+        "track": "PC|LenCinY2026M10D5F0V000"
       },
       "mid": {
-        "puzzleId": "ff892fb6-dec3-4475-a38a-79ee414a4423",
+        "puzzleId": "09e41300-9d46-456f-8b37-1cd8fea37ac7",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b4597743-3324-41c4-9850-5737ba6dbe3b",
-            "clue": "Volcano in central Honshu, Japan",
-            "answer": "asama",
-            "normalized": "asama"
+            "id": "e1815354-5bee-4375-a186-4593b84182aa",
+            "clue": "Ephron who wrote When Harry Met Sally",
+            "answer": "nora",
+            "normalized": "nora"
           },
           {
-            "id": "70a08553-531c-4c92-bd8e-881d1ca9891f",
-            "clue": "Indian industrialist, former Tata Group chairman",
-            "answer": "ratan",
-            "normalized": "ratan"
+            "id": "23729822-ccb3-4328-a73d-7d04a72a3896",
+            "clue": "When actors address the audience",
+            "answer": "asides",
+            "normalized": "asides"
           },
           {
-            "id": "54d5dc6c-deef-42da-9acc-b39537331d6e",
-            "clue": "Groups of cells that produce something, sweat",
-            "answer": "glands",
-            "normalized": "glands"
+            "id": "fb354a47-431d-46d3-9e79-1a09a365aff6",
+            "clue": "Uneven stripes",
+            "answer": "streaks",
+            "normalized": "streaks"
           },
           {
-            "id": "6242d42b-600a-4eaf-a831-94304245df78",
-            "clue": "Norse goddess who ruled over the underworld",
-            "answer": "hel",
-            "normalized": "hel"
+            "id": "9356f497-de4c-4dd2-b222-8334c074881f",
+            "clue": "Alpha-3 code for Croatia",
+            "answer": "hrv",
+            "normalized": "hrv"
           },
           {
-            "id": "9362388f-bbc5-436e-9639-13448f2f0142",
-            "clue": "UK measure of inflation, retail price index",
-            "answer": "rpi",
-            "normalized": "rpi"
+            "id": "a22599ee-3adf-426c-ae6b-0f94d2be13e1",
+            "clue": "Officer who handles a Right to Information request",
+            "answer": "pio",
+            "normalized": "pio"
           },
           {
-            "id": "90d6eb94-4c73-48dd-86d2-5c0454eb5acd",
-            "clue": "Fabric from the coat of an Angora goat",
-            "answer": "mohair",
-            "normalized": "mohair"
+            "id": "1e4a6d00-c0bb-4e9c-ac1f-f2ebc5b45810",
+            "clue": "Final part of a 12-month period",
+            "answer": "year end",
+            "normalized": "yearend"
           },
           {
-            "id": "a2c88e37-b105-4a15-98c2-8961437f902e",
-            "clue": "An unfair deal: \"get the short end of the __\"",
-            "answer": "stick",
-            "normalized": "stick"
+            "id": "05892d5e-9579-4b7e-ba65-2148eeab2c50",
+            "clue": "The failure of the kidneys to produce urine",
+            "answer": "anuria",
+            "normalized": "anuria"
           },
           {
-            "id": "d8c06a2d-8c57-4999-8d5f-9e29a6d5dd7e",
-            "clue": "Doesn't float",
-            "answer": "sinks",
-            "normalized": "sinks"
+            "id": "5435837c-5acd-4e9d-a708-e8f89163f415",
+            "clue": "Tall perennial Indian grass",
+            "answer": "kans",
+            "normalized": "kans"
           },
           {
-            "id": "15acae89-4a34-47b8-a260-4d04cde965a4",
-            "clue": "Expression of fright or frustration",
-            "answer": "argh",
-            "normalized": "argh"
+            "id": "bfe7adf3-ef79-4b9b-9484-6a8664d971db",
+            "clue": "Meditative, free state of no suffering or desire",
+            "answer": "nirvana",
+            "normalized": "nirvana"
           },
           {
-            "id": "3b203b21-033c-4873-8d00-d35b99dc902f",
-            "clue": "T. Natarajan's birthplace in Tamil Nadu",
-            "answer": "salem",
-            "normalized": "salem"
+            "id": "4e59d872-db85-4682-b295-b457b78322f8",
+            "clue": "Beethoven wrote a musical one to joy",
+            "answer": "ode",
+            "normalized": "ode"
           },
           {
-            "id": "ce6d6032-693a-48ea-b917-78dcac1bdb9c",
-            "clue": "Not knowing what to do, helpless",
-            "answer": "at a loss",
-            "normalized": "ataloss"
+            "id": "dee8a43b-9cc5-4cce-b55e-86e92c9b839f",
+            "clue": "Those who cut and gather in a crop",
+            "answer": "reapers",
+            "normalized": "reapers"
           },
           {
-            "id": "ca63c12d-4f75-4ba1-829a-2d1fa56d3f14",
-            "clue": "Isle of which Douglas is the admin centre",
-            "answer": "man",
-            "normalized": "man"
+            "id": "3a1ff1d3-a074-42aa-b13e-a264f9a4e238",
+            "clue": "Ancient Sanskrit name for the Chenab River",
+            "answer": "askini",
+            "normalized": "askini"
           },
           {
-            "id": "4f983e08-e5df-4d9f-aee2-947c11d500b8",
-            "clue": "Fire __, hit song on James Taylor's second album",
-            "answer": "and rain",
-            "normalized": "andrain"
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
           },
           {
-            "id": "8a9ecae8-3976-4a07-813e-a0b2bb3689d2",
-            "clue": "__ and span, neat and tidy",
-            "answer": "spick",
-            "normalized": "spick"
+            "id": "7f41dcb4-1ca9-4cc6-99ca-c168b87d4c41",
+            "clue": "Element of one's character, i.e. a wicked __",
+            "answer": "streak",
+            "normalized": "streak"
           },
           {
-            "id": "e5e87776-39de-4ab6-a575-638395035e2c",
-            "clue": "Irritates, annoys",
-            "answer": "irks",
-            "normalized": "irks"
+            "id": "e7c280cc-7b03-480e-a839-7a17184f5520",
+            "clue": "Type of water used to remove stains",
+            "answer": "soda",
+            "normalized": "soda"
           },
           {
-            "id": "a034829a-f4ac-4f54-9834-a975c0d20c89",
-            "clue": "Three-letter alpha code for Haiti",
-            "answer": "hti",
-            "normalized": "hti"
+            "id": "85d2f0ba-29ad-49fe-829f-c1303d9a91a4",
+            "clue": "Downward trickle of paint when applied too thickly",
+            "answer": "run",
+            "normalized": "run"
           }
         ],
-        "track": "PC|LenCinY2026M10D4F1V000"
+        "track": "PC|LenCinY2026M10D5F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-04",
+      "key": "2026-10-05",
       "year": 2026,
       "month": 10,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "b51b6eca-c56c-4d55-8db7-024c33a444e1",
+        "puzzleId": "4c6c88e3-8f80-4d0a-b45e-00821c1a3cfc",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "cdb8bfab-67b5-42ea-8c87-498ac9537a48",
-            "clue": "Chunk of hard stone",
-            "answer": "rock",
-            "normalized": "rock"
+            "id": "2b53cef4-4497-42aa-b96f-2116650943ff",
+            "clue": "Capital city of Jordan",
+            "answer": "amman",
+            "normalized": "amman"
           },
           {
-            "id": "ae2c5854-847a-4da6-8e8e-b4c3da586d5e",
-            "clue": "When two kites start to fight in kite fighting",
-            "answer": "pecha",
-            "normalized": "pecha"
+            "id": "d6f8a8ee-6811-4cc9-ae62-301d3c781429",
+            "clue": "Overly extravagant and tasteless",
+            "answer": "gaudy",
+            "normalized": "gaudy"
           },
           {
-            "id": "d2b290e9-bab8-43e2-8a20-4f89fd06305b",
-            "clue": "Saif Ali Khan's role in Dil Chahta Hai",
-            "answer": "sameer",
-            "normalized": "sameer"
+            "id": "9ef5901d-b3ad-42e0-a531-8f30d89ec841",
+            "clue": "Roland __, Parisian Grand Slam tennis venue",
+            "answer": "garros",
+            "normalized": "garros"
           },
           {
-            "id": "99d903f0-5762-4617-8450-14db8580df5f",
-            "clue": "Country whose provinces include Alberta and Quebec",
-            "answer": "canada",
-            "normalized": "canada"
+            "id": "0a27d562-6ead-4f4e-b629-2ead6aea335b",
+            "clue": "Another word for clothing or outfit",
+            "answer": "attire",
+            "normalized": "attire"
           },
           {
-            "id": "9ba860af-e420-4e36-b083-bccfcc6859bd",
-            "clue": "Famous National Chess Champion from Chennai",
-            "answer": "anand",
-            "normalized": "anand"
+            "id": "f2572cf7-a63a-4419-af6a-fe97ccddc35f",
+            "clue": "R.L., Goosebumps author",
+            "answer": "stine",
+            "normalized": "stine"
           },
           {
-            "id": "f8f60a38-95fb-4cf9-86e5-97ec348f86c0",
-            "clue": "An excessive enthusiasm or obsession",
-            "answer": "mania",
-            "normalized": "mania"
+            "id": "b1999aa1-1fd7-43ef-9a06-b7357a4ce8e2",
+            "clue": "Longed for someone",
+            "answer": "pined",
+            "normalized": "pined"
           },
           {
-            "id": "3007281b-e96f-4444-bbe8-def48e2d3499",
-            "clue": "The instrument Anoushka Shankar plays",
-            "answer": "sitar",
-            "normalized": "sitar"
+            "id": "4529c6b8-cd35-4d4c-9fff-c8e188748563",
+            "clue": "The only airport in Lakshadweep",
+            "answer": "agatti",
+            "normalized": "agatti"
           },
           {
-            "id": "78e9f628-f5a1-4603-9343-c60ddb9cbc68",
-            "clue": "Leftover scrap",
-            "answer": "remnant",
-            "normalized": "remnant"
+            "id": "5b0b8644-81a9-4616-967b-075d2347c407",
+            "clue": "Bird with deep forked tail, long pointed wings",
+            "answer": "martin",
+            "normalized": "martin"
           },
           {
-            "id": "00053a50-b711-4cda-ba21-7c15c1a0b7f7",
-            "clue": "Region including Polynesia and Australasia",
-            "answer": "oceania",
-            "normalized": "oceania"
+            "id": "9e0f0901-7c02-4151-82c3-7580ac4dbc79",
+            "clue": "Of or relating to mice",
+            "answer": "murine",
+            "normalized": "murine"
           },
           {
-            "id": "a575acd2-b77e-4c39-b81c-6f2a7c93acf1",
-            "clue": "Orange cheese from a Somerset, England town",
-            "answer": "cheddar",
-            "normalized": "cheddar"
+            "id": "6f310aa9-8ed2-4d9c-b89f-2adc297d4141",
+            "clue": "Worshipped and cherished someone",
+            "answer": "adored",
+            "normalized": "adored"
           },
           {
-            "id": "cf0243f1-2526-48fc-b364-42ee25096f82",
-            "clue": "First name of the original Supergirl, __ Zor-El",
-            "answer": "kara",
-            "normalized": "kara"
+            "id": "0be81ea5-a8b9-464f-88f2-21db05152c71",
+            "clue": "Dr. Reddy's is listed on this US stock exchange",
+            "answer": "nyse",
+            "normalized": "nyse"
           },
           {
-            "id": "a65ba179-8009-422f-9618-4893746e3a91",
-            "clue": "The pot motif in a Pongal Kolam design",
-            "answer": "paanai",
-            "normalized": "paanai"
-          },
-          {
-            "id": "d1d19d91-669e-4bbd-9f49-543e10d7fbcf",
-            "clue": "Hoaxes, frauds",
-            "answer": "scams",
-            "normalized": "scams"
+            "id": "2df39f20-244b-43f5-9845-def63a7b7411",
+            "clue": "Gulp for breath",
+            "answer": "gasp",
+            "normalized": "gasp"
           }
         ],
-        "track": "PC|LenCinY2026M10D4F0V000"
+        "track": "PC|LenCinY2026M10D5F0V000"
       },
       "mid": {
-        "puzzleId": "ff892fb6-dec3-4475-a38a-79ee414a4423",
+        "puzzleId": "09e41300-9d46-456f-8b37-1cd8fea37ac7",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b4597743-3324-41c4-9850-5737ba6dbe3b",
-            "clue": "Volcano in central Honshu, Japan",
-            "answer": "asama",
-            "normalized": "asama"
+            "id": "e1815354-5bee-4375-a186-4593b84182aa",
+            "clue": "Ephron who wrote When Harry Met Sally",
+            "answer": "nora",
+            "normalized": "nora"
           },
           {
-            "id": "70a08553-531c-4c92-bd8e-881d1ca9891f",
-            "clue": "Indian industrialist, former Tata Group chairman",
-            "answer": "ratan",
-            "normalized": "ratan"
+            "id": "23729822-ccb3-4328-a73d-7d04a72a3896",
+            "clue": "When actors address the audience",
+            "answer": "asides",
+            "normalized": "asides"
           },
           {
-            "id": "54d5dc6c-deef-42da-9acc-b39537331d6e",
-            "clue": "Groups of cells that produce something, sweat",
-            "answer": "glands",
-            "normalized": "glands"
+            "id": "fb354a47-431d-46d3-9e79-1a09a365aff6",
+            "clue": "Uneven stripes",
+            "answer": "streaks",
+            "normalized": "streaks"
           },
           {
-            "id": "6242d42b-600a-4eaf-a831-94304245df78",
-            "clue": "Norse goddess who ruled over the underworld",
-            "answer": "hel",
-            "normalized": "hel"
+            "id": "9356f497-de4c-4dd2-b222-8334c074881f",
+            "clue": "Alpha-3 code for Croatia",
+            "answer": "hrv",
+            "normalized": "hrv"
           },
           {
-            "id": "9362388f-bbc5-436e-9639-13448f2f0142",
-            "clue": "UK measure of inflation, retail price index",
-            "answer": "rpi",
-            "normalized": "rpi"
+            "id": "a22599ee-3adf-426c-ae6b-0f94d2be13e1",
+            "clue": "Officer who handles a Right to Information request",
+            "answer": "pio",
+            "normalized": "pio"
           },
           {
-            "id": "90d6eb94-4c73-48dd-86d2-5c0454eb5acd",
-            "clue": "Fabric from the coat of an Angora goat",
-            "answer": "mohair",
-            "normalized": "mohair"
+            "id": "1e4a6d00-c0bb-4e9c-ac1f-f2ebc5b45810",
+            "clue": "Final part of a 12-month period",
+            "answer": "year end",
+            "normalized": "yearend"
           },
           {
-            "id": "a2c88e37-b105-4a15-98c2-8961437f902e",
-            "clue": "An unfair deal: \"get the short end of the __\"",
-            "answer": "stick",
-            "normalized": "stick"
+            "id": "05892d5e-9579-4b7e-ba65-2148eeab2c50",
+            "clue": "The failure of the kidneys to produce urine",
+            "answer": "anuria",
+            "normalized": "anuria"
           },
           {
-            "id": "d8c06a2d-8c57-4999-8d5f-9e29a6d5dd7e",
-            "clue": "Doesn't float",
-            "answer": "sinks",
-            "normalized": "sinks"
+            "id": "5435837c-5acd-4e9d-a708-e8f89163f415",
+            "clue": "Tall perennial Indian grass",
+            "answer": "kans",
+            "normalized": "kans"
           },
           {
-            "id": "15acae89-4a34-47b8-a260-4d04cde965a4",
-            "clue": "Expression of fright or frustration",
-            "answer": "argh",
-            "normalized": "argh"
+            "id": "bfe7adf3-ef79-4b9b-9484-6a8664d971db",
+            "clue": "Meditative, free state of no suffering or desire",
+            "answer": "nirvana",
+            "normalized": "nirvana"
           },
           {
-            "id": "3b203b21-033c-4873-8d00-d35b99dc902f",
-            "clue": "T. Natarajan's birthplace in Tamil Nadu",
-            "answer": "salem",
-            "normalized": "salem"
+            "id": "4e59d872-db85-4682-b295-b457b78322f8",
+            "clue": "Beethoven wrote a musical one to joy",
+            "answer": "ode",
+            "normalized": "ode"
           },
           {
-            "id": "ce6d6032-693a-48ea-b917-78dcac1bdb9c",
-            "clue": "Not knowing what to do, helpless",
-            "answer": "at a loss",
-            "normalized": "ataloss"
+            "id": "dee8a43b-9cc5-4cce-b55e-86e92c9b839f",
+            "clue": "Those who cut and gather in a crop",
+            "answer": "reapers",
+            "normalized": "reapers"
           },
           {
-            "id": "ca63c12d-4f75-4ba1-829a-2d1fa56d3f14",
-            "clue": "Isle of which Douglas is the admin centre",
-            "answer": "man",
-            "normalized": "man"
+            "id": "3a1ff1d3-a074-42aa-b13e-a264f9a4e238",
+            "clue": "Ancient Sanskrit name for the Chenab River",
+            "answer": "askini",
+            "normalized": "askini"
           },
           {
-            "id": "4f983e08-e5df-4d9f-aee2-947c11d500b8",
-            "clue": "Fire __, hit song on James Taylor's second album",
-            "answer": "and rain",
-            "normalized": "andrain"
+            "id": "1f8c2d90-4714-42df-bf60-dc3f66b65396",
+            "clue": "Covered in cinders",
+            "answer": "ashy",
+            "normalized": "ashy"
           },
           {
-            "id": "8a9ecae8-3976-4a07-813e-a0b2bb3689d2",
-            "clue": "__ and span, neat and tidy",
-            "answer": "spick",
-            "normalized": "spick"
+            "id": "7f41dcb4-1ca9-4cc6-99ca-c168b87d4c41",
+            "clue": "Element of one's character, i.e. a wicked __",
+            "answer": "streak",
+            "normalized": "streak"
           },
           {
-            "id": "e5e87776-39de-4ab6-a575-638395035e2c",
-            "clue": "Irritates, annoys",
-            "answer": "irks",
-            "normalized": "irks"
+            "id": "e7c280cc-7b03-480e-a839-7a17184f5520",
+            "clue": "Type of water used to remove stains",
+            "answer": "soda",
+            "normalized": "soda"
           },
           {
-            "id": "a034829a-f4ac-4f54-9834-a975c0d20c89",
-            "clue": "Three-letter alpha code for Haiti",
-            "answer": "hti",
-            "normalized": "hti"
+            "id": "85d2f0ba-29ad-49fe-829f-c1303d9a91a4",
+            "clue": "Downward trickle of paint when applied too thickly",
+            "answer": "run",
+            "normalized": "run"
           }
         ],
-        "track": "PC|LenCinY2026M10D4F1V000"
+        "track": "PC|LenCinY2026M10D5F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383322,21 +383310,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "LWfFBzK65KXrAx+SDBUBm3S7l1MW++Bix72c3hNySI1TXXdF4gKvmV0lL29XgfQH90jFQXLlwWIxiEm0337CuHkzsGukFoOYi2r1rt3yM+Zyln55ZDqXfRD5rBelonacTajLXqKALy5LUzYViZ55c80MDA/JZqXL2Q/YngPQ8czF6ptN/Gn1j8mk43JR6chXngRicPeW92ItNmspno9jBGWkVNARbzHe3ZiavM1ydcUu2u8xbspUxxBmRJa/Xi3B3ulEkipovp/SDrr6RIWoqAI4yiPnFdswzkOh3dij1tg="
+        "XKqFxbtv63Hl+G0oBgGO+yUCSKusL0IFR8TQVopII7oYcGdflywMtWsyFuaMei14WIbM03MnI992oDF89TbkgdShUcYiKf6L5kmqXe+ds26Zg4YQtMpFE2nJbnfftP48GaeGD3ZYdvUBFUCwYcLPcnAGvfZG1J15jyGB1CxHZrY4b1Yh5aT9ZWhCBaWKgit+sgObfuBzNTWis7JDCfA9o7/z0AI44CUab8pbsLrUmpQKa8JnMZHpnywd51chM0SYjDenTTo8gyJlSDx/UUJDjdDieZtAw5CuciAK9sdDhA4="
       ]
     },
     "decrypted": {
-      "Id": "71fcecc7-df3d-4d1b-af04-7d687a5c4102",
-      "Date": "2026-10-04T00:00:00Z",
+      "Id": "2735d40a-7afb-41fd-8e01-cb4ebfbade70",
+      "Date": "2026-10-05T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "daisy",
-      "NormalizedPassword": "daisy",
+      "Password": "braid",
+      "NormalizedPassword": "braid",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-04T03:05:09.5570000+05:30",
-    "hash": "5d83a023718b67010bfd477d44be8141",
+    "dtu": "2026-10-05T03:12:28.6360000+05:30",
+    "hash": "cdfb5065741325764f0abf6649891b1d",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
