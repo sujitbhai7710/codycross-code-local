@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T23:13:21.317Z",
+  "generatedAt": "2026-10-08T23:28:26.192Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 8
+    "day": 9
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 12
+        "QuantidadeDeFases": 14
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -86669,71 +86669,83 @@
         "month": 7,
         "day": 22,
         "small": {
-          "puzzleId": "4c22c8aa-7246-42a4-98a8-79fd4b39a31b",
+          "puzzleId": "f56d535c-d242-405e-9267-18eb9de9429f",
           "fase": 0,
           "size": 1,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "1976beef-0d2a-4b26-aa2b-7f6dd5137d2a",
-              "clue": "Poses a question",
-              "answer": "asks",
-              "normalized": "asks"
+              "id": "70652b5d-4a5b-423c-81d6-b7fc5830b476",
+              "clue": "Singer Rudolph or poet Angelou",
+              "answer": "maya",
+              "normalized": "maya"
             },
             {
-              "id": "56271265-4bc7-4b64-8a80-2e7fd0056dba",
-              "clue": "Agency that built the Golden Quadrilateral",
-              "answer": "nhai",
-              "normalized": "nhai"
+              "id": "f78543ec-08c8-4a90-a5b4-b84716db87c3",
+              "clue": "A graphic representation of a program on a screen",
+              "answer": "icon",
+              "normalized": "icon"
             },
             {
-              "id": "61ac3024-656d-4927-ae6a-34d893cf0d47",
-              "clue": "2021 album by Ye",
-              "answer": "donda",
-              "normalized": "donda"
+              "id": "db8e92b1-7d80-4c27-ad3f-25273e1ce205",
+              "clue": "Citizens of country whose capital is Riyadh",
+              "answer": "saudis",
+              "normalized": "saudis"
             },
             {
-              "id": "f42be8d3-e84f-4829-a420-37882839356d",
-              "clue": "Long periods of time",
-              "answer": "ages",
-              "normalized": "ages"
+              "id": "90cd431c-e592-4655-96c0-aa328e5034f8",
+              "clue": "__ Leone; setting of 2006 drama Blood Diamond",
+              "answer": "sierra",
+              "normalized": "sierra"
             },
             {
-              "id": "f9abd8a7-89a2-40bc-a872-1bbeb030df9c",
-              "clue": "Individual tiny hair around the lid of an eye",
-              "answer": "lash",
-              "normalized": "lash"
+              "id": "860f9a79-1c9c-46e5-a426-1b96350b4a5d",
+              "clue": "Anagram of A-one",
+              "answer": "aeon",
+              "normalized": "aeon"
             },
             {
-              "id": "d3f25e20-fffc-4e70-8d7e-54d8aeff233f",
-              "clue": "The word that an ampersand stands in for",
-              "answer": "and",
-              "normalized": "and"
+              "id": "16c0b34d-e0ca-43a2-8a26-73f3f0619dbe",
+              "clue": "Light brown colours",
+              "answer": "tans",
+              "normalized": "tans"
             },
             {
-              "id": "39fe6b8c-15d6-4f86-afed-70f506328144",
-              "clue": "Large school of fish",
-              "answer": "shoal",
-              "normalized": "shoal"
+              "id": "3ef35b8f-b4ce-4383-9bc4-8f1219311e12",
+              "clue": "If you __ the boat, it's too late",
+              "answer": "miss",
+              "normalized": "miss"
             },
             {
-              "id": "778e5fb6-b457-41b9-a256-11c4b048a98e",
-              "clue": "Fretful mother of Pooh's friend Roo",
-              "answer": "kanga",
-              "normalized": "kanga"
+              "id": "d6577372-00a6-41ef-b3d6-a7fd58e8a222",
+              "clue": "Antioxidant-rich purple berry from South America",
+              "answer": "acai",
+              "normalized": "acai"
             },
             {
-              "id": "3987f291-dac8-4eb4-88ed-4e6b4c47f348",
-              "clue": "Both __ Now, song on Joni Mitchell's Clouds album",
-              "answer": "sides",
-              "normalized": "sides"
+              "id": "e79ab3d5-f0a1-4b91-a7bf-cc907e98e419",
+              "clue": "You are what __",
+              "answer": "you eat",
+              "normalized": "youeat"
             },
             {
-              "id": "a05c4ff8-b3c7-4d44-ad45-70e4842a4653",
-              "clue": "Mountain __, alternative name for a rowan tree",
-              "answer": "ash",
-              "normalized": "ash"
+              "id": "db05f588-63b1-4c92-a9a2-fb6398990908",
+              "clue": "First name of Italian opera singer Bocelli",
+              "answer": "andrea",
+              "normalized": "andrea"
+            },
+            {
+              "id": "d487fd4f-7039-4fdf-93bd-f3b316911f09",
+              "clue": "Metal that is pumped when lifting weights",
+              "answer": "iron",
+              "normalized": "iron"
+            },
+            {
+              "id": "7782a85d-4587-4210-8f52-801a9c041271",
+              "clue": "__-serif, typeface without stroke extensions",
+              "answer": "sans",
+              "normalized": "sans"
             }
           ],
           "track": "PC|LenCinY2025M7D22F0V000"
@@ -130831,107 +130843,107 @@
           "track": "PC|LenCinY2024M11D25F0V000"
         },
         "mid": {
-          "puzzleId": "41a6c8c1-628c-44d2-8f40-2e468228bad3",
+          "puzzleId": "75aabbc0-2b4d-45d1-9d83-29e00a4b0f21",
           "fase": 1,
           "size": 2,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "1ae7f649-7d41-46bf-b6b5-66ef960faab7",
-              "clue": "Body that built the Mumbai-Pune Expressway",
-              "answer": "msrdc",
-              "normalized": "msrdc"
+              "id": "ac0daa7f-2d75-43e8-ba65-7e9e1661304d",
+              "clue": "Type of pepper that might go ding dong",
+              "answer": "bell",
+              "normalized": "bell"
             },
             {
-              "id": "4bbf6be0-9628-460f-b3a7-6c41ddc90374",
-              "clue": "__ can yield 500-700 pounds of beef",
-              "answer": "one cow",
-              "normalized": "onecow"
+              "id": "5f6c079d-2a48-44b5-95da-cf92d13aaf9e",
+              "clue": "The most skinny, least fat",
+              "answer": "boniest",
+              "normalized": "boniest"
             },
             {
-              "id": "899537b8-1e6e-4d0b-b980-f4a35c9ba381",
-              "clue": "Traditional folk dance of Maharashtra",
-              "answer": "lavani",
-              "normalized": "lavani"
+              "id": "88a7c112-0812-4bca-b254-e87233eb3dc4",
+              "clue": "Someone who is not a professional",
+              "answer": "amateur",
+              "normalized": "amateur"
             },
             {
-              "id": "17a839f2-3809-42c1-a5b0-d49f4fa3b36e",
-              "clue": "German-American drummer of Green Day, __ Cool",
-              "answer": "tre",
-              "normalized": "tre"
+              "id": "2d74a0e1-9979-4808-b949-f438b4558351",
+              "clue": "Abbreviation for \"to be confirmed\"",
+              "answer": "tbc",
+              "normalized": "tbc"
             },
             {
-              "id": "43c6fba2-4db1-46cd-a921-783534766f2c",
-              "clue": "Central nervous system, initialism",
-              "answer": "cns",
-              "normalized": "cns"
+              "id": "921da32f-c3de-4f8e-84c7-5f74b89f5c7f",
+              "clue": "Wine term for a top-quality vineyard",
+              "answer": "cru",
+              "normalized": "cru"
             },
             {
-              "id": "46056139-6efe-4489-87b9-4a7490f33eae",
-              "clue": "Maruti Suzuki's popular 7-seater family car",
-              "answer": "ertiga",
-              "normalized": "ertiga"
+              "id": "4365bc28-3ba8-4789-9635-4722e15fcc6d",
+              "clue": "Batten down the __, prepare for a storm",
+              "answer": "hatches",
+              "normalized": "hatches"
             },
             {
-              "id": "2af7ed6b-ba12-4590-9e96-e91f99663d9d",
-              "clue": "Vin __, he played Dom in The Fast and the Furious",
-              "answer": "diesel",
-              "normalized": "diesel"
+              "id": "2d094ef3-04d9-413b-a9b2-0e87a49a41aa",
+              "clue": "Scheduled routine vision check",
+              "answer": "eye test",
+              "normalized": "eyetest"
             },
             {
-              "id": "d9d23c19-03dd-4611-9a0a-1dc59f7568f8",
-              "clue": "Put in a vigorous, sustained effort",
-              "answer": "exert",
-              "normalized": "exert"
+              "id": "9a78deab-79d7-4688-ac5b-4f2902b74523",
+              "clue": "A common Hindi word for a close 'yaar'",
+              "answer": "dost",
+              "normalized": "dost"
             },
             {
-              "id": "161ca58d-86f0-4d12-9d8d-5218e626705f",
-              "clue": "To shed skin, hair or feathers",
-              "answer": "molt",
-              "normalized": "molt"
+              "id": "18923eb1-57d6-49ab-ad9e-fa5b9cbb8cc5",
+              "clue": "IIT where Bhavish Aggarwal studied",
+              "answer": "bombay",
+              "normalized": "bombay"
             },
             {
-              "id": "22b212fd-f2ca-43a8-9027-4360057f18b0",
-              "clue": "Caught an animal with a cord trap",
-              "answer": "snared",
-              "normalized": "snared"
+              "id": "3408ad49-790c-4467-98bf-c8111cc98d7f",
+              "clue": "Carried out",
+              "answer": "enacted",
+              "normalized": "enacted"
             },
             {
-              "id": "417cabd3-eefc-4137-9586-4a382463dc7d",
-              "clue": "Daydream or trance",
-              "answer": "reverie",
-              "normalized": "reverie"
+              "id": "4a65d5a7-8f09-42c3-972a-2bec0c24f013",
+              "clue": "The past tense of light",
+              "answer": "lit",
+              "normalized": "lit"
             },
             {
-              "id": "d5b3e969-ebbd-4c90-b035-d9226067ad1a",
-              "clue": "Dichloroacetate for short",
-              "answer": "dca",
-              "normalized": "dca"
+              "id": "99b9dc0a-0df7-4dfc-9a66-4ae2703ab8d4",
+              "clue": "Bloodsucking worms",
+              "answer": "leeches",
+              "normalized": "leeches"
             },
             {
-              "id": "291bbab1-027d-480e-be91-c199b75c1583",
-              "clue": "Short and informative",
-              "answer": "concise",
-              "normalized": "concise"
+              "id": "872684fe-5a06-4646-a455-67177049f795",
+              "clue": "Wash or swim",
+              "answer": "bathe",
+              "normalized": "bathe"
             },
             {
-              "id": "85567fdb-7d88-4a3d-98c7-0afda5c6a582",
-              "clue": "Attacking player who runs along the sidelines",
-              "answer": "winger",
-              "normalized": "winger"
+              "id": "f63e6908-2055-4990-8754-12b39560efac",
+              "clue": "Most certain",
+              "answer": "surest",
+              "normalized": "surest"
             },
             {
-              "id": "c6d2e147-8b69-4ee1-a562-3e42bcdea54d",
-              "clue": "A pinch of this is often added to Kokum Sherbet",
-              "answer": "salt",
-              "normalized": "salt"
+              "id": "c624104d-8a91-44c7-9e19-d25bbd2bc1cd",
+              "clue": "Feeling of reliability, safety",
+              "answer": "trust",
+              "normalized": "trust"
             },
             {
-              "id": "2fc87c75-a140-4f23-a3e9-b0fb453e576c",
-              "clue": "Warner Bros cartoonist Avery, who created Droopy",
-              "answer": "tex",
-              "normalized": "tex"
+              "id": "a79d546e-f35e-4b84-8108-850182efebc9",
+              "clue": "Chief technology officer",
+              "answer": "cto",
+              "normalized": "cto"
             }
           ],
           "track": "PC|LenCinY2024M11D25F1V000"
@@ -160537,7 +160549,7 @@
         "month": 6,
         "day": 17,
         "small": {
-          "puzzleId": "fdcc1373-1929-425d-b4db-b26e863125de",
+          "puzzleId": "6bbd0802-6ace-44aa-864c-4c168fc126b8",
           "fase": 0,
           "size": 1,
           "status": 1,
@@ -376873,7 +376885,7 @@
         "month": 4,
         "day": 1,
         "small": {
-          "puzzleId": "c0e68586-a43b-40e9-a73e-5be044740d2f",
+          "puzzleId": "f971a508-ccc1-4252-80cb-6340c751c15a",
           "fase": 0,
           "size": 1,
           "status": 1,
@@ -382720,367 +382732,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-08",
+      "key": "2026-10-09",
       "year": 2026,
       "month": 10,
-      "day": 8,
+      "day": 9,
       "small": {
-        "puzzleId": "3423e78b-f6f7-4be2-8335-0e2cf27a99f8",
+        "puzzleId": "97dbb0fc-fe4d-4a85-bae8-c86332af6e16",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f8e8a5e0-b624-4410-8dd1-f16882e8a653",
-            "clue": "A major Indian rival of Infosys",
-            "answer": "tcs",
-            "normalized": "tcs"
+            "id": "46e63037-e020-4858-939f-b9010af0dc81",
+            "clue": "Common abbreviation for State Bank of India",
+            "answer": "sbi",
+            "normalized": "sbi"
           },
           {
-            "id": "36d9b876-50dc-4abb-9f52-3fbdb562f1aa",
-            "clue": "Hindi slang word for money",
-            "answer": "maal",
-            "normalized": "maal"
+            "id": "4e14eb28-a57c-4474-82e2-116bfcebdace",
+            "clue": "Legumes often enjoyed with rice or sausage",
+            "answer": "beans",
+            "normalized": "beans"
           },
           {
-            "id": "1a7e2359-b8e2-478e-b61b-89726312187e",
-            "clue": "Anu Malik's singer daughter",
-            "answer": "anmol",
-            "normalized": "anmol"
+            "id": "d6fc3adf-434e-4f51-aa57-99bb4a899f1d",
+            "clue": "Device that lowers aerodynamic drag on a vehicle",
+            "answer": "air dam",
+            "normalized": "airdam"
           },
           {
-            "id": "8aa12b25-a281-4a65-a963-82d68ce52fd3",
-            "clue": "River flowing south of the Satpura Range",
-            "answer": "tapti",
-            "normalized": "tapti"
+            "id": "d8d3e894-4f7a-4074-a913-e1d5e2225ba5",
+            "clue": "Work hard towards a goal",
+            "answer": "strive",
+            "normalized": "strive"
           },
           {
-            "id": "3dd1b04c-9cba-4c84-a9e6-282ffbb2beda",
-            "clue": "Famous beach in Mumbai",
-            "answer": "juhu",
-            "normalized": "juhu"
+            "id": "42b4179a-39eb-43c2-a694-4d6fa1f9de40",
+            "clue": "Not bald",
+            "answer": "haired",
+            "normalized": "haired"
           },
           {
-            "id": "48300a46-51e2-45e8-989b-d16087205fdc",
-            "clue": "Large artificial satellite",
-            "answer": "iss",
-            "normalized": "iss"
+            "id": "51c51071-0e73-4f6d-b546-f77d93c0e88f",
+            "clue": "Opposite of far, especially on Sesame Street",
+            "answer": "near",
+            "normalized": "near"
           },
           {
-            "id": "131abad9-e469-4e85-846b-78ace91e3ab5",
-            "clue": "Shivaji Maharaj's general at Sinhagad fort",
-            "answer": "tanaji",
-            "normalized": "tanaji"
+            "id": "0918fee5-ce5f-4d33-a9ce-96acf4e795fd",
+            "clue": "Meat substitute made with wheat gluten",
+            "answer": "seitan",
+            "normalized": "seitan"
           },
           {
-            "id": "c0700876-890e-4930-93f6-38dd05ee0956",
-            "clue": "A university's grounds",
-            "answer": "campus",
-            "normalized": "campus"
+            "id": "09162394-817d-4014-ae30-a80cb02d45a9",
+            "clue": "Peter Pan author with the initials JM",
+            "answer": "barrie",
+            "normalized": "barrie"
           },
           {
-            "id": "20d1d191-8055-4dea-9c56-d83a5943a0c2",
-            "clue": "Slow animals that are two-toed or three-toed",
-            "answer": "sloths",
-            "normalized": "sloths"
+            "id": "e6288b70-885a-463b-a887-4a58101d5f82",
+            "clue": "__ Gandhi; Delhi's international airport",
+            "answer": "indira",
+            "normalized": "indira"
           },
           {
-            "id": "8646edf3-9a5e-4d34-b13d-2e08382b4bd0",
-            "clue": "The playing surface for modern Kabaddi",
-            "answer": "mat",
-            "normalized": "mat"
+            "id": "e107f1c8-bd50-49be-8450-c7c64653f3c8",
+            "clue": "People may do this in reviews; big party",
+            "answer": "bash",
+            "normalized": "bash"
           },
           {
-            "id": "6418af4b-bffb-44e8-b2a7-d9b314fc2d2c",
-            "clue": "Charlie's Angels actress Lucy",
-            "answer": "liu",
-            "normalized": "liu"
+            "id": "0086eded-adf0-46e3-8273-d0f0b71d372c",
+            "clue": "One who puts money in an account for a rainy day",
+            "answer": "saver",
+            "normalized": "saver"
+          },
+          {
+            "id": "e6b85209-bf01-4702-b83f-9d3e26cda23f",
+            "clue": "Club __, chain of holiday resorts",
+            "answer": "med",
+            "normalized": "med"
           }
         ],
-        "track": "PC|LenCinY2026M10D8F0V000"
+        "track": "PC|LenCinY2026M10D9F0V000"
       },
       "mid": {
-        "puzzleId": "38a056ee-38a6-43f2-b246-7e3da6f12f09",
+        "puzzleId": "2be34859-0988-475d-b919-d53203bc2aec",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e2d2e0e7-2be6-48a0-aaf5-035d11a04d68",
-            "clue": "Three letters to denote a postgrad in science",
-            "answer": "msc",
-            "normalized": "msc"
+            "id": "b6788e02-9c8d-459e-95b7-8a513f0546f2",
+            "clue": "Donkeys, in other words",
+            "answer": "asses",
+            "normalized": "asses"
           },
           {
-            "id": "38f29555-2b30-4026-8a51-7950f2327ff6",
-            "clue": "A prefix that means away from",
-            "answer": "apo",
-            "normalized": "apo"
+            "id": "50635595-e072-41ff-a183-56fd644fe801",
+            "clue": "A lock, a door fastener",
+            "answer": "latch",
+            "normalized": "latch"
           },
           {
-            "id": "3021dddf-735d-4f3e-909a-1109af01ea44",
-            "clue": "Spiritual retreat in Hinduism",
-            "answer": "ashram",
-            "normalized": "ashram"
+            "id": "5b35c05a-23ff-4a25-b039-fa47dd7724b4",
+            "clue": "Overseas, not in the same country",
+            "answer": "abroad",
+            "normalized": "abroad"
           },
           {
-            "id": "516b13ad-9e95-4649-a981-692f3b56b386",
-            "clue": "Roald Dahl kids' book about a telekinetic genius",
-            "answer": "matilda",
-            "normalized": "matilda"
+            "id": "7d743288-dd7b-47bc-941a-dc48f25c0d75",
+            "clue": "Common writing style that's not APA",
+            "answer": "mla",
+            "normalized": "mla"
           },
           {
-            "id": "540ff43e-685f-46a3-863d-9b1caf643ea5",
-            "clue": "Female reproductive organs where eggs are stored",
-            "answer": "ovaries",
-            "normalized": "ovaries"
+            "id": "2f087876-adf9-4fec-bf01-6f7b758db6bb",
+            "clue": "Pelvic inflammatory disease for short",
+            "answer": "pid",
+            "normalized": "pid"
           },
           {
-            "id": "1bf713b6-d07c-415d-b132-589ea8882135",
-            "clue": "Birds of prey grip their victims with these",
-            "answer": "talons",
-            "normalized": "talons"
+            "id": "a608a556-2614-45cc-b0d9-4c9ca9f5cf8d",
+            "clue": "Hostility, extreme ill will",
+            "answer": "enmity",
+            "normalized": "enmity"
           },
           {
-            "id": "76a7160f-bbd1-4331-bd1c-a4058aa7abf3",
-            "clue": "I don't know, in text speak",
-            "answer": "idk",
-            "normalized": "idk"
+            "id": "ccb5c155-b2f6-43f7-8c1b-0436fd4572f7",
+            "clue": "Ballet or tap for example",
+            "answer": "dance",
+            "normalized": "dance"
           },
           {
-            "id": "b5d5534e-a283-4d3e-8e72-b70d07265d22",
-            "clue": "Scottish for fated to die; sounds like fay",
-            "answer": "fey",
-            "normalized": "fey"
+            "id": "7ab8dacc-d1a7-4c25-8494-6d2e242c0ce0",
+            "clue": "Audibly exhales",
+            "answer": "sighs",
+            "normalized": "sighs"
           },
           {
-            "id": "82e98a98-5269-4e34-859b-262a954e5043",
-            "clue": "Nemo's father in Finding Nemo",
-            "answer": "marlin",
-            "normalized": "marlin"
+            "id": "9b744340-5389-4537-bd83-bdb85c5b6de1",
+            "clue": "Symbolic flags carried in Muharram juloos",
+            "answer": "alam",
+            "normalized": "alam"
           },
           {
-            "id": "c101c76e-a7e4-4cc5-bc85-a6774830bbb6",
-            "clue": "Digging tools used by children on beaches",
-            "answer": "spades",
-            "normalized": "spades"
+            "id": "98d7815a-ef84-4b0e-8ddc-69945104acc4",
+            "clue": "Species of marten with soft, silky brown fur",
+            "answer": "sable",
+            "normalized": "sable"
           },
           {
-            "id": "d208058d-2d00-48f1-b53e-86d7609afe2c",
-            "clue": "Long periods of unconsciousness",
-            "answer": "comas",
-            "normalized": "comas"
+            "id": "836aae67-0f95-4cd4-b912-6ed380a3d817",
+            "clue": "Fine locks of hair",
+            "answer": "strands",
+            "normalized": "strands"
           },
           {
-            "id": "5e66a9e4-8ab0-4298-b4b8-4fcdc7d67877",
-            "clue": "Gujarat Titans' Gujarati catchphrase",
-            "answer": "aava de",
-            "normalized": "aavade"
+            "id": "2ffb7639-d627-46be-a780-272e4f5d7794",
+            "clue": "A basket weaver's products are ___-friendly",
+            "answer": "eco",
+            "normalized": "eco"
           },
           {
-            "id": "e8adafb3-59f0-498e-9d9d-1245994fb85c",
-            "clue": "__ and Co, Kipling's thoughts on schooldays",
-            "answer": "stalky",
-            "normalized": "stalky"
+            "id": "3fc1483c-80b1-467c-9a80-b0fdd048c99b",
+            "clue": "Influencing, e.g. someone's ideas or opinions",
+            "answer": "shaping",
+            "normalized": "shaping"
           },
           {
-            "id": "f718972e-9c61-4ffa-b5ff-bbb98b81adc2",
-            "clue": "Hero, no pun intended, of Big Hero 6",
-            "answer": "hiro",
-            "normalized": "hiro"
+            "id": "881cbc43-43e7-4aef-b5e0-1a4616225f18",
+            "clue": "Drainage channel dug beside a road",
+            "answer": "ditch",
+            "normalized": "ditch"
           },
           {
-            "id": "df89284a-876e-45c0-a164-96f91c0ad28b",
-            "clue": "Repeated theme in literature or music",
-            "answer": "motif",
-            "normalized": "motif"
+            "id": "f4146978-a2b3-4a7a-a335-b732c5842e14",
+            "clue": "Organic chemicals that give colour to fabric",
+            "answer": "dyes",
+            "normalized": "dyes"
+          },
+          {
+            "id": "3350d38f-1ac3-4241-9b05-fb1d3704724d",
+            "clue": "This followed by Tai makes a rhyming rum cocktail",
+            "answer": "mai",
+            "normalized": "mai"
           }
         ],
-        "track": "PC|LenCinY2026M10D8F1V000"
+        "track": "PC|LenCinY2026M10D9F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-08",
+      "key": "2026-10-09",
       "year": 2026,
       "month": 10,
-      "day": 8,
+      "day": 9,
       "small": {
-        "puzzleId": "3423e78b-f6f7-4be2-8335-0e2cf27a99f8",
+        "puzzleId": "97dbb0fc-fe4d-4a85-bae8-c86332af6e16",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f8e8a5e0-b624-4410-8dd1-f16882e8a653",
-            "clue": "A major Indian rival of Infosys",
-            "answer": "tcs",
-            "normalized": "tcs"
+            "id": "46e63037-e020-4858-939f-b9010af0dc81",
+            "clue": "Common abbreviation for State Bank of India",
+            "answer": "sbi",
+            "normalized": "sbi"
           },
           {
-            "id": "36d9b876-50dc-4abb-9f52-3fbdb562f1aa",
-            "clue": "Hindi slang word for money",
-            "answer": "maal",
-            "normalized": "maal"
+            "id": "4e14eb28-a57c-4474-82e2-116bfcebdace",
+            "clue": "Legumes often enjoyed with rice or sausage",
+            "answer": "beans",
+            "normalized": "beans"
           },
           {
-            "id": "1a7e2359-b8e2-478e-b61b-89726312187e",
-            "clue": "Anu Malik's singer daughter",
-            "answer": "anmol",
-            "normalized": "anmol"
+            "id": "d6fc3adf-434e-4f51-aa57-99bb4a899f1d",
+            "clue": "Device that lowers aerodynamic drag on a vehicle",
+            "answer": "air dam",
+            "normalized": "airdam"
           },
           {
-            "id": "8aa12b25-a281-4a65-a963-82d68ce52fd3",
-            "clue": "River flowing south of the Satpura Range",
-            "answer": "tapti",
-            "normalized": "tapti"
+            "id": "d8d3e894-4f7a-4074-a913-e1d5e2225ba5",
+            "clue": "Work hard towards a goal",
+            "answer": "strive",
+            "normalized": "strive"
           },
           {
-            "id": "3dd1b04c-9cba-4c84-a9e6-282ffbb2beda",
-            "clue": "Famous beach in Mumbai",
-            "answer": "juhu",
-            "normalized": "juhu"
+            "id": "42b4179a-39eb-43c2-a694-4d6fa1f9de40",
+            "clue": "Not bald",
+            "answer": "haired",
+            "normalized": "haired"
           },
           {
-            "id": "48300a46-51e2-45e8-989b-d16087205fdc",
-            "clue": "Large artificial satellite",
-            "answer": "iss",
-            "normalized": "iss"
+            "id": "51c51071-0e73-4f6d-b546-f77d93c0e88f",
+            "clue": "Opposite of far, especially on Sesame Street",
+            "answer": "near",
+            "normalized": "near"
           },
           {
-            "id": "131abad9-e469-4e85-846b-78ace91e3ab5",
-            "clue": "Shivaji Maharaj's general at Sinhagad fort",
-            "answer": "tanaji",
-            "normalized": "tanaji"
+            "id": "0918fee5-ce5f-4d33-a9ce-96acf4e795fd",
+            "clue": "Meat substitute made with wheat gluten",
+            "answer": "seitan",
+            "normalized": "seitan"
           },
           {
-            "id": "c0700876-890e-4930-93f6-38dd05ee0956",
-            "clue": "A university's grounds",
-            "answer": "campus",
-            "normalized": "campus"
+            "id": "09162394-817d-4014-ae30-a80cb02d45a9",
+            "clue": "Peter Pan author with the initials JM",
+            "answer": "barrie",
+            "normalized": "barrie"
           },
           {
-            "id": "20d1d191-8055-4dea-9c56-d83a5943a0c2",
-            "clue": "Slow animals that are two-toed or three-toed",
-            "answer": "sloths",
-            "normalized": "sloths"
+            "id": "e6288b70-885a-463b-a887-4a58101d5f82",
+            "clue": "__ Gandhi; Delhi's international airport",
+            "answer": "indira",
+            "normalized": "indira"
           },
           {
-            "id": "8646edf3-9a5e-4d34-b13d-2e08382b4bd0",
-            "clue": "The playing surface for modern Kabaddi",
-            "answer": "mat",
-            "normalized": "mat"
+            "id": "e107f1c8-bd50-49be-8450-c7c64653f3c8",
+            "clue": "People may do this in reviews; big party",
+            "answer": "bash",
+            "normalized": "bash"
           },
           {
-            "id": "6418af4b-bffb-44e8-b2a7-d9b314fc2d2c",
-            "clue": "Charlie's Angels actress Lucy",
-            "answer": "liu",
-            "normalized": "liu"
+            "id": "0086eded-adf0-46e3-8273-d0f0b71d372c",
+            "clue": "One who puts money in an account for a rainy day",
+            "answer": "saver",
+            "normalized": "saver"
+          },
+          {
+            "id": "e6b85209-bf01-4702-b83f-9d3e26cda23f",
+            "clue": "Club __, chain of holiday resorts",
+            "answer": "med",
+            "normalized": "med"
           }
         ],
-        "track": "PC|LenCinY2026M10D8F0V000"
+        "track": "PC|LenCinY2026M10D9F0V000"
       },
       "mid": {
-        "puzzleId": "38a056ee-38a6-43f2-b246-7e3da6f12f09",
+        "puzzleId": "2be34859-0988-475d-b919-d53203bc2aec",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e2d2e0e7-2be6-48a0-aaf5-035d11a04d68",
-            "clue": "Three letters to denote a postgrad in science",
-            "answer": "msc",
-            "normalized": "msc"
+            "id": "b6788e02-9c8d-459e-95b7-8a513f0546f2",
+            "clue": "Donkeys, in other words",
+            "answer": "asses",
+            "normalized": "asses"
           },
           {
-            "id": "38f29555-2b30-4026-8a51-7950f2327ff6",
-            "clue": "A prefix that means away from",
-            "answer": "apo",
-            "normalized": "apo"
+            "id": "50635595-e072-41ff-a183-56fd644fe801",
+            "clue": "A lock, a door fastener",
+            "answer": "latch",
+            "normalized": "latch"
           },
           {
-            "id": "3021dddf-735d-4f3e-909a-1109af01ea44",
-            "clue": "Spiritual retreat in Hinduism",
-            "answer": "ashram",
-            "normalized": "ashram"
+            "id": "5b35c05a-23ff-4a25-b039-fa47dd7724b4",
+            "clue": "Overseas, not in the same country",
+            "answer": "abroad",
+            "normalized": "abroad"
           },
           {
-            "id": "516b13ad-9e95-4649-a981-692f3b56b386",
-            "clue": "Roald Dahl kids' book about a telekinetic genius",
-            "answer": "matilda",
-            "normalized": "matilda"
+            "id": "7d743288-dd7b-47bc-941a-dc48f25c0d75",
+            "clue": "Common writing style that's not APA",
+            "answer": "mla",
+            "normalized": "mla"
           },
           {
-            "id": "540ff43e-685f-46a3-863d-9b1caf643ea5",
-            "clue": "Female reproductive organs where eggs are stored",
-            "answer": "ovaries",
-            "normalized": "ovaries"
+            "id": "2f087876-adf9-4fec-bf01-6f7b758db6bb",
+            "clue": "Pelvic inflammatory disease for short",
+            "answer": "pid",
+            "normalized": "pid"
           },
           {
-            "id": "1bf713b6-d07c-415d-b132-589ea8882135",
-            "clue": "Birds of prey grip their victims with these",
-            "answer": "talons",
-            "normalized": "talons"
+            "id": "a608a556-2614-45cc-b0d9-4c9ca9f5cf8d",
+            "clue": "Hostility, extreme ill will",
+            "answer": "enmity",
+            "normalized": "enmity"
           },
           {
-            "id": "76a7160f-bbd1-4331-bd1c-a4058aa7abf3",
-            "clue": "I don't know, in text speak",
-            "answer": "idk",
-            "normalized": "idk"
+            "id": "ccb5c155-b2f6-43f7-8c1b-0436fd4572f7",
+            "clue": "Ballet or tap for example",
+            "answer": "dance",
+            "normalized": "dance"
           },
           {
-            "id": "b5d5534e-a283-4d3e-8e72-b70d07265d22",
-            "clue": "Scottish for fated to die; sounds like fay",
-            "answer": "fey",
-            "normalized": "fey"
+            "id": "7ab8dacc-d1a7-4c25-8494-6d2e242c0ce0",
+            "clue": "Audibly exhales",
+            "answer": "sighs",
+            "normalized": "sighs"
           },
           {
-            "id": "82e98a98-5269-4e34-859b-262a954e5043",
-            "clue": "Nemo's father in Finding Nemo",
-            "answer": "marlin",
-            "normalized": "marlin"
+            "id": "9b744340-5389-4537-bd83-bdb85c5b6de1",
+            "clue": "Symbolic flags carried in Muharram juloos",
+            "answer": "alam",
+            "normalized": "alam"
           },
           {
-            "id": "c101c76e-a7e4-4cc5-bc85-a6774830bbb6",
-            "clue": "Digging tools used by children on beaches",
-            "answer": "spades",
-            "normalized": "spades"
+            "id": "98d7815a-ef84-4b0e-8ddc-69945104acc4",
+            "clue": "Species of marten with soft, silky brown fur",
+            "answer": "sable",
+            "normalized": "sable"
           },
           {
-            "id": "d208058d-2d00-48f1-b53e-86d7609afe2c",
-            "clue": "Long periods of unconsciousness",
-            "answer": "comas",
-            "normalized": "comas"
+            "id": "836aae67-0f95-4cd4-b912-6ed380a3d817",
+            "clue": "Fine locks of hair",
+            "answer": "strands",
+            "normalized": "strands"
           },
           {
-            "id": "5e66a9e4-8ab0-4298-b4b8-4fcdc7d67877",
-            "clue": "Gujarat Titans' Gujarati catchphrase",
-            "answer": "aava de",
-            "normalized": "aavade"
+            "id": "2ffb7639-d627-46be-a780-272e4f5d7794",
+            "clue": "A basket weaver's products are ___-friendly",
+            "answer": "eco",
+            "normalized": "eco"
           },
           {
-            "id": "e8adafb3-59f0-498e-9d9d-1245994fb85c",
-            "clue": "__ and Co, Kipling's thoughts on schooldays",
-            "answer": "stalky",
-            "normalized": "stalky"
+            "id": "3fc1483c-80b1-467c-9a80-b0fdd048c99b",
+            "clue": "Influencing, e.g. someone's ideas or opinions",
+            "answer": "shaping",
+            "normalized": "shaping"
           },
           {
-            "id": "f718972e-9c61-4ffa-b5ff-bbb98b81adc2",
-            "clue": "Hero, no pun intended, of Big Hero 6",
-            "answer": "hiro",
-            "normalized": "hiro"
+            "id": "881cbc43-43e7-4aef-b5e0-1a4616225f18",
+            "clue": "Drainage channel dug beside a road",
+            "answer": "ditch",
+            "normalized": "ditch"
           },
           {
-            "id": "df89284a-876e-45c0-a164-96f91c0ad28b",
-            "clue": "Repeated theme in literature or music",
-            "answer": "motif",
-            "normalized": "motif"
+            "id": "f4146978-a2b3-4a7a-a335-b732c5842e14",
+            "clue": "Organic chemicals that give colour to fabric",
+            "answer": "dyes",
+            "normalized": "dyes"
+          },
+          {
+            "id": "3350d38f-1ac3-4241-9b05-fb1d3704724d",
+            "clue": "This followed by Tai makes a rhyming rum cocktail",
+            "answer": "mai",
+            "normalized": "mai"
           }
         ],
-        "track": "PC|LenCinY2026M10D8F1V000"
+        "track": "PC|LenCinY2026M10D9F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383286,21 +383322,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "F9BCxm2JacCfRM88hTtPR/ZjKZJx6I0+Q5GN1yOhWf1amBYfzgwuFyfwFBMYACs3U0ynSb9pa7q8xrzD7qtgw4yPgoiindHQ8ZKyUVkMCoDqqJZOBHdu7YDjYavQEuNU9b8vX7owrFZ4PJX+nxj7O17bsQ9n0TBa1sNAD7a1gDcupeHy3/ccraC+GyPYZ+v7wEcN7tQwGOniwpubu29gdMwJ5do87KDtrje0KF9vh0AtuMU+V9Om+qWA175jlwdw+3KwEQA4E3yzgYhtbX9ZKREX7fUu5lOunQ+bbxv1smA="
+        "/S0sswfFin/wW0RBGg9pvRbH66uy+idRYbKEMVeGmjt8AS1w38/cL0uV8Kl58VRf5R3JLprMDBzj0KIGopNfgt8coYxV5ibnDtl3FbCzqXCQkgjaYA+IiChWX3GGaTR5ahTbQ87IGRSdvIIHSWZVLNdHcVgEWDG5TKoOFs+7K/tVtPGl2kCwbrzcLjv3p8DviE1g6AI9avL2Vwl5lkEfUYHPb5GrSDvX1pEL2yw9uRaX5Fy3HTi50aLSby1P4kuXRpZSI0Bn0D4k/C6BlDmzwzu0KtwP9rR/gTZDukpOrLE="
       ]
     },
     "decrypted": {
-      "Id": "69ac76af-a3bb-4253-a92d-086893298667",
-      "Date": "2026-10-08T00:00:00Z",
+      "Id": "04d9be16-3449-4dc7-b1a6-658afc340a27",
+      "Date": "2026-10-09T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "salty",
-      "NormalizedPassword": "salty",
+      "Password": "hilly",
+      "NormalizedPassword": "hilly",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-08T04:43:21.3170000+05:30",
-    "hash": "5c54a3896a0f45f441f08a16751cb050",
+    "dtu": "2026-10-09T04:58:26.1920000+05:30",
+    "hash": "b5271e1daa79aed89ff1e962f561df02",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
