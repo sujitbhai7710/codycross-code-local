@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T22:46:38.308Z",
+  "generatedAt": "2026-10-10T21:53:45.948Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 10
+    "day": 11
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 16
+        "QuantidadeDeFases": 18
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -382738,343 +382738,379 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-10",
+      "key": "2026-10-11",
       "year": 2026,
       "month": 10,
-      "day": 10,
+      "day": 11,
       "small": {
-        "puzzleId": "2ed54380-8f72-4357-8e31-57614cef7ac7",
+        "puzzleId": "56a4df2a-08e7-431d-8ca6-e07600fe8b03",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "5d16b044-cb30-4570-88a9-9481c2cffef6",
-            "clue": "Among",
-            "answer": "amid",
-            "normalized": "amid"
+            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
+            "clue": "High-speed computer storage with no moving parts",
+            "answer": "ssd",
+            "normalized": "ssd"
           },
           {
-            "id": "847ec53a-ed4c-4c95-96df-de39b8462903",
-            "clue": "Slang for a guy or a man",
-            "answer": "dude",
-            "normalized": "dude"
+            "id": "d67d5ed3-c240-46b4-adf1-c4dc146e016f",
+            "clue": "The tiniest units of an element",
+            "answer": "atoms",
+            "normalized": "atoms"
           },
           {
-            "id": "49a0d064-8a69-49cf-9145-8d596fea93d0",
-            "clue": "Turn the wheel while driving, say",
-            "answer": "steer",
-            "normalized": "steer"
+            "id": "5b184a8e-c0e3-4246-9eb0-2d8ffa087de9",
+            "clue": "Prize won by Einstein, Curie and Fleming",
+            "answer": "nobel",
+            "normalized": "nobel"
           },
           {
-            "id": "ccdbe2b3-8381-4fb8-816d-f860c233e582",
-            "clue": "Damage property or someone's reputation",
-            "answer": "harm",
-            "normalized": "harm"
+            "id": "110e443a-e951-4496-addf-94671754ad70",
+            "clue": "Goddess celebrated during Navratri",
+            "answer": "durga",
+            "normalized": "durga"
           },
           {
-            "id": "038a5a99-d0df-4a78-903a-e894e632fcb2",
-            "clue": "On the side of the ship sheltered from the wind",
-            "answer": "alee",
-            "normalized": "alee"
+            "id": "cfe78d7d-222b-4e9a-9776-a59b29e38b86",
+            "clue": "The Los Angeles Lakers is a sports __",
+            "answer": "team",
+            "normalized": "team"
           },
           {
-            "id": "850ff8a4-b708-43b6-92df-d166fc288fa7",
-            "clue": "Contents of a newspapers' classifieds pages",
-            "answer": "ads",
-            "normalized": "ads"
+            "id": "71ab608c-ec90-48cc-929e-89abfcad1251",
+            "clue": "Three-letter code for Lal Bahadur Shastri Airport",
+            "answer": "vns",
+            "normalized": "vns"
           },
           {
-            "id": "37b60d6f-be81-42ca-a414-a81312ad2349",
-            "clue": "River that flows through Pune",
-            "answer": "mutha",
-            "normalized": "mutha"
+            "id": "aeae6110-5bf8-4009-92c8-2938bdfc1edd",
+            "clue": "Grainy castle-building substance on a beach",
+            "answer": "sand",
+            "normalized": "sand"
           },
           {
-            "id": "34b4174f-5f17-48d5-b5e1-72a2c6c393c2",
-            "clue": "Describes a perfect scenario",
-            "answer": "ideal",
-            "normalized": "ideal"
+            "id": "cd67e37c-f215-4ff0-852b-41d60088e9f2",
+            "clue": "Strong and sturdy",
+            "answer": "stout",
+            "normalized": "stout"
           },
           {
-            "id": "ed8645af-a621-4d6f-890a-625eb934b929",
-            "clue": "John __, manufacturer of agricultural machinery",
-            "answer": "deere",
-            "normalized": "deere"
+            "id": "8aef3b5c-9497-4145-8a57-3faabfef6d72",
+            "clue": "She played Elena Gilbert in The Vampire Diaries",
+            "answer": "dobrev",
+            "normalized": "dobrev"
           },
           {
-            "id": "404f526a-b0a2-4336-a50f-1c398f7670ee",
-            "clue": "Internet slang for rolling my eyes",
-            "answer": "rme",
-            "normalized": "rme"
+            "id": "9ddc38e5-fca9-4406-91fd-12f36de89e38",
+            "clue": "New Girl and Jennifer's Body actress Fox",
+            "answer": "megan",
+            "normalized": "megan"
+          },
+          {
+            "id": "0f0ca9ce-6a5b-4f4e-bd24-7117d6fc8836",
+            "clue": "Sounds made by heavy closing of doors",
+            "answer": "slams",
+            "normalized": "slams"
           }
         ],
-        "track": "PC|LenCinY2026M10D10F0V000"
+        "track": "PC|LenCinY2026M10D11F0V000"
       },
       "mid": {
-        "puzzleId": "48e3db53-9451-4e15-a900-445c02f9f90b",
+        "puzzleId": "dba9bb65-2bb0-4cad-a11d-2929b15ac95d",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f297716b-ea62-4f92-b09e-714c223f0ae3",
-            "clue": "Acronym for the Better Business Bureau",
-            "answer": "bbb",
-            "normalized": "bbb"
+            "id": "77ea9a88-57fa-456d-a664-32e559d0c9fb",
+            "clue": "Research centre named after Homi J. Bhabha",
+            "answer": "barc",
+            "normalized": "barc"
           },
           {
-            "id": "ebfb9b96-d536-48bf-a672-d953f7183af2",
-            "clue": "Dance style often paired with Garba Dance",
-            "answer": "raas",
-            "normalized": "raas"
+            "id": "590f79bd-be3f-45f2-a4f6-1382f35b6069",
+            "clue": "A fraudster",
+            "answer": "scammer",
+            "normalized": "scammer"
           },
           {
-            "id": "0fcea04d-33aa-40a2-b0fc-589ea566a686",
-            "clue": "The elder son in the Gullak series",
-            "answer": "annu",
-            "normalized": "annu"
+            "id": "4c8f1f24-4480-478c-a60d-85b065cf07bf",
+            "clue": "Shiva's cosmic dance at Elephanta Caves",
+            "answer": "tandava",
+            "normalized": "tandava"
           },
           {
-            "id": "fe4f44cb-0848-425e-898e-07edc2fb735a",
-            "clue": "Hole in the ground for human waste",
-            "answer": "cesspit",
-            "normalized": "cesspit"
+            "id": "21019e7a-b588-470a-ba51-abe721232063",
+            "clue": "ISO three-letter country code for Argentina",
+            "answer": "arg",
+            "normalized": "arg"
           },
           {
-            "id": "635dd501-54fd-45e7-bcf9-a3b52474611d",
-            "clue": "Ben Affleck thriller about Iran hostage crisis",
-            "answer": "argo",
-            "normalized": "argo"
+            "id": "eba5d739-a904-4cc5-8fd7-070d806cc365",
+            "clue": "Calm state of mind associated with meditation",
+            "answer": "zen",
+            "normalized": "zen"
           },
           {
-            "id": "09356aa3-40c4-4989-98eb-ad0288f27fc3",
-            "clue": "Pesters to get chores done",
-            "answer": "nags",
-            "normalized": "nags"
+            "id": "6dceddb3-81cb-42de-a57f-949338026bcd",
+            "clue": "Mined mineral at Kudremukh National Park",
+            "answer": "iron ore",
+            "normalized": "ironore"
           },
           {
-            "id": "5a0c2c66-9ac6-44ee-a58a-a268711e5a25",
-            "clue": "Malaysia's alpha-3 code",
-            "answer": "mys",
-            "normalized": "mys"
+            "id": "d53869ad-6e1a-47e4-b17a-3a15318300de",
+            "clue": "Backs down, gives in, changes one's mind",
+            "answer": "relents",
+            "normalized": "relents"
           },
           {
-            "id": "ee703d45-b818-45e7-9fa4-b2fe2a5a8b97",
-            "clue": "Bric-a-__, miscellaneous low-value items",
-            "answer": "brac",
-            "normalized": "brac"
+            "id": "bc52111c-2ed3-4f82-8148-2caf27b07826",
+            "clue": "Short name for dressed salad made with cabbage",
+            "answer": "slaw",
+            "normalized": "slaw"
           },
           {
-            "id": "4eeb2fd3-ed83-49dc-bba6-b8eb0fc51ef6",
-            "clue": "DC villain who was raised in the Peña Dura prison",
-            "answer": "bane",
-            "normalized": "bane"
+            "id": "573f4956-cdd6-4a3d-aaa5-5efb9d1cca12",
+            "clue": "The Bermudian dollar's currency code",
+            "answer": "bmd",
+            "normalized": "bmd"
           },
           {
-            "id": "37bc46b2-5d73-4f2c-a1d0-21505fcfd271",
-            "clue": "Prohibits or forbids involvement",
-            "answer": "bans",
-            "normalized": "bans"
+            "id": "cd4b23de-192b-4357-aeb2-5fe7d735a99e",
+            "clue": "South American rainforest; e-commerce company",
+            "answer": "amazon",
+            "normalized": "amazon"
           },
           {
-            "id": "2c0f1cd1-80ec-4f2f-b856-67b33467419a",
-            "clue": "First name of Sarandon, Boyle and Collins",
-            "answer": "susan",
-            "normalized": "susan"
+            "id": "e37e391a-b826-4a1e-8ba3-655ac7c163e1",
+            "clue": "To return back to the original state",
+            "answer": "revert",
+            "normalized": "revert"
           },
           {
-            "id": "755061eb-89cb-46ae-ad99-0cd7ab282872",
-            "clue": "Baby carriage properly called a perambulator",
-            "answer": "pram",
-            "normalized": "pram"
+            "id": "d199657a-42f9-481d-adee-1734c872ccb5",
+            "clue": "Construction site vehicles for lifting heavy loads",
+            "answer": "cranes",
+            "normalized": "cranes"
           },
           {
-            "id": "d7e1d785-26bd-4a5c-9595-4aa358f3d6d3",
-            "clue": "I'm Bored singer __ Pop, Fancy rapper __ Azalea",
-            "answer": "iggy",
-            "normalized": "iggy"
+            "id": "9b0245c8-9ad6-45b8-89cd-bdd2c2225b93",
+            "clue": "Remember to bedazzle these steps to the next floor",
+            "answer": "stairs",
+            "normalized": "stairs"
           },
           {
-            "id": "bb8f55f8-d133-4e15-8ccd-1cddae139b89",
-            "clue": "To flip a coin",
-            "answer": "toss",
-            "normalized": "toss"
+            "id": "58c2b6d3-93cb-4eb1-b31f-b771e12515da",
+            "clue": "Library cubicle",
+            "answer": "carrel",
+            "normalized": "carrel"
+          },
+          {
+            "id": "5cc41e8d-cf57-4d0d-9c61-463729d91fe0",
+            "clue": "Largest of Africa's Portuguese-speaking nations",
+            "answer": "angola",
+            "normalized": "angola"
+          },
+          {
+            "id": "c11ec149-e2df-49df-89e1-c9a837e815d4",
+            "clue": "\"Out with the old, in with the __\"",
+            "answer": "new",
+            "normalized": "new"
           }
         ],
-        "track": "PC|LenCinY2026M10D10F1V000"
+        "track": "PC|LenCinY2026M10D11F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-10",
+      "key": "2026-10-11",
       "year": 2026,
       "month": 10,
-      "day": 10,
+      "day": 11,
       "small": {
-        "puzzleId": "2ed54380-8f72-4357-8e31-57614cef7ac7",
+        "puzzleId": "56a4df2a-08e7-431d-8ca6-e07600fe8b03",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "5d16b044-cb30-4570-88a9-9481c2cffef6",
-            "clue": "Among",
-            "answer": "amid",
-            "normalized": "amid"
+            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
+            "clue": "High-speed computer storage with no moving parts",
+            "answer": "ssd",
+            "normalized": "ssd"
           },
           {
-            "id": "847ec53a-ed4c-4c95-96df-de39b8462903",
-            "clue": "Slang for a guy or a man",
-            "answer": "dude",
-            "normalized": "dude"
+            "id": "d67d5ed3-c240-46b4-adf1-c4dc146e016f",
+            "clue": "The tiniest units of an element",
+            "answer": "atoms",
+            "normalized": "atoms"
           },
           {
-            "id": "49a0d064-8a69-49cf-9145-8d596fea93d0",
-            "clue": "Turn the wheel while driving, say",
-            "answer": "steer",
-            "normalized": "steer"
+            "id": "5b184a8e-c0e3-4246-9eb0-2d8ffa087de9",
+            "clue": "Prize won by Einstein, Curie and Fleming",
+            "answer": "nobel",
+            "normalized": "nobel"
           },
           {
-            "id": "ccdbe2b3-8381-4fb8-816d-f860c233e582",
-            "clue": "Damage property or someone's reputation",
-            "answer": "harm",
-            "normalized": "harm"
+            "id": "110e443a-e951-4496-addf-94671754ad70",
+            "clue": "Goddess celebrated during Navratri",
+            "answer": "durga",
+            "normalized": "durga"
           },
           {
-            "id": "038a5a99-d0df-4a78-903a-e894e632fcb2",
-            "clue": "On the side of the ship sheltered from the wind",
-            "answer": "alee",
-            "normalized": "alee"
+            "id": "cfe78d7d-222b-4e9a-9776-a59b29e38b86",
+            "clue": "The Los Angeles Lakers is a sports __",
+            "answer": "team",
+            "normalized": "team"
           },
           {
-            "id": "850ff8a4-b708-43b6-92df-d166fc288fa7",
-            "clue": "Contents of a newspapers' classifieds pages",
-            "answer": "ads",
-            "normalized": "ads"
+            "id": "71ab608c-ec90-48cc-929e-89abfcad1251",
+            "clue": "Three-letter code for Lal Bahadur Shastri Airport",
+            "answer": "vns",
+            "normalized": "vns"
           },
           {
-            "id": "37b60d6f-be81-42ca-a414-a81312ad2349",
-            "clue": "River that flows through Pune",
-            "answer": "mutha",
-            "normalized": "mutha"
+            "id": "aeae6110-5bf8-4009-92c8-2938bdfc1edd",
+            "clue": "Grainy castle-building substance on a beach",
+            "answer": "sand",
+            "normalized": "sand"
           },
           {
-            "id": "34b4174f-5f17-48d5-b5e1-72a2c6c393c2",
-            "clue": "Describes a perfect scenario",
-            "answer": "ideal",
-            "normalized": "ideal"
+            "id": "cd67e37c-f215-4ff0-852b-41d60088e9f2",
+            "clue": "Strong and sturdy",
+            "answer": "stout",
+            "normalized": "stout"
           },
           {
-            "id": "ed8645af-a621-4d6f-890a-625eb934b929",
-            "clue": "John __, manufacturer of agricultural machinery",
-            "answer": "deere",
-            "normalized": "deere"
+            "id": "8aef3b5c-9497-4145-8a57-3faabfef6d72",
+            "clue": "She played Elena Gilbert in The Vampire Diaries",
+            "answer": "dobrev",
+            "normalized": "dobrev"
           },
           {
-            "id": "404f526a-b0a2-4336-a50f-1c398f7670ee",
-            "clue": "Internet slang for rolling my eyes",
-            "answer": "rme",
-            "normalized": "rme"
+            "id": "9ddc38e5-fca9-4406-91fd-12f36de89e38",
+            "clue": "New Girl and Jennifer's Body actress Fox",
+            "answer": "megan",
+            "normalized": "megan"
+          },
+          {
+            "id": "0f0ca9ce-6a5b-4f4e-bd24-7117d6fc8836",
+            "clue": "Sounds made by heavy closing of doors",
+            "answer": "slams",
+            "normalized": "slams"
           }
         ],
-        "track": "PC|LenCinY2026M10D10F0V000"
+        "track": "PC|LenCinY2026M10D11F0V000"
       },
       "mid": {
-        "puzzleId": "48e3db53-9451-4e15-a900-445c02f9f90b",
+        "puzzleId": "dba9bb65-2bb0-4cad-a11d-2929b15ac95d",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f297716b-ea62-4f92-b09e-714c223f0ae3",
-            "clue": "Acronym for the Better Business Bureau",
-            "answer": "bbb",
-            "normalized": "bbb"
+            "id": "77ea9a88-57fa-456d-a664-32e559d0c9fb",
+            "clue": "Research centre named after Homi J. Bhabha",
+            "answer": "barc",
+            "normalized": "barc"
           },
           {
-            "id": "ebfb9b96-d536-48bf-a672-d953f7183af2",
-            "clue": "Dance style often paired with Garba Dance",
-            "answer": "raas",
-            "normalized": "raas"
+            "id": "590f79bd-be3f-45f2-a4f6-1382f35b6069",
+            "clue": "A fraudster",
+            "answer": "scammer",
+            "normalized": "scammer"
           },
           {
-            "id": "0fcea04d-33aa-40a2-b0fc-589ea566a686",
-            "clue": "The elder son in the Gullak series",
-            "answer": "annu",
-            "normalized": "annu"
+            "id": "4c8f1f24-4480-478c-a60d-85b065cf07bf",
+            "clue": "Shiva's cosmic dance at Elephanta Caves",
+            "answer": "tandava",
+            "normalized": "tandava"
           },
           {
-            "id": "fe4f44cb-0848-425e-898e-07edc2fb735a",
-            "clue": "Hole in the ground for human waste",
-            "answer": "cesspit",
-            "normalized": "cesspit"
+            "id": "21019e7a-b588-470a-ba51-abe721232063",
+            "clue": "ISO three-letter country code for Argentina",
+            "answer": "arg",
+            "normalized": "arg"
           },
           {
-            "id": "635dd501-54fd-45e7-bcf9-a3b52474611d",
-            "clue": "Ben Affleck thriller about Iran hostage crisis",
-            "answer": "argo",
-            "normalized": "argo"
+            "id": "eba5d739-a904-4cc5-8fd7-070d806cc365",
+            "clue": "Calm state of mind associated with meditation",
+            "answer": "zen",
+            "normalized": "zen"
           },
           {
-            "id": "09356aa3-40c4-4989-98eb-ad0288f27fc3",
-            "clue": "Pesters to get chores done",
-            "answer": "nags",
-            "normalized": "nags"
+            "id": "6dceddb3-81cb-42de-a57f-949338026bcd",
+            "clue": "Mined mineral at Kudremukh National Park",
+            "answer": "iron ore",
+            "normalized": "ironore"
           },
           {
-            "id": "5a0c2c66-9ac6-44ee-a58a-a268711e5a25",
-            "clue": "Malaysia's alpha-3 code",
-            "answer": "mys",
-            "normalized": "mys"
+            "id": "d53869ad-6e1a-47e4-b17a-3a15318300de",
+            "clue": "Backs down, gives in, changes one's mind",
+            "answer": "relents",
+            "normalized": "relents"
           },
           {
-            "id": "ee703d45-b818-45e7-9fa4-b2fe2a5a8b97",
-            "clue": "Bric-a-__, miscellaneous low-value items",
-            "answer": "brac",
-            "normalized": "brac"
+            "id": "bc52111c-2ed3-4f82-8148-2caf27b07826",
+            "clue": "Short name for dressed salad made with cabbage",
+            "answer": "slaw",
+            "normalized": "slaw"
           },
           {
-            "id": "4eeb2fd3-ed83-49dc-bba6-b8eb0fc51ef6",
-            "clue": "DC villain who was raised in the Peña Dura prison",
-            "answer": "bane",
-            "normalized": "bane"
+            "id": "573f4956-cdd6-4a3d-aaa5-5efb9d1cca12",
+            "clue": "The Bermudian dollar's currency code",
+            "answer": "bmd",
+            "normalized": "bmd"
           },
           {
-            "id": "37bc46b2-5d73-4f2c-a1d0-21505fcfd271",
-            "clue": "Prohibits or forbids involvement",
-            "answer": "bans",
-            "normalized": "bans"
+            "id": "cd4b23de-192b-4357-aeb2-5fe7d735a99e",
+            "clue": "South American rainforest; e-commerce company",
+            "answer": "amazon",
+            "normalized": "amazon"
           },
           {
-            "id": "2c0f1cd1-80ec-4f2f-b856-67b33467419a",
-            "clue": "First name of Sarandon, Boyle and Collins",
-            "answer": "susan",
-            "normalized": "susan"
+            "id": "e37e391a-b826-4a1e-8ba3-655ac7c163e1",
+            "clue": "To return back to the original state",
+            "answer": "revert",
+            "normalized": "revert"
           },
           {
-            "id": "755061eb-89cb-46ae-ad99-0cd7ab282872",
-            "clue": "Baby carriage properly called a perambulator",
-            "answer": "pram",
-            "normalized": "pram"
+            "id": "d199657a-42f9-481d-adee-1734c872ccb5",
+            "clue": "Construction site vehicles for lifting heavy loads",
+            "answer": "cranes",
+            "normalized": "cranes"
           },
           {
-            "id": "d7e1d785-26bd-4a5c-9595-4aa358f3d6d3",
-            "clue": "I'm Bored singer __ Pop, Fancy rapper __ Azalea",
-            "answer": "iggy",
-            "normalized": "iggy"
+            "id": "9b0245c8-9ad6-45b8-89cd-bdd2c2225b93",
+            "clue": "Remember to bedazzle these steps to the next floor",
+            "answer": "stairs",
+            "normalized": "stairs"
           },
           {
-            "id": "bb8f55f8-d133-4e15-8ccd-1cddae139b89",
-            "clue": "To flip a coin",
-            "answer": "toss",
-            "normalized": "toss"
+            "id": "58c2b6d3-93cb-4eb1-b31f-b771e12515da",
+            "clue": "Library cubicle",
+            "answer": "carrel",
+            "normalized": "carrel"
+          },
+          {
+            "id": "5cc41e8d-cf57-4d0d-9c61-463729d91fe0",
+            "clue": "Largest of Africa's Portuguese-speaking nations",
+            "answer": "angola",
+            "normalized": "angola"
+          },
+          {
+            "id": "c11ec149-e2df-49df-89e1-c9a837e815d4",
+            "clue": "\"Out with the old, in with the __\"",
+            "answer": "new",
+            "normalized": "new"
           }
         ],
-        "track": "PC|LenCinY2026M10D10F1V000"
+        "track": "PC|LenCinY2026M10D11F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383280,21 +383316,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "MOA7Mqv7WPWWmq3/mOL+3ivUwEXIURH7DkbkFnz9mnuL41j1zdcQRjorVX/peUjyx0HL+ZeGJ24uIlke3AlDhJimYSszz/L5JwYRS03umiwZv0OdBcjPanSmgJNzZFPGjqjh/GwCsT3GIPeMwng7QK6UG6RvrX8MorZNboAKIVm6yT+zLYEdyJMGselsduUfOqNjFoamXz4hWaV6jXyNy1Pw15sz6gwRrpL6ifLO+o6UICz/gpvIF+kPEXi94oHl+pIAaf+jvnR2+spGc3TM/3O+2vylRR0+HdhgWK+va28="
+        "admApzpCgg5ov6SAjdzqLPL8vH9wx6i9MlAifz7gKGhe46l4Wd+UjcYYS563Kx1wNOTY8VfyR0TP2slup+usrTv8D937vdb/jkFFL4LHQWnINOtA9s/142jL/aOHpTSfr2unaC7CqRYt69RetSxA0wawXZ25VjDMmoVhZOP8xwLo+PT/DRsCIXCqVXgaS2jmMFsKfN8lK25B/M9j96sjFDi/ykUU8St78eBr7SDSWlHnwSx4jEZpeja4EmGORdbjXZnMjxdbc7dJ+f3rCtFgJhu8cuJ9h2qsvY7Hrg66Xe8="
       ]
     },
     "decrypted": {
-      "Id": "1989f3dc-f54b-4dfa-8d20-8cb53b88897a",
-      "Date": "2026-10-10T00:00:00Z",
+      "Id": "051f8b8d-2298-44cc-a165-9d1a5fca1087",
+      "Date": "2026-10-11T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "about",
-      "NormalizedPassword": "about",
+      "Password": "brief",
+      "NormalizedPassword": "brief",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-10T04:16:38.3080000+05:30",
-    "hash": "dcae959bbddc0d624e0e13a44888148c",
+    "dtu": "2026-10-11T03:23:45.9480000+05:30",
+    "hash": "0a117486010fc07c9d4668590a55182e",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
