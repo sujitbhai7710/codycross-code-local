@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T00:52:40.053Z",
+  "generatedAt": "2026-10-13T22:58:10.752Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 13
+    "day": 14
   },
   "crossword": {
     "archive": [
@@ -382738,367 +382738,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-13",
+      "key": "2026-10-14",
       "year": 2026,
       "month": 10,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "f337e099-e9d3-42d4-870d-5fcaa3655ce8",
+        "puzzleId": "397a8d3b-077e-4d9b-bf5a-9c3610fc1fc2",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "9e58f8f7-7aab-435b-8f6e-6ee553a15a2c",
-            "clue": "Public Health Service, abbr.",
-            "answer": "phs",
-            "normalized": "phs"
+            "id": "858d7fa5-a804-4865-b8f0-46ddfd29b61a",
+            "clue": "Chemical formula for caesium chloride",
+            "answer": "cscl",
+            "normalized": "cscl"
           },
           {
-            "id": "e51f5795-8e21-4ee1-be4b-abb1fbcf9003",
-            "clue": "Horseshoe-shaped bone in the neck",
-            "answer": "hyoid",
-            "normalized": "hyoid"
+            "id": "b7f7be75-ea0f-4573-ae72-5747325ad2fb",
+            "clue": "A 'royal' version of korma",
+            "answer": "shahi",
+            "normalized": "shahi"
           },
           {
-            "id": "ba84d1ee-466c-4bb2-9698-43161b41f207",
-            "clue": "Bart and Lisa's blue-haired mother in The Simpsons",
-            "answer": "marge",
-            "normalized": "marge"
+            "id": "5aed0364-5068-41cb-b133-990e006c5a55",
+            "clue": "Was afraid of",
+            "answer": "feared",
+            "normalized": "feared"
           },
           {
-            "id": "ccf43b61-ab67-47bb-9efb-511d5d4d5b4d",
-            "clue": "Miraculous food supplied from heaven",
-            "answer": "manna",
-            "normalized": "manna"
+            "id": "fe891fa9-5644-451e-bb16-107527a29d98",
+            "clue": "Concurs, sees eye to eye",
+            "answer": "agrees",
+            "normalized": "agrees"
           },
           {
-            "id": "d2e0d025-f370-4060-9927-ecb458b438bf",
-            "clue": "Pidilite's epoxy putty for sealing leaks",
-            "answer": "m-seal",
-            "normalized": "mseal"
+            "id": "2a5af16b-39a6-4483-8f64-fc3bfa4780ea",
+            "clue": "Author of The Doll's House, __ Godden",
+            "answer": "rumer",
+            "normalized": "rumer"
           },
           {
-            "id": "aece3881-dae9-4237-b5f1-d0913d2860ad",
-            "clue": "Internet slang for in real life",
-            "answer": "irl",
-            "normalized": "irl"
+            "id": "5ff1fe93-d13f-4864-bdbe-902dea6c8f59",
+            "clue": "Untidiness",
+            "answer": "mess",
+            "normalized": "mess"
           },
           {
-            "id": "5ec80d06-e3d5-4b9d-8e71-8fbf70ef0598",
-            "clue": "Swarathma's popular song about being thirsty",
-            "answer": "pyaasi",
-            "normalized": "pyaasi"
+            "id": "518e7c86-7be6-4faa-9de5-8d9151dadb74",
+            "clue": "Trinkets delivered monthly to attach to a bracelet",
+            "answer": "charms",
+            "normalized": "charms"
           },
           {
-            "id": "1fc36902-9cd6-42b6-b602-bda15cee98b3",
-            "clue": "F1 principal Christian __, married to Ginger Spice",
-            "answer": "horner",
-            "normalized": "horner"
+            "id": "f1471baa-79d5-4184-a784-5e995dc3fa57",
+            "clue": "Beautiful draped garments in India",
+            "answer": "sarees",
+            "normalized": "sarees"
           },
           {
-            "id": "092a7ca8-9966-49bc-b8df-122be059325b",
-            "clue": "Digital waves of connection; sign to convey info",
-            "answer": "signal",
-            "normalized": "signal"
+            "id": "1df0f88d-5b1f-4222-a102-0e6f0e514036",
+            "clue": "What sports fans do when their team scores",
+            "answer": "cheer",
+            "normalized": "cheer"
           },
           {
-            "id": "88e907fe-4d8f-416c-bf20-40e701f40be5",
-            "clue": "1990s dance hit, Things That Make You Go __",
-            "answer": "hmmm",
-            "normalized": "hmmm"
+            "id": "40c8848f-09cb-4eab-9102-afa83005f6f8",
+            "clue": "Bottle caps",
+            "answer": "lids",
+            "normalized": "lids"
           },
           {
-            "id": "659f13c9-2aab-48d7-a3ed-ee89707554c8",
-            "clue": "A bargain or lucky purchase",
-            "answer": "deal",
-            "normalized": "deal"
+            "id": "4d1aa069-65ec-4132-b1ee-1b2d850072ea",
+            "clue": "Smooth transition between topics",
+            "answer": "segue",
+            "normalized": "segue"
+          },
+          {
+            "id": "ac86db44-bc07-41c0-af7a-90c5497c3e1a",
+            "clue": "Homestead, land where animals are kept and reared",
+            "answer": "farm",
+            "normalized": "farm"
           }
         ],
-        "track": "PC|LenCinY2026M10D13F0V000"
+        "track": "PC|LenCinY2026M10D14F0V000"
       },
       "mid": {
-        "puzzleId": "1f7de1da-55ba-401b-8514-ee3dd9eba24b",
+        "puzzleId": "bd51cd01-76d2-4c97-a6bb-78ae934325e3",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "2d18797d-4d8a-42a2-a647-eacc5d5117f8",
-            "clue": "Three letters mentioned in a 1970 Jackson 5 song",
-            "answer": "abc",
-            "normalized": "abc"
+            "id": "0fd72c7e-827b-4796-9ea5-ea87bfe99b16",
+            "clue": "Islamic prayer leaders",
+            "answer": "imams",
+            "normalized": "imams"
           },
           {
-            "id": "ee59f3bc-d007-457c-a97b-3d2813664044",
-            "clue": "Black, sticky material used for waterproofing",
-            "answer": "tar",
-            "normalized": "tar"
+            "id": "138a07ba-d42f-4933-bd9b-c9ea22329a6d",
+            "clue": "Pacific country with a blue and yellow flag",
+            "answer": "palau",
+            "normalized": "palau"
           },
           {
-            "id": "115796e0-01b5-4604-b10b-b8d7b8c881a0",
-            "clue": "The family name in the series Gullak",
-            "answer": "mishra",
-            "normalized": "mishra"
+            "id": "e777eb18-641f-4e80-85f5-8d962232aca9",
+            "clue": "Dynasty that constructed Rani ki Vav",
+            "answer": "solanki",
+            "normalized": "solanki"
           },
           {
-            "id": "266ea699-e8f8-4325-bbcd-e5c1120fd2ae",
-            "clue": "Receptacles made from wicker, e.g. for logs",
-            "answer": "baskets",
-            "normalized": "baskets"
+            "id": "62584575-bea4-4e8d-ace3-cfd7ec3cb8e7",
+            "clue": "Estimated time of arrival initialism",
+            "answer": "eta",
+            "normalized": "eta"
           },
           {
-            "id": "601582bc-bae5-47f2-b418-30c5a957ff04",
-            "clue": "Small plants growing between tree and snow lines",
-            "answer": "alpines",
-            "normalized": "alpines"
+            "id": "cb12c11d-8312-41f0-b91b-b10f4a7f9f3c",
+            "clue": "British state-funded medical provider",
+            "answer": "nhs",
+            "normalized": "nhs"
           },
           {
-            "id": "63a87421-f481-4a77-bb62-02998b6c4001",
-            "clue": "One on Weight Watchers or Atkins",
-            "answer": "dieter",
-            "normalized": "dieter"
+            "id": "0e70112b-ac15-40f0-bfd4-c23c625f452a",
+            "clue": "Relating to a cell layer in woody plants",
+            "answer": "cambial",
+            "normalized": "cambial"
           },
           {
-            "id": "25a1ba7a-48ec-4d82-a87e-1bcbb583c74d",
-            "clue": "Anterior ligament in the human knee",
-            "answer": "acl",
-            "normalized": "acl"
+            "id": "43dc5df0-e4d8-43e2-b52e-43df5b2073e7",
+            "clue": "Entertainment venue with seats all round the stage",
+            "answer": "arena",
+            "normalized": "arena"
           },
           {
-            "id": "7cabfdda-ea30-4d42-95b8-4b09caf43d21",
-            "clue": "She and Kim sang Respectable in the 1980s",
-            "answer": "mel",
-            "normalized": "mel"
+            "id": "a1e2fdfc-735c-4440-9f28-815c8094a638",
+            "clue": "Prohibited according to Islamic law",
+            "answer": "haram",
+            "normalized": "haram"
           },
           {
-            "id": "829c2c3c-fe0b-4e97-8bd2-aa4cf942e612",
-            "clue": "Owl genus including the little owl",
-            "answer": "athene",
-            "normalized": "athene"
+            "id": "ad6b16e3-8e69-4cf1-a6f7-79b03e968021",
+            "clue": "Secure network protocol, encrypts data packets",
+            "answer": "ipsec",
+            "normalized": "ipsec"
           },
           {
-            "id": "7d873c5f-a5d9-4168-83d9-281fbcaaddd1",
-            "clue": "Trade",
-            "answer": "barter",
-            "normalized": "barter"
+            "id": "3f9d998e-0d22-4942-a1a5-63a813b4b2d3",
+            "clue": "Lake that Amber Fort overlooks",
+            "answer": "maota",
+            "normalized": "maota"
           },
           {
-            "id": "f6628e55-a611-49c5-8e6a-427901aada38",
-            "clue": "Brash and unrefined",
-            "answer": "crass",
-            "normalized": "crass"
+            "id": "1908c3a5-7a59-44d1-9327-2445135c5ca6",
+            "clue": "Teacher of extraordinary respect, Sunni Islam",
+            "answer": "allamah",
+            "normalized": "allamah"
           },
           {
-            "id": "81609f6b-6d03-4f9d-bc98-252f85073322",
-            "clue": "Hatred, spite, vengeance",
-            "answer": "malice",
-            "normalized": "malice"
+            "id": "d748f74b-6402-44ec-9c33-d611c0b6e17d",
+            "clue": "Chennai airport's three-letter code",
+            "answer": "maa",
+            "normalized": "maa"
           },
           {
-            "id": "bafb134d-6eff-4d2b-8f67-94cd3e80c32d",
-            "clue": "Unix spellchecker",
-            "answer": "ispell",
-            "normalized": "ispell"
+            "id": "ac4cd1e0-2ec9-4b09-aa55-c14af953d85f",
+            "clue": "Less cloudy",
+            "answer": "sunnier",
+            "normalized": "sunnier"
           },
           {
-            "id": "801539a0-1ef1-4cfe-8e9c-602e4355764c",
-            "clue": "Comedy sketch",
-            "answer": "skit",
-            "normalized": "skit"
+            "id": "b84bd5aa-ba96-472f-b4d3-b144ec59b568",
+            "clue": "What you make in the kitchen (in Hindi)",
+            "answer": "khana",
+            "normalized": "khana"
           },
           {
-            "id": "37337e25-d053-44ae-b992-1ffdadfc84d0",
-            "clue": "Almonds, a source of strength for Kushti pehlwans",
-            "answer": "badam",
-            "normalized": "badam"
+            "id": "119a6398-b0ea-467a-91b8-fdeb725139cd",
+            "clue": "Religion known for its Five Pillars",
+            "answer": "islam",
+            "normalized": "islam"
+          },
+          {
+            "id": "d853cf0a-1e23-4ed6-bece-1fa2e50cfaba",
+            "clue": "Garment that supports female chest",
+            "answer": "bra",
+            "normalized": "bra"
           }
         ],
-        "track": "PC|LenCinY2026M10D13F1V000"
+        "track": "PC|LenCinY2026M10D14F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-13",
+      "key": "2026-10-14",
       "year": 2026,
       "month": 10,
-      "day": 13,
+      "day": 14,
       "small": {
-        "puzzleId": "f337e099-e9d3-42d4-870d-5fcaa3655ce8",
+        "puzzleId": "397a8d3b-077e-4d9b-bf5a-9c3610fc1fc2",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "9e58f8f7-7aab-435b-8f6e-6ee553a15a2c",
-            "clue": "Public Health Service, abbr.",
-            "answer": "phs",
-            "normalized": "phs"
+            "id": "858d7fa5-a804-4865-b8f0-46ddfd29b61a",
+            "clue": "Chemical formula for caesium chloride",
+            "answer": "cscl",
+            "normalized": "cscl"
           },
           {
-            "id": "e51f5795-8e21-4ee1-be4b-abb1fbcf9003",
-            "clue": "Horseshoe-shaped bone in the neck",
-            "answer": "hyoid",
-            "normalized": "hyoid"
+            "id": "b7f7be75-ea0f-4573-ae72-5747325ad2fb",
+            "clue": "A 'royal' version of korma",
+            "answer": "shahi",
+            "normalized": "shahi"
           },
           {
-            "id": "ba84d1ee-466c-4bb2-9698-43161b41f207",
-            "clue": "Bart and Lisa's blue-haired mother in The Simpsons",
-            "answer": "marge",
-            "normalized": "marge"
+            "id": "5aed0364-5068-41cb-b133-990e006c5a55",
+            "clue": "Was afraid of",
+            "answer": "feared",
+            "normalized": "feared"
           },
           {
-            "id": "ccf43b61-ab67-47bb-9efb-511d5d4d5b4d",
-            "clue": "Miraculous food supplied from heaven",
-            "answer": "manna",
-            "normalized": "manna"
+            "id": "fe891fa9-5644-451e-bb16-107527a29d98",
+            "clue": "Concurs, sees eye to eye",
+            "answer": "agrees",
+            "normalized": "agrees"
           },
           {
-            "id": "d2e0d025-f370-4060-9927-ecb458b438bf",
-            "clue": "Pidilite's epoxy putty for sealing leaks",
-            "answer": "m-seal",
-            "normalized": "mseal"
+            "id": "2a5af16b-39a6-4483-8f64-fc3bfa4780ea",
+            "clue": "Author of The Doll's House, __ Godden",
+            "answer": "rumer",
+            "normalized": "rumer"
           },
           {
-            "id": "aece3881-dae9-4237-b5f1-d0913d2860ad",
-            "clue": "Internet slang for in real life",
-            "answer": "irl",
-            "normalized": "irl"
+            "id": "5ff1fe93-d13f-4864-bdbe-902dea6c8f59",
+            "clue": "Untidiness",
+            "answer": "mess",
+            "normalized": "mess"
           },
           {
-            "id": "5ec80d06-e3d5-4b9d-8e71-8fbf70ef0598",
-            "clue": "Swarathma's popular song about being thirsty",
-            "answer": "pyaasi",
-            "normalized": "pyaasi"
+            "id": "518e7c86-7be6-4faa-9de5-8d9151dadb74",
+            "clue": "Trinkets delivered monthly to attach to a bracelet",
+            "answer": "charms",
+            "normalized": "charms"
           },
           {
-            "id": "1fc36902-9cd6-42b6-b602-bda15cee98b3",
-            "clue": "F1 principal Christian __, married to Ginger Spice",
-            "answer": "horner",
-            "normalized": "horner"
+            "id": "f1471baa-79d5-4184-a784-5e995dc3fa57",
+            "clue": "Beautiful draped garments in India",
+            "answer": "sarees",
+            "normalized": "sarees"
           },
           {
-            "id": "092a7ca8-9966-49bc-b8df-122be059325b",
-            "clue": "Digital waves of connection; sign to convey info",
-            "answer": "signal",
-            "normalized": "signal"
+            "id": "1df0f88d-5b1f-4222-a102-0e6f0e514036",
+            "clue": "What sports fans do when their team scores",
+            "answer": "cheer",
+            "normalized": "cheer"
           },
           {
-            "id": "88e907fe-4d8f-416c-bf20-40e701f40be5",
-            "clue": "1990s dance hit, Things That Make You Go __",
-            "answer": "hmmm",
-            "normalized": "hmmm"
+            "id": "40c8848f-09cb-4eab-9102-afa83005f6f8",
+            "clue": "Bottle caps",
+            "answer": "lids",
+            "normalized": "lids"
           },
           {
-            "id": "659f13c9-2aab-48d7-a3ed-ee89707554c8",
-            "clue": "A bargain or lucky purchase",
-            "answer": "deal",
-            "normalized": "deal"
+            "id": "4d1aa069-65ec-4132-b1ee-1b2d850072ea",
+            "clue": "Smooth transition between topics",
+            "answer": "segue",
+            "normalized": "segue"
+          },
+          {
+            "id": "ac86db44-bc07-41c0-af7a-90c5497c3e1a",
+            "clue": "Homestead, land where animals are kept and reared",
+            "answer": "farm",
+            "normalized": "farm"
           }
         ],
-        "track": "PC|LenCinY2026M10D13F0V000"
+        "track": "PC|LenCinY2026M10D14F0V000"
       },
       "mid": {
-        "puzzleId": "1f7de1da-55ba-401b-8514-ee3dd9eba24b",
+        "puzzleId": "bd51cd01-76d2-4c97-a6bb-78ae934325e3",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "2d18797d-4d8a-42a2-a647-eacc5d5117f8",
-            "clue": "Three letters mentioned in a 1970 Jackson 5 song",
-            "answer": "abc",
-            "normalized": "abc"
+            "id": "0fd72c7e-827b-4796-9ea5-ea87bfe99b16",
+            "clue": "Islamic prayer leaders",
+            "answer": "imams",
+            "normalized": "imams"
           },
           {
-            "id": "ee59f3bc-d007-457c-a97b-3d2813664044",
-            "clue": "Black, sticky material used for waterproofing",
-            "answer": "tar",
-            "normalized": "tar"
+            "id": "138a07ba-d42f-4933-bd9b-c9ea22329a6d",
+            "clue": "Pacific country with a blue and yellow flag",
+            "answer": "palau",
+            "normalized": "palau"
           },
           {
-            "id": "115796e0-01b5-4604-b10b-b8d7b8c881a0",
-            "clue": "The family name in the series Gullak",
-            "answer": "mishra",
-            "normalized": "mishra"
+            "id": "e777eb18-641f-4e80-85f5-8d962232aca9",
+            "clue": "Dynasty that constructed Rani ki Vav",
+            "answer": "solanki",
+            "normalized": "solanki"
           },
           {
-            "id": "266ea699-e8f8-4325-bbcd-e5c1120fd2ae",
-            "clue": "Receptacles made from wicker, e.g. for logs",
-            "answer": "baskets",
-            "normalized": "baskets"
+            "id": "62584575-bea4-4e8d-ace3-cfd7ec3cb8e7",
+            "clue": "Estimated time of arrival initialism",
+            "answer": "eta",
+            "normalized": "eta"
           },
           {
-            "id": "601582bc-bae5-47f2-b418-30c5a957ff04",
-            "clue": "Small plants growing between tree and snow lines",
-            "answer": "alpines",
-            "normalized": "alpines"
+            "id": "cb12c11d-8312-41f0-b91b-b10f4a7f9f3c",
+            "clue": "British state-funded medical provider",
+            "answer": "nhs",
+            "normalized": "nhs"
           },
           {
-            "id": "63a87421-f481-4a77-bb62-02998b6c4001",
-            "clue": "One on Weight Watchers or Atkins",
-            "answer": "dieter",
-            "normalized": "dieter"
+            "id": "0e70112b-ac15-40f0-bfd4-c23c625f452a",
+            "clue": "Relating to a cell layer in woody plants",
+            "answer": "cambial",
+            "normalized": "cambial"
           },
           {
-            "id": "25a1ba7a-48ec-4d82-a87e-1bcbb583c74d",
-            "clue": "Anterior ligament in the human knee",
-            "answer": "acl",
-            "normalized": "acl"
+            "id": "43dc5df0-e4d8-43e2-b52e-43df5b2073e7",
+            "clue": "Entertainment venue with seats all round the stage",
+            "answer": "arena",
+            "normalized": "arena"
           },
           {
-            "id": "7cabfdda-ea30-4d42-95b8-4b09caf43d21",
-            "clue": "She and Kim sang Respectable in the 1980s",
-            "answer": "mel",
-            "normalized": "mel"
+            "id": "a1e2fdfc-735c-4440-9f28-815c8094a638",
+            "clue": "Prohibited according to Islamic law",
+            "answer": "haram",
+            "normalized": "haram"
           },
           {
-            "id": "829c2c3c-fe0b-4e97-8bd2-aa4cf942e612",
-            "clue": "Owl genus including the little owl",
-            "answer": "athene",
-            "normalized": "athene"
+            "id": "ad6b16e3-8e69-4cf1-a6f7-79b03e968021",
+            "clue": "Secure network protocol, encrypts data packets",
+            "answer": "ipsec",
+            "normalized": "ipsec"
           },
           {
-            "id": "7d873c5f-a5d9-4168-83d9-281fbcaaddd1",
-            "clue": "Trade",
-            "answer": "barter",
-            "normalized": "barter"
+            "id": "3f9d998e-0d22-4942-a1a5-63a813b4b2d3",
+            "clue": "Lake that Amber Fort overlooks",
+            "answer": "maota",
+            "normalized": "maota"
           },
           {
-            "id": "f6628e55-a611-49c5-8e6a-427901aada38",
-            "clue": "Brash and unrefined",
-            "answer": "crass",
-            "normalized": "crass"
+            "id": "1908c3a5-7a59-44d1-9327-2445135c5ca6",
+            "clue": "Teacher of extraordinary respect, Sunni Islam",
+            "answer": "allamah",
+            "normalized": "allamah"
           },
           {
-            "id": "81609f6b-6d03-4f9d-bc98-252f85073322",
-            "clue": "Hatred, spite, vengeance",
-            "answer": "malice",
-            "normalized": "malice"
+            "id": "d748f74b-6402-44ec-9c33-d611c0b6e17d",
+            "clue": "Chennai airport's three-letter code",
+            "answer": "maa",
+            "normalized": "maa"
           },
           {
-            "id": "bafb134d-6eff-4d2b-8f67-94cd3e80c32d",
-            "clue": "Unix spellchecker",
-            "answer": "ispell",
-            "normalized": "ispell"
+            "id": "ac4cd1e0-2ec9-4b09-aa55-c14af953d85f",
+            "clue": "Less cloudy",
+            "answer": "sunnier",
+            "normalized": "sunnier"
           },
           {
-            "id": "801539a0-1ef1-4cfe-8e9c-602e4355764c",
-            "clue": "Comedy sketch",
-            "answer": "skit",
-            "normalized": "skit"
+            "id": "b84bd5aa-ba96-472f-b4d3-b144ec59b568",
+            "clue": "What you make in the kitchen (in Hindi)",
+            "answer": "khana",
+            "normalized": "khana"
           },
           {
-            "id": "37337e25-d053-44ae-b992-1ffdadfc84d0",
-            "clue": "Almonds, a source of strength for Kushti pehlwans",
-            "answer": "badam",
-            "normalized": "badam"
+            "id": "119a6398-b0ea-467a-91b8-fdeb725139cd",
+            "clue": "Religion known for its Five Pillars",
+            "answer": "islam",
+            "normalized": "islam"
+          },
+          {
+            "id": "d853cf0a-1e23-4ed6-bece-1fa2e50cfaba",
+            "clue": "Garment that supports female chest",
+            "answer": "bra",
+            "normalized": "bra"
           }
         ],
-        "track": "PC|LenCinY2026M10D13F1V000"
+        "track": "PC|LenCinY2026M10D14F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383304,21 +383328,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "iHelfuRBUBOkO+AdYv/1wFVp1+kcjvkVh5WAdk7+11ISGRg95u/C4CeWKqFFem2p7EfUH+8xWD+baTL9OgkdRr4mwWyLOYyPLkB5jZH3gURNL7QMDTLUHPrjl9VXW0HV/zDWDWJj1IBAM+igE5wMkUjUhM4Rz+i3lUQ8G2jFhG3WERISlFIcTXQHqPeXJQRPn0YvgskOMDIPrn+1+mFGVycpZHhZleXszpsMA654hAx6DiwQctNV7COX3AQuYFTHEliYseHJENj/KR6VMn1NXYwGFM6RrI0rkEoWVhfN3ys="
+        "k8sVlQ1zJ0AqIQfXUf6RL1x+vB8zqGmFA94P5TR/SAwWUXB+zzhm+UljrsST8Ro+zcOEWSdZh/KduaoBvm2fUMkbE4xXxcUloL7+Sf9nkfEYxouWRrQWanhsHwsTUOiOLZMIXCbX1C/4D8csV/OqPbdF956RhzrD0GdSyHnfIcQtLp1XJE7Gmv+M0o3ZrtfFBvU1Bz3J95Rrbp2FhyjNoTCmn6ItWo4hcTAQMMe08SUoT7pazMRN/AFXMrk1GdJ932F9wg0T8wiT89dqGObHSIgQlup4ImdKsjOwJlYDj+c="
       ]
     },
     "decrypted": {
-      "Id": "df10c86b-ed67-4481-b733-0e78e710145b",
-      "Date": "2026-10-13T00:00:00Z",
+      "Id": "fbb1d640-11ab-410a-8d5b-cf7061755b89",
+      "Date": "2026-10-14T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "curve",
-      "NormalizedPassword": "curve",
+      "Password": "taste",
+      "NormalizedPassword": "taste",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-13T06:22:40.0530000+05:30",
-    "hash": "c6a606837c048a12b284f22fdbc4408d",
+    "dtu": "2026-10-14T04:28:10.7520000+05:30",
+    "hash": "cd7ae176ef5b89fd171728bd810dcb57",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
