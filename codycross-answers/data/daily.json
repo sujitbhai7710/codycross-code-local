@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T22:10:43.360Z",
+  "generatedAt": "2026-10-13T00:52:40.053Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 12
+    "day": 13
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 20
+        "QuantidadeDeFases": 24
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -382738,367 +382738,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-12",
+      "key": "2026-10-13",
       "year": 2026,
       "month": 10,
-      "day": 12,
+      "day": 13,
       "small": {
-        "puzzleId": "1aefc9b8-f893-4db5-8676-742fd66056d0",
+        "puzzleId": "f337e099-e9d3-42d4-870d-5fcaa3655ce8",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "536372a8-d061-45b6-8204-33f8a5534d1a",
-            "clue": "Style-sheet language often used with HTML",
-            "answer": "css",
-            "normalized": "css"
+            "id": "9e58f8f7-7aab-435b-8f6e-6ee553a15a2c",
+            "clue": "Public Health Service, abbr.",
+            "answer": "phs",
+            "normalized": "phs"
           },
           {
-            "id": "f0ee2ecf-c58e-4e19-98cd-c4bbfccc1d8c",
-            "clue": "Bottom-dwelling aquarium fish",
-            "answer": "loach",
-            "normalized": "loach"
+            "id": "e51f5795-8e21-4ee1-be4b-abb1fbcf9003",
+            "clue": "Horseshoe-shaped bone in the neck",
+            "answer": "hyoid",
+            "normalized": "hyoid"
           },
           {
-            "id": "59b88c65-04a8-4c80-8695-506bccd73091",
-            "clue": "First name of George Washington's wife",
-            "answer": "martha",
-            "normalized": "martha"
+            "id": "ba84d1ee-466c-4bb2-9698-43161b41f207",
+            "clue": "Bart and Lisa's blue-haired mother in The Simpsons",
+            "answer": "marge",
+            "normalized": "marge"
           },
           {
-            "id": "4335e368-f663-44b0-9ab7-6af0ec3d7fc8",
-            "clue": "Lemons, oranges and grapefruit are __ fruits",
-            "answer": "citrus",
-            "normalized": "citrus"
+            "id": "ccf43b61-ab67-47bb-9efb-511d5d4d5b4d",
+            "clue": "Miraculous food supplied from heaven",
+            "answer": "manna",
+            "normalized": "manna"
           },
           {
-            "id": "f6b73d38-30b8-4124-ae42-f5611dc66173",
-            "clue": "Type of campaign meant to discredit someone",
-            "answer": "smear",
-            "normalized": "smear"
+            "id": "d2e0d025-f370-4060-9927-ecb458b438bf",
+            "clue": "Pidilite's epoxy putty for sealing leaks",
+            "answer": "m-seal",
+            "normalized": "mseal"
           },
           {
-            "id": "6d898d36-6040-4a50-a3d3-7107edbbac88",
-            "clue": "Image-scanning measurement unit",
-            "answer": "dpi",
-            "normalized": "dpi"
+            "id": "aece3881-dae9-4237-b5f1-d0913d2860ad",
+            "clue": "Internet slang for in real life",
+            "answer": "irl",
+            "normalized": "irl"
           },
           {
-            "id": "99de3f7c-8f90-4c01-b648-6b4b703f5834",
-            "clue": "Assert ownership of",
-            "answer": "claim",
-            "normalized": "claim"
+            "id": "5ec80d06-e3d5-4b9d-8e71-8fbf70ef0598",
+            "clue": "Swarathma's popular song about being thirsty",
+            "answer": "pyaasi",
+            "normalized": "pyaasi"
           },
           {
-            "id": "e3f4e3b3-5393-4d18-b94b-f8e076a28f68",
-            "clue": "Arranged in rank or file",
-            "answer": "sorted",
-            "normalized": "sorted"
+            "id": "1fc36902-9cd6-42b6-b602-bda15cee98b3",
+            "clue": "F1 principal Christian __, married to Ginger Spice",
+            "answer": "horner",
+            "normalized": "horner"
           },
           {
-            "id": "00b73b0d-1784-4d68-8c54-a5a9e6afdfca",
-            "clue": "Governor of a province in ancient Persia",
-            "answer": "satrap",
-            "normalized": "satrap"
+            "id": "092a7ca8-9966-49bc-b8df-122be059325b",
+            "clue": "Digital waves of connection; sign to convey info",
+            "answer": "signal",
+            "normalized": "signal"
           },
           {
-            "id": "d72e44e4-02d2-4b0d-b7e5-363d47a8efee",
-            "clue": "A bangle maker's delicate glass creation",
-            "answer": "churi",
-            "normalized": "churi"
+            "id": "88e907fe-4d8f-416c-bf20-40e701f40be5",
+            "clue": "1990s dance hit, Things That Make You Go __",
+            "answer": "hmmm",
+            "normalized": "hmmm"
           },
           {
-            "id": "0e513537-9ea9-4288-9555-fc1ec6ce1831",
-            "clue": "Possesses",
-            "answer": "has",
-            "normalized": "has"
-          },
-          {
-            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
-            "clue": "Masters of ceremonies, in short",
-            "answer": "mcs",
-            "normalized": "mcs"
+            "id": "659f13c9-2aab-48d7-a3ed-ee89707554c8",
+            "clue": "A bargain or lucky purchase",
+            "answer": "deal",
+            "normalized": "deal"
           }
         ],
-        "track": "PC|LenCinY2026M10D12F0V000"
+        "track": "PC|LenCinY2026M10D13F0V000"
       },
       "mid": {
-        "puzzleId": "667d3edc-681f-4d5a-8078-a0df170324ed",
+        "puzzleId": "1f7de1da-55ba-401b-8514-ee3dd9eba24b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "a8516307-8cd0-4cc8-8584-d0e78c45bb07",
-            "clue": "Summertime Sadness singer Del Rey",
-            "answer": "lana",
-            "normalized": "lana"
+            "id": "2d18797d-4d8a-42a2-a647-eacc5d5117f8",
+            "clue": "Three letters mentioned in a 1970 Jackson 5 song",
+            "answer": "abc",
+            "normalized": "abc"
           },
           {
-            "id": "c419cb88-f6c9-4b25-ac15-6f15a8699a0a",
-            "clue": "More sensible",
-            "answer": "saner",
-            "normalized": "saner"
+            "id": "ee59f3bc-d007-457c-a97b-3d2813664044",
+            "clue": "Black, sticky material used for waterproofing",
+            "answer": "tar",
+            "normalized": "tar"
           },
           {
-            "id": "6b7ff183-e232-40bd-9217-de04089a36eb",
-            "clue": "Sleeveless garment that flows to one's knees",
-            "answer": "tunic",
-            "normalized": "tunic"
+            "id": "115796e0-01b5-4604-b10b-b8d7b8c881a0",
+            "clue": "The family name in the series Gullak",
+            "answer": "mishra",
+            "normalized": "mishra"
           },
           {
-            "id": "104db9ab-529d-410d-bdcc-476bce292163",
-            "clue": "Waxy steroid substances",
-            "answer": "sterols",
-            "normalized": "sterols"
+            "id": "266ea699-e8f8-4325-bbcd-e5c1120fd2ae",
+            "clue": "Receptacles made from wicker, e.g. for logs",
+            "answer": "baskets",
+            "normalized": "baskets"
           },
           {
-            "id": "eda2f991-d83e-4673-9874-0037bdbb05e8",
-            "clue": "Rhyming expression for oversentimental, __ dovey",
-            "answer": "lovey",
-            "normalized": "lovey"
+            "id": "601582bc-bae5-47f2-b418-30c5a957ff04",
+            "clue": "Small plants growing between tree and snow lines",
+            "answer": "alpines",
+            "normalized": "alpines"
           },
           {
-            "id": "1f518d50-4911-4ea9-8707-45862a8478ca",
-            "clue": "Good ones title a 2019 Amazon miniseries",
-            "answer": "omens",
-            "normalized": "omens"
+            "id": "63a87421-f481-4a77-bb62-02998b6c4001",
+            "clue": "One on Weight Watchers or Atkins",
+            "answer": "dieter",
+            "normalized": "dieter"
           },
           {
-            "id": "5928c374-8f7b-4837-82a1-dfaf345455e8",
-            "clue": "Crooked, misshapen",
-            "answer": "bent",
-            "normalized": "bent"
+            "id": "25a1ba7a-48ec-4d82-a87e-1bcbb583c74d",
+            "clue": "Anterior ligament in the human knee",
+            "answer": "acl",
+            "normalized": "acl"
           },
           {
-            "id": "a05108fe-0b11-4cdd-b7ad-a81e90442bb5",
-            "clue": "The L in YSL, French fashion house",
-            "answer": "laurent",
-            "normalized": "laurent"
+            "id": "7cabfdda-ea30-4d42-95b8-4b09caf43d21",
+            "clue": "She and Kim sang Respectable in the 1980s",
+            "answer": "mel",
+            "normalized": "mel"
           },
           {
-            "id": "4c43ee88-a889-4a71-98a8-d3f41582005d",
-            "clue": "Bothers, irritates",
-            "answer": "annoys",
-            "normalized": "annoys"
+            "id": "829c2c3c-fe0b-4e97-8bd2-aa4cf942e612",
+            "clue": "Owl genus including the little owl",
+            "answer": "athene",
+            "normalized": "athene"
           },
           {
-            "id": "2f2722f5-f528-4e50-8a8a-11d6a2d79193",
-            "clue": "__ Patrick Harris, Doogie Howser doctor",
-            "answer": "neil",
-            "normalized": "neil"
+            "id": "7d873c5f-a5d9-4168-83d9-281fbcaaddd1",
+            "clue": "Trade",
+            "answer": "barter",
+            "normalized": "barter"
           },
           {
-            "id": "e47ff548-774e-4734-b4b7-c7578c2ac70b",
-            "clue": "Curved lines that are parts of circles",
-            "answer": "arcs",
-            "normalized": "arcs"
+            "id": "f6628e55-a611-49c5-8e6a-427901aada38",
+            "clue": "Brash and unrefined",
+            "answer": "crass",
+            "normalized": "crass"
           },
           {
-            "id": "9e1d5487-fb9b-44c1-948d-b3a471266622",
-            "clue": "Cartoon Network series on human gems, __ Universe",
-            "answer": "steven",
-            "normalized": "steven"
+            "id": "81609f6b-6d03-4f9d-bc98-252f85073322",
+            "clue": "Hatred, spite, vengeance",
+            "answer": "malice",
+            "normalized": "malice"
           },
           {
-            "id": "15993561-f783-46ad-9082-c67768a50737",
-            "clue": "A lazy and untidy person; rhymes with glob",
-            "answer": "slob",
-            "normalized": "slob"
+            "id": "bafb134d-6eff-4d2b-8f67-94cd3e80c32d",
+            "clue": "Unix spellchecker",
+            "answer": "ispell",
+            "normalized": "ispell"
           },
           {
-            "id": "f6c16df3-f263-4ea7-9702-ee01185e41eb",
-            "clue": "Weighty publication",
-            "answer": "tome",
-            "normalized": "tome"
+            "id": "801539a0-1ef1-4cfe-8e9c-602e4355764c",
+            "clue": "Comedy sketch",
+            "answer": "skit",
+            "normalized": "skit"
+          },
+          {
+            "id": "37337e25-d053-44ae-b992-1ffdadfc84d0",
+            "clue": "Almonds, a source of strength for Kushti pehlwans",
+            "answer": "badam",
+            "normalized": "badam"
           }
         ],
-        "track": "PC|LenCinY2026M10D12F1V000"
+        "track": "PC|LenCinY2026M10D13F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-12",
+      "key": "2026-10-13",
       "year": 2026,
       "month": 10,
-      "day": 12,
+      "day": 13,
       "small": {
-        "puzzleId": "1aefc9b8-f893-4db5-8676-742fd66056d0",
+        "puzzleId": "f337e099-e9d3-42d4-870d-5fcaa3655ce8",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "536372a8-d061-45b6-8204-33f8a5534d1a",
-            "clue": "Style-sheet language often used with HTML",
-            "answer": "css",
-            "normalized": "css"
+            "id": "9e58f8f7-7aab-435b-8f6e-6ee553a15a2c",
+            "clue": "Public Health Service, abbr.",
+            "answer": "phs",
+            "normalized": "phs"
           },
           {
-            "id": "f0ee2ecf-c58e-4e19-98cd-c4bbfccc1d8c",
-            "clue": "Bottom-dwelling aquarium fish",
-            "answer": "loach",
-            "normalized": "loach"
+            "id": "e51f5795-8e21-4ee1-be4b-abb1fbcf9003",
+            "clue": "Horseshoe-shaped bone in the neck",
+            "answer": "hyoid",
+            "normalized": "hyoid"
           },
           {
-            "id": "59b88c65-04a8-4c80-8695-506bccd73091",
-            "clue": "First name of George Washington's wife",
-            "answer": "martha",
-            "normalized": "martha"
+            "id": "ba84d1ee-466c-4bb2-9698-43161b41f207",
+            "clue": "Bart and Lisa's blue-haired mother in The Simpsons",
+            "answer": "marge",
+            "normalized": "marge"
           },
           {
-            "id": "4335e368-f663-44b0-9ab7-6af0ec3d7fc8",
-            "clue": "Lemons, oranges and grapefruit are __ fruits",
-            "answer": "citrus",
-            "normalized": "citrus"
+            "id": "ccf43b61-ab67-47bb-9efb-511d5d4d5b4d",
+            "clue": "Miraculous food supplied from heaven",
+            "answer": "manna",
+            "normalized": "manna"
           },
           {
-            "id": "f6b73d38-30b8-4124-ae42-f5611dc66173",
-            "clue": "Type of campaign meant to discredit someone",
-            "answer": "smear",
-            "normalized": "smear"
+            "id": "d2e0d025-f370-4060-9927-ecb458b438bf",
+            "clue": "Pidilite's epoxy putty for sealing leaks",
+            "answer": "m-seal",
+            "normalized": "mseal"
           },
           {
-            "id": "6d898d36-6040-4a50-a3d3-7107edbbac88",
-            "clue": "Image-scanning measurement unit",
-            "answer": "dpi",
-            "normalized": "dpi"
+            "id": "aece3881-dae9-4237-b5f1-d0913d2860ad",
+            "clue": "Internet slang for in real life",
+            "answer": "irl",
+            "normalized": "irl"
           },
           {
-            "id": "99de3f7c-8f90-4c01-b648-6b4b703f5834",
-            "clue": "Assert ownership of",
-            "answer": "claim",
-            "normalized": "claim"
+            "id": "5ec80d06-e3d5-4b9d-8e71-8fbf70ef0598",
+            "clue": "Swarathma's popular song about being thirsty",
+            "answer": "pyaasi",
+            "normalized": "pyaasi"
           },
           {
-            "id": "e3f4e3b3-5393-4d18-b94b-f8e076a28f68",
-            "clue": "Arranged in rank or file",
-            "answer": "sorted",
-            "normalized": "sorted"
+            "id": "1fc36902-9cd6-42b6-b602-bda15cee98b3",
+            "clue": "F1 principal Christian __, married to Ginger Spice",
+            "answer": "horner",
+            "normalized": "horner"
           },
           {
-            "id": "00b73b0d-1784-4d68-8c54-a5a9e6afdfca",
-            "clue": "Governor of a province in ancient Persia",
-            "answer": "satrap",
-            "normalized": "satrap"
+            "id": "092a7ca8-9966-49bc-b8df-122be059325b",
+            "clue": "Digital waves of connection; sign to convey info",
+            "answer": "signal",
+            "normalized": "signal"
           },
           {
-            "id": "d72e44e4-02d2-4b0d-b7e5-363d47a8efee",
-            "clue": "A bangle maker's delicate glass creation",
-            "answer": "churi",
-            "normalized": "churi"
+            "id": "88e907fe-4d8f-416c-bf20-40e701f40be5",
+            "clue": "1990s dance hit, Things That Make You Go __",
+            "answer": "hmmm",
+            "normalized": "hmmm"
           },
           {
-            "id": "0e513537-9ea9-4288-9555-fc1ec6ce1831",
-            "clue": "Possesses",
-            "answer": "has",
-            "normalized": "has"
-          },
-          {
-            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
-            "clue": "Masters of ceremonies, in short",
-            "answer": "mcs",
-            "normalized": "mcs"
+            "id": "659f13c9-2aab-48d7-a3ed-ee89707554c8",
+            "clue": "A bargain or lucky purchase",
+            "answer": "deal",
+            "normalized": "deal"
           }
         ],
-        "track": "PC|LenCinY2026M10D12F0V000"
+        "track": "PC|LenCinY2026M10D13F0V000"
       },
       "mid": {
-        "puzzleId": "667d3edc-681f-4d5a-8078-a0df170324ed",
+        "puzzleId": "1f7de1da-55ba-401b-8514-ee3dd9eba24b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "a8516307-8cd0-4cc8-8584-d0e78c45bb07",
-            "clue": "Summertime Sadness singer Del Rey",
-            "answer": "lana",
-            "normalized": "lana"
+            "id": "2d18797d-4d8a-42a2-a647-eacc5d5117f8",
+            "clue": "Three letters mentioned in a 1970 Jackson 5 song",
+            "answer": "abc",
+            "normalized": "abc"
           },
           {
-            "id": "c419cb88-f6c9-4b25-ac15-6f15a8699a0a",
-            "clue": "More sensible",
-            "answer": "saner",
-            "normalized": "saner"
+            "id": "ee59f3bc-d007-457c-a97b-3d2813664044",
+            "clue": "Black, sticky material used for waterproofing",
+            "answer": "tar",
+            "normalized": "tar"
           },
           {
-            "id": "6b7ff183-e232-40bd-9217-de04089a36eb",
-            "clue": "Sleeveless garment that flows to one's knees",
-            "answer": "tunic",
-            "normalized": "tunic"
+            "id": "115796e0-01b5-4604-b10b-b8d7b8c881a0",
+            "clue": "The family name in the series Gullak",
+            "answer": "mishra",
+            "normalized": "mishra"
           },
           {
-            "id": "104db9ab-529d-410d-bdcc-476bce292163",
-            "clue": "Waxy steroid substances",
-            "answer": "sterols",
-            "normalized": "sterols"
+            "id": "266ea699-e8f8-4325-bbcd-e5c1120fd2ae",
+            "clue": "Receptacles made from wicker, e.g. for logs",
+            "answer": "baskets",
+            "normalized": "baskets"
           },
           {
-            "id": "eda2f991-d83e-4673-9874-0037bdbb05e8",
-            "clue": "Rhyming expression for oversentimental, __ dovey",
-            "answer": "lovey",
-            "normalized": "lovey"
+            "id": "601582bc-bae5-47f2-b418-30c5a957ff04",
+            "clue": "Small plants growing between tree and snow lines",
+            "answer": "alpines",
+            "normalized": "alpines"
           },
           {
-            "id": "1f518d50-4911-4ea9-8707-45862a8478ca",
-            "clue": "Good ones title a 2019 Amazon miniseries",
-            "answer": "omens",
-            "normalized": "omens"
+            "id": "63a87421-f481-4a77-bb62-02998b6c4001",
+            "clue": "One on Weight Watchers or Atkins",
+            "answer": "dieter",
+            "normalized": "dieter"
           },
           {
-            "id": "5928c374-8f7b-4837-82a1-dfaf345455e8",
-            "clue": "Crooked, misshapen",
-            "answer": "bent",
-            "normalized": "bent"
+            "id": "25a1ba7a-48ec-4d82-a87e-1bcbb583c74d",
+            "clue": "Anterior ligament in the human knee",
+            "answer": "acl",
+            "normalized": "acl"
           },
           {
-            "id": "a05108fe-0b11-4cdd-b7ad-a81e90442bb5",
-            "clue": "The L in YSL, French fashion house",
-            "answer": "laurent",
-            "normalized": "laurent"
+            "id": "7cabfdda-ea30-4d42-95b8-4b09caf43d21",
+            "clue": "She and Kim sang Respectable in the 1980s",
+            "answer": "mel",
+            "normalized": "mel"
           },
           {
-            "id": "4c43ee88-a889-4a71-98a8-d3f41582005d",
-            "clue": "Bothers, irritates",
-            "answer": "annoys",
-            "normalized": "annoys"
+            "id": "829c2c3c-fe0b-4e97-8bd2-aa4cf942e612",
+            "clue": "Owl genus including the little owl",
+            "answer": "athene",
+            "normalized": "athene"
           },
           {
-            "id": "2f2722f5-f528-4e50-8a8a-11d6a2d79193",
-            "clue": "__ Patrick Harris, Doogie Howser doctor",
-            "answer": "neil",
-            "normalized": "neil"
+            "id": "7d873c5f-a5d9-4168-83d9-281fbcaaddd1",
+            "clue": "Trade",
+            "answer": "barter",
+            "normalized": "barter"
           },
           {
-            "id": "e47ff548-774e-4734-b4b7-c7578c2ac70b",
-            "clue": "Curved lines that are parts of circles",
-            "answer": "arcs",
-            "normalized": "arcs"
+            "id": "f6628e55-a611-49c5-8e6a-427901aada38",
+            "clue": "Brash and unrefined",
+            "answer": "crass",
+            "normalized": "crass"
           },
           {
-            "id": "9e1d5487-fb9b-44c1-948d-b3a471266622",
-            "clue": "Cartoon Network series on human gems, __ Universe",
-            "answer": "steven",
-            "normalized": "steven"
+            "id": "81609f6b-6d03-4f9d-bc98-252f85073322",
+            "clue": "Hatred, spite, vengeance",
+            "answer": "malice",
+            "normalized": "malice"
           },
           {
-            "id": "15993561-f783-46ad-9082-c67768a50737",
-            "clue": "A lazy and untidy person; rhymes with glob",
-            "answer": "slob",
-            "normalized": "slob"
+            "id": "bafb134d-6eff-4d2b-8f67-94cd3e80c32d",
+            "clue": "Unix spellchecker",
+            "answer": "ispell",
+            "normalized": "ispell"
           },
           {
-            "id": "f6c16df3-f263-4ea7-9702-ee01185e41eb",
-            "clue": "Weighty publication",
-            "answer": "tome",
-            "normalized": "tome"
+            "id": "801539a0-1ef1-4cfe-8e9c-602e4355764c",
+            "clue": "Comedy sketch",
+            "answer": "skit",
+            "normalized": "skit"
+          },
+          {
+            "id": "37337e25-d053-44ae-b992-1ffdadfc84d0",
+            "clue": "Almonds, a source of strength for Kushti pehlwans",
+            "answer": "badam",
+            "normalized": "badam"
           }
         ],
-        "track": "PC|LenCinY2026M10D12F1V000"
+        "track": "PC|LenCinY2026M10D13F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383304,21 +383304,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "UeDv+6oZN6iYEnfsYtvqycaEtq0LKAtgC/2Zkd7DVoYKOnr4VEJSR6SmPEZfL5+A1zboA/G5YWmDvXT9E+5GY0wjMF7hjWY6z4/k9K5rk/LhdHZWWa0/NzFBmmSRG+P7nnOGdd3PfKRfiKzC+rmS6wUoPgPOCUoG5Xh+IO+WC/oVaF7UHTNZxBAcswgBlWz+E5/6FjgfR1edPeLJ1mH5syOSp32O56O/o3zu4y6bMDlBsu4eV3w4k/jwIxY9ctmsW1OoLI29YGl3A02vz662i6NSb7dOmf+0WHVPccdkaGI="
+        "iHelfuRBUBOkO+AdYv/1wFVp1+kcjvkVh5WAdk7+11ISGRg95u/C4CeWKqFFem2p7EfUH+8xWD+baTL9OgkdRr4mwWyLOYyPLkB5jZH3gURNL7QMDTLUHPrjl9VXW0HV/zDWDWJj1IBAM+igE5wMkUjUhM4Rz+i3lUQ8G2jFhG3WERISlFIcTXQHqPeXJQRPn0YvgskOMDIPrn+1+mFGVycpZHhZleXszpsMA654hAx6DiwQctNV7COX3AQuYFTHEliYseHJENj/KR6VMn1NXYwGFM6RrI0rkEoWVhfN3ys="
       ]
     },
     "decrypted": {
-      "Id": "676ed1e0-fb66-4e86-9208-08368a239e19",
-      "Date": "2026-10-12T00:00:00Z",
+      "Id": "df10c86b-ed67-4481-b733-0e78e710145b",
+      "Date": "2026-10-13T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "snare",
-      "NormalizedPassword": "snare",
+      "Password": "curve",
+      "NormalizedPassword": "curve",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-12T03:40:43.3600000+05:30",
-    "hash": "29395774689dfd7c4d3fb08afc30fe24",
+    "dtu": "2026-10-13T06:22:40.0530000+05:30",
+    "hash": "c6a606837c048a12b284f22fdbc4408d",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
