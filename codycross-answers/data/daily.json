@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T21:49:55.778Z",
+  "generatedAt": "2026-10-15T21:34:09.761Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 15
+    "day": 16
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 26
+        "QuantidadeDeFases": 28
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -27632,7 +27632,7 @@
             {
               "id": "7b33cf15-0174-4702-8960-0d3112c07bfb",
               "clue": "Computer data disc that can't be altered",
-              "answer": "cdrom",
+              "answer": "cd-rom",
               "normalized": "cdrom"
             },
             {
@@ -58972,7 +58972,7 @@
             {
               "id": "7b33cf15-0174-4702-8960-0d3112c07bfb",
               "clue": "Computer data disc that can't be altered",
-              "answer": "cdrom",
+              "answer": "cd-rom",
               "normalized": "cdrom"
             },
             {
@@ -103148,7 +103148,7 @@
             {
               "id": "7b33cf15-0174-4702-8960-0d3112c07bfb",
               "clue": "Computer data disc that can't be altered",
-              "answer": "cdrom",
+              "answer": "cd-rom",
               "normalized": "cdrom"
             },
             {
@@ -217106,7 +217106,7 @@
             {
               "id": "7b33cf15-0174-4702-8960-0d3112c07bfb",
               "clue": "Computer data disc that can't be altered",
-              "answer": "cdrom",
+              "answer": "cd-rom",
               "normalized": "cdrom"
             },
             {
@@ -243462,7 +243462,7 @@
             {
               "id": "7b33cf15-0174-4702-8960-0d3112c07bfb",
               "clue": "Computer data disc that can't be altered",
-              "answer": "cdrom",
+              "answer": "cd-rom",
               "normalized": "cdrom"
             },
             {
@@ -299284,7 +299284,7 @@
             {
               "id": "7b33cf15-0174-4702-8960-0d3112c07bfb",
               "clue": "Computer data disc that can't be altered",
-              "answer": "cdrom",
+              "answer": "cd-rom",
               "normalized": "cdrom"
             },
             {
@@ -374476,7 +374476,7 @@
             {
               "id": "7b33cf15-0174-4702-8960-0d3112c07bfb",
               "clue": "Computer data disc that can't be altered",
-              "answer": "cdrom",
+              "answer": "cd-rom",
               "normalized": "cdrom"
             },
             {
@@ -382738,367 +382738,379 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-15",
+      "key": "2026-10-16",
       "year": 2026,
       "month": 10,
-      "day": 15,
+      "day": 16,
       "small": {
-        "puzzleId": "8091b324-e806-474d-a53f-6932c63ee974",
+        "puzzleId": "e5b9e632-e218-44c5-8788-730747033cae",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "cdfe1790-2de3-4db9-a4aa-1ec6202498dd",
-            "clue": "Expensive, it costs an arm and __",
-            "answer": "a leg",
-            "normalized": "aleg"
+            "id": "916c77c4-3865-436d-8941-e5c37e998ee0",
+            "clue": "Place for pampering and relaxation",
+            "answer": "spa",
+            "normalized": "spa"
           },
           {
-            "id": "903974b8-0400-4e6d-9f43-3cb1fbef1d52",
-            "clue": "__ Headey, Cersei Lannister in Game of Thrones",
-            "answer": "lena",
-            "normalized": "lena"
+            "id": "d078c810-aade-49a8-8dd0-b186c0272f7d",
+            "clue": "Horse used for breeding purposes",
+            "answer": "stud",
+            "normalized": "stud"
           },
           {
-            "id": "5d29d4c3-9d9c-44d2-b3c1-6976240a91f7",
-            "clue": "Covering ground with asphalt",
-            "answer": "paving",
-            "normalized": "paving"
+            "id": "917aad2e-c39b-4348-a02c-676e151666fc",
+            "clue": "1978 Stephen King pandemic novel, The __",
+            "answer": "stand",
+            "normalized": "stand"
           },
           {
-            "id": "9a110b6f-defb-4cae-9555-9a3bdc22ec41",
-            "clue": "Ancient hospital for those with contagious diseases",
-            "answer": "spital",
-            "normalized": "spital"
+            "id": "11df08cc-7f1b-4e2d-b512-726081a5b875",
+            "clue": "Uncut diamonds used in traditional gold jewelry",
+            "answer": "polki",
+            "normalized": "polki"
           },
           {
-            "id": "9ce24b45-a9d4-44b0-8b55-2c3d282e7660",
-            "clue": "S. S. Rajamouli's fantasy film about a housefly",
-            "answer": "eega",
-            "normalized": "eega"
+            "id": "d8b8732f-b9d1-42f4-a946-7f2c330f21ff",
+            "clue": "To come into existence",
+            "answer": "arise",
+            "normalized": "arise"
           },
           {
-            "id": "a9525300-5103-4a2b-97c7-199f58e4bd21",
-            "clue": "Small drink of whiskey",
-            "answer": "dram",
-            "normalized": "dram"
+            "id": "8f8c2f0a-20f0-485d-b077-d96726f5eff9",
+            "clue": "Prefix meaning with or together",
+            "answer": "syn",
+            "normalized": "syn"
           },
           {
-            "id": "2cb12062-4d15-4954-a2db-0c7f9a7a84a2",
-            "clue": "Mont Blanc is in this range",
-            "answer": "alps",
-            "normalized": "alps"
+            "id": "dcdd33ab-8974-4795-bd3b-5c88df3cf30e",
+            "clue": "He led the Soviet Union from the 1920s until 1953",
+            "answer": "stalin",
+            "normalized": "stalin"
           },
           {
-            "id": "348d87e9-ec49-432c-83ac-3e92d6be2b0d",
-            "clue": "Another word for jump; rhymes with peep",
-            "answer": "leap",
-            "normalized": "leap"
+            "id": "f417c2a5-8723-4445-bd01-443f966bb307",
+            "clue": "Mohawked, rock-loving, anti-authoritarians",
+            "answer": "punks",
+            "normalized": "punks"
           },
           {
-            "id": "57604cfe-01fa-4e54-9f47-d3fdf935332e",
-            "clue": "Was jealous of someone's achievements",
-            "answer": "envied",
-            "normalized": "envied"
+            "id": "3d185d1d-e70b-4005-9e14-492cb80805ba",
+            "clue": "Five-step model for developing training systems",
+            "answer": "addie",
+            "normalized": "addie"
           },
           {
-            "id": "803b4fab-8439-4cbe-81a6-6b465f20866b",
-            "clue": "Fabric covering of a shoe and trouser leg",
-            "answer": "gaiter",
-            "normalized": "gaiter"
+            "id": "65209cd7-79e7-4595-9c7c-9ec52d19c229",
+            "clue": "\"To infinity and beyond\" movie, Toy __",
+            "answer": "story",
+            "normalized": "story"
           },
           {
-            "id": "2d50aff8-bb65-473a-a1e3-beb7130d33da",
-            "clue": "Warrior-ascetic sect at the Kumbh Mela",
-            "answer": "naga",
-            "normalized": "naga"
-          },
-          {
-            "id": "1d023836-25fe-466c-bfb2-3747793756d7",
-            "clue": "Extravagant, luxurious fashion style",
-            "answer": "glam",
-            "normalized": "glam"
+            "id": "d237ce9d-7e8b-4e3e-84b5-01de5c3e5db5",
+            "clue": "Resorts with mineral springs",
+            "answer": "spas",
+            "normalized": "spas"
           }
         ],
-        "track": "PC|LenCinY2026M10D15F0V000"
+        "track": "PC|LenCinY2026M10D16F0V000"
       },
       "mid": {
-        "puzzleId": "dab68fbc-9922-46a6-9d19-ee28fd4f4f88",
+        "puzzleId": "80babbda-deea-44a5-a22e-9b47b6129c68",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "8a8bea18-8e39-4d53-86c8-1e9d07af35be",
-            "clue": "Cleopatra was familiar with these Egyptian cobras",
-            "answer": "asps",
-            "normalized": "asps"
+            "id": "1598d26d-3ab8-4f78-8ffc-4ac82fba2b62",
+            "clue": "Prof. Slughorn's first name in Harry Potter",
+            "answer": "horace",
+            "normalized": "horace"
           },
           {
-            "id": "599366a5-2898-4f92-9532-c341fe689d1d",
-            "clue": "Uncomfortable build-up of gas in the stomach",
-            "answer": "bloat",
-            "normalized": "bloat"
+            "id": "978ec40d-b108-413f-8a5b-5c4af6e9e6e4",
+            "clue": "Clear understanding of some area or industry",
+            "answer": "acumen",
+            "normalized": "acumen"
           },
           {
-            "id": "ba57b2b1-911f-4972-8365-6cbc97cd55e2",
-            "clue": "A kingly name for a majestic Indian elephant",
-            "answer": "gajraj",
-            "normalized": "gajraj"
+            "id": "bdd0a33a-d2c8-44d1-979a-444ef73a6c81",
+            "clue": "Italian musical direction meaning gentle, tender",
+            "answer": "amabile",
+            "normalized": "amabile"
           },
           {
-            "id": "e2bf7e90-8b45-4b5f-9f8a-ff675fac240f",
-            "clue": "Wilted, flopped",
-            "answer": "drooped",
-            "normalized": "drooped"
+            "id": "26dccf33-e648-4a87-a7f8-dcc422addb54",
+            "clue": "Prickly plant pod covered in hooks",
+            "answer": "bur",
+            "normalized": "bur"
           },
           {
-            "id": "b0cc30e1-28fa-4435-b36c-6fd121ba76b5",
-            "clue": "Guardian of Qur'an, Madrasah teachers",
-            "answer": "mullah",
-            "normalized": "mullah"
+            "id": "1064b6ac-a783-4b39-926c-0d6c7cb6e388",
+            "clue": "Slang for them, in song about bones, dry bones",
+            "answer": "dem",
+            "normalized": "dem"
           },
           {
-            "id": "f69ea507-3413-4270-9ea9-5708c04f5a68",
-            "clue": "The female lead opposite Rocky in K.G.F: Chapter 1",
-            "answer": "reena",
-            "normalized": "reena"
+            "id": "8a2bcc53-0fa5-4255-9604-a7c7a8c5a2f6",
+            "clue": "World's largest Chinese eCommerce firm, __ Group",
+            "answer": "alibaba",
+            "normalized": "alibaba"
           },
           {
-            "id": "ef603cc3-1262-400b-8b6a-8a8d131237b1",
-            "clue": "Loch __, Scottish lake with mythical monster",
-            "answer": "ness",
-            "normalized": "ness"
+            "id": "a1340d87-cda7-42fb-9032-404d07b7b96c",
+            "clue": "Carry out a task clumsily",
+            "answer": "bungle",
+            "normalized": "bungle"
           },
           {
-            "id": "7ac87c21-682a-47a6-8da9-0961e3a064d2",
-            "clue": "You thank me for screaming at you every morning",
-            "answer": "alarm",
-            "normalized": "alarm"
+            "id": "877004d6-ba25-428d-848f-e5c26cc19246",
+            "clue": "The word for \"postures\" in yoga",
+            "answer": "asanas",
+            "normalized": "asanas"
           },
           {
-            "id": "924bdbf9-1d14-46e7-986f-ecea1970756e",
-            "clue": "Originally a French term for a brief visit",
-            "answer": "sojourn",
-            "normalized": "sojourn"
+            "id": "34ad2559-798b-4322-a7ec-b1e1de322f23",
+            "clue": "Hook-shaped piece of bone found in the body",
+            "answer": "hamulus",
+            "normalized": "hamulus"
           },
           {
-            "id": "e60393c6-bcaa-4ecc-9483-1a6af7ecbd18",
-            "clue": "Prisoner released early under certain conditions",
-            "answer": "parolee",
-            "normalized": "parolee"
+            "id": "43d7b495-4fd9-42f3-baac-ba5e35f2918b",
+            "clue": "Link's egg-shaped flute in The Legend of Zelda",
+            "answer": "ocarina",
+            "normalized": "ocarina"
           },
           {
-            "id": "3bd7f23a-7bcf-4ec2-bea1-a390dcf03f5d",
-            "clue": "Tiny metal pieces that attach papers together",
-            "answer": "staples",
-            "normalized": "staples"
+            "id": "e3dcb4f7-f657-4cfa-9723-17475ac5ec3c",
+            "clue": "People do this to their eyes on waking",
+            "answer": "rub",
+            "normalized": "rub"
           },
           {
-            "id": "82a9fcb8-ddf1-4a53-8f26-26cfa637cff0",
-            "clue": "Three-letter code for Bangladesh",
-            "answer": "bgd",
-            "normalized": "bgd"
+            "id": "1e00cdf1-ca79-4118-a0bb-7ee38c6453ba",
+            "clue": "Queen __ thanks R2-D2 for his bravery in Episode 1",
+            "answer": "amidala",
+            "normalized": "amidala"
           },
           {
-            "id": "34dbeb62-b2e3-49b5-9127-71b993d38559",
-            "clue": "Beloved, versatile pair of pants",
-            "answer": "jeans",
-            "normalized": "jeans"
+            "id": "2b910e26-5b60-476b-84d3-fd0f5daf775b",
+            "clue": "Island of E Indonesia, now known as Sulawesi",
+            "answer": "celebes",
+            "normalized": "celebes"
           },
           {
-            "id": "30976ca4-e2f9-4927-a790-cb38eb5ddc53",
-            "clue": "Abbreviation for docosahexaenoic acid",
-            "answer": "dha",
-            "normalized": "dha"
+            "id": "a8307a4d-00f0-4656-bb76-2f27e65dddab",
+            "clue": "Cleansing procedure, also known as a clyster",
+            "answer": "enema",
+            "normalized": "enema"
+          },
+          {
+            "id": "1d702769-dbd6-4047-9629-d39d8850c677",
+            "clue": "Capital city of Ethiopia, Addis __",
+            "answer": "ababa",
+            "normalized": "ababa"
+          },
+          {
+            "id": "caba840e-1f16-4394-9f93-821d9f94f2de",
+            "clue": "Bulgarian lev ISO code",
+            "answer": "bgn",
+            "normalized": "bgn"
           }
         ],
-        "track": "PC|LenCinY2026M10D15F1V000"
+        "track": "PC|LenCinY2026M10D16F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-15",
+      "key": "2026-10-16",
       "year": 2026,
       "month": 10,
-      "day": 15,
+      "day": 16,
       "small": {
-        "puzzleId": "8091b324-e806-474d-a53f-6932c63ee974",
+        "puzzleId": "e5b9e632-e218-44c5-8788-730747033cae",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "cdfe1790-2de3-4db9-a4aa-1ec6202498dd",
-            "clue": "Expensive, it costs an arm and __",
-            "answer": "a leg",
-            "normalized": "aleg"
+            "id": "916c77c4-3865-436d-8941-e5c37e998ee0",
+            "clue": "Place for pampering and relaxation",
+            "answer": "spa",
+            "normalized": "spa"
           },
           {
-            "id": "903974b8-0400-4e6d-9f43-3cb1fbef1d52",
-            "clue": "__ Headey, Cersei Lannister in Game of Thrones",
-            "answer": "lena",
-            "normalized": "lena"
+            "id": "d078c810-aade-49a8-8dd0-b186c0272f7d",
+            "clue": "Horse used for breeding purposes",
+            "answer": "stud",
+            "normalized": "stud"
           },
           {
-            "id": "5d29d4c3-9d9c-44d2-b3c1-6976240a91f7",
-            "clue": "Covering ground with asphalt",
-            "answer": "paving",
-            "normalized": "paving"
+            "id": "917aad2e-c39b-4348-a02c-676e151666fc",
+            "clue": "1978 Stephen King pandemic novel, The __",
+            "answer": "stand",
+            "normalized": "stand"
           },
           {
-            "id": "9a110b6f-defb-4cae-9555-9a3bdc22ec41",
-            "clue": "Ancient hospital for those with contagious diseases",
-            "answer": "spital",
-            "normalized": "spital"
+            "id": "11df08cc-7f1b-4e2d-b512-726081a5b875",
+            "clue": "Uncut diamonds used in traditional gold jewelry",
+            "answer": "polki",
+            "normalized": "polki"
           },
           {
-            "id": "9ce24b45-a9d4-44b0-8b55-2c3d282e7660",
-            "clue": "S. S. Rajamouli's fantasy film about a housefly",
-            "answer": "eega",
-            "normalized": "eega"
+            "id": "d8b8732f-b9d1-42f4-a946-7f2c330f21ff",
+            "clue": "To come into existence",
+            "answer": "arise",
+            "normalized": "arise"
           },
           {
-            "id": "a9525300-5103-4a2b-97c7-199f58e4bd21",
-            "clue": "Small drink of whiskey",
-            "answer": "dram",
-            "normalized": "dram"
+            "id": "8f8c2f0a-20f0-485d-b077-d96726f5eff9",
+            "clue": "Prefix meaning with or together",
+            "answer": "syn",
+            "normalized": "syn"
           },
           {
-            "id": "2cb12062-4d15-4954-a2db-0c7f9a7a84a2",
-            "clue": "Mont Blanc is in this range",
-            "answer": "alps",
-            "normalized": "alps"
+            "id": "dcdd33ab-8974-4795-bd3b-5c88df3cf30e",
+            "clue": "He led the Soviet Union from the 1920s until 1953",
+            "answer": "stalin",
+            "normalized": "stalin"
           },
           {
-            "id": "348d87e9-ec49-432c-83ac-3e92d6be2b0d",
-            "clue": "Another word for jump; rhymes with peep",
-            "answer": "leap",
-            "normalized": "leap"
+            "id": "f417c2a5-8723-4445-bd01-443f966bb307",
+            "clue": "Mohawked, rock-loving, anti-authoritarians",
+            "answer": "punks",
+            "normalized": "punks"
           },
           {
-            "id": "57604cfe-01fa-4e54-9f47-d3fdf935332e",
-            "clue": "Was jealous of someone's achievements",
-            "answer": "envied",
-            "normalized": "envied"
+            "id": "3d185d1d-e70b-4005-9e14-492cb80805ba",
+            "clue": "Five-step model for developing training systems",
+            "answer": "addie",
+            "normalized": "addie"
           },
           {
-            "id": "803b4fab-8439-4cbe-81a6-6b465f20866b",
-            "clue": "Fabric covering of a shoe and trouser leg",
-            "answer": "gaiter",
-            "normalized": "gaiter"
+            "id": "65209cd7-79e7-4595-9c7c-9ec52d19c229",
+            "clue": "\"To infinity and beyond\" movie, Toy __",
+            "answer": "story",
+            "normalized": "story"
           },
           {
-            "id": "2d50aff8-bb65-473a-a1e3-beb7130d33da",
-            "clue": "Warrior-ascetic sect at the Kumbh Mela",
-            "answer": "naga",
-            "normalized": "naga"
-          },
-          {
-            "id": "1d023836-25fe-466c-bfb2-3747793756d7",
-            "clue": "Extravagant, luxurious fashion style",
-            "answer": "glam",
-            "normalized": "glam"
+            "id": "d237ce9d-7e8b-4e3e-84b5-01de5c3e5db5",
+            "clue": "Resorts with mineral springs",
+            "answer": "spas",
+            "normalized": "spas"
           }
         ],
-        "track": "PC|LenCinY2026M10D15F0V000"
+        "track": "PC|LenCinY2026M10D16F0V000"
       },
       "mid": {
-        "puzzleId": "dab68fbc-9922-46a6-9d19-ee28fd4f4f88",
+        "puzzleId": "80babbda-deea-44a5-a22e-9b47b6129c68",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "8a8bea18-8e39-4d53-86c8-1e9d07af35be",
-            "clue": "Cleopatra was familiar with these Egyptian cobras",
-            "answer": "asps",
-            "normalized": "asps"
+            "id": "1598d26d-3ab8-4f78-8ffc-4ac82fba2b62",
+            "clue": "Prof. Slughorn's first name in Harry Potter",
+            "answer": "horace",
+            "normalized": "horace"
           },
           {
-            "id": "599366a5-2898-4f92-9532-c341fe689d1d",
-            "clue": "Uncomfortable build-up of gas in the stomach",
-            "answer": "bloat",
-            "normalized": "bloat"
+            "id": "978ec40d-b108-413f-8a5b-5c4af6e9e6e4",
+            "clue": "Clear understanding of some area or industry",
+            "answer": "acumen",
+            "normalized": "acumen"
           },
           {
-            "id": "ba57b2b1-911f-4972-8365-6cbc97cd55e2",
-            "clue": "A kingly name for a majestic Indian elephant",
-            "answer": "gajraj",
-            "normalized": "gajraj"
+            "id": "bdd0a33a-d2c8-44d1-979a-444ef73a6c81",
+            "clue": "Italian musical direction meaning gentle, tender",
+            "answer": "amabile",
+            "normalized": "amabile"
           },
           {
-            "id": "e2bf7e90-8b45-4b5f-9f8a-ff675fac240f",
-            "clue": "Wilted, flopped",
-            "answer": "drooped",
-            "normalized": "drooped"
+            "id": "26dccf33-e648-4a87-a7f8-dcc422addb54",
+            "clue": "Prickly plant pod covered in hooks",
+            "answer": "bur",
+            "normalized": "bur"
           },
           {
-            "id": "b0cc30e1-28fa-4435-b36c-6fd121ba76b5",
-            "clue": "Guardian of Qur'an, Madrasah teachers",
-            "answer": "mullah",
-            "normalized": "mullah"
+            "id": "1064b6ac-a783-4b39-926c-0d6c7cb6e388",
+            "clue": "Slang for them, in song about bones, dry bones",
+            "answer": "dem",
+            "normalized": "dem"
           },
           {
-            "id": "f69ea507-3413-4270-9ea9-5708c04f5a68",
-            "clue": "The female lead opposite Rocky in K.G.F: Chapter 1",
-            "answer": "reena",
-            "normalized": "reena"
+            "id": "8a2bcc53-0fa5-4255-9604-a7c7a8c5a2f6",
+            "clue": "World's largest Chinese eCommerce firm, __ Group",
+            "answer": "alibaba",
+            "normalized": "alibaba"
           },
           {
-            "id": "ef603cc3-1262-400b-8b6a-8a8d131237b1",
-            "clue": "Loch __, Scottish lake with mythical monster",
-            "answer": "ness",
-            "normalized": "ness"
+            "id": "a1340d87-cda7-42fb-9032-404d07b7b96c",
+            "clue": "Carry out a task clumsily",
+            "answer": "bungle",
+            "normalized": "bungle"
           },
           {
-            "id": "7ac87c21-682a-47a6-8da9-0961e3a064d2",
-            "clue": "You thank me for screaming at you every morning",
-            "answer": "alarm",
-            "normalized": "alarm"
+            "id": "877004d6-ba25-428d-848f-e5c26cc19246",
+            "clue": "The word for \"postures\" in yoga",
+            "answer": "asanas",
+            "normalized": "asanas"
           },
           {
-            "id": "924bdbf9-1d14-46e7-986f-ecea1970756e",
-            "clue": "Originally a French term for a brief visit",
-            "answer": "sojourn",
-            "normalized": "sojourn"
+            "id": "34ad2559-798b-4322-a7ec-b1e1de322f23",
+            "clue": "Hook-shaped piece of bone found in the body",
+            "answer": "hamulus",
+            "normalized": "hamulus"
           },
           {
-            "id": "e60393c6-bcaa-4ecc-9483-1a6af7ecbd18",
-            "clue": "Prisoner released early under certain conditions",
-            "answer": "parolee",
-            "normalized": "parolee"
+            "id": "43d7b495-4fd9-42f3-baac-ba5e35f2918b",
+            "clue": "Link's egg-shaped flute in The Legend of Zelda",
+            "answer": "ocarina",
+            "normalized": "ocarina"
           },
           {
-            "id": "3bd7f23a-7bcf-4ec2-bea1-a390dcf03f5d",
-            "clue": "Tiny metal pieces that attach papers together",
-            "answer": "staples",
-            "normalized": "staples"
+            "id": "e3dcb4f7-f657-4cfa-9723-17475ac5ec3c",
+            "clue": "People do this to their eyes on waking",
+            "answer": "rub",
+            "normalized": "rub"
           },
           {
-            "id": "82a9fcb8-ddf1-4a53-8f26-26cfa637cff0",
-            "clue": "Three-letter code for Bangladesh",
-            "answer": "bgd",
-            "normalized": "bgd"
+            "id": "1e00cdf1-ca79-4118-a0bb-7ee38c6453ba",
+            "clue": "Queen __ thanks R2-D2 for his bravery in Episode 1",
+            "answer": "amidala",
+            "normalized": "amidala"
           },
           {
-            "id": "34dbeb62-b2e3-49b5-9127-71b993d38559",
-            "clue": "Beloved, versatile pair of pants",
-            "answer": "jeans",
-            "normalized": "jeans"
+            "id": "2b910e26-5b60-476b-84d3-fd0f5daf775b",
+            "clue": "Island of E Indonesia, now known as Sulawesi",
+            "answer": "celebes",
+            "normalized": "celebes"
           },
           {
-            "id": "30976ca4-e2f9-4927-a790-cb38eb5ddc53",
-            "clue": "Abbreviation for docosahexaenoic acid",
-            "answer": "dha",
-            "normalized": "dha"
+            "id": "a8307a4d-00f0-4656-bb76-2f27e65dddab",
+            "clue": "Cleansing procedure, also known as a clyster",
+            "answer": "enema",
+            "normalized": "enema"
+          },
+          {
+            "id": "1d702769-dbd6-4047-9629-d39d8850c677",
+            "clue": "Capital city of Ethiopia, Addis __",
+            "answer": "ababa",
+            "normalized": "ababa"
+          },
+          {
+            "id": "caba840e-1f16-4394-9f93-821d9f94f2de",
+            "clue": "Bulgarian lev ISO code",
+            "answer": "bgn",
+            "normalized": "bgn"
           }
         ],
-        "track": "PC|LenCinY2026M10D15F1V000"
+        "track": "PC|LenCinY2026M10D16F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383304,21 +383316,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "+TTecGECGsCIGzn6zAvADVuvOvs6XjnYXW8bgA4hS+nHuTR3KxykJJ8oYSeXIfzhnJpZfxztpPIKL6pvRRgHaJVKMfms/1aBAt+8AwBL7HnwiFsfxzvG0g2zyvTo+PXKPKSiEAB6CDzI4rY0Qa0mmW7vuD6I/LF423L0sTpGbXJAiyzI/z/mvuo+5/ASEzAgv0C0KoGM7bI+SBvgGIe3gbZr7PGGJikqd6UImb7CMSt6sKFvtg4k1Azv2a4WMkzR96rqONGEcvh5NetiVQmKZyYJcnHyEko5DzzlaPGnvrw="
+        "4ahRfjbT5BltNh7vTlhQGQZ7LO8lbNnMTWirbE8Qc8f+OR8Ond6668xG/F5MboLUxW6e0Sea6rWMkj17+uamue9UjxcYvBWbewyPdmRBHm+gaT1cbyVp8JKdkJrNMdCmHx8r3jKvgQqNCqXFrSGTHMWtbnCcswfiWzfDbM2qQgkPcIKLxHyzqrpv91bBuf7VcazZVTiLrY0t1DnLWB1pi7BuOk3Fay78UoYiY/nd7U/I9SMAtD+Q5p0Q6EzUrNuY8W6gt16N2yzc3IeozIKI2cgdEpjRFaEBOLC8qNcdB5k="
       ]
     },
     "decrypted": {
-      "Id": "2ab547dc-d3d0-4bee-98d6-211a2759dc8a",
-      "Date": "2026-10-15T00:00:00Z",
+      "Id": "77450290-f941-4b83-93f9-684fa66aef18",
+      "Date": "2026-10-16T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "tweak",
-      "NormalizedPassword": "tweak",
+      "Password": "small",
+      "NormalizedPassword": "small",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-15T03:19:55.7780000+05:30",
-    "hash": "d13b86c26b0c2526e297bb5eef7d5d70",
+    "dtu": "2026-10-16T03:04:09.7610000+05:30",
+    "hash": "f644552ba2f8ed1eb1f06adeae4776a1",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
