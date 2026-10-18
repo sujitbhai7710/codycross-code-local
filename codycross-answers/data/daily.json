@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T20:46:22.393Z",
+  "generatedAt": "2026-10-18T20:55:36.844Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 18
+    "day": 19
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 32
+        "QuantidadeDeFases": 34
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -382738,343 +382738,379 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-18",
+      "key": "2026-10-19",
       "year": 2026,
       "month": 10,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "ecfbda02-c472-4ba1-9f4c-702e53b34246",
+        "puzzleId": "65e8256c-e54b-41f7-9715-814e08934e77",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "0287f2c7-446d-4c84-b285-358abf176faa",
-            "clue": "Aquatic salamander also called proteus",
-            "answer": "olm",
-            "normalized": "olm"
+            "id": "4eb55072-8d9f-44e0-8496-689f8adc4f5f",
+            "clue": "Abbreviated and informal term for Christmas",
+            "answer": "xmas",
+            "normalized": "xmas"
           },
           {
-            "id": "99d2eef5-b7b5-4637-b580-761ea39d88d3",
-            "clue": "Company that operates Kempegowda Airport",
-            "answer": "bial",
-            "normalized": "bial"
+            "id": "eeb9f8fc-eb46-49c0-9f52-fa161a3c12f4",
+            "clue": "Famous actress who played Ashima in The Namesake",
+            "answer": "tabu",
+            "normalized": "tabu"
           },
           {
-            "id": "9ba2b307-1713-4480-acf2-ca4023bd7133",
-            "clue": "The Open Society Foundation philanthropist, George",
-            "answer": "soros",
-            "normalized": "soros"
+            "id": "2dd5dc16-52b1-4746-93f6-047d1d12cacd",
+            "clue": "Crustaceans with 10 legs, the first 2 being claws",
+            "answer": "crabs",
+            "normalized": "crabs"
           },
           {
-            "id": "619318b1-def7-49db-8e84-d94a8fae9df9",
-            "clue": "Singer Simone of To Be Young, Gifted and Black",
-            "answer": "nina",
-            "normalized": "nina"
+            "id": "d5067a49-e527-4068-9269-2693bd98b895",
+            "clue": "Confessions of a Shopaholic star __ Fisher",
+            "answer": "isla",
+            "normalized": "isla"
           },
           {
-            "id": "246e817b-c3b0-43da-861b-6570a9102070",
-            "clue": "Consume food",
-            "answer": "eat",
-            "normalized": "eat"
+            "id": "bcf43026-fd51-404b-86de-52fc39bc3b8f",
+            "clue": "Medical exam students prep for",
+            "answer": "neet",
+            "normalized": "neet"
           },
           {
-            "id": "6ac4f354-372c-41e4-ad1b-8938ba9427a9",
-            "clue": "Abbreviation for obstetricians",
-            "answer": "obs",
-            "normalized": "obs"
+            "id": "5736447b-5254-4180-9f3e-857d345c28dd",
+            "clue": "__ spumante, a sparkling Italian wine",
+            "answer": "asti",
+            "normalized": "asti"
           },
           {
-            "id": "361253f5-83fe-4363-9861-03c58d2ad248",
-            "clue": "Animal making up the bottom half of a griffin",
-            "answer": "lion",
-            "normalized": "lion"
+            "id": "10d9ae47-b632-4cd2-a09b-e45a71c29cf3",
+            "clue": "English rock band fronted by Andy Partridge",
+            "answer": "xtc",
+            "normalized": "xtc"
           },
           {
-            "id": "a822a625-ab38-41a2-b405-71a8e181ac8a",
-            "clue": "Female kitten from Disney's The Aristocats",
-            "answer": "marie",
-            "normalized": "marie"
+            "id": "ec142e9f-b1a6-4c49-ab61-cadf28f9b3eb",
+            "clue": "A mooring harbour for pleasure boats",
+            "answer": "marina",
+            "normalized": "marina"
           },
           {
-            "id": "cd30aa9a-e7fd-4381-8700-69b14bcf50ce",
-            "clue": "A bonus point in Atya Patya is called this",
-            "answer": "lona",
-            "normalized": "lona"
+            "id": "d721d9eb-561c-4d78-93af-7540c320c79d",
+            "clue": "Behaves in a way that belittles someone",
+            "answer": "abases",
+            "normalized": "abases"
           },
           {
-            "id": "eff582fa-4eff-4ff6-be66-b640930d85e1",
-            "clue": "Positioned; took a seat",
-            "answer": "sat",
-            "normalized": "sat"
+            "id": "e81dbb55-7674-40ba-92b6-96205b75a4dc",
+            "clue": "Rental arrangement from one tenant to another",
+            "answer": "sublet",
+            "normalized": "sublet"
+          },
+          {
+            "id": "792d2a97-8c73-44d0-8e77-ca070b67fedc",
+            "clue": "Goddess whose eye fell at Nainital Lake",
+            "answer": "sati",
+            "normalized": "sati"
           }
         ],
-        "track": "PC|LenCinY2026M10D18F0V000"
+        "track": "PC|LenCinY2026M10D19F0V000"
       },
       "mid": {
-        "puzzleId": "49cfb8b1-c3eb-4f71-a95e-5346fdc8e685",
+        "puzzleId": "5ee75d90-0e44-4fa9-abcb-9759184571b2",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "8c9c812c-3922-4244-ad05-51304c5613a8",
-            "clue": "Chemical formula for beryllium oxide",
-            "answer": "beo",
-            "normalized": "beo"
+            "id": "63210eff-5013-4a81-a492-6b9be07ddef0",
+            "clue": "Secure form of file transfer protocol",
+            "answer": "ftps",
+            "normalized": "ftps"
           },
           {
-            "id": "5777c5c9-1d48-41fc-ab2b-80bae2643a36",
-            "clue": "Boxing weight division of 115-118 pounds",
-            "answer": "bantam",
-            "normalized": "bantam"
+            "id": "01e9e1e2-151f-4234-ab92-98d8a38833dc",
+            "clue": "Unifying religion founded in 19th century Iran",
+            "answer": "bahai",
+            "normalized": "bahai"
           },
           {
-            "id": "fc3f1c70-f882-458a-bbf7-0dcea921b1b7",
-            "clue": "Microsoft's AI assistant, was discontinued in 2023",
-            "answer": "cortana",
-            "normalized": "cortana"
+            "id": "b6ec3875-7f5d-451f-aefa-bd3571ff17a4",
+            "clue": "Mountain with highest elevation above sea level",
+            "answer": "everest",
+            "normalized": "everest"
           },
           {
-            "id": "3d5c013e-ab02-48fe-ab08-1eb7d9f69462",
-            "clue": "Pretty Woman star, Julia __",
-            "answer": "roberts",
-            "normalized": "roberts"
+            "id": "1839c6d5-6553-4957-86ce-23850c5d513a",
+            "clue": "Any other business, in meeting minutes",
+            "answer": "aob",
+            "normalized": "aob"
           },
           {
-            "id": "1c9d5279-ffec-4e51-8976-784084ff3eda",
-            "clue": "Most subscribed-to channel on YouTube in 2024",
-            "answer": "t-series",
-            "normalized": "tseries"
+            "id": "3d1f8be2-8d0a-4b69-ba96-c8c758317947",
+            "clue": "Greek letter that looks like a P",
+            "answer": "rho",
+            "normalized": "rho"
           },
           {
-            "id": "37e015bf-a538-4c1e-8722-73a7a550a73c",
-            "clue": "To leave a boat on a shore",
-            "answer": "strand",
-            "normalized": "strand"
+            "id": "a427caed-8d45-4d02-8f9f-f94eb98672e5",
+            "clue": "Bhavish Aggarwal's new AI venture",
+            "answer": "krutrim",
+            "normalized": "krutrim"
           },
           {
-            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
-            "clue": "Currency code for the Sierra Leonean leone",
-            "answer": "sle",
-            "normalized": "sle"
+            "id": "75dcce8c-a3f7-40cf-8279-1b66f4f41885",
+            "clue": "Flies high overhead",
+            "answer": "soars",
+            "normalized": "soars"
           },
           {
-            "id": "cd2fde11-9d1f-4079-8930-4e3a44ba250f",
-            "clue": "Hairdressers specialising in men's hair",
-            "answer": "barbers",
-            "normalized": "barbers"
+            "id": "42adfbec-2a64-4a05-a79e-dd483a29dab5",
+            "clue": "Water's conduit from a fire truck",
+            "answer": "hose",
+            "normalized": "hose"
           },
           {
-            "id": "585e6a7f-cdc3-4c01-aa62-d8ed793dfd42",
-            "clue": "Involving the intestine",
-            "answer": "enteral",
-            "normalized": "enteral"
+            "id": "0fca6c43-eabb-4ab3-883e-5e74da6b4553",
+            "clue": "A good deed meant to be repaid",
+            "answer": "favor",
+            "normalized": "favor"
           },
           {
-            "id": "6a52cc42-bea0-468e-bf2a-63a9373447bb",
-            "clue": "Of or relating to sea lions",
-            "answer": "otarine",
-            "normalized": "otarine"
+            "id": "29891a50-a8cf-4f7c-903c-9a18d9824b9e",
+            "clue": "People beat around this when avoiding an issue",
+            "answer": "the bush",
+            "normalized": "thebush"
           },
           {
-            "id": "cd440f47-be44-4788-a33a-c20ca64e2b80",
-            "clue": "Give extra power or encouragement to",
-            "answer": "boost",
-            "normalized": "boost"
+            "id": "0883f714-b68d-480f-bc2d-cce268e57c48",
+            "clue": "Be on this for a level score in golf",
+            "answer": "par",
+            "normalized": "par"
           },
           {
-            "id": "7efbab2f-e374-4c84-b748-b45f879450fb",
-            "clue": "Placed your initial stake in the poker pot",
-            "answer": "anted",
-            "normalized": "anted"
+            "id": "cb4966cb-2e80-484e-9a7f-91f3ffe66b48",
+            "clue": "Long jagged mountain chains, in Spain or the US",
+            "answer": "sierras",
+            "normalized": "sierras"
           },
           {
-            "id": "46973856-9698-4d51-9440-435ab6f1504c",
-            "clue": "M in E=MC2",
-            "answer": "mass",
-            "normalized": "mass"
+            "id": "2e56d4bb-b40c-4c1c-be59-f1da3d7240e0",
+            "clue": "Bird's bill; person's nose",
+            "answer": "beak",
+            "normalized": "beak"
           },
           {
-            "id": "12ddb488-ca98-4c1b-b951-68f78129e160",
-            "clue": "Initialism for cathode ray tubes",
-            "answer": "crts",
-            "normalized": "crts"
+            "id": "9a77705c-85c8-4f08-b92b-058dda6fa57c",
+            "clue": "Region where Tolkien's hobbits live",
+            "answer": "shire",
+            "normalized": "shire"
+          },
+          {
+            "id": "be9ed8fc-10c5-41f6-ad17-d3ce09b15794",
+            "clue": "Male cats",
+            "answer": "toms",
+            "normalized": "toms"
+          },
+          {
+            "id": "8f0cf691-ea27-44b8-898a-c1ddb764bbb7",
+            "clue": "In addition to others",
+            "answer": "too",
+            "normalized": "too"
           }
         ],
-        "track": "PC|LenCinY2026M10D18F1V000"
+        "track": "PC|LenCinY2026M10D19F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-18",
+      "key": "2026-10-19",
       "year": 2026,
       "month": 10,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "ecfbda02-c472-4ba1-9f4c-702e53b34246",
+        "puzzleId": "65e8256c-e54b-41f7-9715-814e08934e77",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "0287f2c7-446d-4c84-b285-358abf176faa",
-            "clue": "Aquatic salamander also called proteus",
-            "answer": "olm",
-            "normalized": "olm"
+            "id": "4eb55072-8d9f-44e0-8496-689f8adc4f5f",
+            "clue": "Abbreviated and informal term for Christmas",
+            "answer": "xmas",
+            "normalized": "xmas"
           },
           {
-            "id": "99d2eef5-b7b5-4637-b580-761ea39d88d3",
-            "clue": "Company that operates Kempegowda Airport",
-            "answer": "bial",
-            "normalized": "bial"
+            "id": "eeb9f8fc-eb46-49c0-9f52-fa161a3c12f4",
+            "clue": "Famous actress who played Ashima in The Namesake",
+            "answer": "tabu",
+            "normalized": "tabu"
           },
           {
-            "id": "9ba2b307-1713-4480-acf2-ca4023bd7133",
-            "clue": "The Open Society Foundation philanthropist, George",
-            "answer": "soros",
-            "normalized": "soros"
+            "id": "2dd5dc16-52b1-4746-93f6-047d1d12cacd",
+            "clue": "Crustaceans with 10 legs, the first 2 being claws",
+            "answer": "crabs",
+            "normalized": "crabs"
           },
           {
-            "id": "619318b1-def7-49db-8e84-d94a8fae9df9",
-            "clue": "Singer Simone of To Be Young, Gifted and Black",
-            "answer": "nina",
-            "normalized": "nina"
+            "id": "d5067a49-e527-4068-9269-2693bd98b895",
+            "clue": "Confessions of a Shopaholic star __ Fisher",
+            "answer": "isla",
+            "normalized": "isla"
           },
           {
-            "id": "246e817b-c3b0-43da-861b-6570a9102070",
-            "clue": "Consume food",
-            "answer": "eat",
-            "normalized": "eat"
+            "id": "bcf43026-fd51-404b-86de-52fc39bc3b8f",
+            "clue": "Medical exam students prep for",
+            "answer": "neet",
+            "normalized": "neet"
           },
           {
-            "id": "6ac4f354-372c-41e4-ad1b-8938ba9427a9",
-            "clue": "Abbreviation for obstetricians",
-            "answer": "obs",
-            "normalized": "obs"
+            "id": "5736447b-5254-4180-9f3e-857d345c28dd",
+            "clue": "__ spumante, a sparkling Italian wine",
+            "answer": "asti",
+            "normalized": "asti"
           },
           {
-            "id": "361253f5-83fe-4363-9861-03c58d2ad248",
-            "clue": "Animal making up the bottom half of a griffin",
-            "answer": "lion",
-            "normalized": "lion"
+            "id": "10d9ae47-b632-4cd2-a09b-e45a71c29cf3",
+            "clue": "English rock band fronted by Andy Partridge",
+            "answer": "xtc",
+            "normalized": "xtc"
           },
           {
-            "id": "a822a625-ab38-41a2-b405-71a8e181ac8a",
-            "clue": "Female kitten from Disney's The Aristocats",
-            "answer": "marie",
-            "normalized": "marie"
+            "id": "ec142e9f-b1a6-4c49-ab61-cadf28f9b3eb",
+            "clue": "A mooring harbour for pleasure boats",
+            "answer": "marina",
+            "normalized": "marina"
           },
           {
-            "id": "cd30aa9a-e7fd-4381-8700-69b14bcf50ce",
-            "clue": "A bonus point in Atya Patya is called this",
-            "answer": "lona",
-            "normalized": "lona"
+            "id": "d721d9eb-561c-4d78-93af-7540c320c79d",
+            "clue": "Behaves in a way that belittles someone",
+            "answer": "abases",
+            "normalized": "abases"
           },
           {
-            "id": "eff582fa-4eff-4ff6-be66-b640930d85e1",
-            "clue": "Positioned; took a seat",
-            "answer": "sat",
-            "normalized": "sat"
+            "id": "e81dbb55-7674-40ba-92b6-96205b75a4dc",
+            "clue": "Rental arrangement from one tenant to another",
+            "answer": "sublet",
+            "normalized": "sublet"
+          },
+          {
+            "id": "792d2a97-8c73-44d0-8e77-ca070b67fedc",
+            "clue": "Goddess whose eye fell at Nainital Lake",
+            "answer": "sati",
+            "normalized": "sati"
           }
         ],
-        "track": "PC|LenCinY2026M10D18F0V000"
+        "track": "PC|LenCinY2026M10D19F0V000"
       },
       "mid": {
-        "puzzleId": "49cfb8b1-c3eb-4f71-a95e-5346fdc8e685",
+        "puzzleId": "5ee75d90-0e44-4fa9-abcb-9759184571b2",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "8c9c812c-3922-4244-ad05-51304c5613a8",
-            "clue": "Chemical formula for beryllium oxide",
-            "answer": "beo",
-            "normalized": "beo"
+            "id": "63210eff-5013-4a81-a492-6b9be07ddef0",
+            "clue": "Secure form of file transfer protocol",
+            "answer": "ftps",
+            "normalized": "ftps"
           },
           {
-            "id": "5777c5c9-1d48-41fc-ab2b-80bae2643a36",
-            "clue": "Boxing weight division of 115-118 pounds",
-            "answer": "bantam",
-            "normalized": "bantam"
+            "id": "01e9e1e2-151f-4234-ab92-98d8a38833dc",
+            "clue": "Unifying religion founded in 19th century Iran",
+            "answer": "bahai",
+            "normalized": "bahai"
           },
           {
-            "id": "fc3f1c70-f882-458a-bbf7-0dcea921b1b7",
-            "clue": "Microsoft's AI assistant, was discontinued in 2023",
-            "answer": "cortana",
-            "normalized": "cortana"
+            "id": "b6ec3875-7f5d-451f-aefa-bd3571ff17a4",
+            "clue": "Mountain with highest elevation above sea level",
+            "answer": "everest",
+            "normalized": "everest"
           },
           {
-            "id": "3d5c013e-ab02-48fe-ab08-1eb7d9f69462",
-            "clue": "Pretty Woman star, Julia __",
-            "answer": "roberts",
-            "normalized": "roberts"
+            "id": "1839c6d5-6553-4957-86ce-23850c5d513a",
+            "clue": "Any other business, in meeting minutes",
+            "answer": "aob",
+            "normalized": "aob"
           },
           {
-            "id": "1c9d5279-ffec-4e51-8976-784084ff3eda",
-            "clue": "Most subscribed-to channel on YouTube in 2024",
-            "answer": "t-series",
-            "normalized": "tseries"
+            "id": "3d1f8be2-8d0a-4b69-ba96-c8c758317947",
+            "clue": "Greek letter that looks like a P",
+            "answer": "rho",
+            "normalized": "rho"
           },
           {
-            "id": "37e015bf-a538-4c1e-8722-73a7a550a73c",
-            "clue": "To leave a boat on a shore",
-            "answer": "strand",
-            "normalized": "strand"
+            "id": "a427caed-8d45-4d02-8f9f-f94eb98672e5",
+            "clue": "Bhavish Aggarwal's new AI venture",
+            "answer": "krutrim",
+            "normalized": "krutrim"
           },
           {
-            "id": "48e9d602-8039-4a96-97d6-23a39de1e8cb",
-            "clue": "Currency code for the Sierra Leonean leone",
-            "answer": "sle",
-            "normalized": "sle"
+            "id": "75dcce8c-a3f7-40cf-8279-1b66f4f41885",
+            "clue": "Flies high overhead",
+            "answer": "soars",
+            "normalized": "soars"
           },
           {
-            "id": "cd2fde11-9d1f-4079-8930-4e3a44ba250f",
-            "clue": "Hairdressers specialising in men's hair",
-            "answer": "barbers",
-            "normalized": "barbers"
+            "id": "42adfbec-2a64-4a05-a79e-dd483a29dab5",
+            "clue": "Water's conduit from a fire truck",
+            "answer": "hose",
+            "normalized": "hose"
           },
           {
-            "id": "585e6a7f-cdc3-4c01-aa62-d8ed793dfd42",
-            "clue": "Involving the intestine",
-            "answer": "enteral",
-            "normalized": "enteral"
+            "id": "0fca6c43-eabb-4ab3-883e-5e74da6b4553",
+            "clue": "A good deed meant to be repaid",
+            "answer": "favor",
+            "normalized": "favor"
           },
           {
-            "id": "6a52cc42-bea0-468e-bf2a-63a9373447bb",
-            "clue": "Of or relating to sea lions",
-            "answer": "otarine",
-            "normalized": "otarine"
+            "id": "29891a50-a8cf-4f7c-903c-9a18d9824b9e",
+            "clue": "People beat around this when avoiding an issue",
+            "answer": "the bush",
+            "normalized": "thebush"
           },
           {
-            "id": "cd440f47-be44-4788-a33a-c20ca64e2b80",
-            "clue": "Give extra power or encouragement to",
-            "answer": "boost",
-            "normalized": "boost"
+            "id": "0883f714-b68d-480f-bc2d-cce268e57c48",
+            "clue": "Be on this for a level score in golf",
+            "answer": "par",
+            "normalized": "par"
           },
           {
-            "id": "7efbab2f-e374-4c84-b748-b45f879450fb",
-            "clue": "Placed your initial stake in the poker pot",
-            "answer": "anted",
-            "normalized": "anted"
+            "id": "cb4966cb-2e80-484e-9a7f-91f3ffe66b48",
+            "clue": "Long jagged mountain chains, in Spain or the US",
+            "answer": "sierras",
+            "normalized": "sierras"
           },
           {
-            "id": "46973856-9698-4d51-9440-435ab6f1504c",
-            "clue": "M in E=MC2",
-            "answer": "mass",
-            "normalized": "mass"
+            "id": "2e56d4bb-b40c-4c1c-be59-f1da3d7240e0",
+            "clue": "Bird's bill; person's nose",
+            "answer": "beak",
+            "normalized": "beak"
           },
           {
-            "id": "12ddb488-ca98-4c1b-b951-68f78129e160",
-            "clue": "Initialism for cathode ray tubes",
-            "answer": "crts",
-            "normalized": "crts"
+            "id": "9a77705c-85c8-4f08-b92b-058dda6fa57c",
+            "clue": "Region where Tolkien's hobbits live",
+            "answer": "shire",
+            "normalized": "shire"
+          },
+          {
+            "id": "be9ed8fc-10c5-41f6-ad17-d3ce09b15794",
+            "clue": "Male cats",
+            "answer": "toms",
+            "normalized": "toms"
+          },
+          {
+            "id": "8f0cf691-ea27-44b8-898a-c1ddb764bbb7",
+            "clue": "In addition to others",
+            "answer": "too",
+            "normalized": "too"
           }
         ],
-        "track": "PC|LenCinY2026M10D18F1V000"
+        "track": "PC|LenCinY2026M10D19F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383280,21 +383316,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "8OHCFirHk0QGML9nzZ67uzFb1IBKdjEWyPptyK4iQ61suDje3eomwcYaFaAi+Ih9k2OMP0zh6Ar/c4CyCo72WSicI0CGmtsPYB9+uPkoR8xk645HdoXDqliQ2TjIKyOAYySYwmdpy2pul88D6J7ei+5FuXt6DQ69XNX9bGMCe9sNFr5aJn2ZCTpLwuQKtGlTFwKEcrm+5OkU/h2YZ3e/oQz0Y4CKThXQKKxLwhM0FMAzhzUHxcZ7x1TwCZU1/6I1TVbkCRbLRLRSyPwolxQkIJGxfBlOWpdnh31tM1kDN/w="
+        "OeD5qeJ09zEgQ9Oxhrx+Snz83SFTKOcuYJczYdX0QvnV3zxJt9T+jV8HjxDwtdSaRbxcU8EK5ePhiFUxYbaUmJ/eNMYdeQTIFPvWy7/pSHZmbNj0stHDXS9yaew5SpRbeOihMk6LrEjxoOcjDf55Wthp7swNHVh8lqRm5kV3MGb/2M++v3SBvY175iUYIknuSfrf84cpoeKSWtOYsQXBZf7J5MzEHtQ3quU9rMDGv6BuxL9ZPKPJmbDzZhYBMGci6GDDi4xoD3Rpj6CrPvAxSABHDtfLF65Mx5C1nny3FXk="
       ]
     },
     "decrypted": {
-      "Id": "9749e3b0-81ba-4dec-915d-9e6dd7aeecbf",
-      "Date": "2026-10-18T00:00:00Z",
+      "Id": "47d9ba09-cbf4-43b9-affc-e7718efbba3b",
+      "Date": "2026-10-19T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "toner",
-      "NormalizedPassword": "toner",
+      "Password": "vivid",
+      "NormalizedPassword": "vivid",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-18T02:16:22.3930000+05:30",
-    "hash": "f93142955c40a80e53b7155909ad53b2",
+    "dtu": "2026-10-19T02:25:36.8440000+05:30",
+    "hash": "dcfea5a7b552fe9b23ee7c0e0fa99d49",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
