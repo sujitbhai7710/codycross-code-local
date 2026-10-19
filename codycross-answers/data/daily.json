@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T20:55:36.844Z",
+  "generatedAt": "2026-10-19T22:31:06.337Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 19
+    "day": 20
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 34
+        "QuantidadeDeFases": 36
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -82109,7 +82109,7 @@
             },
             {
               "id": "c4eae87f-6e0a-4571-be4a-3d2f5c141a17",
-              "clue": "Slopes, is at an angle",
+              "clue": "Slopes, leans at an angle",
               "answer": "slants",
               "normalized": "slants"
             },
@@ -309107,7 +309107,7 @@
             },
             {
               "id": "1290e501-c15c-4844-9bff-bffc63f03678",
-              "clue": "Where couples meet to get married",
+              "clue": "Lead someone to the __ means to get married",
               "answer": "altar",
               "normalized": "altar"
             },
@@ -382738,379 +382738,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-19",
+      "key": "2026-10-20",
       "year": 2026,
       "month": 10,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "65e8256c-e54b-41f7-9715-814e08934e77",
+        "puzzleId": "0f2852c4-0846-4a21-a39b-f84636c87901",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4eb55072-8d9f-44e0-8496-689f8adc4f5f",
-            "clue": "Abbreviated and informal term for Christmas",
-            "answer": "xmas",
-            "normalized": "xmas"
+            "id": "d6a7cdcb-7028-42c1-b3b2-fdd7e5093336",
+            "clue": "Nicholas I and Ivan the Terrible's title",
+            "answer": "tsar",
+            "normalized": "tsar"
           },
           {
-            "id": "eeb9f8fc-eb46-49c0-9f52-fa161a3c12f4",
-            "clue": "Famous actress who played Ashima in The Namesake",
-            "answer": "tabu",
-            "normalized": "tabu"
+            "id": "ab1c6be8-d770-41bd-8cf9-ed2a0d5915f6",
+            "clue": "Binary image mapping unit for pixels",
+            "answer": "bitmap",
+            "normalized": "bitmap"
           },
           {
-            "id": "2dd5dc16-52b1-4746-93f6-047d1d12cacd",
-            "clue": "Crustaceans with 10 legs, the first 2 being claws",
-            "answer": "crabs",
-            "normalized": "crabs"
+            "id": "1c28c5c3-6814-4e3b-bc1c-40b9fa84c7ef",
+            "clue": "When you reach your destination, you __",
+            "answer": "arrive",
+            "normalized": "arrive"
           },
           {
-            "id": "d5067a49-e527-4068-9269-2693bd98b895",
-            "clue": "Confessions of a Shopaholic star __ Fisher",
-            "answer": "isla",
-            "normalized": "isla"
+            "id": "ea9ce979-f808-4795-8c27-2ddb089ab4fe",
+            "clue": "Woody vines for swinging through the rainforest",
+            "answer": "lianas",
+            "normalized": "lianas"
           },
           {
-            "id": "bcf43026-fd51-404b-86de-52fc39bc3b8f",
-            "clue": "Medical exam students prep for",
-            "answer": "neet",
-            "normalized": "neet"
+            "id": "e8631da3-060f-4e9f-8a27-ed5eb648b532",
+            "clue": "Invisible image, exposed to light, not developed",
+            "answer": "latent",
+            "normalized": "latent"
           },
           {
-            "id": "5736447b-5254-4180-9f3e-857d345c28dd",
-            "clue": "__ spumante, a sparkling Italian wine",
-            "answer": "asti",
-            "normalized": "asti"
+            "id": "52f8ae66-743d-44f7-bdae-5855fb7a57b0",
+            "clue": "Organisation that launched the Apollo mission",
+            "answer": "nasa",
+            "normalized": "nasa"
           },
           {
-            "id": "10d9ae47-b632-4cd2-a09b-e45a71c29cf3",
-            "clue": "English rock band fronted by Andy Partridge",
-            "answer": "xtc",
-            "normalized": "xtc"
+            "id": "b3ad29ef-7f43-4338-9e0a-e4ef9b561cf7",
+            "clue": "Protagonist in The Last Battle by C.S. Lewis",
+            "answer": "tirian",
+            "normalized": "tirian"
           },
           {
-            "id": "ec142e9f-b1a6-4c49-ab61-cadf28f9b3eb",
-            "clue": "A mooring harbour for pleasure boats",
-            "answer": "marina",
-            "normalized": "marina"
+            "id": "e6f54072-0d4d-4329-945a-0be25b05a611",
+            "clue": "Layers of rock in the ground",
+            "answer": "strata",
+            "normalized": "strata"
           },
           {
-            "id": "d721d9eb-561c-4d78-93af-7540c320c79d",
-            "clue": "Behaves in a way that belittles someone",
-            "answer": "abases",
-            "normalized": "abases"
+            "id": "c7b042db-2cbf-42a1-84d9-c95a966bb849",
+            "clue": "Chemical compounds that can be alkyl or aromatic",
+            "answer": "amines",
+            "normalized": "amines"
           },
           {
-            "id": "e81dbb55-7674-40ba-92b6-96205b75a4dc",
-            "clue": "Rental arrangement from one tenant to another",
-            "answer": "sublet",
-            "normalized": "sublet"
+            "id": "49b5c599-fcf0-4a67-86ca-433e3977b88a",
+            "clue": "The killer's theme in Breathe: Into the Shadows",
+            "answer": "ravana",
+            "normalized": "ravana"
           },
           {
-            "id": "792d2a97-8c73-44d0-8e77-ca070b67fedc",
-            "clue": "Goddess whose eye fell at Nainital Lake",
-            "answer": "sati",
-            "normalized": "sati"
+            "id": "54ba18c4-bfea-4827-83b0-0d72b3e3cd5d",
+            "clue": "Get the __ rolling",
+            "answer": "ball",
+            "normalized": "ball"
+          },
+          {
+            "id": "58291b92-c5cd-42ef-bf92-14ad002c3ec3",
+            "clue": "Annoyance or nuisance",
+            "answer": "pest",
+            "normalized": "pest"
           }
         ],
-        "track": "PC|LenCinY2026M10D19F0V000"
+        "track": "PC|LenCinY2026M10D20F0V000"
       },
       "mid": {
-        "puzzleId": "5ee75d90-0e44-4fa9-abcb-9759184571b2",
+        "puzzleId": "5a9fb5ab-ad38-4c1e-a82a-fe2e468fb5e2",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "63210eff-5013-4a81-a492-6b9be07ddef0",
-            "clue": "Secure form of file transfer protocol",
-            "answer": "ftps",
-            "normalized": "ftps"
+            "id": "317b0f11-140d-4db5-b166-7201bbfc660a",
+            "clue": "Denoting an ideology or doctrine",
+            "answer": "ism",
+            "normalized": "ism"
           },
           {
-            "id": "01e9e1e2-151f-4234-ab92-98d8a38833dc",
-            "clue": "Unifying religion founded in 19th century Iran",
-            "answer": "bahai",
-            "normalized": "bahai"
+            "id": "adb52700-8e8d-446f-8d12-aa4ebe6e9f56",
+            "clue": "Predatory insect with a praying posture",
+            "answer": "mantis",
+            "normalized": "mantis"
           },
           {
-            "id": "b6ec3875-7f5d-451f-aefa-bd3571ff17a4",
-            "clue": "Mountain with highest elevation above sea level",
-            "answer": "everest",
-            "normalized": "everest"
+            "id": "acb55df8-d6c9-4e22-909a-55b25e51b198",
+            "clue": "Alter, change the position of",
+            "answer": "adjust",
+            "normalized": "adjust"
           },
           {
-            "id": "1839c6d5-6553-4957-86ce-23850c5d513a",
-            "clue": "Any other business, in meeting minutes",
-            "answer": "aob",
-            "normalized": "aob"
+            "id": "1193ad7d-a5ac-4119-8fa6-08a91c1b6b32",
+            "clue": "Made a pig noise",
+            "answer": "grunted",
+            "normalized": "grunted"
           },
           {
-            "id": "3d1f8be2-8d0a-4b69-ba96-c8c758317947",
-            "clue": "Greek letter that looks like a P",
-            "answer": "rho",
-            "normalized": "rho"
+            "id": "a2f646d6-c58e-4af9-bdb1-abfdaf151b72",
+            "clue": "More creative",
+            "answer": "artier",
+            "normalized": "artier"
           },
           {
-            "id": "a427caed-8d45-4d02-8f9f-f94eb98672e5",
-            "clue": "Bhavish Aggarwal's new AI venture",
-            "answer": "krutrim",
-            "normalized": "krutrim"
+            "id": "94d7f08f-62a0-4301-ab1d-e24755ed3f6f",
+            "clue": "Enthusiastically",
+            "answer": "keenly",
+            "normalized": "keenly"
           },
           {
-            "id": "75dcce8c-a3f7-40cf-8279-1b66f4f41885",
-            "clue": "Flies high overhead",
-            "answer": "soars",
-            "normalized": "soars"
+            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+            "clue": "Acronym for a UN Sustainable Development Goal",
+            "answer": "sdg",
+            "normalized": "sdg"
           },
           {
-            "id": "42adfbec-2a64-4a05-a79e-dd483a29dab5",
-            "clue": "Water's conduit from a fire truck",
-            "answer": "hose",
-            "normalized": "hose"
+            "id": "dfdc6392-c53b-4307-a612-c0437d57bbee",
+            "clue": "Damages, hurts, causes pain",
+            "answer": "injures",
+            "normalized": "injures"
           },
           {
-            "id": "0fca6c43-eabb-4ab3-883e-5e74da6b4553",
-            "clue": "A good deed meant to be repaid",
-            "answer": "favor",
-            "normalized": "favor"
+            "id": "f2a06324-21ce-4d71-807e-0e2887d127aa",
+            "clue": "Hampered, curbed, restricted",
+            "answer": "stunted",
+            "normalized": "stunted"
           },
           {
-            "id": "29891a50-a8cf-4f7c-903c-9a18d9824b9e",
-            "clue": "People beat around this when avoiding an issue",
-            "answer": "the bush",
-            "normalized": "thebush"
+            "id": "39154fa8-2bce-4c09-9f60-b4f4ff98d623",
+            "clue": "Spraying fine water droplets",
+            "answer": "misting",
+            "normalized": "misting"
           },
           {
-            "id": "0883f714-b68d-480f-bc2d-cce268e57c48",
-            "clue": "Be on this for a level score in golf",
-            "answer": "par",
-            "normalized": "par"
+            "id": "855761cf-74e0-4d9e-ad25-575aecf03dea",
+            "clue": "Short for a receptacle holding ammunition",
+            "answer": "mag",
+            "normalized": "mag"
           },
           {
-            "id": "cb4966cb-2e80-484e-9a7f-91f3ffe66b48",
-            "clue": "Long jagged mountain chains, in Spain or the US",
-            "answer": "sierras",
-            "normalized": "sierras"
+            "id": "abe9b1aa-1d19-4a68-997f-a5092b089d5f",
+            "clue": "Ginger, in Hindi",
+            "answer": "adrak",
+            "normalized": "adrak"
           },
           {
-            "id": "2e56d4bb-b40c-4c1c-be59-f1da3d7240e0",
-            "clue": "Bird's bill; person's nose",
-            "answer": "beak",
-            "normalized": "beak"
+            "id": "4d09fa3b-f4f0-4de8-8baf-2a9f652aad18",
+            "clue": "Main metal used in the Bogibeel Bridge",
+            "answer": "steel",
+            "normalized": "steel"
           },
           {
-            "id": "9a77705c-85c8-4f08-b92b-058dda6fa57c",
-            "clue": "Region where Tolkien's hobbits live",
-            "answer": "shire",
-            "normalized": "shire"
-          },
-          {
-            "id": "be9ed8fc-10c5-41f6-ad17-d3ce09b15794",
-            "clue": "Male cats",
-            "answer": "toms",
-            "normalized": "toms"
-          },
-          {
-            "id": "8f0cf691-ea27-44b8-898a-c1ddb764bbb7",
-            "clue": "In addition to others",
-            "answer": "too",
-            "normalized": "too"
+            "id": "c63e8efc-c34b-448b-a651-c7ac77f75789",
+            "clue": "River or lake that's empty of water",
+            "answer": "dry",
+            "normalized": "dry"
           }
         ],
-        "track": "PC|LenCinY2026M10D19F1V000"
+        "track": "PC|LenCinY2026M10D20F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-19",
+      "key": "2026-10-20",
       "year": 2026,
       "month": 10,
-      "day": 19,
+      "day": 20,
       "small": {
-        "puzzleId": "65e8256c-e54b-41f7-9715-814e08934e77",
+        "puzzleId": "0f2852c4-0846-4a21-a39b-f84636c87901",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4eb55072-8d9f-44e0-8496-689f8adc4f5f",
-            "clue": "Abbreviated and informal term for Christmas",
-            "answer": "xmas",
-            "normalized": "xmas"
+            "id": "d6a7cdcb-7028-42c1-b3b2-fdd7e5093336",
+            "clue": "Nicholas I and Ivan the Terrible's title",
+            "answer": "tsar",
+            "normalized": "tsar"
           },
           {
-            "id": "eeb9f8fc-eb46-49c0-9f52-fa161a3c12f4",
-            "clue": "Famous actress who played Ashima in The Namesake",
-            "answer": "tabu",
-            "normalized": "tabu"
+            "id": "ab1c6be8-d770-41bd-8cf9-ed2a0d5915f6",
+            "clue": "Binary image mapping unit for pixels",
+            "answer": "bitmap",
+            "normalized": "bitmap"
           },
           {
-            "id": "2dd5dc16-52b1-4746-93f6-047d1d12cacd",
-            "clue": "Crustaceans with 10 legs, the first 2 being claws",
-            "answer": "crabs",
-            "normalized": "crabs"
+            "id": "1c28c5c3-6814-4e3b-bc1c-40b9fa84c7ef",
+            "clue": "When you reach your destination, you __",
+            "answer": "arrive",
+            "normalized": "arrive"
           },
           {
-            "id": "d5067a49-e527-4068-9269-2693bd98b895",
-            "clue": "Confessions of a Shopaholic star __ Fisher",
-            "answer": "isla",
-            "normalized": "isla"
+            "id": "ea9ce979-f808-4795-8c27-2ddb089ab4fe",
+            "clue": "Woody vines for swinging through the rainforest",
+            "answer": "lianas",
+            "normalized": "lianas"
           },
           {
-            "id": "bcf43026-fd51-404b-86de-52fc39bc3b8f",
-            "clue": "Medical exam students prep for",
-            "answer": "neet",
-            "normalized": "neet"
+            "id": "e8631da3-060f-4e9f-8a27-ed5eb648b532",
+            "clue": "Invisible image, exposed to light, not developed",
+            "answer": "latent",
+            "normalized": "latent"
           },
           {
-            "id": "5736447b-5254-4180-9f3e-857d345c28dd",
-            "clue": "__ spumante, a sparkling Italian wine",
-            "answer": "asti",
-            "normalized": "asti"
+            "id": "52f8ae66-743d-44f7-bdae-5855fb7a57b0",
+            "clue": "Organisation that launched the Apollo mission",
+            "answer": "nasa",
+            "normalized": "nasa"
           },
           {
-            "id": "10d9ae47-b632-4cd2-a09b-e45a71c29cf3",
-            "clue": "English rock band fronted by Andy Partridge",
-            "answer": "xtc",
-            "normalized": "xtc"
+            "id": "b3ad29ef-7f43-4338-9e0a-e4ef9b561cf7",
+            "clue": "Protagonist in The Last Battle by C.S. Lewis",
+            "answer": "tirian",
+            "normalized": "tirian"
           },
           {
-            "id": "ec142e9f-b1a6-4c49-ab61-cadf28f9b3eb",
-            "clue": "A mooring harbour for pleasure boats",
-            "answer": "marina",
-            "normalized": "marina"
+            "id": "e6f54072-0d4d-4329-945a-0be25b05a611",
+            "clue": "Layers of rock in the ground",
+            "answer": "strata",
+            "normalized": "strata"
           },
           {
-            "id": "d721d9eb-561c-4d78-93af-7540c320c79d",
-            "clue": "Behaves in a way that belittles someone",
-            "answer": "abases",
-            "normalized": "abases"
+            "id": "c7b042db-2cbf-42a1-84d9-c95a966bb849",
+            "clue": "Chemical compounds that can be alkyl or aromatic",
+            "answer": "amines",
+            "normalized": "amines"
           },
           {
-            "id": "e81dbb55-7674-40ba-92b6-96205b75a4dc",
-            "clue": "Rental arrangement from one tenant to another",
-            "answer": "sublet",
-            "normalized": "sublet"
+            "id": "49b5c599-fcf0-4a67-86ca-433e3977b88a",
+            "clue": "The killer's theme in Breathe: Into the Shadows",
+            "answer": "ravana",
+            "normalized": "ravana"
           },
           {
-            "id": "792d2a97-8c73-44d0-8e77-ca070b67fedc",
-            "clue": "Goddess whose eye fell at Nainital Lake",
-            "answer": "sati",
-            "normalized": "sati"
+            "id": "54ba18c4-bfea-4827-83b0-0d72b3e3cd5d",
+            "clue": "Get the __ rolling",
+            "answer": "ball",
+            "normalized": "ball"
+          },
+          {
+            "id": "58291b92-c5cd-42ef-bf92-14ad002c3ec3",
+            "clue": "Annoyance or nuisance",
+            "answer": "pest",
+            "normalized": "pest"
           }
         ],
-        "track": "PC|LenCinY2026M10D19F0V000"
+        "track": "PC|LenCinY2026M10D20F0V000"
       },
       "mid": {
-        "puzzleId": "5ee75d90-0e44-4fa9-abcb-9759184571b2",
+        "puzzleId": "5a9fb5ab-ad38-4c1e-a82a-fe2e468fb5e2",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "63210eff-5013-4a81-a492-6b9be07ddef0",
-            "clue": "Secure form of file transfer protocol",
-            "answer": "ftps",
-            "normalized": "ftps"
+            "id": "317b0f11-140d-4db5-b166-7201bbfc660a",
+            "clue": "Denoting an ideology or doctrine",
+            "answer": "ism",
+            "normalized": "ism"
           },
           {
-            "id": "01e9e1e2-151f-4234-ab92-98d8a38833dc",
-            "clue": "Unifying religion founded in 19th century Iran",
-            "answer": "bahai",
-            "normalized": "bahai"
+            "id": "adb52700-8e8d-446f-8d12-aa4ebe6e9f56",
+            "clue": "Predatory insect with a praying posture",
+            "answer": "mantis",
+            "normalized": "mantis"
           },
           {
-            "id": "b6ec3875-7f5d-451f-aefa-bd3571ff17a4",
-            "clue": "Mountain with highest elevation above sea level",
-            "answer": "everest",
-            "normalized": "everest"
+            "id": "acb55df8-d6c9-4e22-909a-55b25e51b198",
+            "clue": "Alter, change the position of",
+            "answer": "adjust",
+            "normalized": "adjust"
           },
           {
-            "id": "1839c6d5-6553-4957-86ce-23850c5d513a",
-            "clue": "Any other business, in meeting minutes",
-            "answer": "aob",
-            "normalized": "aob"
+            "id": "1193ad7d-a5ac-4119-8fa6-08a91c1b6b32",
+            "clue": "Made a pig noise",
+            "answer": "grunted",
+            "normalized": "grunted"
           },
           {
-            "id": "3d1f8be2-8d0a-4b69-ba96-c8c758317947",
-            "clue": "Greek letter that looks like a P",
-            "answer": "rho",
-            "normalized": "rho"
+            "id": "a2f646d6-c58e-4af9-bdb1-abfdaf151b72",
+            "clue": "More creative",
+            "answer": "artier",
+            "normalized": "artier"
           },
           {
-            "id": "a427caed-8d45-4d02-8f9f-f94eb98672e5",
-            "clue": "Bhavish Aggarwal's new AI venture",
-            "answer": "krutrim",
-            "normalized": "krutrim"
+            "id": "94d7f08f-62a0-4301-ab1d-e24755ed3f6f",
+            "clue": "Enthusiastically",
+            "answer": "keenly",
+            "normalized": "keenly"
           },
           {
-            "id": "75dcce8c-a3f7-40cf-8279-1b66f4f41885",
-            "clue": "Flies high overhead",
-            "answer": "soars",
-            "normalized": "soars"
+            "id": "7cb65cf5-9f17-4b77-b915-7fa1e20b6f05",
+            "clue": "Acronym for a UN Sustainable Development Goal",
+            "answer": "sdg",
+            "normalized": "sdg"
           },
           {
-            "id": "42adfbec-2a64-4a05-a79e-dd483a29dab5",
-            "clue": "Water's conduit from a fire truck",
-            "answer": "hose",
-            "normalized": "hose"
+            "id": "dfdc6392-c53b-4307-a612-c0437d57bbee",
+            "clue": "Damages, hurts, causes pain",
+            "answer": "injures",
+            "normalized": "injures"
           },
           {
-            "id": "0fca6c43-eabb-4ab3-883e-5e74da6b4553",
-            "clue": "A good deed meant to be repaid",
-            "answer": "favor",
-            "normalized": "favor"
+            "id": "f2a06324-21ce-4d71-807e-0e2887d127aa",
+            "clue": "Hampered, curbed, restricted",
+            "answer": "stunted",
+            "normalized": "stunted"
           },
           {
-            "id": "29891a50-a8cf-4f7c-903c-9a18d9824b9e",
-            "clue": "People beat around this when avoiding an issue",
-            "answer": "the bush",
-            "normalized": "thebush"
+            "id": "39154fa8-2bce-4c09-9f60-b4f4ff98d623",
+            "clue": "Spraying fine water droplets",
+            "answer": "misting",
+            "normalized": "misting"
           },
           {
-            "id": "0883f714-b68d-480f-bc2d-cce268e57c48",
-            "clue": "Be on this for a level score in golf",
-            "answer": "par",
-            "normalized": "par"
+            "id": "855761cf-74e0-4d9e-ad25-575aecf03dea",
+            "clue": "Short for a receptacle holding ammunition",
+            "answer": "mag",
+            "normalized": "mag"
           },
           {
-            "id": "cb4966cb-2e80-484e-9a7f-91f3ffe66b48",
-            "clue": "Long jagged mountain chains, in Spain or the US",
-            "answer": "sierras",
-            "normalized": "sierras"
+            "id": "abe9b1aa-1d19-4a68-997f-a5092b089d5f",
+            "clue": "Ginger, in Hindi",
+            "answer": "adrak",
+            "normalized": "adrak"
           },
           {
-            "id": "2e56d4bb-b40c-4c1c-be59-f1da3d7240e0",
-            "clue": "Bird's bill; person's nose",
-            "answer": "beak",
-            "normalized": "beak"
+            "id": "4d09fa3b-f4f0-4de8-8baf-2a9f652aad18",
+            "clue": "Main metal used in the Bogibeel Bridge",
+            "answer": "steel",
+            "normalized": "steel"
           },
           {
-            "id": "9a77705c-85c8-4f08-b92b-058dda6fa57c",
-            "clue": "Region where Tolkien's hobbits live",
-            "answer": "shire",
-            "normalized": "shire"
-          },
-          {
-            "id": "be9ed8fc-10c5-41f6-ad17-d3ce09b15794",
-            "clue": "Male cats",
-            "answer": "toms",
-            "normalized": "toms"
-          },
-          {
-            "id": "8f0cf691-ea27-44b8-898a-c1ddb764bbb7",
-            "clue": "In addition to others",
-            "answer": "too",
-            "normalized": "too"
+            "id": "c63e8efc-c34b-448b-a651-c7ac77f75789",
+            "clue": "River or lake that's empty of water",
+            "answer": "dry",
+            "normalized": "dry"
           }
         ],
-        "track": "PC|LenCinY2026M10D19F1V000"
+        "track": "PC|LenCinY2026M10D20F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383316,21 +383304,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "OeD5qeJ09zEgQ9Oxhrx+Snz83SFTKOcuYJczYdX0QvnV3zxJt9T+jV8HjxDwtdSaRbxcU8EK5ePhiFUxYbaUmJ/eNMYdeQTIFPvWy7/pSHZmbNj0stHDXS9yaew5SpRbeOihMk6LrEjxoOcjDf55Wthp7swNHVh8lqRm5kV3MGb/2M++v3SBvY175iUYIknuSfrf84cpoeKSWtOYsQXBZf7J5MzEHtQ3quU9rMDGv6BuxL9ZPKPJmbDzZhYBMGci6GDDi4xoD3Rpj6CrPvAxSABHDtfLF65Mx5C1nny3FXk="
+        "oEEkQPC/l0X+luAut/Ogeke9XJ3XEIMQCj3+ErB4ycWIXwKMiU2g/Of8BXHPXwzor8WtTsnDMaC9sSDK8SGjqJlppTP7RJfohYCDnW7W26uP7UpVnQSVCwbnOfzUymNPnAvHG5gpkeA9zF98m2DP+GL5zkf3gXa+R/rAYdBxrqgWL991w9v5bkzKjZhBeFJhaZeEBPB4hJmQWqSqXn8WeGKYP8HMtAdA9LDGlOyU5/Xv9xvVvBGIIMJDW8fMdxnDFq/AIemkpta2zXQOeDfRJpB32HIYp4BeNJ7LZt1p9N4="
       ]
     },
     "decrypted": {
-      "Id": "47d9ba09-cbf4-43b9-affc-e7718efbba3b",
-      "Date": "2026-10-19T00:00:00Z",
+      "Id": "bb046e6f-e224-4634-ad0f-e77c6846c7c9",
+      "Date": "2026-10-20T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "vivid",
-      "NormalizedPassword": "vivid",
+      "Password": "lunch",
+      "NormalizedPassword": "lunch",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-19T02:25:36.8440000+05:30",
-    "hash": "dcfea5a7b552fe9b23ee7c0e0fa99d49",
+    "dtu": "2026-10-20T04:01:06.3370000+05:30",
+    "hash": "db320d305d377ff3c00c77756fb183ee",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
