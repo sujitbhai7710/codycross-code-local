@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T21:45:44.751Z",
+  "generatedAt": "2026-10-21T21:51:55.587Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 21
+    "day": 22
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 38
+        "QuantidadeDeFases": 40
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -52887,7 +52887,7 @@
             },
             {
               "id": "891c7a75-a39a-45e3-842c-c5087fa9e6d1",
-              "clue": "Encouraging phrase, You __ this!",
+              "clue": "Encouraging phrase, \"You __ it!\"",
               "answer": "can do",
               "normalized": "cando"
             },
@@ -173347,7 +173347,7 @@
             },
             {
               "id": "891c7a75-a39a-45e3-842c-c5087fa9e6d1",
-              "clue": "Encouraging phrase, You __ this!",
+              "clue": "Encouraging phrase, \"You __ it!\"",
               "answer": "can do",
               "normalized": "cando"
             },
@@ -382738,343 +382738,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-21",
+      "key": "2026-10-22",
       "year": 2026,
       "month": 10,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "38454a2e-f095-4dd1-8d33-15934789ed41",
+        "puzzleId": "fbda61ad-b035-4f49-ba57-c4f9f1494bf3",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b1713891-06fc-4dd9-8b4b-4b2c86e28d9d",
-            "clue": "Abbreviation for periods of 60 minutes",
-            "answer": "hrs",
-            "normalized": "hrs"
+            "id": "302bd5dd-9dc9-412a-9227-1957cf48077c",
+            "clue": "US agency that manages public retirement benefits",
+            "answer": "ssa",
+            "normalized": "ssa"
           },
           {
-            "id": "9893109d-21f6-4b05-93e5-662bedc4e167",
-            "clue": "Wash and neaten a house",
-            "answer": "clean",
-            "normalized": "clean"
+            "id": "fe055f53-7872-42f8-b53e-f44d8093a9d7",
+            "clue": "Green veggie in a classic Singhara",
+            "answer": "matar",
+            "normalized": "matar"
           },
           {
-            "id": "d347b5b7-be0b-4628-8e2b-877ab84e5a97",
-            "clue": "Newly hatched insect",
-            "answer": "larva",
-            "normalized": "larva"
+            "id": "98053214-49fa-4d7c-a407-db98d412720e",
+            "clue": "Get used to difficult times, toughen up",
+            "answer": "inure",
+            "normalized": "inure"
           },
           {
-            "id": "dbe850d0-2767-4792-9405-b1445ec4f82c",
-            "clue": "The Rapid Metro Gurgaon is a type of ____ transit",
-            "answer": "urban",
-            "normalized": "urban"
+            "id": "8ff3da81-8ee9-42f6-97f3-717af2cb12ae",
+            "clue": "Area of a court or field defended by a player",
+            "answer": "zone",
+            "normalized": "zone"
           },
           {
-            "id": "506e68cb-815c-43f8-875e-48a1f995a9a6",
-            "clue": "2000 album by Fanatic Crisis",
-            "answer": "eas",
-            "normalized": "eas"
+            "id": "67fff830-a68d-4bed-8a1d-3866f346ed73",
+            "clue": "Indigenous tribe of Little Andaman island",
+            "answer": "onge",
+            "normalized": "onge"
           },
           {
-            "id": "30077c70-a06e-4a3c-8a0a-10ee42b9d013",
-            "clue": "Culinary plants, e.g. thyme or basil",
-            "answer": "herbs",
-            "normalized": "herbs"
+            "id": "78e807b5-8109-4ec6-a472-39c5d86f965d",
+            "clue": "Pricked by a bee",
+            "answer": "stung",
+            "normalized": "stung"
           },
           {
-            "id": "f49305c7-a491-4ea5-b8d3-bbf93bfa6805",
-            "clue": "Main ingredient for a classic Upma",
-            "answer": "rava",
-            "normalized": "rava"
+            "id": "96470856-1f02-49b2-87ac-b8189efe5fb9",
+            "clue": "Vidya Balan's signature traditional attire",
+            "answer": "saree",
+            "normalized": "saree"
           },
           {
-            "id": "92069eef-37ef-4838-b2a2-bd4d2574281d",
-            "clue": "A holy dip in the sacred Yamuna river",
-            "answer": "snan",
-            "normalized": "snan"
+            "id": "272f06aa-94c1-4c80-8548-32dfff92c33c",
+            "clue": "Sendak's Where the Wild Things __",
+            "answer": "are",
+            "normalized": "are"
           },
           {
-            "id": "e7fbcac2-33ac-4326-b1e6-d063a85c36d1",
-            "clue": "Hint used by a detective to solve a crime",
-            "answer": "clue",
-            "normalized": "clue"
+            "id": "8f38f8f3-6511-4b3b-9f12-f9d97f5a028d",
+            "clue": "People who play the traditional game Insuknawr",
+            "answer": "mizo",
+            "normalized": "mizo"
           },
           {
-            "id": "8a59ce7b-922e-4b02-b5fd-72982a8302dc",
-            "clue": "Croft who stars in the Tomb Raider games",
-            "answer": "lara",
-            "normalized": "lara"
+            "id": "c5930316-3156-4be3-80c8-4548c74ff4db",
+            "clue": "Short for an unknown writer",
+            "answer": "anon",
+            "normalized": "anon"
           }
         ],
-        "track": "PC|LenCinY2026M10D21F0V000"
+        "track": "PC|LenCinY2026M10D22F0V000"
       },
       "mid": {
-        "puzzleId": "fd8e73b1-1c36-47e5-870f-36620bcf6ab9",
+        "puzzleId": "b3a9d07f-8536-45b4-aa65-4ed57f38c377",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "57e76729-d66f-4987-b121-b5f0304a9f0a",
-            "clue": "Coffee made with steamed milk",
-            "answer": "latte",
-            "normalized": "latte"
+            "id": "bbd17d6a-e116-4154-b29a-e1248106ef1f",
+            "clue": "Global sports broadcaster with four-letter name",
+            "answer": "espn",
+            "normalized": "espn"
           },
           {
-            "id": "965c011e-a8ae-452b-93a4-3efff720a425",
-            "clue": "Eastern province of China famed for cuisine",
-            "answer": "anhui",
-            "normalized": "anhui"
+            "id": "9f6df96b-a33f-4078-9d20-467b76a6bd9e",
+            "clue": "Terrified, frightened",
+            "answer": "scared",
+            "normalized": "scared"
           },
           {
-            "id": "9ebbe2b5-f35b-4c40-83f8-1ef3f1696679",
-            "clue": "One of a set of numbers totalled in a sum",
-            "answer": "addend",
-            "normalized": "addend"
+            "id": "f7d4013e-815d-4ba3-b08f-ea5f402e9345",
+            "clue": "The capital of Comoros",
+            "answer": "moroni",
+            "normalized": "moroni"
           },
           {
-            "id": "b7bbf296-b8fd-4228-809c-f1e6436f9947",
-            "clue": "Be loud and intrusive, like a too-loud radio",
-            "answer": "blare",
-            "normalized": "blare"
+            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
+            "clue": "East-northeast for short",
+            "answer": "ene",
+            "normalized": "ene"
           },
           {
-            "id": "8f1f3c95-4837-44c9-a17e-3cd0198ef5bf",
-            "clue": "Seriously injured, critically hurt",
-            "answer": "maimed",
-            "normalized": "maimed"
+            "id": "52e2e731-d8fe-4239-bf21-07e52af858e5",
+            "clue": "2022 Indian film meaning rise, roar and revolt",
+            "answer": "rrr",
+            "normalized": "rrr"
           },
           {
-            "id": "f5224cc4-ab28-4290-bf90-e431e488b878",
-            "clue": "Birder book by Chris Feare, Starlings and __",
-            "answer": "mynas",
-            "normalized": "mynas"
+            "id": "b174c160-83ab-4023-aac3-0ddee054e6d4",
+            "clue": "Accept a marriage proposal",
+            "answer": "engage",
+            "normalized": "engage"
           },
           {
-            "id": "3e24b4c3-11ef-430a-b291-8d566ded538f",
-            "clue": "__ Carta, historical English charter of rights",
-            "answer": "magna",
-            "normalized": "magna"
+            "id": "720cbe80-15d0-4c42-9aa9-74500e222114",
+            "clue": "A scene that has been faked or set up",
+            "answer": "staged",
+            "normalized": "staged"
           },
           {
-            "id": "f96e5f59-b309-4b4a-90ff-420146926150",
-            "clue": "Doling out soup",
-            "answer": "ladling",
-            "normalized": "ladling"
+            "id": "3b621821-a101-4428-9d67-fded4d2f791e",
+            "clue": "__ of the d'Urbervilles, Thomas Hardy novel",
+            "answer": "tess",
+            "normalized": "tess"
           },
           {
-            "id": "9eed3bae-f35a-446f-b717-79c2c4153b3b",
-            "clue": "__ Islands, an archipelago in the Bay of Bengal",
-            "answer": "andaman",
-            "normalized": "andaman"
+            "id": "3c5d8658-ff42-47b6-859a-4692fbed325b",
+            "clue": "JD Salinger story For __, with Love and Squalor",
+            "answer": "esme",
+            "normalized": "esme"
           },
           {
-            "id": "bfb59cb6-03c3-4378-af65-c3517b5226e3",
-            "clue": "__ May became prime minister of the UK in 2016",
-            "answer": "theresa",
-            "normalized": "theresa"
+            "id": "7f508be4-8eea-431d-b96c-6ab23ced1745",
+            "clue": "High tea rich, buttery biscuits with clotted cream",
+            "answer": "scones",
+            "normalized": "scones"
           },
           {
-            "id": "38321cbc-4d51-4617-8a6b-2c1adba0e0e5",
-            "clue": "Corrected the pitch of a piano or guitar",
-            "answer": "tuned",
-            "normalized": "tuned"
+            "id": "4ee9b57b-14dd-406f-b5af-6c4b7dccfae7",
+            "clue": "Mother or father",
+            "answer": "parent",
+            "normalized": "parent"
           },
           {
-            "id": "495afe73-bd3e-41c8-9506-a25a54664ad1",
-            "clue": "Islamic celebration, e.g. at the end of Ramadan",
-            "answer": "eid",
-            "normalized": "eid"
+            "id": "16021425-aba0-4f49-bcde-e2a2f6fc86a7",
+            "clue": "US intelligence agency that deals with satellites",
+            "answer": "nro",
+            "normalized": "nro"
           },
           {
-            "id": "cffaedcf-7ee6-488e-a1aa-c7daddc20015",
-            "clue": "Full-length robe worn by some Muslim women",
-            "answer": "abaya",
-            "normalized": "abaya"
+            "id": "5db72fa8-fb48-48e2-ba3e-b2002b59cac6",
+            "clue": "Make very angry",
+            "answer": "enrage",
+            "normalized": "enrage"
           },
           {
-            "id": "a24b7ec2-69df-41ce-9c99-3b4ed820a4e3",
-            "clue": "Onomatopoeic sound when enjoying delicious food",
-            "answer": "mmm",
-            "normalized": "mmm"
+            "id": "083d6b45-86de-4819-b1e9-409cda911ff8",
+            "clue": "Mourning, funeral-type music",
+            "answer": "dirges",
+            "normalized": "dirges"
+          },
+          {
+            "id": "14335494-2f89-4ab2-81cd-2143da06f25e",
+            "clue": "First balls that need to be potted in snooker",
+            "answer": "reds",
+            "normalized": "reds"
+          },
+          {
+            "id": "30f50123-fca8-4373-b41b-ca1abde8fa3d",
+            "clue": "Firearm to an old school gangster",
+            "answer": "gat",
+            "normalized": "gat"
           }
         ],
-        "track": "PC|LenCinY2026M10D21F1V000"
+        "track": "PC|LenCinY2026M10D22F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-21",
+      "key": "2026-10-22",
       "year": 2026,
       "month": 10,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "38454a2e-f095-4dd1-8d33-15934789ed41",
+        "puzzleId": "fbda61ad-b035-4f49-ba57-c4f9f1494bf3",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b1713891-06fc-4dd9-8b4b-4b2c86e28d9d",
-            "clue": "Abbreviation for periods of 60 minutes",
-            "answer": "hrs",
-            "normalized": "hrs"
+            "id": "302bd5dd-9dc9-412a-9227-1957cf48077c",
+            "clue": "US agency that manages public retirement benefits",
+            "answer": "ssa",
+            "normalized": "ssa"
           },
           {
-            "id": "9893109d-21f6-4b05-93e5-662bedc4e167",
-            "clue": "Wash and neaten a house",
-            "answer": "clean",
-            "normalized": "clean"
+            "id": "fe055f53-7872-42f8-b53e-f44d8093a9d7",
+            "clue": "Green veggie in a classic Singhara",
+            "answer": "matar",
+            "normalized": "matar"
           },
           {
-            "id": "d347b5b7-be0b-4628-8e2b-877ab84e5a97",
-            "clue": "Newly hatched insect",
-            "answer": "larva",
-            "normalized": "larva"
+            "id": "98053214-49fa-4d7c-a407-db98d412720e",
+            "clue": "Get used to difficult times, toughen up",
+            "answer": "inure",
+            "normalized": "inure"
           },
           {
-            "id": "dbe850d0-2767-4792-9405-b1445ec4f82c",
-            "clue": "The Rapid Metro Gurgaon is a type of ____ transit",
-            "answer": "urban",
-            "normalized": "urban"
+            "id": "8ff3da81-8ee9-42f6-97f3-717af2cb12ae",
+            "clue": "Area of a court or field defended by a player",
+            "answer": "zone",
+            "normalized": "zone"
           },
           {
-            "id": "506e68cb-815c-43f8-875e-48a1f995a9a6",
-            "clue": "2000 album by Fanatic Crisis",
-            "answer": "eas",
-            "normalized": "eas"
+            "id": "67fff830-a68d-4bed-8a1d-3866f346ed73",
+            "clue": "Indigenous tribe of Little Andaman island",
+            "answer": "onge",
+            "normalized": "onge"
           },
           {
-            "id": "30077c70-a06e-4a3c-8a0a-10ee42b9d013",
-            "clue": "Culinary plants, e.g. thyme or basil",
-            "answer": "herbs",
-            "normalized": "herbs"
+            "id": "78e807b5-8109-4ec6-a472-39c5d86f965d",
+            "clue": "Pricked by a bee",
+            "answer": "stung",
+            "normalized": "stung"
           },
           {
-            "id": "f49305c7-a491-4ea5-b8d3-bbf93bfa6805",
-            "clue": "Main ingredient for a classic Upma",
-            "answer": "rava",
-            "normalized": "rava"
+            "id": "96470856-1f02-49b2-87ac-b8189efe5fb9",
+            "clue": "Vidya Balan's signature traditional attire",
+            "answer": "saree",
+            "normalized": "saree"
           },
           {
-            "id": "92069eef-37ef-4838-b2a2-bd4d2574281d",
-            "clue": "A holy dip in the sacred Yamuna river",
-            "answer": "snan",
-            "normalized": "snan"
+            "id": "272f06aa-94c1-4c80-8548-32dfff92c33c",
+            "clue": "Sendak's Where the Wild Things __",
+            "answer": "are",
+            "normalized": "are"
           },
           {
-            "id": "e7fbcac2-33ac-4326-b1e6-d063a85c36d1",
-            "clue": "Hint used by a detective to solve a crime",
-            "answer": "clue",
-            "normalized": "clue"
+            "id": "8f38f8f3-6511-4b3b-9f12-f9d97f5a028d",
+            "clue": "People who play the traditional game Insuknawr",
+            "answer": "mizo",
+            "normalized": "mizo"
           },
           {
-            "id": "8a59ce7b-922e-4b02-b5fd-72982a8302dc",
-            "clue": "Croft who stars in the Tomb Raider games",
-            "answer": "lara",
-            "normalized": "lara"
+            "id": "c5930316-3156-4be3-80c8-4548c74ff4db",
+            "clue": "Short for an unknown writer",
+            "answer": "anon",
+            "normalized": "anon"
           }
         ],
-        "track": "PC|LenCinY2026M10D21F0V000"
+        "track": "PC|LenCinY2026M10D22F0V000"
       },
       "mid": {
-        "puzzleId": "fd8e73b1-1c36-47e5-870f-36620bcf6ab9",
+        "puzzleId": "b3a9d07f-8536-45b4-aa65-4ed57f38c377",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "57e76729-d66f-4987-b121-b5f0304a9f0a",
-            "clue": "Coffee made with steamed milk",
-            "answer": "latte",
-            "normalized": "latte"
+            "id": "bbd17d6a-e116-4154-b29a-e1248106ef1f",
+            "clue": "Global sports broadcaster with four-letter name",
+            "answer": "espn",
+            "normalized": "espn"
           },
           {
-            "id": "965c011e-a8ae-452b-93a4-3efff720a425",
-            "clue": "Eastern province of China famed for cuisine",
-            "answer": "anhui",
-            "normalized": "anhui"
+            "id": "9f6df96b-a33f-4078-9d20-467b76a6bd9e",
+            "clue": "Terrified, frightened",
+            "answer": "scared",
+            "normalized": "scared"
           },
           {
-            "id": "9ebbe2b5-f35b-4c40-83f8-1ef3f1696679",
-            "clue": "One of a set of numbers totalled in a sum",
-            "answer": "addend",
-            "normalized": "addend"
+            "id": "f7d4013e-815d-4ba3-b08f-ea5f402e9345",
+            "clue": "The capital of Comoros",
+            "answer": "moroni",
+            "normalized": "moroni"
           },
           {
-            "id": "b7bbf296-b8fd-4228-809c-f1e6436f9947",
-            "clue": "Be loud and intrusive, like a too-loud radio",
-            "answer": "blare",
-            "normalized": "blare"
+            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
+            "clue": "East-northeast for short",
+            "answer": "ene",
+            "normalized": "ene"
           },
           {
-            "id": "8f1f3c95-4837-44c9-a17e-3cd0198ef5bf",
-            "clue": "Seriously injured, critically hurt",
-            "answer": "maimed",
-            "normalized": "maimed"
+            "id": "52e2e731-d8fe-4239-bf21-07e52af858e5",
+            "clue": "2022 Indian film meaning rise, roar and revolt",
+            "answer": "rrr",
+            "normalized": "rrr"
           },
           {
-            "id": "f5224cc4-ab28-4290-bf90-e431e488b878",
-            "clue": "Birder book by Chris Feare, Starlings and __",
-            "answer": "mynas",
-            "normalized": "mynas"
+            "id": "b174c160-83ab-4023-aac3-0ddee054e6d4",
+            "clue": "Accept a marriage proposal",
+            "answer": "engage",
+            "normalized": "engage"
           },
           {
-            "id": "3e24b4c3-11ef-430a-b291-8d566ded538f",
-            "clue": "__ Carta, historical English charter of rights",
-            "answer": "magna",
-            "normalized": "magna"
+            "id": "720cbe80-15d0-4c42-9aa9-74500e222114",
+            "clue": "A scene that has been faked or set up",
+            "answer": "staged",
+            "normalized": "staged"
           },
           {
-            "id": "f96e5f59-b309-4b4a-90ff-420146926150",
-            "clue": "Doling out soup",
-            "answer": "ladling",
-            "normalized": "ladling"
+            "id": "3b621821-a101-4428-9d67-fded4d2f791e",
+            "clue": "__ of the d'Urbervilles, Thomas Hardy novel",
+            "answer": "tess",
+            "normalized": "tess"
           },
           {
-            "id": "9eed3bae-f35a-446f-b717-79c2c4153b3b",
-            "clue": "__ Islands, an archipelago in the Bay of Bengal",
-            "answer": "andaman",
-            "normalized": "andaman"
+            "id": "3c5d8658-ff42-47b6-859a-4692fbed325b",
+            "clue": "JD Salinger story For __, with Love and Squalor",
+            "answer": "esme",
+            "normalized": "esme"
           },
           {
-            "id": "bfb59cb6-03c3-4378-af65-c3517b5226e3",
-            "clue": "__ May became prime minister of the UK in 2016",
-            "answer": "theresa",
-            "normalized": "theresa"
+            "id": "7f508be4-8eea-431d-b96c-6ab23ced1745",
+            "clue": "High tea rich, buttery biscuits with clotted cream",
+            "answer": "scones",
+            "normalized": "scones"
           },
           {
-            "id": "38321cbc-4d51-4617-8a6b-2c1adba0e0e5",
-            "clue": "Corrected the pitch of a piano or guitar",
-            "answer": "tuned",
-            "normalized": "tuned"
+            "id": "4ee9b57b-14dd-406f-b5af-6c4b7dccfae7",
+            "clue": "Mother or father",
+            "answer": "parent",
+            "normalized": "parent"
           },
           {
-            "id": "495afe73-bd3e-41c8-9506-a25a54664ad1",
-            "clue": "Islamic celebration, e.g. at the end of Ramadan",
-            "answer": "eid",
-            "normalized": "eid"
+            "id": "16021425-aba0-4f49-bcde-e2a2f6fc86a7",
+            "clue": "US intelligence agency that deals with satellites",
+            "answer": "nro",
+            "normalized": "nro"
           },
           {
-            "id": "cffaedcf-7ee6-488e-a1aa-c7daddc20015",
-            "clue": "Full-length robe worn by some Muslim women",
-            "answer": "abaya",
-            "normalized": "abaya"
+            "id": "5db72fa8-fb48-48e2-ba3e-b2002b59cac6",
+            "clue": "Make very angry",
+            "answer": "enrage",
+            "normalized": "enrage"
           },
           {
-            "id": "a24b7ec2-69df-41ce-9c99-3b4ed820a4e3",
-            "clue": "Onomatopoeic sound when enjoying delicious food",
-            "answer": "mmm",
-            "normalized": "mmm"
+            "id": "083d6b45-86de-4819-b1e9-409cda911ff8",
+            "clue": "Mourning, funeral-type music",
+            "answer": "dirges",
+            "normalized": "dirges"
+          },
+          {
+            "id": "14335494-2f89-4ab2-81cd-2143da06f25e",
+            "clue": "First balls that need to be potted in snooker",
+            "answer": "reds",
+            "normalized": "reds"
+          },
+          {
+            "id": "30f50123-fca8-4373-b41b-ca1abde8fa3d",
+            "clue": "Firearm to an old school gangster",
+            "answer": "gat",
+            "normalized": "gat"
           }
         ],
-        "track": "PC|LenCinY2026M10D21F1V000"
+        "track": "PC|LenCinY2026M10D22F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383280,21 +383304,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "5XrLTyTObbaECgAGvb5+3XKol4XJNIzbMw28OFQJGutUT1KqMeM7XAdaEDZgCU8z6fy6oAfqQNbudxtgcGtYJ//rOJHR+aN1GgFT+PpA9wsH5P63epc9DxilFnnwnmz5t4RNnec4X/lngrSu3mmNKgpM/3CtnzBZTJtm94/CinwNMHGu8CdCHTublSSt53I22qBg0WGPtro9cAnVds7OQcxZc9YBprCrzG2o3l6i6K6EKYF2bAUG6kqRAapOg1/UtZdWLmrLf9ptw/XHSpuMExETwWjUlXax2nisDrlSV3Y="
+        "nmI6zWIqE0Xhx1WoKE6ur+UC8Iq4VOWWe+oC4gSotywTX34iRcSlym2t2Slt0tcxqdYQwIxroSPOZiA47S0YQWtNxTn46HRX1KXVK1UcNoSO7zxcHdoYHfwMG0nhx/L8R/5A9bhLpGwRFMr7X0MEYSS/21w9gD3sPdQLJ0flaapQKILEZjfz8gjb6b3yXjWlr7aBysVV2iFHxfZYZivWpLwLY1WeHkbgGV6jZ80Lj55GlyKiZLQ3Fzq5ZCVHb/iu53KxOPpQO9jDTCRI7rU/Um6id0x/Y4mvljzXrzclnQU="
       ]
     },
     "decrypted": {
-      "Id": "a77fe678-72c9-496d-bd31-cee6d6403901",
-      "Date": "2026-10-21T00:00:00Z",
+      "Id": "d9aa6d15-ee8b-4487-88d3-92a5fbdef29e",
+      "Date": "2026-10-22T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "couch",
-      "NormalizedPassword": "couch",
+      "Password": "fence",
+      "NormalizedPassword": "fence",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 3,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-21T03:15:44.7510000+05:30",
-    "hash": "e420870f1e1010c340b99e15bacdedc6",
+    "dtu": "2026-10-22T03:21:55.5870000+05:30",
+    "hash": "7d05ef8134dc073b6a62d02abefd0061",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
