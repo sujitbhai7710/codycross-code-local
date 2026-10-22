@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T21:51:55.587Z",
+  "generatedAt": "2026-10-22T21:47:29.181Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 22
+    "day": 23
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 40
+        "QuantidadeDeFases": 42
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -382738,367 +382738,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-22",
+      "key": "2026-10-23",
       "year": 2026,
       "month": 10,
-      "day": 22,
+      "day": 23,
       "small": {
-        "puzzleId": "fbda61ad-b035-4f49-ba57-c4f9f1494bf3",
+        "puzzleId": "f2d47f70-1e81-484d-be8a-84f4f5bc47a4",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "302bd5dd-9dc9-412a-9227-1957cf48077c",
-            "clue": "US agency that manages public retirement benefits",
-            "answer": "ssa",
-            "normalized": "ssa"
+            "id": "b45d4bb3-ff5c-4668-9e89-f3ef33bd9da2",
+            "clue": "Short form of the name of the Egyptian cat goddess",
+            "answer": "bast",
+            "normalized": "bast"
           },
           {
-            "id": "fe055f53-7872-42f8-b53e-f44d8093a9d7",
-            "clue": "Green veggie in a classic Singhara",
-            "answer": "matar",
-            "normalized": "matar"
+            "id": "a6e6c31e-f2c1-46eb-a279-ae97ffa381b4",
+            "clue": "Youngest daughter of Obama family",
+            "answer": "sasha",
+            "normalized": "sasha"
           },
           {
-            "id": "98053214-49fa-4d7c-a407-db98d412720e",
-            "clue": "Get used to difficult times, toughen up",
-            "answer": "inure",
-            "normalized": "inure"
+            "id": "d989bb2b-997e-42e2-9bba-33c6bcec0869",
+            "clue": "Another popular name for mustard seeds",
+            "answer": "sarson",
+            "normalized": "sarson"
           },
           {
-            "id": "8ff3da81-8ee9-42f6-97f3-717af2cb12ae",
-            "clue": "Area of a court or field defended by a player",
-            "answer": "zone",
-            "normalized": "zone"
+            "id": "bbb68f58-76b1-43ad-b1aa-c855620d34f4",
+            "clue": "Type of beer such as Pilsner, Miller, Beck's",
+            "answer": "lagers",
+            "normalized": "lagers"
           },
           {
-            "id": "67fff830-a68d-4bed-8a1d-3866f346ed73",
-            "clue": "Indigenous tribe of Little Andaman island",
-            "answer": "onge",
-            "normalized": "onge"
+            "id": "c137b6de-fecc-470f-afca-be52ea8525ee",
+            "clue": "K-pop singer from the band Red Velvet",
+            "answer": "irene",
+            "normalized": "irene"
           },
           {
-            "id": "78e807b5-8109-4ec6-a472-39c5d86f965d",
-            "clue": "Pricked by a bee",
-            "answer": "stung",
-            "normalized": "stung"
+            "id": "2a3c48c0-8ec8-4619-a110-32c3c5260ecc",
+            "clue": "Sweeps clean the surface of",
+            "answer": "dusts",
+            "normalized": "dusts"
           },
           {
-            "id": "96470856-1f02-49b2-87ac-b8189efe5fb9",
-            "clue": "Vidya Balan's signature traditional attire",
-            "answer": "saree",
-            "normalized": "saree"
+            "id": "ddd83d2e-7644-4a05-9eaa-c6ee59a5a04a",
+            "clue": "Flat-bottomed canal boats",
+            "answer": "barges",
+            "normalized": "barges"
           },
           {
-            "id": "272f06aa-94c1-4c80-8548-32dfff92c33c",
-            "clue": "Sendak's Where the Wild Things __",
-            "answer": "are",
-            "normalized": "are"
+            "id": "68a1e972-f9aa-439f-9be1-ea0169643292",
+            "clue": "Royal agreement",
+            "answer": "assent",
+            "normalized": "assent"
           },
           {
-            "id": "8f38f8f3-6511-4b3b-9f12-f9d97f5a028d",
-            "clue": "People who play the traditional game Insuknawr",
-            "answer": "mizo",
-            "normalized": "mizo"
+            "id": "920d5f03-ad5a-45bf-b9ac-7cf12f833760",
+            "clue": "Lands along the edges of rivers, oceans and lakes",
+            "answer": "shores",
+            "normalized": "shores"
           },
           {
-            "id": "c5930316-3156-4be3-80c8-4548c74ff4db",
-            "clue": "Short for an unknown writer",
-            "answer": "anon",
-            "normalized": "anon"
+            "id": "16c0b34d-e0ca-43a2-8a26-73f3f0619dbe",
+            "clue": "Light brown colours",
+            "answer": "tans",
+            "normalized": "tans"
+          },
+          {
+            "id": "33c33479-be62-40fd-8437-7f01682e1822",
+            "clue": "The Kannada name for Rasam",
+            "answer": "saaru",
+            "normalized": "saaru"
+          },
+          {
+            "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
+            "clue": "Dived to the home plate",
+            "answer": "slid",
+            "normalized": "slid"
           }
         ],
-        "track": "PC|LenCinY2026M10D22F0V000"
+        "track": "PC|LenCinY2026M10D23F0V000"
       },
       "mid": {
-        "puzzleId": "b3a9d07f-8536-45b4-aa65-4ed57f38c377",
+        "puzzleId": "a1256821-f3b3-49aa-a198-a702b0a16199",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "bbd17d6a-e116-4154-b29a-e1248106ef1f",
-            "clue": "Global sports broadcaster with four-letter name",
-            "answer": "espn",
-            "normalized": "espn"
+            "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
+            "clue": "Initialism for short-term memory",
+            "answer": "stm",
+            "normalized": "stm"
           },
           {
-            "id": "9f6df96b-a33f-4078-9d20-467b76a6bd9e",
-            "clue": "Terrified, frightened",
-            "answer": "scared",
-            "normalized": "scared"
+            "id": "23521866-7b20-43bf-9c1e-3d4e5507e311",
+            "clue": "Little Dipper star, second-brightest in Ursa Minor",
+            "answer": "kochab",
+            "normalized": "kochab"
           },
           {
-            "id": "f7d4013e-815d-4ba3-b08f-ea5f402e9345",
-            "clue": "The capital of Comoros",
-            "answer": "moroni",
-            "normalized": "moroni"
+            "id": "d199be2c-264b-4a36-89fd-e6608fbff523",
+            "clue": "She transformed Medusa into a Gorgon in Greek myth",
+            "answer": "athena",
+            "normalized": "athena"
           },
           {
-            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-            "clue": "East-northeast for short",
-            "answer": "ene",
-            "normalized": "ene"
+            "id": "6ac4846b-9fae-439a-a796-2eb0e2419a96",
+            "clue": "Smooching Rodin sculpture",
+            "answer": "the kiss",
+            "normalized": "thekiss"
           },
           {
-            "id": "52e2e731-d8fe-4239-bf21-07e52af858e5",
-            "clue": "2022 Indian film meaning rise, roar and revolt",
-            "answer": "rrr",
-            "normalized": "rrr"
+            "id": "6433830d-4216-4944-99b2-42c65513a250",
+            "clue": "Iago's wife in the tragedy Othello",
+            "answer": "emilia",
+            "normalized": "emilia"
           },
           {
-            "id": "b174c160-83ab-4023-aac3-0ddee054e6d4",
-            "clue": "Accept a marriage proposal",
-            "answer": "engage",
-            "normalized": "engage"
+            "id": "4be2945c-ebff-405b-997b-3031c16d9d06",
+            "clue": "Explained or related a story for a second time",
+            "answer": "retold",
+            "normalized": "retold"
           },
           {
-            "id": "720cbe80-15d0-4c42-9aa9-74500e222114",
-            "clue": "A scene that has been faked or set up",
-            "answer": "staged",
-            "normalized": "staged"
+            "id": "4883027e-9d62-44a9-8b5a-8d45621fbeee",
+            "clue": "Early-morning outdoor moisture",
+            "answer": "dew",
+            "normalized": "dew"
           },
           {
-            "id": "3b621821-a101-4428-9d67-fded4d2f791e",
-            "clue": "__ of the d'Urbervilles, Thomas Hardy novel",
-            "answer": "tess",
-            "normalized": "tess"
+            "id": "849a73c4-89c4-4242-b9a0-c8f46b17159a",
+            "clue": "Plotted and planned a dastardly deed",
+            "answer": "schemed",
+            "normalized": "schemed"
           },
           {
-            "id": "3c5d8658-ff42-47b6-859a-4692fbed325b",
-            "clue": "JD Salinger story For __, with Love and Squalor",
-            "answer": "esme",
-            "normalized": "esme"
+            "id": "8ff9a862-cc93-4b34-a510-c8e8b5411948",
+            "clue": "Bestselling book by Khaled Hosseini, __ Runner",
+            "answer": "the kite",
+            "normalized": "thekite"
           },
           {
-            "id": "7f508be4-8eea-431d-b96c-6ab23ced1745",
-            "clue": "High tea rich, buttery biscuits with clotted cream",
-            "answer": "scones",
-            "normalized": "scones"
+            "id": "b5f20965-9cb6-41bc-9f1d-180eabd1515b",
+            "clue": "Mandy and Copacabana singer-songwriter Barry",
+            "answer": "manilow",
+            "normalized": "manilow"
           },
           {
-            "id": "4ee9b57b-14dd-406f-b5af-6c4b7dccfae7",
-            "clue": "Mother or father",
-            "answer": "parent",
-            "normalized": "parent"
+            "id": "1b7f70e8-124d-4c3f-b57a-666896ca01fd",
+            "clue": "Actress Dennings who plays Darcy Lewis in Thor",
+            "answer": "kat",
+            "normalized": "kat"
           },
           {
-            "id": "16021425-aba0-4f49-bcde-e2a2f6fc86a7",
-            "clue": "US intelligence agency that deals with satellites",
-            "answer": "nro",
-            "normalized": "nro"
+            "id": "935edfc8-872e-49f6-8553-b1f274d1c32e",
+            "clue": "Not this one, the __ one",
+            "answer": "other",
+            "normalized": "other"
           },
           {
-            "id": "5db72fa8-fb48-48e2-ba3e-b2002b59cac6",
-            "clue": "Make very angry",
-            "answer": "enrage",
-            "normalized": "enrage"
+            "id": "4979903f-d3df-47e4-b264-c733c4ac37dc",
+            "clue": "Main herb in pesto sauce",
+            "answer": "basil",
+            "normalized": "basil"
           },
           {
-            "id": "083d6b45-86de-4819-b1e9-409cda911ff8",
-            "clue": "Mourning, funeral-type music",
-            "answer": "dirges",
-            "normalized": "dirges"
-          },
-          {
-            "id": "14335494-2f89-4ab2-81cd-2143da06f25e",
-            "clue": "First balls that need to be potted in snooker",
-            "answer": "reds",
-            "normalized": "reds"
-          },
-          {
-            "id": "30f50123-fca8-4373-b41b-ca1abde8fa3d",
-            "clue": "Firearm to an old school gangster",
-            "answer": "gat",
-            "normalized": "gat"
+            "id": "b2319c12-610a-46c5-89d1-966ec52a53a9",
+            "clue": "Unhappy",
+            "answer": "sad",
+            "normalized": "sad"
           }
         ],
-        "track": "PC|LenCinY2026M10D22F1V000"
+        "track": "PC|LenCinY2026M10D23F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-22",
+      "key": "2026-10-23",
       "year": 2026,
       "month": 10,
-      "day": 22,
+      "day": 23,
       "small": {
-        "puzzleId": "fbda61ad-b035-4f49-ba57-c4f9f1494bf3",
+        "puzzleId": "f2d47f70-1e81-484d-be8a-84f4f5bc47a4",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "302bd5dd-9dc9-412a-9227-1957cf48077c",
-            "clue": "US agency that manages public retirement benefits",
-            "answer": "ssa",
-            "normalized": "ssa"
+            "id": "b45d4bb3-ff5c-4668-9e89-f3ef33bd9da2",
+            "clue": "Short form of the name of the Egyptian cat goddess",
+            "answer": "bast",
+            "normalized": "bast"
           },
           {
-            "id": "fe055f53-7872-42f8-b53e-f44d8093a9d7",
-            "clue": "Green veggie in a classic Singhara",
-            "answer": "matar",
-            "normalized": "matar"
+            "id": "a6e6c31e-f2c1-46eb-a279-ae97ffa381b4",
+            "clue": "Youngest daughter of Obama family",
+            "answer": "sasha",
+            "normalized": "sasha"
           },
           {
-            "id": "98053214-49fa-4d7c-a407-db98d412720e",
-            "clue": "Get used to difficult times, toughen up",
-            "answer": "inure",
-            "normalized": "inure"
+            "id": "d989bb2b-997e-42e2-9bba-33c6bcec0869",
+            "clue": "Another popular name for mustard seeds",
+            "answer": "sarson",
+            "normalized": "sarson"
           },
           {
-            "id": "8ff3da81-8ee9-42f6-97f3-717af2cb12ae",
-            "clue": "Area of a court or field defended by a player",
-            "answer": "zone",
-            "normalized": "zone"
+            "id": "bbb68f58-76b1-43ad-b1aa-c855620d34f4",
+            "clue": "Type of beer such as Pilsner, Miller, Beck's",
+            "answer": "lagers",
+            "normalized": "lagers"
           },
           {
-            "id": "67fff830-a68d-4bed-8a1d-3866f346ed73",
-            "clue": "Indigenous tribe of Little Andaman island",
-            "answer": "onge",
-            "normalized": "onge"
+            "id": "c137b6de-fecc-470f-afca-be52ea8525ee",
+            "clue": "K-pop singer from the band Red Velvet",
+            "answer": "irene",
+            "normalized": "irene"
           },
           {
-            "id": "78e807b5-8109-4ec6-a472-39c5d86f965d",
-            "clue": "Pricked by a bee",
-            "answer": "stung",
-            "normalized": "stung"
+            "id": "2a3c48c0-8ec8-4619-a110-32c3c5260ecc",
+            "clue": "Sweeps clean the surface of",
+            "answer": "dusts",
+            "normalized": "dusts"
           },
           {
-            "id": "96470856-1f02-49b2-87ac-b8189efe5fb9",
-            "clue": "Vidya Balan's signature traditional attire",
-            "answer": "saree",
-            "normalized": "saree"
+            "id": "ddd83d2e-7644-4a05-9eaa-c6ee59a5a04a",
+            "clue": "Flat-bottomed canal boats",
+            "answer": "barges",
+            "normalized": "barges"
           },
           {
-            "id": "272f06aa-94c1-4c80-8548-32dfff92c33c",
-            "clue": "Sendak's Where the Wild Things __",
-            "answer": "are",
-            "normalized": "are"
+            "id": "68a1e972-f9aa-439f-9be1-ea0169643292",
+            "clue": "Royal agreement",
+            "answer": "assent",
+            "normalized": "assent"
           },
           {
-            "id": "8f38f8f3-6511-4b3b-9f12-f9d97f5a028d",
-            "clue": "People who play the traditional game Insuknawr",
-            "answer": "mizo",
-            "normalized": "mizo"
+            "id": "920d5f03-ad5a-45bf-b9ac-7cf12f833760",
+            "clue": "Lands along the edges of rivers, oceans and lakes",
+            "answer": "shores",
+            "normalized": "shores"
           },
           {
-            "id": "c5930316-3156-4be3-80c8-4548c74ff4db",
-            "clue": "Short for an unknown writer",
-            "answer": "anon",
-            "normalized": "anon"
+            "id": "16c0b34d-e0ca-43a2-8a26-73f3f0619dbe",
+            "clue": "Light brown colours",
+            "answer": "tans",
+            "normalized": "tans"
+          },
+          {
+            "id": "33c33479-be62-40fd-8437-7f01682e1822",
+            "clue": "The Kannada name for Rasam",
+            "answer": "saaru",
+            "normalized": "saaru"
+          },
+          {
+            "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
+            "clue": "Dived to the home plate",
+            "answer": "slid",
+            "normalized": "slid"
           }
         ],
-        "track": "PC|LenCinY2026M10D22F0V000"
+        "track": "PC|LenCinY2026M10D23F0V000"
       },
       "mid": {
-        "puzzleId": "b3a9d07f-8536-45b4-aa65-4ed57f38c377",
+        "puzzleId": "a1256821-f3b3-49aa-a198-a702b0a16199",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "bbd17d6a-e116-4154-b29a-e1248106ef1f",
-            "clue": "Global sports broadcaster with four-letter name",
-            "answer": "espn",
-            "normalized": "espn"
+            "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
+            "clue": "Initialism for short-term memory",
+            "answer": "stm",
+            "normalized": "stm"
           },
           {
-            "id": "9f6df96b-a33f-4078-9d20-467b76a6bd9e",
-            "clue": "Terrified, frightened",
-            "answer": "scared",
-            "normalized": "scared"
+            "id": "23521866-7b20-43bf-9c1e-3d4e5507e311",
+            "clue": "Little Dipper star, second-brightest in Ursa Minor",
+            "answer": "kochab",
+            "normalized": "kochab"
           },
           {
-            "id": "f7d4013e-815d-4ba3-b08f-ea5f402e9345",
-            "clue": "The capital of Comoros",
-            "answer": "moroni",
-            "normalized": "moroni"
+            "id": "d199be2c-264b-4a36-89fd-e6608fbff523",
+            "clue": "She transformed Medusa into a Gorgon in Greek myth",
+            "answer": "athena",
+            "normalized": "athena"
           },
           {
-            "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-            "clue": "East-northeast for short",
-            "answer": "ene",
-            "normalized": "ene"
+            "id": "6ac4846b-9fae-439a-a796-2eb0e2419a96",
+            "clue": "Smooching Rodin sculpture",
+            "answer": "the kiss",
+            "normalized": "thekiss"
           },
           {
-            "id": "52e2e731-d8fe-4239-bf21-07e52af858e5",
-            "clue": "2022 Indian film meaning rise, roar and revolt",
-            "answer": "rrr",
-            "normalized": "rrr"
+            "id": "6433830d-4216-4944-99b2-42c65513a250",
+            "clue": "Iago's wife in the tragedy Othello",
+            "answer": "emilia",
+            "normalized": "emilia"
           },
           {
-            "id": "b174c160-83ab-4023-aac3-0ddee054e6d4",
-            "clue": "Accept a marriage proposal",
-            "answer": "engage",
-            "normalized": "engage"
+            "id": "4be2945c-ebff-405b-997b-3031c16d9d06",
+            "clue": "Explained or related a story for a second time",
+            "answer": "retold",
+            "normalized": "retold"
           },
           {
-            "id": "720cbe80-15d0-4c42-9aa9-74500e222114",
-            "clue": "A scene that has been faked or set up",
-            "answer": "staged",
-            "normalized": "staged"
+            "id": "4883027e-9d62-44a9-8b5a-8d45621fbeee",
+            "clue": "Early-morning outdoor moisture",
+            "answer": "dew",
+            "normalized": "dew"
           },
           {
-            "id": "3b621821-a101-4428-9d67-fded4d2f791e",
-            "clue": "__ of the d'Urbervilles, Thomas Hardy novel",
-            "answer": "tess",
-            "normalized": "tess"
+            "id": "849a73c4-89c4-4242-b9a0-c8f46b17159a",
+            "clue": "Plotted and planned a dastardly deed",
+            "answer": "schemed",
+            "normalized": "schemed"
           },
           {
-            "id": "3c5d8658-ff42-47b6-859a-4692fbed325b",
-            "clue": "JD Salinger story For __, with Love and Squalor",
-            "answer": "esme",
-            "normalized": "esme"
+            "id": "8ff9a862-cc93-4b34-a510-c8e8b5411948",
+            "clue": "Bestselling book by Khaled Hosseini, __ Runner",
+            "answer": "the kite",
+            "normalized": "thekite"
           },
           {
-            "id": "7f508be4-8eea-431d-b96c-6ab23ced1745",
-            "clue": "High tea rich, buttery biscuits with clotted cream",
-            "answer": "scones",
-            "normalized": "scones"
+            "id": "b5f20965-9cb6-41bc-9f1d-180eabd1515b",
+            "clue": "Mandy and Copacabana singer-songwriter Barry",
+            "answer": "manilow",
+            "normalized": "manilow"
           },
           {
-            "id": "4ee9b57b-14dd-406f-b5af-6c4b7dccfae7",
-            "clue": "Mother or father",
-            "answer": "parent",
-            "normalized": "parent"
+            "id": "1b7f70e8-124d-4c3f-b57a-666896ca01fd",
+            "clue": "Actress Dennings who plays Darcy Lewis in Thor",
+            "answer": "kat",
+            "normalized": "kat"
           },
           {
-            "id": "16021425-aba0-4f49-bcde-e2a2f6fc86a7",
-            "clue": "US intelligence agency that deals with satellites",
-            "answer": "nro",
-            "normalized": "nro"
+            "id": "935edfc8-872e-49f6-8553-b1f274d1c32e",
+            "clue": "Not this one, the __ one",
+            "answer": "other",
+            "normalized": "other"
           },
           {
-            "id": "5db72fa8-fb48-48e2-ba3e-b2002b59cac6",
-            "clue": "Make very angry",
-            "answer": "enrage",
-            "normalized": "enrage"
+            "id": "4979903f-d3df-47e4-b264-c733c4ac37dc",
+            "clue": "Main herb in pesto sauce",
+            "answer": "basil",
+            "normalized": "basil"
           },
           {
-            "id": "083d6b45-86de-4819-b1e9-409cda911ff8",
-            "clue": "Mourning, funeral-type music",
-            "answer": "dirges",
-            "normalized": "dirges"
-          },
-          {
-            "id": "14335494-2f89-4ab2-81cd-2143da06f25e",
-            "clue": "First balls that need to be potted in snooker",
-            "answer": "reds",
-            "normalized": "reds"
-          },
-          {
-            "id": "30f50123-fca8-4373-b41b-ca1abde8fa3d",
-            "clue": "Firearm to an old school gangster",
-            "answer": "gat",
-            "normalized": "gat"
+            "id": "b2319c12-610a-46c5-89d1-966ec52a53a9",
+            "clue": "Unhappy",
+            "answer": "sad",
+            "normalized": "sad"
           }
         ],
-        "track": "PC|LenCinY2026M10D22F1V000"
+        "track": "PC|LenCinY2026M10D23F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383304,21 +383304,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "nmI6zWIqE0Xhx1WoKE6ur+UC8Iq4VOWWe+oC4gSotywTX34iRcSlym2t2Slt0tcxqdYQwIxroSPOZiA47S0YQWtNxTn46HRX1KXVK1UcNoSO7zxcHdoYHfwMG0nhx/L8R/5A9bhLpGwRFMr7X0MEYSS/21w9gD3sPdQLJ0flaapQKILEZjfz8gjb6b3yXjWlr7aBysVV2iFHxfZYZivWpLwLY1WeHkbgGV6jZ80Lj55GlyKiZLQ3Fzq5ZCVHb/iu53KxOPpQO9jDTCRI7rU/Um6id0x/Y4mvljzXrzclnQU="
+        "xtRl9j4V2SncRzngv53A/UAObgoYl+1LziXDWyxnfwEFlv8crgC5ozhvN4EuWK4TANu9NkDyQFs9c0gfoxoAELY6ovgRSE35l44XC70PppBPMP7ImNGKxULp2Fd21Wfdc8aH272NCbs9v9IVVizbk2Yxo5GNP2cgzdF5/QEtRrcY/u4M1/cp7amEdypbSrujzTL32G9u+AVPaCW4Ur+RpYsU9wG3523x/wFd2z+xfjoQ9Q+meZjt83hSu+tmlSIlg8pCxsHQbpmhziuRqeufdey1T+d/LeqVex7qUGRcaq8="
       ]
     },
     "decrypted": {
-      "Id": "d9aa6d15-ee8b-4487-88d3-92a5fbdef29e",
-      "Date": "2026-10-22T00:00:00Z",
+      "Id": "a417d92f-f1cd-4947-ad97-5d1b7b5f59fe",
+      "Date": "2026-10-23T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "fence",
-      "NormalizedPassword": "fence",
+      "Password": "retro",
+      "NormalizedPassword": "retro",
       "MaxGuesses": 6,
-      "Version": 3,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-22T03:21:55.5870000+05:30",
-    "hash": "7d05ef8134dc073b6a62d02abefd0061",
+    "dtu": "2026-10-23T03:17:29.1810000+05:30",
+    "hash": "e92893c26d6d8355c8a5d28edf0287f9",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
