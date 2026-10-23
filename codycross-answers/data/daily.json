@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T21:47:29.181Z",
+  "generatedAt": "2026-10-23T21:32:59.496Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 23
+    "day": 24
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 42
+        "QuantidadeDeFases": 44
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -382738,367 +382738,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-23",
+      "key": "2026-10-24",
       "year": 2026,
       "month": 10,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "f2d47f70-1e81-484d-be8a-84f4f5bc47a4",
+        "puzzleId": "35c80072-1af0-4c98-af59-22066d723347",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b45d4bb3-ff5c-4668-9e89-f3ef33bd9da2",
-            "clue": "Short form of the name of the Egyptian cat goddess",
-            "answer": "bast",
-            "normalized": "bast"
+            "id": "4450b2ad-3d6f-491e-aa00-bb65028bdb7b",
+            "clue": "Tease or trick",
+            "answer": "kid",
+            "normalized": "kid"
           },
           {
-            "id": "a6e6c31e-f2c1-46eb-a279-ae97ffa381b4",
-            "clue": "Youngest daughter of Obama family",
-            "answer": "sasha",
-            "normalized": "sasha"
+            "id": "8c96d47b-555b-45e5-9a02-50c245f3062f",
+            "clue": "To prepare for an exam",
+            "answer": "study",
+            "normalized": "study"
           },
           {
-            "id": "d989bb2b-997e-42e2-9bba-33c6bcec0869",
-            "clue": "Another popular name for mustard seeds",
-            "answer": "sarson",
-            "normalized": "sarson"
+            "id": "68f6c768-0120-494c-b604-0d685b5145ae",
+            "clue": "Author Eric, who wrote The Very Hungry Caterpillar",
+            "answer": "carle",
+            "normalized": "carle"
           },
           {
-            "id": "bbb68f58-76b1-43ad-b1aa-c855620d34f4",
-            "clue": "Type of beer such as Pilsner, Miller, Beck's",
-            "answer": "lagers",
-            "normalized": "lagers"
+            "id": "1d0f1fa1-ea77-47a6-bd8f-2fc024e0d02e",
+            "clue": "__ forces, another word for a country's military",
+            "answer": "armed",
+            "normalized": "armed"
           },
           {
-            "id": "c137b6de-fecc-470f-afca-be52ea8525ee",
-            "clue": "K-pop singer from the band Red Velvet",
-            "answer": "irene",
-            "normalized": "irene"
+            "id": "c63720ac-4e77-423f-93a1-9642350cea8a",
+            "clue": "Extinct, flightless bird species from New Zealand",
+            "answer": "moa",
+            "normalized": "moa"
           },
           {
-            "id": "2a3c48c0-8ec8-4619-a110-32c3c5260ecc",
-            "clue": "Sweeps clean the surface of",
-            "answer": "dusts",
-            "normalized": "dusts"
+            "id": "828bc38a-2b01-4d8e-af37-beea62f06dd5",
+            "clue": "Vishnu's avatar during the Churning of the Ocean",
+            "answer": "kurma",
+            "normalized": "kurma"
           },
           {
-            "id": "ddd83d2e-7644-4a05-9eaa-c6ee59a5a04a",
-            "clue": "Flat-bottomed canal boats",
-            "answer": "barges",
-            "normalized": "barges"
+            "id": "a05a93c3-29eb-495f-bbaa-11c918607398",
+            "clue": "One who doesn't want to work; sounds like idol",
+            "answer": "idle",
+            "normalized": "idle"
           },
           {
-            "id": "68a1e972-f9aa-439f-9be1-ea0169643292",
-            "clue": "Royal agreement",
-            "answer": "assent",
-            "normalized": "assent"
+            "id": "a6e4bc0d-1890-40b7-acef-e21e810f720d",
+            "clue": "Changed shade of hair with a synthetic substance",
+            "answer": "dyed",
+            "normalized": "dyed"
           },
           {
-            "id": "920d5f03-ad5a-45bf-b9ac-7cf12f833760",
-            "clue": "Lands along the edges of rivers, oceans and lakes",
-            "answer": "shores",
-            "normalized": "shores"
+            "id": "f241cd3c-67b1-4805-9d47-8b19e1dab88c",
+            "clue": "A fraudulent scheme or operation",
+            "answer": "scam",
+            "normalized": "scam"
           },
           {
-            "id": "16c0b34d-e0ca-43a2-8a26-73f3f0619dbe",
-            "clue": "Light brown colours",
-            "answer": "tans",
-            "normalized": "tans"
-          },
-          {
-            "id": "33c33479-be62-40fd-8437-7f01682e1822",
-            "clue": "The Kannada name for Rasam",
-            "answer": "saaru",
-            "normalized": "saaru"
-          },
-          {
-            "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-            "clue": "Dived to the home plate",
-            "answer": "slid",
-            "normalized": "slid"
+            "id": "4abcc7df-62da-4242-9c69-a8c64cdc049a",
+            "clue": "Israeli company taken over by Sun Pharmaceutical",
+            "answer": "taro",
+            "normalized": "taro"
           }
         ],
-        "track": "PC|LenCinY2026M10D23F0V000"
+        "track": "PC|LenCinY2026M10D24F0V000"
       },
       "mid": {
-        "puzzleId": "a1256821-f3b3-49aa-a198-a702b0a16199",
+        "puzzleId": "a2f0b917-7ba0-48a5-84d0-09ceed633044",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-            "clue": "Initialism for short-term memory",
-            "answer": "stm",
-            "normalized": "stm"
+            "id": "1e455160-441d-4aed-80cc-b01b09172667",
+            "clue": "Pokémon who evolves into Kadabra, then Alakazam",
+            "answer": "abra",
+            "normalized": "abra"
           },
           {
-            "id": "23521866-7b20-43bf-9c1e-3d4e5507e311",
-            "clue": "Little Dipper star, second-brightest in Ursa Minor",
-            "answer": "kochab",
-            "normalized": "kochab"
+            "id": "1ef6f689-8caf-4bbf-bf44-07dfb7759bef",
+            "clue": "One part of a flight of steps",
+            "answer": "stair",
+            "normalized": "stair"
           },
           {
-            "id": "d199be2c-264b-4a36-89fd-e6608fbff523",
-            "clue": "She transformed Medusa into a Gorgon in Greek myth",
-            "answer": "athena",
-            "normalized": "athena"
+            "id": "dd80921b-3260-4e7d-bc32-86b2bb59d837",
+            "clue": "__ hammer, large tool for demolition work",
+            "answer": "sledge",
+            "normalized": "sledge"
           },
           {
-            "id": "6ac4846b-9fae-439a-a796-2eb0e2419a96",
-            "clue": "Smooching Rodin sculpture",
-            "answer": "the kiss",
-            "normalized": "thekiss"
+            "id": "11c55ca5-bd19-4245-8e5c-dfacfc14cee7",
+            "clue": "The Chinese word for poetry",
+            "answer": "shi",
+            "normalized": "shi"
           },
           {
-            "id": "6433830d-4216-4944-99b2-42c65513a250",
-            "clue": "Iago's wife in the tragedy Othello",
-            "answer": "emilia",
-            "normalized": "emilia"
+            "id": "23e48af1-cf78-4d00-a924-ec60c474260d",
+            "clue": "Currency code for the Ghanaian cedi",
+            "answer": "ghs",
+            "normalized": "ghs"
           },
           {
-            "id": "4be2945c-ebff-405b-997b-3031c16d9d06",
-            "clue": "Explained or related a story for a second time",
-            "answer": "retold",
-            "normalized": "retold"
+            "id": "7b19a316-d5fa-4bf0-b8c9-7f9082462539",
+            "clue": "A scalpel and the name of a medical magazine",
+            "answer": "lancet",
+            "normalized": "lancet"
           },
           {
-            "id": "4883027e-9d62-44a9-8b5a-8d45621fbeee",
-            "clue": "Early-morning outdoor moisture",
-            "answer": "dew",
-            "normalized": "dew"
+            "id": "7cf2dc43-7b5e-468b-86e3-8c55b037b397",
+            "clue": "Score given to an infant shortly after birth",
+            "answer": "apgar",
+            "normalized": "apgar"
           },
           {
-            "id": "849a73c4-89c4-4242-b9a0-c8f46b17159a",
-            "clue": "Plotted and planned a dastardly deed",
-            "answer": "schemed",
-            "normalized": "schemed"
+            "id": "3a4338eb-9543-4a89-b1d4-124afce29c83",
+            "clue": "International match in cricket",
+            "answer": "test",
+            "normalized": "test"
           },
           {
-            "id": "8ff9a862-cc93-4b34-a510-c8e8b5411948",
-            "clue": "Bestselling book by Khaled Hosseini, __ Runner",
-            "answer": "the kite",
-            "normalized": "thekite"
+            "id": "bf36bc6f-70ba-4a48-b8d9-152f70ce685a",
+            "clue": "Consumed food, had a meal",
+            "answer": "ate",
+            "normalized": "ate"
           },
           {
-            "id": "b5f20965-9cb6-41bc-9f1d-180eabd1515b",
-            "clue": "Mandy and Copacabana singer-songwriter Barry",
-            "answer": "manilow",
-            "normalized": "manilow"
+            "id": "625cd832-f567-479a-8157-4a5be76dc846",
+            "clue": "Nickname of Jesse's friend in TV's Breaking Bad",
+            "answer": "badger",
+            "normalized": "badger"
           },
           {
-            "id": "1b7f70e8-124d-4c3f-b57a-666896ca01fd",
-            "clue": "Actress Dennings who plays Darcy Lewis in Thor",
-            "answer": "kat",
-            "normalized": "kat"
+            "id": "30952972-cada-4b3d-b9b2-7a52b1aaa509",
+            "clue": "Correct, accurate",
+            "answer": "right",
+            "normalized": "right"
           },
           {
-            "id": "935edfc8-872e-49f6-8553-b1f274d1c32e",
-            "clue": "Not this one, the __ one",
-            "answer": "other",
-            "normalized": "other"
+            "id": "087b08d1-2e15-40bf-813e-7d0a606f7862",
+            "clue": "Evil God of War in Wonder Woman (2017)",
+            "answer": "ares",
+            "normalized": "ares"
           },
           {
-            "id": "4979903f-d3df-47e4-b264-c733c4ac37dc",
-            "clue": "Main herb in pesto sauce",
-            "answer": "basil",
-            "normalized": "basil"
+            "id": "b7405ccc-71b8-4f14-b0fb-444adfdc0790",
+            "clue": "Fabric support bandages for broken arms",
+            "answer": "slings",
+            "normalized": "slings"
           },
           {
-            "id": "b2319c12-610a-46c5-89d1-966ec52a53a9",
-            "clue": "Unhappy",
-            "answer": "sad",
-            "normalized": "sad"
+            "id": "7619f097-2248-461b-96a1-642b513f34dd",
+            "clue": "Form, make into a specific figure",
+            "answer": "shape",
+            "normalized": "shape"
+          },
+          {
+            "id": "f88d2562-d266-47c5-99f5-ca0f520a5047",
+            "clue": "Strip of wood used to support a mattress",
+            "answer": "slat",
+            "normalized": "slat"
+          },
+          {
+            "id": "813013f8-641d-4ff3-9b49-6e1e5644a966",
+            "clue": "Animal in a famous Tenali Raman story",
+            "answer": "cat",
+            "normalized": "cat"
           }
         ],
-        "track": "PC|LenCinY2026M10D23F1V000"
+        "track": "PC|LenCinY2026M10D24F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-23",
+      "key": "2026-10-24",
       "year": 2026,
       "month": 10,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "f2d47f70-1e81-484d-be8a-84f4f5bc47a4",
+        "puzzleId": "35c80072-1af0-4c98-af59-22066d723347",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b45d4bb3-ff5c-4668-9e89-f3ef33bd9da2",
-            "clue": "Short form of the name of the Egyptian cat goddess",
-            "answer": "bast",
-            "normalized": "bast"
+            "id": "4450b2ad-3d6f-491e-aa00-bb65028bdb7b",
+            "clue": "Tease or trick",
+            "answer": "kid",
+            "normalized": "kid"
           },
           {
-            "id": "a6e6c31e-f2c1-46eb-a279-ae97ffa381b4",
-            "clue": "Youngest daughter of Obama family",
-            "answer": "sasha",
-            "normalized": "sasha"
+            "id": "8c96d47b-555b-45e5-9a02-50c245f3062f",
+            "clue": "To prepare for an exam",
+            "answer": "study",
+            "normalized": "study"
           },
           {
-            "id": "d989bb2b-997e-42e2-9bba-33c6bcec0869",
-            "clue": "Another popular name for mustard seeds",
-            "answer": "sarson",
-            "normalized": "sarson"
+            "id": "68f6c768-0120-494c-b604-0d685b5145ae",
+            "clue": "Author Eric, who wrote The Very Hungry Caterpillar",
+            "answer": "carle",
+            "normalized": "carle"
           },
           {
-            "id": "bbb68f58-76b1-43ad-b1aa-c855620d34f4",
-            "clue": "Type of beer such as Pilsner, Miller, Beck's",
-            "answer": "lagers",
-            "normalized": "lagers"
+            "id": "1d0f1fa1-ea77-47a6-bd8f-2fc024e0d02e",
+            "clue": "__ forces, another word for a country's military",
+            "answer": "armed",
+            "normalized": "armed"
           },
           {
-            "id": "c137b6de-fecc-470f-afca-be52ea8525ee",
-            "clue": "K-pop singer from the band Red Velvet",
-            "answer": "irene",
-            "normalized": "irene"
+            "id": "c63720ac-4e77-423f-93a1-9642350cea8a",
+            "clue": "Extinct, flightless bird species from New Zealand",
+            "answer": "moa",
+            "normalized": "moa"
           },
           {
-            "id": "2a3c48c0-8ec8-4619-a110-32c3c5260ecc",
-            "clue": "Sweeps clean the surface of",
-            "answer": "dusts",
-            "normalized": "dusts"
+            "id": "828bc38a-2b01-4d8e-af37-beea62f06dd5",
+            "clue": "Vishnu's avatar during the Churning of the Ocean",
+            "answer": "kurma",
+            "normalized": "kurma"
           },
           {
-            "id": "ddd83d2e-7644-4a05-9eaa-c6ee59a5a04a",
-            "clue": "Flat-bottomed canal boats",
-            "answer": "barges",
-            "normalized": "barges"
+            "id": "a05a93c3-29eb-495f-bbaa-11c918607398",
+            "clue": "One who doesn't want to work; sounds like idol",
+            "answer": "idle",
+            "normalized": "idle"
           },
           {
-            "id": "68a1e972-f9aa-439f-9be1-ea0169643292",
-            "clue": "Royal agreement",
-            "answer": "assent",
-            "normalized": "assent"
+            "id": "a6e4bc0d-1890-40b7-acef-e21e810f720d",
+            "clue": "Changed shade of hair with a synthetic substance",
+            "answer": "dyed",
+            "normalized": "dyed"
           },
           {
-            "id": "920d5f03-ad5a-45bf-b9ac-7cf12f833760",
-            "clue": "Lands along the edges of rivers, oceans and lakes",
-            "answer": "shores",
-            "normalized": "shores"
+            "id": "f241cd3c-67b1-4805-9d47-8b19e1dab88c",
+            "clue": "A fraudulent scheme or operation",
+            "answer": "scam",
+            "normalized": "scam"
           },
           {
-            "id": "16c0b34d-e0ca-43a2-8a26-73f3f0619dbe",
-            "clue": "Light brown colours",
-            "answer": "tans",
-            "normalized": "tans"
-          },
-          {
-            "id": "33c33479-be62-40fd-8437-7f01682e1822",
-            "clue": "The Kannada name for Rasam",
-            "answer": "saaru",
-            "normalized": "saaru"
-          },
-          {
-            "id": "94d1c124-3ffe-474c-aba8-9162d67b5c4f",
-            "clue": "Dived to the home plate",
-            "answer": "slid",
-            "normalized": "slid"
+            "id": "4abcc7df-62da-4242-9c69-a8c64cdc049a",
+            "clue": "Israeli company taken over by Sun Pharmaceutical",
+            "answer": "taro",
+            "normalized": "taro"
           }
         ],
-        "track": "PC|LenCinY2026M10D23F0V000"
+        "track": "PC|LenCinY2026M10D24F0V000"
       },
       "mid": {
-        "puzzleId": "a1256821-f3b3-49aa-a198-a702b0a16199",
+        "puzzleId": "a2f0b917-7ba0-48a5-84d0-09ceed633044",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "86e63ef5-410b-4829-a5ed-305cd382b59f",
-            "clue": "Initialism for short-term memory",
-            "answer": "stm",
-            "normalized": "stm"
+            "id": "1e455160-441d-4aed-80cc-b01b09172667",
+            "clue": "Pokémon who evolves into Kadabra, then Alakazam",
+            "answer": "abra",
+            "normalized": "abra"
           },
           {
-            "id": "23521866-7b20-43bf-9c1e-3d4e5507e311",
-            "clue": "Little Dipper star, second-brightest in Ursa Minor",
-            "answer": "kochab",
-            "normalized": "kochab"
+            "id": "1ef6f689-8caf-4bbf-bf44-07dfb7759bef",
+            "clue": "One part of a flight of steps",
+            "answer": "stair",
+            "normalized": "stair"
           },
           {
-            "id": "d199be2c-264b-4a36-89fd-e6608fbff523",
-            "clue": "She transformed Medusa into a Gorgon in Greek myth",
-            "answer": "athena",
-            "normalized": "athena"
+            "id": "dd80921b-3260-4e7d-bc32-86b2bb59d837",
+            "clue": "__ hammer, large tool for demolition work",
+            "answer": "sledge",
+            "normalized": "sledge"
           },
           {
-            "id": "6ac4846b-9fae-439a-a796-2eb0e2419a96",
-            "clue": "Smooching Rodin sculpture",
-            "answer": "the kiss",
-            "normalized": "thekiss"
+            "id": "11c55ca5-bd19-4245-8e5c-dfacfc14cee7",
+            "clue": "The Chinese word for poetry",
+            "answer": "shi",
+            "normalized": "shi"
           },
           {
-            "id": "6433830d-4216-4944-99b2-42c65513a250",
-            "clue": "Iago's wife in the tragedy Othello",
-            "answer": "emilia",
-            "normalized": "emilia"
+            "id": "23e48af1-cf78-4d00-a924-ec60c474260d",
+            "clue": "Currency code for the Ghanaian cedi",
+            "answer": "ghs",
+            "normalized": "ghs"
           },
           {
-            "id": "4be2945c-ebff-405b-997b-3031c16d9d06",
-            "clue": "Explained or related a story for a second time",
-            "answer": "retold",
-            "normalized": "retold"
+            "id": "7b19a316-d5fa-4bf0-b8c9-7f9082462539",
+            "clue": "A scalpel and the name of a medical magazine",
+            "answer": "lancet",
+            "normalized": "lancet"
           },
           {
-            "id": "4883027e-9d62-44a9-8b5a-8d45621fbeee",
-            "clue": "Early-morning outdoor moisture",
-            "answer": "dew",
-            "normalized": "dew"
+            "id": "7cf2dc43-7b5e-468b-86e3-8c55b037b397",
+            "clue": "Score given to an infant shortly after birth",
+            "answer": "apgar",
+            "normalized": "apgar"
           },
           {
-            "id": "849a73c4-89c4-4242-b9a0-c8f46b17159a",
-            "clue": "Plotted and planned a dastardly deed",
-            "answer": "schemed",
-            "normalized": "schemed"
+            "id": "3a4338eb-9543-4a89-b1d4-124afce29c83",
+            "clue": "International match in cricket",
+            "answer": "test",
+            "normalized": "test"
           },
           {
-            "id": "8ff9a862-cc93-4b34-a510-c8e8b5411948",
-            "clue": "Bestselling book by Khaled Hosseini, __ Runner",
-            "answer": "the kite",
-            "normalized": "thekite"
+            "id": "bf36bc6f-70ba-4a48-b8d9-152f70ce685a",
+            "clue": "Consumed food, had a meal",
+            "answer": "ate",
+            "normalized": "ate"
           },
           {
-            "id": "b5f20965-9cb6-41bc-9f1d-180eabd1515b",
-            "clue": "Mandy and Copacabana singer-songwriter Barry",
-            "answer": "manilow",
-            "normalized": "manilow"
+            "id": "625cd832-f567-479a-8157-4a5be76dc846",
+            "clue": "Nickname of Jesse's friend in TV's Breaking Bad",
+            "answer": "badger",
+            "normalized": "badger"
           },
           {
-            "id": "1b7f70e8-124d-4c3f-b57a-666896ca01fd",
-            "clue": "Actress Dennings who plays Darcy Lewis in Thor",
-            "answer": "kat",
-            "normalized": "kat"
+            "id": "30952972-cada-4b3d-b9b2-7a52b1aaa509",
+            "clue": "Correct, accurate",
+            "answer": "right",
+            "normalized": "right"
           },
           {
-            "id": "935edfc8-872e-49f6-8553-b1f274d1c32e",
-            "clue": "Not this one, the __ one",
-            "answer": "other",
-            "normalized": "other"
+            "id": "087b08d1-2e15-40bf-813e-7d0a606f7862",
+            "clue": "Evil God of War in Wonder Woman (2017)",
+            "answer": "ares",
+            "normalized": "ares"
           },
           {
-            "id": "4979903f-d3df-47e4-b264-c733c4ac37dc",
-            "clue": "Main herb in pesto sauce",
-            "answer": "basil",
-            "normalized": "basil"
+            "id": "b7405ccc-71b8-4f14-b0fb-444adfdc0790",
+            "clue": "Fabric support bandages for broken arms",
+            "answer": "slings",
+            "normalized": "slings"
           },
           {
-            "id": "b2319c12-610a-46c5-89d1-966ec52a53a9",
-            "clue": "Unhappy",
-            "answer": "sad",
-            "normalized": "sad"
+            "id": "7619f097-2248-461b-96a1-642b513f34dd",
+            "clue": "Form, make into a specific figure",
+            "answer": "shape",
+            "normalized": "shape"
+          },
+          {
+            "id": "f88d2562-d266-47c5-99f5-ca0f520a5047",
+            "clue": "Strip of wood used to support a mattress",
+            "answer": "slat",
+            "normalized": "slat"
+          },
+          {
+            "id": "813013f8-641d-4ff3-9b49-6e1e5644a966",
+            "clue": "Animal in a famous Tenali Raman story",
+            "answer": "cat",
+            "normalized": "cat"
           }
         ],
-        "track": "PC|LenCinY2026M10D23F1V000"
+        "track": "PC|LenCinY2026M10D24F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383304,21 +383304,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "xtRl9j4V2SncRzngv53A/UAObgoYl+1LziXDWyxnfwEFlv8crgC5ozhvN4EuWK4TANu9NkDyQFs9c0gfoxoAELY6ovgRSE35l44XC70PppBPMP7ImNGKxULp2Fd21Wfdc8aH272NCbs9v9IVVizbk2Yxo5GNP2cgzdF5/QEtRrcY/u4M1/cp7amEdypbSrujzTL32G9u+AVPaCW4Ur+RpYsU9wG3523x/wFd2z+xfjoQ9Q+meZjt83hSu+tmlSIlg8pCxsHQbpmhziuRqeufdey1T+d/LeqVex7qUGRcaq8="
+        "68TiSClUugYFOB5gVqmbu9MOR7JaRnCzcOGOznwjQYyuxSdFYURRFNhnwZe2YpolPND/oMPw4W1JTbMzJqg8twPW/1ULzty4ShAFeXd+drL/DiKP9B54kvQDLYaAAwX1waLonl05s9Pcp1yZNz4U2CcWz32atoyWk+LTdyUwEgIJ54ZyRAz8BKvkkHXIgpEKKPsn71/6Qt1/ajc9WMF6NVX0u5kDeW928DUB5ev3IPQA6Jgf0vX4ymRN4r8qCAMl03kAzLtkJ90v4Prw1R+oCPmqwzKDgO6A+m71w/FhwYM="
       ]
     },
     "decrypted": {
-      "Id": "a417d92f-f1cd-4947-ad97-5d1b7b5f59fe",
-      "Date": "2026-10-23T00:00:00Z",
+      "Id": "a7b06916-3182-4ed7-b535-e79ce1a88f5d",
+      "Date": "2026-10-24T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "retro",
-      "NormalizedPassword": "retro",
+      "Password": "paste",
+      "NormalizedPassword": "paste",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-23T03:17:29.1810000+05:30",
-    "hash": "e92893c26d6d8355c8a5d28edf0287f9",
+    "dtu": "2026-10-24T03:02:59.4960000+05:30",
+    "hash": "a342501fc92ebd073356925e32e59607",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
