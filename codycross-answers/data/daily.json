@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T21:32:59.496Z",
+  "generatedAt": "2026-10-24T21:00:25.919Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 24
+    "day": 25
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 44
+        "QuantidadeDeFases": 46
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -166013,7 +166013,7 @@
             },
             {
               "id": "97010283-9105-463c-aa68-52148d830be6",
-              "clue": "A ___ detector that will prove if it's the truth",
+              "clue": "The polygraph is commonly called the __ detector",
               "answer": "lie",
               "normalized": "lie"
             }
@@ -382738,367 +382738,343 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-24",
+      "key": "2026-10-25",
       "year": 2026,
       "month": 10,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "35c80072-1af0-4c98-af59-22066d723347",
+        "puzzleId": "dfa9d438-20e9-4793-99ec-5061f58e2af7",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4450b2ad-3d6f-491e-aa00-bb65028bdb7b",
-            "clue": "Tease or trick",
-            "answer": "kid",
-            "normalized": "kid"
+            "id": "da934134-5409-44f7-9f5c-f399b2251b70",
+            "clue": "Acronym for soprano alto baritone",
+            "answer": "sab",
+            "normalized": "sab"
           },
           {
-            "id": "8c96d47b-555b-45e5-9a02-50c245f3062f",
-            "clue": "To prepare for an exam",
-            "answer": "study",
-            "normalized": "study"
+            "id": "45e70220-71ce-4d93-a103-563feae82dcc",
+            "clue": "Major Khel ____ award for Sakshi Malik",
+            "answer": "ratna",
+            "normalized": "ratna"
           },
           {
-            "id": "68f6c768-0120-494c-b604-0d685b5145ae",
-            "clue": "Author Eric, who wrote The Very Hungry Caterpillar",
-            "answer": "carle",
-            "normalized": "carle"
+            "id": "82c2bc7e-5096-4943-b502-f56bb2bbd24c",
+            "clue": "During a journey, ____ the way",
+            "answer": "along",
+            "normalized": "along"
           },
           {
-            "id": "1d0f1fa1-ea77-47a6-bd8f-2fc024e0d02e",
-            "clue": "__ forces, another word for a country's military",
-            "answer": "armed",
-            "normalized": "armed"
+            "id": "d2d01e26-353f-46f0-ac8f-4025442a2bd2",
+            "clue": "Small, hood-wearing Tatooine natives in Star Wars",
+            "answer": "jawas",
+            "normalized": "jawas"
           },
           {
-            "id": "c63720ac-4e77-423f-93a1-9642350cea8a",
-            "clue": "Extinct, flightless bird species from New Zealand",
-            "answer": "moa",
-            "normalized": "moa"
+            "id": "3aee1c6d-a2fe-4f60-b59d-19df050cbefd",
+            "clue": "To exploit something; __ up, finish off a resource",
+            "answer": "use",
+            "normalized": "use"
           },
           {
-            "id": "828bc38a-2b01-4d8e-af37-beea62f06dd5",
-            "clue": "Vishnu's avatar during the Churning of the Ocean",
-            "answer": "kurma",
-            "normalized": "kurma"
+            "id": "2a5e5ed7-e60f-4d01-9cf3-c37ed38309f3",
+            "clue": "Author of Uncle Tom's Cabin, Harriet Beecher __",
+            "answer": "stowe",
+            "normalized": "stowe"
           },
           {
-            "id": "a05a93c3-29eb-495f-bbaa-11c918607398",
-            "clue": "One who doesn't want to work; sounds like idol",
-            "answer": "idle",
-            "normalized": "idle"
+            "id": "02305ca8-7926-421f-a441-04b320d8012e",
+            "clue": "First name of Tolstoy's tragic heroine Karenina",
+            "answer": "anna",
+            "normalized": "anna"
           },
           {
-            "id": "a6e4bc0d-1890-40b7-acef-e21e810f720d",
-            "clue": "Changed shade of hair with a synthetic substance",
-            "answer": "dyed",
-            "normalized": "dyed"
+            "id": "4fa6d54c-1fc4-4a7a-a1e9-8e7eb703083d",
+            "clue": "Puffy areas under the eyes",
+            "answer": "bags",
+            "normalized": "bags"
           },
           {
-            "id": "f241cd3c-67b1-4805-9d47-8b19e1dab88c",
-            "clue": "A fraudulent scheme or operation",
-            "answer": "scam",
-            "normalized": "scam"
+            "id": "ab0a331e-0513-460a-8821-8eb55a386eff",
+            "clue": "Protagonist of The Guide",
+            "answer": "raju",
+            "normalized": "raju"
           },
           {
-            "id": "4abcc7df-62da-4242-9c69-a8c64cdc049a",
-            "clue": "Israeli company taken over by Sun Pharmaceutical",
-            "answer": "taro",
-            "normalized": "taro"
+            "id": "d33ea3cd-4d5e-4895-b2e0-6e08b48d466f",
+            "clue": "Unfortunately, regrettably",
+            "answer": "alas",
+            "normalized": "alas"
           }
         ],
-        "track": "PC|LenCinY2026M10D24F0V000"
+        "track": "PC|LenCinY2026M10D25F0V000"
       },
       "mid": {
-        "puzzleId": "a2f0b917-7ba0-48a5-84d0-09ceed633044",
+        "puzzleId": "e2c9d666-467e-4f8d-b963-2317320d986f",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1e455160-441d-4aed-80cc-b01b09172667",
-            "clue": "Pokémon who evolves into Kadabra, then Alakazam",
-            "answer": "abra",
-            "normalized": "abra"
+            "id": "38e6381b-0b07-44c1-9b6b-5214007d8cca",
+            "clue": "The Weasley family's aged pet owl",
+            "answer": "errol",
+            "normalized": "errol"
           },
           {
-            "id": "1ef6f689-8caf-4bbf-bf44-07dfb7759bef",
-            "clue": "One part of a flight of steps",
-            "answer": "stair",
-            "normalized": "stair"
+            "id": "8a9e769a-1d78-4251-9fce-40120ce3caea",
+            "clue": "Rasika Dugal's character in Out of Love",
+            "answer": "meera",
+            "normalized": "meera"
           },
           {
-            "id": "dd80921b-3260-4e7d-bc32-86b2bb59d837",
-            "clue": "__ hammer, large tool for demolition work",
-            "answer": "sledge",
-            "normalized": "sledge"
+            "id": "5a82ccdb-0a23-4a2e-9f73-5dfaa07fd153",
+            "clue": "Wise and experienced village member",
+            "answer": "elder",
+            "normalized": "elder"
           },
           {
-            "id": "11c55ca5-bd19-4245-8e5c-dfacfc14cee7",
-            "clue": "The Chinese word for poetry",
-            "answer": "shi",
-            "normalized": "shi"
+            "id": "5b01fce4-576e-4c4a-a090-36e82133c4f1",
+            "clue": "Records to compare performance figures, goals, etc",
+            "answer": "stats",
+            "normalized": "stats"
           },
           {
-            "id": "23e48af1-cf78-4d00-a924-ec60c474260d",
-            "clue": "Currency code for the Ghanaian cedi",
-            "answer": "ghs",
-            "normalized": "ghs"
+            "id": "43adcbc7-217f-4e71-ba57-6969ac026c83",
+            "clue": "Shares an island with the Dominican Republic",
+            "answer": "haiti",
+            "normalized": "haiti"
           },
           {
-            "id": "7b19a316-d5fa-4bf0-b8c9-7f9082462539",
-            "clue": "A scalpel and the name of a medical magazine",
-            "answer": "lancet",
-            "normalized": "lancet"
+            "id": "047d9334-d02c-46a1-a7ae-a00ca5f2b315",
+            "clue": "Moved with a curving trajectory",
+            "answer": "arced",
+            "normalized": "arced"
           },
           {
-            "id": "7cf2dc43-7b5e-468b-86e3-8c55b037b397",
-            "clue": "Score given to an infant shortly after birth",
-            "answer": "apgar",
-            "normalized": "apgar"
+            "id": "f720739d-3cbd-42e4-956f-986b8e19fac9",
+            "clue": "Gullak is a collection of these from the Mishras",
+            "answer": "kisse",
+            "normalized": "kisse"
           },
           {
-            "id": "3a4338eb-9543-4a89-b1d4-124afce29c83",
-            "clue": "International match in cricket",
-            "answer": "test",
-            "normalized": "test"
+            "id": "cd8d04a4-7bda-4bf8-b8bf-59b687c7f146",
+            "clue": "Nausea-inducing medicines",
+            "answer": "emetics",
+            "normalized": "emetics"
           },
           {
-            "id": "bf36bc6f-70ba-4a48-b8d9-152f70ce685a",
-            "clue": "Consumed food, had a meal",
-            "answer": "ate",
-            "normalized": "ate"
+            "id": "4644bc85-e291-42a5-9a0d-52d0b25c85b5",
+            "clue": "Connects, anagram of stealer",
+            "answer": "relates",
+            "normalized": "relates"
           },
           {
-            "id": "625cd832-f567-479a-8157-4a5be76dc846",
-            "clue": "Nickname of Jesse's friend in TV's Breaking Bad",
-            "answer": "badger",
-            "normalized": "badger"
+            "id": "1acd7232-41f9-4972-9297-90f8291cb34e",
+            "clue": "Rosy, plankton-induced sea poison",
+            "answer": "red tide",
+            "normalized": "redtide"
           },
           {
-            "id": "30952972-cada-4b3d-b9b2-7a52b1aaa509",
-            "clue": "Correct, accurate",
-            "answer": "right",
-            "normalized": "right"
+            "id": "2e1d1559-f92e-4f67-87da-aa9d091004fe",
+            "clue": "Raw materials from which metals are obtained",
+            "answer": "ores",
+            "normalized": "ores"
           },
           {
-            "id": "087b08d1-2e15-40bf-813e-7d0a606f7862",
-            "clue": "Evil God of War in Wonder Woman (2017)",
-            "answer": "ares",
-            "normalized": "ares"
+            "id": "dacc87b4-67f0-462f-b7fe-e884a6379f1f",
+            "clue": "Endangered gibbon, native to Southeast Asia",
+            "answer": "lar",
+            "normalized": "lar"
           },
           {
-            "id": "b7405ccc-71b8-4f14-b0fb-444adfdc0790",
-            "clue": "Fabric support bandages for broken arms",
-            "answer": "slings",
-            "normalized": "slings"
+            "id": "e476b4ef-1953-4ec0-839d-6261b0efa09d",
+            "clue": "Garment that is often worn as the Nivi drape",
+            "answer": "sari",
+            "normalized": "sari"
           },
           {
-            "id": "7619f097-2248-461b-96a1-642b513f34dd",
-            "clue": "Form, make into a specific figure",
-            "answer": "shape",
-            "normalized": "shape"
-          },
-          {
-            "id": "f88d2562-d266-47c5-99f5-ca0f520a5047",
-            "clue": "Strip of wood used to support a mattress",
-            "answer": "slat",
-            "normalized": "slat"
-          },
-          {
-            "id": "813013f8-641d-4ff3-9b49-6e1e5644a966",
-            "clue": "Animal in a famous Tenali Raman story",
-            "answer": "cat",
-            "normalized": "cat"
+            "id": "61466f36-ed43-4ce2-a136-241533186b69",
+            "clue": "Initialism, means roughly the same as XOXO in text",
+            "answer": "hak",
+            "normalized": "hak"
           }
         ],
-        "track": "PC|LenCinY2026M10D24F1V000"
+        "track": "PC|LenCinY2026M10D25F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-24",
+      "key": "2026-10-25",
       "year": 2026,
       "month": 10,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "35c80072-1af0-4c98-af59-22066d723347",
+        "puzzleId": "dfa9d438-20e9-4793-99ec-5061f58e2af7",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4450b2ad-3d6f-491e-aa00-bb65028bdb7b",
-            "clue": "Tease or trick",
-            "answer": "kid",
-            "normalized": "kid"
+            "id": "da934134-5409-44f7-9f5c-f399b2251b70",
+            "clue": "Acronym for soprano alto baritone",
+            "answer": "sab",
+            "normalized": "sab"
           },
           {
-            "id": "8c96d47b-555b-45e5-9a02-50c245f3062f",
-            "clue": "To prepare for an exam",
-            "answer": "study",
-            "normalized": "study"
+            "id": "45e70220-71ce-4d93-a103-563feae82dcc",
+            "clue": "Major Khel ____ award for Sakshi Malik",
+            "answer": "ratna",
+            "normalized": "ratna"
           },
           {
-            "id": "68f6c768-0120-494c-b604-0d685b5145ae",
-            "clue": "Author Eric, who wrote The Very Hungry Caterpillar",
-            "answer": "carle",
-            "normalized": "carle"
+            "id": "82c2bc7e-5096-4943-b502-f56bb2bbd24c",
+            "clue": "During a journey, ____ the way",
+            "answer": "along",
+            "normalized": "along"
           },
           {
-            "id": "1d0f1fa1-ea77-47a6-bd8f-2fc024e0d02e",
-            "clue": "__ forces, another word for a country's military",
-            "answer": "armed",
-            "normalized": "armed"
+            "id": "d2d01e26-353f-46f0-ac8f-4025442a2bd2",
+            "clue": "Small, hood-wearing Tatooine natives in Star Wars",
+            "answer": "jawas",
+            "normalized": "jawas"
           },
           {
-            "id": "c63720ac-4e77-423f-93a1-9642350cea8a",
-            "clue": "Extinct, flightless bird species from New Zealand",
-            "answer": "moa",
-            "normalized": "moa"
+            "id": "3aee1c6d-a2fe-4f60-b59d-19df050cbefd",
+            "clue": "To exploit something; __ up, finish off a resource",
+            "answer": "use",
+            "normalized": "use"
           },
           {
-            "id": "828bc38a-2b01-4d8e-af37-beea62f06dd5",
-            "clue": "Vishnu's avatar during the Churning of the Ocean",
-            "answer": "kurma",
-            "normalized": "kurma"
+            "id": "2a5e5ed7-e60f-4d01-9cf3-c37ed38309f3",
+            "clue": "Author of Uncle Tom's Cabin, Harriet Beecher __",
+            "answer": "stowe",
+            "normalized": "stowe"
           },
           {
-            "id": "a05a93c3-29eb-495f-bbaa-11c918607398",
-            "clue": "One who doesn't want to work; sounds like idol",
-            "answer": "idle",
-            "normalized": "idle"
+            "id": "02305ca8-7926-421f-a441-04b320d8012e",
+            "clue": "First name of Tolstoy's tragic heroine Karenina",
+            "answer": "anna",
+            "normalized": "anna"
           },
           {
-            "id": "a6e4bc0d-1890-40b7-acef-e21e810f720d",
-            "clue": "Changed shade of hair with a synthetic substance",
-            "answer": "dyed",
-            "normalized": "dyed"
+            "id": "4fa6d54c-1fc4-4a7a-a1e9-8e7eb703083d",
+            "clue": "Puffy areas under the eyes",
+            "answer": "bags",
+            "normalized": "bags"
           },
           {
-            "id": "f241cd3c-67b1-4805-9d47-8b19e1dab88c",
-            "clue": "A fraudulent scheme or operation",
-            "answer": "scam",
-            "normalized": "scam"
+            "id": "ab0a331e-0513-460a-8821-8eb55a386eff",
+            "clue": "Protagonist of The Guide",
+            "answer": "raju",
+            "normalized": "raju"
           },
           {
-            "id": "4abcc7df-62da-4242-9c69-a8c64cdc049a",
-            "clue": "Israeli company taken over by Sun Pharmaceutical",
-            "answer": "taro",
-            "normalized": "taro"
+            "id": "d33ea3cd-4d5e-4895-b2e0-6e08b48d466f",
+            "clue": "Unfortunately, regrettably",
+            "answer": "alas",
+            "normalized": "alas"
           }
         ],
-        "track": "PC|LenCinY2026M10D24F0V000"
+        "track": "PC|LenCinY2026M10D25F0V000"
       },
       "mid": {
-        "puzzleId": "a2f0b917-7ba0-48a5-84d0-09ceed633044",
+        "puzzleId": "e2c9d666-467e-4f8d-b963-2317320d986f",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1e455160-441d-4aed-80cc-b01b09172667",
-            "clue": "Pokémon who evolves into Kadabra, then Alakazam",
-            "answer": "abra",
-            "normalized": "abra"
+            "id": "38e6381b-0b07-44c1-9b6b-5214007d8cca",
+            "clue": "The Weasley family's aged pet owl",
+            "answer": "errol",
+            "normalized": "errol"
           },
           {
-            "id": "1ef6f689-8caf-4bbf-bf44-07dfb7759bef",
-            "clue": "One part of a flight of steps",
-            "answer": "stair",
-            "normalized": "stair"
+            "id": "8a9e769a-1d78-4251-9fce-40120ce3caea",
+            "clue": "Rasika Dugal's character in Out of Love",
+            "answer": "meera",
+            "normalized": "meera"
           },
           {
-            "id": "dd80921b-3260-4e7d-bc32-86b2bb59d837",
-            "clue": "__ hammer, large tool for demolition work",
-            "answer": "sledge",
-            "normalized": "sledge"
+            "id": "5a82ccdb-0a23-4a2e-9f73-5dfaa07fd153",
+            "clue": "Wise and experienced village member",
+            "answer": "elder",
+            "normalized": "elder"
           },
           {
-            "id": "11c55ca5-bd19-4245-8e5c-dfacfc14cee7",
-            "clue": "The Chinese word for poetry",
-            "answer": "shi",
-            "normalized": "shi"
+            "id": "5b01fce4-576e-4c4a-a090-36e82133c4f1",
+            "clue": "Records to compare performance figures, goals, etc",
+            "answer": "stats",
+            "normalized": "stats"
           },
           {
-            "id": "23e48af1-cf78-4d00-a924-ec60c474260d",
-            "clue": "Currency code for the Ghanaian cedi",
-            "answer": "ghs",
-            "normalized": "ghs"
+            "id": "43adcbc7-217f-4e71-ba57-6969ac026c83",
+            "clue": "Shares an island with the Dominican Republic",
+            "answer": "haiti",
+            "normalized": "haiti"
           },
           {
-            "id": "7b19a316-d5fa-4bf0-b8c9-7f9082462539",
-            "clue": "A scalpel and the name of a medical magazine",
-            "answer": "lancet",
-            "normalized": "lancet"
+            "id": "047d9334-d02c-46a1-a7ae-a00ca5f2b315",
+            "clue": "Moved with a curving trajectory",
+            "answer": "arced",
+            "normalized": "arced"
           },
           {
-            "id": "7cf2dc43-7b5e-468b-86e3-8c55b037b397",
-            "clue": "Score given to an infant shortly after birth",
-            "answer": "apgar",
-            "normalized": "apgar"
+            "id": "f720739d-3cbd-42e4-956f-986b8e19fac9",
+            "clue": "Gullak is a collection of these from the Mishras",
+            "answer": "kisse",
+            "normalized": "kisse"
           },
           {
-            "id": "3a4338eb-9543-4a89-b1d4-124afce29c83",
-            "clue": "International match in cricket",
-            "answer": "test",
-            "normalized": "test"
+            "id": "cd8d04a4-7bda-4bf8-b8bf-59b687c7f146",
+            "clue": "Nausea-inducing medicines",
+            "answer": "emetics",
+            "normalized": "emetics"
           },
           {
-            "id": "bf36bc6f-70ba-4a48-b8d9-152f70ce685a",
-            "clue": "Consumed food, had a meal",
-            "answer": "ate",
-            "normalized": "ate"
+            "id": "4644bc85-e291-42a5-9a0d-52d0b25c85b5",
+            "clue": "Connects, anagram of stealer",
+            "answer": "relates",
+            "normalized": "relates"
           },
           {
-            "id": "625cd832-f567-479a-8157-4a5be76dc846",
-            "clue": "Nickname of Jesse's friend in TV's Breaking Bad",
-            "answer": "badger",
-            "normalized": "badger"
+            "id": "1acd7232-41f9-4972-9297-90f8291cb34e",
+            "clue": "Rosy, plankton-induced sea poison",
+            "answer": "red tide",
+            "normalized": "redtide"
           },
           {
-            "id": "30952972-cada-4b3d-b9b2-7a52b1aaa509",
-            "clue": "Correct, accurate",
-            "answer": "right",
-            "normalized": "right"
+            "id": "2e1d1559-f92e-4f67-87da-aa9d091004fe",
+            "clue": "Raw materials from which metals are obtained",
+            "answer": "ores",
+            "normalized": "ores"
           },
           {
-            "id": "087b08d1-2e15-40bf-813e-7d0a606f7862",
-            "clue": "Evil God of War in Wonder Woman (2017)",
-            "answer": "ares",
-            "normalized": "ares"
+            "id": "dacc87b4-67f0-462f-b7fe-e884a6379f1f",
+            "clue": "Endangered gibbon, native to Southeast Asia",
+            "answer": "lar",
+            "normalized": "lar"
           },
           {
-            "id": "b7405ccc-71b8-4f14-b0fb-444adfdc0790",
-            "clue": "Fabric support bandages for broken arms",
-            "answer": "slings",
-            "normalized": "slings"
+            "id": "e476b4ef-1953-4ec0-839d-6261b0efa09d",
+            "clue": "Garment that is often worn as the Nivi drape",
+            "answer": "sari",
+            "normalized": "sari"
           },
           {
-            "id": "7619f097-2248-461b-96a1-642b513f34dd",
-            "clue": "Form, make into a specific figure",
-            "answer": "shape",
-            "normalized": "shape"
-          },
-          {
-            "id": "f88d2562-d266-47c5-99f5-ca0f520a5047",
-            "clue": "Strip of wood used to support a mattress",
-            "answer": "slat",
-            "normalized": "slat"
-          },
-          {
-            "id": "813013f8-641d-4ff3-9b49-6e1e5644a966",
-            "clue": "Animal in a famous Tenali Raman story",
-            "answer": "cat",
-            "normalized": "cat"
+            "id": "61466f36-ed43-4ce2-a136-241533186b69",
+            "clue": "Initialism, means roughly the same as XOXO in text",
+            "answer": "hak",
+            "normalized": "hak"
           }
         ],
-        "track": "PC|LenCinY2026M10D24F1V000"
+        "track": "PC|LenCinY2026M10D25F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383304,21 +383280,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "68TiSClUugYFOB5gVqmbu9MOR7JaRnCzcOGOznwjQYyuxSdFYURRFNhnwZe2YpolPND/oMPw4W1JTbMzJqg8twPW/1ULzty4ShAFeXd+drL/DiKP9B54kvQDLYaAAwX1waLonl05s9Pcp1yZNz4U2CcWz32atoyWk+LTdyUwEgIJ54ZyRAz8BKvkkHXIgpEKKPsn71/6Qt1/ajc9WMF6NVX0u5kDeW928DUB5ev3IPQA6Jgf0vX4ymRN4r8qCAMl03kAzLtkJ90v4Prw1R+oCPmqwzKDgO6A+m71w/FhwYM="
+        "tvEdAXEpPqDkJTdxVRpH+0fMhef5MbsJi3nMh1fdpWfyFtimtWftZzedjAHdGkqy6QYmPbihpH9vJilmgjBasRaUVeigWEAxtKT28tVk08i2Ug6kqZZEjx+HRlBXWw5rcPGCeh7nJlHWxJTm6BBtFn6mIDJYASYApUfBUBak2FzeJoAP+GAJ7RC/QZwUokXvxwLHllyH/mC6bq3xews9wktmrtoTVIcNsx3QWCIdwVf0LEKU0jh2EJ/Q+/fU21n5yOX8jbKNHbMNWsdYu50Vsk3TmSQyn5V4hXpXW4JMGXE="
       ]
     },
     "decrypted": {
-      "Id": "a7b06916-3182-4ed7-b535-e79ce1a88f5d",
-      "Date": "2026-10-24T00:00:00Z",
+      "Id": "081410e2-0d5b-4499-b002-2924a78d08e6",
+      "Date": "2026-10-25T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "paste",
-      "NormalizedPassword": "paste",
+      "Password": "waist",
+      "NormalizedPassword": "waist",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-24T03:02:59.4960000+05:30",
-    "hash": "a342501fc92ebd073356925e32e59607",
+    "dtu": "2026-10-25T02:30:25.9190000+05:30",
+    "hash": "896ad9079fcd63a8f7a94e72702ebcd6",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
