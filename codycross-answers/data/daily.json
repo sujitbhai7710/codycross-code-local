@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T21:00:48.642Z",
+  "generatedAt": "2026-10-26T22:47:40.046Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 26
+    "day": 27
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 48
+        "QuantidadeDeFases": 50
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -382738,355 +382738,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-26",
+      "key": "2026-10-27",
       "year": 2026,
       "month": 10,
-      "day": 26,
+      "day": 27,
       "small": {
-        "puzzleId": "3488d328-7a9a-440b-8dcb-e3c6b5ee0927",
+        "puzzleId": "6bec9352-dced-4771-bad3-69ff567c4b8e",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f62f4e98-f511-4119-bbf3-a7236fc6f1df",
-            "clue": "Rapper born Abbas Hamad",
-            "answer": "bas",
-            "normalized": "bas"
+            "id": "121f892c-9d1c-4800-999b-f0bdeed851da",
+            "clue": "Initialism for social security number in the US",
+            "answer": "ssn",
+            "normalized": "ssn"
           },
           {
-            "id": "3913aad5-7235-4ee7-91ae-b62bac04c69e",
-            "clue": "Dandruff can make this body part itchy",
-            "answer": "scalp",
-            "normalized": "scalp"
+            "id": "ccef41cb-dbb4-407a-8456-fd554a543f61",
+            "clue": "Stone polished by a bead maker",
+            "answer": "agate",
+            "normalized": "agate"
           },
           {
-            "id": "c5e2e98e-63cd-446a-a379-2c8c5d4f0a87",
-            "clue": "One of the major divisions of a long poem",
-            "answer": "canto",
-            "normalized": "canto"
+            "id": "097a4b81-444c-498f-a87d-3e5c1df54ba3",
+            "clue": "Pepsis and cokes",
+            "answer": "colas",
+            "normalized": "colas"
           },
           {
-            "id": "b03903f6-b403-4937-8c12-921a724ab004",
-            "clue": "Stiffening that happens postmortem: __ mortis",
-            "answer": "rigor",
-            "normalized": "rigor"
+            "id": "6facbb8a-a4a5-4fac-b79d-054b54c8b4a5",
+            "clue": "One's style or energy",
+            "answer": "elan",
+            "normalized": "elan"
           },
           {
-            "id": "0e980088-b061-4410-b1ab-47e6d33a9f97",
-            "clue": "Clear a chalkboard",
-            "answer": "erase",
-            "normalized": "erase"
+            "id": "677f1858-db34-44c5-a0d5-b41613881ea6",
+            "clue": "Dual income, no kids",
+            "answer": "dink",
+            "normalized": "dink"
           },
           {
-            "id": "0a710129-cbc7-4e9b-832d-6c335f1d9e7f",
-            "clue": "How Owl spells his name in Winnie-the-Pooh",
-            "answer": "wol",
-            "normalized": "wol"
+            "id": "330d661f-56db-4226-9c6a-bad6818ef174",
+            "clue": "Spicy gravy served with Hyderabadi Biryani",
+            "answer": "salan",
+            "normalized": "salan"
           },
           {
-            "id": "f1551281-8c5d-456e-9b12-6cede99a11d7",
-            "clue": "Community strongly linked with East Bengal FC",
-            "answer": "bangal",
-            "normalized": "bangal"
+            "id": "daf145ba-c428-4913-9faa-41f5d457ccbf",
+            "clue": "Smelled bad",
+            "answer": "stank",
+            "normalized": "stank"
           },
           {
-            "id": "d098cdb9-ce7f-43e3-8541-b53adea2b42f",
-            "clue": "Female singers below mezzo-sopranos",
-            "answer": "altos",
-            "normalized": "altos"
+            "id": "8ac54a46-c25d-4a37-a159-0c26356c778f",
+            "clue": "Console on which Super Mario Bros. debuted in 1985",
+            "answer": "nes",
+            "normalized": "nes"
           },
           {
-            "id": "40cc6ab4-aa41-4bf4-afe1-e3026864d388",
-            "clue": "Type of reproduction used by mushrooms",
-            "answer": "spore",
-            "normalized": "spore"
+            "id": "3f0fc286-955d-45e2-87ea-aac0c5bd849e",
+            "clue": "Smashed it in a test or tennis serve",
+            "answer": "aced",
+            "normalized": "aced"
           },
           {
-            "id": "92ce80a0-108a-425a-971f-62ad57ef5d5d",
-            "clue": "Archimedes' __, device for transporting water",
-            "answer": "screw",
-            "normalized": "screw"
-          },
-          {
-            "id": "00a3310c-8a2f-49b8-a3e6-037794020f4e",
-            "clue": "Egyptian capital city, on the River Nile",
-            "answer": "cairo",
-            "normalized": "cairo"
+            "id": "59cbb15d-9d0f-4358-9b57-48708378c807",
+            "clue": "A popular Hindi name for Kancha marbles",
+            "answer": "goli",
+            "normalized": "goli"
           }
         ],
-        "track": "PC|LenCinY2026M10D26F0V000"
+        "track": "PC|LenCinY2026M10D27F0V000"
       },
       "mid": {
-        "puzzleId": "44f9d1c2-be12-4b3b-9f49-e2b6867d9355",
+        "puzzleId": "4d4ca80e-fec8-450a-bd1b-4d8dd4619422",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e8f2debd-8d41-4f65-aefd-7bf7059d225c",
-            "clue": "Personal computers",
-            "answer": "pcs",
-            "normalized": "pcs"
+            "id": "1bbc61b8-0131-4ba0-8109-1d7c984d176a",
+            "clue": "Abbreviation for seconds",
+            "answer": "secs",
+            "normalized": "secs"
           },
           {
-            "id": "50916e3c-d387-4189-b8f9-c887f55c4f96",
-            "clue": "These set how much banks charge, pay in interest",
-            "answer": "rates",
-            "normalized": "rates"
+            "id": "af58e030-bed7-4ec3-8ed5-2b4633491778",
+            "clue": "Community often depicted in Ramkinkar Baij's art",
+            "answer": "santhal",
+            "normalized": "santhal"
           },
           {
-            "id": "25d37395-43f1-4d0c-94a7-eba67cf753a1",
-            "clue": "Began a shop's business day",
-            "answer": "opened",
-            "normalized": "opened"
+            "id": "44b7b088-f3e5-42fe-b374-2fb32de36ef6",
+            "clue": "Deeming a will authentic, or not",
+            "answer": "probate",
+            "normalized": "probate"
           },
           {
-            "id": "0bf7359d-3974-4d2e-a632-79f89028920f",
-            "clue": "Suryakumar Yadav's wife's first name",
-            "answer": "devisha",
-            "normalized": "devisha"
+            "id": "1e9e8023-94d0-45be-9bec-c8f92c980b0a",
+            "clue": "A rock subgenre that deals with feelings",
+            "answer": "emo",
+            "normalized": "emo"
           },
           {
-            "id": "8f517182-9a3b-4aaa-a014-c5f30f196c07",
-            "clue": "Single-celled alga",
-            "answer": "diatom",
-            "normalized": "diatom"
+            "id": "614b2eca-6ff8-4a20-b5cc-b3fe65ef8dfb",
+            "clue": "Abbreviation of National Recreation Area in the US",
+            "answer": "nra",
+            "normalized": "nra"
           },
           {
-            "id": "c7248c74-ccc8-43a9-b3b1-2342d1fcd012",
-            "clue": "Means vinegar in Italian, seen before balsamico",
-            "answer": "aceto",
-            "normalized": "aceto"
+            "id": "a4b9b89e-31e1-46e7-b3a9-8f5db2fe4c79",
+            "clue": "Animals that are a bit like llamas",
+            "answer": "alpacas",
+            "normalized": "alpacas"
           },
           {
-            "id": "cb462c1a-8480-4e49-ba38-97992a07d2e1",
-            "clue": "Kesha song __ Tok",
-            "answer": "tik",
-            "normalized": "tik"
+            "id": "91c89d2f-7c4e-44da-aa64-0961e29ccda8",
+            "clue": "Most willing",
+            "answer": "keenest",
+            "normalized": "keenest"
           },
           {
-            "id": "0f447863-9982-47b8-b09d-fc7a454898bc",
-            "clue": "Poke at with a finger, nudge",
-            "answer": "prod",
-            "normalized": "prod"
+            "id": "fb62dbed-bece-440c-80c6-1d7bd73996d4",
+            "clue": "Bis and __, arm muscles",
+            "answer": "tris",
+            "normalized": "tris"
           },
           {
-            "id": "719bcd29-669c-40f0-8a25-83a3d355edb5",
-            "clue": "__ Crusader, nickname for Batman",
-            "answer": "caped",
-            "normalized": "caped"
+            "id": "b18a28a1-b6e6-410c-8022-0e7686230bd4",
+            "clue": "Someone who eavesdrops or digs for information",
+            "answer": "snooper",
+            "normalized": "snooper"
           },
           {
-            "id": "f2dbb209-7d32-4727-b841-526090bbfdc9",
-            "clue": "Leaf sugar substitute first used by the Guarani",
-            "answer": "stevia",
-            "normalized": "stevia"
+            "id": "bdeb9072-a980-47ad-a9da-fef42d9cd3c5",
+            "clue": "Currency code for the Ethiopian birr",
+            "answer": "etb",
+            "normalized": "etb"
           },
           {
-            "id": "1e788179-55fb-4eb7-97fe-9c0bd479ca18",
-            "clue": "World's first general purpose electronic computer",
-            "answer": "eniac",
-            "normalized": "eniac"
+            "id": "9bb1ff33-f902-4ea9-b651-5e3fd9914b26",
+            "clue": "Opportunities to do something",
+            "answer": "chances",
+            "normalized": "chances"
           },
           {
-            "id": "960df6cb-f744-4976-bdc2-fe647a2b6d58",
-            "clue": "Last six lines of a sonnet",
-            "answer": "sestet",
-            "normalized": "sestet"
+            "id": "0b9c374c-ab31-404d-9130-24d7f8b9b34e",
+            "clue": "Monasteries on Majuli Island",
+            "answer": "satras",
+            "normalized": "satras"
           },
           {
-            "id": "042cf069-44f0-4561-b1d5-4043b7cf8628",
-            "clue": "Male Hindu garment covering waist and legs",
-            "answer": "dhoti",
-            "normalized": "dhoti"
+            "id": "ed6e5ddb-4f06-4194-b320-b4bfae5aa0c5",
+            "clue": "In the saying, actions __ louder than words",
+            "answer": "speak",
+            "normalized": "speak"
           },
           {
-            "id": "6a4e972e-256b-4827-a608-4eb034f81148",
-            "clue": "To run __, to go completely wild",
-            "answer": "amok",
-            "normalized": "amok"
+            "id": "3225cb3d-02a3-486f-90f9-ce07309cc7d9",
+            "clue": "A decorative metal band worn around the biceps",
+            "answer": "armlet",
+            "normalized": "armlet"
+          },
+          {
+            "id": "1b9c634e-a534-4a27-8684-e1c7c0eb5137",
+            "clue": "The lowest in importance or significance",
+            "answer": "least",
+            "normalized": "least"
+          },
+          {
+            "id": "b2a8addb-dc2f-47e8-9f1e-eaec2dfbce5a",
+            "clue": "Glossy black cuckoo bird with large bill",
+            "answer": "ani",
+            "normalized": "ani"
           }
         ],
-        "track": "PC|LenCinY2026M10D26F1V000"
+        "track": "PC|LenCinY2026M10D27F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-26",
+      "key": "2026-10-27",
       "year": 2026,
       "month": 10,
-      "day": 26,
+      "day": 27,
       "small": {
-        "puzzleId": "3488d328-7a9a-440b-8dcb-e3c6b5ee0927",
+        "puzzleId": "6bec9352-dced-4771-bad3-69ff567c4b8e",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f62f4e98-f511-4119-bbf3-a7236fc6f1df",
-            "clue": "Rapper born Abbas Hamad",
-            "answer": "bas",
-            "normalized": "bas"
+            "id": "121f892c-9d1c-4800-999b-f0bdeed851da",
+            "clue": "Initialism for social security number in the US",
+            "answer": "ssn",
+            "normalized": "ssn"
           },
           {
-            "id": "3913aad5-7235-4ee7-91ae-b62bac04c69e",
-            "clue": "Dandruff can make this body part itchy",
-            "answer": "scalp",
-            "normalized": "scalp"
+            "id": "ccef41cb-dbb4-407a-8456-fd554a543f61",
+            "clue": "Stone polished by a bead maker",
+            "answer": "agate",
+            "normalized": "agate"
           },
           {
-            "id": "c5e2e98e-63cd-446a-a379-2c8c5d4f0a87",
-            "clue": "One of the major divisions of a long poem",
-            "answer": "canto",
-            "normalized": "canto"
+            "id": "097a4b81-444c-498f-a87d-3e5c1df54ba3",
+            "clue": "Pepsis and cokes",
+            "answer": "colas",
+            "normalized": "colas"
           },
           {
-            "id": "b03903f6-b403-4937-8c12-921a724ab004",
-            "clue": "Stiffening that happens postmortem: __ mortis",
-            "answer": "rigor",
-            "normalized": "rigor"
+            "id": "6facbb8a-a4a5-4fac-b79d-054b54c8b4a5",
+            "clue": "One's style or energy",
+            "answer": "elan",
+            "normalized": "elan"
           },
           {
-            "id": "0e980088-b061-4410-b1ab-47e6d33a9f97",
-            "clue": "Clear a chalkboard",
-            "answer": "erase",
-            "normalized": "erase"
+            "id": "677f1858-db34-44c5-a0d5-b41613881ea6",
+            "clue": "Dual income, no kids",
+            "answer": "dink",
+            "normalized": "dink"
           },
           {
-            "id": "0a710129-cbc7-4e9b-832d-6c335f1d9e7f",
-            "clue": "How Owl spells his name in Winnie-the-Pooh",
-            "answer": "wol",
-            "normalized": "wol"
+            "id": "330d661f-56db-4226-9c6a-bad6818ef174",
+            "clue": "Spicy gravy served with Hyderabadi Biryani",
+            "answer": "salan",
+            "normalized": "salan"
           },
           {
-            "id": "f1551281-8c5d-456e-9b12-6cede99a11d7",
-            "clue": "Community strongly linked with East Bengal FC",
-            "answer": "bangal",
-            "normalized": "bangal"
+            "id": "daf145ba-c428-4913-9faa-41f5d457ccbf",
+            "clue": "Smelled bad",
+            "answer": "stank",
+            "normalized": "stank"
           },
           {
-            "id": "d098cdb9-ce7f-43e3-8541-b53adea2b42f",
-            "clue": "Female singers below mezzo-sopranos",
-            "answer": "altos",
-            "normalized": "altos"
+            "id": "8ac54a46-c25d-4a37-a159-0c26356c778f",
+            "clue": "Console on which Super Mario Bros. debuted in 1985",
+            "answer": "nes",
+            "normalized": "nes"
           },
           {
-            "id": "40cc6ab4-aa41-4bf4-afe1-e3026864d388",
-            "clue": "Type of reproduction used by mushrooms",
-            "answer": "spore",
-            "normalized": "spore"
+            "id": "3f0fc286-955d-45e2-87ea-aac0c5bd849e",
+            "clue": "Smashed it in a test or tennis serve",
+            "answer": "aced",
+            "normalized": "aced"
           },
           {
-            "id": "92ce80a0-108a-425a-971f-62ad57ef5d5d",
-            "clue": "Archimedes' __, device for transporting water",
-            "answer": "screw",
-            "normalized": "screw"
-          },
-          {
-            "id": "00a3310c-8a2f-49b8-a3e6-037794020f4e",
-            "clue": "Egyptian capital city, on the River Nile",
-            "answer": "cairo",
-            "normalized": "cairo"
+            "id": "59cbb15d-9d0f-4358-9b57-48708378c807",
+            "clue": "A popular Hindi name for Kancha marbles",
+            "answer": "goli",
+            "normalized": "goli"
           }
         ],
-        "track": "PC|LenCinY2026M10D26F0V000"
+        "track": "PC|LenCinY2026M10D27F0V000"
       },
       "mid": {
-        "puzzleId": "44f9d1c2-be12-4b3b-9f49-e2b6867d9355",
+        "puzzleId": "4d4ca80e-fec8-450a-bd1b-4d8dd4619422",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e8f2debd-8d41-4f65-aefd-7bf7059d225c",
-            "clue": "Personal computers",
-            "answer": "pcs",
-            "normalized": "pcs"
+            "id": "1bbc61b8-0131-4ba0-8109-1d7c984d176a",
+            "clue": "Abbreviation for seconds",
+            "answer": "secs",
+            "normalized": "secs"
           },
           {
-            "id": "50916e3c-d387-4189-b8f9-c887f55c4f96",
-            "clue": "These set how much banks charge, pay in interest",
-            "answer": "rates",
-            "normalized": "rates"
+            "id": "af58e030-bed7-4ec3-8ed5-2b4633491778",
+            "clue": "Community often depicted in Ramkinkar Baij's art",
+            "answer": "santhal",
+            "normalized": "santhal"
           },
           {
-            "id": "25d37395-43f1-4d0c-94a7-eba67cf753a1",
-            "clue": "Began a shop's business day",
-            "answer": "opened",
-            "normalized": "opened"
+            "id": "44b7b088-f3e5-42fe-b374-2fb32de36ef6",
+            "clue": "Deeming a will authentic, or not",
+            "answer": "probate",
+            "normalized": "probate"
           },
           {
-            "id": "0bf7359d-3974-4d2e-a632-79f89028920f",
-            "clue": "Suryakumar Yadav's wife's first name",
-            "answer": "devisha",
-            "normalized": "devisha"
+            "id": "1e9e8023-94d0-45be-9bec-c8f92c980b0a",
+            "clue": "A rock subgenre that deals with feelings",
+            "answer": "emo",
+            "normalized": "emo"
           },
           {
-            "id": "8f517182-9a3b-4aaa-a014-c5f30f196c07",
-            "clue": "Single-celled alga",
-            "answer": "diatom",
-            "normalized": "diatom"
+            "id": "614b2eca-6ff8-4a20-b5cc-b3fe65ef8dfb",
+            "clue": "Abbreviation of National Recreation Area in the US",
+            "answer": "nra",
+            "normalized": "nra"
           },
           {
-            "id": "c7248c74-ccc8-43a9-b3b1-2342d1fcd012",
-            "clue": "Means vinegar in Italian, seen before balsamico",
-            "answer": "aceto",
-            "normalized": "aceto"
+            "id": "a4b9b89e-31e1-46e7-b3a9-8f5db2fe4c79",
+            "clue": "Animals that are a bit like llamas",
+            "answer": "alpacas",
+            "normalized": "alpacas"
           },
           {
-            "id": "cb462c1a-8480-4e49-ba38-97992a07d2e1",
-            "clue": "Kesha song __ Tok",
-            "answer": "tik",
-            "normalized": "tik"
+            "id": "91c89d2f-7c4e-44da-aa64-0961e29ccda8",
+            "clue": "Most willing",
+            "answer": "keenest",
+            "normalized": "keenest"
           },
           {
-            "id": "0f447863-9982-47b8-b09d-fc7a454898bc",
-            "clue": "Poke at with a finger, nudge",
-            "answer": "prod",
-            "normalized": "prod"
+            "id": "fb62dbed-bece-440c-80c6-1d7bd73996d4",
+            "clue": "Bis and __, arm muscles",
+            "answer": "tris",
+            "normalized": "tris"
           },
           {
-            "id": "719bcd29-669c-40f0-8a25-83a3d355edb5",
-            "clue": "__ Crusader, nickname for Batman",
-            "answer": "caped",
-            "normalized": "caped"
+            "id": "b18a28a1-b6e6-410c-8022-0e7686230bd4",
+            "clue": "Someone who eavesdrops or digs for information",
+            "answer": "snooper",
+            "normalized": "snooper"
           },
           {
-            "id": "f2dbb209-7d32-4727-b841-526090bbfdc9",
-            "clue": "Leaf sugar substitute first used by the Guarani",
-            "answer": "stevia",
-            "normalized": "stevia"
+            "id": "bdeb9072-a980-47ad-a9da-fef42d9cd3c5",
+            "clue": "Currency code for the Ethiopian birr",
+            "answer": "etb",
+            "normalized": "etb"
           },
           {
-            "id": "1e788179-55fb-4eb7-97fe-9c0bd479ca18",
-            "clue": "World's first general purpose electronic computer",
-            "answer": "eniac",
-            "normalized": "eniac"
+            "id": "9bb1ff33-f902-4ea9-b651-5e3fd9914b26",
+            "clue": "Opportunities to do something",
+            "answer": "chances",
+            "normalized": "chances"
           },
           {
-            "id": "960df6cb-f744-4976-bdc2-fe647a2b6d58",
-            "clue": "Last six lines of a sonnet",
-            "answer": "sestet",
-            "normalized": "sestet"
+            "id": "0b9c374c-ab31-404d-9130-24d7f8b9b34e",
+            "clue": "Monasteries on Majuli Island",
+            "answer": "satras",
+            "normalized": "satras"
           },
           {
-            "id": "042cf069-44f0-4561-b1d5-4043b7cf8628",
-            "clue": "Male Hindu garment covering waist and legs",
-            "answer": "dhoti",
-            "normalized": "dhoti"
+            "id": "ed6e5ddb-4f06-4194-b320-b4bfae5aa0c5",
+            "clue": "In the saying, actions __ louder than words",
+            "answer": "speak",
+            "normalized": "speak"
           },
           {
-            "id": "6a4e972e-256b-4827-a608-4eb034f81148",
-            "clue": "To run __, to go completely wild",
-            "answer": "amok",
-            "normalized": "amok"
+            "id": "3225cb3d-02a3-486f-90f9-ce07309cc7d9",
+            "clue": "A decorative metal band worn around the biceps",
+            "answer": "armlet",
+            "normalized": "armlet"
+          },
+          {
+            "id": "1b9c634e-a534-4a27-8684-e1c7c0eb5137",
+            "clue": "The lowest in importance or significance",
+            "answer": "least",
+            "normalized": "least"
+          },
+          {
+            "id": "b2a8addb-dc2f-47e8-9f1e-eaec2dfbce5a",
+            "clue": "Glossy black cuckoo bird with large bill",
+            "answer": "ani",
+            "normalized": "ani"
           }
         ],
-        "track": "PC|LenCinY2026M10D26F1V000"
+        "track": "PC|LenCinY2026M10D27F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383292,21 +383304,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "hDcWeMZaGwI7FL7jXybnzQ1QujX5zMKh5kSHbeTxipR1pMt5fmCnOAgnZoIRboGjz9A/15brgKlm8u2uhbLTJjVbuR6hDSrAupErs02J04KHea+J1PfCaCzwBg6A4eYeA/mIZFabpqWg092q5DQdTjd4/TILeWDu/2B1JR3qMWMBvC7GjH+3FXtt3nnhZXhvVNcFoJZ0TV6OtZmcXV3kMGYee02YusmB+w8y8nPi4T8TJNR/zAgHovEX5trr1Ux6T8avCiFZet7/te8GWaIB12V04NQuUUWtHyk0B9NdlTU="
+        "7HF5S8rMY6QRhUOP34eq40zRXcPV0oGrStioPP7hB4pe4Piju2OWxDisT1P/prZQTTw3WeA6d/pKFrHDHoQrmQ9oEJApGECxLZPLooxbZnJ6lNd7AtNyZVunEywISS/bwiTSl7rDPxVkKSFhWmQ7RyLaZOvDUhuX9FdjScb9mEyZsN4m1ZlgIt7m7Ec1TLvqePlx4aGeYplyV3iYQFpUsulLVjuTVWvgEvAVIZtUu83BaXdxe5JRg7ZwhMNztN7PdanVsYUOqB8x+sdi0tNlYOGqUCrAhsg4u78REFMl/qM="
       ]
     },
     "decrypted": {
-      "Id": "15fe9ec7-048c-4b35-9c15-3ce6f7c6e74f",
-      "Date": "2026-10-26T00:00:00Z",
+      "Id": "b02072ce-7c01-4773-8446-bb84479d403e",
+      "Date": "2026-10-27T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "trace",
-      "NormalizedPassword": "trace",
+      "Password": "queen",
+      "NormalizedPassword": "queen",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-26T02:30:48.6420000+05:30",
-    "hash": "d4cbdd3e0fb7105b8ca991d5da5a048c",
+    "dtu": "2026-10-27T04:17:40.0460000+05:30",
+    "hash": "f47db5d4a4d57cdcba1d26000c1c344d",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
