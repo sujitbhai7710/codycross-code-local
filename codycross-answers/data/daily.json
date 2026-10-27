@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T22:47:40.046Z",
+  "generatedAt": "2026-10-27T22:27:20.638Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 27
+    "day": 28
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 50
+        "QuantidadeDeFases": 52
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -159183,7 +159183,7 @@
           "answers": [
             {
               "id": "2dfeddda-0c8f-467b-98bb-6683784f2679",
-              "clue": "Won't regret, can't forget what I __ for love",
+              "clue": "\"Won't regret, can't forget what I __ for love\"",
               "answer": "did",
               "normalized": "did"
             },
@@ -382738,367 +382738,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-27",
+      "key": "2026-10-28",
       "year": 2026,
       "month": 10,
-      "day": 27,
+      "day": 28,
       "small": {
-        "puzzleId": "6bec9352-dced-4771-bad3-69ff567c4b8e",
+        "puzzleId": "493d2d55-9f0d-4754-85ef-96fc9c950a0a",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "121f892c-9d1c-4800-999b-f0bdeed851da",
-            "clue": "Initialism for social security number in the US",
-            "answer": "ssn",
-            "normalized": "ssn"
+            "id": "be92760e-2b5e-43b6-a5be-8120d200a3d1",
+            "clue": "Use suction to absorb something",
+            "answer": "suck",
+            "normalized": "suck"
           },
           {
-            "id": "ccef41cb-dbb4-407a-8456-fd554a543f61",
-            "clue": "Stone polished by a bead maker",
-            "answer": "agate",
-            "normalized": "agate"
+            "id": "11bad1ca-c2db-4564-88b7-13e36c2df7e5",
+            "clue": "Global trucks brand headquartered in Sweden",
+            "answer": "scania",
+            "normalized": "scania"
           },
           {
-            "id": "097a4b81-444c-498f-a87d-3e5c1df54ba3",
-            "clue": "Pepsis and cokes",
-            "answer": "colas",
-            "normalized": "colas"
+            "id": "735f80a9-2676-4b16-8b46-56500ec07330",
+            "clue": "Skill or aptitude for doing something well",
+            "answer": "talent",
+            "normalized": "talent"
           },
           {
-            "id": "6facbb8a-a4a5-4fac-b79d-054b54c8b4a5",
-            "clue": "One's style or energy",
-            "answer": "elan",
-            "normalized": "elan"
+            "id": "a1c237d0-c197-4387-b516-baffe8c1c1fd",
+            "clue": "Join one thing to another",
+            "answer": "attach",
+            "normalized": "attach"
           },
           {
-            "id": "677f1858-db34-44c5-a0d5-b41613881ea6",
-            "clue": "Dual income, no kids",
-            "answer": "dink",
-            "normalized": "dink"
+            "id": "645ed4b0-056f-4854-b408-6ce06f3e4260",
+            "clue": "Coiled serpent in Hindu creation story",
+            "answer": "shesha",
+            "normalized": "shesha"
           },
           {
-            "id": "330d661f-56db-4226-9c6a-bad6818ef174",
-            "clue": "Spicy gravy served with Hyderabadi Biryani",
-            "answer": "salan",
-            "normalized": "salan"
+            "id": "3d1aca71-491b-443e-96e6-a834e7b2cadf",
+            "clue": "Jekyll's literary alter ego",
+            "answer": "hyde",
+            "normalized": "hyde"
           },
           {
-            "id": "daf145ba-c428-4913-9faa-41f5d457ccbf",
-            "clue": "Smelled bad",
-            "answer": "stank",
-            "normalized": "stank"
+            "id": "0809f110-eef7-4257-a1f7-66e5a47dd052",
+            "clue": "__ caramel; sweet, buttery sauce or filling",
+            "answer": "salted",
+            "normalized": "salted"
           },
           {
-            "id": "8ac54a46-c25d-4a37-a159-0c26356c778f",
-            "clue": "Console on which Super Mario Bros. debuted in 1985",
-            "answer": "nes",
-            "normalized": "nes"
+            "id": "ee59166d-a895-4ec6-a804-30825f71483a",
+            "clue": "Discomfort",
+            "answer": "unease",
+            "normalized": "unease"
           },
           {
-            "id": "3f0fc286-955d-45e2-87ea-aac0c5bd849e",
-            "clue": "Smashed it in a test or tennis serve",
-            "answer": "aced",
-            "normalized": "aced"
+            "id": "eeae373b-289b-409e-ab1c-441f8e14095a",
+            "clue": "A tight grip, or easy task",
+            "answer": "cinch",
+            "normalized": "cinch"
           },
           {
-            "id": "59cbb15d-9d0f-4358-9b57-48708378c807",
-            "clue": "A popular Hindi name for Kancha marbles",
-            "answer": "goli",
-            "normalized": "goli"
+            "id": "5b035f23-b4ce-40e2-aa6e-2064fac3b283",
+            "clue": "The legend narrated during the Karva Chauth puja",
+            "answer": "katha",
+            "normalized": "katha"
+          },
+          {
+            "id": "7b9415fc-73cf-4328-8e78-efdc1d33fb9c",
+            "clue": "Hidden store of something, often money",
+            "answer": "stash",
+            "normalized": "stash"
+          },
+          {
+            "id": "f97a32f2-7513-47c7-b661-952fd074c832",
+            "clue": "Asked Heathcliff to let her in his window",
+            "answer": "cathy",
+            "normalized": "cathy"
           }
         ],
-        "track": "PC|LenCinY2026M10D27F0V000"
+        "track": "PC|LenCinY2026M10D28F0V000"
       },
       "mid": {
-        "puzzleId": "4d4ca80e-fec8-450a-bd1b-4d8dd4619422",
+        "puzzleId": "31342f2e-b82c-40a0-9865-6a6cb6eb2c7e",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1bbc61b8-0131-4ba0-8109-1d7c984d176a",
-            "clue": "Abbreviation for seconds",
-            "answer": "secs",
-            "normalized": "secs"
+            "id": "b4548f91-20fa-469a-aadc-832d93d6001c",
+            "clue": "Affectionate name for S. P. Balasubrahmanyam",
+            "answer": "spb",
+            "normalized": "spb"
           },
           {
-            "id": "af58e030-bed7-4ec3-8ed5-2b4633491778",
-            "clue": "Community often depicted in Ramkinkar Baij's art",
-            "answer": "santhal",
-            "normalized": "santhal"
+            "id": "4b16bf7f-ea50-4433-883b-1da290033d61",
+            "clue": "Country bordering Thailand, capital is Vientiane",
+            "answer": "laos",
+            "normalized": "laos"
           },
           {
-            "id": "44b7b088-f3e5-42fe-b374-2fb32de36ef6",
-            "clue": "Deeming a will authentic, or not",
-            "answer": "probate",
-            "normalized": "probate"
+            "id": "f9707baa-d055-4542-92f1-2712b73b2664",
+            "clue": "Large amount, great deal",
+            "answer": "a lot",
+            "normalized": "alot"
           },
           {
-            "id": "1e9e8023-94d0-45be-9bec-c8f92c980b0a",
-            "clue": "A rock subgenre that deals with feelings",
-            "answer": "emo",
-            "normalized": "emo"
+            "id": "db382cc0-ec91-4667-8ed6-1a2840c35a30",
+            "clue": "Leaves someone on an island",
+            "answer": "maroons",
+            "normalized": "maroons"
           },
           {
-            "id": "614b2eca-6ff8-4a20-b5cc-b3fe65ef8dfb",
-            "clue": "Abbreviation of National Recreation Area in the US",
-            "answer": "nra",
-            "normalized": "nra"
+            "id": "3748c9ce-0617-45f8-a3be-0d00d066635f",
+            "clue": "Female horse",
+            "answer": "mare",
+            "normalized": "mare"
           },
           {
-            "id": "a4b9b89e-31e1-46e7-b3a9-8f5db2fe4c79",
-            "clue": "Animals that are a bit like llamas",
-            "answer": "alpacas",
-            "normalized": "alpacas"
+            "id": "ed9b309a-b096-4ac8-9692-38e30255a68f",
+            "clue": "The creator of Chacha Chaudhary comics",
+            "answer": "pran",
+            "normalized": "pran"
           },
           {
-            "id": "91c89d2f-7c4e-44da-aa64-0961e29ccda8",
-            "clue": "Most willing",
-            "answer": "keenest",
-            "normalized": "keenest"
+            "id": "b3b24663-11e3-490e-92a8-a0e1aaa31d99",
+            "clue": "To work as an artist's model for a drawing class",
+            "answer": "sit",
+            "normalized": "sit"
           },
           {
-            "id": "fb62dbed-bece-440c-80c6-1d7bd73996d4",
-            "clue": "Bis and __, arm muscles",
-            "answer": "tris",
-            "normalized": "tris"
+            "id": "c521a596-06cd-4c58-8f5b-1f7c6d9b8b4c",
+            "clue": "To shut a door noisily",
+            "answer": "slam",
+            "normalized": "slam"
           },
           {
-            "id": "b18a28a1-b6e6-410c-8022-0e7686230bd4",
-            "clue": "Someone who eavesdrops or digs for information",
-            "answer": "snooper",
-            "normalized": "snooper"
+            "id": "12f7ecc0-d2d1-4cd1-b1c6-a7c215895f94",
+            "clue": "Bengal dynasty defeated by Rajendra Chola I's army",
+            "answer": "pala",
+            "normalized": "pala"
           },
           {
-            "id": "bdeb9072-a980-47ad-a9da-fef42d9cd3c5",
-            "clue": "Currency code for the Ethiopian birr",
-            "answer": "etb",
-            "normalized": "etb"
+            "id": "6da908bd-dd65-4edb-97c8-0f3ebae3032f",
+            "clue": "Oaf, lout",
+            "answer": "boor",
+            "normalized": "boor"
           },
           {
-            "id": "9bb1ff33-f902-4ea9-b651-5e3fd9914b26",
-            "clue": "Opportunities to do something",
-            "answer": "chances",
-            "normalized": "chances"
+            "id": "26987ca2-e5a9-461a-b710-7e667cc32180",
+            "clue": "To heavily or loudly step or trample on",
+            "answer": "stomp",
+            "normalized": "stomp"
           },
           {
-            "id": "0b9c374c-ab31-404d-9130-24d7f8b9b34e",
-            "clue": "Monasteries on Majuli Island",
-            "answer": "satras",
-            "normalized": "satras"
+            "id": "a09c2196-c1a2-4460-962d-cc22b967159c",
+            "clue": "Bladed poles used to steer and propel a rowboat",
+            "answer": "oars",
+            "normalized": "oars"
           },
           {
-            "id": "ed6e5ddb-4f06-4194-b320-b4bfae5aa0c5",
-            "clue": "In the saying, actions __ louder than words",
-            "answer": "speak",
-            "normalized": "speak"
+            "id": "f1702cf9-07ac-44c3-b41c-6d165fe75c54",
+            "clue": "Body that runs the National Shooting Championship",
+            "answer": "nrai",
+            "normalized": "nrai"
           },
           {
-            "id": "3225cb3d-02a3-486f-90f9-ce07309cc7d9",
-            "clue": "A decorative metal band worn around the biceps",
-            "answer": "armlet",
-            "normalized": "armlet"
-          },
-          {
-            "id": "1b9c634e-a534-4a27-8684-e1c7c0eb5137",
-            "clue": "The lowest in importance or significance",
-            "answer": "least",
-            "normalized": "least"
-          },
-          {
-            "id": "b2a8addb-dc2f-47e8-9f1e-eaec2dfbce5a",
-            "clue": "Glossy black cuckoo bird with large bill",
-            "answer": "ani",
-            "normalized": "ani"
+            "id": "628a09ab-ae9d-4ce3-b583-3c71c55a3d14",
+            "clue": "__ from my iPhone, message signature",
+            "answer": "sent",
+            "normalized": "sent"
           }
         ],
-        "track": "PC|LenCinY2026M10D27F1V000"
+        "track": "PC|LenCinY2026M10D28F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-27",
+      "key": "2026-10-28",
       "year": 2026,
       "month": 10,
-      "day": 27,
+      "day": 28,
       "small": {
-        "puzzleId": "6bec9352-dced-4771-bad3-69ff567c4b8e",
+        "puzzleId": "493d2d55-9f0d-4754-85ef-96fc9c950a0a",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "121f892c-9d1c-4800-999b-f0bdeed851da",
-            "clue": "Initialism for social security number in the US",
-            "answer": "ssn",
-            "normalized": "ssn"
+            "id": "be92760e-2b5e-43b6-a5be-8120d200a3d1",
+            "clue": "Use suction to absorb something",
+            "answer": "suck",
+            "normalized": "suck"
           },
           {
-            "id": "ccef41cb-dbb4-407a-8456-fd554a543f61",
-            "clue": "Stone polished by a bead maker",
-            "answer": "agate",
-            "normalized": "agate"
+            "id": "11bad1ca-c2db-4564-88b7-13e36c2df7e5",
+            "clue": "Global trucks brand headquartered in Sweden",
+            "answer": "scania",
+            "normalized": "scania"
           },
           {
-            "id": "097a4b81-444c-498f-a87d-3e5c1df54ba3",
-            "clue": "Pepsis and cokes",
-            "answer": "colas",
-            "normalized": "colas"
+            "id": "735f80a9-2676-4b16-8b46-56500ec07330",
+            "clue": "Skill or aptitude for doing something well",
+            "answer": "talent",
+            "normalized": "talent"
           },
           {
-            "id": "6facbb8a-a4a5-4fac-b79d-054b54c8b4a5",
-            "clue": "One's style or energy",
-            "answer": "elan",
-            "normalized": "elan"
+            "id": "a1c237d0-c197-4387-b516-baffe8c1c1fd",
+            "clue": "Join one thing to another",
+            "answer": "attach",
+            "normalized": "attach"
           },
           {
-            "id": "677f1858-db34-44c5-a0d5-b41613881ea6",
-            "clue": "Dual income, no kids",
-            "answer": "dink",
-            "normalized": "dink"
+            "id": "645ed4b0-056f-4854-b408-6ce06f3e4260",
+            "clue": "Coiled serpent in Hindu creation story",
+            "answer": "shesha",
+            "normalized": "shesha"
           },
           {
-            "id": "330d661f-56db-4226-9c6a-bad6818ef174",
-            "clue": "Spicy gravy served with Hyderabadi Biryani",
-            "answer": "salan",
-            "normalized": "salan"
+            "id": "3d1aca71-491b-443e-96e6-a834e7b2cadf",
+            "clue": "Jekyll's literary alter ego",
+            "answer": "hyde",
+            "normalized": "hyde"
           },
           {
-            "id": "daf145ba-c428-4913-9faa-41f5d457ccbf",
-            "clue": "Smelled bad",
-            "answer": "stank",
-            "normalized": "stank"
+            "id": "0809f110-eef7-4257-a1f7-66e5a47dd052",
+            "clue": "__ caramel; sweet, buttery sauce or filling",
+            "answer": "salted",
+            "normalized": "salted"
           },
           {
-            "id": "8ac54a46-c25d-4a37-a159-0c26356c778f",
-            "clue": "Console on which Super Mario Bros. debuted in 1985",
-            "answer": "nes",
-            "normalized": "nes"
+            "id": "ee59166d-a895-4ec6-a804-30825f71483a",
+            "clue": "Discomfort",
+            "answer": "unease",
+            "normalized": "unease"
           },
           {
-            "id": "3f0fc286-955d-45e2-87ea-aac0c5bd849e",
-            "clue": "Smashed it in a test or tennis serve",
-            "answer": "aced",
-            "normalized": "aced"
+            "id": "eeae373b-289b-409e-ab1c-441f8e14095a",
+            "clue": "A tight grip, or easy task",
+            "answer": "cinch",
+            "normalized": "cinch"
           },
           {
-            "id": "59cbb15d-9d0f-4358-9b57-48708378c807",
-            "clue": "A popular Hindi name for Kancha marbles",
-            "answer": "goli",
-            "normalized": "goli"
+            "id": "5b035f23-b4ce-40e2-aa6e-2064fac3b283",
+            "clue": "The legend narrated during the Karva Chauth puja",
+            "answer": "katha",
+            "normalized": "katha"
+          },
+          {
+            "id": "7b9415fc-73cf-4328-8e78-efdc1d33fb9c",
+            "clue": "Hidden store of something, often money",
+            "answer": "stash",
+            "normalized": "stash"
+          },
+          {
+            "id": "f97a32f2-7513-47c7-b661-952fd074c832",
+            "clue": "Asked Heathcliff to let her in his window",
+            "answer": "cathy",
+            "normalized": "cathy"
           }
         ],
-        "track": "PC|LenCinY2026M10D27F0V000"
+        "track": "PC|LenCinY2026M10D28F0V000"
       },
       "mid": {
-        "puzzleId": "4d4ca80e-fec8-450a-bd1b-4d8dd4619422",
+        "puzzleId": "31342f2e-b82c-40a0-9865-6a6cb6eb2c7e",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1bbc61b8-0131-4ba0-8109-1d7c984d176a",
-            "clue": "Abbreviation for seconds",
-            "answer": "secs",
-            "normalized": "secs"
+            "id": "b4548f91-20fa-469a-aadc-832d93d6001c",
+            "clue": "Affectionate name for S. P. Balasubrahmanyam",
+            "answer": "spb",
+            "normalized": "spb"
           },
           {
-            "id": "af58e030-bed7-4ec3-8ed5-2b4633491778",
-            "clue": "Community often depicted in Ramkinkar Baij's art",
-            "answer": "santhal",
-            "normalized": "santhal"
+            "id": "4b16bf7f-ea50-4433-883b-1da290033d61",
+            "clue": "Country bordering Thailand, capital is Vientiane",
+            "answer": "laos",
+            "normalized": "laos"
           },
           {
-            "id": "44b7b088-f3e5-42fe-b374-2fb32de36ef6",
-            "clue": "Deeming a will authentic, or not",
-            "answer": "probate",
-            "normalized": "probate"
+            "id": "f9707baa-d055-4542-92f1-2712b73b2664",
+            "clue": "Large amount, great deal",
+            "answer": "a lot",
+            "normalized": "alot"
           },
           {
-            "id": "1e9e8023-94d0-45be-9bec-c8f92c980b0a",
-            "clue": "A rock subgenre that deals with feelings",
-            "answer": "emo",
-            "normalized": "emo"
+            "id": "db382cc0-ec91-4667-8ed6-1a2840c35a30",
+            "clue": "Leaves someone on an island",
+            "answer": "maroons",
+            "normalized": "maroons"
           },
           {
-            "id": "614b2eca-6ff8-4a20-b5cc-b3fe65ef8dfb",
-            "clue": "Abbreviation of National Recreation Area in the US",
-            "answer": "nra",
-            "normalized": "nra"
+            "id": "3748c9ce-0617-45f8-a3be-0d00d066635f",
+            "clue": "Female horse",
+            "answer": "mare",
+            "normalized": "mare"
           },
           {
-            "id": "a4b9b89e-31e1-46e7-b3a9-8f5db2fe4c79",
-            "clue": "Animals that are a bit like llamas",
-            "answer": "alpacas",
-            "normalized": "alpacas"
+            "id": "ed9b309a-b096-4ac8-9692-38e30255a68f",
+            "clue": "The creator of Chacha Chaudhary comics",
+            "answer": "pran",
+            "normalized": "pran"
           },
           {
-            "id": "91c89d2f-7c4e-44da-aa64-0961e29ccda8",
-            "clue": "Most willing",
-            "answer": "keenest",
-            "normalized": "keenest"
+            "id": "b3b24663-11e3-490e-92a8-a0e1aaa31d99",
+            "clue": "To work as an artist's model for a drawing class",
+            "answer": "sit",
+            "normalized": "sit"
           },
           {
-            "id": "fb62dbed-bece-440c-80c6-1d7bd73996d4",
-            "clue": "Bis and __, arm muscles",
-            "answer": "tris",
-            "normalized": "tris"
+            "id": "c521a596-06cd-4c58-8f5b-1f7c6d9b8b4c",
+            "clue": "To shut a door noisily",
+            "answer": "slam",
+            "normalized": "slam"
           },
           {
-            "id": "b18a28a1-b6e6-410c-8022-0e7686230bd4",
-            "clue": "Someone who eavesdrops or digs for information",
-            "answer": "snooper",
-            "normalized": "snooper"
+            "id": "12f7ecc0-d2d1-4cd1-b1c6-a7c215895f94",
+            "clue": "Bengal dynasty defeated by Rajendra Chola I's army",
+            "answer": "pala",
+            "normalized": "pala"
           },
           {
-            "id": "bdeb9072-a980-47ad-a9da-fef42d9cd3c5",
-            "clue": "Currency code for the Ethiopian birr",
-            "answer": "etb",
-            "normalized": "etb"
+            "id": "6da908bd-dd65-4edb-97c8-0f3ebae3032f",
+            "clue": "Oaf, lout",
+            "answer": "boor",
+            "normalized": "boor"
           },
           {
-            "id": "9bb1ff33-f902-4ea9-b651-5e3fd9914b26",
-            "clue": "Opportunities to do something",
-            "answer": "chances",
-            "normalized": "chances"
+            "id": "26987ca2-e5a9-461a-b710-7e667cc32180",
+            "clue": "To heavily or loudly step or trample on",
+            "answer": "stomp",
+            "normalized": "stomp"
           },
           {
-            "id": "0b9c374c-ab31-404d-9130-24d7f8b9b34e",
-            "clue": "Monasteries on Majuli Island",
-            "answer": "satras",
-            "normalized": "satras"
+            "id": "a09c2196-c1a2-4460-962d-cc22b967159c",
+            "clue": "Bladed poles used to steer and propel a rowboat",
+            "answer": "oars",
+            "normalized": "oars"
           },
           {
-            "id": "ed6e5ddb-4f06-4194-b320-b4bfae5aa0c5",
-            "clue": "In the saying, actions __ louder than words",
-            "answer": "speak",
-            "normalized": "speak"
+            "id": "f1702cf9-07ac-44c3-b41c-6d165fe75c54",
+            "clue": "Body that runs the National Shooting Championship",
+            "answer": "nrai",
+            "normalized": "nrai"
           },
           {
-            "id": "3225cb3d-02a3-486f-90f9-ce07309cc7d9",
-            "clue": "A decorative metal band worn around the biceps",
-            "answer": "armlet",
-            "normalized": "armlet"
-          },
-          {
-            "id": "1b9c634e-a534-4a27-8684-e1c7c0eb5137",
-            "clue": "The lowest in importance or significance",
-            "answer": "least",
-            "normalized": "least"
-          },
-          {
-            "id": "b2a8addb-dc2f-47e8-9f1e-eaec2dfbce5a",
-            "clue": "Glossy black cuckoo bird with large bill",
-            "answer": "ani",
-            "normalized": "ani"
+            "id": "628a09ab-ae9d-4ce3-b583-3c71c55a3d14",
+            "clue": "__ from my iPhone, message signature",
+            "answer": "sent",
+            "normalized": "sent"
           }
         ],
-        "track": "PC|LenCinY2026M10D27F1V000"
+        "track": "PC|LenCinY2026M10D28F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383304,21 +383304,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "7HF5S8rMY6QRhUOP34eq40zRXcPV0oGrStioPP7hB4pe4Piju2OWxDisT1P/prZQTTw3WeA6d/pKFrHDHoQrmQ9oEJApGECxLZPLooxbZnJ6lNd7AtNyZVunEywISS/bwiTSl7rDPxVkKSFhWmQ7RyLaZOvDUhuX9FdjScb9mEyZsN4m1ZlgIt7m7Ec1TLvqePlx4aGeYplyV3iYQFpUsulLVjuTVWvgEvAVIZtUu83BaXdxe5JRg7ZwhMNztN7PdanVsYUOqB8x+sdi0tNlYOGqUCrAhsg4u78REFMl/qM="
+        "xfFrM1is1aDGu63CAp0Qy6TmUtxVYCglUCgUesD0B0XJ2XH7UDUFX0yZ4UQ5QTEWoPoAHk69E1hsJ93v5UGudIFywUUF3lV7O/u086HSkwCA2kskiUGuHxz7xSk8hAoUQToif+e7R5GIlGk4YFQ3eJx9iVfD1YsGEx2jhlI3aDYIbjGwPLrLt9/V1dyEVMDyjn/0AsNYk96kAAMjda89CSwoVI9AdF3aC32QJOdgO6B94kcnEjjyhSNJcy6dZdkGFG2TlLjlZvxBJSz24esiqKM6cChbJ0FCWVjktl+XzzQ="
       ]
     },
     "decrypted": {
-      "Id": "b02072ce-7c01-4773-8446-bb84479d403e",
-      "Date": "2026-10-27T00:00:00Z",
+      "Id": "3f622265-139a-4ea7-a2ec-998b3f158ca2",
+      "Date": "2026-10-28T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "queen",
-      "NormalizedPassword": "queen",
+      "Password": "bison",
+      "NormalizedPassword": "bison",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-27T04:17:40.0460000+05:30",
-    "hash": "f47db5d4a4d57cdcba1d26000c1c344d",
+    "dtu": "2026-10-28T03:57:20.6380000+05:30",
+    "hash": "4edd60e857fb854d5f66c3e83215f5b6",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
