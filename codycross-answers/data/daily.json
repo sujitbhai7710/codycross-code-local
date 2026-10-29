@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T22:44:05.299Z",
+  "generatedAt": "2026-10-29T22:53:01.499Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 29
+    "day": 30
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 54
+        "QuantidadeDeFases": 56
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -6303,7 +6303,7 @@
             },
             {
               "id": "7e7cee69-4e7f-4089-9cb7-4f79201323c5",
-              "clue": "An ice__ sank the Titanic",
+              "clue": "Short for the kind of ice that sank the Titanic",
               "answer": "berg",
               "normalized": "berg"
             },
@@ -23861,7 +23861,7 @@
             },
             {
               "id": "694360dc-ef4b-4bc7-9a5b-4caf9e1532bd",
-              "clue": "Past participle of lie",
+              "clue": "Past participle of lie, as in lie down",
               "answer": "lain",
               "normalized": "lain"
             },
@@ -27485,7 +27485,7 @@
             },
             {
               "id": "dfc63885-50bf-46f1-ba0a-acf0ccfb3e24",
-              "clue": "__ Aviv, Israeli city on the Mediterranean coast",
+              "clue": "__ Aviv, city on the Mediterranean coast",
               "answer": "tel",
               "normalized": "tel"
             }
@@ -36129,7 +36129,7 @@
             },
             {
               "id": "467e92d1-8010-46f4-861e-643c9f986ac2",
-              "clue": "Indian site of three major battles against Afghans",
+              "clue": "Indian city known for three decisive battles",
               "answer": "panipat",
               "normalized": "panipat"
             },
@@ -58501,7 +58501,7 @@
             },
             {
               "id": "7160cebb-0e44-4465-a7a5-37b5bc20e013",
-              "clue": "Conical tent associated with some Sioux tribes",
+              "clue": "Conical tent with smoke flaps at the top",
               "answer": "teepee",
               "normalized": "teepee"
             },
@@ -67663,7 +67663,7 @@
             },
             {
               "id": "fe449c5e-30e8-4abf-98e1-ff774df0925a",
-              "clue": "Organisations created by nations working together",
+              "clue": "Group created by nations working together, acronym",
               "answer": "igo",
               "normalized": "igo"
             },
@@ -69249,7 +69249,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism was formally known as __, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -98659,7 +98659,7 @@
             },
             {
               "id": "f9dc03dc-f2a2-4903-856e-614379761314",
-              "clue": "Made a mistake",
+              "clue": "Made a mistake (formal)",
               "answer": "erred",
               "normalized": "erred"
             }
@@ -112361,7 +112361,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism was formally known as __, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -145831,7 +145831,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism was formally known as __, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -165095,7 +165095,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism was formally known as __, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -203341,7 +203341,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism was formally known as __, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -203751,7 +203751,7 @@
             },
             {
               "id": "7160cebb-0e44-4465-a7a5-37b5bc20e013",
-              "clue": "Conical tent associated with some Sioux tribes",
+              "clue": "Conical tent with smoke flaps at the top",
               "answer": "teepee",
               "normalized": "teepee"
             },
@@ -208755,7 +208755,7 @@
             },
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism was formally known as __, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             }
@@ -214885,7 +214885,7 @@
             },
             {
               "id": "e4357af3-96de-4826-aa6e-24e7c9824c85",
-              "clue": "Name for the eight small bones in the wrist",
+              "clue": "Group of eight bones that form the wrist",
               "answer": "carpus",
               "normalized": "carpus"
             },
@@ -334423,7 +334423,7 @@
             },
             {
               "id": "694360dc-ef4b-4bc7-9a5b-4caf9e1532bd",
-              "clue": "Past participle of lie",
+              "clue": "Past participle of lie, as in lie down",
               "answer": "lain",
               "normalized": "lain"
             },
@@ -336677,7 +336677,7 @@
           "answers": [
             {
               "id": "e1b5abd0-2773-47f1-bb2d-eb5a9c944814",
-              "clue": "Compulsive, repetitive movements or sounds",
+              "clue": "Repetitive movements or sounds",
               "answer": "tics",
               "normalized": "tics"
             },
@@ -341129,7 +341129,7 @@
             },
             {
               "id": "e4357af3-96de-4826-aa6e-24e7c9824c85",
-              "clue": "Name for the eight small bones in the wrist",
+              "clue": "Group of eight bones that form the wrist",
               "answer": "carpus",
               "normalized": "carpus"
             },
@@ -361531,7 +361531,7 @@
           "answers": [
             {
               "id": "e4101621-5a6b-4ba0-8a89-0462ecb801fd",
-              "clue": "Autism was formally known as __, abbr.",
+              "clue": "Autism is formally known as __, abbr.",
               "answer": "asd",
               "normalized": "asd"
             },
@@ -373975,7 +373975,7 @@
             },
             {
               "id": "7160cebb-0e44-4465-a7a5-37b5bc20e013",
-              "clue": "Conical tent associated with some Sioux tribes",
+              "clue": "Conical tent with smoke flaps at the top",
               "answer": "teepee",
               "normalized": "teepee"
             },
@@ -382738,379 +382738,343 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-29",
+      "key": "2026-10-30",
       "year": 2026,
       "month": 10,
-      "day": 29,
+      "day": 30,
       "small": {
-        "puzzleId": "75d5b29e-7440-4879-845b-0b46e8c09d2d",
+        "puzzleId": "2eb60d2c-8e03-4abc-ae25-069a080809cc",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "053e80cb-9741-4d8e-8366-161e91d10ed8",
-            "clue": "He's the star of the show on Father's Day",
-            "answer": "papa",
-            "normalized": "papa"
+            "id": "e33794c5-5bae-40bb-bc8c-685eeb67e965",
+            "clue": "Throws in a high arc",
+            "answer": "lobs",
+            "normalized": "lobs"
           },
           {
-            "id": "3a2c30af-7696-4013-8577-c7b1726c45c0",
-            "clue": "Illuminated by solar rays, say",
-            "answer": "sunlit",
-            "normalized": "sunlit"
+            "id": "4e015918-4aff-4807-9fb2-11395469c81b",
+            "clue": "Musketeer who is also a count",
+            "answer": "athos",
+            "normalized": "athos"
           },
           {
-            "id": "11b95fe0-0290-41e0-823e-8b4fbabe81ac",
-            "clue": "Cause physical harm",
-            "answer": "injure",
-            "normalized": "injure"
+            "id": "dc43359d-dc36-4711-90cb-c071cc5570a8",
+            "clue": "A high-action move performed in a movie",
+            "answer": "stunt",
+            "normalized": "stunt"
           },
           {
-            "id": "deb76bf8-d67a-46c3-834a-6770adb7e7dd",
-            "clue": "Indian Buddhist cave temple with wall paintings",
-            "answer": "ajanta",
-            "normalized": "ajanta"
+            "id": "f8cc4049-2aa4-4ee2-bd10-c279f0efb1e7",
+            "clue": "Melodic vocal piece common in opera",
+            "answer": "aria",
+            "normalized": "aria"
           },
           {
-            "id": "168c12f3-cd8a-4d08-bd10-c9997e9b4079",
-            "clue": "Stable trough; Baby Jesus' makeshift crib",
-            "answer": "manger",
-            "normalized": "manger"
+            "id": "2ee2b143-a099-4366-9c10-53d4f4a5b51d",
+            "clue": "Raj Kapoor's directorial debut film",
+            "answer": "aag",
+            "normalized": "aag"
           },
           {
-            "id": "e4d2621b-19d4-4d05-9d3d-0e3cb5925543",
-            "clue": "Leaf offered to Lord Shiva during Maha Shivaratri",
-            "answer": "bael",
-            "normalized": "bael"
+            "id": "d0e17f4a-f8e6-4fbb-81f3-08123b90226a",
+            "clue": "__ Vegas, resort also known as Sin City",
+            "answer": "las",
+            "normalized": "las"
           },
           {
-            "id": "0346d698-b23e-4110-93d2-5713394060eb",
-            "clue": "Indian state where Vaisakhi is a big festival",
-            "answer": "punjab",
-            "normalized": "punjab"
+            "id": "b1978542-2083-438e-be26-dca70cb2448e",
+            "clue": "A scoring stage in Nadan Panthu Kali",
+            "answer": "otta",
+            "normalized": "otta"
           },
           {
-            "id": "75a0a622-76aa-4480-b7c0-62ed9aa9a543",
-            "clue": "Mother of the mighty Hanuman",
-            "answer": "anjana",
-            "normalized": "anjana"
+            "id": "0f8b7311-7a76-4776-82e1-c4e1ab02dde1",
+            "clue": "The poultry farmer in Bhuvan's team in Lagaan",
+            "answer": "bhura",
+            "normalized": "bhura"
           },
           {
-            "id": "92b57c41-9d14-4b5a-8fc2-5090de77581f",
-            "clue": "Put quickly into water",
-            "answer": "plunge",
-            "normalized": "plunge"
+            "id": "b3e4ae79-3c02-4256-a4e8-f77ffbcd598f",
+            "clue": "Bipasha Basu's character in the film Race",
+            "answer": "sonia",
+            "normalized": "sonia"
           },
           {
-            "id": "a3ea60d8-fdc4-4e6a-994d-3a86d9c390b5",
-            "clue": "Jio's main rival in the telecom sector",
-            "answer": "airtel",
-            "normalized": "airtel"
-          },
-          {
-            "id": "7cb98c71-4633-462d-9925-93c03dd74924",
-            "clue": "Former name for the Kingdom of Thailand",
-            "answer": "siam",
-            "normalized": "siam"
-          },
-          {
-            "id": "a6c8e890-ed7a-416c-8aa0-77af6cfc2029",
-            "clue": "A drop of water from a crying person's eyes",
-            "answer": "tear",
-            "normalized": "tear"
+            "id": "5a1f87a4-9a11-4445-9da3-d038e6904f45",
+            "clue": "A male deer",
+            "answer": "stag",
+            "normalized": "stag"
           }
         ],
-        "track": "PC|LenCinY2026M10D29F0V000"
+        "track": "PC|LenCinY2026M10D30F0V000"
       },
       "mid": {
-        "puzzleId": "ccde12b3-05c5-4791-ac9b-1c738362aedd",
+        "puzzleId": "3f609a50-fb8d-4496-9f72-2e335d412f5e",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "51de191c-72f1-4b0d-bfea-c848c2dd0911",
-            "clue": "Sri Lanka's alpha-3 code",
-            "answer": "lka",
-            "normalized": "lka"
+            "id": "9358af71-d922-4386-8a88-7435241f275b",
+            "clue": "Shopping center teens often hang out at",
+            "answer": "mall",
+            "normalized": "mall"
           },
           {
-            "id": "847818e2-1522-4997-acd9-30e868680ca7",
-            "clue": "Mixture of gases surrounding the Earth",
-            "answer": "air",
-            "normalized": "air"
+            "id": "9fae5c82-6723-4bc5-98af-da2b888c2686",
+            "clue": "This vegetable is often cooked with Kachnar",
+            "answer": "aloo",
+            "normalized": "aloo"
           },
           {
-            "id": "bc3026d0-1016-47d7-95fd-37634240ce16",
-            "clue": "The __, William Blake's big cat-themed poetry",
-            "answer": "tyger",
-            "normalized": "tyger"
+            "id": "f23e78bd-a064-4d50-9c4d-37060400ce2e",
+            "clue": "Historic region that includes Kota",
+            "answer": "hadoti",
+            "normalized": "hadoti"
           },
           {
-            "id": "438b5f89-c08a-4b0f-8f50-41b8efc69a53",
-            "clue": "People from the country where Mecca is located",
-            "answer": "saudis",
-            "normalized": "saudis"
+            "id": "3b7e993b-038c-4d45-adcd-4497c3d268d5",
+            "clue": "Ideology of Oceania in Orwell's 1984",
+            "answer": "ingsoc",
+            "normalized": "ingsoc"
           },
           {
-            "id": "ba6b7f13-9206-464b-a388-e3b24e595584",
-            "clue": "Name of the sorcerer in Disney's Fantasia",
-            "answer": "yen sid",
-            "normalized": "yensid"
+            "id": "74ec2457-97d6-4a57-9e80-84bf94a651ae",
+            "clue": "Creepy, supernatural",
+            "answer": "eerie",
+            "normalized": "eerie"
           },
           {
-            "id": "fb87f1de-d6e5-43e3-9492-7353753064ee",
-            "clue": "Name of Lara Dutta's daughter",
-            "answer": "saira",
-            "normalized": "saira"
+            "id": "7a743865-03e9-476d-b5dc-e141287d79da",
+            "clue": "Consumed liquid",
+            "answer": "drank",
+            "normalized": "drank"
           },
           {
-            "id": "74a5c21e-b5ad-4146-bff3-3ba7c96b2f58",
-            "clue": "Niger's three-letter country code",
-            "answer": "ner",
-            "normalized": "ner"
+            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
+            "clue": "Non-profit charity independent of any government",
+            "answer": "ngo",
+            "normalized": "ngo"
           },
           {
-            "id": "dfd3ceac-d5cd-4c03-a2ee-6ecddab5c781",
-            "clue": "Abbreviation for the business GlaxoSmithKline",
-            "answer": "gsk",
-            "normalized": "gsk"
+            "id": "d7edd922-6c0b-43a7-8b53-fa5c9fe8a3a4",
+            "clue": "M.S. Dhoni's popular nickname",
+            "answer": "mahi",
+            "normalized": "mahi"
           },
           {
-            "id": "8f868df2-a5e1-43c2-9908-fbc8841d418c",
-            "clue": "Largest upper body muscles, for short",
-            "answer": "lats",
-            "normalized": "lats"
+            "id": "5581618e-4bdf-4eb0-9e42-5b8d168b88a5",
+            "clue": "__ Walker, singer of Faded",
+            "answer": "alan",
+            "normalized": "alan"
           },
           {
-            "id": "e7fb81af-3e87-457a-a371-c169e685fc5b",
-            "clue": "Yippee __, start of John McClane's catchphrase",
-            "answer": "ki yay",
-            "normalized": "kiyay"
+            "id": "0b7db58f-6fd9-4bc3-9c95-3cfa00c9b4f1",
+            "clue": "Rented a room",
+            "answer": "lodged",
+            "normalized": "lodged"
           },
           {
-            "id": "e832ec20-dba3-4a1f-b47d-4aa0d8caabbb",
-            "clue": "Contends, disagrees",
-            "answer": "argues",
-            "normalized": "argues"
+            "id": "7640e10c-54b7-4e1b-9cc7-50436085a70a",
+            "clue": "Not so tight round the waist",
+            "answer": "looser",
+            "normalized": "looser"
           },
           {
-            "id": "d6a160af-ff27-424f-a29f-ba515927514b",
-            "clue": "Incredibles character __ Mode, makes their outfits",
-            "answer": "edna",
-            "normalized": "edna"
+            "id": "189147b2-19ff-4555-8df8-86da1be4893a",
+            "clue": "Marigold door hanging for festivals",
+            "answer": "toran",
+            "normalized": "toran"
           },
           {
-            "id": "ec897ef8-66c8-4ba3-bc64-96ff0f6ff11c",
-            "clue": "The opposite of falling",
-            "answer": "rising",
-            "normalized": "rising"
+            "id": "91ef174b-476e-46bc-a269-3881d3c3d196",
+            "clue": "Sugary cake covering",
+            "answer": "icing",
+            "normalized": "icing"
           },
           {
-            "id": "e592de23-311c-45ae-81f6-839767e40a37",
-            "clue": "Male parents of racehorses",
-            "answer": "sires",
-            "normalized": "sires"
-          },
-          {
-            "id": "5257bfe9-a691-4e95-b3f4-84caf20a19c9",
-            "clue": "Netflix's German thriller starring Louis Hofmann",
-            "answer": "dark",
-            "normalized": "dark"
+            "id": "1aecd89f-1e4a-4cb7-82d8-dbbf66989e25",
+            "clue": "Mr __ Tunde, Nigerian priest in Lost",
+            "answer": "eko",
+            "normalized": "eko"
           }
         ],
-        "track": "PC|LenCinY2026M10D29F1V000"
+        "track": "PC|LenCinY2026M10D30F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-29",
+      "key": "2026-10-30",
       "year": 2026,
       "month": 10,
-      "day": 29,
+      "day": 30,
       "small": {
-        "puzzleId": "75d5b29e-7440-4879-845b-0b46e8c09d2d",
+        "puzzleId": "2eb60d2c-8e03-4abc-ae25-069a080809cc",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "053e80cb-9741-4d8e-8366-161e91d10ed8",
-            "clue": "He's the star of the show on Father's Day",
-            "answer": "papa",
-            "normalized": "papa"
+            "id": "e33794c5-5bae-40bb-bc8c-685eeb67e965",
+            "clue": "Throws in a high arc",
+            "answer": "lobs",
+            "normalized": "lobs"
           },
           {
-            "id": "3a2c30af-7696-4013-8577-c7b1726c45c0",
-            "clue": "Illuminated by solar rays, say",
-            "answer": "sunlit",
-            "normalized": "sunlit"
+            "id": "4e015918-4aff-4807-9fb2-11395469c81b",
+            "clue": "Musketeer who is also a count",
+            "answer": "athos",
+            "normalized": "athos"
           },
           {
-            "id": "11b95fe0-0290-41e0-823e-8b4fbabe81ac",
-            "clue": "Cause physical harm",
-            "answer": "injure",
-            "normalized": "injure"
+            "id": "dc43359d-dc36-4711-90cb-c071cc5570a8",
+            "clue": "A high-action move performed in a movie",
+            "answer": "stunt",
+            "normalized": "stunt"
           },
           {
-            "id": "deb76bf8-d67a-46c3-834a-6770adb7e7dd",
-            "clue": "Indian Buddhist cave temple with wall paintings",
-            "answer": "ajanta",
-            "normalized": "ajanta"
+            "id": "f8cc4049-2aa4-4ee2-bd10-c279f0efb1e7",
+            "clue": "Melodic vocal piece common in opera",
+            "answer": "aria",
+            "normalized": "aria"
           },
           {
-            "id": "168c12f3-cd8a-4d08-bd10-c9997e9b4079",
-            "clue": "Stable trough; Baby Jesus' makeshift crib",
-            "answer": "manger",
-            "normalized": "manger"
+            "id": "2ee2b143-a099-4366-9c10-53d4f4a5b51d",
+            "clue": "Raj Kapoor's directorial debut film",
+            "answer": "aag",
+            "normalized": "aag"
           },
           {
-            "id": "e4d2621b-19d4-4d05-9d3d-0e3cb5925543",
-            "clue": "Leaf offered to Lord Shiva during Maha Shivaratri",
-            "answer": "bael",
-            "normalized": "bael"
+            "id": "d0e17f4a-f8e6-4fbb-81f3-08123b90226a",
+            "clue": "__ Vegas, resort also known as Sin City",
+            "answer": "las",
+            "normalized": "las"
           },
           {
-            "id": "0346d698-b23e-4110-93d2-5713394060eb",
-            "clue": "Indian state where Vaisakhi is a big festival",
-            "answer": "punjab",
-            "normalized": "punjab"
+            "id": "b1978542-2083-438e-be26-dca70cb2448e",
+            "clue": "A scoring stage in Nadan Panthu Kali",
+            "answer": "otta",
+            "normalized": "otta"
           },
           {
-            "id": "75a0a622-76aa-4480-b7c0-62ed9aa9a543",
-            "clue": "Mother of the mighty Hanuman",
-            "answer": "anjana",
-            "normalized": "anjana"
+            "id": "0f8b7311-7a76-4776-82e1-c4e1ab02dde1",
+            "clue": "The poultry farmer in Bhuvan's team in Lagaan",
+            "answer": "bhura",
+            "normalized": "bhura"
           },
           {
-            "id": "92b57c41-9d14-4b5a-8fc2-5090de77581f",
-            "clue": "Put quickly into water",
-            "answer": "plunge",
-            "normalized": "plunge"
+            "id": "b3e4ae79-3c02-4256-a4e8-f77ffbcd598f",
+            "clue": "Bipasha Basu's character in the film Race",
+            "answer": "sonia",
+            "normalized": "sonia"
           },
           {
-            "id": "a3ea60d8-fdc4-4e6a-994d-3a86d9c390b5",
-            "clue": "Jio's main rival in the telecom sector",
-            "answer": "airtel",
-            "normalized": "airtel"
-          },
-          {
-            "id": "7cb98c71-4633-462d-9925-93c03dd74924",
-            "clue": "Former name for the Kingdom of Thailand",
-            "answer": "siam",
-            "normalized": "siam"
-          },
-          {
-            "id": "a6c8e890-ed7a-416c-8aa0-77af6cfc2029",
-            "clue": "A drop of water from a crying person's eyes",
-            "answer": "tear",
-            "normalized": "tear"
+            "id": "5a1f87a4-9a11-4445-9da3-d038e6904f45",
+            "clue": "A male deer",
+            "answer": "stag",
+            "normalized": "stag"
           }
         ],
-        "track": "PC|LenCinY2026M10D29F0V000"
+        "track": "PC|LenCinY2026M10D30F0V000"
       },
       "mid": {
-        "puzzleId": "ccde12b3-05c5-4791-ac9b-1c738362aedd",
+        "puzzleId": "3f609a50-fb8d-4496-9f72-2e335d412f5e",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "51de191c-72f1-4b0d-bfea-c848c2dd0911",
-            "clue": "Sri Lanka's alpha-3 code",
-            "answer": "lka",
-            "normalized": "lka"
+            "id": "9358af71-d922-4386-8a88-7435241f275b",
+            "clue": "Shopping center teens often hang out at",
+            "answer": "mall",
+            "normalized": "mall"
           },
           {
-            "id": "847818e2-1522-4997-acd9-30e868680ca7",
-            "clue": "Mixture of gases surrounding the Earth",
-            "answer": "air",
-            "normalized": "air"
+            "id": "9fae5c82-6723-4bc5-98af-da2b888c2686",
+            "clue": "This vegetable is often cooked with Kachnar",
+            "answer": "aloo",
+            "normalized": "aloo"
           },
           {
-            "id": "bc3026d0-1016-47d7-95fd-37634240ce16",
-            "clue": "The __, William Blake's big cat-themed poetry",
-            "answer": "tyger",
-            "normalized": "tyger"
+            "id": "f23e78bd-a064-4d50-9c4d-37060400ce2e",
+            "clue": "Historic region that includes Kota",
+            "answer": "hadoti",
+            "normalized": "hadoti"
           },
           {
-            "id": "438b5f89-c08a-4b0f-8f50-41b8efc69a53",
-            "clue": "People from the country where Mecca is located",
-            "answer": "saudis",
-            "normalized": "saudis"
+            "id": "3b7e993b-038c-4d45-adcd-4497c3d268d5",
+            "clue": "Ideology of Oceania in Orwell's 1984",
+            "answer": "ingsoc",
+            "normalized": "ingsoc"
           },
           {
-            "id": "ba6b7f13-9206-464b-a388-e3b24e595584",
-            "clue": "Name of the sorcerer in Disney's Fantasia",
-            "answer": "yen sid",
-            "normalized": "yensid"
+            "id": "74ec2457-97d6-4a57-9e80-84bf94a651ae",
+            "clue": "Creepy, supernatural",
+            "answer": "eerie",
+            "normalized": "eerie"
           },
           {
-            "id": "fb87f1de-d6e5-43e3-9492-7353753064ee",
-            "clue": "Name of Lara Dutta's daughter",
-            "answer": "saira",
-            "normalized": "saira"
+            "id": "7a743865-03e9-476d-b5dc-e141287d79da",
+            "clue": "Consumed liquid",
+            "answer": "drank",
+            "normalized": "drank"
           },
           {
-            "id": "74a5c21e-b5ad-4146-bff3-3ba7c96b2f58",
-            "clue": "Niger's three-letter country code",
-            "answer": "ner",
-            "normalized": "ner"
+            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
+            "clue": "Non-profit charity independent of any government",
+            "answer": "ngo",
+            "normalized": "ngo"
           },
           {
-            "id": "dfd3ceac-d5cd-4c03-a2ee-6ecddab5c781",
-            "clue": "Abbreviation for the business GlaxoSmithKline",
-            "answer": "gsk",
-            "normalized": "gsk"
+            "id": "d7edd922-6c0b-43a7-8b53-fa5c9fe8a3a4",
+            "clue": "M.S. Dhoni's popular nickname",
+            "answer": "mahi",
+            "normalized": "mahi"
           },
           {
-            "id": "8f868df2-a5e1-43c2-9908-fbc8841d418c",
-            "clue": "Largest upper body muscles, for short",
-            "answer": "lats",
-            "normalized": "lats"
+            "id": "5581618e-4bdf-4eb0-9e42-5b8d168b88a5",
+            "clue": "__ Walker, singer of Faded",
+            "answer": "alan",
+            "normalized": "alan"
           },
           {
-            "id": "e7fb81af-3e87-457a-a371-c169e685fc5b",
-            "clue": "Yippee __, start of John McClane's catchphrase",
-            "answer": "ki yay",
-            "normalized": "kiyay"
+            "id": "0b7db58f-6fd9-4bc3-9c95-3cfa00c9b4f1",
+            "clue": "Rented a room",
+            "answer": "lodged",
+            "normalized": "lodged"
           },
           {
-            "id": "e832ec20-dba3-4a1f-b47d-4aa0d8caabbb",
-            "clue": "Contends, disagrees",
-            "answer": "argues",
-            "normalized": "argues"
+            "id": "7640e10c-54b7-4e1b-9cc7-50436085a70a",
+            "clue": "Not so tight round the waist",
+            "answer": "looser",
+            "normalized": "looser"
           },
           {
-            "id": "d6a160af-ff27-424f-a29f-ba515927514b",
-            "clue": "Incredibles character __ Mode, makes their outfits",
-            "answer": "edna",
-            "normalized": "edna"
+            "id": "189147b2-19ff-4555-8df8-86da1be4893a",
+            "clue": "Marigold door hanging for festivals",
+            "answer": "toran",
+            "normalized": "toran"
           },
           {
-            "id": "ec897ef8-66c8-4ba3-bc64-96ff0f6ff11c",
-            "clue": "The opposite of falling",
-            "answer": "rising",
-            "normalized": "rising"
+            "id": "91ef174b-476e-46bc-a269-3881d3c3d196",
+            "clue": "Sugary cake covering",
+            "answer": "icing",
+            "normalized": "icing"
           },
           {
-            "id": "e592de23-311c-45ae-81f6-839767e40a37",
-            "clue": "Male parents of racehorses",
-            "answer": "sires",
-            "normalized": "sires"
-          },
-          {
-            "id": "5257bfe9-a691-4e95-b3f4-84caf20a19c9",
-            "clue": "Netflix's German thriller starring Louis Hofmann",
-            "answer": "dark",
-            "normalized": "dark"
+            "id": "1aecd89f-1e4a-4cb7-82d8-dbbf66989e25",
+            "clue": "Mr __ Tunde, Nigerian priest in Lost",
+            "answer": "eko",
+            "normalized": "eko"
           }
         ],
-        "track": "PC|LenCinY2026M10D29F1V000"
+        "track": "PC|LenCinY2026M10D30F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383316,21 +383280,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "ng+2RkVMNqmgnHoIdOAz+RX9ikrfX/Vxn9SFuHbhOZDD15/X2nPCuEqDOy3rUR8i/7hhoAoX60u7P2BLKX2fyYbcGQ8J9FaBxPtwUCsa0Ugz+hMRHwo51QkzXG+xNRPke448v85FVwyzLQ7pCdneZ1vUU2Nlosx1VqA4QxrbZZqq+D/fpOFymc2IQCAuzauFeEXOzXI0su8DYOTYa10Qve8XnTXibtq9HjXtQhkJxJWnyGk1Guowm1Ib7v2OMTcLn5+cSnemE+CbLpzQsGu7n9Uc2iw2sk9Y4Xp7b0ZcOt0="
+        "eKBGF8T0SScVkjQusKb3ooCLBEPhTrpiaePYDPqZkUS/JHKaUtQkZdxDxiwUffptJEcV6CmLo3ap7SPobg3Oo9MzYIcg3Sh7AYk4jTqDZDnz2Tdn+6Mxd/H46y/MK/xl2z603J/sMUxDn8+oEmjh9sa2z5vQ7z1lFCGtliFLWXMNHgRpP+5GlU9YZZC0eZDqJiLQ/gwJbhtgx4F8ZLEYsW6joSneLjhsTIlcS4uSjXP4yomNBnLmbgzi1nm0IRG8T+LMYFMagXm0EyjrHBHrSCWmSeZq79RNe9LD/U3kAts="
       ]
     },
     "decrypted": {
-      "Id": "ee065c88-fb29-42a6-99f6-c0e91051afd7",
-      "Date": "2026-10-29T00:00:00Z",
+      "Id": "642c1c9e-5269-4189-8361-2068d0e61e95",
+      "Date": "2026-10-30T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "venue",
-      "NormalizedPassword": "venue",
+      "Password": "ghost",
+      "NormalizedPassword": "ghost",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-29T04:14:05.2990000+05:30",
-    "hash": "e60cd89dc7da2f5edc181abc61991914",
+    "dtu": "2026-10-30T04:23:01.4990000+05:30",
+    "hash": "8f6873ab4c7e2d5b353fef0c000a7710",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
