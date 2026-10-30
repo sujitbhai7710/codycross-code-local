@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T22:53:01.499Z",
+  "generatedAt": "2026-10-30T22:31:28.805Z",
   "today": {
     "year": 2026,
     "month": 10,
-    "day": 30
+    "day": 31
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 56
+        "QuantidadeDeFases": 58
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -2873,7 +2873,7 @@
             },
             {
               "id": "fc3f1c70-f882-458a-bbf7-0dcea921b1b7",
-              "clue": "Microsoft's AI assistant, was discontinued in 2023",
+              "clue": "Microsoft's AI assistant, was retired in 2023",
               "answer": "cortana",
               "normalized": "cortana"
             },
@@ -57345,7 +57345,7 @@
             },
             {
               "id": "0c656a36-45c9-4e06-a7be-d399e8939e9c",
-              "clue": "Inflammation of small intestine",
+              "clue": "Inflammation of the small intestine's final part",
               "answer": "ileitis",
               "normalized": "ileitis"
             },
@@ -59905,7 +59905,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -69173,7 +69173,7 @@
             },
             {
               "id": "0c656a36-45c9-4e06-a7be-d399e8939e9c",
-              "clue": "Inflammation of small intestine",
+              "clue": "Inflammation of the small intestine's final part",
               "answer": "ileitis",
               "normalized": "ileitis"
             },
@@ -145389,7 +145389,7 @@
             },
             {
               "id": "fc3f1c70-f882-458a-bbf7-0dcea921b1b7",
-              "clue": "Microsoft's AI assistant, was discontinued in 2023",
+              "clue": "Microsoft's AI assistant, was retired in 2023",
               "answer": "cortana",
               "normalized": "cortana"
             },
@@ -189675,7 +189675,7 @@
             },
             {
               "id": "0c656a36-45c9-4e06-a7be-d399e8939e9c",
-              "clue": "Inflammation of small intestine",
+              "clue": "Inflammation of the small intestine's final part",
               "answer": "ileitis",
               "normalized": "ileitis"
             },
@@ -265979,7 +265979,7 @@
             },
             {
               "id": "0c656a36-45c9-4e06-a7be-d399e8939e9c",
-              "clue": "Inflammation of small intestine",
+              "clue": "Inflammation of the small intestine's final part",
               "answer": "ileitis",
               "normalized": "ileitis"
             },
@@ -344789,7 +344789,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -382738,343 +382738,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-30",
+      "key": "2026-10-31",
       "year": 2026,
       "month": 10,
-      "day": 30,
+      "day": 31,
       "small": {
-        "puzzleId": "2eb60d2c-8e03-4abc-ae25-069a080809cc",
+        "puzzleId": "0637aceb-c19e-42c1-b43b-399263711eaa",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e33794c5-5bae-40bb-bc8c-685eeb67e965",
-            "clue": "Throws in a high arc",
-            "answer": "lobs",
-            "normalized": "lobs"
+            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
+            "clue": "British Army special forces air unit, initialism",
+            "answer": "sas",
+            "normalized": "sas"
           },
           {
-            "id": "4e015918-4aff-4807-9fb2-11395469c81b",
-            "clue": "Musketeer who is also a count",
-            "answer": "athos",
-            "normalized": "athos"
+            "id": "f567cc11-d6b4-4e94-92c6-0e7db51fd92c",
+            "clue": "Gossipy disclosure of confidences",
+            "answer": "tattle",
+            "normalized": "tattle"
           },
           {
-            "id": "dc43359d-dc36-4711-90cb-c071cc5570a8",
-            "clue": "A high-action move performed in a movie",
-            "answer": "stunt",
-            "normalized": "stunt"
+            "id": "3411bd6f-83ec-4da1-bc62-080acb2b868b",
+            "clue": "To register at school or in the military",
+            "answer": "enroll",
+            "normalized": "enroll"
           },
           {
-            "id": "f8cc4049-2aa4-4ee2-bd10-c279f0efb1e7",
-            "clue": "Melodic vocal piece common in opera",
-            "answer": "aria",
-            "normalized": "aria"
+            "id": "abf181a7-36da-4bb1-9c0a-06448b3b5ef1",
+            "clue": "__ Messi, world-class Argentine footballer",
+            "answer": "lionel",
+            "normalized": "lionel"
           },
           {
-            "id": "2ee2b143-a099-4366-9c10-53d4f4a5b51d",
-            "clue": "Raj Kapoor's directorial debut film",
-            "answer": "aag",
-            "normalized": "aag"
+            "id": "f097d169-57c3-4539-9a17-5737336ebe80",
+            "clue": "Groups of witches",
+            "answer": "covens",
+            "normalized": "covens"
           },
           {
-            "id": "d0e17f4a-f8e6-4fbb-81f3-08123b90226a",
-            "clue": "__ Vegas, resort also known as Sin City",
-            "answer": "las",
-            "normalized": "las"
+            "id": "c8276aeb-64ae-473e-b74c-fe8b9615cabf",
+            "clue": "Number representing a single entity",
+            "answer": "one",
+            "normalized": "one"
           },
           {
-            "id": "b1978542-2083-438e-be26-dca70cb2448e",
-            "clue": "A scoring stage in Nadan Panthu Kali",
-            "answer": "otta",
-            "normalized": "otta"
+            "id": "f31b4b4d-dc92-4221-96e3-007d8c9b6487",
+            "clue": "\"Kill two birds with one __\"",
+            "answer": "stone",
+            "normalized": "stone"
           },
           {
-            "id": "0f8b7311-7a76-4776-82e1-c4e1ab02dde1",
-            "clue": "The poultry farmer in Bhuvan's team in Lagaan",
-            "answer": "bhura",
-            "normalized": "bhura"
+            "id": "578c4080-ce81-4ea5-95e5-74d90ba852ee",
+            "clue": "Annie Hall and Midnight in Paris director Woody",
+            "answer": "allen",
+            "normalized": "allen"
           },
           {
-            "id": "b3e4ae79-3c02-4256-a4e8-f77ffbcd598f",
-            "clue": "Bipasha Basu's character in the film Race",
-            "answer": "sonia",
-            "normalized": "sonia"
+            "id": "d26bd50a-c38c-4eb5-8fe7-2caa0511fd5e",
+            "clue": "Puts up for auction",
+            "answer": "sells",
+            "normalized": "sells"
           },
           {
-            "id": "5a1f87a4-9a11-4445-9da3-d038e6904f45",
-            "clue": "A male deer",
-            "answer": "stag",
-            "normalized": "stag"
+            "id": "83c3152d-776d-4c61-9dbd-431188c5b121",
+            "clue": "The former name of Tata Motors",
+            "answer": "telco",
+            "normalized": "telco"
+          },
+          {
+            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
+            "clue": "Negatively charged ion",
+            "answer": "anion",
+            "normalized": "anion"
+          },
+          {
+            "id": "2aef7b58-09e1-4be3-a3b6-9b7355562925",
+            "clue": "Stash or collection of treasure",
+            "answer": "trove",
+            "normalized": "trove"
           }
         ],
-        "track": "PC|LenCinY2026M10D30F0V000"
+        "track": "PC|LenCinY2026M10D31F0V000"
       },
       "mid": {
-        "puzzleId": "3f609a50-fb8d-4496-9f72-2e335d412f5e",
+        "puzzleId": "fb606e60-2cef-4663-af1b-680932749276",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "9358af71-d922-4386-8a88-7435241f275b",
-            "clue": "Shopping center teens often hang out at",
-            "answer": "mall",
-            "normalized": "mall"
+            "id": "1494ca5f-4d0a-4762-8be9-d97dace263c2",
+            "clue": "Soggy, decomposed soil found in bogs",
+            "answer": "peat",
+            "normalized": "peat"
           },
           {
-            "id": "9fae5c82-6723-4bc5-98af-da2b888c2686",
-            "clue": "This vegetable is often cooked with Kachnar",
-            "answer": "aloo",
-            "normalized": "aloo"
+            "id": "04e1e826-e490-4f70-a3a8-a209bb678738",
+            "clue": "Relating to physical need, sensual, fleshy",
+            "answer": "carnal",
+            "normalized": "carnal"
           },
           {
-            "id": "f23e78bd-a064-4d50-9c4d-37060400ce2e",
-            "clue": "Historic region that includes Kota",
-            "answer": "hadoti",
-            "normalized": "hadoti"
+            "id": "e1890225-1282-4ff8-b918-3a3c587b5678",
+            "clue": "Almost-rhyming capital of Nicaragua",
+            "answer": "managua",
+            "normalized": "managua"
           },
           {
-            "id": "3b7e993b-038c-4d45-adcd-4497c3d268d5",
-            "clue": "Ideology of Oceania in Orwell's 1984",
-            "answer": "ingsoc",
-            "normalized": "ingsoc"
+            "id": "332b59f1-3a9a-475e-b508-f549e76a760d",
+            "clue": "Garfunkel, who sang Bright Eyes",
+            "answer": "art",
+            "normalized": "art"
           },
           {
-            "id": "74ec2457-97d6-4a57-9e80-84bf94a651ae",
-            "clue": "Creepy, supernatural",
-            "answer": "eerie",
-            "normalized": "eerie"
+            "id": "7e6ce78e-f025-43f3-adaa-dd339ecb6bf8",
+            "clue": "Extended play records",
+            "answer": "eps",
+            "normalized": "eps"
           },
           {
-            "id": "7a743865-03e9-476d-b5dc-e141287d79da",
-            "clue": "Consumed liquid",
-            "answer": "drank",
-            "normalized": "drank"
+            "id": "ef548eb9-9a21-4e93-a76e-e79e42a64475",
+            "clue": "Illuminated a single actor",
+            "answer": "spotlit",
+            "normalized": "spotlit"
           },
           {
-            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
-            "clue": "Non-profit charity independent of any government",
-            "answer": "ngo",
-            "normalized": "ngo"
+            "id": "089ea090-83bb-4d65-9c22-2d70bf4d1543",
+            "clue": "Mountain range, extends from China to Gobi Desert",
+            "answer": "kunlun",
+            "normalized": "kunlun"
           },
           {
-            "id": "d7edd922-6c0b-43a7-8b53-fa5c9fe8a3a4",
-            "clue": "M.S. Dhoni's popular nickname",
-            "answer": "mahi",
-            "normalized": "mahi"
+            "id": "2ca9ea61-3251-4837-a22e-6274a9bf109f",
+            "clue": "Groups of at least six games in a tennis match",
+            "answer": "sets",
+            "normalized": "sets"
           },
           {
-            "id": "5581618e-4bdf-4eb0-9e42-5b8d168b88a5",
-            "clue": "__ Walker, singer of Faded",
-            "answer": "alan",
-            "normalized": "alan"
+            "id": "800a1614-4df2-46af-a03d-aef0a335f853",
+            "clue": "Company that designates colour ratios in printing",
+            "answer": "pantone",
+            "normalized": "pantone"
           },
           {
-            "id": "0b7db58f-6fd9-4bc3-9c95-3cfa00c9b4f1",
-            "clue": "Rented a room",
-            "answer": "lodged",
-            "normalized": "lodged"
+            "id": "fbd12a80-e511-4329-bcdc-9cb61f23e461",
+            "clue": "Cenozoic, Mesozoic, or Palaeozoic, geologically",
+            "answer": "era",
+            "normalized": "era"
           },
           {
-            "id": "7640e10c-54b7-4e1b-9cc7-50436085a70a",
-            "clue": "Not so tight round the waist",
-            "answer": "looser",
-            "normalized": "looser"
+            "id": "b3227e7b-1dcc-4eb8-b878-408db414be79",
+            "clue": "Roman Catholic prayers celebrating the Incarnation",
+            "answer": "angelus",
+            "normalized": "angelus"
           },
           {
-            "id": "189147b2-19ff-4555-8df8-86da1be4893a",
-            "clue": "Marigold door hanging for festivals",
-            "answer": "toran",
-            "normalized": "toran"
+            "id": "1501a1af-70dd-49e9-bef2-5df9aff08ed7",
+            "clue": "Lyricist collaborating with Elton John: Bernie __",
+            "answer": "taupin",
+            "normalized": "taupin"
           },
           {
-            "id": "91ef174b-476e-46bc-a269-3881d3c3d196",
-            "clue": "Sugary cake covering",
-            "answer": "icing",
-            "normalized": "icing"
+            "id": "e4357af3-96de-4826-aa6e-24e7c9824c85",
+            "clue": "Group of eight bones that form the wrist",
+            "answer": "carpus",
+            "normalized": "carpus"
           },
           {
-            "id": "1aecd89f-1e4a-4cb7-82d8-dbbf66989e25",
-            "clue": "Mr __ Tunde, Nigerian priest in Lost",
-            "answer": "eko",
-            "normalized": "eko"
+            "id": "f71341e2-a061-4b8a-93bd-d5348b74047d",
+            "clue": "There's no medal for this final place in the race",
+            "answer": "last",
+            "normalized": "last"
+          },
+          {
+            "id": "f9f3fe9c-a2a1-41af-b907-7aaf50adad76",
+            "clue": "Face covering worn at a ball",
+            "answer": "mask",
+            "normalized": "mask"
+          },
+          {
+            "id": "c427c0f7-2af6-4d54-9393-5ad095962f53",
+            "clue": "Common abbreviation for The Local Train",
+            "answer": "tlt",
+            "normalized": "tlt"
           }
         ],
-        "track": "PC|LenCinY2026M10D30F1V000"
+        "track": "PC|LenCinY2026M10D31F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-30",
+      "key": "2026-10-31",
       "year": 2026,
       "month": 10,
-      "day": 30,
+      "day": 31,
       "small": {
-        "puzzleId": "2eb60d2c-8e03-4abc-ae25-069a080809cc",
+        "puzzleId": "0637aceb-c19e-42c1-b43b-399263711eaa",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e33794c5-5bae-40bb-bc8c-685eeb67e965",
-            "clue": "Throws in a high arc",
-            "answer": "lobs",
-            "normalized": "lobs"
+            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
+            "clue": "British Army special forces air unit, initialism",
+            "answer": "sas",
+            "normalized": "sas"
           },
           {
-            "id": "4e015918-4aff-4807-9fb2-11395469c81b",
-            "clue": "Musketeer who is also a count",
-            "answer": "athos",
-            "normalized": "athos"
+            "id": "f567cc11-d6b4-4e94-92c6-0e7db51fd92c",
+            "clue": "Gossipy disclosure of confidences",
+            "answer": "tattle",
+            "normalized": "tattle"
           },
           {
-            "id": "dc43359d-dc36-4711-90cb-c071cc5570a8",
-            "clue": "A high-action move performed in a movie",
-            "answer": "stunt",
-            "normalized": "stunt"
+            "id": "3411bd6f-83ec-4da1-bc62-080acb2b868b",
+            "clue": "To register at school or in the military",
+            "answer": "enroll",
+            "normalized": "enroll"
           },
           {
-            "id": "f8cc4049-2aa4-4ee2-bd10-c279f0efb1e7",
-            "clue": "Melodic vocal piece common in opera",
-            "answer": "aria",
-            "normalized": "aria"
+            "id": "abf181a7-36da-4bb1-9c0a-06448b3b5ef1",
+            "clue": "__ Messi, world-class Argentine footballer",
+            "answer": "lionel",
+            "normalized": "lionel"
           },
           {
-            "id": "2ee2b143-a099-4366-9c10-53d4f4a5b51d",
-            "clue": "Raj Kapoor's directorial debut film",
-            "answer": "aag",
-            "normalized": "aag"
+            "id": "f097d169-57c3-4539-9a17-5737336ebe80",
+            "clue": "Groups of witches",
+            "answer": "covens",
+            "normalized": "covens"
           },
           {
-            "id": "d0e17f4a-f8e6-4fbb-81f3-08123b90226a",
-            "clue": "__ Vegas, resort also known as Sin City",
-            "answer": "las",
-            "normalized": "las"
+            "id": "c8276aeb-64ae-473e-b74c-fe8b9615cabf",
+            "clue": "Number representing a single entity",
+            "answer": "one",
+            "normalized": "one"
           },
           {
-            "id": "b1978542-2083-438e-be26-dca70cb2448e",
-            "clue": "A scoring stage in Nadan Panthu Kali",
-            "answer": "otta",
-            "normalized": "otta"
+            "id": "f31b4b4d-dc92-4221-96e3-007d8c9b6487",
+            "clue": "\"Kill two birds with one __\"",
+            "answer": "stone",
+            "normalized": "stone"
           },
           {
-            "id": "0f8b7311-7a76-4776-82e1-c4e1ab02dde1",
-            "clue": "The poultry farmer in Bhuvan's team in Lagaan",
-            "answer": "bhura",
-            "normalized": "bhura"
+            "id": "578c4080-ce81-4ea5-95e5-74d90ba852ee",
+            "clue": "Annie Hall and Midnight in Paris director Woody",
+            "answer": "allen",
+            "normalized": "allen"
           },
           {
-            "id": "b3e4ae79-3c02-4256-a4e8-f77ffbcd598f",
-            "clue": "Bipasha Basu's character in the film Race",
-            "answer": "sonia",
-            "normalized": "sonia"
+            "id": "d26bd50a-c38c-4eb5-8fe7-2caa0511fd5e",
+            "clue": "Puts up for auction",
+            "answer": "sells",
+            "normalized": "sells"
           },
           {
-            "id": "5a1f87a4-9a11-4445-9da3-d038e6904f45",
-            "clue": "A male deer",
-            "answer": "stag",
-            "normalized": "stag"
+            "id": "83c3152d-776d-4c61-9dbd-431188c5b121",
+            "clue": "The former name of Tata Motors",
+            "answer": "telco",
+            "normalized": "telco"
+          },
+          {
+            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
+            "clue": "Negatively charged ion",
+            "answer": "anion",
+            "normalized": "anion"
+          },
+          {
+            "id": "2aef7b58-09e1-4be3-a3b6-9b7355562925",
+            "clue": "Stash or collection of treasure",
+            "answer": "trove",
+            "normalized": "trove"
           }
         ],
-        "track": "PC|LenCinY2026M10D30F0V000"
+        "track": "PC|LenCinY2026M10D31F0V000"
       },
       "mid": {
-        "puzzleId": "3f609a50-fb8d-4496-9f72-2e335d412f5e",
+        "puzzleId": "fb606e60-2cef-4663-af1b-680932749276",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "9358af71-d922-4386-8a88-7435241f275b",
-            "clue": "Shopping center teens often hang out at",
-            "answer": "mall",
-            "normalized": "mall"
+            "id": "1494ca5f-4d0a-4762-8be9-d97dace263c2",
+            "clue": "Soggy, decomposed soil found in bogs",
+            "answer": "peat",
+            "normalized": "peat"
           },
           {
-            "id": "9fae5c82-6723-4bc5-98af-da2b888c2686",
-            "clue": "This vegetable is often cooked with Kachnar",
-            "answer": "aloo",
-            "normalized": "aloo"
+            "id": "04e1e826-e490-4f70-a3a8-a209bb678738",
+            "clue": "Relating to physical need, sensual, fleshy",
+            "answer": "carnal",
+            "normalized": "carnal"
           },
           {
-            "id": "f23e78bd-a064-4d50-9c4d-37060400ce2e",
-            "clue": "Historic region that includes Kota",
-            "answer": "hadoti",
-            "normalized": "hadoti"
+            "id": "e1890225-1282-4ff8-b918-3a3c587b5678",
+            "clue": "Almost-rhyming capital of Nicaragua",
+            "answer": "managua",
+            "normalized": "managua"
           },
           {
-            "id": "3b7e993b-038c-4d45-adcd-4497c3d268d5",
-            "clue": "Ideology of Oceania in Orwell's 1984",
-            "answer": "ingsoc",
-            "normalized": "ingsoc"
+            "id": "332b59f1-3a9a-475e-b508-f549e76a760d",
+            "clue": "Garfunkel, who sang Bright Eyes",
+            "answer": "art",
+            "normalized": "art"
           },
           {
-            "id": "74ec2457-97d6-4a57-9e80-84bf94a651ae",
-            "clue": "Creepy, supernatural",
-            "answer": "eerie",
-            "normalized": "eerie"
+            "id": "7e6ce78e-f025-43f3-adaa-dd339ecb6bf8",
+            "clue": "Extended play records",
+            "answer": "eps",
+            "normalized": "eps"
           },
           {
-            "id": "7a743865-03e9-476d-b5dc-e141287d79da",
-            "clue": "Consumed liquid",
-            "answer": "drank",
-            "normalized": "drank"
+            "id": "ef548eb9-9a21-4e93-a76e-e79e42a64475",
+            "clue": "Illuminated a single actor",
+            "answer": "spotlit",
+            "normalized": "spotlit"
           },
           {
-            "id": "f2cb19fc-bcae-48f9-ac3e-b78437a9471d",
-            "clue": "Non-profit charity independent of any government",
-            "answer": "ngo",
-            "normalized": "ngo"
+            "id": "089ea090-83bb-4d65-9c22-2d70bf4d1543",
+            "clue": "Mountain range, extends from China to Gobi Desert",
+            "answer": "kunlun",
+            "normalized": "kunlun"
           },
           {
-            "id": "d7edd922-6c0b-43a7-8b53-fa5c9fe8a3a4",
-            "clue": "M.S. Dhoni's popular nickname",
-            "answer": "mahi",
-            "normalized": "mahi"
+            "id": "2ca9ea61-3251-4837-a22e-6274a9bf109f",
+            "clue": "Groups of at least six games in a tennis match",
+            "answer": "sets",
+            "normalized": "sets"
           },
           {
-            "id": "5581618e-4bdf-4eb0-9e42-5b8d168b88a5",
-            "clue": "__ Walker, singer of Faded",
-            "answer": "alan",
-            "normalized": "alan"
+            "id": "800a1614-4df2-46af-a03d-aef0a335f853",
+            "clue": "Company that designates colour ratios in printing",
+            "answer": "pantone",
+            "normalized": "pantone"
           },
           {
-            "id": "0b7db58f-6fd9-4bc3-9c95-3cfa00c9b4f1",
-            "clue": "Rented a room",
-            "answer": "lodged",
-            "normalized": "lodged"
+            "id": "fbd12a80-e511-4329-bcdc-9cb61f23e461",
+            "clue": "Cenozoic, Mesozoic, or Palaeozoic, geologically",
+            "answer": "era",
+            "normalized": "era"
           },
           {
-            "id": "7640e10c-54b7-4e1b-9cc7-50436085a70a",
-            "clue": "Not so tight round the waist",
-            "answer": "looser",
-            "normalized": "looser"
+            "id": "b3227e7b-1dcc-4eb8-b878-408db414be79",
+            "clue": "Roman Catholic prayers celebrating the Incarnation",
+            "answer": "angelus",
+            "normalized": "angelus"
           },
           {
-            "id": "189147b2-19ff-4555-8df8-86da1be4893a",
-            "clue": "Marigold door hanging for festivals",
-            "answer": "toran",
-            "normalized": "toran"
+            "id": "1501a1af-70dd-49e9-bef2-5df9aff08ed7",
+            "clue": "Lyricist collaborating with Elton John: Bernie __",
+            "answer": "taupin",
+            "normalized": "taupin"
           },
           {
-            "id": "91ef174b-476e-46bc-a269-3881d3c3d196",
-            "clue": "Sugary cake covering",
-            "answer": "icing",
-            "normalized": "icing"
+            "id": "e4357af3-96de-4826-aa6e-24e7c9824c85",
+            "clue": "Group of eight bones that form the wrist",
+            "answer": "carpus",
+            "normalized": "carpus"
           },
           {
-            "id": "1aecd89f-1e4a-4cb7-82d8-dbbf66989e25",
-            "clue": "Mr __ Tunde, Nigerian priest in Lost",
-            "answer": "eko",
-            "normalized": "eko"
+            "id": "f71341e2-a061-4b8a-93bd-d5348b74047d",
+            "clue": "There's no medal for this final place in the race",
+            "answer": "last",
+            "normalized": "last"
+          },
+          {
+            "id": "f9f3fe9c-a2a1-41af-b907-7aaf50adad76",
+            "clue": "Face covering worn at a ball",
+            "answer": "mask",
+            "normalized": "mask"
+          },
+          {
+            "id": "c427c0f7-2af6-4d54-9393-5ad095962f53",
+            "clue": "Common abbreviation for The Local Train",
+            "answer": "tlt",
+            "normalized": "tlt"
           }
         ],
-        "track": "PC|LenCinY2026M10D30F1V000"
+        "track": "PC|LenCinY2026M10D31F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -383280,21 +383328,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "eKBGF8T0SScVkjQusKb3ooCLBEPhTrpiaePYDPqZkUS/JHKaUtQkZdxDxiwUffptJEcV6CmLo3ap7SPobg3Oo9MzYIcg3Sh7AYk4jTqDZDnz2Tdn+6Mxd/H46y/MK/xl2z603J/sMUxDn8+oEmjh9sa2z5vQ7z1lFCGtliFLWXMNHgRpP+5GlU9YZZC0eZDqJiLQ/gwJbhtgx4F8ZLEYsW6joSneLjhsTIlcS4uSjXP4yomNBnLmbgzi1nm0IRG8T+LMYFMagXm0EyjrHBHrSCWmSeZq79RNe9LD/U3kAts="
+        "7Frs6AH3qp+KhiMvybaDC5asOzfIiCXZUt/YESxi7TES8fQKjkmDK5oVquxX1RduT/rC2tpJgMZEox/4LdODCk/NsAqwgxGKR57RMlMPdFJwTGqHu1eXmae5ShMg2wgBLYc8DL8rjr7TYI/srSSuwARUIGVLA1L0A+vfBW5UhcAiYnjS0ta0Ldyj5qza6PkfMnG+n3mT9Fbmp77B1wVbfkk/HXPChaCBVmAvjaUn46hBDIG2CRgJA4GSpCVn3VRnq8JcW4hNr5iftOTpS1+aetESOmTcL9E/37WaJtjnNbk="
       ]
     },
     "decrypted": {
-      "Id": "642c1c9e-5269-4189-8361-2068d0e61e95",
-      "Date": "2026-10-30T00:00:00Z",
+      "Id": "141063b7-89b2-43ec-87b7-969c65c03b2b",
+      "Date": "2026-10-31T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "ghost",
-      "NormalizedPassword": "ghost",
+      "Password": "scare",
+      "NormalizedPassword": "scare",
       "MaxGuesses": 6,
       "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-30T04:23:01.4990000+05:30",
-    "hash": "8f6873ab4c7e2d5b353fef0c000a7710",
+    "dtu": "2026-10-31T04:01:28.8050000+05:30",
+    "hash": "37c9c89b29b7b220864b8e433ffd2021",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
