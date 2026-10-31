@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T22:31:28.805Z",
+  "generatedAt": "2026-10-31T21:45:56.127Z",
   "today": {
     "year": 2026,
-    "month": 10,
-    "day": 31
+    "month": 11,
+    "day": 1
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 58
+        "QuantidadeDeFases": 60
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -429,6 +429,200 @@
       }
     ],
     "archiveEntries": [
+      {
+        "key": "2026-11-01",
+        "year": 2026,
+        "month": 11,
+        "day": 1,
+        "small": {
+          "puzzleId": "PC|LenCinY2026M11D1F0V000",
+          "fase": 0,
+          "size": 1,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "d3ef2a92-ad5c-4ab3-9f5b-4b157bcc91a7",
+              "clue": "This fish is a common catch in Kolleru Lake",
+              "answer": "catla",
+              "normalized": "catla"
+            },
+            {
+              "id": "c084a0d9-b8f1-40bf-810e-8d435fbd9c27",
+              "clue": "The name of the scary movie genre",
+              "answer": "horror",
+              "normalized": "horror"
+            },
+            {
+              "id": "97e6360f-10e5-4ea3-adb2-8adacfc98af2",
+              "clue": "Late Italian fashion designer: Giorgio __",
+              "answer": "armani",
+              "normalized": "armani"
+            },
+            {
+              "id": "ad1191d1-60cc-40be-8166-560b63559377",
+              "clue": "Clueless individuals have this",
+              "answer": "no idea",
+              "normalized": "noidea"
+            },
+            {
+              "id": "69ffd960-8a26-45f3-80ee-381923500eda",
+              "clue": "Gets down on one's knees",
+              "answer": "kneels",
+              "normalized": "kneels"
+            },
+            {
+              "id": "a710d624-2895-4cda-ba5f-fba7a60efa68",
+              "clue": "Informal word meaning cheeky and confident",
+              "answer": "sassy",
+              "normalized": "sassy"
+            },
+            {
+              "id": "a0cd1eeb-8c05-41c5-8414-db76f89d6647",
+              "clue": "Outermost part of the Sun's atmosphere",
+              "answer": "corona",
+              "normalized": "corona"
+            },
+            {
+              "id": "3b62c904-75e9-4959-bdf2-f1b77dd73fb4",
+              "clue": "Groups of military soldiers",
+              "answer": "armies",
+              "normalized": "armies"
+            },
+            {
+              "id": "5553290a-a9c3-40eb-aba7-d629f1f0266f",
+              "clue": "Barters, swaps",
+              "answer": "trades",
+              "normalized": "trades"
+            },
+            {
+              "id": "3e81f039-2220-4444-91f5-85e7c0ce14b5",
+              "clue": "__ Planet, travel guides founded by the Wheelers",
+              "answer": "lonely",
+              "normalized": "lonely"
+            },
+            {
+              "id": "c629758d-87dc-4784-85a6-772749c40217",
+              "clue": "Solo vocals in operas, Nessun Dorma for example",
+              "answer": "arias",
+              "normalized": "arias"
+            },
+            {
+              "id": "2d3c8ac8-f951-4788-b989-7e8854e9c466",
+              "clue": "Tom who voiced Woody in Toy Story",
+              "answer": "hanks",
+              "normalized": "hanks"
+            }
+          ],
+          "track": "PC|LenCinY2026M11D1F0V000"
+        },
+        "mid": {
+          "puzzleId": "PC|LenCinY2026M11D1F1V000",
+          "fase": 1,
+          "size": 2,
+          "status": 1,
+          "version": 0,
+          "answers": [
+            {
+              "id": "530433e9-ba1c-480a-9af4-6d9e49d9b8a1",
+              "clue": "Spoiled, badly behaved child",
+              "answer": "brat",
+              "normalized": "brat"
+            },
+            {
+              "id": "62ea4a2d-a557-4470-9c39-51b5d274d048",
+              "clue": "1990 Kevin Bacon movie about giant worms",
+              "answer": "tremors",
+              "normalized": "tremors"
+            },
+            {
+              "id": "efaaca17-2c4b-4778-b263-fb35c5219716",
+              "clue": "Insulin device from Eli Lilly",
+              "answer": "humapen",
+              "normalized": "humapen"
+            },
+            {
+              "id": "7e81f231-5b5d-4364-a484-dc5351c0e9b2",
+              "clue": "Game with numbered playing cards",
+              "answer": "uno",
+              "normalized": "uno"
+            },
+            {
+              "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
+              "clue": "Forensic show set in Vegas, then Miami",
+              "answer": "csi",
+              "normalized": "csi"
+            },
+            {
+              "id": "27c62edf-9ea7-43cb-bbc6-9d4a2b1ddc25",
+              "clue": "Video game series with bounty hunter Samus Aran",
+              "answer": "metroid",
+              "normalized": "metroid"
+            },
+            {
+              "id": "8672599c-abdf-4b2a-be93-485c1880edf6",
+              "clue": "Village with a church on a hillock on Divar Island",
+              "answer": "piedade",
+              "normalized": "piedade"
+            },
+            {
+              "id": "e964f96a-ecef-4f78-b871-250f02fdecec",
+              "clue": "Satisfy, quench",
+              "answer": "sate",
+              "normalized": "sate"
+            },
+            {
+              "id": "a6a51e03-b47c-4fb9-bf87-f9dc857c1637",
+              "clue": "Country whose capital city is Bandar Seri Begawan",
+              "answer": "brunei",
+              "normalized": "brunei"
+            },
+            {
+              "id": "726ca6bb-e8c5-4635-b8a9-4f0947abab9b",
+              "clue": "TV channel changers",
+              "answer": "remotes",
+              "normalized": "remotes"
+            },
+            {
+              "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
+              "clue": "The United States' largest association of doctors",
+              "answer": "ama",
+              "normalized": "ama"
+            },
+            {
+              "id": "28d8115f-efbe-42a8-8cbd-555ab55b3e29",
+              "clue": "The guard hairs of an animal's fur",
+              "answer": "topcoat",
+              "normalized": "topcoat"
+            },
+            {
+              "id": "992ee517-6ae8-450b-bacd-6991733eb2ee",
+              "clue": "To hit or bump into something",
+              "answer": "thump",
+              "normalized": "thump"
+            },
+            {
+              "id": "90a7f41d-487a-493d-ba31-836cf95e630d",
+              "clue": "Live, dwell",
+              "answer": "reside",
+              "normalized": "reside"
+            },
+            {
+              "id": "525f7a53-88b6-4acf-bd15-d171475c680e",
+              "clue": "Mean, thinly veiled unkind comment",
+              "answer": "snide",
+              "normalized": "snide"
+            },
+            {
+              "id": "74c9ff05-54b5-4f71-bfa7-b76609857815",
+              "clue": "Recommended dietary allowance, for short",
+              "answer": "rda",
+              "normalized": "rda"
+            }
+          ],
+          "track": "PC|LenCinY2026M11D1F1V000"
+        }
+      },
       {
         "key": "2026-10-31",
         "year": 2026,
@@ -120383,7 +120577,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             }
@@ -145389,7 +145583,7 @@
             },
             {
               "id": "fc3f1c70-f882-458a-bbf7-0dcea921b1b7",
-              "clue": "Microsoft's AI assistant, was retired in 2023",
+              "clue": "Microsoft's AI assistant, was discontinued in 2023",
               "answer": "cortana",
               "normalized": "cortana"
             },
@@ -189675,7 +189869,7 @@
             },
             {
               "id": "0c656a36-45c9-4e06-a7be-d399e8939e9c",
-              "clue": "Inflammation of the small intestine's final part",
+              "clue": "Inflammation of small intestine",
               "answer": "ileitis",
               "normalized": "ileitis"
             },
@@ -281351,7 +281545,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             }
@@ -344789,7 +344983,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -382738,585 +382932,585 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-10-31",
+      "key": "2026-11-01",
       "year": 2026,
-      "month": 10,
-      "day": 31,
+      "month": 11,
+      "day": 1,
       "small": {
-        "puzzleId": "0637aceb-c19e-42c1-b43b-399263711eaa",
+        "puzzleId": "PC|LenCinY2026M11D1F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
-            "clue": "British Army special forces air unit, initialism",
-            "answer": "sas",
-            "normalized": "sas"
+            "id": "d3ef2a92-ad5c-4ab3-9f5b-4b157bcc91a7",
+            "clue": "This fish is a common catch in Kolleru Lake",
+            "answer": "catla",
+            "normalized": "catla"
           },
           {
-            "id": "f567cc11-d6b4-4e94-92c6-0e7db51fd92c",
-            "clue": "Gossipy disclosure of confidences",
-            "answer": "tattle",
-            "normalized": "tattle"
+            "id": "c084a0d9-b8f1-40bf-810e-8d435fbd9c27",
+            "clue": "The name of the scary movie genre",
+            "answer": "horror",
+            "normalized": "horror"
           },
           {
-            "id": "3411bd6f-83ec-4da1-bc62-080acb2b868b",
-            "clue": "To register at school or in the military",
-            "answer": "enroll",
-            "normalized": "enroll"
+            "id": "97e6360f-10e5-4ea3-adb2-8adacfc98af2",
+            "clue": "Late Italian fashion designer: Giorgio __",
+            "answer": "armani",
+            "normalized": "armani"
           },
           {
-            "id": "abf181a7-36da-4bb1-9c0a-06448b3b5ef1",
-            "clue": "__ Messi, world-class Argentine footballer",
-            "answer": "lionel",
-            "normalized": "lionel"
+            "id": "ad1191d1-60cc-40be-8166-560b63559377",
+            "clue": "Clueless individuals have this",
+            "answer": "no idea",
+            "normalized": "noidea"
           },
           {
-            "id": "f097d169-57c3-4539-9a17-5737336ebe80",
-            "clue": "Groups of witches",
-            "answer": "covens",
-            "normalized": "covens"
+            "id": "69ffd960-8a26-45f3-80ee-381923500eda",
+            "clue": "Gets down on one's knees",
+            "answer": "kneels",
+            "normalized": "kneels"
           },
           {
-            "id": "c8276aeb-64ae-473e-b74c-fe8b9615cabf",
-            "clue": "Number representing a single entity",
-            "answer": "one",
-            "normalized": "one"
+            "id": "a710d624-2895-4cda-ba5f-fba7a60efa68",
+            "clue": "Informal word meaning cheeky and confident",
+            "answer": "sassy",
+            "normalized": "sassy"
           },
           {
-            "id": "f31b4b4d-dc92-4221-96e3-007d8c9b6487",
-            "clue": "\"Kill two birds with one __\"",
-            "answer": "stone",
-            "normalized": "stone"
+            "id": "a0cd1eeb-8c05-41c5-8414-db76f89d6647",
+            "clue": "Outermost part of the Sun's atmosphere",
+            "answer": "corona",
+            "normalized": "corona"
           },
           {
-            "id": "578c4080-ce81-4ea5-95e5-74d90ba852ee",
-            "clue": "Annie Hall and Midnight in Paris director Woody",
-            "answer": "allen",
-            "normalized": "allen"
+            "id": "3b62c904-75e9-4959-bdf2-f1b77dd73fb4",
+            "clue": "Groups of military soldiers",
+            "answer": "armies",
+            "normalized": "armies"
           },
           {
-            "id": "d26bd50a-c38c-4eb5-8fe7-2caa0511fd5e",
-            "clue": "Puts up for auction",
-            "answer": "sells",
-            "normalized": "sells"
+            "id": "5553290a-a9c3-40eb-aba7-d629f1f0266f",
+            "clue": "Barters, swaps",
+            "answer": "trades",
+            "normalized": "trades"
           },
           {
-            "id": "83c3152d-776d-4c61-9dbd-431188c5b121",
-            "clue": "The former name of Tata Motors",
-            "answer": "telco",
-            "normalized": "telco"
+            "id": "3e81f039-2220-4444-91f5-85e7c0ce14b5",
+            "clue": "__ Planet, travel guides founded by the Wheelers",
+            "answer": "lonely",
+            "normalized": "lonely"
           },
           {
-            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
-            "clue": "Negatively charged ion",
-            "answer": "anion",
-            "normalized": "anion"
+            "id": "c629758d-87dc-4784-85a6-772749c40217",
+            "clue": "Solo vocals in operas, Nessun Dorma for example",
+            "answer": "arias",
+            "normalized": "arias"
           },
           {
-            "id": "2aef7b58-09e1-4be3-a3b6-9b7355562925",
-            "clue": "Stash or collection of treasure",
-            "answer": "trove",
-            "normalized": "trove"
+            "id": "2d3c8ac8-f951-4788-b989-7e8854e9c466",
+            "clue": "Tom who voiced Woody in Toy Story",
+            "answer": "hanks",
+            "normalized": "hanks"
           }
         ],
-        "track": "PC|LenCinY2026M10D31F0V000"
+        "track": "PC|LenCinY2026M11D1F0V000"
       },
       "mid": {
-        "puzzleId": "fb606e60-2cef-4663-af1b-680932749276",
+        "puzzleId": "PC|LenCinY2026M11D1F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1494ca5f-4d0a-4762-8be9-d97dace263c2",
-            "clue": "Soggy, decomposed soil found in bogs",
-            "answer": "peat",
-            "normalized": "peat"
+            "id": "530433e9-ba1c-480a-9af4-6d9e49d9b8a1",
+            "clue": "Spoiled, badly behaved child",
+            "answer": "brat",
+            "normalized": "brat"
           },
           {
-            "id": "04e1e826-e490-4f70-a3a8-a209bb678738",
-            "clue": "Relating to physical need, sensual, fleshy",
-            "answer": "carnal",
-            "normalized": "carnal"
+            "id": "62ea4a2d-a557-4470-9c39-51b5d274d048",
+            "clue": "1990 Kevin Bacon movie about giant worms",
+            "answer": "tremors",
+            "normalized": "tremors"
           },
           {
-            "id": "e1890225-1282-4ff8-b918-3a3c587b5678",
-            "clue": "Almost-rhyming capital of Nicaragua",
-            "answer": "managua",
-            "normalized": "managua"
+            "id": "efaaca17-2c4b-4778-b263-fb35c5219716",
+            "clue": "Insulin device from Eli Lilly",
+            "answer": "humapen",
+            "normalized": "humapen"
           },
           {
-            "id": "332b59f1-3a9a-475e-b508-f549e76a760d",
-            "clue": "Garfunkel, who sang Bright Eyes",
-            "answer": "art",
-            "normalized": "art"
+            "id": "7e81f231-5b5d-4364-a484-dc5351c0e9b2",
+            "clue": "Game with numbered playing cards",
+            "answer": "uno",
+            "normalized": "uno"
           },
           {
-            "id": "7e6ce78e-f025-43f3-adaa-dd339ecb6bf8",
-            "clue": "Extended play records",
-            "answer": "eps",
-            "normalized": "eps"
+            "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
+            "clue": "Forensic show set in Vegas, then Miami",
+            "answer": "csi",
+            "normalized": "csi"
           },
           {
-            "id": "ef548eb9-9a21-4e93-a76e-e79e42a64475",
-            "clue": "Illuminated a single actor",
-            "answer": "spotlit",
-            "normalized": "spotlit"
+            "id": "27c62edf-9ea7-43cb-bbc6-9d4a2b1ddc25",
+            "clue": "Video game series with bounty hunter Samus Aran",
+            "answer": "metroid",
+            "normalized": "metroid"
           },
           {
-            "id": "089ea090-83bb-4d65-9c22-2d70bf4d1543",
-            "clue": "Mountain range, extends from China to Gobi Desert",
-            "answer": "kunlun",
-            "normalized": "kunlun"
+            "id": "8672599c-abdf-4b2a-be93-485c1880edf6",
+            "clue": "Village with a church on a hillock on Divar Island",
+            "answer": "piedade",
+            "normalized": "piedade"
           },
           {
-            "id": "2ca9ea61-3251-4837-a22e-6274a9bf109f",
-            "clue": "Groups of at least six games in a tennis match",
-            "answer": "sets",
-            "normalized": "sets"
+            "id": "e964f96a-ecef-4f78-b871-250f02fdecec",
+            "clue": "Satisfy, quench",
+            "answer": "sate",
+            "normalized": "sate"
           },
           {
-            "id": "800a1614-4df2-46af-a03d-aef0a335f853",
-            "clue": "Company that designates colour ratios in printing",
-            "answer": "pantone",
-            "normalized": "pantone"
+            "id": "a6a51e03-b47c-4fb9-bf87-f9dc857c1637",
+            "clue": "Country whose capital city is Bandar Seri Begawan",
+            "answer": "brunei",
+            "normalized": "brunei"
           },
           {
-            "id": "fbd12a80-e511-4329-bcdc-9cb61f23e461",
-            "clue": "Cenozoic, Mesozoic, or Palaeozoic, geologically",
-            "answer": "era",
-            "normalized": "era"
+            "id": "726ca6bb-e8c5-4635-b8a9-4f0947abab9b",
+            "clue": "TV channel changers",
+            "answer": "remotes",
+            "normalized": "remotes"
           },
           {
-            "id": "b3227e7b-1dcc-4eb8-b878-408db414be79",
-            "clue": "Roman Catholic prayers celebrating the Incarnation",
-            "answer": "angelus",
-            "normalized": "angelus"
+            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
+            "clue": "The United States' largest association of doctors",
+            "answer": "ama",
+            "normalized": "ama"
           },
           {
-            "id": "1501a1af-70dd-49e9-bef2-5df9aff08ed7",
-            "clue": "Lyricist collaborating with Elton John: Bernie __",
-            "answer": "taupin",
-            "normalized": "taupin"
+            "id": "28d8115f-efbe-42a8-8cbd-555ab55b3e29",
+            "clue": "The guard hairs of an animal's fur",
+            "answer": "topcoat",
+            "normalized": "topcoat"
           },
           {
-            "id": "e4357af3-96de-4826-aa6e-24e7c9824c85",
-            "clue": "Group of eight bones that form the wrist",
-            "answer": "carpus",
-            "normalized": "carpus"
+            "id": "992ee517-6ae8-450b-bacd-6991733eb2ee",
+            "clue": "To hit or bump into something",
+            "answer": "thump",
+            "normalized": "thump"
           },
           {
-            "id": "f71341e2-a061-4b8a-93bd-d5348b74047d",
-            "clue": "There's no medal for this final place in the race",
-            "answer": "last",
-            "normalized": "last"
+            "id": "90a7f41d-487a-493d-ba31-836cf95e630d",
+            "clue": "Live, dwell",
+            "answer": "reside",
+            "normalized": "reside"
           },
           {
-            "id": "f9f3fe9c-a2a1-41af-b907-7aaf50adad76",
-            "clue": "Face covering worn at a ball",
-            "answer": "mask",
-            "normalized": "mask"
+            "id": "525f7a53-88b6-4acf-bd15-d171475c680e",
+            "clue": "Mean, thinly veiled unkind comment",
+            "answer": "snide",
+            "normalized": "snide"
           },
           {
-            "id": "c427c0f7-2af6-4d54-9393-5ad095962f53",
-            "clue": "Common abbreviation for The Local Train",
-            "answer": "tlt",
-            "normalized": "tlt"
+            "id": "74c9ff05-54b5-4f71-bfa7-b76609857815",
+            "clue": "Recommended dietary allowance, for short",
+            "answer": "rda",
+            "normalized": "rda"
           }
         ],
-        "track": "PC|LenCinY2026M10D31F1V000"
+        "track": "PC|LenCinY2026M11D1F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-10-31",
+      "key": "2026-11-01",
       "year": 2026,
-      "month": 10,
-      "day": 31,
+      "month": 11,
+      "day": 1,
       "small": {
-        "puzzleId": "0637aceb-c19e-42c1-b43b-399263711eaa",
+        "puzzleId": "PC|LenCinY2026M11D1F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
-            "clue": "British Army special forces air unit, initialism",
-            "answer": "sas",
-            "normalized": "sas"
+            "id": "d3ef2a92-ad5c-4ab3-9f5b-4b157bcc91a7",
+            "clue": "This fish is a common catch in Kolleru Lake",
+            "answer": "catla",
+            "normalized": "catla"
           },
           {
-            "id": "f567cc11-d6b4-4e94-92c6-0e7db51fd92c",
-            "clue": "Gossipy disclosure of confidences",
-            "answer": "tattle",
-            "normalized": "tattle"
+            "id": "c084a0d9-b8f1-40bf-810e-8d435fbd9c27",
+            "clue": "The name of the scary movie genre",
+            "answer": "horror",
+            "normalized": "horror"
           },
           {
-            "id": "3411bd6f-83ec-4da1-bc62-080acb2b868b",
-            "clue": "To register at school or in the military",
-            "answer": "enroll",
-            "normalized": "enroll"
+            "id": "97e6360f-10e5-4ea3-adb2-8adacfc98af2",
+            "clue": "Late Italian fashion designer: Giorgio __",
+            "answer": "armani",
+            "normalized": "armani"
           },
           {
-            "id": "abf181a7-36da-4bb1-9c0a-06448b3b5ef1",
-            "clue": "__ Messi, world-class Argentine footballer",
-            "answer": "lionel",
-            "normalized": "lionel"
+            "id": "ad1191d1-60cc-40be-8166-560b63559377",
+            "clue": "Clueless individuals have this",
+            "answer": "no idea",
+            "normalized": "noidea"
           },
           {
-            "id": "f097d169-57c3-4539-9a17-5737336ebe80",
-            "clue": "Groups of witches",
-            "answer": "covens",
-            "normalized": "covens"
+            "id": "69ffd960-8a26-45f3-80ee-381923500eda",
+            "clue": "Gets down on one's knees",
+            "answer": "kneels",
+            "normalized": "kneels"
           },
           {
-            "id": "c8276aeb-64ae-473e-b74c-fe8b9615cabf",
-            "clue": "Number representing a single entity",
-            "answer": "one",
-            "normalized": "one"
+            "id": "a710d624-2895-4cda-ba5f-fba7a60efa68",
+            "clue": "Informal word meaning cheeky and confident",
+            "answer": "sassy",
+            "normalized": "sassy"
           },
           {
-            "id": "f31b4b4d-dc92-4221-96e3-007d8c9b6487",
-            "clue": "\"Kill two birds with one __\"",
-            "answer": "stone",
-            "normalized": "stone"
+            "id": "a0cd1eeb-8c05-41c5-8414-db76f89d6647",
+            "clue": "Outermost part of the Sun's atmosphere",
+            "answer": "corona",
+            "normalized": "corona"
           },
           {
-            "id": "578c4080-ce81-4ea5-95e5-74d90ba852ee",
-            "clue": "Annie Hall and Midnight in Paris director Woody",
-            "answer": "allen",
-            "normalized": "allen"
+            "id": "3b62c904-75e9-4959-bdf2-f1b77dd73fb4",
+            "clue": "Groups of military soldiers",
+            "answer": "armies",
+            "normalized": "armies"
           },
           {
-            "id": "d26bd50a-c38c-4eb5-8fe7-2caa0511fd5e",
-            "clue": "Puts up for auction",
-            "answer": "sells",
-            "normalized": "sells"
+            "id": "5553290a-a9c3-40eb-aba7-d629f1f0266f",
+            "clue": "Barters, swaps",
+            "answer": "trades",
+            "normalized": "trades"
           },
           {
-            "id": "83c3152d-776d-4c61-9dbd-431188c5b121",
-            "clue": "The former name of Tata Motors",
-            "answer": "telco",
-            "normalized": "telco"
+            "id": "3e81f039-2220-4444-91f5-85e7c0ce14b5",
+            "clue": "__ Planet, travel guides founded by the Wheelers",
+            "answer": "lonely",
+            "normalized": "lonely"
           },
           {
-            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
-            "clue": "Negatively charged ion",
-            "answer": "anion",
-            "normalized": "anion"
+            "id": "c629758d-87dc-4784-85a6-772749c40217",
+            "clue": "Solo vocals in operas, Nessun Dorma for example",
+            "answer": "arias",
+            "normalized": "arias"
           },
           {
-            "id": "2aef7b58-09e1-4be3-a3b6-9b7355562925",
-            "clue": "Stash or collection of treasure",
-            "answer": "trove",
-            "normalized": "trove"
+            "id": "2d3c8ac8-f951-4788-b989-7e8854e9c466",
+            "clue": "Tom who voiced Woody in Toy Story",
+            "answer": "hanks",
+            "normalized": "hanks"
           }
         ],
-        "track": "PC|LenCinY2026M10D31F0V000"
+        "track": "PC|LenCinY2026M11D1F0V000"
       },
       "mid": {
-        "puzzleId": "fb606e60-2cef-4663-af1b-680932749276",
+        "puzzleId": "PC|LenCinY2026M11D1F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1494ca5f-4d0a-4762-8be9-d97dace263c2",
-            "clue": "Soggy, decomposed soil found in bogs",
-            "answer": "peat",
-            "normalized": "peat"
+            "id": "530433e9-ba1c-480a-9af4-6d9e49d9b8a1",
+            "clue": "Spoiled, badly behaved child",
+            "answer": "brat",
+            "normalized": "brat"
           },
           {
-            "id": "04e1e826-e490-4f70-a3a8-a209bb678738",
-            "clue": "Relating to physical need, sensual, fleshy",
-            "answer": "carnal",
-            "normalized": "carnal"
+            "id": "62ea4a2d-a557-4470-9c39-51b5d274d048",
+            "clue": "1990 Kevin Bacon movie about giant worms",
+            "answer": "tremors",
+            "normalized": "tremors"
           },
           {
-            "id": "e1890225-1282-4ff8-b918-3a3c587b5678",
-            "clue": "Almost-rhyming capital of Nicaragua",
-            "answer": "managua",
-            "normalized": "managua"
+            "id": "efaaca17-2c4b-4778-b263-fb35c5219716",
+            "clue": "Insulin device from Eli Lilly",
+            "answer": "humapen",
+            "normalized": "humapen"
           },
           {
-            "id": "332b59f1-3a9a-475e-b508-f549e76a760d",
-            "clue": "Garfunkel, who sang Bright Eyes",
-            "answer": "art",
-            "normalized": "art"
+            "id": "7e81f231-5b5d-4364-a484-dc5351c0e9b2",
+            "clue": "Game with numbered playing cards",
+            "answer": "uno",
+            "normalized": "uno"
           },
           {
-            "id": "7e6ce78e-f025-43f3-adaa-dd339ecb6bf8",
-            "clue": "Extended play records",
-            "answer": "eps",
-            "normalized": "eps"
+            "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
+            "clue": "Forensic show set in Vegas, then Miami",
+            "answer": "csi",
+            "normalized": "csi"
           },
           {
-            "id": "ef548eb9-9a21-4e93-a76e-e79e42a64475",
-            "clue": "Illuminated a single actor",
-            "answer": "spotlit",
-            "normalized": "spotlit"
+            "id": "27c62edf-9ea7-43cb-bbc6-9d4a2b1ddc25",
+            "clue": "Video game series with bounty hunter Samus Aran",
+            "answer": "metroid",
+            "normalized": "metroid"
           },
           {
-            "id": "089ea090-83bb-4d65-9c22-2d70bf4d1543",
-            "clue": "Mountain range, extends from China to Gobi Desert",
-            "answer": "kunlun",
-            "normalized": "kunlun"
+            "id": "8672599c-abdf-4b2a-be93-485c1880edf6",
+            "clue": "Village with a church on a hillock on Divar Island",
+            "answer": "piedade",
+            "normalized": "piedade"
           },
           {
-            "id": "2ca9ea61-3251-4837-a22e-6274a9bf109f",
-            "clue": "Groups of at least six games in a tennis match",
-            "answer": "sets",
-            "normalized": "sets"
+            "id": "e964f96a-ecef-4f78-b871-250f02fdecec",
+            "clue": "Satisfy, quench",
+            "answer": "sate",
+            "normalized": "sate"
           },
           {
-            "id": "800a1614-4df2-46af-a03d-aef0a335f853",
-            "clue": "Company that designates colour ratios in printing",
-            "answer": "pantone",
-            "normalized": "pantone"
+            "id": "a6a51e03-b47c-4fb9-bf87-f9dc857c1637",
+            "clue": "Country whose capital city is Bandar Seri Begawan",
+            "answer": "brunei",
+            "normalized": "brunei"
           },
           {
-            "id": "fbd12a80-e511-4329-bcdc-9cb61f23e461",
-            "clue": "Cenozoic, Mesozoic, or Palaeozoic, geologically",
-            "answer": "era",
-            "normalized": "era"
+            "id": "726ca6bb-e8c5-4635-b8a9-4f0947abab9b",
+            "clue": "TV channel changers",
+            "answer": "remotes",
+            "normalized": "remotes"
           },
           {
-            "id": "b3227e7b-1dcc-4eb8-b878-408db414be79",
-            "clue": "Roman Catholic prayers celebrating the Incarnation",
-            "answer": "angelus",
-            "normalized": "angelus"
+            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
+            "clue": "The United States' largest association of doctors",
+            "answer": "ama",
+            "normalized": "ama"
           },
           {
-            "id": "1501a1af-70dd-49e9-bef2-5df9aff08ed7",
-            "clue": "Lyricist collaborating with Elton John: Bernie __",
-            "answer": "taupin",
-            "normalized": "taupin"
+            "id": "28d8115f-efbe-42a8-8cbd-555ab55b3e29",
+            "clue": "The guard hairs of an animal's fur",
+            "answer": "topcoat",
+            "normalized": "topcoat"
           },
           {
-            "id": "e4357af3-96de-4826-aa6e-24e7c9824c85",
-            "clue": "Group of eight bones that form the wrist",
-            "answer": "carpus",
-            "normalized": "carpus"
+            "id": "992ee517-6ae8-450b-bacd-6991733eb2ee",
+            "clue": "To hit or bump into something",
+            "answer": "thump",
+            "normalized": "thump"
           },
           {
-            "id": "f71341e2-a061-4b8a-93bd-d5348b74047d",
-            "clue": "There's no medal for this final place in the race",
-            "answer": "last",
-            "normalized": "last"
+            "id": "90a7f41d-487a-493d-ba31-836cf95e630d",
+            "clue": "Live, dwell",
+            "answer": "reside",
+            "normalized": "reside"
           },
           {
-            "id": "f9f3fe9c-a2a1-41af-b907-7aaf50adad76",
-            "clue": "Face covering worn at a ball",
-            "answer": "mask",
-            "normalized": "mask"
+            "id": "525f7a53-88b6-4acf-bd15-d171475c680e",
+            "clue": "Mean, thinly veiled unkind comment",
+            "answer": "snide",
+            "normalized": "snide"
           },
           {
-            "id": "c427c0f7-2af6-4d54-9393-5ad095962f53",
-            "clue": "Common abbreviation for The Local Train",
-            "answer": "tlt",
-            "normalized": "tlt"
+            "id": "74c9ff05-54b5-4f71-bfa7-b76609857815",
+            "clue": "Recommended dietary allowance, for short",
+            "answer": "rda",
+            "normalized": "rda"
           }
         ],
-        "track": "PC|LenCinY2026M10D31F1V000"
+        "track": "PC|LenCinY2026M11D1F1V000"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-10-31",
+      "key": "2026-11-01",
       "year": 2026,
-      "month": 10,
-      "day": 31,
+      "month": 11,
+      "day": 1,
       "small": {
-        "puzzleId": "0637aceb-c19e-42c1-b43b-399263711eaa",
+        "puzzleId": "PC|LenCinY2026M11D1F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "ab022362-d897-4be3-88ee-f921254a41b8",
-            "clue": "British Army special forces air unit, initialism",
-            "answer": "sas",
-            "normalized": "sas"
+            "id": "d3ef2a92-ad5c-4ab3-9f5b-4b157bcc91a7",
+            "clue": "This fish is a common catch in Kolleru Lake",
+            "answer": "catla",
+            "normalized": "catla"
           },
           {
-            "id": "f567cc11-d6b4-4e94-92c6-0e7db51fd92c",
-            "clue": "Gossipy disclosure of confidences",
-            "answer": "tattle",
-            "normalized": "tattle"
+            "id": "c084a0d9-b8f1-40bf-810e-8d435fbd9c27",
+            "clue": "The name of the scary movie genre",
+            "answer": "horror",
+            "normalized": "horror"
           },
           {
-            "id": "3411bd6f-83ec-4da1-bc62-080acb2b868b",
-            "clue": "To register at school or in the military",
-            "answer": "enroll",
-            "normalized": "enroll"
+            "id": "97e6360f-10e5-4ea3-adb2-8adacfc98af2",
+            "clue": "Late Italian fashion designer: Giorgio __",
+            "answer": "armani",
+            "normalized": "armani"
           },
           {
-            "id": "abf181a7-36da-4bb1-9c0a-06448b3b5ef1",
-            "clue": "__ Messi, world-class Argentine footballer",
-            "answer": "lionel",
-            "normalized": "lionel"
+            "id": "ad1191d1-60cc-40be-8166-560b63559377",
+            "clue": "Clueless individuals have this",
+            "answer": "no idea",
+            "normalized": "noidea"
           },
           {
-            "id": "f097d169-57c3-4539-9a17-5737336ebe80",
-            "clue": "Groups of witches",
-            "answer": "covens",
-            "normalized": "covens"
+            "id": "69ffd960-8a26-45f3-80ee-381923500eda",
+            "clue": "Gets down on one's knees",
+            "answer": "kneels",
+            "normalized": "kneels"
           },
           {
-            "id": "c8276aeb-64ae-473e-b74c-fe8b9615cabf",
-            "clue": "Number representing a single entity",
-            "answer": "one",
-            "normalized": "one"
+            "id": "a710d624-2895-4cda-ba5f-fba7a60efa68",
+            "clue": "Informal word meaning cheeky and confident",
+            "answer": "sassy",
+            "normalized": "sassy"
           },
           {
-            "id": "f31b4b4d-dc92-4221-96e3-007d8c9b6487",
-            "clue": "\"Kill two birds with one __\"",
-            "answer": "stone",
-            "normalized": "stone"
+            "id": "a0cd1eeb-8c05-41c5-8414-db76f89d6647",
+            "clue": "Outermost part of the Sun's atmosphere",
+            "answer": "corona",
+            "normalized": "corona"
           },
           {
-            "id": "578c4080-ce81-4ea5-95e5-74d90ba852ee",
-            "clue": "Annie Hall and Midnight in Paris director Woody",
-            "answer": "allen",
-            "normalized": "allen"
+            "id": "3b62c904-75e9-4959-bdf2-f1b77dd73fb4",
+            "clue": "Groups of military soldiers",
+            "answer": "armies",
+            "normalized": "armies"
           },
           {
-            "id": "d26bd50a-c38c-4eb5-8fe7-2caa0511fd5e",
-            "clue": "Puts up for auction",
-            "answer": "sells",
-            "normalized": "sells"
+            "id": "5553290a-a9c3-40eb-aba7-d629f1f0266f",
+            "clue": "Barters, swaps",
+            "answer": "trades",
+            "normalized": "trades"
           },
           {
-            "id": "83c3152d-776d-4c61-9dbd-431188c5b121",
-            "clue": "The former name of Tata Motors",
-            "answer": "telco",
-            "normalized": "telco"
+            "id": "3e81f039-2220-4444-91f5-85e7c0ce14b5",
+            "clue": "__ Planet, travel guides founded by the Wheelers",
+            "answer": "lonely",
+            "normalized": "lonely"
           },
           {
-            "id": "e73b4c0a-af6d-4f7d-a290-0b4e3243c400",
-            "clue": "Negatively charged ion",
-            "answer": "anion",
-            "normalized": "anion"
+            "id": "c629758d-87dc-4784-85a6-772749c40217",
+            "clue": "Solo vocals in operas, Nessun Dorma for example",
+            "answer": "arias",
+            "normalized": "arias"
           },
           {
-            "id": "2aef7b58-09e1-4be3-a3b6-9b7355562925",
-            "clue": "Stash or collection of treasure",
-            "answer": "trove",
-            "normalized": "trove"
+            "id": "2d3c8ac8-f951-4788-b989-7e8854e9c466",
+            "clue": "Tom who voiced Woody in Toy Story",
+            "answer": "hanks",
+            "normalized": "hanks"
           }
         ],
-        "track": "PC|LenCinY2026M10D31F0V000"
+        "track": "PC|LenCinY2026M11D1F0V000"
       },
       "mid": {
-        "puzzleId": "fb606e60-2cef-4663-af1b-680932749276",
+        "puzzleId": "PC|LenCinY2026M11D1F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1494ca5f-4d0a-4762-8be9-d97dace263c2",
-            "clue": "Soggy, decomposed soil found in bogs",
-            "answer": "peat",
-            "normalized": "peat"
+            "id": "530433e9-ba1c-480a-9af4-6d9e49d9b8a1",
+            "clue": "Spoiled, badly behaved child",
+            "answer": "brat",
+            "normalized": "brat"
           },
           {
-            "id": "04e1e826-e490-4f70-a3a8-a209bb678738",
-            "clue": "Relating to physical need, sensual, fleshy",
-            "answer": "carnal",
-            "normalized": "carnal"
+            "id": "62ea4a2d-a557-4470-9c39-51b5d274d048",
+            "clue": "1990 Kevin Bacon movie about giant worms",
+            "answer": "tremors",
+            "normalized": "tremors"
           },
           {
-            "id": "e1890225-1282-4ff8-b918-3a3c587b5678",
-            "clue": "Almost-rhyming capital of Nicaragua",
-            "answer": "managua",
-            "normalized": "managua"
+            "id": "efaaca17-2c4b-4778-b263-fb35c5219716",
+            "clue": "Insulin device from Eli Lilly",
+            "answer": "humapen",
+            "normalized": "humapen"
           },
           {
-            "id": "332b59f1-3a9a-475e-b508-f549e76a760d",
-            "clue": "Garfunkel, who sang Bright Eyes",
-            "answer": "art",
-            "normalized": "art"
+            "id": "7e81f231-5b5d-4364-a484-dc5351c0e9b2",
+            "clue": "Game with numbered playing cards",
+            "answer": "uno",
+            "normalized": "uno"
           },
           {
-            "id": "7e6ce78e-f025-43f3-adaa-dd339ecb6bf8",
-            "clue": "Extended play records",
-            "answer": "eps",
-            "normalized": "eps"
+            "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
+            "clue": "Forensic show set in Vegas, then Miami",
+            "answer": "csi",
+            "normalized": "csi"
           },
           {
-            "id": "ef548eb9-9a21-4e93-a76e-e79e42a64475",
-            "clue": "Illuminated a single actor",
-            "answer": "spotlit",
-            "normalized": "spotlit"
+            "id": "27c62edf-9ea7-43cb-bbc6-9d4a2b1ddc25",
+            "clue": "Video game series with bounty hunter Samus Aran",
+            "answer": "metroid",
+            "normalized": "metroid"
           },
           {
-            "id": "089ea090-83bb-4d65-9c22-2d70bf4d1543",
-            "clue": "Mountain range, extends from China to Gobi Desert",
-            "answer": "kunlun",
-            "normalized": "kunlun"
+            "id": "8672599c-abdf-4b2a-be93-485c1880edf6",
+            "clue": "Village with a church on a hillock on Divar Island",
+            "answer": "piedade",
+            "normalized": "piedade"
           },
           {
-            "id": "2ca9ea61-3251-4837-a22e-6274a9bf109f",
-            "clue": "Groups of at least six games in a tennis match",
-            "answer": "sets",
-            "normalized": "sets"
+            "id": "e964f96a-ecef-4f78-b871-250f02fdecec",
+            "clue": "Satisfy, quench",
+            "answer": "sate",
+            "normalized": "sate"
           },
           {
-            "id": "800a1614-4df2-46af-a03d-aef0a335f853",
-            "clue": "Company that designates colour ratios in printing",
-            "answer": "pantone",
-            "normalized": "pantone"
+            "id": "a6a51e03-b47c-4fb9-bf87-f9dc857c1637",
+            "clue": "Country whose capital city is Bandar Seri Begawan",
+            "answer": "brunei",
+            "normalized": "brunei"
           },
           {
-            "id": "fbd12a80-e511-4329-bcdc-9cb61f23e461",
-            "clue": "Cenozoic, Mesozoic, or Palaeozoic, geologically",
-            "answer": "era",
-            "normalized": "era"
+            "id": "726ca6bb-e8c5-4635-b8a9-4f0947abab9b",
+            "clue": "TV channel changers",
+            "answer": "remotes",
+            "normalized": "remotes"
           },
           {
-            "id": "b3227e7b-1dcc-4eb8-b878-408db414be79",
-            "clue": "Roman Catholic prayers celebrating the Incarnation",
-            "answer": "angelus",
-            "normalized": "angelus"
+            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
+            "clue": "The United States' largest association of doctors",
+            "answer": "ama",
+            "normalized": "ama"
           },
           {
-            "id": "1501a1af-70dd-49e9-bef2-5df9aff08ed7",
-            "clue": "Lyricist collaborating with Elton John: Bernie __",
-            "answer": "taupin",
-            "normalized": "taupin"
+            "id": "28d8115f-efbe-42a8-8cbd-555ab55b3e29",
+            "clue": "The guard hairs of an animal's fur",
+            "answer": "topcoat",
+            "normalized": "topcoat"
           },
           {
-            "id": "e4357af3-96de-4826-aa6e-24e7c9824c85",
-            "clue": "Group of eight bones that form the wrist",
-            "answer": "carpus",
-            "normalized": "carpus"
+            "id": "992ee517-6ae8-450b-bacd-6991733eb2ee",
+            "clue": "To hit or bump into something",
+            "answer": "thump",
+            "normalized": "thump"
           },
           {
-            "id": "f71341e2-a061-4b8a-93bd-d5348b74047d",
-            "clue": "There's no medal for this final place in the race",
-            "answer": "last",
-            "normalized": "last"
+            "id": "90a7f41d-487a-493d-ba31-836cf95e630d",
+            "clue": "Live, dwell",
+            "answer": "reside",
+            "normalized": "reside"
           },
           {
-            "id": "f9f3fe9c-a2a1-41af-b907-7aaf50adad76",
-            "clue": "Face covering worn at a ball",
-            "answer": "mask",
-            "normalized": "mask"
+            "id": "525f7a53-88b6-4acf-bd15-d171475c680e",
+            "clue": "Mean, thinly veiled unkind comment",
+            "answer": "snide",
+            "normalized": "snide"
           },
           {
-            "id": "c427c0f7-2af6-4d54-9393-5ad095962f53",
-            "clue": "Common abbreviation for The Local Train",
-            "answer": "tlt",
-            "normalized": "tlt"
+            "id": "74c9ff05-54b5-4f71-bfa7-b76609857815",
+            "clue": "Recommended dietary allowance, for short",
+            "answer": "rda",
+            "normalized": "rda"
           }
         ],
-        "track": "PC|LenCinY2026M10D31F1V000"
+        "track": "PC|LenCinY2026M11D1F1V000"
       }
     },
     "todayPublished": true
@@ -383328,21 +383522,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "7Frs6AH3qp+KhiMvybaDC5asOzfIiCXZUt/YESxi7TES8fQKjkmDK5oVquxX1RduT/rC2tpJgMZEox/4LdODCk/NsAqwgxGKR57RMlMPdFJwTGqHu1eXmae5ShMg2wgBLYc8DL8rjr7TYI/srSSuwARUIGVLA1L0A+vfBW5UhcAiYnjS0ta0Ldyj5qza6PkfMnG+n3mT9Fbmp77B1wVbfkk/HXPChaCBVmAvjaUn46hBDIG2CRgJA4GSpCVn3VRnq8JcW4hNr5iftOTpS1+aetESOmTcL9E/37WaJtjnNbk="
+        "qrzbOxtTv2SF7Kz62y6Olt9Dcu+DsJf3QLjT0LlyelN7A6+sqV8vXahHs1bRY0fycIo7D1BjpgWf4+uhsVIHpKH8e8Yfygq2+gW2Ib2UfMNlHxi61ckNJHRmnB0qAiLSEqOvDmznMRh//4Ves0PMx12aPKh/ycmyWBtkodPQcfGUjJP//x8QZTyGQJblq0PgTTdvgmHYnm5IOAbEZZXG5HJv9gsk5ncwPpy04dJp7cbOju/XWsPscjSNWJTX24gi/5f9+b4E62yhJxd4lOGX+bfdrkr98D8Omf6zuTtM+xo="
       ]
     },
     "decrypted": {
-      "Id": "141063b7-89b2-43ec-87b7-969c65c03b2b",
-      "Date": "2026-10-31T00:00:00Z",
+      "Id": "c423f1d6-3c30-490f-b505-223df2422b2f",
+      "Date": "2026-11-01T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "scare",
-      "NormalizedPassword": "scare",
+      "Password": "fudge",
+      "NormalizedPassword": "fudge",
       "MaxGuesses": 6,
       "Version": 2,
       "MustUpdateApp": false
     },
-    "dtu": "2026-10-31T04:01:28.8050000+05:30",
-    "hash": "37c9c89b29b7b220864b8e433ffd2021",
+    "dtu": "2026-11-01T03:15:56.1270000+05:30",
+    "hash": "b76959acb5c2286da2dac7979c58366d",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
