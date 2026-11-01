@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T21:45:56.127Z",
+  "generatedAt": "2026-11-01T22:13:59.899Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 1
+    "day": 2
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 10,
-        "QuantidadeDeFases": 60
+        "QuantidadeDeFases": 62
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -430,197 +430,185 @@
     ],
     "archiveEntries": [
       {
-        "key": "2026-11-01",
+        "key": "2026-11-02",
         "year": 2026,
         "month": 11,
-        "day": 1,
+        "day": 2,
         "small": {
-          "puzzleId": "PC|LenCinY2026M11D1F0V000",
+          "puzzleId": "PC|LenCinY2026M11D2F0V000",
           "fase": 0,
           "size": 1,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "d3ef2a92-ad5c-4ab3-9f5b-4b157bcc91a7",
-              "clue": "This fish is a common catch in Kolleru Lake",
-              "answer": "catla",
-              "normalized": "catla"
+              "id": "80318dc2-da05-4638-9907-8394fbcb900c",
+              "clue": "Wonderment, profound respect",
+              "answer": "awe",
+              "normalized": "awe"
             },
             {
-              "id": "c084a0d9-b8f1-40bf-810e-8d435fbd9c27",
-              "clue": "The name of the scary movie genre",
-              "answer": "horror",
-              "normalized": "horror"
+              "id": "ffa77011-bd46-43c0-83dc-8ba143c8e6cf",
+              "clue": "Last name of mathematician Carl Friedrich",
+              "answer": "gauss",
+              "normalized": "gauss"
             },
             {
-              "id": "97e6360f-10e5-4ea3-adb2-8adacfc98af2",
-              "clue": "Late Italian fashion designer: Giorgio __",
-              "answer": "armani",
-              "normalized": "armani"
+              "id": "d8d47e14-e907-4bff-a516-f1f618050dc6",
+              "clue": "Goulding who sang Love Me Like You Do",
+              "answer": "ellie",
+              "normalized": "ellie"
             },
             {
-              "id": "ad1191d1-60cc-40be-8166-560b63559377",
-              "clue": "Clueless individuals have this",
-              "answer": "no idea",
-              "normalized": "noidea"
+              "id": "c65ea02c-b3bf-4ae8-9007-a4532ba15fcc",
+              "clue": "Wipe the __ clean, have a fresh start",
+              "answer": "slate",
+              "normalized": "slate"
             },
             {
-              "id": "69ffd960-8a26-45f3-80ee-381923500eda",
-              "clue": "Gets down on one's knees",
-              "answer": "kneels",
-              "normalized": "kneels"
+              "id": "ed95f259-9cad-4977-83c7-25d9b98e5ad2",
+              "clue": "Sugary tree liquid",
+              "answer": "sap",
+              "normalized": "sap"
             },
             {
-              "id": "a710d624-2895-4cda-ba5f-fba7a60efa68",
-              "clue": "Informal word meaning cheeky and confident",
-              "answer": "sassy",
-              "normalized": "sassy"
+              "id": "6690b65e-61aa-4f99-b189-5e5716fb554d",
+              "clue": "An extremely long time",
+              "answer": "ages",
+              "normalized": "ages"
             },
             {
-              "id": "a0cd1eeb-8c05-41c5-8414-db76f89d6647",
-              "clue": "Outermost part of the Sun's atmosphere",
-              "answer": "corona",
-              "normalized": "corona"
+              "id": "ea3c0f4e-a224-478d-8588-c48cd9e0df88",
+              "clue": "The Great __ of China",
+              "answer": "wall",
+              "normalized": "wall"
             },
             {
-              "id": "3b62c904-75e9-4959-bdf2-f1b77dd73fb4",
-              "clue": "Groups of military soldiers",
-              "answer": "armies",
-              "normalized": "armies"
+              "id": "05e87091-c404-42df-82b5-8b37793e55d6",
+              "clue": "Licensing agreements for end users, in short",
+              "answer": "eulas",
+              "normalized": "eulas"
             },
             {
-              "id": "5553290a-a9c3-40eb-aba7-d629f1f0266f",
-              "clue": "Barters, swaps",
-              "answer": "trades",
-              "normalized": "trades"
+              "id": "269797eb-5d10-4403-b2b8-b06261fba8c0",
+              "clue": "Rama's devoted wife in the Ramayana",
+              "answer": "sita",
+              "normalized": "sita"
             },
             {
-              "id": "3e81f039-2220-4444-91f5-85e7c0ce14b5",
-              "clue": "__ Planet, travel guides founded by the Wheelers",
-              "answer": "lonely",
-              "normalized": "lonely"
-            },
-            {
-              "id": "c629758d-87dc-4784-85a6-772749c40217",
-              "clue": "Solo vocals in operas, Nessun Dorma for example",
-              "answer": "arias",
-              "normalized": "arias"
-            },
-            {
-              "id": "2d3c8ac8-f951-4788-b989-7e8854e9c466",
-              "clue": "Tom who voiced Woody in Toy Story",
-              "answer": "hanks",
-              "normalized": "hanks"
+              "id": "2f2936e5-c1e0-4a9e-ae3c-045caf0d36ac",
+              "clue": "Ooze out slowly",
+              "answer": "seep",
+              "normalized": "seep"
             }
           ],
-          "track": "PC|LenCinY2026M11D1F0V000"
+          "track": "PC|LenCinY2026M11D2F0V000"
         },
         "mid": {
-          "puzzleId": "PC|LenCinY2026M11D1F1V000",
+          "puzzleId": "PC|LenCinY2026M11D2F1V000",
           "fase": 1,
           "size": 2,
           "status": 1,
           "version": 0,
           "answers": [
             {
-              "id": "530433e9-ba1c-480a-9af4-6d9e49d9b8a1",
-              "clue": "Spoiled, badly behaved child",
-              "answer": "brat",
-              "normalized": "brat"
+              "id": "30fb1466-4f34-4723-9348-24fcec41af1d",
+              "clue": "Fictional corporation appearing in Looney Tunes",
+              "answer": "acme",
+              "normalized": "acme"
             },
             {
-              "id": "62ea4a2d-a557-4470-9c39-51b5d274d048",
-              "clue": "1990 Kevin Bacon movie about giant worms",
-              "answer": "tremors",
-              "normalized": "tremors"
+              "id": "4748a4ab-8564-4d16-b6cd-ec458602719b",
+              "clue": "Fat airships, often displaying advertising",
+              "answer": "blimps",
+              "normalized": "blimps"
             },
             {
-              "id": "efaaca17-2c4b-4778-b263-fb35c5219716",
-              "clue": "Insulin device from Eli Lilly",
-              "answer": "humapen",
-              "normalized": "humapen"
+              "id": "571722c9-57ad-48a6-8ef6-3f0414a5c700",
+              "clue": "First capital of Egypt under Islamic rule",
+              "answer": "fustat",
+              "normalized": "fustat"
             },
             {
-              "id": "7e81f231-5b5d-4364-a484-dc5351c0e9b2",
-              "clue": "Game with numbered playing cards",
-              "answer": "uno",
-              "normalized": "uno"
+              "id": "affd5a85-6b78-42c5-bfda-6ba2dfddfad2",
+              "clue": "German for the pronoun I",
+              "answer": "ich",
+              "normalized": "ich"
             },
             {
-              "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
-              "clue": "Forensic show set in Vegas, then Miami",
-              "answer": "csi",
-              "normalized": "csi"
+              "id": "4ef7d9b9-e46b-45ab-a256-429b23e762d3",
+              "clue": "In 2018, Lil __ X gave us Old Town Road",
+              "answer": "nas",
+              "normalized": "nas"
             },
             {
-              "id": "27c62edf-9ea7-43cb-bbc6-9d4a2b1ddc25",
-              "clue": "Video game series with bounty hunter Samus Aran",
-              "answer": "metroid",
-              "normalized": "metroid"
+              "id": "fecef3f9-4bdf-4939-977c-a4b9ab18d03f",
+              "clue": "A dry, Lucknowi style of Seviyan",
+              "answer": "kimami",
+              "normalized": "kimami"
             },
             {
-              "id": "8672599c-abdf-4b2a-be93-485c1880edf6",
-              "clue": "Village with a church on a hillock on Divar Island",
-              "answer": "piedade",
-              "normalized": "piedade"
+              "id": "562d83d6-2f21-404d-bc2f-08067b6626ab",
+              "clue": "Treads heavily",
+              "answer": "stomps",
+              "normalized": "stomps"
             },
             {
-              "id": "e964f96a-ecef-4f78-b871-250f02fdecec",
-              "clue": "Satisfy, quench",
-              "answer": "sate",
-              "normalized": "sate"
+              "id": "fae0e359-8585-4490-98fe-c514f6511066",
+              "clue": "Bheem's divine father, the god of wind",
+              "answer": "vayu",
+              "normalized": "vayu"
             },
             {
-              "id": "a6a51e03-b47c-4fb9-bf87-f9dc857c1637",
-              "clue": "Country whose capital city is Bandar Seri Begawan",
-              "answer": "brunei",
-              "normalized": "brunei"
+              "id": "3de28784-6b0e-4f09-82e7-a7f5f17936e9",
+              "clue": "Organiser of the National Baseball Championship",
+              "answer": "abfi",
+              "normalized": "abfi"
             },
             {
-              "id": "726ca6bb-e8c5-4635-b8a9-4f0947abab9b",
-              "clue": "TV channel changers",
-              "answer": "remotes",
-              "normalized": "remotes"
+              "id": "226585fa-6860-44be-b1e3-88dd19387c19",
+              "clue": "Hen sounds",
+              "answer": "clucks",
+              "normalized": "clucks"
             },
             {
-              "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-              "clue": "The United States' largest association of doctors",
-              "answer": "ama",
-              "normalized": "ama"
+              "id": "07631928-ac58-4534-8e82-e18034f962d4",
+              "clue": "Duff a shot in golf",
+              "answer": "mishit",
+              "normalized": "mishit"
             },
             {
-              "id": "28d8115f-efbe-42a8-8cbd-555ab55b3e29",
-              "clue": "The guard hairs of an animal's fur",
-              "answer": "topcoat",
-              "normalized": "topcoat"
+              "id": "def9e9bd-ca73-4bac-8805-efbb69fb4aba",
+              "clue": "An emergency medical technician",
+              "answer": "emt",
+              "normalized": "emt"
             },
             {
-              "id": "992ee517-6ae8-450b-bacd-6991733eb2ee",
-              "clue": "To hit or bump into something",
-              "answer": "thump",
-              "normalized": "thump"
+              "id": "87e8e594-e201-446d-b2fb-52ef30186543",
+              "clue": "A man, a plan, a canal, __",
+              "answer": "panama",
+              "normalized": "panama"
             },
             {
-              "id": "90a7f41d-487a-493d-ba31-836cf95e630d",
-              "clue": "Live, dwell",
-              "answer": "reside",
-              "normalized": "reside"
+              "id": "967797f0-bb29-42f9-801c-f0fce2d50cbf",
+              "clue": "Bart's pet elephant in The Simpsons",
+              "answer": "stampy",
+              "normalized": "stampy"
             },
             {
-              "id": "525f7a53-88b6-4acf-bd15-d171475c680e",
-              "clue": "Mean, thinly veiled unkind comment",
-              "answer": "snide",
-              "normalized": "snide"
+              "id": "1d8c834a-cbbb-4467-acc7-8327a8ba19cf",
+              "clue": "Last dragon found by Raya",
+              "answer": "sisu",
+              "normalized": "sisu"
             },
             {
-              "id": "74c9ff05-54b5-4f71-bfa7-b76609857815",
-              "clue": "Recommended dietary allowance, for short",
-              "answer": "rda",
-              "normalized": "rda"
+              "id": "90518585-227f-43be-bd4b-447b72cf07f9",
+              "clue": "QuickTime file extension",
+              "answer": "mov",
+              "normalized": "mov"
             }
           ],
-          "track": "PC|LenCinY2026M11D1F1V000"
+          "track": "PC|LenCinY2026M11D2F1V000"
         }
       },
       {
@@ -145583,7 +145571,7 @@
             },
             {
               "id": "fc3f1c70-f882-458a-bbf7-0dcea921b1b7",
-              "clue": "Microsoft's AI assistant, was discontinued in 2023",
+              "clue": "Microsoft's AI assistant, was retired in 2023",
               "answer": "cortana",
               "normalized": "cortana"
             },
@@ -189869,7 +189857,7 @@
             },
             {
               "id": "0c656a36-45c9-4e06-a7be-d399e8939e9c",
-              "clue": "Inflammation of small intestine",
+              "clue": "Inflammation of the small intestine's final part",
               "answer": "ileitis",
               "normalized": "ileitis"
             },
@@ -344983,7 +344971,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -382932,585 +382920,549 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-01",
+      "key": "2026-11-02",
       "year": 2026,
       "month": 11,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenCinY2026M11D1F0V000",
+        "puzzleId": "PC|LenCinY2026M11D2F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "d3ef2a92-ad5c-4ab3-9f5b-4b157bcc91a7",
-            "clue": "This fish is a common catch in Kolleru Lake",
-            "answer": "catla",
-            "normalized": "catla"
+            "id": "80318dc2-da05-4638-9907-8394fbcb900c",
+            "clue": "Wonderment, profound respect",
+            "answer": "awe",
+            "normalized": "awe"
           },
           {
-            "id": "c084a0d9-b8f1-40bf-810e-8d435fbd9c27",
-            "clue": "The name of the scary movie genre",
-            "answer": "horror",
-            "normalized": "horror"
+            "id": "ffa77011-bd46-43c0-83dc-8ba143c8e6cf",
+            "clue": "Last name of mathematician Carl Friedrich",
+            "answer": "gauss",
+            "normalized": "gauss"
           },
           {
-            "id": "97e6360f-10e5-4ea3-adb2-8adacfc98af2",
-            "clue": "Late Italian fashion designer: Giorgio __",
-            "answer": "armani",
-            "normalized": "armani"
+            "id": "d8d47e14-e907-4bff-a516-f1f618050dc6",
+            "clue": "Goulding who sang Love Me Like You Do",
+            "answer": "ellie",
+            "normalized": "ellie"
           },
           {
-            "id": "ad1191d1-60cc-40be-8166-560b63559377",
-            "clue": "Clueless individuals have this",
-            "answer": "no idea",
-            "normalized": "noidea"
+            "id": "c65ea02c-b3bf-4ae8-9007-a4532ba15fcc",
+            "clue": "Wipe the __ clean, have a fresh start",
+            "answer": "slate",
+            "normalized": "slate"
           },
           {
-            "id": "69ffd960-8a26-45f3-80ee-381923500eda",
-            "clue": "Gets down on one's knees",
-            "answer": "kneels",
-            "normalized": "kneels"
+            "id": "ed95f259-9cad-4977-83c7-25d9b98e5ad2",
+            "clue": "Sugary tree liquid",
+            "answer": "sap",
+            "normalized": "sap"
           },
           {
-            "id": "a710d624-2895-4cda-ba5f-fba7a60efa68",
-            "clue": "Informal word meaning cheeky and confident",
-            "answer": "sassy",
-            "normalized": "sassy"
+            "id": "6690b65e-61aa-4f99-b189-5e5716fb554d",
+            "clue": "An extremely long time",
+            "answer": "ages",
+            "normalized": "ages"
           },
           {
-            "id": "a0cd1eeb-8c05-41c5-8414-db76f89d6647",
-            "clue": "Outermost part of the Sun's atmosphere",
-            "answer": "corona",
-            "normalized": "corona"
+            "id": "ea3c0f4e-a224-478d-8588-c48cd9e0df88",
+            "clue": "The Great __ of China",
+            "answer": "wall",
+            "normalized": "wall"
           },
           {
-            "id": "3b62c904-75e9-4959-bdf2-f1b77dd73fb4",
-            "clue": "Groups of military soldiers",
-            "answer": "armies",
-            "normalized": "armies"
+            "id": "05e87091-c404-42df-82b5-8b37793e55d6",
+            "clue": "Licensing agreements for end users, in short",
+            "answer": "eulas",
+            "normalized": "eulas"
           },
           {
-            "id": "5553290a-a9c3-40eb-aba7-d629f1f0266f",
-            "clue": "Barters, swaps",
-            "answer": "trades",
-            "normalized": "trades"
+            "id": "269797eb-5d10-4403-b2b8-b06261fba8c0",
+            "clue": "Rama's devoted wife in the Ramayana",
+            "answer": "sita",
+            "normalized": "sita"
           },
           {
-            "id": "3e81f039-2220-4444-91f5-85e7c0ce14b5",
-            "clue": "__ Planet, travel guides founded by the Wheelers",
-            "answer": "lonely",
-            "normalized": "lonely"
-          },
-          {
-            "id": "c629758d-87dc-4784-85a6-772749c40217",
-            "clue": "Solo vocals in operas, Nessun Dorma for example",
-            "answer": "arias",
-            "normalized": "arias"
-          },
-          {
-            "id": "2d3c8ac8-f951-4788-b989-7e8854e9c466",
-            "clue": "Tom who voiced Woody in Toy Story",
-            "answer": "hanks",
-            "normalized": "hanks"
+            "id": "2f2936e5-c1e0-4a9e-ae3c-045caf0d36ac",
+            "clue": "Ooze out slowly",
+            "answer": "seep",
+            "normalized": "seep"
           }
         ],
-        "track": "PC|LenCinY2026M11D1F0V000"
+        "track": "PC|LenCinY2026M11D2F0V000"
       },
       "mid": {
-        "puzzleId": "PC|LenCinY2026M11D1F1V000",
+        "puzzleId": "PC|LenCinY2026M11D2F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "530433e9-ba1c-480a-9af4-6d9e49d9b8a1",
-            "clue": "Spoiled, badly behaved child",
-            "answer": "brat",
-            "normalized": "brat"
+            "id": "30fb1466-4f34-4723-9348-24fcec41af1d",
+            "clue": "Fictional corporation appearing in Looney Tunes",
+            "answer": "acme",
+            "normalized": "acme"
           },
           {
-            "id": "62ea4a2d-a557-4470-9c39-51b5d274d048",
-            "clue": "1990 Kevin Bacon movie about giant worms",
-            "answer": "tremors",
-            "normalized": "tremors"
+            "id": "4748a4ab-8564-4d16-b6cd-ec458602719b",
+            "clue": "Fat airships, often displaying advertising",
+            "answer": "blimps",
+            "normalized": "blimps"
           },
           {
-            "id": "efaaca17-2c4b-4778-b263-fb35c5219716",
-            "clue": "Insulin device from Eli Lilly",
-            "answer": "humapen",
-            "normalized": "humapen"
+            "id": "571722c9-57ad-48a6-8ef6-3f0414a5c700",
+            "clue": "First capital of Egypt under Islamic rule",
+            "answer": "fustat",
+            "normalized": "fustat"
           },
           {
-            "id": "7e81f231-5b5d-4364-a484-dc5351c0e9b2",
-            "clue": "Game with numbered playing cards",
-            "answer": "uno",
-            "normalized": "uno"
+            "id": "affd5a85-6b78-42c5-bfda-6ba2dfddfad2",
+            "clue": "German for the pronoun I",
+            "answer": "ich",
+            "normalized": "ich"
           },
           {
-            "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
-            "clue": "Forensic show set in Vegas, then Miami",
-            "answer": "csi",
-            "normalized": "csi"
+            "id": "4ef7d9b9-e46b-45ab-a256-429b23e762d3",
+            "clue": "In 2018, Lil __ X gave us Old Town Road",
+            "answer": "nas",
+            "normalized": "nas"
           },
           {
-            "id": "27c62edf-9ea7-43cb-bbc6-9d4a2b1ddc25",
-            "clue": "Video game series with bounty hunter Samus Aran",
-            "answer": "metroid",
-            "normalized": "metroid"
+            "id": "fecef3f9-4bdf-4939-977c-a4b9ab18d03f",
+            "clue": "A dry, Lucknowi style of Seviyan",
+            "answer": "kimami",
+            "normalized": "kimami"
           },
           {
-            "id": "8672599c-abdf-4b2a-be93-485c1880edf6",
-            "clue": "Village with a church on a hillock on Divar Island",
-            "answer": "piedade",
-            "normalized": "piedade"
+            "id": "562d83d6-2f21-404d-bc2f-08067b6626ab",
+            "clue": "Treads heavily",
+            "answer": "stomps",
+            "normalized": "stomps"
           },
           {
-            "id": "e964f96a-ecef-4f78-b871-250f02fdecec",
-            "clue": "Satisfy, quench",
-            "answer": "sate",
-            "normalized": "sate"
+            "id": "fae0e359-8585-4490-98fe-c514f6511066",
+            "clue": "Bheem's divine father, the god of wind",
+            "answer": "vayu",
+            "normalized": "vayu"
           },
           {
-            "id": "a6a51e03-b47c-4fb9-bf87-f9dc857c1637",
-            "clue": "Country whose capital city is Bandar Seri Begawan",
-            "answer": "brunei",
-            "normalized": "brunei"
+            "id": "3de28784-6b0e-4f09-82e7-a7f5f17936e9",
+            "clue": "Organiser of the National Baseball Championship",
+            "answer": "abfi",
+            "normalized": "abfi"
           },
           {
-            "id": "726ca6bb-e8c5-4635-b8a9-4f0947abab9b",
-            "clue": "TV channel changers",
-            "answer": "remotes",
-            "normalized": "remotes"
+            "id": "226585fa-6860-44be-b1e3-88dd19387c19",
+            "clue": "Hen sounds",
+            "answer": "clucks",
+            "normalized": "clucks"
           },
           {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
+            "id": "07631928-ac58-4534-8e82-e18034f962d4",
+            "clue": "Duff a shot in golf",
+            "answer": "mishit",
+            "normalized": "mishit"
           },
           {
-            "id": "28d8115f-efbe-42a8-8cbd-555ab55b3e29",
-            "clue": "The guard hairs of an animal's fur",
-            "answer": "topcoat",
-            "normalized": "topcoat"
+            "id": "def9e9bd-ca73-4bac-8805-efbb69fb4aba",
+            "clue": "An emergency medical technician",
+            "answer": "emt",
+            "normalized": "emt"
           },
           {
-            "id": "992ee517-6ae8-450b-bacd-6991733eb2ee",
-            "clue": "To hit or bump into something",
-            "answer": "thump",
-            "normalized": "thump"
+            "id": "87e8e594-e201-446d-b2fb-52ef30186543",
+            "clue": "A man, a plan, a canal, __",
+            "answer": "panama",
+            "normalized": "panama"
           },
           {
-            "id": "90a7f41d-487a-493d-ba31-836cf95e630d",
-            "clue": "Live, dwell",
-            "answer": "reside",
-            "normalized": "reside"
+            "id": "967797f0-bb29-42f9-801c-f0fce2d50cbf",
+            "clue": "Bart's pet elephant in The Simpsons",
+            "answer": "stampy",
+            "normalized": "stampy"
           },
           {
-            "id": "525f7a53-88b6-4acf-bd15-d171475c680e",
-            "clue": "Mean, thinly veiled unkind comment",
-            "answer": "snide",
-            "normalized": "snide"
+            "id": "1d8c834a-cbbb-4467-acc7-8327a8ba19cf",
+            "clue": "Last dragon found by Raya",
+            "answer": "sisu",
+            "normalized": "sisu"
           },
           {
-            "id": "74c9ff05-54b5-4f71-bfa7-b76609857815",
-            "clue": "Recommended dietary allowance, for short",
-            "answer": "rda",
-            "normalized": "rda"
+            "id": "90518585-227f-43be-bd4b-447b72cf07f9",
+            "clue": "QuickTime file extension",
+            "answer": "mov",
+            "normalized": "mov"
           }
         ],
-        "track": "PC|LenCinY2026M11D1F1V000"
+        "track": "PC|LenCinY2026M11D2F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-01",
+      "key": "2026-11-02",
       "year": 2026,
       "month": 11,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenCinY2026M11D1F0V000",
+        "puzzleId": "PC|LenCinY2026M11D2F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "d3ef2a92-ad5c-4ab3-9f5b-4b157bcc91a7",
-            "clue": "This fish is a common catch in Kolleru Lake",
-            "answer": "catla",
-            "normalized": "catla"
+            "id": "80318dc2-da05-4638-9907-8394fbcb900c",
+            "clue": "Wonderment, profound respect",
+            "answer": "awe",
+            "normalized": "awe"
           },
           {
-            "id": "c084a0d9-b8f1-40bf-810e-8d435fbd9c27",
-            "clue": "The name of the scary movie genre",
-            "answer": "horror",
-            "normalized": "horror"
+            "id": "ffa77011-bd46-43c0-83dc-8ba143c8e6cf",
+            "clue": "Last name of mathematician Carl Friedrich",
+            "answer": "gauss",
+            "normalized": "gauss"
           },
           {
-            "id": "97e6360f-10e5-4ea3-adb2-8adacfc98af2",
-            "clue": "Late Italian fashion designer: Giorgio __",
-            "answer": "armani",
-            "normalized": "armani"
+            "id": "d8d47e14-e907-4bff-a516-f1f618050dc6",
+            "clue": "Goulding who sang Love Me Like You Do",
+            "answer": "ellie",
+            "normalized": "ellie"
           },
           {
-            "id": "ad1191d1-60cc-40be-8166-560b63559377",
-            "clue": "Clueless individuals have this",
-            "answer": "no idea",
-            "normalized": "noidea"
+            "id": "c65ea02c-b3bf-4ae8-9007-a4532ba15fcc",
+            "clue": "Wipe the __ clean, have a fresh start",
+            "answer": "slate",
+            "normalized": "slate"
           },
           {
-            "id": "69ffd960-8a26-45f3-80ee-381923500eda",
-            "clue": "Gets down on one's knees",
-            "answer": "kneels",
-            "normalized": "kneels"
+            "id": "ed95f259-9cad-4977-83c7-25d9b98e5ad2",
+            "clue": "Sugary tree liquid",
+            "answer": "sap",
+            "normalized": "sap"
           },
           {
-            "id": "a710d624-2895-4cda-ba5f-fba7a60efa68",
-            "clue": "Informal word meaning cheeky and confident",
-            "answer": "sassy",
-            "normalized": "sassy"
+            "id": "6690b65e-61aa-4f99-b189-5e5716fb554d",
+            "clue": "An extremely long time",
+            "answer": "ages",
+            "normalized": "ages"
           },
           {
-            "id": "a0cd1eeb-8c05-41c5-8414-db76f89d6647",
-            "clue": "Outermost part of the Sun's atmosphere",
-            "answer": "corona",
-            "normalized": "corona"
+            "id": "ea3c0f4e-a224-478d-8588-c48cd9e0df88",
+            "clue": "The Great __ of China",
+            "answer": "wall",
+            "normalized": "wall"
           },
           {
-            "id": "3b62c904-75e9-4959-bdf2-f1b77dd73fb4",
-            "clue": "Groups of military soldiers",
-            "answer": "armies",
-            "normalized": "armies"
+            "id": "05e87091-c404-42df-82b5-8b37793e55d6",
+            "clue": "Licensing agreements for end users, in short",
+            "answer": "eulas",
+            "normalized": "eulas"
           },
           {
-            "id": "5553290a-a9c3-40eb-aba7-d629f1f0266f",
-            "clue": "Barters, swaps",
-            "answer": "trades",
-            "normalized": "trades"
+            "id": "269797eb-5d10-4403-b2b8-b06261fba8c0",
+            "clue": "Rama's devoted wife in the Ramayana",
+            "answer": "sita",
+            "normalized": "sita"
           },
           {
-            "id": "3e81f039-2220-4444-91f5-85e7c0ce14b5",
-            "clue": "__ Planet, travel guides founded by the Wheelers",
-            "answer": "lonely",
-            "normalized": "lonely"
-          },
-          {
-            "id": "c629758d-87dc-4784-85a6-772749c40217",
-            "clue": "Solo vocals in operas, Nessun Dorma for example",
-            "answer": "arias",
-            "normalized": "arias"
-          },
-          {
-            "id": "2d3c8ac8-f951-4788-b989-7e8854e9c466",
-            "clue": "Tom who voiced Woody in Toy Story",
-            "answer": "hanks",
-            "normalized": "hanks"
+            "id": "2f2936e5-c1e0-4a9e-ae3c-045caf0d36ac",
+            "clue": "Ooze out slowly",
+            "answer": "seep",
+            "normalized": "seep"
           }
         ],
-        "track": "PC|LenCinY2026M11D1F0V000"
+        "track": "PC|LenCinY2026M11D2F0V000"
       },
       "mid": {
-        "puzzleId": "PC|LenCinY2026M11D1F1V000",
+        "puzzleId": "PC|LenCinY2026M11D2F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "530433e9-ba1c-480a-9af4-6d9e49d9b8a1",
-            "clue": "Spoiled, badly behaved child",
-            "answer": "brat",
-            "normalized": "brat"
+            "id": "30fb1466-4f34-4723-9348-24fcec41af1d",
+            "clue": "Fictional corporation appearing in Looney Tunes",
+            "answer": "acme",
+            "normalized": "acme"
           },
           {
-            "id": "62ea4a2d-a557-4470-9c39-51b5d274d048",
-            "clue": "1990 Kevin Bacon movie about giant worms",
-            "answer": "tremors",
-            "normalized": "tremors"
+            "id": "4748a4ab-8564-4d16-b6cd-ec458602719b",
+            "clue": "Fat airships, often displaying advertising",
+            "answer": "blimps",
+            "normalized": "blimps"
           },
           {
-            "id": "efaaca17-2c4b-4778-b263-fb35c5219716",
-            "clue": "Insulin device from Eli Lilly",
-            "answer": "humapen",
-            "normalized": "humapen"
+            "id": "571722c9-57ad-48a6-8ef6-3f0414a5c700",
+            "clue": "First capital of Egypt under Islamic rule",
+            "answer": "fustat",
+            "normalized": "fustat"
           },
           {
-            "id": "7e81f231-5b5d-4364-a484-dc5351c0e9b2",
-            "clue": "Game with numbered playing cards",
-            "answer": "uno",
-            "normalized": "uno"
+            "id": "affd5a85-6b78-42c5-bfda-6ba2dfddfad2",
+            "clue": "German for the pronoun I",
+            "answer": "ich",
+            "normalized": "ich"
           },
           {
-            "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
-            "clue": "Forensic show set in Vegas, then Miami",
-            "answer": "csi",
-            "normalized": "csi"
+            "id": "4ef7d9b9-e46b-45ab-a256-429b23e762d3",
+            "clue": "In 2018, Lil __ X gave us Old Town Road",
+            "answer": "nas",
+            "normalized": "nas"
           },
           {
-            "id": "27c62edf-9ea7-43cb-bbc6-9d4a2b1ddc25",
-            "clue": "Video game series with bounty hunter Samus Aran",
-            "answer": "metroid",
-            "normalized": "metroid"
+            "id": "fecef3f9-4bdf-4939-977c-a4b9ab18d03f",
+            "clue": "A dry, Lucknowi style of Seviyan",
+            "answer": "kimami",
+            "normalized": "kimami"
           },
           {
-            "id": "8672599c-abdf-4b2a-be93-485c1880edf6",
-            "clue": "Village with a church on a hillock on Divar Island",
-            "answer": "piedade",
-            "normalized": "piedade"
+            "id": "562d83d6-2f21-404d-bc2f-08067b6626ab",
+            "clue": "Treads heavily",
+            "answer": "stomps",
+            "normalized": "stomps"
           },
           {
-            "id": "e964f96a-ecef-4f78-b871-250f02fdecec",
-            "clue": "Satisfy, quench",
-            "answer": "sate",
-            "normalized": "sate"
+            "id": "fae0e359-8585-4490-98fe-c514f6511066",
+            "clue": "Bheem's divine father, the god of wind",
+            "answer": "vayu",
+            "normalized": "vayu"
           },
           {
-            "id": "a6a51e03-b47c-4fb9-bf87-f9dc857c1637",
-            "clue": "Country whose capital city is Bandar Seri Begawan",
-            "answer": "brunei",
-            "normalized": "brunei"
+            "id": "3de28784-6b0e-4f09-82e7-a7f5f17936e9",
+            "clue": "Organiser of the National Baseball Championship",
+            "answer": "abfi",
+            "normalized": "abfi"
           },
           {
-            "id": "726ca6bb-e8c5-4635-b8a9-4f0947abab9b",
-            "clue": "TV channel changers",
-            "answer": "remotes",
-            "normalized": "remotes"
+            "id": "226585fa-6860-44be-b1e3-88dd19387c19",
+            "clue": "Hen sounds",
+            "answer": "clucks",
+            "normalized": "clucks"
           },
           {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
+            "id": "07631928-ac58-4534-8e82-e18034f962d4",
+            "clue": "Duff a shot in golf",
+            "answer": "mishit",
+            "normalized": "mishit"
           },
           {
-            "id": "28d8115f-efbe-42a8-8cbd-555ab55b3e29",
-            "clue": "The guard hairs of an animal's fur",
-            "answer": "topcoat",
-            "normalized": "topcoat"
+            "id": "def9e9bd-ca73-4bac-8805-efbb69fb4aba",
+            "clue": "An emergency medical technician",
+            "answer": "emt",
+            "normalized": "emt"
           },
           {
-            "id": "992ee517-6ae8-450b-bacd-6991733eb2ee",
-            "clue": "To hit or bump into something",
-            "answer": "thump",
-            "normalized": "thump"
+            "id": "87e8e594-e201-446d-b2fb-52ef30186543",
+            "clue": "A man, a plan, a canal, __",
+            "answer": "panama",
+            "normalized": "panama"
           },
           {
-            "id": "90a7f41d-487a-493d-ba31-836cf95e630d",
-            "clue": "Live, dwell",
-            "answer": "reside",
-            "normalized": "reside"
+            "id": "967797f0-bb29-42f9-801c-f0fce2d50cbf",
+            "clue": "Bart's pet elephant in The Simpsons",
+            "answer": "stampy",
+            "normalized": "stampy"
           },
           {
-            "id": "525f7a53-88b6-4acf-bd15-d171475c680e",
-            "clue": "Mean, thinly veiled unkind comment",
-            "answer": "snide",
-            "normalized": "snide"
+            "id": "1d8c834a-cbbb-4467-acc7-8327a8ba19cf",
+            "clue": "Last dragon found by Raya",
+            "answer": "sisu",
+            "normalized": "sisu"
           },
           {
-            "id": "74c9ff05-54b5-4f71-bfa7-b76609857815",
-            "clue": "Recommended dietary allowance, for short",
-            "answer": "rda",
-            "normalized": "rda"
+            "id": "90518585-227f-43be-bd4b-447b72cf07f9",
+            "clue": "QuickTime file extension",
+            "answer": "mov",
+            "normalized": "mov"
           }
         ],
-        "track": "PC|LenCinY2026M11D1F1V000"
+        "track": "PC|LenCinY2026M11D2F1V000"
       }
     },
     "latestAvailableEntry": {
-      "key": "2026-11-01",
+      "key": "2026-11-02",
       "year": 2026,
       "month": 11,
-      "day": 1,
+      "day": 2,
       "small": {
-        "puzzleId": "PC|LenCinY2026M11D1F0V000",
+        "puzzleId": "PC|LenCinY2026M11D2F0V000",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "d3ef2a92-ad5c-4ab3-9f5b-4b157bcc91a7",
-            "clue": "This fish is a common catch in Kolleru Lake",
-            "answer": "catla",
-            "normalized": "catla"
+            "id": "80318dc2-da05-4638-9907-8394fbcb900c",
+            "clue": "Wonderment, profound respect",
+            "answer": "awe",
+            "normalized": "awe"
           },
           {
-            "id": "c084a0d9-b8f1-40bf-810e-8d435fbd9c27",
-            "clue": "The name of the scary movie genre",
-            "answer": "horror",
-            "normalized": "horror"
+            "id": "ffa77011-bd46-43c0-83dc-8ba143c8e6cf",
+            "clue": "Last name of mathematician Carl Friedrich",
+            "answer": "gauss",
+            "normalized": "gauss"
           },
           {
-            "id": "97e6360f-10e5-4ea3-adb2-8adacfc98af2",
-            "clue": "Late Italian fashion designer: Giorgio __",
-            "answer": "armani",
-            "normalized": "armani"
+            "id": "d8d47e14-e907-4bff-a516-f1f618050dc6",
+            "clue": "Goulding who sang Love Me Like You Do",
+            "answer": "ellie",
+            "normalized": "ellie"
           },
           {
-            "id": "ad1191d1-60cc-40be-8166-560b63559377",
-            "clue": "Clueless individuals have this",
-            "answer": "no idea",
-            "normalized": "noidea"
+            "id": "c65ea02c-b3bf-4ae8-9007-a4532ba15fcc",
+            "clue": "Wipe the __ clean, have a fresh start",
+            "answer": "slate",
+            "normalized": "slate"
           },
           {
-            "id": "69ffd960-8a26-45f3-80ee-381923500eda",
-            "clue": "Gets down on one's knees",
-            "answer": "kneels",
-            "normalized": "kneels"
+            "id": "ed95f259-9cad-4977-83c7-25d9b98e5ad2",
+            "clue": "Sugary tree liquid",
+            "answer": "sap",
+            "normalized": "sap"
           },
           {
-            "id": "a710d624-2895-4cda-ba5f-fba7a60efa68",
-            "clue": "Informal word meaning cheeky and confident",
-            "answer": "sassy",
-            "normalized": "sassy"
+            "id": "6690b65e-61aa-4f99-b189-5e5716fb554d",
+            "clue": "An extremely long time",
+            "answer": "ages",
+            "normalized": "ages"
           },
           {
-            "id": "a0cd1eeb-8c05-41c5-8414-db76f89d6647",
-            "clue": "Outermost part of the Sun's atmosphere",
-            "answer": "corona",
-            "normalized": "corona"
+            "id": "ea3c0f4e-a224-478d-8588-c48cd9e0df88",
+            "clue": "The Great __ of China",
+            "answer": "wall",
+            "normalized": "wall"
           },
           {
-            "id": "3b62c904-75e9-4959-bdf2-f1b77dd73fb4",
-            "clue": "Groups of military soldiers",
-            "answer": "armies",
-            "normalized": "armies"
+            "id": "05e87091-c404-42df-82b5-8b37793e55d6",
+            "clue": "Licensing agreements for end users, in short",
+            "answer": "eulas",
+            "normalized": "eulas"
           },
           {
-            "id": "5553290a-a9c3-40eb-aba7-d629f1f0266f",
-            "clue": "Barters, swaps",
-            "answer": "trades",
-            "normalized": "trades"
+            "id": "269797eb-5d10-4403-b2b8-b06261fba8c0",
+            "clue": "Rama's devoted wife in the Ramayana",
+            "answer": "sita",
+            "normalized": "sita"
           },
           {
-            "id": "3e81f039-2220-4444-91f5-85e7c0ce14b5",
-            "clue": "__ Planet, travel guides founded by the Wheelers",
-            "answer": "lonely",
-            "normalized": "lonely"
-          },
-          {
-            "id": "c629758d-87dc-4784-85a6-772749c40217",
-            "clue": "Solo vocals in operas, Nessun Dorma for example",
-            "answer": "arias",
-            "normalized": "arias"
-          },
-          {
-            "id": "2d3c8ac8-f951-4788-b989-7e8854e9c466",
-            "clue": "Tom who voiced Woody in Toy Story",
-            "answer": "hanks",
-            "normalized": "hanks"
+            "id": "2f2936e5-c1e0-4a9e-ae3c-045caf0d36ac",
+            "clue": "Ooze out slowly",
+            "answer": "seep",
+            "normalized": "seep"
           }
         ],
-        "track": "PC|LenCinY2026M11D1F0V000"
+        "track": "PC|LenCinY2026M11D2F0V000"
       },
       "mid": {
-        "puzzleId": "PC|LenCinY2026M11D1F1V000",
+        "puzzleId": "PC|LenCinY2026M11D2F1V000",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "530433e9-ba1c-480a-9af4-6d9e49d9b8a1",
-            "clue": "Spoiled, badly behaved child",
-            "answer": "brat",
-            "normalized": "brat"
+            "id": "30fb1466-4f34-4723-9348-24fcec41af1d",
+            "clue": "Fictional corporation appearing in Looney Tunes",
+            "answer": "acme",
+            "normalized": "acme"
           },
           {
-            "id": "62ea4a2d-a557-4470-9c39-51b5d274d048",
-            "clue": "1990 Kevin Bacon movie about giant worms",
-            "answer": "tremors",
-            "normalized": "tremors"
+            "id": "4748a4ab-8564-4d16-b6cd-ec458602719b",
+            "clue": "Fat airships, often displaying advertising",
+            "answer": "blimps",
+            "normalized": "blimps"
           },
           {
-            "id": "efaaca17-2c4b-4778-b263-fb35c5219716",
-            "clue": "Insulin device from Eli Lilly",
-            "answer": "humapen",
-            "normalized": "humapen"
+            "id": "571722c9-57ad-48a6-8ef6-3f0414a5c700",
+            "clue": "First capital of Egypt under Islamic rule",
+            "answer": "fustat",
+            "normalized": "fustat"
           },
           {
-            "id": "7e81f231-5b5d-4364-a484-dc5351c0e9b2",
-            "clue": "Game with numbered playing cards",
-            "answer": "uno",
-            "normalized": "uno"
+            "id": "affd5a85-6b78-42c5-bfda-6ba2dfddfad2",
+            "clue": "German for the pronoun I",
+            "answer": "ich",
+            "normalized": "ich"
           },
           {
-            "id": "5eeaf690-39d6-4427-b787-ec8ec4fe046b",
-            "clue": "Forensic show set in Vegas, then Miami",
-            "answer": "csi",
-            "normalized": "csi"
+            "id": "4ef7d9b9-e46b-45ab-a256-429b23e762d3",
+            "clue": "In 2018, Lil __ X gave us Old Town Road",
+            "answer": "nas",
+            "normalized": "nas"
           },
           {
-            "id": "27c62edf-9ea7-43cb-bbc6-9d4a2b1ddc25",
-            "clue": "Video game series with bounty hunter Samus Aran",
-            "answer": "metroid",
-            "normalized": "metroid"
+            "id": "fecef3f9-4bdf-4939-977c-a4b9ab18d03f",
+            "clue": "A dry, Lucknowi style of Seviyan",
+            "answer": "kimami",
+            "normalized": "kimami"
           },
           {
-            "id": "8672599c-abdf-4b2a-be93-485c1880edf6",
-            "clue": "Village with a church on a hillock on Divar Island",
-            "answer": "piedade",
-            "normalized": "piedade"
+            "id": "562d83d6-2f21-404d-bc2f-08067b6626ab",
+            "clue": "Treads heavily",
+            "answer": "stomps",
+            "normalized": "stomps"
           },
           {
-            "id": "e964f96a-ecef-4f78-b871-250f02fdecec",
-            "clue": "Satisfy, quench",
-            "answer": "sate",
-            "normalized": "sate"
+            "id": "fae0e359-8585-4490-98fe-c514f6511066",
+            "clue": "Bheem's divine father, the god of wind",
+            "answer": "vayu",
+            "normalized": "vayu"
           },
           {
-            "id": "a6a51e03-b47c-4fb9-bf87-f9dc857c1637",
-            "clue": "Country whose capital city is Bandar Seri Begawan",
-            "answer": "brunei",
-            "normalized": "brunei"
+            "id": "3de28784-6b0e-4f09-82e7-a7f5f17936e9",
+            "clue": "Organiser of the National Baseball Championship",
+            "answer": "abfi",
+            "normalized": "abfi"
           },
           {
-            "id": "726ca6bb-e8c5-4635-b8a9-4f0947abab9b",
-            "clue": "TV channel changers",
-            "answer": "remotes",
-            "normalized": "remotes"
+            "id": "226585fa-6860-44be-b1e3-88dd19387c19",
+            "clue": "Hen sounds",
+            "answer": "clucks",
+            "normalized": "clucks"
           },
           {
-            "id": "da778fbe-9a96-4439-8d48-19a5ca7dbe1a",
-            "clue": "The United States' largest association of doctors",
-            "answer": "ama",
-            "normalized": "ama"
+            "id": "07631928-ac58-4534-8e82-e18034f962d4",
+            "clue": "Duff a shot in golf",
+            "answer": "mishit",
+            "normalized": "mishit"
           },
           {
-            "id": "28d8115f-efbe-42a8-8cbd-555ab55b3e29",
-            "clue": "The guard hairs of an animal's fur",
-            "answer": "topcoat",
-            "normalized": "topcoat"
+            "id": "def9e9bd-ca73-4bac-8805-efbb69fb4aba",
+            "clue": "An emergency medical technician",
+            "answer": "emt",
+            "normalized": "emt"
           },
           {
-            "id": "992ee517-6ae8-450b-bacd-6991733eb2ee",
-            "clue": "To hit or bump into something",
-            "answer": "thump",
-            "normalized": "thump"
+            "id": "87e8e594-e201-446d-b2fb-52ef30186543",
+            "clue": "A man, a plan, a canal, __",
+            "answer": "panama",
+            "normalized": "panama"
           },
           {
-            "id": "90a7f41d-487a-493d-ba31-836cf95e630d",
-            "clue": "Live, dwell",
-            "answer": "reside",
-            "normalized": "reside"
+            "id": "967797f0-bb29-42f9-801c-f0fce2d50cbf",
+            "clue": "Bart's pet elephant in The Simpsons",
+            "answer": "stampy",
+            "normalized": "stampy"
           },
           {
-            "id": "525f7a53-88b6-4acf-bd15-d171475c680e",
-            "clue": "Mean, thinly veiled unkind comment",
-            "answer": "snide",
-            "normalized": "snide"
+            "id": "1d8c834a-cbbb-4467-acc7-8327a8ba19cf",
+            "clue": "Last dragon found by Raya",
+            "answer": "sisu",
+            "normalized": "sisu"
           },
           {
-            "id": "74c9ff05-54b5-4f71-bfa7-b76609857815",
-            "clue": "Recommended dietary allowance, for short",
-            "answer": "rda",
-            "normalized": "rda"
+            "id": "90518585-227f-43be-bd4b-447b72cf07f9",
+            "clue": "QuickTime file extension",
+            "answer": "mov",
+            "normalized": "mov"
           }
         ],
-        "track": "PC|LenCinY2026M11D1F1V000"
+        "track": "PC|LenCinY2026M11D2F1V000"
       }
     },
     "todayPublished": true
@@ -383522,21 +383474,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "qrzbOxtTv2SF7Kz62y6Olt9Dcu+DsJf3QLjT0LlyelN7A6+sqV8vXahHs1bRY0fycIo7D1BjpgWf4+uhsVIHpKH8e8Yfygq2+gW2Ib2UfMNlHxi61ckNJHRmnB0qAiLSEqOvDmznMRh//4Ves0PMx12aPKh/ycmyWBtkodPQcfGUjJP//x8QZTyGQJblq0PgTTdvgmHYnm5IOAbEZZXG5HJv9gsk5ncwPpy04dJp7cbOju/XWsPscjSNWJTX24gi/5f9+b4E62yhJxd4lOGX+bfdrkr98D8Omf6zuTtM+xo="
+        "gV000KsYwBXIJLNfwVGf2CnB3TMacnfxaMuVMo8J/Ha6ZVdr5tK+KXUbSFUUqWU5qqDJKlLCB9JlN2cB7lG7mfKNTZ6PhQo269zAkreypmqsrP39MckUkp7jnJKk4dakOnTDFVuLSp03BUPRRjIR5GFp4fvxG79Bs9vWrrDTSvN6yttVT7urKOEXRbJi7bAiYF1WamO+to43QDZASJw78ccOwP4jEUFJL5c66Sh21HZ5Bd7R6CsNwN+W/lw4lOvsYPp82LsPwLFl/nHzDYdcJk13BA3UHF3GhRFeD3PWg6g="
       ]
     },
     "decrypted": {
-      "Id": "c423f1d6-3c30-490f-b505-223df2422b2f",
-      "Date": "2026-11-01T00:00:00Z",
+      "Id": "ebcd1147-ef02-4b44-b3f0-aba663f85e24",
+      "Date": "2026-11-02T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "fudge",
-      "NormalizedPassword": "fudge",
+      "Password": "owner",
+      "NormalizedPassword": "owner",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-01T03:15:56.1270000+05:30",
-    "hash": "b76959acb5c2286da2dac7979c58366d",
+    "dtu": "2026-11-02T03:43:59.8990000+05:30",
+    "hash": "423bf597f3edceb3bfd096401290eec4",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
