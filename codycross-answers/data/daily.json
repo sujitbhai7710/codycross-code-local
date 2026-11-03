@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T01:06:16.349Z",
+  "generatedAt": "2026-11-03T23:31:24.608Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 3
+    "day": 4
   },
   "crossword": {
     "archive": [
@@ -388408,367 +388408,355 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-03",
+      "key": "2026-11-04",
       "year": 2026,
       "month": 11,
-      "day": 3,
+      "day": 4,
       "small": {
-        "puzzleId": "0f20957d-4deb-44b7-9f23-05d5051e153c",
+        "puzzleId": "87acb856-24ab-4a87-8cb3-ff0bc4885236",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "77148137-785b-4b5e-bb0f-42eaebc96c60",
-            "clue": "Abbreviation for microphones",
-            "answer": "mics",
-            "normalized": "mics"
+            "id": "f1eea088-64e8-42bf-9be5-ec3c3558f7e0",
+            "clue": "Powder that is left after a substance has burned",
+            "answer": "ash",
+            "normalized": "ash"
           },
           {
-            "id": "cd58812a-ddbd-40f9-b974-ad259063f280",
-            "clue": "The Road to El __, film with album by Elton John",
-            "answer": "dorado",
-            "normalized": "dorado"
+            "id": "6e01b80d-d86c-41a1-a117-85d1b06f9253",
+            "clue": "Short online profiles",
+            "answer": "bios",
+            "normalized": "bios"
           },
           {
-            "id": "ebf62394-abb6-4bbb-952a-b488d96d40cb",
-            "clue": "Warm, weatherproof winter coat",
-            "answer": "anorak",
-            "normalized": "anorak"
+            "id": "0b54a6e4-94b5-4b28-af0a-b65fbdc08125",
+            "clue": "Computer language family developed in 1958",
+            "answer": "algol",
+            "normalized": "algol"
           },
           {
-            "id": "0288aa5b-3251-4763-85a2-28c73937f526",
-            "clue": "Prefix meaning within",
-            "answer": "intra",
-            "normalized": "intra"
+            "id": "cfc16dd4-6ec3-4d61-8551-9361de3a4e32",
+            "clue": "A farmer sells his produce here",
+            "answer": "mandi",
+            "normalized": "mandi"
           },
           {
-            "id": "5d241090-cc29-4a74-a372-0d0e0ed3e46d",
-            "clue": "Hair that is coiled or wavy",
-            "answer": "curly",
-            "normalized": "curly"
+            "id": "3c98062b-5e83-4e7b-96b5-9c372e30feb5",
+            "clue": "Sharply inclined; to let tea brew in water",
+            "answer": "steep",
+            "normalized": "steep"
           },
           {
-            "id": "4e09e88a-b172-4329-b1dc-55623ada0a8c",
-            "clue": "Large bodies of water",
-            "answer": "seas",
-            "normalized": "seas"
+            "id": "1854fd9d-2ec5-4b27-a119-6dae3b4e1de2",
+            "clue": "Dolorous __, squire in Game of Thrones",
+            "answer": "edd",
+            "normalized": "edd"
           },
           {
-            "id": "038da21e-5c38-48b3-bcc8-00ff529fd9f6",
-            "clue": "Moldova's alpha-3 code",
-            "answer": "mda",
-            "normalized": "mda"
+            "id": "d2e8dc16-e095-411a-971e-7822020421c1",
+            "clue": "Medical term meaning \"to remove\"",
+            "answer": "ablate",
+            "normalized": "ablate"
           },
           {
-            "id": "658e1b31-0d7b-44f1-a6ab-9429864987c8",
-            "clue": "Type of bonds, charges in chemistry",
-            "answer": "ionic",
-            "normalized": "ionic"
+            "id": "e55c587d-52bf-4deb-8910-cefdd589b606",
+            "clue": "Wrote your name on a legal document",
+            "answer": "signed",
+            "normalized": "signed"
           },
           {
-            "id": "2a5482e0-6131-4ca4-a7a0-e117714ce6fa",
-            "clue": "Father of Zeus in Greek mythology",
-            "answer": "cronus",
-            "normalized": "cronus"
+            "id": "361efef8-844c-4d06-b9e2-189e883b7e2f",
+            "clue": "__ cobras, snakes who make their heads look bigger",
+            "answer": "hooded",
+            "normalized": "hooded"
           },
           {
-            "id": "38860fb2-7fbc-408d-a262-7a58afa574b6",
-            "clue": "French philosopher who refused a Nobel prize",
-            "answer": "sartre",
-            "normalized": "sartre"
+            "id": "832af3a1-7b21-4698-8c6f-0cb34c379330",
+            "clue": "Fall or stumble on a wet surface",
+            "answer": "slip",
+            "normalized": "slip"
           },
           {
-            "id": "9c50981f-8d0e-4d33-893a-2c7b246c7cd2",
-            "clue": "Character played by Julie Benz in Buffy series",
-            "answer": "darla",
-            "normalized": "darla"
-          },
-          {
-            "id": "94eef3a7-90d5-4bcb-8547-64d425744f90",
-            "clue": "Gives approval, informally",
-            "answer": "okays",
-            "normalized": "okays"
+            "id": "54f1f45a-f7fe-42e7-b664-16e8da97d014",
+            "clue": "Code for Amsterdam Airport Schiphol",
+            "answer": "ams",
+            "normalized": "ams"
           }
         ],
-        "track": "PC|LenCinY2026M11D3F0V000"
+        "track": "PC|LenCinY2026M11D4F0V000"
       },
       "mid": {
-        "puzzleId": "c376a871-4cd9-45d1-83a0-a4badbb164b6",
+        "puzzleId": "4580c2f1-b9ae-4e42-be3d-73bf30eea112",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "a07b62de-1b6b-4222-ba94-56a87a1f2193",
-            "clue": "At Apple it precedes Book, Mini, and Pro",
-            "answer": "mac",
-            "normalized": "mac"
+            "id": "58db4ec6-0755-4714-93c5-db1ccd0dfae5",
+            "clue": "Most food is placed here before eating",
+            "answer": "dish",
+            "normalized": "dish"
           },
           {
-            "id": "22d3bdd1-9571-4698-ad47-e6eb5d822d3f",
-            "clue": "\"One man's __ is another man's treasure\"",
-            "answer": "trash",
-            "normalized": "trash"
+            "id": "7d4cd880-6ed3-4988-ae0c-086d3ee70ff0",
+            "clue": "Coiled metal spring toy created by Richard James",
+            "answer": "slinky",
+            "normalized": "slinky"
           },
           {
-            "id": "d583f42c-de8e-4908-9f59-bf953191be70",
-            "clue": "Himalayan people act as porters to mountaineers",
-            "answer": "sherpas",
-            "normalized": "sherpas"
+            "id": "7c50fce7-b6af-4cec-bfbe-0487f9aed213",
+            "clue": "Plant-based diets include these Italian carbs",
+            "answer": "pastas",
+            "normalized": "pastas"
           },
           {
-            "id": "164752ea-61f4-48f7-8aa7-a79939afef61",
-            "clue": "Give evidence in a court of law",
-            "answer": "testify",
-            "normalized": "testify"
+            "id": "e2248718-5443-4afc-99d4-4aa754ca0872",
+            "clue": "The male head of a community of monks",
+            "answer": "abbot",
+            "normalized": "abbot"
           },
           {
-            "id": "ad88bafc-92bf-4beb-9b36-2ba3d9e6f259",
-            "clue": "Finished working, forever",
-            "answer": "retired",
-            "normalized": "retired"
+            "id": "7680915e-6e4c-4d15-bac0-bc1e27c8cf3c",
+            "clue": "__ 5, ESA's launch rocket for satellites",
+            "answer": "ariane",
+            "normalized": "ariane"
           },
           {
-            "id": "e5b18db3-6067-4b93-9373-8009114d92df",
-            "clue": "\"Dressed to the __, looking fancy\"",
-            "answer": "nines",
-            "normalized": "nines"
+            "id": "21961700-80af-4a11-9ee7-78f0a11a793c",
+            "clue": "Looked intensely at someone",
+            "answer": "stared",
+            "normalized": "stared"
           },
           {
-            "id": "6612c664-e6ec-42cf-8ed8-b6ba8fbe11a8",
-            "clue": "Geneticists study, sequence this",
-            "answer": "dna",
-            "normalized": "dna"
+            "id": "745b4da4-7e48-48e2-975a-978e25fecc13",
+            "clue": "Buddies",
+            "answer": "pals",
+            "normalized": "pals"
           },
           {
-            "id": "ac8b5674-73d0-4b7f-96de-6f74731f2dd9",
-            "clue": "First name of Czech-born tennis player Navratilova",
-            "answer": "martina",
-            "normalized": "martina"
+            "id": "b0daa9ec-091a-4877-ae43-df836c7da8ce",
+            "clue": "Excludes someone from practising law",
+            "answer": "disbars",
+            "normalized": "disbars"
           },
           {
-            "id": "20bb9e5e-7d82-4edf-a37b-df9e04450697",
-            "clue": "Hope; anagram of praise",
-            "answer": "aspire",
-            "normalized": "aspire"
+            "id": "eab83cb3-cf81-48dd-ac93-f53a89d0149e",
+            "clue": "Utter in a monotonous drone",
+            "answer": "intone",
+            "normalized": "intone"
           },
           {
-            "id": "85cdc9f6-9d60-4158-a648-a6fb9f0b5a81",
-            "clue": "Rubs painfully",
-            "answer": "chafes",
-            "normalized": "chafes"
+            "id": "786e2a5c-95f4-4e49-8f0d-e2420c7dffd9",
+            "clue": "Glided over ice",
+            "answer": "skated",
+            "normalized": "skated"
           },
           {
-            "id": "b8b5cf15-882d-427c-91c9-ad0fc37724d7",
-            "clue": "Traditionally the last two words of a book",
-            "answer": "the end",
-            "normalized": "theend"
+            "id": "1c21664f-d47a-48b3-91cf-b7a8cfbf27bb",
+            "clue": "Have your say, acronym",
+            "answer": "hys",
+            "normalized": "hys"
           },
           {
-            "id": "8fc8edb6-4fee-459e-952a-4ad0ffab636d",
-            "clue": "__ peace, or RIP",
-            "answer": "rest in",
-            "normalized": "restin"
+            "id": "bf3329f4-8397-4a57-ac19-bdaf65f24c6f",
+            "clue": "Athens' ancient rival",
+            "answer": "sparta",
+            "normalized": "sparta"
           },
           {
-            "id": "e142c33f-aae3-4029-bf9a-0be55daa5935",
-            "clue": "Initialism for short tandem repeat, think DNA",
-            "answer": "str",
-            "normalized": "str"
+            "id": "a90919a6-dd7b-4369-ba22-e48283d69535",
+            "clue": "Relating to the lips",
+            "answer": "labial",
+            "normalized": "labial"
           },
           {
-            "id": "05a59d5e-9526-4083-a875-5ea0558f2ee7",
-            "clue": "Barrett, early Pink Floyd frontman",
-            "answer": "syd",
-            "normalized": "syd"
+            "id": "539f2b3d-8cf3-4a11-adfe-08c24d53da23",
+            "clue": "Small, venomous snake",
+            "answer": "asp",
+            "normalized": "asp"
           }
         ],
-        "track": "PC|LenCinY2026M11D3F1V000"
+        "track": "PC|LenCinY2026M11D4F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-03",
+      "key": "2026-11-04",
       "year": 2026,
       "month": 11,
-      "day": 3,
+      "day": 4,
       "small": {
-        "puzzleId": "0f20957d-4deb-44b7-9f23-05d5051e153c",
+        "puzzleId": "87acb856-24ab-4a87-8cb3-ff0bc4885236",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "77148137-785b-4b5e-bb0f-42eaebc96c60",
-            "clue": "Abbreviation for microphones",
-            "answer": "mics",
-            "normalized": "mics"
+            "id": "f1eea088-64e8-42bf-9be5-ec3c3558f7e0",
+            "clue": "Powder that is left after a substance has burned",
+            "answer": "ash",
+            "normalized": "ash"
           },
           {
-            "id": "cd58812a-ddbd-40f9-b974-ad259063f280",
-            "clue": "The Road to El __, film with album by Elton John",
-            "answer": "dorado",
-            "normalized": "dorado"
+            "id": "6e01b80d-d86c-41a1-a117-85d1b06f9253",
+            "clue": "Short online profiles",
+            "answer": "bios",
+            "normalized": "bios"
           },
           {
-            "id": "ebf62394-abb6-4bbb-952a-b488d96d40cb",
-            "clue": "Warm, weatherproof winter coat",
-            "answer": "anorak",
-            "normalized": "anorak"
+            "id": "0b54a6e4-94b5-4b28-af0a-b65fbdc08125",
+            "clue": "Computer language family developed in 1958",
+            "answer": "algol",
+            "normalized": "algol"
           },
           {
-            "id": "0288aa5b-3251-4763-85a2-28c73937f526",
-            "clue": "Prefix meaning within",
-            "answer": "intra",
-            "normalized": "intra"
+            "id": "cfc16dd4-6ec3-4d61-8551-9361de3a4e32",
+            "clue": "A farmer sells his produce here",
+            "answer": "mandi",
+            "normalized": "mandi"
           },
           {
-            "id": "5d241090-cc29-4a74-a372-0d0e0ed3e46d",
-            "clue": "Hair that is coiled or wavy",
-            "answer": "curly",
-            "normalized": "curly"
+            "id": "3c98062b-5e83-4e7b-96b5-9c372e30feb5",
+            "clue": "Sharply inclined; to let tea brew in water",
+            "answer": "steep",
+            "normalized": "steep"
           },
           {
-            "id": "4e09e88a-b172-4329-b1dc-55623ada0a8c",
-            "clue": "Large bodies of water",
-            "answer": "seas",
-            "normalized": "seas"
+            "id": "1854fd9d-2ec5-4b27-a119-6dae3b4e1de2",
+            "clue": "Dolorous __, squire in Game of Thrones",
+            "answer": "edd",
+            "normalized": "edd"
           },
           {
-            "id": "038da21e-5c38-48b3-bcc8-00ff529fd9f6",
-            "clue": "Moldova's alpha-3 code",
-            "answer": "mda",
-            "normalized": "mda"
+            "id": "d2e8dc16-e095-411a-971e-7822020421c1",
+            "clue": "Medical term meaning \"to remove\"",
+            "answer": "ablate",
+            "normalized": "ablate"
           },
           {
-            "id": "658e1b31-0d7b-44f1-a6ab-9429864987c8",
-            "clue": "Type of bonds, charges in chemistry",
-            "answer": "ionic",
-            "normalized": "ionic"
+            "id": "e55c587d-52bf-4deb-8910-cefdd589b606",
+            "clue": "Wrote your name on a legal document",
+            "answer": "signed",
+            "normalized": "signed"
           },
           {
-            "id": "2a5482e0-6131-4ca4-a7a0-e117714ce6fa",
-            "clue": "Father of Zeus in Greek mythology",
-            "answer": "cronus",
-            "normalized": "cronus"
+            "id": "361efef8-844c-4d06-b9e2-189e883b7e2f",
+            "clue": "__ cobras, snakes who make their heads look bigger",
+            "answer": "hooded",
+            "normalized": "hooded"
           },
           {
-            "id": "38860fb2-7fbc-408d-a262-7a58afa574b6",
-            "clue": "French philosopher who refused a Nobel prize",
-            "answer": "sartre",
-            "normalized": "sartre"
+            "id": "832af3a1-7b21-4698-8c6f-0cb34c379330",
+            "clue": "Fall or stumble on a wet surface",
+            "answer": "slip",
+            "normalized": "slip"
           },
           {
-            "id": "9c50981f-8d0e-4d33-893a-2c7b246c7cd2",
-            "clue": "Character played by Julie Benz in Buffy series",
-            "answer": "darla",
-            "normalized": "darla"
-          },
-          {
-            "id": "94eef3a7-90d5-4bcb-8547-64d425744f90",
-            "clue": "Gives approval, informally",
-            "answer": "okays",
-            "normalized": "okays"
+            "id": "54f1f45a-f7fe-42e7-b664-16e8da97d014",
+            "clue": "Code for Amsterdam Airport Schiphol",
+            "answer": "ams",
+            "normalized": "ams"
           }
         ],
-        "track": "PC|LenCinY2026M11D3F0V000"
+        "track": "PC|LenCinY2026M11D4F0V000"
       },
       "mid": {
-        "puzzleId": "c376a871-4cd9-45d1-83a0-a4badbb164b6",
+        "puzzleId": "4580c2f1-b9ae-4e42-be3d-73bf30eea112",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "a07b62de-1b6b-4222-ba94-56a87a1f2193",
-            "clue": "At Apple it precedes Book, Mini, and Pro",
-            "answer": "mac",
-            "normalized": "mac"
+            "id": "58db4ec6-0755-4714-93c5-db1ccd0dfae5",
+            "clue": "Most food is placed here before eating",
+            "answer": "dish",
+            "normalized": "dish"
           },
           {
-            "id": "22d3bdd1-9571-4698-ad47-e6eb5d822d3f",
-            "clue": "\"One man's __ is another man's treasure\"",
-            "answer": "trash",
-            "normalized": "trash"
+            "id": "7d4cd880-6ed3-4988-ae0c-086d3ee70ff0",
+            "clue": "Coiled metal spring toy created by Richard James",
+            "answer": "slinky",
+            "normalized": "slinky"
           },
           {
-            "id": "d583f42c-de8e-4908-9f59-bf953191be70",
-            "clue": "Himalayan people act as porters to mountaineers",
-            "answer": "sherpas",
-            "normalized": "sherpas"
+            "id": "7c50fce7-b6af-4cec-bfbe-0487f9aed213",
+            "clue": "Plant-based diets include these Italian carbs",
+            "answer": "pastas",
+            "normalized": "pastas"
           },
           {
-            "id": "164752ea-61f4-48f7-8aa7-a79939afef61",
-            "clue": "Give evidence in a court of law",
-            "answer": "testify",
-            "normalized": "testify"
+            "id": "e2248718-5443-4afc-99d4-4aa754ca0872",
+            "clue": "The male head of a community of monks",
+            "answer": "abbot",
+            "normalized": "abbot"
           },
           {
-            "id": "ad88bafc-92bf-4beb-9b36-2ba3d9e6f259",
-            "clue": "Finished working, forever",
-            "answer": "retired",
-            "normalized": "retired"
+            "id": "7680915e-6e4c-4d15-bac0-bc1e27c8cf3c",
+            "clue": "__ 5, ESA's launch rocket for satellites",
+            "answer": "ariane",
+            "normalized": "ariane"
           },
           {
-            "id": "e5b18db3-6067-4b93-9373-8009114d92df",
-            "clue": "\"Dressed to the __, looking fancy\"",
-            "answer": "nines",
-            "normalized": "nines"
+            "id": "21961700-80af-4a11-9ee7-78f0a11a793c",
+            "clue": "Looked intensely at someone",
+            "answer": "stared",
+            "normalized": "stared"
           },
           {
-            "id": "6612c664-e6ec-42cf-8ed8-b6ba8fbe11a8",
-            "clue": "Geneticists study, sequence this",
-            "answer": "dna",
-            "normalized": "dna"
+            "id": "745b4da4-7e48-48e2-975a-978e25fecc13",
+            "clue": "Buddies",
+            "answer": "pals",
+            "normalized": "pals"
           },
           {
-            "id": "ac8b5674-73d0-4b7f-96de-6f74731f2dd9",
-            "clue": "First name of Czech-born tennis player Navratilova",
-            "answer": "martina",
-            "normalized": "martina"
+            "id": "b0daa9ec-091a-4877-ae43-df836c7da8ce",
+            "clue": "Excludes someone from practising law",
+            "answer": "disbars",
+            "normalized": "disbars"
           },
           {
-            "id": "20bb9e5e-7d82-4edf-a37b-df9e04450697",
-            "clue": "Hope; anagram of praise",
-            "answer": "aspire",
-            "normalized": "aspire"
+            "id": "eab83cb3-cf81-48dd-ac93-f53a89d0149e",
+            "clue": "Utter in a monotonous drone",
+            "answer": "intone",
+            "normalized": "intone"
           },
           {
-            "id": "85cdc9f6-9d60-4158-a648-a6fb9f0b5a81",
-            "clue": "Rubs painfully",
-            "answer": "chafes",
-            "normalized": "chafes"
+            "id": "786e2a5c-95f4-4e49-8f0d-e2420c7dffd9",
+            "clue": "Glided over ice",
+            "answer": "skated",
+            "normalized": "skated"
           },
           {
-            "id": "b8b5cf15-882d-427c-91c9-ad0fc37724d7",
-            "clue": "Traditionally the last two words of a book",
-            "answer": "the end",
-            "normalized": "theend"
+            "id": "1c21664f-d47a-48b3-91cf-b7a8cfbf27bb",
+            "clue": "Have your say, acronym",
+            "answer": "hys",
+            "normalized": "hys"
           },
           {
-            "id": "8fc8edb6-4fee-459e-952a-4ad0ffab636d",
-            "clue": "__ peace, or RIP",
-            "answer": "rest in",
-            "normalized": "restin"
+            "id": "bf3329f4-8397-4a57-ac19-bdaf65f24c6f",
+            "clue": "Athens' ancient rival",
+            "answer": "sparta",
+            "normalized": "sparta"
           },
           {
-            "id": "e142c33f-aae3-4029-bf9a-0be55daa5935",
-            "clue": "Initialism for short tandem repeat, think DNA",
-            "answer": "str",
-            "normalized": "str"
+            "id": "a90919a6-dd7b-4369-ba22-e48283d69535",
+            "clue": "Relating to the lips",
+            "answer": "labial",
+            "normalized": "labial"
           },
           {
-            "id": "05a59d5e-9526-4083-a875-5ea0558f2ee7",
-            "clue": "Barrett, early Pink Floyd frontman",
-            "answer": "syd",
-            "normalized": "syd"
+            "id": "539f2b3d-8cf3-4a11-adfe-08c24d53da23",
+            "clue": "Small, venomous snake",
+            "answer": "asp",
+            "normalized": "asp"
           }
         ],
-        "track": "PC|LenCinY2026M11D3F1V000"
+        "track": "PC|LenCinY2026M11D4F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388956,21 +388944,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "0cXRomn8xscsKTXU8iRif7I/BslLTiWWYfUtjQhL8CwQvCy+G37EoWEZF8tNX9uuGMB85aZ4bUoeIYGRZsW0WGVERjIHHue5arzalxZFOapFOTLbdufiRPEWLM63OZSyKZAGLpD0XJZ1MaKbEWOe7nMND3fzYiAws6yh8Ff1T7Ys5cyRyAVT2LWXSoVq93ji8U4kh0iDPVgObMHnKxX/RlG4YhIZj9lDAa1PXG0fqnay7wFpPu1SIegkUbunM+cNaf4uLFcd5gIHC0d5mNc8qf79dIjwDEs4E+xoZt0QIoE="
+        "yMiSY6QbeEVjMI8oBwQpKEp6H/yhXf+V7q+ETPaPD/21A2QNZpcpqLtU9//53JX2rLxF7XOMEvfPhaOlGT5j2/+KKsjtcCA0GDa+uZQ9xgkTmiu5cldMC5ZEJojVLjA7kXQVftVOrHGKa0SeEXb8VlFpBcNLGrJf6FR4LwdcQMuyWDGEnymwd7apgMOXYwc7cJ7M8hU8dKDFSLYWJobaq6ckF1ZXzChJEHxZybp5t6f4OZd+SsvyBWVahMrM0uTgNODDIOKuvDmc1/EsNbf27gGom1zvpgyhDdnf3kpgxwI="
       ]
     },
     "decrypted": {
-      "Id": "f5032f93-5467-4c34-bf67-19d89d38f928",
-      "Date": "2026-11-03T00:00:00Z",
+      "Id": "da6fde26-776c-4180-9105-6ef7dbac362c",
+      "Date": "2026-11-04T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "voter",
-      "NormalizedPassword": "voter",
+      "Password": "flute",
+      "NormalizedPassword": "flute",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-03T06:36:16.3490000+05:30",
-    "hash": "4e7d58353c0307c96b55edb2ae5545e1",
+    "dtu": "2026-11-04T05:01:24.6080000+05:30",
+    "hash": "cbd736ada1b6d1ed7562a2428d72cace",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
