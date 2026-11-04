@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T23:31:24.608Z",
+  "generatedAt": "2026-11-04T23:48:54.650Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 4
+    "day": 5
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 4
+        "QuantidadeDeFases": 6
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -388408,355 +388408,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-04",
+      "key": "2026-11-05",
       "year": 2026,
       "month": 11,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "87acb856-24ab-4a87-8cb3-ff0bc4885236",
+        "puzzleId": "73e65f2e-302b-4057-b13f-6b8ebb9265cc",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f1eea088-64e8-42bf-9be5-ec3c3558f7e0",
-            "clue": "Powder that is left after a substance has burned",
-            "answer": "ash",
-            "normalized": "ash"
+            "id": "7fdd15ca-3f44-4447-9bee-dc2ef25a4912",
+            "clue": "An air-to-air missile for short",
+            "answer": "aam",
+            "normalized": "aam"
           },
           {
-            "id": "6e01b80d-d86c-41a1-a117-85d1b06f9253",
-            "clue": "Short online profiles",
-            "answer": "bios",
-            "normalized": "bios"
+            "id": "fcccc312-c050-4ffc-9544-3772a3f3f2a6",
+            "clue": "A common name for Ladakh Monasteries",
+            "answer": "gompa",
+            "normalized": "gompa"
           },
           {
-            "id": "0b54a6e4-94b5-4b28-af0a-b65fbdc08125",
-            "clue": "Computer language family developed in 1958",
-            "answer": "algol",
-            "normalized": "algol"
+            "id": "fe9b379c-0888-426a-a840-2e8e3c30d969",
+            "clue": "Disney mermaid or Shakespeare character",
+            "answer": "ariel",
+            "normalized": "ariel"
           },
           {
-            "id": "cfc16dd4-6ec3-4d61-8551-9361de3a4e32",
-            "clue": "A farmer sells his produce here",
-            "answer": "mandi",
-            "normalized": "mandi"
+            "id": "45d930e1-8e71-4621-b26e-6c2d0132adfc",
+            "clue": "Traditional Indian fermented milk-based drink",
+            "answer": "lassi",
+            "normalized": "lassi"
           },
           {
-            "id": "3c98062b-5e83-4e7b-96b5-9c372e30feb5",
-            "clue": "Sharply inclined; to let tea brew in water",
-            "answer": "steep",
-            "normalized": "steep"
+            "id": "353c9cb7-57e7-4600-836f-09a3e92da486",
+            "clue": "Decorative French emblem: fleur-de-__",
+            "answer": "lis",
+            "normalized": "lis"
           },
           {
-            "id": "1854fd9d-2ec5-4b27-a119-6dae3b4e1de2",
-            "clue": "Dolorous __, squire in Game of Thrones",
-            "answer": "edd",
-            "normalized": "edd"
+            "id": "bd134e93-4230-4d39-a44c-bec17972aa14",
+            "clue": "When something seems a bit wrong, it's this",
+            "answer": "amiss",
+            "normalized": "amiss"
           },
           {
-            "id": "d2e8dc16-e095-411a-971e-7822020421c1",
-            "clue": "Medical term meaning \"to remove\"",
-            "answer": "ablate",
-            "normalized": "ablate"
+            "id": "43dc7b28-cb0e-4cbd-8b68-bed5aaa07617",
+            "clue": "Primates without tails, e.g. gorillas",
+            "answer": "apes",
+            "normalized": "apes"
           },
           {
-            "id": "e55c587d-52bf-4deb-8910-cefdd589b606",
-            "clue": "Wrote your name on a legal document",
-            "answer": "signed",
-            "normalized": "signed"
+            "id": "3d906b7d-d3b0-4068-8fb8-8ccfe51c56ea",
+            "clue": "Saharan nation between Niger and Mauritania",
+            "answer": "mali",
+            "normalized": "mali"
           },
           {
-            "id": "361efef8-844c-4d06-b9e2-189e883b7e2f",
-            "clue": "__ cobras, snakes who make their heads look bigger",
-            "answer": "hooded",
-            "normalized": "hooded"
+            "id": "3b3c8998-7ccf-4a38-b4a2-13afff607089",
+            "clue": "External growth on plant tissue",
+            "answer": "gall",
+            "normalized": "gall"
           },
           {
-            "id": "832af3a1-7b21-4698-8c6f-0cb34c379330",
-            "clue": "Fall or stumble on a wet surface",
-            "answer": "slip",
-            "normalized": "slip"
-          },
-          {
-            "id": "54f1f45a-f7fe-42e7-b664-16e8da97d014",
-            "clue": "Code for Amsterdam Airport Schiphol",
-            "answer": "ams",
-            "normalized": "ams"
+            "id": "c987d171-b53f-460b-81f7-2e8b36d45df8",
+            "clue": "UP town on National Highway 27",
+            "answer": "orai",
+            "normalized": "orai"
           }
         ],
-        "track": "PC|LenCinY2026M11D4F0V000"
+        "track": "PC|LenCinY2026M11D5F0V000"
       },
       "mid": {
-        "puzzleId": "4580c2f1-b9ae-4e42-be3d-73bf30eea112",
+        "puzzleId": "9800fc7c-4f4a-470e-8e61-0a632ac40264",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "58db4ec6-0755-4714-93c5-db1ccd0dfae5",
-            "clue": "Most food is placed here before eating",
-            "answer": "dish",
-            "normalized": "dish"
+            "id": "c77a145b-d031-4c82-8eea-bee2aca43408",
+            "clue": "Flat round objects, like frisbees",
+            "answer": "discs",
+            "normalized": "discs"
           },
           {
-            "id": "7d4cd880-6ed3-4988-ae0c-086d3ee70ff0",
-            "clue": "Coiled metal spring toy created by Richard James",
-            "answer": "slinky",
-            "normalized": "slinky"
+            "id": "a3001097-9374-4bdc-a04f-55851e101681",
+            "clue": "Being in difficulty, backed __ corner",
+            "answer": "into a",
+            "normalized": "intoa"
           },
           {
-            "id": "7c50fce7-b6af-4cec-bfbe-0487f9aed213",
-            "clue": "Plant-based diets include these Italian carbs",
-            "answer": "pastas",
-            "normalized": "pastas"
+            "id": "f04b2aec-1a8b-4373-96bb-1db8b2a45b92",
+            "clue": "A major tribe of Arunachal Pradesh",
+            "answer": "apatani",
+            "normalized": "apatani"
           },
           {
-            "id": "e2248718-5443-4afc-99d4-4aa754ca0872",
-            "clue": "The male head of a community of monks",
-            "answer": "abbot",
-            "normalized": "abbot"
+            "id": "f10e995c-8190-4801-af9e-cd5726984613",
+            "clue": "Abbreviation for button to turn sound up or down",
+            "answer": "vol",
+            "normalized": "vol"
           },
           {
-            "id": "7680915e-6e4c-4d15-bac0-bc1e27c8cf3c",
-            "clue": "__ 5, ESA's launch rocket for satellites",
-            "answer": "ariane",
-            "normalized": "ariane"
+            "id": "bc035943-ffa7-459c-b170-8db15d10f29b",
+            "clue": "Latin prefix for \"evil\"",
+            "answer": "mal",
+            "normalized": "mal"
           },
           {
-            "id": "21961700-80af-4a11-9ee7-78f0a11a793c",
-            "clue": "Looked intensely at someone",
-            "answer": "stared",
-            "normalized": "stared"
+            "id": "c6fb6e51-3769-437c-92ed-b76e9ef983ae",
+            "clue": "Term for playing teams in cricket",
+            "answer": "elevens",
+            "normalized": "elevens"
           },
           {
-            "id": "745b4da4-7e48-48e2-975a-978e25fecc13",
-            "clue": "Buddies",
-            "answer": "pals",
-            "normalized": "pals"
+            "id": "ce68ed7b-e94f-4c98-b1a9-95a289607597",
+            "clue": "Toxic protein found in the castor oil plant seeds",
+            "answer": "ricin",
+            "normalized": "ricin"
           },
           {
-            "id": "b0daa9ec-091a-4877-ae43-df836c7da8ce",
-            "clue": "Excludes someone from practising law",
-            "answer": "disbars",
-            "normalized": "disbars"
+            "id": "1a1fd4b0-1c2e-4083-9102-f30a80a7dff5",
+            "clue": "Carry-all shopping bags",
+            "answer": "totes",
+            "normalized": "totes"
           },
           {
-            "id": "eab83cb3-cf81-48dd-ac93-f53a89d0149e",
-            "clue": "Utter in a monotonous drone",
-            "answer": "intone",
-            "normalized": "intone"
+            "id": "7cbd846e-9291-49e9-a5d5-1c9995dddd78",
+            "clue": "Local language, different to the standard variety",
+            "answer": "dialect",
+            "normalized": "dialect"
           },
           {
-            "id": "786e2a5c-95f4-4e49-8f0d-e2420c7dffd9",
-            "clue": "Glided over ice",
-            "answer": "skated",
-            "normalized": "skated"
+            "id": "fde85d0b-1b51-4d83-b8f7-e047a7e3dbd0",
+            "clue": "Internet domain for an international organisation",
+            "answer": "int",
+            "normalized": "int"
           },
           {
-            "id": "1c21664f-d47a-48b3-91cf-b7a8cfbf27bb",
-            "clue": "Have your say, acronym",
-            "answer": "hys",
-            "normalized": "hys"
+            "id": "26281bff-b64e-4c50-a1e6-b21cbea95121",
+            "clue": "Pollen-producing parts of flowers",
+            "answer": "stamens",
+            "normalized": "stamens"
           },
           {
-            "id": "bf3329f4-8397-4a57-ac19-bdaf65f24c6f",
-            "clue": "Athens' ancient rival",
-            "answer": "sparta",
-            "normalized": "sparta"
+            "id": "b8740a86-f5ff-43c5-8e84-29f8b3a76152",
+            "clue": "Arnold Schwarzenegger's barbarian",
+            "answer": "conan",
+            "normalized": "conan"
           },
           {
-            "id": "a90919a6-dd7b-4369-ba22-e48283d69535",
-            "clue": "Relating to the lips",
-            "answer": "labial",
-            "normalized": "labial"
+            "id": "e2fdf8d7-c12d-4fa3-825a-d70ef4ef54d2",
+            "clue": "Raised or lowered on ships depending on winds",
+            "answer": "sails",
+            "normalized": "sails"
           },
           {
-            "id": "539f2b3d-8cf3-4a11-adfe-08c24d53da23",
-            "clue": "Small, venomous snake",
-            "answer": "asp",
-            "normalized": "asp"
+            "id": "02e151cc-a810-4864-a579-ca6df733d2d3",
+            "clue": "Turn away, one's eyes e.g.",
+            "answer": "avert",
+            "normalized": "avert"
+          },
+          {
+            "id": "50f77f14-2dcc-43b2-a69e-ad2513e246e7",
+            "clue": "Jonas Salk developed this vaccine in the 1950s",
+            "answer": "polio",
+            "normalized": "polio"
+          },
+          {
+            "id": "eb0e729e-4e8e-400d-b0c5-17156d7c0fff",
+            "clue": "Compete against someone to be top dog",
+            "answer": "vie",
+            "normalized": "vie"
           }
         ],
-        "track": "PC|LenCinY2026M11D4F1V000"
+        "track": "PC|LenCinY2026M11D5F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-04",
+      "key": "2026-11-05",
       "year": 2026,
       "month": 11,
-      "day": 4,
+      "day": 5,
       "small": {
-        "puzzleId": "87acb856-24ab-4a87-8cb3-ff0bc4885236",
+        "puzzleId": "73e65f2e-302b-4057-b13f-6b8ebb9265cc",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f1eea088-64e8-42bf-9be5-ec3c3558f7e0",
-            "clue": "Powder that is left after a substance has burned",
-            "answer": "ash",
-            "normalized": "ash"
+            "id": "7fdd15ca-3f44-4447-9bee-dc2ef25a4912",
+            "clue": "An air-to-air missile for short",
+            "answer": "aam",
+            "normalized": "aam"
           },
           {
-            "id": "6e01b80d-d86c-41a1-a117-85d1b06f9253",
-            "clue": "Short online profiles",
-            "answer": "bios",
-            "normalized": "bios"
+            "id": "fcccc312-c050-4ffc-9544-3772a3f3f2a6",
+            "clue": "A common name for Ladakh Monasteries",
+            "answer": "gompa",
+            "normalized": "gompa"
           },
           {
-            "id": "0b54a6e4-94b5-4b28-af0a-b65fbdc08125",
-            "clue": "Computer language family developed in 1958",
-            "answer": "algol",
-            "normalized": "algol"
+            "id": "fe9b379c-0888-426a-a840-2e8e3c30d969",
+            "clue": "Disney mermaid or Shakespeare character",
+            "answer": "ariel",
+            "normalized": "ariel"
           },
           {
-            "id": "cfc16dd4-6ec3-4d61-8551-9361de3a4e32",
-            "clue": "A farmer sells his produce here",
-            "answer": "mandi",
-            "normalized": "mandi"
+            "id": "45d930e1-8e71-4621-b26e-6c2d0132adfc",
+            "clue": "Traditional Indian fermented milk-based drink",
+            "answer": "lassi",
+            "normalized": "lassi"
           },
           {
-            "id": "3c98062b-5e83-4e7b-96b5-9c372e30feb5",
-            "clue": "Sharply inclined; to let tea brew in water",
-            "answer": "steep",
-            "normalized": "steep"
+            "id": "353c9cb7-57e7-4600-836f-09a3e92da486",
+            "clue": "Decorative French emblem: fleur-de-__",
+            "answer": "lis",
+            "normalized": "lis"
           },
           {
-            "id": "1854fd9d-2ec5-4b27-a119-6dae3b4e1de2",
-            "clue": "Dolorous __, squire in Game of Thrones",
-            "answer": "edd",
-            "normalized": "edd"
+            "id": "bd134e93-4230-4d39-a44c-bec17972aa14",
+            "clue": "When something seems a bit wrong, it's this",
+            "answer": "amiss",
+            "normalized": "amiss"
           },
           {
-            "id": "d2e8dc16-e095-411a-971e-7822020421c1",
-            "clue": "Medical term meaning \"to remove\"",
-            "answer": "ablate",
-            "normalized": "ablate"
+            "id": "43dc7b28-cb0e-4cbd-8b68-bed5aaa07617",
+            "clue": "Primates without tails, e.g. gorillas",
+            "answer": "apes",
+            "normalized": "apes"
           },
           {
-            "id": "e55c587d-52bf-4deb-8910-cefdd589b606",
-            "clue": "Wrote your name on a legal document",
-            "answer": "signed",
-            "normalized": "signed"
+            "id": "3d906b7d-d3b0-4068-8fb8-8ccfe51c56ea",
+            "clue": "Saharan nation between Niger and Mauritania",
+            "answer": "mali",
+            "normalized": "mali"
           },
           {
-            "id": "361efef8-844c-4d06-b9e2-189e883b7e2f",
-            "clue": "__ cobras, snakes who make their heads look bigger",
-            "answer": "hooded",
-            "normalized": "hooded"
+            "id": "3b3c8998-7ccf-4a38-b4a2-13afff607089",
+            "clue": "External growth on plant tissue",
+            "answer": "gall",
+            "normalized": "gall"
           },
           {
-            "id": "832af3a1-7b21-4698-8c6f-0cb34c379330",
-            "clue": "Fall or stumble on a wet surface",
-            "answer": "slip",
-            "normalized": "slip"
-          },
-          {
-            "id": "54f1f45a-f7fe-42e7-b664-16e8da97d014",
-            "clue": "Code for Amsterdam Airport Schiphol",
-            "answer": "ams",
-            "normalized": "ams"
+            "id": "c987d171-b53f-460b-81f7-2e8b36d45df8",
+            "clue": "UP town on National Highway 27",
+            "answer": "orai",
+            "normalized": "orai"
           }
         ],
-        "track": "PC|LenCinY2026M11D4F0V000"
+        "track": "PC|LenCinY2026M11D5F0V000"
       },
       "mid": {
-        "puzzleId": "4580c2f1-b9ae-4e42-be3d-73bf30eea112",
+        "puzzleId": "9800fc7c-4f4a-470e-8e61-0a632ac40264",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "58db4ec6-0755-4714-93c5-db1ccd0dfae5",
-            "clue": "Most food is placed here before eating",
-            "answer": "dish",
-            "normalized": "dish"
+            "id": "c77a145b-d031-4c82-8eea-bee2aca43408",
+            "clue": "Flat round objects, like frisbees",
+            "answer": "discs",
+            "normalized": "discs"
           },
           {
-            "id": "7d4cd880-6ed3-4988-ae0c-086d3ee70ff0",
-            "clue": "Coiled metal spring toy created by Richard James",
-            "answer": "slinky",
-            "normalized": "slinky"
+            "id": "a3001097-9374-4bdc-a04f-55851e101681",
+            "clue": "Being in difficulty, backed __ corner",
+            "answer": "into a",
+            "normalized": "intoa"
           },
           {
-            "id": "7c50fce7-b6af-4cec-bfbe-0487f9aed213",
-            "clue": "Plant-based diets include these Italian carbs",
-            "answer": "pastas",
-            "normalized": "pastas"
+            "id": "f04b2aec-1a8b-4373-96bb-1db8b2a45b92",
+            "clue": "A major tribe of Arunachal Pradesh",
+            "answer": "apatani",
+            "normalized": "apatani"
           },
           {
-            "id": "e2248718-5443-4afc-99d4-4aa754ca0872",
-            "clue": "The male head of a community of monks",
-            "answer": "abbot",
-            "normalized": "abbot"
+            "id": "f10e995c-8190-4801-af9e-cd5726984613",
+            "clue": "Abbreviation for button to turn sound up or down",
+            "answer": "vol",
+            "normalized": "vol"
           },
           {
-            "id": "7680915e-6e4c-4d15-bac0-bc1e27c8cf3c",
-            "clue": "__ 5, ESA's launch rocket for satellites",
-            "answer": "ariane",
-            "normalized": "ariane"
+            "id": "bc035943-ffa7-459c-b170-8db15d10f29b",
+            "clue": "Latin prefix for \"evil\"",
+            "answer": "mal",
+            "normalized": "mal"
           },
           {
-            "id": "21961700-80af-4a11-9ee7-78f0a11a793c",
-            "clue": "Looked intensely at someone",
-            "answer": "stared",
-            "normalized": "stared"
+            "id": "c6fb6e51-3769-437c-92ed-b76e9ef983ae",
+            "clue": "Term for playing teams in cricket",
+            "answer": "elevens",
+            "normalized": "elevens"
           },
           {
-            "id": "745b4da4-7e48-48e2-975a-978e25fecc13",
-            "clue": "Buddies",
-            "answer": "pals",
-            "normalized": "pals"
+            "id": "ce68ed7b-e94f-4c98-b1a9-95a289607597",
+            "clue": "Toxic protein found in the castor oil plant seeds",
+            "answer": "ricin",
+            "normalized": "ricin"
           },
           {
-            "id": "b0daa9ec-091a-4877-ae43-df836c7da8ce",
-            "clue": "Excludes someone from practising law",
-            "answer": "disbars",
-            "normalized": "disbars"
+            "id": "1a1fd4b0-1c2e-4083-9102-f30a80a7dff5",
+            "clue": "Carry-all shopping bags",
+            "answer": "totes",
+            "normalized": "totes"
           },
           {
-            "id": "eab83cb3-cf81-48dd-ac93-f53a89d0149e",
-            "clue": "Utter in a monotonous drone",
-            "answer": "intone",
-            "normalized": "intone"
+            "id": "7cbd846e-9291-49e9-a5d5-1c9995dddd78",
+            "clue": "Local language, different to the standard variety",
+            "answer": "dialect",
+            "normalized": "dialect"
           },
           {
-            "id": "786e2a5c-95f4-4e49-8f0d-e2420c7dffd9",
-            "clue": "Glided over ice",
-            "answer": "skated",
-            "normalized": "skated"
+            "id": "fde85d0b-1b51-4d83-b8f7-e047a7e3dbd0",
+            "clue": "Internet domain for an international organisation",
+            "answer": "int",
+            "normalized": "int"
           },
           {
-            "id": "1c21664f-d47a-48b3-91cf-b7a8cfbf27bb",
-            "clue": "Have your say, acronym",
-            "answer": "hys",
-            "normalized": "hys"
+            "id": "26281bff-b64e-4c50-a1e6-b21cbea95121",
+            "clue": "Pollen-producing parts of flowers",
+            "answer": "stamens",
+            "normalized": "stamens"
           },
           {
-            "id": "bf3329f4-8397-4a57-ac19-bdaf65f24c6f",
-            "clue": "Athens' ancient rival",
-            "answer": "sparta",
-            "normalized": "sparta"
+            "id": "b8740a86-f5ff-43c5-8e84-29f8b3a76152",
+            "clue": "Arnold Schwarzenegger's barbarian",
+            "answer": "conan",
+            "normalized": "conan"
           },
           {
-            "id": "a90919a6-dd7b-4369-ba22-e48283d69535",
-            "clue": "Relating to the lips",
-            "answer": "labial",
-            "normalized": "labial"
+            "id": "e2fdf8d7-c12d-4fa3-825a-d70ef4ef54d2",
+            "clue": "Raised or lowered on ships depending on winds",
+            "answer": "sails",
+            "normalized": "sails"
           },
           {
-            "id": "539f2b3d-8cf3-4a11-adfe-08c24d53da23",
-            "clue": "Small, venomous snake",
-            "answer": "asp",
-            "normalized": "asp"
+            "id": "02e151cc-a810-4864-a579-ca6df733d2d3",
+            "clue": "Turn away, one's eyes e.g.",
+            "answer": "avert",
+            "normalized": "avert"
+          },
+          {
+            "id": "50f77f14-2dcc-43b2-a69e-ad2513e246e7",
+            "clue": "Jonas Salk developed this vaccine in the 1950s",
+            "answer": "polio",
+            "normalized": "polio"
+          },
+          {
+            "id": "eb0e729e-4e8e-400d-b0c5-17156d7c0fff",
+            "clue": "Compete against someone to be top dog",
+            "answer": "vie",
+            "normalized": "vie"
           }
         ],
-        "track": "PC|LenCinY2026M11D4F1V000"
+        "track": "PC|LenCinY2026M11D5F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388944,21 +388956,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "yMiSY6QbeEVjMI8oBwQpKEp6H/yhXf+V7q+ETPaPD/21A2QNZpcpqLtU9//53JX2rLxF7XOMEvfPhaOlGT5j2/+KKsjtcCA0GDa+uZQ9xgkTmiu5cldMC5ZEJojVLjA7kXQVftVOrHGKa0SeEXb8VlFpBcNLGrJf6FR4LwdcQMuyWDGEnymwd7apgMOXYwc7cJ7M8hU8dKDFSLYWJobaq6ckF1ZXzChJEHxZybp5t6f4OZd+SsvyBWVahMrM0uTgNODDIOKuvDmc1/EsNbf27gGom1zvpgyhDdnf3kpgxwI="
+        "JAt4lc+xaUTvwepa8+q8ZwMjFLYxij5Rah1zaoPr83QTT6z/vGV9LhgUGr7xg1gPa4AjqRLS3bd3gm1mikbHRb1RMLwrsAlOJkHbYRLRWrcCDH0yoKY+e2b1b9ELbpQgL+SSujmHRN6zQn7UnqvlvajKV465x/RryihgHc0w75C+rCTiikqgiKr0lK0BxrsGLMqiKyuCQnGtA6+kJW31PU0bcUWsa366z5Q5qKHc9KlXGJQsoj8YNd4xEPlFuGgTwa1iKWjkDz0feVADXDa2ddd7zRQxBb7miT6Q3dJLLy0="
       ]
     },
     "decrypted": {
-      "Id": "da6fde26-776c-4180-9105-6ef7dbac362c",
-      "Date": "2026-11-04T00:00:00Z",
+      "Id": "b8c55f1a-ecd8-4d6d-98b6-be269ede88ab",
+      "Date": "2026-11-05T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "flute",
-      "NormalizedPassword": "flute",
+      "Password": "rerun",
+      "NormalizedPassword": "rerun",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-04T05:01:24.6080000+05:30",
-    "hash": "cbd736ada1b6d1ed7562a2428d72cace",
+    "dtu": "2026-11-05T05:18:54.6500000+05:30",
+    "hash": "433ccffc282be2af2860ced7ad0c80b2",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
