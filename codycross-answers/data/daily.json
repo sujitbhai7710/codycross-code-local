@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T23:48:54.650Z",
+  "generatedAt": "2026-11-05T23:44:51.985Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 5
+    "day": 6
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 6
+        "QuantidadeDeFases": 8
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -388408,367 +388408,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-05",
+      "key": "2026-11-06",
       "year": 2026,
       "month": 11,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "73e65f2e-302b-4057-b13f-6b8ebb9265cc",
+        "puzzleId": "db3dcc3d-8b11-4fdc-9736-6f3251dbafd9",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "7fdd15ca-3f44-4447-9bee-dc2ef25a4912",
-            "clue": "An air-to-air missile for short",
-            "answer": "aam",
-            "normalized": "aam"
+            "id": "4bbab8b2-0dbe-47ff-be90-3b8eebbc6b9a",
+            "clue": "Harsh, grating sound",
+            "answer": "rasp",
+            "normalized": "rasp"
           },
           {
-            "id": "fcccc312-c050-4ffc-9544-3772a3f3f2a6",
-            "clue": "A common name for Ladakh Monasteries",
-            "answer": "gompa",
-            "normalized": "gompa"
+            "id": "49175bc3-5061-4599-b8f3-c47f6c33a43e",
+            "clue": "River that flows through Kalyan-Dombivli",
+            "answer": "ulhas",
+            "normalized": "ulhas"
           },
           {
-            "id": "fe9b379c-0888-426a-a840-2e8e3c30d969",
-            "clue": "Disney mermaid or Shakespeare character",
-            "answer": "ariel",
-            "normalized": "ariel"
+            "id": "e86a87a2-4dd2-4e33-83e1-32aa7c26a236",
+            "clue": "Soft material used for stuffing cushions",
+            "answer": "flock",
+            "normalized": "flock"
           },
           {
-            "id": "45d930e1-8e71-4621-b26e-6c2d0132adfc",
-            "clue": "Traditional Indian fermented milk-based drink",
-            "answer": "lassi",
-            "normalized": "lassi"
+            "id": "db36e985-fd57-4dc0-b1b5-01a8034d1739",
+            "clue": "This type of artist creates movie sound effects",
+            "answer": "foley",
+            "normalized": "foley"
           },
           {
-            "id": "353c9cb7-57e7-4600-836f-09a3e92da486",
-            "clue": "Decorative French emblem: fleur-de-__",
-            "answer": "lis",
-            "normalized": "lis"
+            "id": "3567d66c-b166-4671-b510-0bb3dc0964b7",
+            "clue": "Unladen weight of a vehicle",
+            "answer": "tare",
+            "normalized": "tare"
           },
           {
-            "id": "bd134e93-4230-4d39-a44c-bec17972aa14",
-            "clue": "When something seems a bit wrong, it's this",
-            "answer": "amiss",
-            "normalized": "amiss"
+            "id": "9a4f4fa8-b6ab-41e1-814c-63e2c3a13d9e",
+            "clue": "Coloured ring of feathers around a bird's neck",
+            "answer": "ruff",
+            "normalized": "ruff"
           },
           {
-            "id": "43dc7b28-cb0e-4cbd-8b68-bed5aaa07617",
-            "clue": "Primates without tails, e.g. gorillas",
-            "answer": "apes",
-            "normalized": "apes"
+            "id": "1ca23cd5-b045-4c8b-accf-5de16bbc2490",
+            "clue": "To give a portion or task to something or someone",
+            "answer": "allot",
+            "normalized": "allot"
           },
           {
-            "id": "3d906b7d-d3b0-4068-8fb8-8ccfe51c56ea",
-            "clue": "Saharan nation between Niger and Mauritania",
-            "answer": "mali",
-            "normalized": "mali"
+            "id": "3a2356dd-114e-4657-870b-8b2d75899e71",
+            "clue": "Forest type surrounding Dodabetta",
+            "answer": "shola",
+            "normalized": "shola"
           },
           {
-            "id": "3b3c8998-7ccf-4a38-b4a2-13afff607089",
-            "clue": "External growth on plant tissue",
-            "answer": "gall",
-            "normalized": "gall"
+            "id": "40cb5e72-3947-4129-af8b-33dd0b4893e4",
+            "clue": "Athlete who sets the speed for runners in a race",
+            "answer": "pacer",
+            "normalized": "pacer"
           },
           {
-            "id": "c987d171-b53f-460b-81f7-2e8b36d45df8",
-            "clue": "UP town on National Highway 27",
-            "answer": "orai",
-            "normalized": "orai"
+            "id": "90a2d76b-1789-4e0e-b395-17e363334efb",
+            "clue": "Paw Patrol puppy who enjoys flying",
+            "answer": "skye",
+            "normalized": "skye"
           }
         ],
-        "track": "PC|LenCinY2026M11D5F0V000"
+        "track": "PC|LenCinY2026M11D6F0V000"
       },
       "mid": {
-        "puzzleId": "9800fc7c-4f4a-470e-8e61-0a632ac40264",
+        "puzzleId": "c2122515-ba46-4916-ba9d-acc31efd05cb",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c77a145b-d031-4c82-8eea-bee2aca43408",
-            "clue": "Flat round objects, like frisbees",
-            "answer": "discs",
-            "normalized": "discs"
+            "id": "e69c5b02-9479-488b-bf64-6e0d916d3175",
+            "clue": "Stared angrily",
+            "answer": "glared",
+            "normalized": "glared"
           },
           {
-            "id": "a3001097-9374-4bdc-a04f-55851e101681",
-            "clue": "Being in difficulty, backed __ corner",
-            "answer": "into a",
-            "normalized": "intoa"
+            "id": "dc08488c-09ae-4d27-a803-7c8525b3680f",
+            "clue": "An overnight aeroplane flight",
+            "answer": "red eye",
+            "normalized": "redeye"
           },
           {
-            "id": "f04b2aec-1a8b-4373-96bb-1db8b2a45b92",
-            "clue": "A major tribe of Arunachal Pradesh",
-            "answer": "apatani",
-            "normalized": "apatani"
+            "id": "8238d147-8ce6-480d-91f4-081ac02d693e",
+            "clue": "Demi Moore and Tom Cruise movie, A Few __",
+            "answer": "good men",
+            "normalized": "goodmen"
           },
           {
-            "id": "f10e995c-8190-4801-af9e-cd5726984613",
-            "clue": "Abbreviation for button to turn sound up or down",
-            "answer": "vol",
-            "normalized": "vol"
+            "id": "e915b51f-025b-4237-9662-11d94e710bda",
+            "clue": "Code for the Rwandan franc",
+            "answer": "rwf",
+            "normalized": "rwf"
           },
           {
-            "id": "bc035943-ffa7-459c-b170-8db15d10f29b",
-            "clue": "Latin prefix for \"evil\"",
-            "answer": "mal",
-            "normalized": "mal"
+            "id": "ea7cec76-a3da-4542-b7b0-5e0c1376ecb1",
+            "clue": "Texting slang for acting a bit extra",
+            "answer": "ott",
+            "normalized": "ott"
           },
           {
-            "id": "c6fb6e51-3769-437c-92ed-b76e9ef983ae",
-            "clue": "Term for playing teams in cricket",
-            "answer": "elevens",
-            "normalized": "elevens"
+            "id": "9e033369-38eb-4083-a5bd-61dd267c54c3",
+            "clue": "Adds air, e.g. to soil",
+            "answer": "aerates",
+            "normalized": "aerates"
           },
           {
-            "id": "ce68ed7b-e94f-4c98-b1a9-95a289607597",
-            "clue": "Toxic protein found in the castor oil plant seeds",
-            "answer": "ricin",
-            "normalized": "ricin"
+            "id": "6dba5386-a6ec-4346-879a-a11df7e7b2b7",
+            "clue": "Groups of lions",
+            "answer": "prides",
+            "normalized": "prides"
           },
           {
-            "id": "1a1fd4b0-1c2e-4083-9102-f30a80a7dff5",
-            "clue": "Carry-all shopping bags",
-            "answer": "totes",
-            "normalized": "totes"
+            "id": "abfccfd6-fbe7-4cfb-b4b8-13dd84166d95",
+            "clue": "Safeguard someone on their travels",
+            "answer": "escort",
+            "normalized": "escort"
           },
           {
-            "id": "7cbd846e-9291-49e9-a5d5-1c9995dddd78",
-            "clue": "Local language, different to the standard variety",
-            "answer": "dialect",
-            "normalized": "dialect"
+            "id": "dfeb5d92-71f7-4ef7-8fdd-8095b287dfe3",
+            "clue": "Cultivators",
+            "answer": "growers",
+            "normalized": "growers"
           },
           {
-            "id": "fde85d0b-1b51-4d83-b8f7-e047a7e3dbd0",
-            "clue": "Internet domain for an international organisation",
-            "answer": "int",
-            "normalized": "int"
+            "id": "e6e1df47-bd52-4ea8-b5f8-1d29f665baf1",
+            "clue": "Husband of Godiva, Lord of Coventry",
+            "answer": "leofric",
+            "normalized": "leofric"
           },
           {
-            "id": "26281bff-b64e-4c50-a1e6-b21cbea95121",
-            "clue": "Pollen-producing parts of flowers",
-            "answer": "stamens",
-            "normalized": "stamens"
+            "id": "0c37a654-95f9-41bb-b234-936439efd7d8",
+            "clue": "Say as a further remark",
+            "answer": "add",
+            "normalized": "add"
           },
           {
-            "id": "b8740a86-f5ff-43c5-8e84-29f8b3a76152",
-            "clue": "Arnold Schwarzenegger's barbarian",
-            "answer": "conan",
-            "normalized": "conan"
+            "id": "f8b8bfa5-4a8b-4a31-a806-f385588dfb56",
+            "clue": "Further away from towns and cities",
+            "answer": "remoter",
+            "normalized": "remoter"
           },
           {
-            "id": "e2fdf8d7-c12d-4fa3-825a-d70ef4ef54d2",
-            "clue": "Raised or lowered on ships depending on winds",
-            "answer": "sails",
-            "normalized": "sails"
+            "id": "2d094ef3-04d9-413b-a9b2-0e87a49a41aa",
+            "clue": "Scheduled routine vision check",
+            "answer": "eye test",
+            "normalized": "eyetest"
           },
           {
-            "id": "02e151cc-a810-4864-a579-ca6df733d2d3",
-            "clue": "Turn away, one's eyes e.g.",
-            "answer": "avert",
-            "normalized": "avert"
+            "id": "bad7710f-610a-4146-a343-ac694253d59b",
+            "clue": "Dings or depressions in metal from blows",
+            "answer": "dents",
+            "normalized": "dents"
           },
           {
-            "id": "50f77f14-2dcc-43b2-a69e-ad2513e246e7",
-            "clue": "Jonas Salk developed this vaccine in the 1950s",
-            "answer": "polio",
-            "normalized": "polio"
+            "id": "7f4a4319-1d70-494a-97b0-6079db44face",
+            "clue": "Fruit used to make wine and vinegar",
+            "answer": "grape",
+            "normalized": "grape"
           },
           {
-            "id": "eb0e729e-4e8e-400d-b0c5-17156d7c0fff",
-            "clue": "Compete against someone to be top dog",
-            "answer": "vie",
-            "normalized": "vie"
+            "id": "f824e076-50a1-496e-98ea-97726b05a589",
+            "clue": "Shakespeare's Much __ About Nothing",
+            "answer": "ado",
+            "normalized": "ado"
           }
         ],
-        "track": "PC|LenCinY2026M11D5F1V000"
+        "track": "PC|LenCinY2026M11D6F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-05",
+      "key": "2026-11-06",
       "year": 2026,
       "month": 11,
-      "day": 5,
+      "day": 6,
       "small": {
-        "puzzleId": "73e65f2e-302b-4057-b13f-6b8ebb9265cc",
+        "puzzleId": "db3dcc3d-8b11-4fdc-9736-6f3251dbafd9",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "7fdd15ca-3f44-4447-9bee-dc2ef25a4912",
-            "clue": "An air-to-air missile for short",
-            "answer": "aam",
-            "normalized": "aam"
+            "id": "4bbab8b2-0dbe-47ff-be90-3b8eebbc6b9a",
+            "clue": "Harsh, grating sound",
+            "answer": "rasp",
+            "normalized": "rasp"
           },
           {
-            "id": "fcccc312-c050-4ffc-9544-3772a3f3f2a6",
-            "clue": "A common name for Ladakh Monasteries",
-            "answer": "gompa",
-            "normalized": "gompa"
+            "id": "49175bc3-5061-4599-b8f3-c47f6c33a43e",
+            "clue": "River that flows through Kalyan-Dombivli",
+            "answer": "ulhas",
+            "normalized": "ulhas"
           },
           {
-            "id": "fe9b379c-0888-426a-a840-2e8e3c30d969",
-            "clue": "Disney mermaid or Shakespeare character",
-            "answer": "ariel",
-            "normalized": "ariel"
+            "id": "e86a87a2-4dd2-4e33-83e1-32aa7c26a236",
+            "clue": "Soft material used for stuffing cushions",
+            "answer": "flock",
+            "normalized": "flock"
           },
           {
-            "id": "45d930e1-8e71-4621-b26e-6c2d0132adfc",
-            "clue": "Traditional Indian fermented milk-based drink",
-            "answer": "lassi",
-            "normalized": "lassi"
+            "id": "db36e985-fd57-4dc0-b1b5-01a8034d1739",
+            "clue": "This type of artist creates movie sound effects",
+            "answer": "foley",
+            "normalized": "foley"
           },
           {
-            "id": "353c9cb7-57e7-4600-836f-09a3e92da486",
-            "clue": "Decorative French emblem: fleur-de-__",
-            "answer": "lis",
-            "normalized": "lis"
+            "id": "3567d66c-b166-4671-b510-0bb3dc0964b7",
+            "clue": "Unladen weight of a vehicle",
+            "answer": "tare",
+            "normalized": "tare"
           },
           {
-            "id": "bd134e93-4230-4d39-a44c-bec17972aa14",
-            "clue": "When something seems a bit wrong, it's this",
-            "answer": "amiss",
-            "normalized": "amiss"
+            "id": "9a4f4fa8-b6ab-41e1-814c-63e2c3a13d9e",
+            "clue": "Coloured ring of feathers around a bird's neck",
+            "answer": "ruff",
+            "normalized": "ruff"
           },
           {
-            "id": "43dc7b28-cb0e-4cbd-8b68-bed5aaa07617",
-            "clue": "Primates without tails, e.g. gorillas",
-            "answer": "apes",
-            "normalized": "apes"
+            "id": "1ca23cd5-b045-4c8b-accf-5de16bbc2490",
+            "clue": "To give a portion or task to something or someone",
+            "answer": "allot",
+            "normalized": "allot"
           },
           {
-            "id": "3d906b7d-d3b0-4068-8fb8-8ccfe51c56ea",
-            "clue": "Saharan nation between Niger and Mauritania",
-            "answer": "mali",
-            "normalized": "mali"
+            "id": "3a2356dd-114e-4657-870b-8b2d75899e71",
+            "clue": "Forest type surrounding Dodabetta",
+            "answer": "shola",
+            "normalized": "shola"
           },
           {
-            "id": "3b3c8998-7ccf-4a38-b4a2-13afff607089",
-            "clue": "External growth on plant tissue",
-            "answer": "gall",
-            "normalized": "gall"
+            "id": "40cb5e72-3947-4129-af8b-33dd0b4893e4",
+            "clue": "Athlete who sets the speed for runners in a race",
+            "answer": "pacer",
+            "normalized": "pacer"
           },
           {
-            "id": "c987d171-b53f-460b-81f7-2e8b36d45df8",
-            "clue": "UP town on National Highway 27",
-            "answer": "orai",
-            "normalized": "orai"
+            "id": "90a2d76b-1789-4e0e-b395-17e363334efb",
+            "clue": "Paw Patrol puppy who enjoys flying",
+            "answer": "skye",
+            "normalized": "skye"
           }
         ],
-        "track": "PC|LenCinY2026M11D5F0V000"
+        "track": "PC|LenCinY2026M11D6F0V000"
       },
       "mid": {
-        "puzzleId": "9800fc7c-4f4a-470e-8e61-0a632ac40264",
+        "puzzleId": "c2122515-ba46-4916-ba9d-acc31efd05cb",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c77a145b-d031-4c82-8eea-bee2aca43408",
-            "clue": "Flat round objects, like frisbees",
-            "answer": "discs",
-            "normalized": "discs"
+            "id": "e69c5b02-9479-488b-bf64-6e0d916d3175",
+            "clue": "Stared angrily",
+            "answer": "glared",
+            "normalized": "glared"
           },
           {
-            "id": "a3001097-9374-4bdc-a04f-55851e101681",
-            "clue": "Being in difficulty, backed __ corner",
-            "answer": "into a",
-            "normalized": "intoa"
+            "id": "dc08488c-09ae-4d27-a803-7c8525b3680f",
+            "clue": "An overnight aeroplane flight",
+            "answer": "red eye",
+            "normalized": "redeye"
           },
           {
-            "id": "f04b2aec-1a8b-4373-96bb-1db8b2a45b92",
-            "clue": "A major tribe of Arunachal Pradesh",
-            "answer": "apatani",
-            "normalized": "apatani"
+            "id": "8238d147-8ce6-480d-91f4-081ac02d693e",
+            "clue": "Demi Moore and Tom Cruise movie, A Few __",
+            "answer": "good men",
+            "normalized": "goodmen"
           },
           {
-            "id": "f10e995c-8190-4801-af9e-cd5726984613",
-            "clue": "Abbreviation for button to turn sound up or down",
-            "answer": "vol",
-            "normalized": "vol"
+            "id": "e915b51f-025b-4237-9662-11d94e710bda",
+            "clue": "Code for the Rwandan franc",
+            "answer": "rwf",
+            "normalized": "rwf"
           },
           {
-            "id": "bc035943-ffa7-459c-b170-8db15d10f29b",
-            "clue": "Latin prefix for \"evil\"",
-            "answer": "mal",
-            "normalized": "mal"
+            "id": "ea7cec76-a3da-4542-b7b0-5e0c1376ecb1",
+            "clue": "Texting slang for acting a bit extra",
+            "answer": "ott",
+            "normalized": "ott"
           },
           {
-            "id": "c6fb6e51-3769-437c-92ed-b76e9ef983ae",
-            "clue": "Term for playing teams in cricket",
-            "answer": "elevens",
-            "normalized": "elevens"
+            "id": "9e033369-38eb-4083-a5bd-61dd267c54c3",
+            "clue": "Adds air, e.g. to soil",
+            "answer": "aerates",
+            "normalized": "aerates"
           },
           {
-            "id": "ce68ed7b-e94f-4c98-b1a9-95a289607597",
-            "clue": "Toxic protein found in the castor oil plant seeds",
-            "answer": "ricin",
-            "normalized": "ricin"
+            "id": "6dba5386-a6ec-4346-879a-a11df7e7b2b7",
+            "clue": "Groups of lions",
+            "answer": "prides",
+            "normalized": "prides"
           },
           {
-            "id": "1a1fd4b0-1c2e-4083-9102-f30a80a7dff5",
-            "clue": "Carry-all shopping bags",
-            "answer": "totes",
-            "normalized": "totes"
+            "id": "abfccfd6-fbe7-4cfb-b4b8-13dd84166d95",
+            "clue": "Safeguard someone on their travels",
+            "answer": "escort",
+            "normalized": "escort"
           },
           {
-            "id": "7cbd846e-9291-49e9-a5d5-1c9995dddd78",
-            "clue": "Local language, different to the standard variety",
-            "answer": "dialect",
-            "normalized": "dialect"
+            "id": "dfeb5d92-71f7-4ef7-8fdd-8095b287dfe3",
+            "clue": "Cultivators",
+            "answer": "growers",
+            "normalized": "growers"
           },
           {
-            "id": "fde85d0b-1b51-4d83-b8f7-e047a7e3dbd0",
-            "clue": "Internet domain for an international organisation",
-            "answer": "int",
-            "normalized": "int"
+            "id": "e6e1df47-bd52-4ea8-b5f8-1d29f665baf1",
+            "clue": "Husband of Godiva, Lord of Coventry",
+            "answer": "leofric",
+            "normalized": "leofric"
           },
           {
-            "id": "26281bff-b64e-4c50-a1e6-b21cbea95121",
-            "clue": "Pollen-producing parts of flowers",
-            "answer": "stamens",
-            "normalized": "stamens"
+            "id": "0c37a654-95f9-41bb-b234-936439efd7d8",
+            "clue": "Say as a further remark",
+            "answer": "add",
+            "normalized": "add"
           },
           {
-            "id": "b8740a86-f5ff-43c5-8e84-29f8b3a76152",
-            "clue": "Arnold Schwarzenegger's barbarian",
-            "answer": "conan",
-            "normalized": "conan"
+            "id": "f8b8bfa5-4a8b-4a31-a806-f385588dfb56",
+            "clue": "Further away from towns and cities",
+            "answer": "remoter",
+            "normalized": "remoter"
           },
           {
-            "id": "e2fdf8d7-c12d-4fa3-825a-d70ef4ef54d2",
-            "clue": "Raised or lowered on ships depending on winds",
-            "answer": "sails",
-            "normalized": "sails"
+            "id": "2d094ef3-04d9-413b-a9b2-0e87a49a41aa",
+            "clue": "Scheduled routine vision check",
+            "answer": "eye test",
+            "normalized": "eyetest"
           },
           {
-            "id": "02e151cc-a810-4864-a579-ca6df733d2d3",
-            "clue": "Turn away, one's eyes e.g.",
-            "answer": "avert",
-            "normalized": "avert"
+            "id": "bad7710f-610a-4146-a343-ac694253d59b",
+            "clue": "Dings or depressions in metal from blows",
+            "answer": "dents",
+            "normalized": "dents"
           },
           {
-            "id": "50f77f14-2dcc-43b2-a69e-ad2513e246e7",
-            "clue": "Jonas Salk developed this vaccine in the 1950s",
-            "answer": "polio",
-            "normalized": "polio"
+            "id": "7f4a4319-1d70-494a-97b0-6079db44face",
+            "clue": "Fruit used to make wine and vinegar",
+            "answer": "grape",
+            "normalized": "grape"
           },
           {
-            "id": "eb0e729e-4e8e-400d-b0c5-17156d7c0fff",
-            "clue": "Compete against someone to be top dog",
-            "answer": "vie",
-            "normalized": "vie"
+            "id": "f824e076-50a1-496e-98ea-97726b05a589",
+            "clue": "Shakespeare's Much __ About Nothing",
+            "answer": "ado",
+            "normalized": "ado"
           }
         ],
-        "track": "PC|LenCinY2026M11D5F1V000"
+        "track": "PC|LenCinY2026M11D6F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388956,21 +388956,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "JAt4lc+xaUTvwepa8+q8ZwMjFLYxij5Rah1zaoPr83QTT6z/vGV9LhgUGr7xg1gPa4AjqRLS3bd3gm1mikbHRb1RMLwrsAlOJkHbYRLRWrcCDH0yoKY+e2b1b9ELbpQgL+SSujmHRN6zQn7UnqvlvajKV465x/RryihgHc0w75C+rCTiikqgiKr0lK0BxrsGLMqiKyuCQnGtA6+kJW31PU0bcUWsa366z5Q5qKHc9KlXGJQsoj8YNd4xEPlFuGgTwa1iKWjkDz0feVADXDa2ddd7zRQxBb7miT6Q3dJLLy0="
+        "JA40ZBNwwIsq9fVUu7PTZLyz7iHtwQCLJkI2UJnl+rovxJisi+D95s1Fd48UbgX1/g97+mdomYjR89ctw0AF18m3X7HtHC5oMpXknfEycpRlru4tS6SlOSPGCg/fj+cdN6vMVs7Ne/QQV9PWG4Zm6ClM0TprhukZ2UL9WDFSlibGg2BkiI0VH/nC7v9rb+1aSaFzqumikV6bLTv6ljYuZ0gQoYbN4YeTTk83jVN8FfZfzLGpWZLRLQhb2Ck2zi9G91ImPDuntvpkicwbQi8iDxzuePo9ZGcRNeG1zSLLl6o="
       ]
     },
     "decrypted": {
-      "Id": "b8c55f1a-ecd8-4d6d-98b6-be269ede88ab",
-      "Date": "2026-11-05T00:00:00Z",
+      "Id": "0a60877a-a511-43fb-8e16-72ccd4b7abd2",
+      "Date": "2026-11-06T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "rerun",
-      "NormalizedPassword": "rerun",
+      "Password": "vault",
+      "NormalizedPassword": "vault",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-05T05:18:54.6500000+05:30",
-    "hash": "433ccffc282be2af2860ced7ad0c80b2",
+    "dtu": "2026-11-06T05:14:51.9850000+05:30",
+    "hash": "9d0a80edb72ebff2a50b96ad8a6705d4",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
