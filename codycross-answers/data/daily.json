@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T23:44:51.985Z",
+  "generatedAt": "2026-11-06T23:20:14.284Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 6
+    "day": 7
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 8
+        "QuantidadeDeFases": 10
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -388408,367 +388408,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-06",
+      "key": "2026-11-07",
       "year": 2026,
       "month": 11,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "db3dcc3d-8b11-4fdc-9736-6f3251dbafd9",
+        "puzzleId": "4a784f89-0644-41a3-bd10-61e6d483cfe4",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4bbab8b2-0dbe-47ff-be90-3b8eebbc6b9a",
-            "clue": "Harsh, grating sound",
-            "answer": "rasp",
-            "normalized": "rasp"
+            "id": "000c5a1f-7eb2-4210-bb77-e6c7faa9022f",
+            "clue": "Convulsion, twitch",
+            "answer": "spasm",
+            "normalized": "spasm"
           },
           {
-            "id": "49175bc3-5061-4599-b8f3-c47f6c33a43e",
-            "clue": "River that flows through Kalyan-Dombivli",
-            "answer": "ulhas",
-            "normalized": "ulhas"
+            "id": "6eeb45cd-cf2a-40fe-b23a-5daa9f1247b2",
+            "clue": "Ancient name for the Tungabhadra River",
+            "answer": "pampa",
+            "normalized": "pampa"
           },
           {
-            "id": "e86a87a2-4dd2-4e33-83e1-32aa7c26a236",
-            "clue": "Soft material used for stuffing cushions",
-            "answer": "flock",
-            "normalized": "flock"
+            "id": "b3c02ff0-81e7-4adf-a18e-86c0902593ce",
+            "clue": "Patchwork elephant in David McKee kids' books",
+            "answer": "elmer",
+            "normalized": "elmer"
           },
           {
-            "id": "db36e985-fd57-4dc0-b1b5-01a8034d1739",
-            "clue": "This type of artist creates movie sound effects",
-            "answer": "foley",
-            "normalized": "foley"
+            "id": "71f8b1db-eb4d-493f-8bd4-18665b4e8bb4",
+            "clue": "__ out, making rations last longer",
+            "answer": "eking",
+            "normalized": "eking"
           },
           {
-            "id": "3567d66c-b166-4671-b510-0bb3dc0964b7",
-            "clue": "Unladen weight of a vehicle",
-            "answer": "tare",
-            "normalized": "tare"
+            "id": "49a567ac-684e-4711-81d8-2b256185db70",
+            "clue": "Purple blob-shaped Pokémon",
+            "answer": "ditto",
+            "normalized": "ditto"
           },
           {
-            "id": "9a4f4fa8-b6ab-41e1-814c-63e2c3a13d9e",
-            "clue": "Coloured ring of feathers around a bird's neck",
-            "answer": "ruff",
-            "normalized": "ruff"
+            "id": "a96b01c7-0ead-410d-902e-0cca89327f74",
+            "clue": "Yubi Lakpi is a test of strength and ____",
+            "answer": "speed",
+            "normalized": "speed"
           },
           {
-            "id": "1ca23cd5-b045-4c8b-accf-5de16bbc2490",
-            "clue": "To give a portion or task to something or someone",
-            "answer": "allot",
-            "normalized": "allot"
+            "id": "931f340a-9f86-4ce1-a193-60111bb215e2",
+            "clue": "Another common name for a palanquin",
+            "answer": "palki",
+            "normalized": "palki"
           },
           {
-            "id": "3a2356dd-114e-4657-870b-8b2d75899e71",
-            "clue": "Forest type surrounding Dodabetta",
-            "answer": "shola",
-            "normalized": "shola"
+            "id": "da4b37b2-0f7e-4b56-ab83-1a03a7367946",
+            "clue": "Part hippo, croc and lion in Egyptian mythology",
+            "answer": "ammit",
+            "normalized": "ammit"
           },
           {
-            "id": "40cb5e72-3947-4129-af8b-33dd0b4893e4",
-            "clue": "Athlete who sets the speed for runners in a race",
-            "answer": "pacer",
-            "normalized": "pacer"
+            "id": "f0391544-653f-4d95-82df-a73a6d1f9873",
+            "clue": "Used money to make purchases",
+            "answer": "spent",
+            "normalized": "spent"
           },
           {
-            "id": "90a2d76b-1789-4e0e-b395-17e363334efb",
-            "clue": "Paw Patrol puppy who enjoys flying",
-            "answer": "skye",
-            "normalized": "skye"
+            "id": "2861f19f-4d4a-46db-b39a-2ba45b52a696",
+            "clue": "Gru's oldest adopted daughter in Despicable Me",
+            "answer": "margo",
+            "normalized": "margo"
           }
         ],
-        "track": "PC|LenCinY2026M11D6F0V000"
+        "track": "PC|LenCinY2026M11D7F0V000"
       },
       "mid": {
-        "puzzleId": "c2122515-ba46-4916-ba9d-acc31efd05cb",
+        "puzzleId": "68adbc01-2bfa-4f9a-b707-0d663d8dbf4e",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e69c5b02-9479-488b-bf64-6e0d916d3175",
-            "clue": "Stared angrily",
-            "answer": "glared",
-            "normalized": "glared"
+            "id": "490118e5-4890-4972-96f2-9de9e778d15f",
+            "clue": "Creates or constructs",
+            "answer": "builds",
+            "normalized": "builds"
           },
           {
-            "id": "dc08488c-09ae-4d27-a803-7c8525b3680f",
-            "clue": "An overnight aeroplane flight",
-            "answer": "red eye",
-            "normalized": "redeye"
+            "id": "f627fb33-ab84-4efc-b3f7-3f5a220a8a04",
+            "clue": "Capital of Turkey",
+            "answer": "ankara",
+            "normalized": "ankara"
           },
           {
-            "id": "8238d147-8ce6-480d-91f4-081ac02d693e",
-            "clue": "Demi Moore and Tom Cruise movie, A Few __",
-            "answer": "good men",
-            "normalized": "goodmen"
+            "id": "95272236-9d82-4322-aa1d-15845f9af63d",
+            "clue": "Having many sides or aspects",
+            "answer": "faceted",
+            "normalized": "faceted"
           },
           {
-            "id": "e915b51f-025b-4237-9662-11d94e710bda",
-            "clue": "Code for the Rwandan franc",
-            "answer": "rwf",
-            "normalized": "rwf"
+            "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
+            "clue": "Short for English as a second language",
+            "answer": "esl",
+            "normalized": "esl"
           },
           {
-            "id": "ea7cec76-a3da-4542-b7b0-5e0c1376ecb1",
-            "clue": "Texting slang for acting a bit extra",
-            "answer": "ott",
-            "normalized": "ott"
+            "id": "51dc85ba-606b-44af-be6e-6a610fabc318",
+            "clue": "US travel authority that checks bags",
+            "answer": "tsa",
+            "normalized": "tsa"
           },
           {
-            "id": "9e033369-38eb-4083-a5bd-61dd267c54c3",
-            "clue": "Adds air, e.g. to soil",
-            "answer": "aerates",
-            "normalized": "aerates"
+            "id": "b70e31a0-51f9-4c87-b743-6769e8477c69",
+            "clue": "2007 movie about especially scary fog",
+            "answer": "the mist",
+            "normalized": "themist"
           },
           {
-            "id": "6dba5386-a6ec-4346-879a-a11df7e7b2b7",
-            "clue": "Groups of lions",
-            "answer": "prides",
-            "normalized": "prides"
+            "id": "0ce0b551-2752-4dc5-941d-399830b2ad85",
+            "clue": "Likelihood, the possibility of something happening",
+            "answer": "chance",
+            "normalized": "chance"
           },
           {
-            "id": "abfccfd6-fbe7-4cfb-b4b8-13dd84166d95",
-            "clue": "Safeguard someone on their travels",
-            "answer": "escort",
-            "normalized": "escort"
+            "id": "967dd8da-5f57-462e-bfdf-18471f5e5a0e",
+            "clue": "__ Man, tarot card also known as the traitor",
+            "answer": "hanged",
+            "normalized": "hanged"
           },
           {
-            "id": "dfeb5d92-71f7-4ef7-8fdd-8095b287dfe3",
-            "clue": "Cultivators",
-            "answer": "growers",
-            "normalized": "growers"
+            "id": "2c7c3f89-2e36-47e5-ad1e-79b90e001b69",
+            "clue": "Rajinikanth's iconic gangster film",
+            "answer": "baashha",
+            "normalized": "baashha"
           },
           {
-            "id": "e6e1df47-bd52-4ea8-b5f8-1d29f665baf1",
-            "clue": "Husband of Godiva, Lord of Coventry",
-            "answer": "leofric",
-            "normalized": "leofric"
+            "id": "c4a11875-439a-4ac5-82c3-89bf333d5442",
+            "clue": "A demon is an __ spirit",
+            "answer": "unclean",
+            "normalized": "unclean"
           },
           {
-            "id": "0c37a654-95f9-41bb-b234-936439efd7d8",
-            "clue": "Say as a further remark",
-            "answer": "add",
-            "normalized": "add"
+            "id": "0cc5955f-a85e-4911-9039-56f52c23e446",
+            "clue": "Nickname for US president Dwight Eisenhower",
+            "answer": "ike",
+            "normalized": "ike"
           },
           {
-            "id": "f8b8bfa5-4a8b-4a31-a806-f385588dfb56",
-            "clue": "Further away from towns and cities",
-            "answer": "remoter",
-            "normalized": "remoter"
+            "id": "b6f7cccd-a1d7-43fc-a24a-0d4617c398c1",
+            "clue": "Criss-cross framework of interlaced strips",
+            "answer": "lattice",
+            "normalized": "lattice"
           },
           {
-            "id": "2d094ef3-04d9-413b-a9b2-0e87a49a41aa",
-            "clue": "Scheduled routine vision check",
-            "answer": "eye test",
-            "normalized": "eyetest"
+            "id": "daad886e-c37b-4519-ad0e-6838536438e6",
+            "clue": "Having put clothes on, one is __",
+            "answer": "dressed",
+            "normalized": "dressed"
           },
           {
-            "id": "bad7710f-610a-4146-a343-ac694253d59b",
-            "clue": "Dings or depressions in metal from blows",
-            "answer": "dents",
-            "normalized": "dents"
+            "id": "111f3fbe-e201-47b2-9cc3-c318c6f6a2c7",
+            "clue": "Egyptian president who won 1978 Nobel Peace Prize",
+            "answer": "sadat",
+            "normalized": "sadat"
           },
           {
-            "id": "7f4a4319-1d70-494a-97b0-6079db44face",
-            "clue": "Fruit used to make wine and vinegar",
-            "answer": "grape",
-            "normalized": "grape"
+            "id": "ea60cbe7-029d-4b17-9eb3-2c88f822e936",
+            "clue": "Game played with a dog and a ball",
+            "answer": "fetch",
+            "normalized": "fetch"
           },
           {
-            "id": "f824e076-50a1-496e-98ea-97726b05a589",
-            "clue": "Shakespeare's Much __ About Nothing",
-            "answer": "ado",
-            "normalized": "ado"
+            "id": "346e3b42-5543-47a0-8b55-6327e0fc1d5d",
+            "clue": "Three-letter alpha code for Mongolia",
+            "answer": "mng",
+            "normalized": "mng"
           }
         ],
-        "track": "PC|LenCinY2026M11D6F1V000"
+        "track": "PC|LenCinY2026M11D7F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-06",
+      "key": "2026-11-07",
       "year": 2026,
       "month": 11,
-      "day": 6,
+      "day": 7,
       "small": {
-        "puzzleId": "db3dcc3d-8b11-4fdc-9736-6f3251dbafd9",
+        "puzzleId": "4a784f89-0644-41a3-bd10-61e6d483cfe4",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4bbab8b2-0dbe-47ff-be90-3b8eebbc6b9a",
-            "clue": "Harsh, grating sound",
-            "answer": "rasp",
-            "normalized": "rasp"
+            "id": "000c5a1f-7eb2-4210-bb77-e6c7faa9022f",
+            "clue": "Convulsion, twitch",
+            "answer": "spasm",
+            "normalized": "spasm"
           },
           {
-            "id": "49175bc3-5061-4599-b8f3-c47f6c33a43e",
-            "clue": "River that flows through Kalyan-Dombivli",
-            "answer": "ulhas",
-            "normalized": "ulhas"
+            "id": "6eeb45cd-cf2a-40fe-b23a-5daa9f1247b2",
+            "clue": "Ancient name for the Tungabhadra River",
+            "answer": "pampa",
+            "normalized": "pampa"
           },
           {
-            "id": "e86a87a2-4dd2-4e33-83e1-32aa7c26a236",
-            "clue": "Soft material used for stuffing cushions",
-            "answer": "flock",
-            "normalized": "flock"
+            "id": "b3c02ff0-81e7-4adf-a18e-86c0902593ce",
+            "clue": "Patchwork elephant in David McKee kids' books",
+            "answer": "elmer",
+            "normalized": "elmer"
           },
           {
-            "id": "db36e985-fd57-4dc0-b1b5-01a8034d1739",
-            "clue": "This type of artist creates movie sound effects",
-            "answer": "foley",
-            "normalized": "foley"
+            "id": "71f8b1db-eb4d-493f-8bd4-18665b4e8bb4",
+            "clue": "__ out, making rations last longer",
+            "answer": "eking",
+            "normalized": "eking"
           },
           {
-            "id": "3567d66c-b166-4671-b510-0bb3dc0964b7",
-            "clue": "Unladen weight of a vehicle",
-            "answer": "tare",
-            "normalized": "tare"
+            "id": "49a567ac-684e-4711-81d8-2b256185db70",
+            "clue": "Purple blob-shaped Pokémon",
+            "answer": "ditto",
+            "normalized": "ditto"
           },
           {
-            "id": "9a4f4fa8-b6ab-41e1-814c-63e2c3a13d9e",
-            "clue": "Coloured ring of feathers around a bird's neck",
-            "answer": "ruff",
-            "normalized": "ruff"
+            "id": "a96b01c7-0ead-410d-902e-0cca89327f74",
+            "clue": "Yubi Lakpi is a test of strength and ____",
+            "answer": "speed",
+            "normalized": "speed"
           },
           {
-            "id": "1ca23cd5-b045-4c8b-accf-5de16bbc2490",
-            "clue": "To give a portion or task to something or someone",
-            "answer": "allot",
-            "normalized": "allot"
+            "id": "931f340a-9f86-4ce1-a193-60111bb215e2",
+            "clue": "Another common name for a palanquin",
+            "answer": "palki",
+            "normalized": "palki"
           },
           {
-            "id": "3a2356dd-114e-4657-870b-8b2d75899e71",
-            "clue": "Forest type surrounding Dodabetta",
-            "answer": "shola",
-            "normalized": "shola"
+            "id": "da4b37b2-0f7e-4b56-ab83-1a03a7367946",
+            "clue": "Part hippo, croc and lion in Egyptian mythology",
+            "answer": "ammit",
+            "normalized": "ammit"
           },
           {
-            "id": "40cb5e72-3947-4129-af8b-33dd0b4893e4",
-            "clue": "Athlete who sets the speed for runners in a race",
-            "answer": "pacer",
-            "normalized": "pacer"
+            "id": "f0391544-653f-4d95-82df-a73a6d1f9873",
+            "clue": "Used money to make purchases",
+            "answer": "spent",
+            "normalized": "spent"
           },
           {
-            "id": "90a2d76b-1789-4e0e-b395-17e363334efb",
-            "clue": "Paw Patrol puppy who enjoys flying",
-            "answer": "skye",
-            "normalized": "skye"
+            "id": "2861f19f-4d4a-46db-b39a-2ba45b52a696",
+            "clue": "Gru's oldest adopted daughter in Despicable Me",
+            "answer": "margo",
+            "normalized": "margo"
           }
         ],
-        "track": "PC|LenCinY2026M11D6F0V000"
+        "track": "PC|LenCinY2026M11D7F0V000"
       },
       "mid": {
-        "puzzleId": "c2122515-ba46-4916-ba9d-acc31efd05cb",
+        "puzzleId": "68adbc01-2bfa-4f9a-b707-0d663d8dbf4e",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e69c5b02-9479-488b-bf64-6e0d916d3175",
-            "clue": "Stared angrily",
-            "answer": "glared",
-            "normalized": "glared"
+            "id": "490118e5-4890-4972-96f2-9de9e778d15f",
+            "clue": "Creates or constructs",
+            "answer": "builds",
+            "normalized": "builds"
           },
           {
-            "id": "dc08488c-09ae-4d27-a803-7c8525b3680f",
-            "clue": "An overnight aeroplane flight",
-            "answer": "red eye",
-            "normalized": "redeye"
+            "id": "f627fb33-ab84-4efc-b3f7-3f5a220a8a04",
+            "clue": "Capital of Turkey",
+            "answer": "ankara",
+            "normalized": "ankara"
           },
           {
-            "id": "8238d147-8ce6-480d-91f4-081ac02d693e",
-            "clue": "Demi Moore and Tom Cruise movie, A Few __",
-            "answer": "good men",
-            "normalized": "goodmen"
+            "id": "95272236-9d82-4322-aa1d-15845f9af63d",
+            "clue": "Having many sides or aspects",
+            "answer": "faceted",
+            "normalized": "faceted"
           },
           {
-            "id": "e915b51f-025b-4237-9662-11d94e710bda",
-            "clue": "Code for the Rwandan franc",
-            "answer": "rwf",
-            "normalized": "rwf"
+            "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
+            "clue": "Short for English as a second language",
+            "answer": "esl",
+            "normalized": "esl"
           },
           {
-            "id": "ea7cec76-a3da-4542-b7b0-5e0c1376ecb1",
-            "clue": "Texting slang for acting a bit extra",
-            "answer": "ott",
-            "normalized": "ott"
+            "id": "51dc85ba-606b-44af-be6e-6a610fabc318",
+            "clue": "US travel authority that checks bags",
+            "answer": "tsa",
+            "normalized": "tsa"
           },
           {
-            "id": "9e033369-38eb-4083-a5bd-61dd267c54c3",
-            "clue": "Adds air, e.g. to soil",
-            "answer": "aerates",
-            "normalized": "aerates"
+            "id": "b70e31a0-51f9-4c87-b743-6769e8477c69",
+            "clue": "2007 movie about especially scary fog",
+            "answer": "the mist",
+            "normalized": "themist"
           },
           {
-            "id": "6dba5386-a6ec-4346-879a-a11df7e7b2b7",
-            "clue": "Groups of lions",
-            "answer": "prides",
-            "normalized": "prides"
+            "id": "0ce0b551-2752-4dc5-941d-399830b2ad85",
+            "clue": "Likelihood, the possibility of something happening",
+            "answer": "chance",
+            "normalized": "chance"
           },
           {
-            "id": "abfccfd6-fbe7-4cfb-b4b8-13dd84166d95",
-            "clue": "Safeguard someone on their travels",
-            "answer": "escort",
-            "normalized": "escort"
+            "id": "967dd8da-5f57-462e-bfdf-18471f5e5a0e",
+            "clue": "__ Man, tarot card also known as the traitor",
+            "answer": "hanged",
+            "normalized": "hanged"
           },
           {
-            "id": "dfeb5d92-71f7-4ef7-8fdd-8095b287dfe3",
-            "clue": "Cultivators",
-            "answer": "growers",
-            "normalized": "growers"
+            "id": "2c7c3f89-2e36-47e5-ad1e-79b90e001b69",
+            "clue": "Rajinikanth's iconic gangster film",
+            "answer": "baashha",
+            "normalized": "baashha"
           },
           {
-            "id": "e6e1df47-bd52-4ea8-b5f8-1d29f665baf1",
-            "clue": "Husband of Godiva, Lord of Coventry",
-            "answer": "leofric",
-            "normalized": "leofric"
+            "id": "c4a11875-439a-4ac5-82c3-89bf333d5442",
+            "clue": "A demon is an __ spirit",
+            "answer": "unclean",
+            "normalized": "unclean"
           },
           {
-            "id": "0c37a654-95f9-41bb-b234-936439efd7d8",
-            "clue": "Say as a further remark",
-            "answer": "add",
-            "normalized": "add"
+            "id": "0cc5955f-a85e-4911-9039-56f52c23e446",
+            "clue": "Nickname for US president Dwight Eisenhower",
+            "answer": "ike",
+            "normalized": "ike"
           },
           {
-            "id": "f8b8bfa5-4a8b-4a31-a806-f385588dfb56",
-            "clue": "Further away from towns and cities",
-            "answer": "remoter",
-            "normalized": "remoter"
+            "id": "b6f7cccd-a1d7-43fc-a24a-0d4617c398c1",
+            "clue": "Criss-cross framework of interlaced strips",
+            "answer": "lattice",
+            "normalized": "lattice"
           },
           {
-            "id": "2d094ef3-04d9-413b-a9b2-0e87a49a41aa",
-            "clue": "Scheduled routine vision check",
-            "answer": "eye test",
-            "normalized": "eyetest"
+            "id": "daad886e-c37b-4519-ad0e-6838536438e6",
+            "clue": "Having put clothes on, one is __",
+            "answer": "dressed",
+            "normalized": "dressed"
           },
           {
-            "id": "bad7710f-610a-4146-a343-ac694253d59b",
-            "clue": "Dings or depressions in metal from blows",
-            "answer": "dents",
-            "normalized": "dents"
+            "id": "111f3fbe-e201-47b2-9cc3-c318c6f6a2c7",
+            "clue": "Egyptian president who won 1978 Nobel Peace Prize",
+            "answer": "sadat",
+            "normalized": "sadat"
           },
           {
-            "id": "7f4a4319-1d70-494a-97b0-6079db44face",
-            "clue": "Fruit used to make wine and vinegar",
-            "answer": "grape",
-            "normalized": "grape"
+            "id": "ea60cbe7-029d-4b17-9eb3-2c88f822e936",
+            "clue": "Game played with a dog and a ball",
+            "answer": "fetch",
+            "normalized": "fetch"
           },
           {
-            "id": "f824e076-50a1-496e-98ea-97726b05a589",
-            "clue": "Shakespeare's Much __ About Nothing",
-            "answer": "ado",
-            "normalized": "ado"
+            "id": "346e3b42-5543-47a0-8b55-6327e0fc1d5d",
+            "clue": "Three-letter alpha code for Mongolia",
+            "answer": "mng",
+            "normalized": "mng"
           }
         ],
-        "track": "PC|LenCinY2026M11D6F1V000"
+        "track": "PC|LenCinY2026M11D7F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388956,21 +388956,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "JA40ZBNwwIsq9fVUu7PTZLyz7iHtwQCLJkI2UJnl+rovxJisi+D95s1Fd48UbgX1/g97+mdomYjR89ctw0AF18m3X7HtHC5oMpXknfEycpRlru4tS6SlOSPGCg/fj+cdN6vMVs7Ne/QQV9PWG4Zm6ClM0TprhukZ2UL9WDFSlibGg2BkiI0VH/nC7v9rb+1aSaFzqumikV6bLTv6ljYuZ0gQoYbN4YeTTk83jVN8FfZfzLGpWZLRLQhb2Ck2zi9G91ImPDuntvpkicwbQi8iDxzuePo9ZGcRNeG1zSLLl6o="
+        "dnAxpOlpkv2INgJEM+N6WoW4P12pnlK4mYYjzNQZ8VGckQs+e2TQvZuNF+PkzcGlgkrBPZ36Vk91lwxPFh82Rdzsb86UIYd5zkbQPwzPSoBi1DFQu/EspxHHZDW0zN1GvGPNdpbpgiJREp8uof1FT8LF4YkmFE3/WQK5ApLzA+lrVELEJPvSq01C0zLKgMhpd8ElQfsF+Jjs4gGk36cxXnd2lOj5RiQiddTDPCmqmq7QRT3QL26NHAFpN1XVoULz4zmodnt2dSpbeOGueSwUXFxMK9uWD3BBDR6KrE7/mY4="
       ]
     },
     "decrypted": {
-      "Id": "0a60877a-a511-43fb-8e16-72ccd4b7abd2",
-      "Date": "2026-11-06T00:00:00Z",
+      "Id": "395430cd-db0c-4048-ab85-0e51f7e1ecc1",
+      "Date": "2026-11-07T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "vault",
-      "NormalizedPassword": "vault",
+      "Password": "error",
+      "NormalizedPassword": "error",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-06T05:14:51.9850000+05:30",
-    "hash": "9d0a80edb72ebff2a50b96ad8a6705d4",
+    "dtu": "2026-11-07T04:50:14.2840000+05:30",
+    "hash": "d1f2d963817b5f6a9df54599b627b64a",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
