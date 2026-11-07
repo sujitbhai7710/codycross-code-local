@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T23:20:14.284Z",
+  "generatedAt": "2026-11-07T22:07:08.688Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 7
+    "day": 8
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 10
+        "QuantidadeDeFases": 12
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -388408,367 +388408,379 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-07",
+      "key": "2026-11-08",
       "year": 2026,
       "month": 11,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "4a784f89-0644-41a3-bd10-61e6d483cfe4",
+        "puzzleId": "203206ad-0a64-4cb7-9404-494813f03bb5",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "000c5a1f-7eb2-4210-bb77-e6c7faa9022f",
-            "clue": "Convulsion, twitch",
-            "answer": "spasm",
-            "normalized": "spasm"
+            "id": "04d01c1c-3455-4ba4-a18b-27e81b12358b",
+            "clue": "Have to",
+            "answer": "must",
+            "normalized": "must"
           },
           {
-            "id": "6eeb45cd-cf2a-40fe-b23a-5daa9f1247b2",
-            "clue": "Ancient name for the Tungabhadra River",
-            "answer": "pampa",
-            "normalized": "pampa"
+            "id": "34e36629-8a77-4eb7-a8bb-cd3d6c6dddba",
+            "clue": "Upcoming international airport site in Navi Mumbai",
+            "answer": "ulwe",
+            "normalized": "ulwe"
           },
           {
-            "id": "b3c02ff0-81e7-4adf-a18e-86c0902593ce",
-            "clue": "Patchwork elephant in David McKee kids' books",
-            "answer": "elmer",
-            "normalized": "elmer"
+            "id": "e87882d4-44c9-4924-b710-165f8e372f27",
+            "clue": "One's fixed period of work",
+            "answer": "stint",
+            "normalized": "stint"
           },
           {
-            "id": "71f8b1db-eb4d-493f-8bd4-18665b4e8bb4",
-            "clue": "__ out, making rations last longer",
-            "answer": "eking",
-            "normalized": "eking"
+            "id": "16f75760-b614-440f-a2f7-b5e462aee075",
+            "clue": "What people in a debate do",
+            "answer": "argue",
+            "normalized": "argue"
           },
           {
-            "id": "49a567ac-684e-4711-81d8-2b256185db70",
-            "clue": "Purple blob-shaped Pokémon",
-            "answer": "ditto",
-            "normalized": "ditto"
+            "id": "b906f874-d2ae-4e98-ae05-e8c14f932c89",
+            "clue": "City connected by the Yamuna Expressway",
+            "answer": "agra",
+            "normalized": "agra"
           },
           {
-            "id": "a96b01c7-0ead-410d-902e-0cca89327f74",
-            "clue": "Yubi Lakpi is a test of strength and ____",
-            "answer": "speed",
-            "normalized": "speed"
+            "id": "d2496c12-7ae2-4438-99db-5b1c3583a1fb",
+            "clue": "What nodding your head implies",
+            "answer": "yes",
+            "normalized": "yes"
           },
           {
-            "id": "931f340a-9f86-4ce1-a193-60111bb215e2",
-            "clue": "Another common name for a palanquin",
-            "answer": "palki",
-            "normalized": "palki"
+            "id": "12ac5d0c-69fa-4f0f-9ffa-9514b8fd4117",
+            "clue": "Islamic name for Moses",
+            "answer": "musa",
+            "normalized": "musa"
           },
           {
-            "id": "da4b37b2-0f7e-4b56-ab83-1a03a7367946",
-            "clue": "Part hippo, croc and lion in Egyptian mythology",
-            "answer": "ammit",
-            "normalized": "ammit"
+            "id": "ad302f3c-bdaa-4d57-9b9c-495605d4afba",
+            "clue": "Prefix meaning extremely",
+            "answer": "ultra",
+            "normalized": "ultra"
           },
           {
-            "id": "f0391544-653f-4d95-82df-a73a6d1f9873",
-            "clue": "Used money to make purchases",
-            "answer": "spent",
-            "normalized": "spent"
+            "id": "09bc2517-6b7a-49f9-9ad3-04624e3a35a4",
+            "clue": "Zomato's biggest rival in India",
+            "answer": "swiggy",
+            "normalized": "swiggy"
           },
           {
-            "id": "2861f19f-4d4a-46db-b39a-2ba45b52a696",
-            "clue": "Gru's oldest adopted daughter in Despicable Me",
-            "answer": "margo",
-            "normalized": "margo"
+            "id": "4619aea7-31c0-4168-bfcd-602e69ce9c4c",
+            "clue": "Protected position earned from service length",
+            "answer": "tenure",
+            "normalized": "tenure"
+          },
+          {
+            "id": "64528f12-e7b4-473b-aec3-bf5ee8585535",
+            "clue": "Selection of aromatic hot drinks",
+            "answer": "teas",
+            "normalized": "teas"
           }
         ],
-        "track": "PC|LenCinY2026M11D7F0V000"
+        "track": "PC|LenCinY2026M11D8F0V000"
       },
       "mid": {
-        "puzzleId": "68adbc01-2bfa-4f9a-b707-0d663d8dbf4e",
+        "puzzleId": "2168581d-1df5-4ae7-b878-97826522810b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "490118e5-4890-4972-96f2-9de9e778d15f",
-            "clue": "Creates or constructs",
-            "answer": "builds",
-            "normalized": "builds"
+            "id": "e13a0366-3d66-4133-9613-e6e2b97b97f3",
+            "clue": "Steps leading to the Yamuna for prayers",
+            "answer": "ghat",
+            "normalized": "ghat"
           },
           {
-            "id": "f627fb33-ab84-4efc-b3f7-3f5a220a8a04",
-            "clue": "Capital of Turkey",
-            "answer": "ankara",
-            "normalized": "ankara"
+            "id": "235e5925-8a99-47ec-9cc5-66dbc7f00785",
+            "clue": "Box with moisture for cigars",
+            "answer": "humidor",
+            "normalized": "humidor"
           },
           {
-            "id": "95272236-9d82-4322-aa1d-15845f9af63d",
-            "clue": "Having many sides or aspects",
-            "answer": "faceted",
-            "normalized": "faceted"
+            "id": "a0beb641-7bb0-4e2f-93aa-e548a4eca1a3",
+            "clue": "Provocative fifth studio album for Madonna",
+            "answer": "erotica",
+            "normalized": "erotica"
           },
           {
-            "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-            "clue": "Short for English as a second language",
-            "answer": "esl",
-            "normalized": "esl"
+            "id": "4b931dd4-3fa2-41cb-b3b8-8e721c093dc2",
+            "clue": "Video tape recorder, in short",
+            "answer": "vtr",
+            "normalized": "vtr"
           },
           {
-            "id": "51dc85ba-606b-44af-be6e-6a610fabc318",
-            "clue": "US travel authority that checks bags",
-            "answer": "tsa",
-            "normalized": "tsa"
+            "id": "ae6fa39c-fa30-4878-8baf-09c8a4a106b4",
+            "clue": "Three-letter alpha code for Guatemala",
+            "answer": "gtm",
+            "normalized": "gtm"
           },
           {
-            "id": "b70e31a0-51f9-4c87-b743-6769e8477c69",
-            "clue": "2007 movie about especially scary fog",
-            "answer": "the mist",
-            "normalized": "themist"
+            "id": "a9559880-6ddd-4c82-b216-f1d5d9ba95f8",
+            "clue": "Alloy of mercury used in dental fillings",
+            "answer": "amalgam",
+            "normalized": "amalgam"
           },
           {
-            "id": "0ce0b551-2752-4dc5-941d-399830b2ad85",
-            "clue": "Likelihood, the possibility of something happening",
-            "answer": "chance",
-            "normalized": "chance"
+            "id": "7d4f7622-1e23-4f87-a742-7d3c295c6e8a",
+            "clue": "Remove strain, take over to allow someone to rest",
+            "answer": "relieve",
+            "normalized": "relieve"
           },
           {
-            "id": "967dd8da-5f57-462e-bfdf-18471f5e5a0e",
-            "clue": "__ Man, tarot card also known as the traitor",
-            "answer": "hanged",
-            "normalized": "hanged"
+            "id": "85ffa591-2256-495a-b4b7-c7c4daf32a39",
+            "clue": "Reared animals for particular qualities",
+            "answer": "bred",
+            "normalized": "bred"
           },
           {
-            "id": "2c7c3f89-2e36-47e5-ad1e-79b90e001b69",
-            "clue": "Rajinikanth's iconic gangster film",
-            "answer": "baashha",
-            "normalized": "baashha"
+            "id": "e80fffc4-2213-41bb-9fb4-becde47a84db",
+            "clue": "Special sweet dish made for Hariyali Teej",
+            "answer": "ghevar",
+            "normalized": "ghevar"
           },
           {
-            "id": "c4a11875-439a-4ac5-82c3-89bf333d5442",
-            "clue": "A demon is an __ spirit",
-            "answer": "unclean",
-            "normalized": "unclean"
+            "id": "22a94786-d19c-4038-bf4b-5d0f78045686",
+            "clue": "Guetta, Leray and Anne-Marie song, Baby Don't __",
+            "answer": "hurt me",
+            "normalized": "hurtme"
           },
           {
-            "id": "0cc5955f-a85e-4911-9039-56f52c23e446",
-            "clue": "Nickname for US president Dwight Eisenhower",
-            "answer": "ike",
-            "normalized": "ike"
+            "id": "3be4e5a6-18ff-401e-995f-c8b7c7c404b4",
+            "clue": "Unconcerned by whether something is right or wrong",
+            "answer": "amoral",
+            "normalized": "amoral"
           },
           {
-            "id": "b6f7cccd-a1d7-43fc-a24a-0d4617c398c1",
-            "clue": "Criss-cross framework of interlaced strips",
-            "answer": "lattice",
-            "normalized": "lattice"
+            "id": "47092a94-fa73-4530-84d2-f1f421002878",
+            "clue": "Small bird, can be blue, great or a chickadee",
+            "answer": "tit",
+            "normalized": "tit"
           },
           {
-            "id": "daad886e-c37b-4519-ad0e-6838536438e6",
-            "clue": "Having put clothes on, one is __",
-            "answer": "dressed",
-            "normalized": "dressed"
+            "id": "8d21c685-4fd4-4b46-b734-9bdd082ada96",
+            "clue": "Gold __, someone who has their eyes on a fortune",
+            "answer": "digger",
+            "normalized": "digger"
           },
           {
-            "id": "111f3fbe-e201-47b2-9cc3-c318c6f6a2c7",
-            "clue": "Egyptian president who won 1978 Nobel Peace Prize",
-            "answer": "sadat",
-            "normalized": "sadat"
+            "id": "c73e206a-208d-41ae-9ff5-03b12cb8f74e",
+            "clue": "Group of eight musical tones increasing in pitch",
+            "answer": "octave",
+            "normalized": "octave"
           },
           {
-            "id": "ea60cbe7-029d-4b17-9eb3-2c88f822e936",
-            "clue": "Game played with a dog and a ball",
-            "answer": "fetch",
-            "normalized": "fetch"
+            "id": "03bd9b8f-0d11-4cc2-9df9-56401296582c",
+            "clue": "Butted against, like a male sheep",
+            "answer": "rammed",
+            "normalized": "rammed"
           },
           {
-            "id": "346e3b42-5543-47a0-8b55-6327e0fc1d5d",
-            "clue": "Three-letter alpha code for Mongolia",
-            "answer": "mng",
-            "normalized": "mng"
+            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
+            "clue": "Word that follows ad to mean an improv",
+            "answer": "lib",
+            "normalized": "lib"
           }
         ],
-        "track": "PC|LenCinY2026M11D7F1V000"
+        "track": "PC|LenCinY2026M11D8F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-07",
+      "key": "2026-11-08",
       "year": 2026,
       "month": 11,
-      "day": 7,
+      "day": 8,
       "small": {
-        "puzzleId": "4a784f89-0644-41a3-bd10-61e6d483cfe4",
+        "puzzleId": "203206ad-0a64-4cb7-9404-494813f03bb5",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "000c5a1f-7eb2-4210-bb77-e6c7faa9022f",
-            "clue": "Convulsion, twitch",
-            "answer": "spasm",
-            "normalized": "spasm"
+            "id": "04d01c1c-3455-4ba4-a18b-27e81b12358b",
+            "clue": "Have to",
+            "answer": "must",
+            "normalized": "must"
           },
           {
-            "id": "6eeb45cd-cf2a-40fe-b23a-5daa9f1247b2",
-            "clue": "Ancient name for the Tungabhadra River",
-            "answer": "pampa",
-            "normalized": "pampa"
+            "id": "34e36629-8a77-4eb7-a8bb-cd3d6c6dddba",
+            "clue": "Upcoming international airport site in Navi Mumbai",
+            "answer": "ulwe",
+            "normalized": "ulwe"
           },
           {
-            "id": "b3c02ff0-81e7-4adf-a18e-86c0902593ce",
-            "clue": "Patchwork elephant in David McKee kids' books",
-            "answer": "elmer",
-            "normalized": "elmer"
+            "id": "e87882d4-44c9-4924-b710-165f8e372f27",
+            "clue": "One's fixed period of work",
+            "answer": "stint",
+            "normalized": "stint"
           },
           {
-            "id": "71f8b1db-eb4d-493f-8bd4-18665b4e8bb4",
-            "clue": "__ out, making rations last longer",
-            "answer": "eking",
-            "normalized": "eking"
+            "id": "16f75760-b614-440f-a2f7-b5e462aee075",
+            "clue": "What people in a debate do",
+            "answer": "argue",
+            "normalized": "argue"
           },
           {
-            "id": "49a567ac-684e-4711-81d8-2b256185db70",
-            "clue": "Purple blob-shaped Pokémon",
-            "answer": "ditto",
-            "normalized": "ditto"
+            "id": "b906f874-d2ae-4e98-ae05-e8c14f932c89",
+            "clue": "City connected by the Yamuna Expressway",
+            "answer": "agra",
+            "normalized": "agra"
           },
           {
-            "id": "a96b01c7-0ead-410d-902e-0cca89327f74",
-            "clue": "Yubi Lakpi is a test of strength and ____",
-            "answer": "speed",
-            "normalized": "speed"
+            "id": "d2496c12-7ae2-4438-99db-5b1c3583a1fb",
+            "clue": "What nodding your head implies",
+            "answer": "yes",
+            "normalized": "yes"
           },
           {
-            "id": "931f340a-9f86-4ce1-a193-60111bb215e2",
-            "clue": "Another common name for a palanquin",
-            "answer": "palki",
-            "normalized": "palki"
+            "id": "12ac5d0c-69fa-4f0f-9ffa-9514b8fd4117",
+            "clue": "Islamic name for Moses",
+            "answer": "musa",
+            "normalized": "musa"
           },
           {
-            "id": "da4b37b2-0f7e-4b56-ab83-1a03a7367946",
-            "clue": "Part hippo, croc and lion in Egyptian mythology",
-            "answer": "ammit",
-            "normalized": "ammit"
+            "id": "ad302f3c-bdaa-4d57-9b9c-495605d4afba",
+            "clue": "Prefix meaning extremely",
+            "answer": "ultra",
+            "normalized": "ultra"
           },
           {
-            "id": "f0391544-653f-4d95-82df-a73a6d1f9873",
-            "clue": "Used money to make purchases",
-            "answer": "spent",
-            "normalized": "spent"
+            "id": "09bc2517-6b7a-49f9-9ad3-04624e3a35a4",
+            "clue": "Zomato's biggest rival in India",
+            "answer": "swiggy",
+            "normalized": "swiggy"
           },
           {
-            "id": "2861f19f-4d4a-46db-b39a-2ba45b52a696",
-            "clue": "Gru's oldest adopted daughter in Despicable Me",
-            "answer": "margo",
-            "normalized": "margo"
+            "id": "4619aea7-31c0-4168-bfcd-602e69ce9c4c",
+            "clue": "Protected position earned from service length",
+            "answer": "tenure",
+            "normalized": "tenure"
+          },
+          {
+            "id": "64528f12-e7b4-473b-aec3-bf5ee8585535",
+            "clue": "Selection of aromatic hot drinks",
+            "answer": "teas",
+            "normalized": "teas"
           }
         ],
-        "track": "PC|LenCinY2026M11D7F0V000"
+        "track": "PC|LenCinY2026M11D8F0V000"
       },
       "mid": {
-        "puzzleId": "68adbc01-2bfa-4f9a-b707-0d663d8dbf4e",
+        "puzzleId": "2168581d-1df5-4ae7-b878-97826522810b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "490118e5-4890-4972-96f2-9de9e778d15f",
-            "clue": "Creates or constructs",
-            "answer": "builds",
-            "normalized": "builds"
+            "id": "e13a0366-3d66-4133-9613-e6e2b97b97f3",
+            "clue": "Steps leading to the Yamuna for prayers",
+            "answer": "ghat",
+            "normalized": "ghat"
           },
           {
-            "id": "f627fb33-ab84-4efc-b3f7-3f5a220a8a04",
-            "clue": "Capital of Turkey",
-            "answer": "ankara",
-            "normalized": "ankara"
+            "id": "235e5925-8a99-47ec-9cc5-66dbc7f00785",
+            "clue": "Box with moisture for cigars",
+            "answer": "humidor",
+            "normalized": "humidor"
           },
           {
-            "id": "95272236-9d82-4322-aa1d-15845f9af63d",
-            "clue": "Having many sides or aspects",
-            "answer": "faceted",
-            "normalized": "faceted"
+            "id": "a0beb641-7bb0-4e2f-93aa-e548a4eca1a3",
+            "clue": "Provocative fifth studio album for Madonna",
+            "answer": "erotica",
+            "normalized": "erotica"
           },
           {
-            "id": "0238f314-0fc7-45fc-a1a9-4469ab8e16b3",
-            "clue": "Short for English as a second language",
-            "answer": "esl",
-            "normalized": "esl"
+            "id": "4b931dd4-3fa2-41cb-b3b8-8e721c093dc2",
+            "clue": "Video tape recorder, in short",
+            "answer": "vtr",
+            "normalized": "vtr"
           },
           {
-            "id": "51dc85ba-606b-44af-be6e-6a610fabc318",
-            "clue": "US travel authority that checks bags",
-            "answer": "tsa",
-            "normalized": "tsa"
+            "id": "ae6fa39c-fa30-4878-8baf-09c8a4a106b4",
+            "clue": "Three-letter alpha code for Guatemala",
+            "answer": "gtm",
+            "normalized": "gtm"
           },
           {
-            "id": "b70e31a0-51f9-4c87-b743-6769e8477c69",
-            "clue": "2007 movie about especially scary fog",
-            "answer": "the mist",
-            "normalized": "themist"
+            "id": "a9559880-6ddd-4c82-b216-f1d5d9ba95f8",
+            "clue": "Alloy of mercury used in dental fillings",
+            "answer": "amalgam",
+            "normalized": "amalgam"
           },
           {
-            "id": "0ce0b551-2752-4dc5-941d-399830b2ad85",
-            "clue": "Likelihood, the possibility of something happening",
-            "answer": "chance",
-            "normalized": "chance"
+            "id": "7d4f7622-1e23-4f87-a742-7d3c295c6e8a",
+            "clue": "Remove strain, take over to allow someone to rest",
+            "answer": "relieve",
+            "normalized": "relieve"
           },
           {
-            "id": "967dd8da-5f57-462e-bfdf-18471f5e5a0e",
-            "clue": "__ Man, tarot card also known as the traitor",
-            "answer": "hanged",
-            "normalized": "hanged"
+            "id": "85ffa591-2256-495a-b4b7-c7c4daf32a39",
+            "clue": "Reared animals for particular qualities",
+            "answer": "bred",
+            "normalized": "bred"
           },
           {
-            "id": "2c7c3f89-2e36-47e5-ad1e-79b90e001b69",
-            "clue": "Rajinikanth's iconic gangster film",
-            "answer": "baashha",
-            "normalized": "baashha"
+            "id": "e80fffc4-2213-41bb-9fb4-becde47a84db",
+            "clue": "Special sweet dish made for Hariyali Teej",
+            "answer": "ghevar",
+            "normalized": "ghevar"
           },
           {
-            "id": "c4a11875-439a-4ac5-82c3-89bf333d5442",
-            "clue": "A demon is an __ spirit",
-            "answer": "unclean",
-            "normalized": "unclean"
+            "id": "22a94786-d19c-4038-bf4b-5d0f78045686",
+            "clue": "Guetta, Leray and Anne-Marie song, Baby Don't __",
+            "answer": "hurt me",
+            "normalized": "hurtme"
           },
           {
-            "id": "0cc5955f-a85e-4911-9039-56f52c23e446",
-            "clue": "Nickname for US president Dwight Eisenhower",
-            "answer": "ike",
-            "normalized": "ike"
+            "id": "3be4e5a6-18ff-401e-995f-c8b7c7c404b4",
+            "clue": "Unconcerned by whether something is right or wrong",
+            "answer": "amoral",
+            "normalized": "amoral"
           },
           {
-            "id": "b6f7cccd-a1d7-43fc-a24a-0d4617c398c1",
-            "clue": "Criss-cross framework of interlaced strips",
-            "answer": "lattice",
-            "normalized": "lattice"
+            "id": "47092a94-fa73-4530-84d2-f1f421002878",
+            "clue": "Small bird, can be blue, great or a chickadee",
+            "answer": "tit",
+            "normalized": "tit"
           },
           {
-            "id": "daad886e-c37b-4519-ad0e-6838536438e6",
-            "clue": "Having put clothes on, one is __",
-            "answer": "dressed",
-            "normalized": "dressed"
+            "id": "8d21c685-4fd4-4b46-b734-9bdd082ada96",
+            "clue": "Gold __, someone who has their eyes on a fortune",
+            "answer": "digger",
+            "normalized": "digger"
           },
           {
-            "id": "111f3fbe-e201-47b2-9cc3-c318c6f6a2c7",
-            "clue": "Egyptian president who won 1978 Nobel Peace Prize",
-            "answer": "sadat",
-            "normalized": "sadat"
+            "id": "c73e206a-208d-41ae-9ff5-03b12cb8f74e",
+            "clue": "Group of eight musical tones increasing in pitch",
+            "answer": "octave",
+            "normalized": "octave"
           },
           {
-            "id": "ea60cbe7-029d-4b17-9eb3-2c88f822e936",
-            "clue": "Game played with a dog and a ball",
-            "answer": "fetch",
-            "normalized": "fetch"
+            "id": "03bd9b8f-0d11-4cc2-9df9-56401296582c",
+            "clue": "Butted against, like a male sheep",
+            "answer": "rammed",
+            "normalized": "rammed"
           },
           {
-            "id": "346e3b42-5543-47a0-8b55-6327e0fc1d5d",
-            "clue": "Three-letter alpha code for Mongolia",
-            "answer": "mng",
-            "normalized": "mng"
+            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
+            "clue": "Word that follows ad to mean an improv",
+            "answer": "lib",
+            "normalized": "lib"
           }
         ],
-        "track": "PC|LenCinY2026M11D7F1V000"
+        "track": "PC|LenCinY2026M11D8F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388956,21 +388968,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "dnAxpOlpkv2INgJEM+N6WoW4P12pnlK4mYYjzNQZ8VGckQs+e2TQvZuNF+PkzcGlgkrBPZ36Vk91lwxPFh82Rdzsb86UIYd5zkbQPwzPSoBi1DFQu/EspxHHZDW0zN1GvGPNdpbpgiJREp8uof1FT8LF4YkmFE3/WQK5ApLzA+lrVELEJPvSq01C0zLKgMhpd8ElQfsF+Jjs4gGk36cxXnd2lOj5RiQiddTDPCmqmq7QRT3QL26NHAFpN1XVoULz4zmodnt2dSpbeOGueSwUXFxMK9uWD3BBDR6KrE7/mY4="
+        "oJR3XeMBevQI3kqOblled7hS53/GPtF4oP2SOfYx9uyR+L4JpqNcAl7pzYxlRKtTClXuYllUjf/4AQPXs/kf7twpilE4sF2V6WcQnuucXXk0f5VhiFGBqzfpezfi+IzcqNIQibnTBv602ldIYEgqG8MsF4aD1CZCRwvx0hGnci4YJwJT4M6aXMPskI6RpIUXfPS1641vRpAv1xxExkJNSlZfrxCn757s+JCZRo8Hz6JZf9ioXr5hy6yytvK9ZcN5ipeyek40AaHmJtTRIA/Vu1X4aJhMYUWTsoIK1XdIrao="
       ]
     },
     "decrypted": {
-      "Id": "395430cd-db0c-4048-ab85-0e51f7e1ecc1",
-      "Date": "2026-11-07T00:00:00Z",
+      "Id": "f44c6eeb-d6ce-4142-978a-72b3060a5c81",
+      "Date": "2026-11-08T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "error",
-      "NormalizedPassword": "error",
+      "Password": "range",
+      "NormalizedPassword": "range",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-07T04:50:14.2840000+05:30",
-    "hash": "d1f2d963817b5f6a9df54599b627b64a",
+    "dtu": "2026-11-08T03:37:08.6880000+05:30",
+    "hash": "e6232fd68334095a8860253383cbe70b",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
