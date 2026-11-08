@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T22:07:08.688Z",
+  "generatedAt": "2026-11-08T22:18:01.717Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 8
+    "day": 9
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 12
+        "QuantidadeDeFases": 14
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -388408,379 +388408,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-08",
+      "key": "2026-11-09",
       "year": 2026,
       "month": 11,
-      "day": 8,
+      "day": 9,
       "small": {
-        "puzzleId": "203206ad-0a64-4cb7-9404-494813f03bb5",
+        "puzzleId": "7f43edf8-f846-49fd-863f-6f548d45cc73",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "04d01c1c-3455-4ba4-a18b-27e81b12358b",
-            "clue": "Have to",
-            "answer": "must",
-            "normalized": "must"
+            "id": "1a53e7dc-632d-48e3-8c24-160b11c65a8e",
+            "clue": "Little bags of liquid on the bodies of animals",
+            "answer": "sacs",
+            "normalized": "sacs"
           },
           {
-            "id": "34e36629-8a77-4eb7-a8bb-cd3d6c6dddba",
-            "clue": "Upcoming international airport site in Navi Mumbai",
-            "answer": "ulwe",
-            "normalized": "ulwe"
+            "id": "4e4b83a2-306f-4cce-984f-f29c6c8f90a7",
+            "clue": "Anushka Sharma's role as a friendly ghost",
+            "answer": "shashi",
+            "normalized": "shashi"
           },
           {
-            "id": "e87882d4-44c9-4924-b710-165f8e372f27",
-            "clue": "One's fixed period of work",
-            "answer": "stint",
-            "normalized": "stint"
+            "id": "ef25c1fa-f7d0-49c0-acac-2e07a737fdc1",
+            "clue": "Seven small bones in the foot",
+            "answer": "tarsal",
+            "normalized": "tarsal"
           },
           {
-            "id": "16f75760-b614-440f-a2f7-b5e462aee075",
-            "clue": "What people in a debate do",
-            "answer": "argue",
-            "normalized": "argue"
+            "id": "4fa41b36-ea21-4d39-bdee-b831129fdbb4",
+            "clue": "__ Gandhi, female Indian prime minister",
+            "answer": "indira",
+            "normalized": "indira"
           },
           {
-            "id": "b906f874-d2ae-4e98-ae05-e8c14f932c89",
-            "clue": "City connected by the Yamuna Expressway",
-            "answer": "agra",
-            "normalized": "agra"
+            "id": "281c8d31-0b41-4569-8ed0-5dc217f4a106",
+            "clue": "Cooks in an oven",
+            "answer": "roasts",
+            "normalized": "roasts"
           },
           {
-            "id": "d2496c12-7ae2-4438-99db-5b1c3583a1fb",
-            "clue": "What nodding your head implies",
-            "answer": "yes",
-            "normalized": "yes"
+            "id": "899904b6-cd03-463b-ae9f-f738c601dd0a",
+            "clue": "iPhone's virtual assistant",
+            "answer": "siri",
+            "normalized": "siri"
           },
           {
-            "id": "12ac5d0c-69fa-4f0f-9ffa-9514b8fd4117",
-            "clue": "Islamic name for Moses",
-            "answer": "musa",
-            "normalized": "musa"
+            "id": "53b15a9b-a9f6-44da-b290-319cb33db56a",
+            "clue": "Title given to Vallabhbhai Patel",
+            "answer": "sardar",
+            "normalized": "sardar"
           },
           {
-            "id": "ad302f3c-bdaa-4d57-9b9c-495605d4afba",
-            "clue": "Prefix meaning extremely",
-            "answer": "ultra",
-            "normalized": "ultra"
+            "id": "3beae498-3004-4363-a813-5f415b2e1f07",
+            "clue": "St. Francis of __, saint of animals",
+            "answer": "assisi",
+            "normalized": "assisi"
           },
           {
-            "id": "09bc2517-6b7a-49f9-9ad3-04624e3a35a4",
-            "clue": "Zomato's biggest rival in India",
-            "answer": "swiggy",
-            "normalized": "swiggy"
+            "id": "c0081b30-c871-4fde-99a1-928bd677c93a",
+            "clue": "Record progress of a thing or person",
+            "answer": "chart",
+            "normalized": "chart"
           },
           {
-            "id": "4619aea7-31c0-4168-bfcd-602e69ce9c4c",
-            "clue": "Protected position earned from service length",
-            "answer": "tenure",
-            "normalized": "tenure"
+            "id": "ed65df31-59a3-47b3-a486-4dd835eef0bc",
+            "clue": "Albino Opus Dei follower in The Da Vinci Code",
+            "answer": "silas",
+            "normalized": "silas"
           },
           {
-            "id": "64528f12-e7b4-473b-aec3-bf5ee8585535",
-            "clue": "Selection of aromatic hot drinks",
-            "answer": "teas",
-            "normalized": "teas"
+            "id": "ce21c176-ef14-4352-b14a-54fe7f88a2cb",
+            "clue": "Mixes by swishing a spoon around",
+            "answer": "stirs",
+            "normalized": "stirs"
+          },
+          {
+            "id": "96439be8-0646-47b5-91dd-a8b37b38a284",
+            "clue": "Capital of Vietnam",
+            "answer": "hanoi",
+            "normalized": "hanoi"
           }
         ],
-        "track": "PC|LenCinY2026M11D8F0V000"
+        "track": "PC|LenCinY2026M11D9F0V000"
       },
       "mid": {
-        "puzzleId": "2168581d-1df5-4ae7-b878-97826522810b",
+        "puzzleId": "471c9379-6451-4e6d-9fdf-d0cfd2ef2779",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e13a0366-3d66-4133-9613-e6e2b97b97f3",
-            "clue": "Steps leading to the Yamuna for prayers",
-            "answer": "ghat",
-            "normalized": "ghat"
+            "id": "4681756d-0eae-42ce-8fa2-eadb5e6ef404",
+            "clue": "Sounds a rusty gate makes",
+            "answer": "creaks",
+            "normalized": "creaks"
           },
           {
-            "id": "235e5925-8a99-47ec-9cc5-66dbc7f00785",
-            "clue": "Box with moisture for cigars",
-            "answer": "humidor",
-            "normalized": "humidor"
+            "id": "468b6ddf-7e3d-46a4-8014-7c7621ba7861",
+            "clue": "Amend the sound of a guitar; anagram of neuter",
+            "answer": "retune",
+            "normalized": "retune"
           },
           {
-            "id": "a0beb641-7bb0-4e2f-93aa-e548a4eca1a3",
-            "clue": "Provocative fifth studio album for Madonna",
-            "answer": "erotica",
-            "normalized": "erotica"
+            "id": "73eb76f7-e27e-407f-8f8b-84395ec5812b",
+            "clue": "Eggs of sea creatures such as salmon",
+            "answer": "fish roe",
+            "normalized": "fishroe"
           },
           {
-            "id": "4b931dd4-3fa2-41cb-b3b8-8e721c093dc2",
-            "clue": "Video tape recorder, in short",
-            "answer": "vtr",
-            "normalized": "vtr"
+            "id": "9d652f11-63ae-4885-a5ec-317e6964c146",
+            "clue": "Abbreviation of India’s central bank",
+            "answer": "rbi",
+            "normalized": "rbi"
           },
           {
-            "id": "ae6fa39c-fa30-4878-8baf-09c8a4a106b4",
-            "clue": "Three-letter alpha code for Guatemala",
-            "answer": "gtm",
-            "normalized": "gtm"
+            "id": "f11aecd7-0abd-4b76-8521-07a377f5ec9d",
+            "clue": "Information technology division, initialism",
+            "answer": "itd",
+            "normalized": "itd"
           },
           {
-            "id": "a9559880-6ddd-4c82-b216-f1d5d9ba95f8",
-            "clue": "Alloy of mercury used in dental fillings",
-            "answer": "amalgam",
-            "normalized": "amalgam"
+            "id": "9193e4c2-cd97-4401-b2b9-0546d9d01ece",
+            "clue": "Kidnaps a person",
+            "answer": "abducts",
+            "normalized": "abducts"
           },
           {
-            "id": "7d4f7622-1e23-4f87-a742-7d3c295c6e8a",
-            "clue": "Remove strain, take over to allow someone to rest",
-            "answer": "relieve",
-            "normalized": "relieve"
+            "id": "d888628a-3591-432f-9c08-7ae60e9f9c62",
+            "clue": "A board game piece shaped like a human",
+            "answer": "meeple",
+            "normalized": "meeple"
           },
           {
-            "id": "85ffa591-2256-495a-b4b7-c7c4daf32a39",
-            "clue": "Reared animals for particular qualities",
-            "answer": "bred",
-            "normalized": "bred"
+            "id": "aecf972b-a243-4642-a689-53b36a5b9aa3",
+            "clue": "Moved in a circular way like water",
+            "answer": "eddied",
+            "normalized": "eddied"
           },
           {
-            "id": "e80fffc4-2213-41bb-9fb4-becde47a84db",
-            "clue": "Special sweet dish made for Hariyali Teej",
-            "answer": "ghevar",
-            "normalized": "ghevar"
+            "id": "569c8394-51a0-4af7-95ea-ca6c388f6698",
+            "clue": "Copied someone's work for a test",
+            "answer": "cribbed",
+            "normalized": "cribbed"
           },
           {
-            "id": "22a94786-d19c-4038-bf4b-5d0f78045686",
-            "clue": "Guetta, Leray and Anne-Marie song, Baby Don't __",
-            "answer": "hurt me",
-            "normalized": "hurtme"
+            "id": "ad89e538-c87c-487f-9e4a-e7fb065f45a5",
+            "clue": "Lived, inhabited",
+            "answer": "resided",
+            "normalized": "resided"
           },
           {
-            "id": "3be4e5a6-18ff-401e-995f-c8b7c7c404b4",
-            "clue": "Unconcerned by whether something is right or wrong",
-            "answer": "amoral",
-            "normalized": "amoral"
+            "id": "ae61b9bd-e5dd-4194-a139-d0f76bc31d8b",
+            "clue": "Old English letter for \"th\"",
+            "answer": "eth",
+            "normalized": "eth"
           },
           {
-            "id": "47092a94-fa73-4530-84d2-f1f421002878",
-            "clue": "Small bird, can be blue, great or a chickadee",
-            "answer": "tit",
-            "normalized": "tit"
+            "id": "5f260a7a-70d5-4f5a-b391-fd625a14acd4",
+            "clue": "Part of the heart that sticks out from the atrium",
+            "answer": "auricle",
+            "normalized": "auricle"
           },
           {
-            "id": "8d21c685-4fd4-4b46-b734-9bdd082ada96",
-            "clue": "Gold __, someone who has their eyes on a fortune",
-            "answer": "digger",
-            "normalized": "digger"
+            "id": "0e17e3d2-ec9b-4f24-947e-53f02cb0c904",
+            "clue": "Tied or tangled together messily",
+            "answer": "knotted",
+            "normalized": "knotted"
           },
           {
-            "id": "c73e206a-208d-41ae-9ff5-03b12cb8f74e",
-            "clue": "Group of eight musical tones increasing in pitch",
-            "answer": "octave",
-            "normalized": "octave"
+            "id": "40cf032d-a98b-4d31-a525-00b8c229e463",
+            "clue": "Farmers plant these to grow veggies",
+            "answer": "seeds",
+            "normalized": "seeds"
           },
           {
-            "id": "03bd9b8f-0d11-4cc2-9df9-56401296582c",
-            "clue": "Butted against, like a male sheep",
-            "answer": "rammed",
-            "normalized": "rammed"
+            "id": "53da21c6-9fc6-467c-848f-e33f142f7fee",
+            "clue": "Protective mount for photos on display",
+            "answer": "frame",
+            "normalized": "frame"
           },
           {
-            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
-            "clue": "Word that follows ad to mean an improv",
-            "answer": "lib",
-            "normalized": "lib"
+            "id": "deba1fd9-d750-4af8-8dd8-52fe518ef5c9",
+            "clue": "Payment system used by Paytm and others",
+            "answer": "upi",
+            "normalized": "upi"
           }
         ],
-        "track": "PC|LenCinY2026M11D8F1V000"
+        "track": "PC|LenCinY2026M11D9F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-08",
+      "key": "2026-11-09",
       "year": 2026,
       "month": 11,
-      "day": 8,
+      "day": 9,
       "small": {
-        "puzzleId": "203206ad-0a64-4cb7-9404-494813f03bb5",
+        "puzzleId": "7f43edf8-f846-49fd-863f-6f548d45cc73",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "04d01c1c-3455-4ba4-a18b-27e81b12358b",
-            "clue": "Have to",
-            "answer": "must",
-            "normalized": "must"
+            "id": "1a53e7dc-632d-48e3-8c24-160b11c65a8e",
+            "clue": "Little bags of liquid on the bodies of animals",
+            "answer": "sacs",
+            "normalized": "sacs"
           },
           {
-            "id": "34e36629-8a77-4eb7-a8bb-cd3d6c6dddba",
-            "clue": "Upcoming international airport site in Navi Mumbai",
-            "answer": "ulwe",
-            "normalized": "ulwe"
+            "id": "4e4b83a2-306f-4cce-984f-f29c6c8f90a7",
+            "clue": "Anushka Sharma's role as a friendly ghost",
+            "answer": "shashi",
+            "normalized": "shashi"
           },
           {
-            "id": "e87882d4-44c9-4924-b710-165f8e372f27",
-            "clue": "One's fixed period of work",
-            "answer": "stint",
-            "normalized": "stint"
+            "id": "ef25c1fa-f7d0-49c0-acac-2e07a737fdc1",
+            "clue": "Seven small bones in the foot",
+            "answer": "tarsal",
+            "normalized": "tarsal"
           },
           {
-            "id": "16f75760-b614-440f-a2f7-b5e462aee075",
-            "clue": "What people in a debate do",
-            "answer": "argue",
-            "normalized": "argue"
+            "id": "4fa41b36-ea21-4d39-bdee-b831129fdbb4",
+            "clue": "__ Gandhi, female Indian prime minister",
+            "answer": "indira",
+            "normalized": "indira"
           },
           {
-            "id": "b906f874-d2ae-4e98-ae05-e8c14f932c89",
-            "clue": "City connected by the Yamuna Expressway",
-            "answer": "agra",
-            "normalized": "agra"
+            "id": "281c8d31-0b41-4569-8ed0-5dc217f4a106",
+            "clue": "Cooks in an oven",
+            "answer": "roasts",
+            "normalized": "roasts"
           },
           {
-            "id": "d2496c12-7ae2-4438-99db-5b1c3583a1fb",
-            "clue": "What nodding your head implies",
-            "answer": "yes",
-            "normalized": "yes"
+            "id": "899904b6-cd03-463b-ae9f-f738c601dd0a",
+            "clue": "iPhone's virtual assistant",
+            "answer": "siri",
+            "normalized": "siri"
           },
           {
-            "id": "12ac5d0c-69fa-4f0f-9ffa-9514b8fd4117",
-            "clue": "Islamic name for Moses",
-            "answer": "musa",
-            "normalized": "musa"
+            "id": "53b15a9b-a9f6-44da-b290-319cb33db56a",
+            "clue": "Title given to Vallabhbhai Patel",
+            "answer": "sardar",
+            "normalized": "sardar"
           },
           {
-            "id": "ad302f3c-bdaa-4d57-9b9c-495605d4afba",
-            "clue": "Prefix meaning extremely",
-            "answer": "ultra",
-            "normalized": "ultra"
+            "id": "3beae498-3004-4363-a813-5f415b2e1f07",
+            "clue": "St. Francis of __, saint of animals",
+            "answer": "assisi",
+            "normalized": "assisi"
           },
           {
-            "id": "09bc2517-6b7a-49f9-9ad3-04624e3a35a4",
-            "clue": "Zomato's biggest rival in India",
-            "answer": "swiggy",
-            "normalized": "swiggy"
+            "id": "c0081b30-c871-4fde-99a1-928bd677c93a",
+            "clue": "Record progress of a thing or person",
+            "answer": "chart",
+            "normalized": "chart"
           },
           {
-            "id": "4619aea7-31c0-4168-bfcd-602e69ce9c4c",
-            "clue": "Protected position earned from service length",
-            "answer": "tenure",
-            "normalized": "tenure"
+            "id": "ed65df31-59a3-47b3-a486-4dd835eef0bc",
+            "clue": "Albino Opus Dei follower in The Da Vinci Code",
+            "answer": "silas",
+            "normalized": "silas"
           },
           {
-            "id": "64528f12-e7b4-473b-aec3-bf5ee8585535",
-            "clue": "Selection of aromatic hot drinks",
-            "answer": "teas",
-            "normalized": "teas"
+            "id": "ce21c176-ef14-4352-b14a-54fe7f88a2cb",
+            "clue": "Mixes by swishing a spoon around",
+            "answer": "stirs",
+            "normalized": "stirs"
+          },
+          {
+            "id": "96439be8-0646-47b5-91dd-a8b37b38a284",
+            "clue": "Capital of Vietnam",
+            "answer": "hanoi",
+            "normalized": "hanoi"
           }
         ],
-        "track": "PC|LenCinY2026M11D8F0V000"
+        "track": "PC|LenCinY2026M11D9F0V000"
       },
       "mid": {
-        "puzzleId": "2168581d-1df5-4ae7-b878-97826522810b",
+        "puzzleId": "471c9379-6451-4e6d-9fdf-d0cfd2ef2779",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "e13a0366-3d66-4133-9613-e6e2b97b97f3",
-            "clue": "Steps leading to the Yamuna for prayers",
-            "answer": "ghat",
-            "normalized": "ghat"
+            "id": "4681756d-0eae-42ce-8fa2-eadb5e6ef404",
+            "clue": "Sounds a rusty gate makes",
+            "answer": "creaks",
+            "normalized": "creaks"
           },
           {
-            "id": "235e5925-8a99-47ec-9cc5-66dbc7f00785",
-            "clue": "Box with moisture for cigars",
-            "answer": "humidor",
-            "normalized": "humidor"
+            "id": "468b6ddf-7e3d-46a4-8014-7c7621ba7861",
+            "clue": "Amend the sound of a guitar; anagram of neuter",
+            "answer": "retune",
+            "normalized": "retune"
           },
           {
-            "id": "a0beb641-7bb0-4e2f-93aa-e548a4eca1a3",
-            "clue": "Provocative fifth studio album for Madonna",
-            "answer": "erotica",
-            "normalized": "erotica"
+            "id": "73eb76f7-e27e-407f-8f8b-84395ec5812b",
+            "clue": "Eggs of sea creatures such as salmon",
+            "answer": "fish roe",
+            "normalized": "fishroe"
           },
           {
-            "id": "4b931dd4-3fa2-41cb-b3b8-8e721c093dc2",
-            "clue": "Video tape recorder, in short",
-            "answer": "vtr",
-            "normalized": "vtr"
+            "id": "9d652f11-63ae-4885-a5ec-317e6964c146",
+            "clue": "Abbreviation of India’s central bank",
+            "answer": "rbi",
+            "normalized": "rbi"
           },
           {
-            "id": "ae6fa39c-fa30-4878-8baf-09c8a4a106b4",
-            "clue": "Three-letter alpha code for Guatemala",
-            "answer": "gtm",
-            "normalized": "gtm"
+            "id": "f11aecd7-0abd-4b76-8521-07a377f5ec9d",
+            "clue": "Information technology division, initialism",
+            "answer": "itd",
+            "normalized": "itd"
           },
           {
-            "id": "a9559880-6ddd-4c82-b216-f1d5d9ba95f8",
-            "clue": "Alloy of mercury used in dental fillings",
-            "answer": "amalgam",
-            "normalized": "amalgam"
+            "id": "9193e4c2-cd97-4401-b2b9-0546d9d01ece",
+            "clue": "Kidnaps a person",
+            "answer": "abducts",
+            "normalized": "abducts"
           },
           {
-            "id": "7d4f7622-1e23-4f87-a742-7d3c295c6e8a",
-            "clue": "Remove strain, take over to allow someone to rest",
-            "answer": "relieve",
-            "normalized": "relieve"
+            "id": "d888628a-3591-432f-9c08-7ae60e9f9c62",
+            "clue": "A board game piece shaped like a human",
+            "answer": "meeple",
+            "normalized": "meeple"
           },
           {
-            "id": "85ffa591-2256-495a-b4b7-c7c4daf32a39",
-            "clue": "Reared animals for particular qualities",
-            "answer": "bred",
-            "normalized": "bred"
+            "id": "aecf972b-a243-4642-a689-53b36a5b9aa3",
+            "clue": "Moved in a circular way like water",
+            "answer": "eddied",
+            "normalized": "eddied"
           },
           {
-            "id": "e80fffc4-2213-41bb-9fb4-becde47a84db",
-            "clue": "Special sweet dish made for Hariyali Teej",
-            "answer": "ghevar",
-            "normalized": "ghevar"
+            "id": "569c8394-51a0-4af7-95ea-ca6c388f6698",
+            "clue": "Copied someone's work for a test",
+            "answer": "cribbed",
+            "normalized": "cribbed"
           },
           {
-            "id": "22a94786-d19c-4038-bf4b-5d0f78045686",
-            "clue": "Guetta, Leray and Anne-Marie song, Baby Don't __",
-            "answer": "hurt me",
-            "normalized": "hurtme"
+            "id": "ad89e538-c87c-487f-9e4a-e7fb065f45a5",
+            "clue": "Lived, inhabited",
+            "answer": "resided",
+            "normalized": "resided"
           },
           {
-            "id": "3be4e5a6-18ff-401e-995f-c8b7c7c404b4",
-            "clue": "Unconcerned by whether something is right or wrong",
-            "answer": "amoral",
-            "normalized": "amoral"
+            "id": "ae61b9bd-e5dd-4194-a139-d0f76bc31d8b",
+            "clue": "Old English letter for \"th\"",
+            "answer": "eth",
+            "normalized": "eth"
           },
           {
-            "id": "47092a94-fa73-4530-84d2-f1f421002878",
-            "clue": "Small bird, can be blue, great or a chickadee",
-            "answer": "tit",
-            "normalized": "tit"
+            "id": "5f260a7a-70d5-4f5a-b391-fd625a14acd4",
+            "clue": "Part of the heart that sticks out from the atrium",
+            "answer": "auricle",
+            "normalized": "auricle"
           },
           {
-            "id": "8d21c685-4fd4-4b46-b734-9bdd082ada96",
-            "clue": "Gold __, someone who has their eyes on a fortune",
-            "answer": "digger",
-            "normalized": "digger"
+            "id": "0e17e3d2-ec9b-4f24-947e-53f02cb0c904",
+            "clue": "Tied or tangled together messily",
+            "answer": "knotted",
+            "normalized": "knotted"
           },
           {
-            "id": "c73e206a-208d-41ae-9ff5-03b12cb8f74e",
-            "clue": "Group of eight musical tones increasing in pitch",
-            "answer": "octave",
-            "normalized": "octave"
+            "id": "40cf032d-a98b-4d31-a525-00b8c229e463",
+            "clue": "Farmers plant these to grow veggies",
+            "answer": "seeds",
+            "normalized": "seeds"
           },
           {
-            "id": "03bd9b8f-0d11-4cc2-9df9-56401296582c",
-            "clue": "Butted against, like a male sheep",
-            "answer": "rammed",
-            "normalized": "rammed"
+            "id": "53da21c6-9fc6-467c-848f-e33f142f7fee",
+            "clue": "Protective mount for photos on display",
+            "answer": "frame",
+            "normalized": "frame"
           },
           {
-            "id": "af99882a-142d-4701-b6ee-7ecbf1ff5b52",
-            "clue": "Word that follows ad to mean an improv",
-            "answer": "lib",
-            "normalized": "lib"
+            "id": "deba1fd9-d750-4af8-8dd8-52fe518ef5c9",
+            "clue": "Payment system used by Paytm and others",
+            "answer": "upi",
+            "normalized": "upi"
           }
         ],
-        "track": "PC|LenCinY2026M11D8F1V000"
+        "track": "PC|LenCinY2026M11D9F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388968,21 +388980,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "oJR3XeMBevQI3kqOblled7hS53/GPtF4oP2SOfYx9uyR+L4JpqNcAl7pzYxlRKtTClXuYllUjf/4AQPXs/kf7twpilE4sF2V6WcQnuucXXk0f5VhiFGBqzfpezfi+IzcqNIQibnTBv602ldIYEgqG8MsF4aD1CZCRwvx0hGnci4YJwJT4M6aXMPskI6RpIUXfPS1641vRpAv1xxExkJNSlZfrxCn757s+JCZRo8Hz6JZf9ioXr5hy6yytvK9ZcN5ipeyek40AaHmJtTRIA/Vu1X4aJhMYUWTsoIK1XdIrao="
+        "+zsEIW2+TlyN512xxwJO2MehPwwV7yvy8NuIaoMKQ8Dc5H8NY0E4hvbjtDhOw3/9Lv9fWOKt2aLjc8FCe+EV3XkVOloCNd4DQCOl8T1tCCd7eq5dB2gKiCyTlmlFoR/iM8l2r2A2MIhdFL6I3x7609dQjv3ZZMTuYF03P+hAzbUPDF18vD6R6u9EYXY3KZeU/GRK3buWptZoI1UNiI3rR+6A3KcW2fqTo+CqNfssTKkzcUtgLHeaLrUBebyGmE+WCZMMpQVMFS4wMj0emjXEJxNaxyJ+raRf3aO4BvCnS4E="
       ]
     },
     "decrypted": {
-      "Id": "f44c6eeb-d6ce-4142-978a-72b3060a5c81",
-      "Date": "2026-11-08T00:00:00Z",
+      "Id": "932c80c8-adde-4092-86c5-226ef796d1cf",
+      "Date": "2026-11-09T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "range",
-      "NormalizedPassword": "range",
+      "Password": "joint",
+      "NormalizedPassword": "joint",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-08T03:37:08.6880000+05:30",
-    "hash": "e6232fd68334095a8860253383cbe70b",
+    "dtu": "2026-11-09T03:48:01.7170000+05:30",
+    "hash": "38e053e777bd49cd2e3f282bf0ea2343",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
