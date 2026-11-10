@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T22:18:01.717Z",
+  "generatedAt": "2026-11-10T01:40:17.538Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 9
+    "day": 10
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 14
+        "QuantidadeDeFases": 18
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -388408,391 +388408,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-09",
+      "key": "2026-11-10",
       "year": 2026,
       "month": 11,
-      "day": 9,
+      "day": 10,
       "small": {
-        "puzzleId": "7f43edf8-f846-49fd-863f-6f548d45cc73",
+        "puzzleId": "0f0052c1-b018-434e-b3e2-a872ca5dddf9",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1a53e7dc-632d-48e3-8c24-160b11c65a8e",
-            "clue": "Little bags of liquid on the bodies of animals",
-            "answer": "sacs",
-            "normalized": "sacs"
+            "id": "23d157ff-62a7-4608-8de1-31fcf7ec7654",
+            "clue": "70s Swedish pop group who sang Dancing Queen",
+            "answer": "abba",
+            "normalized": "abba"
           },
           {
-            "id": "4e4b83a2-306f-4cce-984f-f29c6c8f90a7",
-            "clue": "Anushka Sharma's role as a friendly ghost",
-            "answer": "shashi",
-            "normalized": "shashi"
+            "id": "c9fb39b2-c60d-4769-986c-67f9df3258d1",
+            "clue": "Slobber, salivate",
+            "answer": "drool",
+            "normalized": "drool"
           },
           {
-            "id": "ef25c1fa-f7d0-49c0-acac-2e07a737fdc1",
-            "clue": "Seven small bones in the foot",
-            "answer": "tarsal",
-            "normalized": "tarsal"
+            "id": "87ce3fbc-d1df-454d-8a1a-1b90e08cd062",
+            "clue": "The bony joints between the legs and the feet",
+            "answer": "ankles",
+            "normalized": "ankles"
           },
           {
-            "id": "4fa41b36-ea21-4d39-bdee-b831129fdbb4",
-            "clue": "__ Gandhi, female Indian prime minister",
-            "answer": "indira",
-            "normalized": "indira"
+            "id": "00b4670a-e9df-430e-a008-ae91398a5634",
+            "clue": "Computer file with important user information",
+            "answer": "read me",
+            "normalized": "readme"
           },
           {
-            "id": "281c8d31-0b41-4569-8ed0-5dc217f4a106",
-            "clue": "Cooks in an oven",
-            "answer": "roasts",
-            "normalized": "roasts"
+            "id": "6fa1aad6-7959-44c8-9851-3d8624d4774a",
+            "clue": "Pleasant reward",
+            "answer": "treat",
+            "normalized": "treat"
           },
           {
-            "id": "899904b6-cd03-463b-ae9f-f738c601dd0a",
-            "clue": "iPhone's virtual assistant",
-            "answer": "siri",
-            "normalized": "siri"
+            "id": "f438c655-6999-4d41-a88b-17bb06edd8e8",
+            "clue": "Pale, fatty cut of tuna used in sashimi and sushi",
+            "answer": "toro",
+            "normalized": "toro"
           },
           {
-            "id": "53b15a9b-a9f6-44da-b290-319cb33db56a",
-            "clue": "Title given to Vallabhbhai Patel",
-            "answer": "sardar",
-            "normalized": "sardar"
+            "id": "8dd2e75b-961e-446b-8f52-7f9483b9a495",
+            "clue": "Will __, Gob on Arrested Development, Lego Batman",
+            "answer": "arnett",
+            "normalized": "arnett"
           },
           {
-            "id": "3beae498-3004-4363-a813-5f415b2e1f07",
-            "clue": "St. Francis of __, saint of animals",
-            "answer": "assisi",
-            "normalized": "assisi"
+            "id": "986689bc-95f5-4564-b877-4642bf272676",
+            "clue": "Major steel city on National Highway 23",
+            "answer": "bokaro",
+            "normalized": "bokaro"
           },
           {
-            "id": "c0081b30-c871-4fde-99a1-928bd677c93a",
-            "clue": "Record progress of a thing or person",
-            "answer": "chart",
-            "normalized": "chart"
+            "id": "4677bd8f-27e7-4785-9310-8011e6cae0ab",
+            "clue": "Braver, stands out more",
+            "answer": "bolder",
+            "normalized": "bolder"
           },
           {
-            "id": "ed65df31-59a3-47b3-a486-4dd835eef0bc",
-            "clue": "Albino Opus Dei follower in The Da Vinci Code",
-            "answer": "silas",
-            "normalized": "silas"
+            "id": "3eecfd1b-7e05-4ff5-b04c-6841a6af29f7",
+            "clue": "Founding family of Churchill Brothers FC",
+            "answer": "alemao",
+            "normalized": "alemao"
           },
           {
-            "id": "ce21c176-ef14-4352-b14a-54fe7f88a2cb",
-            "clue": "Mixes by swishing a spoon around",
-            "answer": "stirs",
-            "normalized": "stirs"
+            "id": "ed34a4c7-3aa3-414f-8a6a-1d0d31303ab5",
+            "clue": "__ es Salaam, largest city in Tanzania",
+            "answer": "dar",
+            "normalized": "dar"
           },
           {
-            "id": "96439be8-0646-47b5-91dd-a8b37b38a284",
-            "clue": "Capital of Vietnam",
-            "answer": "hanoi",
-            "normalized": "hanoi"
+            "id": "876c2ff7-5528-4633-bd6d-e71d9b188acd",
+            "clue": "Adjust a clock to the correct time",
+            "answer": "set",
+            "normalized": "set"
           }
         ],
-        "track": "PC|LenCinY2026M11D9F0V000"
+        "track": "PC|LenCinY2026M11D10F0V000"
       },
       "mid": {
-        "puzzleId": "471c9379-6451-4e6d-9fdf-d0cfd2ef2779",
+        "puzzleId": "7afb74ad-57e0-4d9e-acd9-73cc52485e5a",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4681756d-0eae-42ce-8fa2-eadb5e6ef404",
-            "clue": "Sounds a rusty gate makes",
-            "answer": "creaks",
-            "normalized": "creaks"
+            "id": "3e947c6b-fda5-4c42-aba3-14096ad8ecfb",
+            "clue": "Yuval Noah, author of 2011's Sapiens",
+            "answer": "harari",
+            "normalized": "harari"
           },
           {
-            "id": "468b6ddf-7e3d-46a4-8014-7c7621ba7861",
-            "clue": "Amend the sound of a guitar; anagram of neuter",
-            "answer": "retune",
-            "normalized": "retune"
+            "id": "dcbace3d-f4f3-4e2e-b088-90c2a9c12cb6",
+            "clue": "Famous mathematical palindrome: never odd __",
+            "answer": "or even",
+            "normalized": "oreven"
           },
           {
-            "id": "73eb76f7-e27e-407f-8f8b-84395ec5812b",
-            "clue": "Eggs of sea creatures such as salmon",
-            "answer": "fish roe",
-            "normalized": "fishroe"
+            "id": "8ba7bf54-a5f8-4b1f-a13e-4bed4a56b5d4",
+            "clue": "__ and gentlemen",
+            "answer": "ladies",
+            "normalized": "ladies"
           },
           {
-            "id": "9d652f11-63ae-4885-a5ec-317e6964c146",
-            "clue": "Abbreviation of India’s central bank",
-            "answer": "rbi",
-            "normalized": "rbi"
+            "id": "e3d7df6d-b7f6-42ce-b9e9-e7459a3e4c88",
+            "clue": "__ Half-elven, Lord of Rivendell",
+            "answer": "elrond",
+            "normalized": "elrond"
           },
           {
-            "id": "f11aecd7-0abd-4b76-8521-07a377f5ec9d",
-            "clue": "Information technology division, initialism",
-            "answer": "itd",
-            "normalized": "itd"
+            "id": "81ca8e2d-a665-44d8-8f60-f9a121804bf0",
+            "clue": "Go into a building or vehicle",
+            "answer": "enter",
+            "normalized": "enter"
           },
           {
-            "id": "9193e4c2-cd97-4401-b2b9-0546d9d01ece",
-            "clue": "Kidnaps a person",
-            "answer": "abducts",
-            "normalized": "abducts"
+            "id": "67cc3fa1-7e1d-43c7-8889-e31ee6b07405",
+            "clue": "When an enemy entirely surrounds you, say",
+            "answer": "siege",
+            "normalized": "siege"
           },
           {
-            "id": "d888628a-3591-432f-9c08-7ae60e9f9c62",
-            "clue": "A board game piece shaped like a human",
-            "answer": "meeple",
-            "normalized": "meeple"
+            "id": "08f8fcc9-7d4a-44cf-bde1-b44437768e76",
+            "clue": "Small piece, like uneaten food",
+            "answer": "scrap",
+            "normalized": "scrap"
           },
           {
-            "id": "aecf972b-a243-4642-a689-53b36a5b9aa3",
-            "clue": "Moved in a circular way like water",
-            "answer": "eddied",
-            "normalized": "eddied"
+            "id": "35470b8b-bc52-4c6d-8959-fbf6ca3a315c",
+            "clue": "A flaw or weakness in an argument",
+            "answer": "hole",
+            "normalized": "hole"
           },
           {
-            "id": "569c8394-51a0-4af7-95ea-ca6c388f6698",
-            "clue": "Copied someone's work for a test",
-            "answer": "cribbed",
-            "normalized": "cribbed"
+            "id": "2328cd5c-46a9-4994-acd8-1100787d5628",
+            "clue": "Central Asia's depleted sea",
+            "answer": "aral",
+            "normalized": "aral"
           },
           {
-            "id": "ad89e538-c87c-487f-9e4a-e7fb065f45a5",
-            "clue": "Lived, inhabited",
-            "answer": "resided",
-            "normalized": "resided"
+            "id": "3aae5bb0-f443-4eda-a77c-fedf7dc81312",
+            "clue": "Recompense, damages, amends",
+            "answer": "redress",
+            "normalized": "redress"
           },
           {
-            "id": "ae61b9bd-e5dd-4194-a139-d0f76bc31d8b",
-            "clue": "Old English letter for \"th\"",
-            "answer": "eth",
-            "normalized": "eth"
+            "id": "d0d01d06-17e4-4a56-935d-15a91de7b289",
+            "clue": "To do with aircraft electronics",
+            "answer": "avionic",
+            "normalized": "avionic"
           },
           {
-            "id": "5f260a7a-70d5-4f5a-b391-fd625a14acd4",
-            "clue": "Part of the heart that sticks out from the atrium",
-            "answer": "auricle",
-            "normalized": "auricle"
+            "id": "a113f8f1-9283-49b8-9eef-decceda82644",
+            "clue": "To go back into a room or building",
+            "answer": "reenter",
+            "normalized": "reenter"
           },
           {
-            "id": "0e17e3d2-ec9b-4f24-947e-53f02cb0c904",
-            "clue": "Tied or tangled together messily",
-            "answer": "knotted",
-            "normalized": "knotted"
+            "id": "6c465210-4b94-4176-a33e-e2b5a651409b",
+            "clue": "Visakhapatnam Airport is also a naval air station",
+            "answer": "ins dega",
+            "normalized": "insdega"
           },
           {
-            "id": "40cf032d-a98b-4d31-a525-00b8c229e463",
-            "clue": "Farmers plant these to grow veggies",
-            "answer": "seeds",
-            "normalized": "seeds"
-          },
-          {
-            "id": "53da21c6-9fc6-467c-848f-e33f142f7fee",
-            "clue": "Protective mount for photos on display",
-            "answer": "frame",
-            "normalized": "frame"
-          },
-          {
-            "id": "deba1fd9-d750-4af8-8dd8-52fe518ef5c9",
-            "clue": "Payment system used by Paytm and others",
-            "answer": "upi",
-            "normalized": "upi"
+            "id": "bb1fb687-f1bc-4111-aeff-03fb2b436cf9",
+            "clue": "Short word for a company's salesman",
+            "answer": "rep",
+            "normalized": "rep"
           }
         ],
-        "track": "PC|LenCinY2026M11D9F1V000"
+        "track": "PC|LenCinY2026M11D10F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-09",
+      "key": "2026-11-10",
       "year": 2026,
       "month": 11,
-      "day": 9,
+      "day": 10,
       "small": {
-        "puzzleId": "7f43edf8-f846-49fd-863f-6f548d45cc73",
+        "puzzleId": "0f0052c1-b018-434e-b3e2-a872ca5dddf9",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "1a53e7dc-632d-48e3-8c24-160b11c65a8e",
-            "clue": "Little bags of liquid on the bodies of animals",
-            "answer": "sacs",
-            "normalized": "sacs"
+            "id": "23d157ff-62a7-4608-8de1-31fcf7ec7654",
+            "clue": "70s Swedish pop group who sang Dancing Queen",
+            "answer": "abba",
+            "normalized": "abba"
           },
           {
-            "id": "4e4b83a2-306f-4cce-984f-f29c6c8f90a7",
-            "clue": "Anushka Sharma's role as a friendly ghost",
-            "answer": "shashi",
-            "normalized": "shashi"
+            "id": "c9fb39b2-c60d-4769-986c-67f9df3258d1",
+            "clue": "Slobber, salivate",
+            "answer": "drool",
+            "normalized": "drool"
           },
           {
-            "id": "ef25c1fa-f7d0-49c0-acac-2e07a737fdc1",
-            "clue": "Seven small bones in the foot",
-            "answer": "tarsal",
-            "normalized": "tarsal"
+            "id": "87ce3fbc-d1df-454d-8a1a-1b90e08cd062",
+            "clue": "The bony joints between the legs and the feet",
+            "answer": "ankles",
+            "normalized": "ankles"
           },
           {
-            "id": "4fa41b36-ea21-4d39-bdee-b831129fdbb4",
-            "clue": "__ Gandhi, female Indian prime minister",
-            "answer": "indira",
-            "normalized": "indira"
+            "id": "00b4670a-e9df-430e-a008-ae91398a5634",
+            "clue": "Computer file with important user information",
+            "answer": "read me",
+            "normalized": "readme"
           },
           {
-            "id": "281c8d31-0b41-4569-8ed0-5dc217f4a106",
-            "clue": "Cooks in an oven",
-            "answer": "roasts",
-            "normalized": "roasts"
+            "id": "6fa1aad6-7959-44c8-9851-3d8624d4774a",
+            "clue": "Pleasant reward",
+            "answer": "treat",
+            "normalized": "treat"
           },
           {
-            "id": "899904b6-cd03-463b-ae9f-f738c601dd0a",
-            "clue": "iPhone's virtual assistant",
-            "answer": "siri",
-            "normalized": "siri"
+            "id": "f438c655-6999-4d41-a88b-17bb06edd8e8",
+            "clue": "Pale, fatty cut of tuna used in sashimi and sushi",
+            "answer": "toro",
+            "normalized": "toro"
           },
           {
-            "id": "53b15a9b-a9f6-44da-b290-319cb33db56a",
-            "clue": "Title given to Vallabhbhai Patel",
-            "answer": "sardar",
-            "normalized": "sardar"
+            "id": "8dd2e75b-961e-446b-8f52-7f9483b9a495",
+            "clue": "Will __, Gob on Arrested Development, Lego Batman",
+            "answer": "arnett",
+            "normalized": "arnett"
           },
           {
-            "id": "3beae498-3004-4363-a813-5f415b2e1f07",
-            "clue": "St. Francis of __, saint of animals",
-            "answer": "assisi",
-            "normalized": "assisi"
+            "id": "986689bc-95f5-4564-b877-4642bf272676",
+            "clue": "Major steel city on National Highway 23",
+            "answer": "bokaro",
+            "normalized": "bokaro"
           },
           {
-            "id": "c0081b30-c871-4fde-99a1-928bd677c93a",
-            "clue": "Record progress of a thing or person",
-            "answer": "chart",
-            "normalized": "chart"
+            "id": "4677bd8f-27e7-4785-9310-8011e6cae0ab",
+            "clue": "Braver, stands out more",
+            "answer": "bolder",
+            "normalized": "bolder"
           },
           {
-            "id": "ed65df31-59a3-47b3-a486-4dd835eef0bc",
-            "clue": "Albino Opus Dei follower in The Da Vinci Code",
-            "answer": "silas",
-            "normalized": "silas"
+            "id": "3eecfd1b-7e05-4ff5-b04c-6841a6af29f7",
+            "clue": "Founding family of Churchill Brothers FC",
+            "answer": "alemao",
+            "normalized": "alemao"
           },
           {
-            "id": "ce21c176-ef14-4352-b14a-54fe7f88a2cb",
-            "clue": "Mixes by swishing a spoon around",
-            "answer": "stirs",
-            "normalized": "stirs"
+            "id": "ed34a4c7-3aa3-414f-8a6a-1d0d31303ab5",
+            "clue": "__ es Salaam, largest city in Tanzania",
+            "answer": "dar",
+            "normalized": "dar"
           },
           {
-            "id": "96439be8-0646-47b5-91dd-a8b37b38a284",
-            "clue": "Capital of Vietnam",
-            "answer": "hanoi",
-            "normalized": "hanoi"
+            "id": "876c2ff7-5528-4633-bd6d-e71d9b188acd",
+            "clue": "Adjust a clock to the correct time",
+            "answer": "set",
+            "normalized": "set"
           }
         ],
-        "track": "PC|LenCinY2026M11D9F0V000"
+        "track": "PC|LenCinY2026M11D10F0V000"
       },
       "mid": {
-        "puzzleId": "471c9379-6451-4e6d-9fdf-d0cfd2ef2779",
+        "puzzleId": "7afb74ad-57e0-4d9e-acd9-73cc52485e5a",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4681756d-0eae-42ce-8fa2-eadb5e6ef404",
-            "clue": "Sounds a rusty gate makes",
-            "answer": "creaks",
-            "normalized": "creaks"
+            "id": "3e947c6b-fda5-4c42-aba3-14096ad8ecfb",
+            "clue": "Yuval Noah, author of 2011's Sapiens",
+            "answer": "harari",
+            "normalized": "harari"
           },
           {
-            "id": "468b6ddf-7e3d-46a4-8014-7c7621ba7861",
-            "clue": "Amend the sound of a guitar; anagram of neuter",
-            "answer": "retune",
-            "normalized": "retune"
+            "id": "dcbace3d-f4f3-4e2e-b088-90c2a9c12cb6",
+            "clue": "Famous mathematical palindrome: never odd __",
+            "answer": "or even",
+            "normalized": "oreven"
           },
           {
-            "id": "73eb76f7-e27e-407f-8f8b-84395ec5812b",
-            "clue": "Eggs of sea creatures such as salmon",
-            "answer": "fish roe",
-            "normalized": "fishroe"
+            "id": "8ba7bf54-a5f8-4b1f-a13e-4bed4a56b5d4",
+            "clue": "__ and gentlemen",
+            "answer": "ladies",
+            "normalized": "ladies"
           },
           {
-            "id": "9d652f11-63ae-4885-a5ec-317e6964c146",
-            "clue": "Abbreviation of India’s central bank",
-            "answer": "rbi",
-            "normalized": "rbi"
+            "id": "e3d7df6d-b7f6-42ce-b9e9-e7459a3e4c88",
+            "clue": "__ Half-elven, Lord of Rivendell",
+            "answer": "elrond",
+            "normalized": "elrond"
           },
           {
-            "id": "f11aecd7-0abd-4b76-8521-07a377f5ec9d",
-            "clue": "Information technology division, initialism",
-            "answer": "itd",
-            "normalized": "itd"
+            "id": "81ca8e2d-a665-44d8-8f60-f9a121804bf0",
+            "clue": "Go into a building or vehicle",
+            "answer": "enter",
+            "normalized": "enter"
           },
           {
-            "id": "9193e4c2-cd97-4401-b2b9-0546d9d01ece",
-            "clue": "Kidnaps a person",
-            "answer": "abducts",
-            "normalized": "abducts"
+            "id": "67cc3fa1-7e1d-43c7-8889-e31ee6b07405",
+            "clue": "When an enemy entirely surrounds you, say",
+            "answer": "siege",
+            "normalized": "siege"
           },
           {
-            "id": "d888628a-3591-432f-9c08-7ae60e9f9c62",
-            "clue": "A board game piece shaped like a human",
-            "answer": "meeple",
-            "normalized": "meeple"
+            "id": "08f8fcc9-7d4a-44cf-bde1-b44437768e76",
+            "clue": "Small piece, like uneaten food",
+            "answer": "scrap",
+            "normalized": "scrap"
           },
           {
-            "id": "aecf972b-a243-4642-a689-53b36a5b9aa3",
-            "clue": "Moved in a circular way like water",
-            "answer": "eddied",
-            "normalized": "eddied"
+            "id": "35470b8b-bc52-4c6d-8959-fbf6ca3a315c",
+            "clue": "A flaw or weakness in an argument",
+            "answer": "hole",
+            "normalized": "hole"
           },
           {
-            "id": "569c8394-51a0-4af7-95ea-ca6c388f6698",
-            "clue": "Copied someone's work for a test",
-            "answer": "cribbed",
-            "normalized": "cribbed"
+            "id": "2328cd5c-46a9-4994-acd8-1100787d5628",
+            "clue": "Central Asia's depleted sea",
+            "answer": "aral",
+            "normalized": "aral"
           },
           {
-            "id": "ad89e538-c87c-487f-9e4a-e7fb065f45a5",
-            "clue": "Lived, inhabited",
-            "answer": "resided",
-            "normalized": "resided"
+            "id": "3aae5bb0-f443-4eda-a77c-fedf7dc81312",
+            "clue": "Recompense, damages, amends",
+            "answer": "redress",
+            "normalized": "redress"
           },
           {
-            "id": "ae61b9bd-e5dd-4194-a139-d0f76bc31d8b",
-            "clue": "Old English letter for \"th\"",
-            "answer": "eth",
-            "normalized": "eth"
+            "id": "d0d01d06-17e4-4a56-935d-15a91de7b289",
+            "clue": "To do with aircraft electronics",
+            "answer": "avionic",
+            "normalized": "avionic"
           },
           {
-            "id": "5f260a7a-70d5-4f5a-b391-fd625a14acd4",
-            "clue": "Part of the heart that sticks out from the atrium",
-            "answer": "auricle",
-            "normalized": "auricle"
+            "id": "a113f8f1-9283-49b8-9eef-decceda82644",
+            "clue": "To go back into a room or building",
+            "answer": "reenter",
+            "normalized": "reenter"
           },
           {
-            "id": "0e17e3d2-ec9b-4f24-947e-53f02cb0c904",
-            "clue": "Tied or tangled together messily",
-            "answer": "knotted",
-            "normalized": "knotted"
+            "id": "6c465210-4b94-4176-a33e-e2b5a651409b",
+            "clue": "Visakhapatnam Airport is also a naval air station",
+            "answer": "ins dega",
+            "normalized": "insdega"
           },
           {
-            "id": "40cf032d-a98b-4d31-a525-00b8c229e463",
-            "clue": "Farmers plant these to grow veggies",
-            "answer": "seeds",
-            "normalized": "seeds"
-          },
-          {
-            "id": "53da21c6-9fc6-467c-848f-e33f142f7fee",
-            "clue": "Protective mount for photos on display",
-            "answer": "frame",
-            "normalized": "frame"
-          },
-          {
-            "id": "deba1fd9-d750-4af8-8dd8-52fe518ef5c9",
-            "clue": "Payment system used by Paytm and others",
-            "answer": "upi",
-            "normalized": "upi"
+            "id": "bb1fb687-f1bc-4111-aeff-03fb2b436cf9",
+            "clue": "Short word for a company's salesman",
+            "answer": "rep",
+            "normalized": "rep"
           }
         ],
-        "track": "PC|LenCinY2026M11D9F1V000"
+        "track": "PC|LenCinY2026M11D10F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388980,21 +388956,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "+zsEIW2+TlyN512xxwJO2MehPwwV7yvy8NuIaoMKQ8Dc5H8NY0E4hvbjtDhOw3/9Lv9fWOKt2aLjc8FCe+EV3XkVOloCNd4DQCOl8T1tCCd7eq5dB2gKiCyTlmlFoR/iM8l2r2A2MIhdFL6I3x7609dQjv3ZZMTuYF03P+hAzbUPDF18vD6R6u9EYXY3KZeU/GRK3buWptZoI1UNiI3rR+6A3KcW2fqTo+CqNfssTKkzcUtgLHeaLrUBebyGmE+WCZMMpQVMFS4wMj0emjXEJxNaxyJ+raRf3aO4BvCnS4E="
+        "0pRKlR/+E9tos4FiuSbVOzX3Y9vWBGnzLFlK+EW8baXca+47Ltezinbr9wNCeZ7wE8I0RB8t1cZLNZo3CKyS9K+0CU+r8DAmjmDcutTxoSLADZGaBVfxTQyrxEW0lx6odBdLamqIT7xk4KSlbVgDZGzEVYddDVIp9aKvxVBnCZaaeF5HYKZ+cZoLMN9b5oT0KfFlUkyEyq7uFnOLxcX9eH6plCa1yR73lqZeMpEa1wJ3ccMouCXUScw+LunaenCv0P6n1zUhOSGhVMqmk2C2VnnmuAKkOjUZapxVWadkbEE="
       ]
     },
     "decrypted": {
-      "Id": "932c80c8-adde-4092-86c5-226ef796d1cf",
-      "Date": "2026-11-09T00:00:00Z",
+      "Id": "9a07637b-f7f9-4e7d-8388-685e2af55f76",
+      "Date": "2026-11-10T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "joint",
-      "NormalizedPassword": "joint",
+      "Password": "sense",
+      "NormalizedPassword": "sense",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-09T03:48:01.7170000+05:30",
-    "hash": "38e053e777bd49cd2e3f282bf0ea2343",
+    "dtu": "2026-11-10T07:10:17.5380000+05:30",
+    "hash": "cfa3dc7acb93eb256657983dfea42f92",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
