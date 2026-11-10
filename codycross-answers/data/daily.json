@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T01:40:17.538Z",
+  "generatedAt": "2026-11-10T23:36:40.192Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 10
+    "day": 11
   },
   "crossword": {
     "archive": [
@@ -388408,367 +388408,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-10",
+      "key": "2026-11-11",
       "year": 2026,
       "month": 11,
-      "day": 10,
+      "day": 11,
       "small": {
-        "puzzleId": "0f0052c1-b018-434e-b3e2-a872ca5dddf9",
+        "puzzleId": "f18ba599-7746-435a-a4d1-24e1a1b0195a",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "23d157ff-62a7-4608-8de1-31fcf7ec7654",
-            "clue": "70s Swedish pop group who sang Dancing Queen",
-            "answer": "abba",
-            "normalized": "abba"
+            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
+            "clue": "Quick way of saying you must leave a chat session",
+            "answer": "gtg",
+            "normalized": "gtg"
           },
           {
-            "id": "c9fb39b2-c60d-4769-986c-67f9df3258d1",
-            "clue": "Slobber, salivate",
-            "answer": "drool",
-            "normalized": "drool"
+            "id": "b4f34db8-0fd2-4d45-b559-b6c883c296db",
+            "clue": "Hindu month when Haryali Teej is celebrated",
+            "answer": "sawan",
+            "normalized": "sawan"
           },
           {
-            "id": "87ce3fbc-d1df-454d-8a1a-1b90e08cd062",
-            "clue": "The bony joints between the legs and the feet",
-            "answer": "ankles",
-            "normalized": "ankles"
+            "id": "aad446a0-4c8f-4e70-921e-3bdb092b39a1",
+            "clue": "Lettered board for communicating with spirits",
+            "answer": "ouija",
+            "normalized": "ouija"
           },
           {
-            "id": "00b4670a-e9df-430e-a008-ae91398a5634",
-            "clue": "Computer file with important user information",
-            "answer": "read me",
-            "normalized": "readme"
+            "id": "d9756daf-0e44-4934-a390-526813478d06",
+            "clue": "Nickname of a famous model of guitar",
+            "answer": "strat",
+            "normalized": "strat"
           },
           {
-            "id": "6fa1aad6-7959-44c8-9851-3d8624d4774a",
-            "clue": "Pleasant reward",
-            "answer": "treat",
-            "normalized": "treat"
+            "id": "e8616bb4-9c45-4fd0-82a4-d4bceaa7c82c",
+            "clue": "Type, sort",
+            "answer": "ilk",
+            "normalized": "ilk"
           },
           {
-            "id": "f438c655-6999-4d41-a88b-17bb06edd8e8",
-            "clue": "Pale, fatty cut of tuna used in sashimi and sushi",
-            "answer": "toro",
-            "normalized": "toro"
+            "id": "b4b88abd-15cc-4344-83dc-119b19b5b2f7",
+            "clue": "Nickname for cricketer Gautam Gambhir",
+            "answer": "gauti",
+            "normalized": "gauti"
           },
           {
-            "id": "8dd2e75b-961e-446b-8f52-7f9483b9a495",
-            "clue": "Will __, Gob on Arrested Development, Lego Batman",
-            "answer": "arnett",
-            "normalized": "arnett"
+            "id": "522229e6-d104-43f9-8ec7-2dbe832ec20b",
+            "clue": "Spin or twist a baton, like a majorette",
+            "answer": "twirl",
+            "normalized": "twirl"
           },
           {
-            "id": "986689bc-95f5-4564-b877-4642bf272676",
-            "clue": "Major steel city on National Highway 23",
-            "answer": "bokaro",
-            "normalized": "bokaro"
+            "id": "e5179f5f-bc0b-4c21-95e2-ab579e4b80ec",
+            "clue": "A sweet winter snack famous in Meerut",
+            "answer": "gajak",
+            "normalized": "gajak"
           },
           {
-            "id": "4677bd8f-27e7-4785-9310-8011e6cae0ab",
-            "clue": "Braver, stands out more",
-            "answer": "bolder",
-            "normalized": "bolder"
+            "id": "a704ea01-4c46-4f08-9926-4c8688efd405",
+            "clue": "Three-letter code for the Somali shilling",
+            "answer": "sos",
+            "normalized": "sos"
           },
           {
-            "id": "3eecfd1b-7e05-4ff5-b04c-6841a6af29f7",
-            "clue": "Founding family of Churchill Brothers FC",
-            "answer": "alemao",
-            "normalized": "alemao"
-          },
-          {
-            "id": "ed34a4c7-3aa3-414f-8a6a-1d0d31303ab5",
-            "clue": "__ es Salaam, largest city in Tanzania",
-            "answer": "dar",
-            "normalized": "dar"
-          },
-          {
-            "id": "876c2ff7-5528-4633-bd6d-e71d9b188acd",
-            "clue": "Adjust a clock to the correct time",
-            "answer": "set",
-            "normalized": "set"
+            "id": "a41bcbc5-9602-4d39-a43b-03d93c5bd340",
+            "clue": "Unforgettable King Cole",
+            "answer": "nat",
+            "normalized": "nat"
           }
         ],
-        "track": "PC|LenCinY2026M11D10F0V000"
+        "track": "PC|LenCinY2026M11D11F0V000"
       },
       "mid": {
-        "puzzleId": "7afb74ad-57e0-4d9e-acd9-73cc52485e5a",
+        "puzzleId": "3d1cfb3f-89a4-4ca6-b56d-1b312c40b848",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "3e947c6b-fda5-4c42-aba3-14096ad8ecfb",
-            "clue": "Yuval Noah, author of 2011's Sapiens",
-            "answer": "harari",
-            "normalized": "harari"
+            "id": "6e755081-5897-4f5b-a37f-5e50db4dc278",
+            "clue": "The name of the juicy bubbles in a bubble tea",
+            "answer": "boba",
+            "normalized": "boba"
           },
           {
-            "id": "dcbace3d-f4f3-4e2e-b088-90c2a9c12cb6",
-            "clue": "Famous mathematical palindrome: never odd __",
-            "answer": "or even",
-            "normalized": "oreven"
+            "id": "61647fea-84cd-43e0-960c-68bd6b18dea4",
+            "clue": "Job of someone armed with a broom",
+            "answer": "sweeper",
+            "normalized": "sweeper"
           },
           {
-            "id": "8ba7bf54-a5f8-4b1f-a13e-4bed4a56b5d4",
-            "clue": "__ and gentlemen",
-            "answer": "ladies",
-            "normalized": "ladies"
+            "id": "7805672d-1efb-4630-9dfd-8bf881c24f43",
+            "clue": "Where felines are left when owners are on holiday",
+            "answer": "cattery",
+            "normalized": "cattery"
           },
           {
-            "id": "e3d7df6d-b7f6-42ce-b9e9-e7459a3e4c88",
-            "clue": "__ Half-elven, Lord of Rivendell",
-            "answer": "elrond",
-            "normalized": "elrond"
+            "id": "79df2d1d-5781-4a43-882a-58d462bc7ec3",
+            "clue": "Analogue to Digital Converter, in short",
+            "answer": "adc",
+            "normalized": "adc"
           },
           {
-            "id": "81ca8e2d-a665-44d8-8f60-f9a121804bf0",
-            "clue": "Go into a building or vehicle",
-            "answer": "enter",
-            "normalized": "enter"
+            "id": "fc7538f5-4d58-46e5-9317-b2cdc76e76aa",
+            "clue": "Nucleic acid that can be messenger, ribosomal",
+            "answer": "rna",
+            "normalized": "rna"
           },
           {
-            "id": "67cc3fa1-7e1d-43c7-8889-e31ee6b07405",
-            "clue": "When an enemy entirely surrounds you, say",
-            "answer": "siege",
-            "normalized": "siege"
+            "id": "1cf96294-c2f9-479e-a9a3-85c614c7870d",
+            "clue": "Country in which the airline Gulf Air is based",
+            "answer": "bahrain",
+            "normalized": "bahrain"
           },
           {
-            "id": "08f8fcc9-7d4a-44cf-bde1-b44437768e76",
-            "clue": "Small piece, like uneaten food",
-            "answer": "scrap",
-            "normalized": "scrap"
+            "id": "ae1dee89-6041-46f6-87da-e315199a066e",
+            "clue": "Touches someone with holy water",
+            "answer": "blesses",
+            "normalized": "blesses"
           },
           {
-            "id": "35470b8b-bc52-4c6d-8959-fbf6ca3a315c",
-            "clue": "A flaw or weakness in an argument",
-            "answer": "hole",
-            "normalized": "hole"
+            "id": "211562d3-1d4c-464d-aa1b-861f165e1841",
+            "clue": "Unit of length equal to 36 inches",
+            "answer": "yard",
+            "normalized": "yard"
           },
           {
-            "id": "2328cd5c-46a9-4994-acd8-1100787d5628",
-            "clue": "Central Asia's depleted sea",
-            "answer": "aral",
-            "normalized": "aral"
+            "id": "adfbdce2-5ace-4c9c-8224-5135819e6f1e",
+            "clue": "__ your bottom dollar, sang Annie",
+            "answer": "bet",
+            "normalized": "bet"
           },
           {
-            "id": "3aae5bb0-f443-4eda-a77c-fedf7dc81312",
-            "clue": "Recompense, damages, amends",
-            "answer": "redress",
-            "normalized": "redress"
+            "id": "2f362358-cd75-4ac1-bbfc-ad3e06ebe98b",
+            "clue": "Posh musicals with classically trained singers",
+            "answer": "operas",
+            "normalized": "operas"
           },
           {
-            "id": "d0d01d06-17e4-4a56-935d-15a91de7b289",
-            "clue": "To do with aircraft electronics",
-            "answer": "avionic",
-            "normalized": "avionic"
+            "id": "d1136d5f-13b5-4b1e-8772-a4cf6dc7c787",
+            "clue": "__ Taupin, songwriter with Elton John",
+            "answer": "bernie",
+            "normalized": "bernie"
           },
           {
-            "id": "a113f8f1-9283-49b8-9eef-decceda82644",
-            "clue": "To go back into a room or building",
-            "answer": "reenter",
-            "normalized": "reenter"
+            "id": "27e3d45b-0c76-44ca-9b22-2aeedcc1adac",
+            "clue": "Peoples linked to early Vedic culture",
+            "answer": "aryans",
+            "normalized": "aryans"
           },
           {
-            "id": "6c465210-4b94-4176-a33e-e2b5a651409b",
-            "clue": "Visakhapatnam Airport is also a naval air station",
-            "answer": "ins dega",
-            "normalized": "insdega"
+            "id": "4263ea3c-b71d-456f-896b-007ad3888e13",
+            "clue": "Scaly, flaky, mangy",
+            "answer": "scabby",
+            "normalized": "scabby"
           },
           {
-            "id": "bb1fb687-f1bc-4111-aeff-03fb2b436cf9",
-            "clue": "Short word for a company's salesman",
-            "answer": "rep",
-            "normalized": "rep"
+            "id": "771a019f-da04-40f7-99f7-618b5545ea54",
+            "clue": "Important depot on the Mumbai Monorail route",
+            "answer": "wadala",
+            "normalized": "wadala"
+          },
+          {
+            "id": "8b4ff174-4b36-4100-8841-ed0499b0e842",
+            "clue": "Worker who engraves using acid",
+            "answer": "etcher",
+            "normalized": "etcher"
+          },
+          {
+            "id": "e93ca7e7-d545-41ae-820d-d5df19b6848e",
+            "clue": "Three-letter code for the Serbian dinar",
+            "answer": "rsd",
+            "normalized": "rsd"
           }
         ],
-        "track": "PC|LenCinY2026M11D10F1V000"
+        "track": "PC|LenCinY2026M11D11F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-10",
+      "key": "2026-11-11",
       "year": 2026,
       "month": 11,
-      "day": 10,
+      "day": 11,
       "small": {
-        "puzzleId": "0f0052c1-b018-434e-b3e2-a872ca5dddf9",
+        "puzzleId": "f18ba599-7746-435a-a4d1-24e1a1b0195a",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "23d157ff-62a7-4608-8de1-31fcf7ec7654",
-            "clue": "70s Swedish pop group who sang Dancing Queen",
-            "answer": "abba",
-            "normalized": "abba"
+            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
+            "clue": "Quick way of saying you must leave a chat session",
+            "answer": "gtg",
+            "normalized": "gtg"
           },
           {
-            "id": "c9fb39b2-c60d-4769-986c-67f9df3258d1",
-            "clue": "Slobber, salivate",
-            "answer": "drool",
-            "normalized": "drool"
+            "id": "b4f34db8-0fd2-4d45-b559-b6c883c296db",
+            "clue": "Hindu month when Haryali Teej is celebrated",
+            "answer": "sawan",
+            "normalized": "sawan"
           },
           {
-            "id": "87ce3fbc-d1df-454d-8a1a-1b90e08cd062",
-            "clue": "The bony joints between the legs and the feet",
-            "answer": "ankles",
-            "normalized": "ankles"
+            "id": "aad446a0-4c8f-4e70-921e-3bdb092b39a1",
+            "clue": "Lettered board for communicating with spirits",
+            "answer": "ouija",
+            "normalized": "ouija"
           },
           {
-            "id": "00b4670a-e9df-430e-a008-ae91398a5634",
-            "clue": "Computer file with important user information",
-            "answer": "read me",
-            "normalized": "readme"
+            "id": "d9756daf-0e44-4934-a390-526813478d06",
+            "clue": "Nickname of a famous model of guitar",
+            "answer": "strat",
+            "normalized": "strat"
           },
           {
-            "id": "6fa1aad6-7959-44c8-9851-3d8624d4774a",
-            "clue": "Pleasant reward",
-            "answer": "treat",
-            "normalized": "treat"
+            "id": "e8616bb4-9c45-4fd0-82a4-d4bceaa7c82c",
+            "clue": "Type, sort",
+            "answer": "ilk",
+            "normalized": "ilk"
           },
           {
-            "id": "f438c655-6999-4d41-a88b-17bb06edd8e8",
-            "clue": "Pale, fatty cut of tuna used in sashimi and sushi",
-            "answer": "toro",
-            "normalized": "toro"
+            "id": "b4b88abd-15cc-4344-83dc-119b19b5b2f7",
+            "clue": "Nickname for cricketer Gautam Gambhir",
+            "answer": "gauti",
+            "normalized": "gauti"
           },
           {
-            "id": "8dd2e75b-961e-446b-8f52-7f9483b9a495",
-            "clue": "Will __, Gob on Arrested Development, Lego Batman",
-            "answer": "arnett",
-            "normalized": "arnett"
+            "id": "522229e6-d104-43f9-8ec7-2dbe832ec20b",
+            "clue": "Spin or twist a baton, like a majorette",
+            "answer": "twirl",
+            "normalized": "twirl"
           },
           {
-            "id": "986689bc-95f5-4564-b877-4642bf272676",
-            "clue": "Major steel city on National Highway 23",
-            "answer": "bokaro",
-            "normalized": "bokaro"
+            "id": "e5179f5f-bc0b-4c21-95e2-ab579e4b80ec",
+            "clue": "A sweet winter snack famous in Meerut",
+            "answer": "gajak",
+            "normalized": "gajak"
           },
           {
-            "id": "4677bd8f-27e7-4785-9310-8011e6cae0ab",
-            "clue": "Braver, stands out more",
-            "answer": "bolder",
-            "normalized": "bolder"
+            "id": "a704ea01-4c46-4f08-9926-4c8688efd405",
+            "clue": "Three-letter code for the Somali shilling",
+            "answer": "sos",
+            "normalized": "sos"
           },
           {
-            "id": "3eecfd1b-7e05-4ff5-b04c-6841a6af29f7",
-            "clue": "Founding family of Churchill Brothers FC",
-            "answer": "alemao",
-            "normalized": "alemao"
-          },
-          {
-            "id": "ed34a4c7-3aa3-414f-8a6a-1d0d31303ab5",
-            "clue": "__ es Salaam, largest city in Tanzania",
-            "answer": "dar",
-            "normalized": "dar"
-          },
-          {
-            "id": "876c2ff7-5528-4633-bd6d-e71d9b188acd",
-            "clue": "Adjust a clock to the correct time",
-            "answer": "set",
-            "normalized": "set"
+            "id": "a41bcbc5-9602-4d39-a43b-03d93c5bd340",
+            "clue": "Unforgettable King Cole",
+            "answer": "nat",
+            "normalized": "nat"
           }
         ],
-        "track": "PC|LenCinY2026M11D10F0V000"
+        "track": "PC|LenCinY2026M11D11F0V000"
       },
       "mid": {
-        "puzzleId": "7afb74ad-57e0-4d9e-acd9-73cc52485e5a",
+        "puzzleId": "3d1cfb3f-89a4-4ca6-b56d-1b312c40b848",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "3e947c6b-fda5-4c42-aba3-14096ad8ecfb",
-            "clue": "Yuval Noah, author of 2011's Sapiens",
-            "answer": "harari",
-            "normalized": "harari"
+            "id": "6e755081-5897-4f5b-a37f-5e50db4dc278",
+            "clue": "The name of the juicy bubbles in a bubble tea",
+            "answer": "boba",
+            "normalized": "boba"
           },
           {
-            "id": "dcbace3d-f4f3-4e2e-b088-90c2a9c12cb6",
-            "clue": "Famous mathematical palindrome: never odd __",
-            "answer": "or even",
-            "normalized": "oreven"
+            "id": "61647fea-84cd-43e0-960c-68bd6b18dea4",
+            "clue": "Job of someone armed with a broom",
+            "answer": "sweeper",
+            "normalized": "sweeper"
           },
           {
-            "id": "8ba7bf54-a5f8-4b1f-a13e-4bed4a56b5d4",
-            "clue": "__ and gentlemen",
-            "answer": "ladies",
-            "normalized": "ladies"
+            "id": "7805672d-1efb-4630-9dfd-8bf881c24f43",
+            "clue": "Where felines are left when owners are on holiday",
+            "answer": "cattery",
+            "normalized": "cattery"
           },
           {
-            "id": "e3d7df6d-b7f6-42ce-b9e9-e7459a3e4c88",
-            "clue": "__ Half-elven, Lord of Rivendell",
-            "answer": "elrond",
-            "normalized": "elrond"
+            "id": "79df2d1d-5781-4a43-882a-58d462bc7ec3",
+            "clue": "Analogue to Digital Converter, in short",
+            "answer": "adc",
+            "normalized": "adc"
           },
           {
-            "id": "81ca8e2d-a665-44d8-8f60-f9a121804bf0",
-            "clue": "Go into a building or vehicle",
-            "answer": "enter",
-            "normalized": "enter"
+            "id": "fc7538f5-4d58-46e5-9317-b2cdc76e76aa",
+            "clue": "Nucleic acid that can be messenger, ribosomal",
+            "answer": "rna",
+            "normalized": "rna"
           },
           {
-            "id": "67cc3fa1-7e1d-43c7-8889-e31ee6b07405",
-            "clue": "When an enemy entirely surrounds you, say",
-            "answer": "siege",
-            "normalized": "siege"
+            "id": "1cf96294-c2f9-479e-a9a3-85c614c7870d",
+            "clue": "Country in which the airline Gulf Air is based",
+            "answer": "bahrain",
+            "normalized": "bahrain"
           },
           {
-            "id": "08f8fcc9-7d4a-44cf-bde1-b44437768e76",
-            "clue": "Small piece, like uneaten food",
-            "answer": "scrap",
-            "normalized": "scrap"
+            "id": "ae1dee89-6041-46f6-87da-e315199a066e",
+            "clue": "Touches someone with holy water",
+            "answer": "blesses",
+            "normalized": "blesses"
           },
           {
-            "id": "35470b8b-bc52-4c6d-8959-fbf6ca3a315c",
-            "clue": "A flaw or weakness in an argument",
-            "answer": "hole",
-            "normalized": "hole"
+            "id": "211562d3-1d4c-464d-aa1b-861f165e1841",
+            "clue": "Unit of length equal to 36 inches",
+            "answer": "yard",
+            "normalized": "yard"
           },
           {
-            "id": "2328cd5c-46a9-4994-acd8-1100787d5628",
-            "clue": "Central Asia's depleted sea",
-            "answer": "aral",
-            "normalized": "aral"
+            "id": "adfbdce2-5ace-4c9c-8224-5135819e6f1e",
+            "clue": "__ your bottom dollar, sang Annie",
+            "answer": "bet",
+            "normalized": "bet"
           },
           {
-            "id": "3aae5bb0-f443-4eda-a77c-fedf7dc81312",
-            "clue": "Recompense, damages, amends",
-            "answer": "redress",
-            "normalized": "redress"
+            "id": "2f362358-cd75-4ac1-bbfc-ad3e06ebe98b",
+            "clue": "Posh musicals with classically trained singers",
+            "answer": "operas",
+            "normalized": "operas"
           },
           {
-            "id": "d0d01d06-17e4-4a56-935d-15a91de7b289",
-            "clue": "To do with aircraft electronics",
-            "answer": "avionic",
-            "normalized": "avionic"
+            "id": "d1136d5f-13b5-4b1e-8772-a4cf6dc7c787",
+            "clue": "__ Taupin, songwriter with Elton John",
+            "answer": "bernie",
+            "normalized": "bernie"
           },
           {
-            "id": "a113f8f1-9283-49b8-9eef-decceda82644",
-            "clue": "To go back into a room or building",
-            "answer": "reenter",
-            "normalized": "reenter"
+            "id": "27e3d45b-0c76-44ca-9b22-2aeedcc1adac",
+            "clue": "Peoples linked to early Vedic culture",
+            "answer": "aryans",
+            "normalized": "aryans"
           },
           {
-            "id": "6c465210-4b94-4176-a33e-e2b5a651409b",
-            "clue": "Visakhapatnam Airport is also a naval air station",
-            "answer": "ins dega",
-            "normalized": "insdega"
+            "id": "4263ea3c-b71d-456f-896b-007ad3888e13",
+            "clue": "Scaly, flaky, mangy",
+            "answer": "scabby",
+            "normalized": "scabby"
           },
           {
-            "id": "bb1fb687-f1bc-4111-aeff-03fb2b436cf9",
-            "clue": "Short word for a company's salesman",
-            "answer": "rep",
-            "normalized": "rep"
+            "id": "771a019f-da04-40f7-99f7-618b5545ea54",
+            "clue": "Important depot on the Mumbai Monorail route",
+            "answer": "wadala",
+            "normalized": "wadala"
+          },
+          {
+            "id": "8b4ff174-4b36-4100-8841-ed0499b0e842",
+            "clue": "Worker who engraves using acid",
+            "answer": "etcher",
+            "normalized": "etcher"
+          },
+          {
+            "id": "e93ca7e7-d545-41ae-820d-d5df19b6848e",
+            "clue": "Three-letter code for the Serbian dinar",
+            "answer": "rsd",
+            "normalized": "rsd"
           }
         ],
-        "track": "PC|LenCinY2026M11D10F1V000"
+        "track": "PC|LenCinY2026M11D11F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388956,21 +388956,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "0pRKlR/+E9tos4FiuSbVOzX3Y9vWBGnzLFlK+EW8baXca+47Ltezinbr9wNCeZ7wE8I0RB8t1cZLNZo3CKyS9K+0CU+r8DAmjmDcutTxoSLADZGaBVfxTQyrxEW0lx6odBdLamqIT7xk4KSlbVgDZGzEVYddDVIp9aKvxVBnCZaaeF5HYKZ+cZoLMN9b5oT0KfFlUkyEyq7uFnOLxcX9eH6plCa1yR73lqZeMpEa1wJ3ccMouCXUScw+LunaenCv0P6n1zUhOSGhVMqmk2C2VnnmuAKkOjUZapxVWadkbEE="
+        "J8w1EMSOdGcb9r2IuOCB/beVxLGf0MJOWabO9mX4550bL4WFQizzOZhA8mZY3C/YHyAcNOCvUC0ZuIj8N9Tuav9LwlWCM/7WTQUnP48oQu9zk8O3P7goIiN+y78pW3M0g2PgkcrmFMiZpdVvE948qDexXgrB1MgCOdtN8AjYDgxb9hqW/VIgm7cmy8Qyhp5lUu6dsCDWFYZxL/9gPBhAekVVdBbMTIMrfS1nJ5V38WQPf0wM/hloB4fL1L/bwcuuJtO+nUtU6A4ssr3pF1TrzglM4Y39pFF9zd3gvuL8svo="
       ]
     },
     "decrypted": {
-      "Id": "9a07637b-f7f9-4e7d-8388-685e2af55f76",
-      "Date": "2026-11-10T00:00:00Z",
+      "Id": "e0c1cd8c-9425-42e3-9478-7795ebfa9865",
+      "Date": "2026-11-11T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "sense",
-      "NormalizedPassword": "sense",
+      "Password": "heart",
+      "NormalizedPassword": "heart",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 4,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-10T07:10:17.5380000+05:30",
-    "hash": "cfa3dc7acb93eb256657983dfea42f92",
+    "dtu": "2026-11-11T05:06:40.1920000+05:30",
+    "hash": "45b6f4f08ed8790a5d888a1d43cf2c86",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
