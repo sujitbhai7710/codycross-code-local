@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T00:53:11.753Z",
+  "generatedAt": "2026-11-12T23:43:47.864Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 12
+    "day": 13
   },
   "crossword": {
     "archive": [
@@ -22195,7 +22195,7 @@
             },
             {
               "id": "a34ef7a7-2118-44b5-ae45-b5147afbdb1a",
-              "clue": "Dracula's actual surname, Vlad __",
+              "clue": "Vlad __, a 15th-century Wallachian ruler",
               "answer": "tepes",
               "normalized": "tepes"
             },
@@ -137227,7 +137227,7 @@
             },
             {
               "id": "9bd07e35-1d52-4346-bde9-e8fb402229bf",
-              "clue": "Popular squid used in sashimi",
+              "clue": "Japanese word for squid, seen on a sashimi menu",
               "answer": "ika",
               "normalized": "ika"
             }
@@ -388125,367 +388125,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-12",
+      "key": "2026-11-13",
       "year": 2026,
       "month": 11,
-      "day": 12,
+      "day": 13,
       "small": {
-        "puzzleId": "7e4f3777-7279-46a1-9d10-c767154889b0",
+        "puzzleId": "a6df5be3-3894-43d9-8783-5d944a7c9299",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "74804769-c24a-4aa0-8756-80b40e510a23",
-            "clue": "Popular abbreviation for Aligarh Muslim University",
-            "answer": "amu",
-            "normalized": "amu"
+            "id": "912db44f-6d82-46f8-be67-e72031c06d36",
+            "clue": "Of eyes, small, round and shiny",
+            "answer": "beady",
+            "normalized": "beady"
           },
           {
-            "id": "b8211ed5-3a8e-451c-a141-5862094f1b4e",
-            "clue": "Sister of Robb and Arya Stark in Game of Thrones",
-            "answer": "sansa",
-            "normalized": "sansa"
+            "id": "da250a9c-e602-4409-8f20-8aea9f650c58",
+            "clue": "Brightest star in the constellation Lepus",
+            "answer": "arneb",
+            "normalized": "arneb"
           },
           {
-            "id": "359a2df5-4a24-4657-a2af-56a56103b294",
-            "clue": "Robin Hood's love, Maid __",
-            "answer": "marian",
-            "normalized": "marian"
+            "id": "7b8f59f5-f22b-4f2b-b0a3-53c3735796c0",
+            "clue": "Country formerly known as Portuguese West Africa",
+            "answer": "angola",
+            "normalized": "angola"
           },
           {
-            "id": "f21b9d12-5802-49b7-b711-28599952a683",
-            "clue": "Unaccountable, myriad, innumerable",
-            "answer": "untold",
-            "normalized": "untold"
+            "id": "82620e69-bdb6-4bc3-9c43-8c61e4696ad8",
+            "clue": "Machine that plants grains that become plants",
+            "answer": "seeder",
+            "normalized": "seeder"
           },
           {
-            "id": "613847d7-e5bd-4970-8259-9d48f39b7728",
-            "clue": "Former badminton world No. 1 from India, __ Nehwal",
-            "answer": "saina",
-            "normalized": "saina"
+            "id": "7f194945-925b-46c5-9072-df0f1b7c8b4f",
+            "clue": "Tilt slightly",
+            "answer": "slant",
+            "normalized": "slant"
           },
           {
-            "id": "78d8b48a-24ee-462d-900e-7e91de844e75",
-            "clue": "The drama school Nawazuddin Siddiqui attended",
-            "answer": "nsd",
-            "normalized": "nsd"
+            "id": "be01499a-4f37-440c-8a0b-b02bd8985932",
+            "clue": "Pie-like desserts with no top crusts",
+            "answer": "tarts",
+            "normalized": "tarts"
           },
           {
-            "id": "515b0181-d291-499c-9ac5-958a096c3482",
-            "clue": "Yoga word for a posture, from Sanskrit",
-            "answer": "asana",
-            "normalized": "asana"
+            "id": "e7999566-c3e1-41ef-b527-acf9d469f389",
+            "clue": "Sheep sounds",
+            "answer": "baas",
+            "normalized": "baas"
           },
           {
-            "id": "2f2e613f-548f-41fe-b30c-8a57d7f115ba",
-            "clue": "Chris __; lead singer of Coldplay",
-            "answer": "martin",
-            "normalized": "martin"
+            "id": "aa5d96dd-ba35-467b-ac6a-d5c940230a2f",
+            "clue": "Author of The Old Man and the Sea, __ Hemingway",
+            "answer": "ernest",
+            "normalized": "ernest"
           },
           {
-            "id": "24ee0ed8-9566-46a1-a6d2-97a8f2123181",
-            "clue": "Joinings, people coming together as one",
-            "answer": "unions",
-            "normalized": "unions"
+            "id": "4cfe20b3-8868-46ad-a37f-3aabd7d7afd1",
+            "clue": "__ Merkel, Germany's first woman Chancellor",
+            "answer": "angela",
+            "normalized": "angela"
           },
           {
-            "id": "b377f69f-8719-41b4-913c-c5e88e49dc15",
-            "clue": "Chef's, wedge, or fruit, e.g.",
-            "answer": "salad",
-            "normalized": "salad"
+            "id": "15fb344a-9344-44b0-9689-deea599ffa76",
+            "clue": "Trees surrounding the Chail Cricket Ground",
+            "answer": "deodar",
+            "normalized": "deodar"
           },
           {
-            "id": "83d38f6e-31f5-4ac6-96f6-12702ac33df3",
-            "clue": "Conjunction used in writing meaning \"in addition\"",
-            "answer": "and",
-            "normalized": "and"
+            "id": "25a14a64-f16c-45de-9ff9-3cd81179a218",
+            "clue": "Old term for the past participle of blend",
+            "answer": "yblent",
+            "normalized": "yblent"
           },
           {
-            "id": "a121537f-6be2-4b2a-901f-b6fa522c5646",
-            "clue": "Greek letters that look like Ms",
-            "answer": "mus",
-            "normalized": "mus"
+            "id": "84d0a8e1-01cb-4fc9-8b83-790db33b4209",
+            "clue": "Creative pursuits that go with crafts",
+            "answer": "arts",
+            "normalized": "arts"
           }
         ],
-        "track": "PC|LenCinY2026M11D12F0V000"
+        "track": "PC|LenCinY2026M11D13F0V000"
       },
       "mid": {
-        "puzzleId": "81bcfa57-d6dc-4a90-8e63-f18536438095",
+        "puzzleId": "a2e2d79e-c25f-4e13-aef6-caf4e98438ac",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "bc1bee86-a112-44fc-a8ff-33697182b505",
-            "clue": "Made restrictions less strict",
-            "answer": "eased",
-            "normalized": "eased"
+            "id": "07e64042-ff9c-497f-9381-2dbcd3603062",
+            "clue": "Title given to emperors and kings of Persia",
+            "answer": "shah",
+            "normalized": "shah"
           },
           {
-            "id": "bcf5060a-4449-4564-9cd3-15ade8bef6a2",
-            "clue": "Smallest bone in the human body",
-            "answer": "stapes",
-            "normalized": "stapes"
+            "id": "6f5b835a-ab3b-40bb-b367-257b60a35457",
+            "clue": "Kaleen Bhaiya's ambitious wife in Mirzapur",
+            "answer": "beena",
+            "normalized": "beena"
           },
           {
-            "id": "43eec852-956d-4cd1-8772-04f3b9d93dbb",
-            "clue": "City of Ashoka University's campus",
-            "answer": "sonipat",
-            "normalized": "sonipat"
+            "id": "92a84307-13d6-4851-8ec8-dddb0504d800",
+            "clue": "Card game where one can shoot the moon",
+            "answer": "hearts",
+            "normalized": "hearts"
           },
           {
-            "id": "b82b2233-9516-46b2-85f5-68679dbe10c7",
-            "clue": "All international pilots must speak this language",
-            "answer": "english",
-            "normalized": "english"
+            "id": "12059517-369e-422e-abac-c592350b2e5a",
+            "clue": "Three-letter code for the Saudi Arabian riyal",
+            "answer": "sar",
+            "normalized": "sar"
           },
           {
-            "id": "599cbd56-3d7d-426f-acfd-35c852ce72e5",
-            "clue": "The fictional mine at the heart of K.G.F",
-            "answer": "narachi",
-            "normalized": "narachi"
+            "id": "e803e7da-aa9a-432e-aee9-4ac802d6ed42",
+            "clue": "Parody film, __ Another Teen Movie",
+            "answer": "not",
+            "normalized": "not"
           },
           {
-            "id": "1d486b51-d1a8-47d1-bf4d-203cc945dc75",
-            "clue": "The second of two options, not the former",
-            "answer": "latter",
-            "normalized": "latter"
+            "id": "cb06b2a5-ff95-4fd6-bdda-44ea16dc92df",
+            "clue": "Extinct human ancestor; 1970 Kinks single",
+            "answer": "apeman",
+            "normalized": "apeman"
           },
           {
-            "id": "2cb03cb3-d283-479e-8b46-f1d4b0db60be",
-            "clue": "Lionel __, footballer who moved to PSG in 2021",
-            "answer": "messi",
-            "normalized": "messi"
+            "id": "d2d49f9e-41ad-4d42-aeb8-8df6e15190df",
+            "clue": "Lead actress in Bimal Roy's 'Bandini'",
+            "answer": "nutan",
+            "normalized": "nutan"
           },
           {
-            "id": "42ee1b7d-5294-4015-844a-70b8f34f2d76",
-            "clue": "Second-largest city of the Ruhr in Germany",
-            "answer": "essen",
-            "normalized": "essen"
+            "id": "95a5bc97-6e00-4c09-a44a-3a12b65b3c58",
+            "clue": "Name used by the ExxonMobil oil company",
+            "answer": "esso",
+            "normalized": "esso"
           },
           {
-            "id": "bcd38986-f9f8-4fde-aa02-84d8e37e8225",
-            "clue": "Music style in no key, sounds controversial",
-            "answer": "atonal",
-            "normalized": "atonal"
+            "id": "a6231ad2-f03f-4774-a6d2-04649caeac59",
+            "clue": "She sells __shells by the __shore",
+            "answer": "sea",
+            "normalized": "sea"
           },
           {
-            "id": "4c3a4ac6-fd11-451d-9fa9-327a9e226582",
-            "clue": "Aarya's impulsive and reckless brother in the show",
-            "answer": "sangram",
-            "normalized": "sangram"
+            "id": "f5ff1b43-ca8b-4db8-82f4-99bd9b2b01b9",
+            "clue": "__ Cortes, Spanish conquistador",
+            "answer": "hernan",
+            "normalized": "hernan"
           },
           {
-            "id": "29ac8b72-6bd6-4b6a-b597-19fd262abafe",
-            "clue": "Remove hair with a machine that plucks – ouch!",
-            "answer": "epilate",
-            "normalized": "epilate"
+            "id": "c6b7d06a-4e79-4d45-aa42-97334f4a7ca5",
+            "clue": "The Russian mafia boss in the series Aarya",
+            "answer": "anton",
+            "normalized": "anton"
           },
           {
-            "id": "eaa38393-25a1-49c0-8be6-34350979b26a",
-            "clue": "Shows, represents",
-            "answer": "depicts",
-            "normalized": "depicts"
+            "id": "52f508d9-48b4-44c3-ad9d-9042e040c74b",
+            "clue": "Thou __ not half that power to do me harm, Othello",
+            "answer": "hast",
+            "normalized": "hast"
           },
           {
-            "id": "4e56ec85-331f-4022-8088-251e0ba581aa",
-            "clue": "Satin strips worn as part of formal uniforms",
-            "answer": "sashes",
-            "normalized": "sashes"
+            "id": "7b3e075b-cc1d-483c-8777-fa0d0224eb7e",
+            "clue": "Jaunty felt hats associated with France",
+            "answer": "berets",
+            "normalized": "berets"
           },
           {
-            "id": "f9c7a7fc-9a8d-4489-8073-f7ca4ca0bb03",
-            "clue": "The cotton wick used in a Kumbakonam lamp",
-            "answer": "thiri",
-            "normalized": "thiri"
+            "id": "fb13f138-2b7b-44ed-b38c-b6ad1bb30ef0",
+            "clue": "Popular local name for Alphonso mangoes",
+            "answer": "hapus",
+            "normalized": "hapus"
+          },
+          {
+            "id": "ab428c38-0e3f-4870-973f-fd6600e1be37",
+            "clue": "Of sound mind; rhymes with pane",
+            "answer": "sane",
+            "normalized": "sane"
+          },
+          {
+            "id": "0a07107f-40df-4ffb-84c5-aabe767c1eb4",
+            "clue": "Chinese Chairman with a Little Red Book",
+            "answer": "mao",
+            "normalized": "mao"
           }
         ],
-        "track": "PC|LenCinY2026M11D12F1V000"
+        "track": "PC|LenCinY2026M11D13F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-12",
+      "key": "2026-11-13",
       "year": 2026,
       "month": 11,
-      "day": 12,
+      "day": 13,
       "small": {
-        "puzzleId": "7e4f3777-7279-46a1-9d10-c767154889b0",
+        "puzzleId": "a6df5be3-3894-43d9-8783-5d944a7c9299",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "74804769-c24a-4aa0-8756-80b40e510a23",
-            "clue": "Popular abbreviation for Aligarh Muslim University",
-            "answer": "amu",
-            "normalized": "amu"
+            "id": "912db44f-6d82-46f8-be67-e72031c06d36",
+            "clue": "Of eyes, small, round and shiny",
+            "answer": "beady",
+            "normalized": "beady"
           },
           {
-            "id": "b8211ed5-3a8e-451c-a141-5862094f1b4e",
-            "clue": "Sister of Robb and Arya Stark in Game of Thrones",
-            "answer": "sansa",
-            "normalized": "sansa"
+            "id": "da250a9c-e602-4409-8f20-8aea9f650c58",
+            "clue": "Brightest star in the constellation Lepus",
+            "answer": "arneb",
+            "normalized": "arneb"
           },
           {
-            "id": "359a2df5-4a24-4657-a2af-56a56103b294",
-            "clue": "Robin Hood's love, Maid __",
-            "answer": "marian",
-            "normalized": "marian"
+            "id": "7b8f59f5-f22b-4f2b-b0a3-53c3735796c0",
+            "clue": "Country formerly known as Portuguese West Africa",
+            "answer": "angola",
+            "normalized": "angola"
           },
           {
-            "id": "f21b9d12-5802-49b7-b711-28599952a683",
-            "clue": "Unaccountable, myriad, innumerable",
-            "answer": "untold",
-            "normalized": "untold"
+            "id": "82620e69-bdb6-4bc3-9c43-8c61e4696ad8",
+            "clue": "Machine that plants grains that become plants",
+            "answer": "seeder",
+            "normalized": "seeder"
           },
           {
-            "id": "613847d7-e5bd-4970-8259-9d48f39b7728",
-            "clue": "Former badminton world No. 1 from India, __ Nehwal",
-            "answer": "saina",
-            "normalized": "saina"
+            "id": "7f194945-925b-46c5-9072-df0f1b7c8b4f",
+            "clue": "Tilt slightly",
+            "answer": "slant",
+            "normalized": "slant"
           },
           {
-            "id": "78d8b48a-24ee-462d-900e-7e91de844e75",
-            "clue": "The drama school Nawazuddin Siddiqui attended",
-            "answer": "nsd",
-            "normalized": "nsd"
+            "id": "be01499a-4f37-440c-8a0b-b02bd8985932",
+            "clue": "Pie-like desserts with no top crusts",
+            "answer": "tarts",
+            "normalized": "tarts"
           },
           {
-            "id": "515b0181-d291-499c-9ac5-958a096c3482",
-            "clue": "Yoga word for a posture, from Sanskrit",
-            "answer": "asana",
-            "normalized": "asana"
+            "id": "e7999566-c3e1-41ef-b527-acf9d469f389",
+            "clue": "Sheep sounds",
+            "answer": "baas",
+            "normalized": "baas"
           },
           {
-            "id": "2f2e613f-548f-41fe-b30c-8a57d7f115ba",
-            "clue": "Chris __; lead singer of Coldplay",
-            "answer": "martin",
-            "normalized": "martin"
+            "id": "aa5d96dd-ba35-467b-ac6a-d5c940230a2f",
+            "clue": "Author of The Old Man and the Sea, __ Hemingway",
+            "answer": "ernest",
+            "normalized": "ernest"
           },
           {
-            "id": "24ee0ed8-9566-46a1-a6d2-97a8f2123181",
-            "clue": "Joinings, people coming together as one",
-            "answer": "unions",
-            "normalized": "unions"
+            "id": "4cfe20b3-8868-46ad-a37f-3aabd7d7afd1",
+            "clue": "__ Merkel, Germany's first woman Chancellor",
+            "answer": "angela",
+            "normalized": "angela"
           },
           {
-            "id": "b377f69f-8719-41b4-913c-c5e88e49dc15",
-            "clue": "Chef's, wedge, or fruit, e.g.",
-            "answer": "salad",
-            "normalized": "salad"
+            "id": "15fb344a-9344-44b0-9689-deea599ffa76",
+            "clue": "Trees surrounding the Chail Cricket Ground",
+            "answer": "deodar",
+            "normalized": "deodar"
           },
           {
-            "id": "83d38f6e-31f5-4ac6-96f6-12702ac33df3",
-            "clue": "Conjunction used in writing meaning \"in addition\"",
-            "answer": "and",
-            "normalized": "and"
+            "id": "25a14a64-f16c-45de-9ff9-3cd81179a218",
+            "clue": "Old term for the past participle of blend",
+            "answer": "yblent",
+            "normalized": "yblent"
           },
           {
-            "id": "a121537f-6be2-4b2a-901f-b6fa522c5646",
-            "clue": "Greek letters that look like Ms",
-            "answer": "mus",
-            "normalized": "mus"
+            "id": "84d0a8e1-01cb-4fc9-8b83-790db33b4209",
+            "clue": "Creative pursuits that go with crafts",
+            "answer": "arts",
+            "normalized": "arts"
           }
         ],
-        "track": "PC|LenCinY2026M11D12F0V000"
+        "track": "PC|LenCinY2026M11D13F0V000"
       },
       "mid": {
-        "puzzleId": "81bcfa57-d6dc-4a90-8e63-f18536438095",
+        "puzzleId": "a2e2d79e-c25f-4e13-aef6-caf4e98438ac",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "bc1bee86-a112-44fc-a8ff-33697182b505",
-            "clue": "Made restrictions less strict",
-            "answer": "eased",
-            "normalized": "eased"
+            "id": "07e64042-ff9c-497f-9381-2dbcd3603062",
+            "clue": "Title given to emperors and kings of Persia",
+            "answer": "shah",
+            "normalized": "shah"
           },
           {
-            "id": "bcf5060a-4449-4564-9cd3-15ade8bef6a2",
-            "clue": "Smallest bone in the human body",
-            "answer": "stapes",
-            "normalized": "stapes"
+            "id": "6f5b835a-ab3b-40bb-b367-257b60a35457",
+            "clue": "Kaleen Bhaiya's ambitious wife in Mirzapur",
+            "answer": "beena",
+            "normalized": "beena"
           },
           {
-            "id": "43eec852-956d-4cd1-8772-04f3b9d93dbb",
-            "clue": "City of Ashoka University's campus",
-            "answer": "sonipat",
-            "normalized": "sonipat"
+            "id": "92a84307-13d6-4851-8ec8-dddb0504d800",
+            "clue": "Card game where one can shoot the moon",
+            "answer": "hearts",
+            "normalized": "hearts"
           },
           {
-            "id": "b82b2233-9516-46b2-85f5-68679dbe10c7",
-            "clue": "All international pilots must speak this language",
-            "answer": "english",
-            "normalized": "english"
+            "id": "12059517-369e-422e-abac-c592350b2e5a",
+            "clue": "Three-letter code for the Saudi Arabian riyal",
+            "answer": "sar",
+            "normalized": "sar"
           },
           {
-            "id": "599cbd56-3d7d-426f-acfd-35c852ce72e5",
-            "clue": "The fictional mine at the heart of K.G.F",
-            "answer": "narachi",
-            "normalized": "narachi"
+            "id": "e803e7da-aa9a-432e-aee9-4ac802d6ed42",
+            "clue": "Parody film, __ Another Teen Movie",
+            "answer": "not",
+            "normalized": "not"
           },
           {
-            "id": "1d486b51-d1a8-47d1-bf4d-203cc945dc75",
-            "clue": "The second of two options, not the former",
-            "answer": "latter",
-            "normalized": "latter"
+            "id": "cb06b2a5-ff95-4fd6-bdda-44ea16dc92df",
+            "clue": "Extinct human ancestor; 1970 Kinks single",
+            "answer": "apeman",
+            "normalized": "apeman"
           },
           {
-            "id": "2cb03cb3-d283-479e-8b46-f1d4b0db60be",
-            "clue": "Lionel __, footballer who moved to PSG in 2021",
-            "answer": "messi",
-            "normalized": "messi"
+            "id": "d2d49f9e-41ad-4d42-aeb8-8df6e15190df",
+            "clue": "Lead actress in Bimal Roy's 'Bandini'",
+            "answer": "nutan",
+            "normalized": "nutan"
           },
           {
-            "id": "42ee1b7d-5294-4015-844a-70b8f34f2d76",
-            "clue": "Second-largest city of the Ruhr in Germany",
-            "answer": "essen",
-            "normalized": "essen"
+            "id": "95a5bc97-6e00-4c09-a44a-3a12b65b3c58",
+            "clue": "Name used by the ExxonMobil oil company",
+            "answer": "esso",
+            "normalized": "esso"
           },
           {
-            "id": "bcd38986-f9f8-4fde-aa02-84d8e37e8225",
-            "clue": "Music style in no key, sounds controversial",
-            "answer": "atonal",
-            "normalized": "atonal"
+            "id": "a6231ad2-f03f-4774-a6d2-04649caeac59",
+            "clue": "She sells __shells by the __shore",
+            "answer": "sea",
+            "normalized": "sea"
           },
           {
-            "id": "4c3a4ac6-fd11-451d-9fa9-327a9e226582",
-            "clue": "Aarya's impulsive and reckless brother in the show",
-            "answer": "sangram",
-            "normalized": "sangram"
+            "id": "f5ff1b43-ca8b-4db8-82f4-99bd9b2b01b9",
+            "clue": "__ Cortes, Spanish conquistador",
+            "answer": "hernan",
+            "normalized": "hernan"
           },
           {
-            "id": "29ac8b72-6bd6-4b6a-b597-19fd262abafe",
-            "clue": "Remove hair with a machine that plucks – ouch!",
-            "answer": "epilate",
-            "normalized": "epilate"
+            "id": "c6b7d06a-4e79-4d45-aa42-97334f4a7ca5",
+            "clue": "The Russian mafia boss in the series Aarya",
+            "answer": "anton",
+            "normalized": "anton"
           },
           {
-            "id": "eaa38393-25a1-49c0-8be6-34350979b26a",
-            "clue": "Shows, represents",
-            "answer": "depicts",
-            "normalized": "depicts"
+            "id": "52f508d9-48b4-44c3-ad9d-9042e040c74b",
+            "clue": "Thou __ not half that power to do me harm, Othello",
+            "answer": "hast",
+            "normalized": "hast"
           },
           {
-            "id": "4e56ec85-331f-4022-8088-251e0ba581aa",
-            "clue": "Satin strips worn as part of formal uniforms",
-            "answer": "sashes",
-            "normalized": "sashes"
+            "id": "7b3e075b-cc1d-483c-8777-fa0d0224eb7e",
+            "clue": "Jaunty felt hats associated with France",
+            "answer": "berets",
+            "normalized": "berets"
           },
           {
-            "id": "f9c7a7fc-9a8d-4489-8073-f7ca4ca0bb03",
-            "clue": "The cotton wick used in a Kumbakonam lamp",
-            "answer": "thiri",
-            "normalized": "thiri"
+            "id": "fb13f138-2b7b-44ed-b38c-b6ad1bb30ef0",
+            "clue": "Popular local name for Alphonso mangoes",
+            "answer": "hapus",
+            "normalized": "hapus"
+          },
+          {
+            "id": "ab428c38-0e3f-4870-973f-fd6600e1be37",
+            "clue": "Of sound mind; rhymes with pane",
+            "answer": "sane",
+            "normalized": "sane"
+          },
+          {
+            "id": "0a07107f-40df-4ffb-84c5-aabe767c1eb4",
+            "clue": "Chinese Chairman with a Little Red Book",
+            "answer": "mao",
+            "normalized": "mao"
           }
         ],
-        "track": "PC|LenCinY2026M11D12F1V000"
+        "track": "PC|LenCinY2026M11D13F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388673,21 +388697,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "OTivwMzUtw8mpwMgCpiI7V6bJ3Izu4idfI3ajwg5roCJtSWqFS/VbLr+eWfWtcgELFwFw6gRBukH6VQyEf6ak9R5gVzcmaIRuG2zWpaPFN8Y9Yw+eOqZCALRujfCUw6U+FSbVe7tgsplAns63hYx4GrAX8VDqk1KbwEE8XZfKyrxKwnYiUuJ6dOgMXtbfhnLWRnNulnIUwVLhGF1okhwf2ctgexoSByXt+FbcOEVcrYth5Ksaei5d+dRwi1kyaWbcT0N/lZWIup/R1338JH2bdIc/eZLQIC6ye4m1C035cg="
+        "daPdNJVC2iM6mfvMS96Wd0C13wUE0emvazlE0YNGOHRKrKvazI+hv1pXcjXphIH4yEwqMgEHcyj+r9f/0MN80rR+ZVf0a5rGeyYRYa3ltxopIlXPJkL+hpUT6WB8hjYwaEDfSHfQ20dN30ZTNJUiXdxkH3IZSvXcrOzEiWhT0NF0lBsyC7vVVu4mrPw8lnFNXQs0vLRD9/EftXqFggoCmdK4hy8zGaETYgwCG8ktPR14vdBaDacdqZ62unMldyXYqTrbGEWO8OhdhTgld9Hq1C2n97P6c/RekBwQcwjdCb4="
       ]
     },
     "decrypted": {
-      "Id": "4d65f698-4ae6-4c95-9241-d20385f2edf9",
-      "Date": "2026-11-12T00:00:00Z",
+      "Id": "ca46d11a-f8e3-4375-9d5c-77cf9074814f",
+      "Date": "2026-11-13T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "phone",
-      "NormalizedPassword": "phone",
+      "Password": "siren",
+      "NormalizedPassword": "siren",
       "MaxGuesses": 6,
-      "Version": 3,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-12T06:23:11.7530000+05:30",
-    "hash": "8123cb37c73a202c3ca82a5ff2319c26",
+    "dtu": "2026-11-13T05:13:47.8640000+05:30",
+    "hash": "3f992666c41a0a2d54e88608f0540662",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
