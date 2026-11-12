@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T23:36:40.192Z",
+  "generatedAt": "2026-11-12T00:53:11.753Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 11
+    "day": 12
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 18
+        "QuantidadeDeFases": 22
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -420,18 +420,6 @@
         "Year": 2021,
         "Month": 3,
         "QuantidadeDeFases": 58
-      },
-      {
-        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-        "Year": 2019,
-        "Month": 7,
-        "QuantidadeDeFases": 2
-      },
-      {
-        "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-        "Year": 2019,
-        "Month": 6,
-        "QuantidadeDeFases": 1
       }
     ],
     "archiveEntries": [
@@ -56965,7 +56953,7 @@
             },
             {
               "id": "9bd07e35-1d52-4346-bde9-e8fb402229bf",
-              "clue": "Popular squid used in sashimi",
+              "clue": "Japanese word for squid, seen on a sashimi menu",
               "answer": "ika",
               "normalized": "ika"
             },
@@ -170937,7 +170925,7 @@
             },
             {
               "id": "9bd07e35-1d52-4346-bde9-e8fb402229bf",
-              "clue": "Popular squid used in sashimi",
+              "clue": "Japanese word for squid, seen on a sashimi menu",
               "answer": "ika",
               "normalized": "ika"
             }
@@ -190811,7 +190799,7 @@
             },
             {
               "id": "9bd07e35-1d52-4346-bde9-e8fb402229bf",
-              "clue": "Popular squid used in sashimi",
+              "clue": "Japanese word for squid, seen on a sashimi menu",
               "answer": "ika",
               "normalized": "ika"
             },
@@ -269621,7 +269609,7 @@
             },
             {
               "id": "9bd07e35-1d52-4346-bde9-e8fb402229bf",
-              "clue": "Popular squid used in sashimi",
+              "clue": "Japanese word for squid, seen on a sashimi menu",
               "answer": "ika",
               "normalized": "ika"
             },
@@ -370279,7 +370267,7 @@
             },
             {
               "id": "9bd07e35-1d52-4346-bde9-e8fb402229bf",
-              "clue": "Popular squid used in sashimi",
+              "clue": "Japanese word for squid, seen on a sashimi menu",
               "answer": "ika",
               "normalized": "ika"
             },
@@ -388134,641 +388122,370 @@
           ],
           "track": "PC|LenCinY2021M3D3F1V000"
         }
-      },
-      {
-        "key": "2019-07-09",
-        "year": 2019,
-        "month": 7,
-        "day": 9,
-        "small": {
-          "puzzleId": "78b6bc83-92f7-4bc4-a49b-4c928b280948",
-          "fase": 0,
-          "size": 1,
-          "status": 1,
-          "version": 0,
-          "answers": [
-            {
-              "id": "b9f0e10c-0c44-46d6-aa60-a9c91e99dccc",
-              "clue": "Metal pieces that fit over the loop for a padlock",
-              "answer": "hasps",
-              "normalized": "hasps"
-            },
-            {
-              "id": "d6a7db1b-d939-44de-9d55-360df0809386",
-              "clue": "Movie reviews might have this warning for spoilers",
-              "answer": "alert",
-              "normalized": "alert"
-            },
-            {
-              "id": "4d0fe523-2cf7-493a-87b8-1c693afa5d17",
-              "clue": "Interior furnishings and look of a room",
-              "answer": "decor",
-              "normalized": "decor"
-            },
-            {
-              "id": "a1491d7b-a68d-4c20-a6d0-48aabc304e9e",
-              "clue": "Currency of India and Pakistan",
-              "answer": "rupee",
-              "normalized": "rupee"
-            },
-            {
-              "id": "44a03bcf-55ce-461a-880e-160a50eeaba9",
-              "clue": "Tend to, provide medical care",
-              "answer": "treat",
-              "normalized": "treat"
-            },
-            {
-              "id": "9dec67e9-9d3a-44d7-a827-7fd2c500e330",
-              "clue": "Sister of Marge and Patty in The Simpsons",
-              "answer": "selma",
-              "normalized": "selma"
-            },
-            {
-              "id": "4360e6be-cdf6-4306-b9e6-98f75272e94f",
-              "clue": "Owned, possessed",
-              "answer": "had",
-              "normalized": "had"
-            },
-            {
-              "id": "af88b6e4-69db-4f67-912f-46869f5a11b9",
-              "clue": "Notifications, warnings",
-              "answer": "alerts",
-              "normalized": "alerts"
-            },
-            {
-              "id": "5da77357-d5df-40aa-9651-ff0d8c1696c4",
-              "clue": "The S in a website's HTTPS",
-              "answer": "secure",
-              "normalized": "secure"
-            },
-            {
-              "id": "f34aa021-90cc-4126-80b3-2f5b55639730",
-              "clue": "Push forward",
-              "answer": "propel",
-              "normalized": "propel"
-            },
-            {
-              "id": "46474998-e2a1-4a22-a366-3b91a9898c6e",
-              "clue": "Flow of water",
-              "answer": "stream",
-              "normalized": "stream"
-            },
-            {
-              "id": "ba4af45b-0dd8-45bf-881a-e8169a06c37b",
-              "clue": "Estimated time of arrival acronym",
-              "answer": "eta",
-              "normalized": "eta"
-            }
-          ],
-          "track": "PC|LenCinY2019M7D9F0V000"
-        },
-        "mid": {
-          "puzzleId": "6508e55e-c102-4370-a5e8-c1b146886806",
-          "fase": 1,
-          "size": 2,
-          "status": 1,
-          "version": 0,
-          "answers": [
-            {
-              "id": "00b376f3-771c-4c3b-9307-4a0350b8ae36",
-              "clue": "Actor Butterfield, star of Netflix's Sex Education",
-              "answer": "asa",
-              "normalized": "asa"
-            },
-            {
-              "id": "3a4529fd-1f37-4911-9a23-4ec97bf08a39",
-              "clue": "VoIP app bought by Rakuten in 2014",
-              "answer": "viber",
-              "normalized": "viber"
-            },
-            {
-              "id": "c539afe6-8ca6-4e49-b740-3e86486ac1e3",
-              "clue": "Not touched, not in service",
-              "answer": "unused",
-              "normalized": "unused"
-            },
-            {
-              "id": "6c33ac05-fb7c-441e-92b8-670eeedd82be",
-              "clue": "Desirous, lecherous",
-              "answer": "lustful",
-              "normalized": "lustful"
-            },
-            {
-              "id": "4ef9e4fa-da03-4523-accd-abc469e392e7",
-              "clue": "Using one's eyes to observe something",
-              "answer": "seeing",
-              "normalized": "seeing"
-            },
-            {
-              "id": "eac15038-6c71-44b9-8bb8-aca59435965f",
-              "clue": "Brightest star in the Cygnus constellation",
-              "answer": "deneb",
-              "normalized": "deneb"
-            },
-            {
-              "id": "dcab54b9-681f-44a6-b8a2-2e6b56d89b4a",
-              "clue": "Eastern standard time",
-              "answer": "est",
-              "normalized": "est"
-            },
-            {
-              "id": "7e5e0423-9d10-445a-aa41-5d7690778519",
-              "clue": "The 'A' in A. P. J. Abdul Kalam",
-              "answer": "avul",
-              "normalized": "avul"
-            },
-            {
-              "id": "c8b23984-5500-4472-bd32-4caa19523d38",
-              "clue": "Hollow in the head between the nose and mouth",
-              "answer": "sinus",
-              "normalized": "sinus"
-            },
-            {
-              "id": "90814dab-c7c2-4b8b-bd60-fee461f81a46",
-              "clue": "Misused in a way that can cause damage",
-              "answer": "abused",
-              "normalized": "abused"
-            },
-            {
-              "id": "aca32d99-b3e8-45e3-a417-62fdaf21cd6b",
-              "clue": "Founder of cosmetics company, __ Lauder",
-              "answer": "estee",
-              "normalized": "estee"
-            },
-            {
-              "id": "22940e97-d98d-4abd-8898-d4ca5eebc414",
-              "clue": "Make purer",
-              "answer": "refine",
-              "normalized": "refine"
-            },
-            {
-              "id": "fed433fe-ba96-40a2-bc2a-0685dcd6c7b4",
-              "clue": "Hills of sand",
-              "answer": "dunes",
-              "normalized": "dunes"
-            },
-            {
-              "id": "15a2ccb6-c6cb-4d97-95a0-dd52261c7286",
-              "clue": "Lesbian, gay, bisexual and transgender, initialism",
-              "answer": "lgbt",
-              "normalized": "lgbt"
-            }
-          ],
-          "track": "PC|LenCinY2019M7D9F1V000"
-        }
-      },
-      {
-        "key": "2019-06-05",
-        "year": 2019,
-        "month": 6,
-        "day": 5,
-        "small": {
-          "puzzleId": "7d6a765c-cdcd-40f3-ac48-5377fbc9c4ff",
-          "fase": 0,
-          "size": 1,
-          "status": 1,
-          "version": 0,
-          "answers": [
-            {
-              "id": "46dc4513-3628-43c7-8638-4d5b5e5dbe95",
-              "clue": "The Pithoo stones are placed in a ____",
-              "answer": "stack",
-              "normalized": "stack"
-            },
-            {
-              "id": "f2238877-15f4-42b2-8928-bcf74c7ec5dc",
-              "clue": "He is the 'old-school romantic' in Mismatched",
-              "answer": "rishi",
-              "normalized": "rishi"
-            },
-            {
-              "id": "72be892f-5982-44c6-8835-2fd6bfb7d2b1",
-              "clue": "Substances that react with acids",
-              "answer": "bases",
-              "normalized": "bases"
-            },
-            {
-              "id": "2f784b0d-ad41-4471-bfd0-eb0a0aada7ea",
-              "clue": "Legally Blonde Witherspoon",
-              "answer": "reese",
-              "normalized": "reese"
-            },
-            {
-              "id": "8cf59849-506e-4b89-a85a-b37dfd908b79",
-              "clue": "Former UN secretary-general Kofi",
-              "answer": "annan",
-              "normalized": "annan"
-            },
-            {
-              "id": "86367029-fe0b-4da9-b24e-4ee0875f04e7",
-              "clue": "Author who wrote Goosebumps series, R.L. __",
-              "answer": "stine",
-              "normalized": "stine"
-            },
-            {
-              "id": "db6dc420-8ef0-43f9-a536-fc93d5a6aa76",
-              "clue": "Serbia's three-letter country code",
-              "answer": "srb",
-              "normalized": "srb"
-            },
-            {
-              "id": "065bb0e3-7bf2-4f76-b82c-8e8996598b6f",
-              "clue": "Headpieces worn by princesses",
-              "answer": "tiaras",
-              "normalized": "tiaras"
-            },
-            {
-              "id": "fcd5e606-ae2c-4283-bd8b-c696bd1ccbd7",
-              "clue": "Confirm; give permission for",
-              "answer": "assent",
-              "normalized": "assent"
-            },
-            {
-              "id": "69dcd580-cd53-4391-b9f6-735afe1f6bc2",
-              "clue": "A key transgender character in Paatal Lok",
-              "answer": "cheeni",
-              "normalized": "cheeni"
-            },
-            {
-              "id": "67dfab27-b35e-4e35-998a-69601393aac6",
-              "clue": "Hindustan Unilever's brand for jams and ketchup",
-              "answer": "kissan",
-              "normalized": "kissan"
-            },
-            {
-              "id": "be336325-5fd0-4f48-b92e-b0709729eb8c",
-              "clue": "East-northeast for short",
-              "answer": "ene",
-              "normalized": "ene"
-            }
-          ],
-          "track": "PC|LenCinY2019M6D5F0V000"
-        },
-        "mid": null
       }
     ],
     "todayEntry": {
-      "key": "2026-11-11",
+      "key": "2026-11-12",
       "year": 2026,
       "month": 11,
-      "day": 11,
+      "day": 12,
       "small": {
-        "puzzleId": "f18ba599-7746-435a-a4d1-24e1a1b0195a",
+        "puzzleId": "7e4f3777-7279-46a1-9d10-c767154889b0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
-            "clue": "Quick way of saying you must leave a chat session",
-            "answer": "gtg",
-            "normalized": "gtg"
+            "id": "74804769-c24a-4aa0-8756-80b40e510a23",
+            "clue": "Popular abbreviation for Aligarh Muslim University",
+            "answer": "amu",
+            "normalized": "amu"
           },
           {
-            "id": "b4f34db8-0fd2-4d45-b559-b6c883c296db",
-            "clue": "Hindu month when Haryali Teej is celebrated",
-            "answer": "sawan",
-            "normalized": "sawan"
+            "id": "b8211ed5-3a8e-451c-a141-5862094f1b4e",
+            "clue": "Sister of Robb and Arya Stark in Game of Thrones",
+            "answer": "sansa",
+            "normalized": "sansa"
           },
           {
-            "id": "aad446a0-4c8f-4e70-921e-3bdb092b39a1",
-            "clue": "Lettered board for communicating with spirits",
-            "answer": "ouija",
-            "normalized": "ouija"
+            "id": "359a2df5-4a24-4657-a2af-56a56103b294",
+            "clue": "Robin Hood's love, Maid __",
+            "answer": "marian",
+            "normalized": "marian"
           },
           {
-            "id": "d9756daf-0e44-4934-a390-526813478d06",
-            "clue": "Nickname of a famous model of guitar",
-            "answer": "strat",
-            "normalized": "strat"
+            "id": "f21b9d12-5802-49b7-b711-28599952a683",
+            "clue": "Unaccountable, myriad, innumerable",
+            "answer": "untold",
+            "normalized": "untold"
           },
           {
-            "id": "e8616bb4-9c45-4fd0-82a4-d4bceaa7c82c",
-            "clue": "Type, sort",
-            "answer": "ilk",
-            "normalized": "ilk"
+            "id": "613847d7-e5bd-4970-8259-9d48f39b7728",
+            "clue": "Former badminton world No. 1 from India, __ Nehwal",
+            "answer": "saina",
+            "normalized": "saina"
           },
           {
-            "id": "b4b88abd-15cc-4344-83dc-119b19b5b2f7",
-            "clue": "Nickname for cricketer Gautam Gambhir",
-            "answer": "gauti",
-            "normalized": "gauti"
+            "id": "78d8b48a-24ee-462d-900e-7e91de844e75",
+            "clue": "The drama school Nawazuddin Siddiqui attended",
+            "answer": "nsd",
+            "normalized": "nsd"
           },
           {
-            "id": "522229e6-d104-43f9-8ec7-2dbe832ec20b",
-            "clue": "Spin or twist a baton, like a majorette",
-            "answer": "twirl",
-            "normalized": "twirl"
+            "id": "515b0181-d291-499c-9ac5-958a096c3482",
+            "clue": "Yoga word for a posture, from Sanskrit",
+            "answer": "asana",
+            "normalized": "asana"
           },
           {
-            "id": "e5179f5f-bc0b-4c21-95e2-ab579e4b80ec",
-            "clue": "A sweet winter snack famous in Meerut",
-            "answer": "gajak",
-            "normalized": "gajak"
+            "id": "2f2e613f-548f-41fe-b30c-8a57d7f115ba",
+            "clue": "Chris __; lead singer of Coldplay",
+            "answer": "martin",
+            "normalized": "martin"
           },
           {
-            "id": "a704ea01-4c46-4f08-9926-4c8688efd405",
-            "clue": "Three-letter code for the Somali shilling",
-            "answer": "sos",
-            "normalized": "sos"
+            "id": "24ee0ed8-9566-46a1-a6d2-97a8f2123181",
+            "clue": "Joinings, people coming together as one",
+            "answer": "unions",
+            "normalized": "unions"
           },
           {
-            "id": "a41bcbc5-9602-4d39-a43b-03d93c5bd340",
-            "clue": "Unforgettable King Cole",
-            "answer": "nat",
-            "normalized": "nat"
+            "id": "b377f69f-8719-41b4-913c-c5e88e49dc15",
+            "clue": "Chef's, wedge, or fruit, e.g.",
+            "answer": "salad",
+            "normalized": "salad"
+          },
+          {
+            "id": "83d38f6e-31f5-4ac6-96f6-12702ac33df3",
+            "clue": "Conjunction used in writing meaning \"in addition\"",
+            "answer": "and",
+            "normalized": "and"
+          },
+          {
+            "id": "a121537f-6be2-4b2a-901f-b6fa522c5646",
+            "clue": "Greek letters that look like Ms",
+            "answer": "mus",
+            "normalized": "mus"
           }
         ],
-        "track": "PC|LenCinY2026M11D11F0V000"
+        "track": "PC|LenCinY2026M11D12F0V000"
       },
       "mid": {
-        "puzzleId": "3d1cfb3f-89a4-4ca6-b56d-1b312c40b848",
+        "puzzleId": "81bcfa57-d6dc-4a90-8e63-f18536438095",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "6e755081-5897-4f5b-a37f-5e50db4dc278",
-            "clue": "The name of the juicy bubbles in a bubble tea",
-            "answer": "boba",
-            "normalized": "boba"
+            "id": "bc1bee86-a112-44fc-a8ff-33697182b505",
+            "clue": "Made restrictions less strict",
+            "answer": "eased",
+            "normalized": "eased"
           },
           {
-            "id": "61647fea-84cd-43e0-960c-68bd6b18dea4",
-            "clue": "Job of someone armed with a broom",
-            "answer": "sweeper",
-            "normalized": "sweeper"
+            "id": "bcf5060a-4449-4564-9cd3-15ade8bef6a2",
+            "clue": "Smallest bone in the human body",
+            "answer": "stapes",
+            "normalized": "stapes"
           },
           {
-            "id": "7805672d-1efb-4630-9dfd-8bf881c24f43",
-            "clue": "Where felines are left when owners are on holiday",
-            "answer": "cattery",
-            "normalized": "cattery"
+            "id": "43eec852-956d-4cd1-8772-04f3b9d93dbb",
+            "clue": "City of Ashoka University's campus",
+            "answer": "sonipat",
+            "normalized": "sonipat"
           },
           {
-            "id": "79df2d1d-5781-4a43-882a-58d462bc7ec3",
-            "clue": "Analogue to Digital Converter, in short",
-            "answer": "adc",
-            "normalized": "adc"
+            "id": "b82b2233-9516-46b2-85f5-68679dbe10c7",
+            "clue": "All international pilots must speak this language",
+            "answer": "english",
+            "normalized": "english"
           },
           {
-            "id": "fc7538f5-4d58-46e5-9317-b2cdc76e76aa",
-            "clue": "Nucleic acid that can be messenger, ribosomal",
-            "answer": "rna",
-            "normalized": "rna"
+            "id": "599cbd56-3d7d-426f-acfd-35c852ce72e5",
+            "clue": "The fictional mine at the heart of K.G.F",
+            "answer": "narachi",
+            "normalized": "narachi"
           },
           {
-            "id": "1cf96294-c2f9-479e-a9a3-85c614c7870d",
-            "clue": "Country in which the airline Gulf Air is based",
-            "answer": "bahrain",
-            "normalized": "bahrain"
+            "id": "1d486b51-d1a8-47d1-bf4d-203cc945dc75",
+            "clue": "The second of two options, not the former",
+            "answer": "latter",
+            "normalized": "latter"
           },
           {
-            "id": "ae1dee89-6041-46f6-87da-e315199a066e",
-            "clue": "Touches someone with holy water",
-            "answer": "blesses",
-            "normalized": "blesses"
+            "id": "2cb03cb3-d283-479e-8b46-f1d4b0db60be",
+            "clue": "Lionel __, footballer who moved to PSG in 2021",
+            "answer": "messi",
+            "normalized": "messi"
           },
           {
-            "id": "211562d3-1d4c-464d-aa1b-861f165e1841",
-            "clue": "Unit of length equal to 36 inches",
-            "answer": "yard",
-            "normalized": "yard"
+            "id": "42ee1b7d-5294-4015-844a-70b8f34f2d76",
+            "clue": "Second-largest city of the Ruhr in Germany",
+            "answer": "essen",
+            "normalized": "essen"
           },
           {
-            "id": "adfbdce2-5ace-4c9c-8224-5135819e6f1e",
-            "clue": "__ your bottom dollar, sang Annie",
-            "answer": "bet",
-            "normalized": "bet"
+            "id": "bcd38986-f9f8-4fde-aa02-84d8e37e8225",
+            "clue": "Music style in no key, sounds controversial",
+            "answer": "atonal",
+            "normalized": "atonal"
           },
           {
-            "id": "2f362358-cd75-4ac1-bbfc-ad3e06ebe98b",
-            "clue": "Posh musicals with classically trained singers",
-            "answer": "operas",
-            "normalized": "operas"
+            "id": "4c3a4ac6-fd11-451d-9fa9-327a9e226582",
+            "clue": "Aarya's impulsive and reckless brother in the show",
+            "answer": "sangram",
+            "normalized": "sangram"
           },
           {
-            "id": "d1136d5f-13b5-4b1e-8772-a4cf6dc7c787",
-            "clue": "__ Taupin, songwriter with Elton John",
-            "answer": "bernie",
-            "normalized": "bernie"
+            "id": "29ac8b72-6bd6-4b6a-b597-19fd262abafe",
+            "clue": "Remove hair with a machine that plucks – ouch!",
+            "answer": "epilate",
+            "normalized": "epilate"
           },
           {
-            "id": "27e3d45b-0c76-44ca-9b22-2aeedcc1adac",
-            "clue": "Peoples linked to early Vedic culture",
-            "answer": "aryans",
-            "normalized": "aryans"
+            "id": "eaa38393-25a1-49c0-8be6-34350979b26a",
+            "clue": "Shows, represents",
+            "answer": "depicts",
+            "normalized": "depicts"
           },
           {
-            "id": "4263ea3c-b71d-456f-896b-007ad3888e13",
-            "clue": "Scaly, flaky, mangy",
-            "answer": "scabby",
-            "normalized": "scabby"
+            "id": "4e56ec85-331f-4022-8088-251e0ba581aa",
+            "clue": "Satin strips worn as part of formal uniforms",
+            "answer": "sashes",
+            "normalized": "sashes"
           },
           {
-            "id": "771a019f-da04-40f7-99f7-618b5545ea54",
-            "clue": "Important depot on the Mumbai Monorail route",
-            "answer": "wadala",
-            "normalized": "wadala"
-          },
-          {
-            "id": "8b4ff174-4b36-4100-8841-ed0499b0e842",
-            "clue": "Worker who engraves using acid",
-            "answer": "etcher",
-            "normalized": "etcher"
-          },
-          {
-            "id": "e93ca7e7-d545-41ae-820d-d5df19b6848e",
-            "clue": "Three-letter code for the Serbian dinar",
-            "answer": "rsd",
-            "normalized": "rsd"
+            "id": "f9c7a7fc-9a8d-4489-8073-f7ca4ca0bb03",
+            "clue": "The cotton wick used in a Kumbakonam lamp",
+            "answer": "thiri",
+            "normalized": "thiri"
           }
         ],
-        "track": "PC|LenCinY2026M11D11F1V000"
+        "track": "PC|LenCinY2026M11D12F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-11",
+      "key": "2026-11-12",
       "year": 2026,
       "month": 11,
-      "day": 11,
+      "day": 12,
       "small": {
-        "puzzleId": "f18ba599-7746-435a-a4d1-24e1a1b0195a",
+        "puzzleId": "7e4f3777-7279-46a1-9d10-c767154889b0",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f1d7fb9d-e7de-4016-b734-5471e42d04a8",
-            "clue": "Quick way of saying you must leave a chat session",
-            "answer": "gtg",
-            "normalized": "gtg"
+            "id": "74804769-c24a-4aa0-8756-80b40e510a23",
+            "clue": "Popular abbreviation for Aligarh Muslim University",
+            "answer": "amu",
+            "normalized": "amu"
           },
           {
-            "id": "b4f34db8-0fd2-4d45-b559-b6c883c296db",
-            "clue": "Hindu month when Haryali Teej is celebrated",
-            "answer": "sawan",
-            "normalized": "sawan"
+            "id": "b8211ed5-3a8e-451c-a141-5862094f1b4e",
+            "clue": "Sister of Robb and Arya Stark in Game of Thrones",
+            "answer": "sansa",
+            "normalized": "sansa"
           },
           {
-            "id": "aad446a0-4c8f-4e70-921e-3bdb092b39a1",
-            "clue": "Lettered board for communicating with spirits",
-            "answer": "ouija",
-            "normalized": "ouija"
+            "id": "359a2df5-4a24-4657-a2af-56a56103b294",
+            "clue": "Robin Hood's love, Maid __",
+            "answer": "marian",
+            "normalized": "marian"
           },
           {
-            "id": "d9756daf-0e44-4934-a390-526813478d06",
-            "clue": "Nickname of a famous model of guitar",
-            "answer": "strat",
-            "normalized": "strat"
+            "id": "f21b9d12-5802-49b7-b711-28599952a683",
+            "clue": "Unaccountable, myriad, innumerable",
+            "answer": "untold",
+            "normalized": "untold"
           },
           {
-            "id": "e8616bb4-9c45-4fd0-82a4-d4bceaa7c82c",
-            "clue": "Type, sort",
-            "answer": "ilk",
-            "normalized": "ilk"
+            "id": "613847d7-e5bd-4970-8259-9d48f39b7728",
+            "clue": "Former badminton world No. 1 from India, __ Nehwal",
+            "answer": "saina",
+            "normalized": "saina"
           },
           {
-            "id": "b4b88abd-15cc-4344-83dc-119b19b5b2f7",
-            "clue": "Nickname for cricketer Gautam Gambhir",
-            "answer": "gauti",
-            "normalized": "gauti"
+            "id": "78d8b48a-24ee-462d-900e-7e91de844e75",
+            "clue": "The drama school Nawazuddin Siddiqui attended",
+            "answer": "nsd",
+            "normalized": "nsd"
           },
           {
-            "id": "522229e6-d104-43f9-8ec7-2dbe832ec20b",
-            "clue": "Spin or twist a baton, like a majorette",
-            "answer": "twirl",
-            "normalized": "twirl"
+            "id": "515b0181-d291-499c-9ac5-958a096c3482",
+            "clue": "Yoga word for a posture, from Sanskrit",
+            "answer": "asana",
+            "normalized": "asana"
           },
           {
-            "id": "e5179f5f-bc0b-4c21-95e2-ab579e4b80ec",
-            "clue": "A sweet winter snack famous in Meerut",
-            "answer": "gajak",
-            "normalized": "gajak"
+            "id": "2f2e613f-548f-41fe-b30c-8a57d7f115ba",
+            "clue": "Chris __; lead singer of Coldplay",
+            "answer": "martin",
+            "normalized": "martin"
           },
           {
-            "id": "a704ea01-4c46-4f08-9926-4c8688efd405",
-            "clue": "Three-letter code for the Somali shilling",
-            "answer": "sos",
-            "normalized": "sos"
+            "id": "24ee0ed8-9566-46a1-a6d2-97a8f2123181",
+            "clue": "Joinings, people coming together as one",
+            "answer": "unions",
+            "normalized": "unions"
           },
           {
-            "id": "a41bcbc5-9602-4d39-a43b-03d93c5bd340",
-            "clue": "Unforgettable King Cole",
-            "answer": "nat",
-            "normalized": "nat"
+            "id": "b377f69f-8719-41b4-913c-c5e88e49dc15",
+            "clue": "Chef's, wedge, or fruit, e.g.",
+            "answer": "salad",
+            "normalized": "salad"
+          },
+          {
+            "id": "83d38f6e-31f5-4ac6-96f6-12702ac33df3",
+            "clue": "Conjunction used in writing meaning \"in addition\"",
+            "answer": "and",
+            "normalized": "and"
+          },
+          {
+            "id": "a121537f-6be2-4b2a-901f-b6fa522c5646",
+            "clue": "Greek letters that look like Ms",
+            "answer": "mus",
+            "normalized": "mus"
           }
         ],
-        "track": "PC|LenCinY2026M11D11F0V000"
+        "track": "PC|LenCinY2026M11D12F0V000"
       },
       "mid": {
-        "puzzleId": "3d1cfb3f-89a4-4ca6-b56d-1b312c40b848",
+        "puzzleId": "81bcfa57-d6dc-4a90-8e63-f18536438095",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "6e755081-5897-4f5b-a37f-5e50db4dc278",
-            "clue": "The name of the juicy bubbles in a bubble tea",
-            "answer": "boba",
-            "normalized": "boba"
+            "id": "bc1bee86-a112-44fc-a8ff-33697182b505",
+            "clue": "Made restrictions less strict",
+            "answer": "eased",
+            "normalized": "eased"
           },
           {
-            "id": "61647fea-84cd-43e0-960c-68bd6b18dea4",
-            "clue": "Job of someone armed with a broom",
-            "answer": "sweeper",
-            "normalized": "sweeper"
+            "id": "bcf5060a-4449-4564-9cd3-15ade8bef6a2",
+            "clue": "Smallest bone in the human body",
+            "answer": "stapes",
+            "normalized": "stapes"
           },
           {
-            "id": "7805672d-1efb-4630-9dfd-8bf881c24f43",
-            "clue": "Where felines are left when owners are on holiday",
-            "answer": "cattery",
-            "normalized": "cattery"
+            "id": "43eec852-956d-4cd1-8772-04f3b9d93dbb",
+            "clue": "City of Ashoka University's campus",
+            "answer": "sonipat",
+            "normalized": "sonipat"
           },
           {
-            "id": "79df2d1d-5781-4a43-882a-58d462bc7ec3",
-            "clue": "Analogue to Digital Converter, in short",
-            "answer": "adc",
-            "normalized": "adc"
+            "id": "b82b2233-9516-46b2-85f5-68679dbe10c7",
+            "clue": "All international pilots must speak this language",
+            "answer": "english",
+            "normalized": "english"
           },
           {
-            "id": "fc7538f5-4d58-46e5-9317-b2cdc76e76aa",
-            "clue": "Nucleic acid that can be messenger, ribosomal",
-            "answer": "rna",
-            "normalized": "rna"
+            "id": "599cbd56-3d7d-426f-acfd-35c852ce72e5",
+            "clue": "The fictional mine at the heart of K.G.F",
+            "answer": "narachi",
+            "normalized": "narachi"
           },
           {
-            "id": "1cf96294-c2f9-479e-a9a3-85c614c7870d",
-            "clue": "Country in which the airline Gulf Air is based",
-            "answer": "bahrain",
-            "normalized": "bahrain"
+            "id": "1d486b51-d1a8-47d1-bf4d-203cc945dc75",
+            "clue": "The second of two options, not the former",
+            "answer": "latter",
+            "normalized": "latter"
           },
           {
-            "id": "ae1dee89-6041-46f6-87da-e315199a066e",
-            "clue": "Touches someone with holy water",
-            "answer": "blesses",
-            "normalized": "blesses"
+            "id": "2cb03cb3-d283-479e-8b46-f1d4b0db60be",
+            "clue": "Lionel __, footballer who moved to PSG in 2021",
+            "answer": "messi",
+            "normalized": "messi"
           },
           {
-            "id": "211562d3-1d4c-464d-aa1b-861f165e1841",
-            "clue": "Unit of length equal to 36 inches",
-            "answer": "yard",
-            "normalized": "yard"
+            "id": "42ee1b7d-5294-4015-844a-70b8f34f2d76",
+            "clue": "Second-largest city of the Ruhr in Germany",
+            "answer": "essen",
+            "normalized": "essen"
           },
           {
-            "id": "adfbdce2-5ace-4c9c-8224-5135819e6f1e",
-            "clue": "__ your bottom dollar, sang Annie",
-            "answer": "bet",
-            "normalized": "bet"
+            "id": "bcd38986-f9f8-4fde-aa02-84d8e37e8225",
+            "clue": "Music style in no key, sounds controversial",
+            "answer": "atonal",
+            "normalized": "atonal"
           },
           {
-            "id": "2f362358-cd75-4ac1-bbfc-ad3e06ebe98b",
-            "clue": "Posh musicals with classically trained singers",
-            "answer": "operas",
-            "normalized": "operas"
+            "id": "4c3a4ac6-fd11-451d-9fa9-327a9e226582",
+            "clue": "Aarya's impulsive and reckless brother in the show",
+            "answer": "sangram",
+            "normalized": "sangram"
           },
           {
-            "id": "d1136d5f-13b5-4b1e-8772-a4cf6dc7c787",
-            "clue": "__ Taupin, songwriter with Elton John",
-            "answer": "bernie",
-            "normalized": "bernie"
+            "id": "29ac8b72-6bd6-4b6a-b597-19fd262abafe",
+            "clue": "Remove hair with a machine that plucks – ouch!",
+            "answer": "epilate",
+            "normalized": "epilate"
           },
           {
-            "id": "27e3d45b-0c76-44ca-9b22-2aeedcc1adac",
-            "clue": "Peoples linked to early Vedic culture",
-            "answer": "aryans",
-            "normalized": "aryans"
+            "id": "eaa38393-25a1-49c0-8be6-34350979b26a",
+            "clue": "Shows, represents",
+            "answer": "depicts",
+            "normalized": "depicts"
           },
           {
-            "id": "4263ea3c-b71d-456f-896b-007ad3888e13",
-            "clue": "Scaly, flaky, mangy",
-            "answer": "scabby",
-            "normalized": "scabby"
+            "id": "4e56ec85-331f-4022-8088-251e0ba581aa",
+            "clue": "Satin strips worn as part of formal uniforms",
+            "answer": "sashes",
+            "normalized": "sashes"
           },
           {
-            "id": "771a019f-da04-40f7-99f7-618b5545ea54",
-            "clue": "Important depot on the Mumbai Monorail route",
-            "answer": "wadala",
-            "normalized": "wadala"
-          },
-          {
-            "id": "8b4ff174-4b36-4100-8841-ed0499b0e842",
-            "clue": "Worker who engraves using acid",
-            "answer": "etcher",
-            "normalized": "etcher"
-          },
-          {
-            "id": "e93ca7e7-d545-41ae-820d-d5df19b6848e",
-            "clue": "Three-letter code for the Serbian dinar",
-            "answer": "rsd",
-            "normalized": "rsd"
+            "id": "f9c7a7fc-9a8d-4489-8073-f7ca4ca0bb03",
+            "clue": "The cotton wick used in a Kumbakonam lamp",
+            "answer": "thiri",
+            "normalized": "thiri"
           }
         ],
-        "track": "PC|LenCinY2026M11D11F1V000"
+        "track": "PC|LenCinY2026M11D12F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388956,21 +388673,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "J8w1EMSOdGcb9r2IuOCB/beVxLGf0MJOWabO9mX4550bL4WFQizzOZhA8mZY3C/YHyAcNOCvUC0ZuIj8N9Tuav9LwlWCM/7WTQUnP48oQu9zk8O3P7goIiN+y78pW3M0g2PgkcrmFMiZpdVvE948qDexXgrB1MgCOdtN8AjYDgxb9hqW/VIgm7cmy8Qyhp5lUu6dsCDWFYZxL/9gPBhAekVVdBbMTIMrfS1nJ5V38WQPf0wM/hloB4fL1L/bwcuuJtO+nUtU6A4ssr3pF1TrzglM4Y39pFF9zd3gvuL8svo="
+        "OTivwMzUtw8mpwMgCpiI7V6bJ3Izu4idfI3ajwg5roCJtSWqFS/VbLr+eWfWtcgELFwFw6gRBukH6VQyEf6ak9R5gVzcmaIRuG2zWpaPFN8Y9Yw+eOqZCALRujfCUw6U+FSbVe7tgsplAns63hYx4GrAX8VDqk1KbwEE8XZfKyrxKwnYiUuJ6dOgMXtbfhnLWRnNulnIUwVLhGF1okhwf2ctgexoSByXt+FbcOEVcrYth5Ksaei5d+dRwi1kyaWbcT0N/lZWIup/R1338JH2bdIc/eZLQIC6ye4m1C035cg="
       ]
     },
     "decrypted": {
-      "Id": "e0c1cd8c-9425-42e3-9478-7795ebfa9865",
-      "Date": "2026-11-11T00:00:00Z",
+      "Id": "4d65f698-4ae6-4c95-9241-d20385f2edf9",
+      "Date": "2026-11-12T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "heart",
-      "NormalizedPassword": "heart",
+      "Password": "phone",
+      "NormalizedPassword": "phone",
       "MaxGuesses": 6,
-      "Version": 4,
+      "Version": 3,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-11T05:06:40.1920000+05:30",
-    "hash": "45b6f4f08ed8790a5d888a1d43cf2c86",
+    "dtu": "2026-11-12T06:23:11.7530000+05:30",
+    "hash": "8123cb37c73a202c3ca82a5ff2319c26",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
