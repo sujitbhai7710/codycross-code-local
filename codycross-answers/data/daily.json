@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T23:45:00.583Z",
+  "generatedAt": "2026-11-14T22:38:07.089Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 14
+    "day": 15
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 24
+        "QuantidadeDeFases": 26
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -22195,7 +22195,7 @@
             },
             {
               "id": "a34ef7a7-2118-44b5-ae45-b5147afbdb1a",
-              "clue": "Dracula's actual surname, Vlad __",
+              "clue": "Vlad __, a 15th-century Wallachian ruler",
               "answer": "tepes",
               "normalized": "tepes"
             },
@@ -370267,7 +370267,7 @@
             },
             {
               "id": "9bd07e35-1d52-4346-bde9-e8fb402229bf",
-              "clue": "Japanese word for squid, seen on a sashimi menu",
+              "clue": "Popular squid used in sashimi",
               "answer": "ika",
               "normalized": "ika"
             },
@@ -388125,391 +388125,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-14",
+      "key": "2026-11-15",
       "year": 2026,
       "month": 11,
-      "day": 14,
+      "day": 15,
       "small": {
-        "puzzleId": "92be0de4-339c-47a6-b46e-cac1ee732aa0",
+        "puzzleId": "cb2a9789-6b6c-4288-9e59-a2fdd134b1ee",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "144e2fd0-f6c8-4fd6-98a4-df3360108ce4",
-            "clue": "Main character of Kafka's Metamorphosis, Gregor __",
-            "answer": "samsa",
-            "normalized": "samsa"
+            "id": "a24aaba8-786e-4da5-a442-3a2158f7fd7a",
+            "clue": "Ales and porters and lagers",
+            "answer": "beers",
+            "normalized": "beers"
           },
           {
-            "id": "911191d9-b019-4f5d-80c2-edf6612e7fcc",
-            "clue": "Thomas Hardy book is Far from the Madding this",
-            "answer": "crowd",
-            "normalized": "crowd"
+            "id": "0398998b-4f25-4975-a3b2-c36a1b3a5d00",
+            "clue": "__ pants, loose trousers inspired by Turkish style",
+            "answer": "harem",
+            "normalized": "harem"
           },
           {
-            "id": "32f274b7-d181-48ea-933a-c6e5f672c07a",
-            "clue": "Truthful and straightforward",
-            "answer": "candid",
-            "normalized": "candid"
+            "id": "6dbe4380-95fa-4913-bd3f-9401b2cc3a2c",
+            "clue": "Most romantic man of the musketeers",
+            "answer": "aramis",
+            "normalized": "aramis"
           },
           {
-            "id": "5b1bbce8-ce4f-42b7-a74b-6da86ddd3eb4",
-            "clue": "1986 Sci Fi sequel starring Sigourney Weaver",
-            "answer": "aliens",
-            "normalized": "aliens"
+            "id": "99bb29b1-f7c9-4954-be0b-70750628d945",
+            "clue": "Interior footwear accessory",
+            "answer": "insole",
+            "normalized": "insole"
           },
           {
-            "id": "2d8fce97-f0ec-4be1-9a46-1049728d6a0f",
-            "clue": "Mother-of-pearl",
-            "answer": "nacre",
-            "normalized": "nacre"
+            "id": "71646006-e6e3-42e1-ab81-f3e5a58c1532",
+            "clue": "Pokemon who can become Jolteon or Flareon",
+            "answer": "eevee",
+            "normalized": "eevee"
           },
           {
-            "id": "95d106fd-2360-4200-8776-2562e5e96f87",
-            "clue": "Isomer that’s the opposite of cis",
-            "answer": "trans",
-            "normalized": "trans"
+            "id": "5cbf60a2-3309-4781-8210-5f0c5b06bfa1",
+            "clue": "Comic book judge from Mega-City One",
+            "answer": "dredd",
+            "normalized": "dredd"
           },
           {
-            "id": "940bae71-3efb-4a3f-9440-ca40418f4b9b",
-            "clue": "Boson particle in physics whose spin equals zero",
-            "answer": "scalar",
-            "normalized": "scalar"
+            "id": "01b31a49-ca3a-4bca-ba61-cd5aab2b3fb5",
+            "clue": "The Hindi equivalent of 'bro'",
+            "answer": "bhai",
+            "normalized": "bhai"
           },
           {
-            "id": "256d7f77-9ed7-47ba-9b8f-3d5c2a057326",
-            "clue": "Plant extract used to soothe bruising",
-            "answer": "arnica",
-            "normalized": "arnica"
+            "id": "f9946251-40b8-4d7c-a10a-f1aef75645c3",
+            "clue": "Received money as payment for having worked",
+            "answer": "earned",
+            "normalized": "earned"
           },
           {
-            "id": "790810c7-a88d-44e5-998e-19ee1b42ac50",
-            "clue": "Frankenstein, or the __ Prometheus",
-            "answer": "modern",
-            "normalized": "modern"
+            "id": "bc83a045-3833-4277-a4d9-a731d61535b6",
+            "clue": "A rubber tool used to rub out something written",
+            "answer": "eraser",
+            "normalized": "eraser"
           },
           {
-            "id": "f8c508fa-d525-4d34-b38d-98707b2a4117",
-            "clue": "An archaic word for pigs",
-            "answer": "swines",
-            "normalized": "swines"
+            "id": "3c152386-083a-4ae9-b511-dcb1b7201bc4",
+            "clue": "Take makeup off at the end of the day",
+            "answer": "remove",
+            "normalized": "remove"
           },
           {
-            "id": "1c94a471-48ee-4aa7-aa66-1d6d03c7bd35",
-            "clue": "Sums numbers together",
-            "answer": "adds",
-            "normalized": "adds"
+            "id": "41c06071-e806-44cc-91cf-a49ad6d67ff6",
+            "clue": "Grinned, \"say cheese\"",
+            "answer": "smiled",
+            "normalized": "smiled"
           },
           {
-            "id": "255cab9f-b74b-439a-bf93-d0d5be7ccd1c",
-            "clue": "Sanctimonious and often hypocritical talk",
-            "answer": "cant",
-            "normalized": "cant"
+            "id": "f1d5e7f9-3410-4c74-8290-39e09e78e272",
+            "clue": "Edible part inside a jackfruit tree pod",
+            "answer": "seed",
+            "normalized": "seed"
           }
         ],
-        "track": "PC|LenCinY2026M11D14F0V000"
+        "track": "PC|LenCinY2026M11D15F0V000"
       },
       "mid": {
-        "puzzleId": "e033b77f-0edd-4f00-a209-edac6c03c930",
+        "puzzleId": "47e375c7-ed6e-4d6b-a9c5-40eab0bb7e32",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4e4fded8-1f46-448e-9aac-fc06073ad038",
-            "clue": "Where tents are put up",
-            "answer": "camp",
-            "normalized": "camp"
+            "id": "f8a08a15-1b9e-497d-b1ae-b5173f304b46",
+            "clue": "Back to __, focus on the simple things in life",
+            "answer": "basics",
+            "normalized": "basics"
           },
           {
-            "id": "890d0b96-0fc8-4a99-9b22-0f5aae98bb97",
-            "clue": "Nearly there, but not quite",
-            "answer": "almost",
-            "normalized": "almost"
+            "id": "b9611515-11df-4a33-8ab8-ca8a52650a0a",
+            "clue": "With great enthusiasm",
+            "answer": "avidly",
+            "normalized": "avidly"
           },
           {
-            "id": "a0e95b49-7333-435b-8caa-716ef54885ce",
-            "clue": "Plastic stick that helps dissolve sugar in coffee",
-            "answer": "stirrer",
-            "normalized": "stirrer"
+            "id": "827d887b-e7a8-411a-bf3e-b352a07fffc4",
+            "clue": "More skeletal than",
+            "answer": "bonier",
+            "normalized": "bonier"
           },
           {
-            "id": "afc52cf3-68bd-401b-9df7-bd8af9364a7a",
-            "clue": "Brand known for sheepskin boots",
-            "answer": "ugg",
-            "normalized": "ugg"
+            "id": "1649d108-b77a-4862-b9fd-46b5ebac6e98",
+            "clue": "A prominent Naga tribe known for Naga wrestling",
+            "answer": "angami",
+            "normalized": "angami"
           },
           {
-            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
-            "clue": "Acronym for a chief legal officer",
-            "answer": "clo",
-            "normalized": "clo"
+            "id": "bb7cff72-be03-4d7e-a6ab-69a3bfcfc86d",
+            "clue": "Make a small change to a document",
+            "answer": "amend",
+            "normalized": "amend"
           },
           {
-            "id": "f2d17d79-b28a-4490-ab6c-a971deb2adba",
-            "clue": "Hit with one's fist",
-            "answer": "punched",
-            "normalized": "punched"
+            "id": "98cd6c86-2128-44cd-9d2d-66d48b4aa0c2",
+            "clue": "Beatles member with type of jewellery in his name",
+            "answer": "ringo",
+            "normalized": "ringo"
           },
           {
-            "id": "ee666a6c-9eff-48fc-8a61-85d2e65a786c",
-            "clue": "First name of directors Spielberg and Soderbergh",
-            "answer": "steven",
-            "normalized": "steven"
+            "id": "191e9579-2b3b-4713-b7ae-764ff6a3b55a",
+            "clue": "Nature photographer __ Adams",
+            "answer": "ansel",
+            "normalized": "ansel"
           },
           {
-            "id": "8d533f74-74fb-4dbb-a21e-b56e60d24dbe",
-            "clue": "The thinner, crispier cousin of Uttapam",
-            "answer": "dosa",
-            "normalized": "dosa"
+            "id": "dc90d5be-cd38-42b6-abd8-d205c3131b33",
+            "clue": "Ali __, Arabian Nights character with 40 thieves",
+            "answer": "baba",
+            "normalized": "baba"
           },
           {
-            "id": "1332753f-cfde-420b-9e7d-2400bc87020b",
-            "clue": "What violin strings are sometimes made of",
-            "answer": "catgut",
-            "normalized": "catgut"
+            "id": "0f37ea04-ddca-4736-8bdf-df749e56fed6",
+            "clue": "Cosmetics franchise chain with brochure sales",
+            "answer": "avon",
+            "normalized": "avon"
           },
           {
-            "id": "69c41eed-f482-4867-b85c-fbdc371c8d3f",
-            "clue": "Arranged in a straight row",
-            "answer": "aligned",
-            "normalized": "aligned"
+            "id": "e24ef4c7-b47d-4270-9929-8938a2678b35",
+            "clue": "Bangladeshi fried pockets containing vegetables",
+            "answer": "singara",
+            "normalized": "singara"
           },
           {
-            "id": "1f3c491e-faa0-4238-9b7a-200040043e8e",
-            "clue": "Kalyan-Dombivli is part of this metro region",
-            "answer": "mmr",
-            "normalized": "mmr"
+            "id": "f221414a-da5b-44b1-815b-001b62a028f3",
+            "clue": "Subject of the 2006 movie Last King of Scotland",
+            "answer": "idi amin",
+            "normalized": "idiamin"
           },
           {
-            "id": "a1a54296-d9ff-48a0-b77e-acd6937a6cc2",
-            "clue": "Sheltered doorways on the front of homes",
-            "answer": "porches",
-            "normalized": "porches"
+            "id": "74d5dbdc-23b2-40ce-8024-fc8ff5a48f78",
+            "clue": "Samuel Langhorne __, the real name of Mark Twain",
+            "answer": "clemens",
+            "normalized": "clemens"
           },
           {
-            "id": "bc23f384-7d01-4334-9ca8-b928516c7400",
-            "clue": "Gomez who sings Selfish Love, Before We Go",
-            "answer": "selena",
-            "normalized": "selena"
+            "id": "76ff8492-ff94-4b09-ab22-0a751c843059",
+            "clue": "Medical tool that has a plunger and Luer taper",
+            "answer": "syringe",
+            "normalized": "syringe"
           },
           {
-            "id": "99739dba-bda1-45e1-90a2-615f3f6a72bb",
-            "clue": "Did tread",
-            "answer": "trod",
-            "normalized": "trod"
-          },
-          {
-            "id": "4ef8c760-32d7-41e6-a667-9ae53664fe5c",
-            "clue": "Short name for stand-up paddleboards",
-            "answer": "sups",
-            "normalized": "sups"
-          },
-          {
-            "id": "8a7a878d-0038-4543-b726-b80ecce636ef",
-            "clue": "Chief visibility officer, for short",
-            "answer": "cvo",
-            "normalized": "cvo"
+            "id": "7a868916-8381-44cd-aeba-745125fbda1b",
+            "clue": "A measurement for the intensity of pain",
+            "answer": "dol",
+            "normalized": "dol"
           }
         ],
-        "track": "PC|LenCinY2026M11D14F1V000"
+        "track": "PC|LenCinY2026M11D15F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-14",
+      "key": "2026-11-15",
       "year": 2026,
       "month": 11,
-      "day": 14,
+      "day": 15,
       "small": {
-        "puzzleId": "92be0de4-339c-47a6-b46e-cac1ee732aa0",
+        "puzzleId": "cb2a9789-6b6c-4288-9e59-a2fdd134b1ee",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "144e2fd0-f6c8-4fd6-98a4-df3360108ce4",
-            "clue": "Main character of Kafka's Metamorphosis, Gregor __",
-            "answer": "samsa",
-            "normalized": "samsa"
+            "id": "a24aaba8-786e-4da5-a442-3a2158f7fd7a",
+            "clue": "Ales and porters and lagers",
+            "answer": "beers",
+            "normalized": "beers"
           },
           {
-            "id": "911191d9-b019-4f5d-80c2-edf6612e7fcc",
-            "clue": "Thomas Hardy book is Far from the Madding this",
-            "answer": "crowd",
-            "normalized": "crowd"
+            "id": "0398998b-4f25-4975-a3b2-c36a1b3a5d00",
+            "clue": "__ pants, loose trousers inspired by Turkish style",
+            "answer": "harem",
+            "normalized": "harem"
           },
           {
-            "id": "32f274b7-d181-48ea-933a-c6e5f672c07a",
-            "clue": "Truthful and straightforward",
-            "answer": "candid",
-            "normalized": "candid"
+            "id": "6dbe4380-95fa-4913-bd3f-9401b2cc3a2c",
+            "clue": "Most romantic man of the musketeers",
+            "answer": "aramis",
+            "normalized": "aramis"
           },
           {
-            "id": "5b1bbce8-ce4f-42b7-a74b-6da86ddd3eb4",
-            "clue": "1986 Sci Fi sequel starring Sigourney Weaver",
-            "answer": "aliens",
-            "normalized": "aliens"
+            "id": "99bb29b1-f7c9-4954-be0b-70750628d945",
+            "clue": "Interior footwear accessory",
+            "answer": "insole",
+            "normalized": "insole"
           },
           {
-            "id": "2d8fce97-f0ec-4be1-9a46-1049728d6a0f",
-            "clue": "Mother-of-pearl",
-            "answer": "nacre",
-            "normalized": "nacre"
+            "id": "71646006-e6e3-42e1-ab81-f3e5a58c1532",
+            "clue": "Pokemon who can become Jolteon or Flareon",
+            "answer": "eevee",
+            "normalized": "eevee"
           },
           {
-            "id": "95d106fd-2360-4200-8776-2562e5e96f87",
-            "clue": "Isomer that’s the opposite of cis",
-            "answer": "trans",
-            "normalized": "trans"
+            "id": "5cbf60a2-3309-4781-8210-5f0c5b06bfa1",
+            "clue": "Comic book judge from Mega-City One",
+            "answer": "dredd",
+            "normalized": "dredd"
           },
           {
-            "id": "940bae71-3efb-4a3f-9440-ca40418f4b9b",
-            "clue": "Boson particle in physics whose spin equals zero",
-            "answer": "scalar",
-            "normalized": "scalar"
+            "id": "01b31a49-ca3a-4bca-ba61-cd5aab2b3fb5",
+            "clue": "The Hindi equivalent of 'bro'",
+            "answer": "bhai",
+            "normalized": "bhai"
           },
           {
-            "id": "256d7f77-9ed7-47ba-9b8f-3d5c2a057326",
-            "clue": "Plant extract used to soothe bruising",
-            "answer": "arnica",
-            "normalized": "arnica"
+            "id": "f9946251-40b8-4d7c-a10a-f1aef75645c3",
+            "clue": "Received money as payment for having worked",
+            "answer": "earned",
+            "normalized": "earned"
           },
           {
-            "id": "790810c7-a88d-44e5-998e-19ee1b42ac50",
-            "clue": "Frankenstein, or the __ Prometheus",
-            "answer": "modern",
-            "normalized": "modern"
+            "id": "bc83a045-3833-4277-a4d9-a731d61535b6",
+            "clue": "A rubber tool used to rub out something written",
+            "answer": "eraser",
+            "normalized": "eraser"
           },
           {
-            "id": "f8c508fa-d525-4d34-b38d-98707b2a4117",
-            "clue": "An archaic word for pigs",
-            "answer": "swines",
-            "normalized": "swines"
+            "id": "3c152386-083a-4ae9-b511-dcb1b7201bc4",
+            "clue": "Take makeup off at the end of the day",
+            "answer": "remove",
+            "normalized": "remove"
           },
           {
-            "id": "1c94a471-48ee-4aa7-aa66-1d6d03c7bd35",
-            "clue": "Sums numbers together",
-            "answer": "adds",
-            "normalized": "adds"
+            "id": "41c06071-e806-44cc-91cf-a49ad6d67ff6",
+            "clue": "Grinned, \"say cheese\"",
+            "answer": "smiled",
+            "normalized": "smiled"
           },
           {
-            "id": "255cab9f-b74b-439a-bf93-d0d5be7ccd1c",
-            "clue": "Sanctimonious and often hypocritical talk",
-            "answer": "cant",
-            "normalized": "cant"
+            "id": "f1d5e7f9-3410-4c74-8290-39e09e78e272",
+            "clue": "Edible part inside a jackfruit tree pod",
+            "answer": "seed",
+            "normalized": "seed"
           }
         ],
-        "track": "PC|LenCinY2026M11D14F0V000"
+        "track": "PC|LenCinY2026M11D15F0V000"
       },
       "mid": {
-        "puzzleId": "e033b77f-0edd-4f00-a209-edac6c03c930",
+        "puzzleId": "47e375c7-ed6e-4d6b-a9c5-40eab0bb7e32",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "4e4fded8-1f46-448e-9aac-fc06073ad038",
-            "clue": "Where tents are put up",
-            "answer": "camp",
-            "normalized": "camp"
+            "id": "f8a08a15-1b9e-497d-b1ae-b5173f304b46",
+            "clue": "Back to __, focus on the simple things in life",
+            "answer": "basics",
+            "normalized": "basics"
           },
           {
-            "id": "890d0b96-0fc8-4a99-9b22-0f5aae98bb97",
-            "clue": "Nearly there, but not quite",
-            "answer": "almost",
-            "normalized": "almost"
+            "id": "b9611515-11df-4a33-8ab8-ca8a52650a0a",
+            "clue": "With great enthusiasm",
+            "answer": "avidly",
+            "normalized": "avidly"
           },
           {
-            "id": "a0e95b49-7333-435b-8caa-716ef54885ce",
-            "clue": "Plastic stick that helps dissolve sugar in coffee",
-            "answer": "stirrer",
-            "normalized": "stirrer"
+            "id": "827d887b-e7a8-411a-bf3e-b352a07fffc4",
+            "clue": "More skeletal than",
+            "answer": "bonier",
+            "normalized": "bonier"
           },
           {
-            "id": "afc52cf3-68bd-401b-9df7-bd8af9364a7a",
-            "clue": "Brand known for sheepskin boots",
-            "answer": "ugg",
-            "normalized": "ugg"
+            "id": "1649d108-b77a-4862-b9fd-46b5ebac6e98",
+            "clue": "A prominent Naga tribe known for Naga wrestling",
+            "answer": "angami",
+            "normalized": "angami"
           },
           {
-            "id": "8ec39791-c35a-4167-bac5-d83e556882d0",
-            "clue": "Acronym for a chief legal officer",
-            "answer": "clo",
-            "normalized": "clo"
+            "id": "bb7cff72-be03-4d7e-a6ab-69a3bfcfc86d",
+            "clue": "Make a small change to a document",
+            "answer": "amend",
+            "normalized": "amend"
           },
           {
-            "id": "f2d17d79-b28a-4490-ab6c-a971deb2adba",
-            "clue": "Hit with one's fist",
-            "answer": "punched",
-            "normalized": "punched"
+            "id": "98cd6c86-2128-44cd-9d2d-66d48b4aa0c2",
+            "clue": "Beatles member with type of jewellery in his name",
+            "answer": "ringo",
+            "normalized": "ringo"
           },
           {
-            "id": "ee666a6c-9eff-48fc-8a61-85d2e65a786c",
-            "clue": "First name of directors Spielberg and Soderbergh",
-            "answer": "steven",
-            "normalized": "steven"
+            "id": "191e9579-2b3b-4713-b7ae-764ff6a3b55a",
+            "clue": "Nature photographer __ Adams",
+            "answer": "ansel",
+            "normalized": "ansel"
           },
           {
-            "id": "8d533f74-74fb-4dbb-a21e-b56e60d24dbe",
-            "clue": "The thinner, crispier cousin of Uttapam",
-            "answer": "dosa",
-            "normalized": "dosa"
+            "id": "dc90d5be-cd38-42b6-abd8-d205c3131b33",
+            "clue": "Ali __, Arabian Nights character with 40 thieves",
+            "answer": "baba",
+            "normalized": "baba"
           },
           {
-            "id": "1332753f-cfde-420b-9e7d-2400bc87020b",
-            "clue": "What violin strings are sometimes made of",
-            "answer": "catgut",
-            "normalized": "catgut"
+            "id": "0f37ea04-ddca-4736-8bdf-df749e56fed6",
+            "clue": "Cosmetics franchise chain with brochure sales",
+            "answer": "avon",
+            "normalized": "avon"
           },
           {
-            "id": "69c41eed-f482-4867-b85c-fbdc371c8d3f",
-            "clue": "Arranged in a straight row",
-            "answer": "aligned",
-            "normalized": "aligned"
+            "id": "e24ef4c7-b47d-4270-9929-8938a2678b35",
+            "clue": "Bangladeshi fried pockets containing vegetables",
+            "answer": "singara",
+            "normalized": "singara"
           },
           {
-            "id": "1f3c491e-faa0-4238-9b7a-200040043e8e",
-            "clue": "Kalyan-Dombivli is part of this metro region",
-            "answer": "mmr",
-            "normalized": "mmr"
+            "id": "f221414a-da5b-44b1-815b-001b62a028f3",
+            "clue": "Subject of the 2006 movie Last King of Scotland",
+            "answer": "idi amin",
+            "normalized": "idiamin"
           },
           {
-            "id": "a1a54296-d9ff-48a0-b77e-acd6937a6cc2",
-            "clue": "Sheltered doorways on the front of homes",
-            "answer": "porches",
-            "normalized": "porches"
+            "id": "74d5dbdc-23b2-40ce-8024-fc8ff5a48f78",
+            "clue": "Samuel Langhorne __, the real name of Mark Twain",
+            "answer": "clemens",
+            "normalized": "clemens"
           },
           {
-            "id": "bc23f384-7d01-4334-9ca8-b928516c7400",
-            "clue": "Gomez who sings Selfish Love, Before We Go",
-            "answer": "selena",
-            "normalized": "selena"
+            "id": "76ff8492-ff94-4b09-ab22-0a751c843059",
+            "clue": "Medical tool that has a plunger and Luer taper",
+            "answer": "syringe",
+            "normalized": "syringe"
           },
           {
-            "id": "99739dba-bda1-45e1-90a2-615f3f6a72bb",
-            "clue": "Did tread",
-            "answer": "trod",
-            "normalized": "trod"
-          },
-          {
-            "id": "4ef8c760-32d7-41e6-a667-9ae53664fe5c",
-            "clue": "Short name for stand-up paddleboards",
-            "answer": "sups",
-            "normalized": "sups"
-          },
-          {
-            "id": "8a7a878d-0038-4543-b726-b80ecce636ef",
-            "clue": "Chief visibility officer, for short",
-            "answer": "cvo",
-            "normalized": "cvo"
+            "id": "7a868916-8381-44cd-aeba-745125fbda1b",
+            "clue": "A measurement for the intensity of pain",
+            "answer": "dol",
+            "normalized": "dol"
           }
         ],
-        "track": "PC|LenCinY2026M11D14F1V000"
+        "track": "PC|LenCinY2026M11D15F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388697,21 +388673,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "fva5/BliBa3Ow/aC4CVIQy0n9FtgS7JWD7cbKZTVYLwBhDHTfS+yAQj65Yjp9RaSHi4TStDZlys1exN/56S4dKtw0IjY9W1x8AY4LFQxhPpZ1fYZPCcyG9c1EtkvuyzitlgAGx0oPIkbnsYNEcb/wMeoBDbtppcQfWnvq2VF5WtWnZC2f5D+3ap4p5frDseXbqUrNM8FzNm+pxi4NwI2BQ8/LtjAxi927p1iUq3lK9BvDXhRONqopugX93SjPDTFJb9HnCxMY0KMfHe0bgIpWDhIPoSAMU6IKyxpJ4ceyT8="
+        "lLk71vlVQAc/2+j6jO0b2Jbwn6tE/yvtbZU2VhIYJ03ptk1FRO3FGo4d2Auo7tKSN+rmssPZdY5Xlu7+EIYEjRx6lhGs+YIg9Vp1vW++Oi7fhHVJiAiLrp+ocP7/ZlYZQ8SwfwAgWYA71oihZn0+KNHiGu2AlpguEgL+tuzf1vdJ3oenPGsGF19wxowcKvIZiaP07KF62ug0PqG3MuOzZuMaq+2n4BW+cRlfZ9R249rwoZ8ke4/7leQxs4HLqmrUF41dyAWwdjKHs+ITBW6YaY2ns+cxpVdcU56AfHIFQzU="
       ]
     },
     "decrypted": {
-      "Id": "314a2e64-13ca-4634-9e9d-af3f20c6a458",
-      "Date": "2026-11-14T00:00:00Z",
+      "Id": "505e7cc9-e1a9-407c-87ce-9f96d8682ccc",
+      "Date": "2026-11-15T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "tonic",
-      "NormalizedPassword": "tonic",
+      "Password": "knock",
+      "NormalizedPassword": "knock",
       "MaxGuesses": 6,
-      "Version": 2,
+      "Version": 3,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-14T05:15:00.5830000+05:30",
-    "hash": "024784993fc6241d7e19155d43fde517",
+    "dtu": "2026-11-15T04:08:07.0890000+05:30",
+    "hash": "732eb1f0354cb336ad8adbf7941e7164",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
