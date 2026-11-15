@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T22:38:07.089Z",
+  "generatedAt": "2026-11-15T23:01:16.372Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 15
+    "day": 16
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 26
+        "QuantidadeDeFases": 28
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -65563,7 +65563,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -287009,7 +287009,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             }
@@ -350447,7 +350447,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -370267,7 +370267,7 @@
             },
             {
               "id": "9bd07e35-1d52-4346-bde9-e8fb402229bf",
-              "clue": "Popular squid used in sashimi",
+              "clue": "Japanese word for squid, seen on a sashimi menu",
               "answer": "ika",
               "normalized": "ika"
             },
@@ -388125,367 +388125,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-15",
+      "key": "2026-11-16",
       "year": 2026,
       "month": 11,
-      "day": 15,
+      "day": 16,
       "small": {
-        "puzzleId": "cb2a9789-6b6c-4288-9e59-a2fdd134b1ee",
+        "puzzleId": "513b386e-56f3-4a8d-83dd-8974aba30870",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "a24aaba8-786e-4da5-a442-3a2158f7fd7a",
-            "clue": "Ales and porters and lagers",
-            "answer": "beers",
-            "normalized": "beers"
+            "id": "dc177df0-07c6-47ed-8191-1de72f193bd8",
+            "clue": "End-of-level video-game opponent",
+            "answer": "boss",
+            "normalized": "boss"
           },
           {
-            "id": "0398998b-4f25-4975-a3b2-c36a1b3a5d00",
-            "clue": "__ pants, loose trousers inspired by Turkish style",
-            "answer": "harem",
-            "normalized": "harem"
+            "id": "e4399ef2-e72d-4b9b-8a39-a3a5e956c7a9",
+            "clue": "Japanese dish consisting of cold rice and raw fish",
+            "answer": "sushi",
+            "normalized": "sushi"
           },
           {
-            "id": "6dbe4380-95fa-4913-bd3f-9401b2cc3a2c",
-            "clue": "Most romantic man of the musketeers",
-            "answer": "aramis",
-            "normalized": "aramis"
+            "id": "7a7a2832-13cd-476c-bc37-edd4a6a9d365",
+            "clue": "Pilot, anagram of marina",
+            "answer": "airman",
+            "normalized": "airman"
           },
           {
-            "id": "99bb29b1-f7c9-4954-be0b-70750628d945",
-            "clue": "Interior footwear accessory",
-            "answer": "insole",
-            "normalized": "insole"
+            "id": "cf23d6ef-2ae3-4215-b982-88aec7c82989",
+            "clue": "Supreme council of the ancient Roman empire",
+            "answer": "senate",
+            "normalized": "senate"
           },
           {
-            "id": "71646006-e6e3-42e1-ab81-f3e5a58c1532",
-            "clue": "Pokemon who can become Jolteon or Flareon",
-            "answer": "eevee",
-            "normalized": "eevee"
+            "id": "e56cda96-a572-40ca-bda7-156276bcecd2",
+            "clue": "Type of journalist who works for a hard copy paper",
+            "answer": "print",
+            "normalized": "print"
           },
           {
-            "id": "5cbf60a2-3309-4781-8210-5f0c5b06bfa1",
-            "clue": "Comic book judge from Mega-City One",
-            "answer": "dredd",
-            "normalized": "dredd"
+            "id": "aa02b31d-67a3-4f25-b9c7-eff4246ed9f6",
+            "clue": "Bert's roommate on Sesame Street",
+            "answer": "ernie",
+            "normalized": "ernie"
           },
           {
-            "id": "01b31a49-ca3a-4bca-ba61-cd5aab2b3fb5",
-            "clue": "The Hindi equivalent of 'bro'",
-            "answer": "bhai",
-            "normalized": "bhai"
+            "id": "7ad5b63c-9328-4f26-b945-c5f6c1014cb7",
+            "clue": "IIM Lucknow's campus is called Prabandh ____",
+            "answer": "nagar",
+            "normalized": "nagar"
           },
           {
-            "id": "f9946251-40b8-4d7c-a10a-f1aef75645c3",
-            "clue": "Received money as payment for having worked",
-            "answer": "earned",
-            "normalized": "earned"
+            "id": "9a4f07c7-78d6-4637-829d-92ba8a74106b",
+            "clue": "Working late, or __ the midnight oil",
+            "answer": "burning",
+            "normalized": "burning"
           },
           {
-            "id": "bc83a045-3833-4277-a4d9-a731d61535b6",
-            "clue": "A rubber tool used to rub out something written",
-            "answer": "eraser",
-            "normalized": "eraser"
+            "id": "4164da80-4311-423b-932a-f2c600248c9f",
+            "clue": "Famous Hyderabadi tea-time biscuit",
+            "answer": "osmania",
+            "normalized": "osmania"
           },
           {
-            "id": "3c152386-083a-4ae9-b511-dcb1b7201bc4",
-            "clue": "Take makeup off at the end of the day",
-            "answer": "remove",
-            "normalized": "remove"
+            "id": "27974541-849c-4d4c-9748-fff2d6f72565",
+            "clue": "To break something into lots of tiny pieces",
+            "answer": "shatter",
+            "normalized": "shatter"
           },
           {
-            "id": "41c06071-e806-44cc-91cf-a49ad6d67ff6",
-            "clue": "Grinned, \"say cheese\"",
-            "answer": "smiled",
-            "normalized": "smiled"
+            "id": "c705dc0c-8c5c-4592-98d7-c38ca7739b4e",
+            "clue": "Trigonometry function for right-angled triangles",
+            "answer": "sine",
+            "normalized": "sine"
           },
           {
-            "id": "f1d5e7f9-3410-4c74-8290-39e09e78e272",
-            "clue": "Edible part inside a jackfruit tree pod",
-            "answer": "seed",
-            "normalized": "seed"
+            "id": "90cd431c-e592-4655-96c0-aa328e5034f8",
+            "clue": "__ Leone; setting of 2006 drama Blood Diamond",
+            "answer": "sierra",
+            "normalized": "sierra"
+          },
+          {
+            "id": "f4991491-1614-45b6-8312-cc76e5d1eb68",
+            "clue": "Quaking tree type",
+            "answer": "aspen",
+            "normalized": "aspen"
           }
         ],
-        "track": "PC|LenCinY2026M11D15F0V000"
+        "track": "PC|LenCinY2026M11D16F0V000"
       },
       "mid": {
-        "puzzleId": "47e375c7-ed6e-4d6b-a9c5-40eab0bb7e32",
+        "puzzleId": "93b6a393-158d-460c-a7f0-ace0f5d8aede",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f8a08a15-1b9e-497d-b1ae-b5173f304b46",
-            "clue": "Back to __, focus on the simple things in life",
-            "answer": "basics",
-            "normalized": "basics"
+            "id": "b3ba347f-8113-48c2-b35d-1f9e3de6e2f7",
+            "clue": "They deliver letters to Hogwarts",
+            "answer": "owls",
+            "normalized": "owls"
           },
           {
-            "id": "b9611515-11df-4a33-8ab8-ca8a52650a0a",
-            "clue": "With great enthusiasm",
-            "answer": "avidly",
-            "normalized": "avidly"
+            "id": "8dd1c1ec-ef15-4285-873b-66c589e5fff8",
+            "clue": "Sodium hydroxide's chemical formula",
+            "answer": "naoh",
+            "normalized": "naoh"
           },
           {
-            "id": "827d887b-e7a8-411a-bf3e-b352a07fffc4",
-            "clue": "More skeletal than",
-            "answer": "bonier",
-            "normalized": "bonier"
+            "id": "a78ebad6-94b2-44f6-84fe-2ea214c78590",
+            "clue": "Makes a frog noise",
+            "answer": "croaks",
+            "normalized": "croaks"
           },
           {
-            "id": "1649d108-b77a-4862-b9fd-46b5ebac6e98",
-            "clue": "A prominent Naga tribe known for Naga wrestling",
-            "answer": "angami",
-            "normalized": "angami"
+            "id": "a7baac09-e43f-46a7-adc5-1ea066f6582b",
+            "clue": "Snare, tempt",
+            "answer": "entrap",
+            "normalized": "entrap"
           },
           {
-            "id": "bb7cff72-be03-4d7e-a6ab-69a3bfcfc86d",
-            "clue": "Make a small change to a document",
-            "answer": "amend",
-            "normalized": "amend"
+            "id": "5e9248ac-ac80-4497-8438-e2a24addfbea",
+            "clue": "More spooky",
+            "answer": "eerier",
+            "normalized": "eerier"
           },
           {
-            "id": "98cd6c86-2128-44cd-9d2d-66d48b4aa0c2",
-            "clue": "Beatles member with type of jewellery in his name",
-            "answer": "ringo",
-            "normalized": "ringo"
+            "id": "f1c69fa5-8e79-4790-b8d3-bc22c9ba7e1b",
+            "clue": "The main villain in the movie Krrish",
+            "answer": "dr arya",
+            "normalized": "drarya"
           },
           {
-            "id": "191e9579-2b3b-4713-b7ae-764ff6a3b55a",
-            "clue": "Nature photographer __ Adams",
-            "answer": "ansel",
-            "normalized": "ansel"
+            "id": "8ea99525-4690-4e19-95db-d0b00fff9e76",
+            "clue": "Small seabird, with Arctic and Sandwich varieties",
+            "answer": "tern",
+            "normalized": "tern"
           },
           {
-            "id": "dc90d5be-cd38-42b6-abd8-d205c3131b33",
-            "clue": "Ali __, Arabian Nights character with 40 thieves",
-            "answer": "baba",
-            "normalized": "baba"
+            "id": "00055c4f-b894-41d0-b2ea-d7081643a4b2",
+            "clue": "The garden Adam and Eve were exiled from",
+            "answer": "eden",
+            "normalized": "eden"
           },
           {
-            "id": "0f37ea04-ddca-4736-8bdf-df749e56fed6",
-            "clue": "Cosmetics franchise chain with brochure sales",
-            "answer": "avon",
-            "normalized": "avon"
+            "id": "61baac68-fdbb-4c2b-a63d-6bc1b2c40401",
+            "clue": "Only a single time",
+            "answer": "once",
+            "normalized": "once"
           },
           {
-            "id": "e24ef4c7-b47d-4270-9929-8938a2678b35",
-            "clue": "Bangladeshi fried pockets containing vegetables",
-            "answer": "singara",
-            "normalized": "singara"
+            "id": "b88d55fa-8c52-44dc-8a3b-cce4a99e6acb",
+            "clue": "Alert someone to impending danger",
+            "answer": "warn",
+            "normalized": "warn"
           },
           {
-            "id": "f221414a-da5b-44b1-815b-001b62a028f3",
-            "clue": "Subject of the 2006 movie Last King of Scotland",
-            "answer": "idi amin",
-            "normalized": "idiamin"
+            "id": "e369c93d-9616-4bf8-ba50-1da00f0e500b",
+            "clue": "Stole in a riot",
+            "answer": "looted",
+            "normalized": "looted"
           },
           {
-            "id": "74d5dbdc-23b2-40ce-8024-fc8ff5a48f78",
-            "clue": "Samuel Langhorne __, the real name of Mark Twain",
-            "answer": "clemens",
-            "normalized": "clemens"
+            "id": "f7bba59a-e0d2-4800-b722-3a7aa06bbfd6",
+            "clue": "Distributor, not a greedy individual",
+            "answer": "sharer",
+            "normalized": "sharer"
           },
           {
-            "id": "76ff8492-ff94-4b09-ab22-0a751c843059",
-            "clue": "Medical tool that has a plunger and Luer taper",
-            "answer": "syringe",
-            "normalized": "syringe"
+            "id": "237e86dd-0813-4f1d-a023-766be9a34dd6",
+            "clue": "Martial art done by the \"Kid\"",
+            "answer": "karate",
+            "normalized": "karate"
           },
           {
-            "id": "7a868916-8381-44cd-aeba-745125fbda1b",
-            "clue": "A measurement for the intensity of pain",
-            "answer": "dol",
-            "normalized": "dol"
+            "id": "36fec0fe-e66b-4abb-8ea7-92285fb4ded4",
+            "clue": "Possessing a steeple",
+            "answer": "spired",
+            "normalized": "spired"
+          },
+          {
+            "id": "5435b492-d019-4f2d-bd51-45fb90e3027b",
+            "clue": "The title character of a Currer Bell book, Jane __",
+            "answer": "eyre",
+            "normalized": "eyre"
+          },
+          {
+            "id": "f33bee46-874b-477a-a7c6-df2caa26d147",
+            "clue": "__ of Kutch, vast South Asian salt marshes",
+            "answer": "rann",
+            "normalized": "rann"
           }
         ],
-        "track": "PC|LenCinY2026M11D15F1V000"
+        "track": "PC|LenCinY2026M11D16F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-15",
+      "key": "2026-11-16",
       "year": 2026,
       "month": 11,
-      "day": 15,
+      "day": 16,
       "small": {
-        "puzzleId": "cb2a9789-6b6c-4288-9e59-a2fdd134b1ee",
+        "puzzleId": "513b386e-56f3-4a8d-83dd-8974aba30870",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "a24aaba8-786e-4da5-a442-3a2158f7fd7a",
-            "clue": "Ales and porters and lagers",
-            "answer": "beers",
-            "normalized": "beers"
+            "id": "dc177df0-07c6-47ed-8191-1de72f193bd8",
+            "clue": "End-of-level video-game opponent",
+            "answer": "boss",
+            "normalized": "boss"
           },
           {
-            "id": "0398998b-4f25-4975-a3b2-c36a1b3a5d00",
-            "clue": "__ pants, loose trousers inspired by Turkish style",
-            "answer": "harem",
-            "normalized": "harem"
+            "id": "e4399ef2-e72d-4b9b-8a39-a3a5e956c7a9",
+            "clue": "Japanese dish consisting of cold rice and raw fish",
+            "answer": "sushi",
+            "normalized": "sushi"
           },
           {
-            "id": "6dbe4380-95fa-4913-bd3f-9401b2cc3a2c",
-            "clue": "Most romantic man of the musketeers",
-            "answer": "aramis",
-            "normalized": "aramis"
+            "id": "7a7a2832-13cd-476c-bc37-edd4a6a9d365",
+            "clue": "Pilot, anagram of marina",
+            "answer": "airman",
+            "normalized": "airman"
           },
           {
-            "id": "99bb29b1-f7c9-4954-be0b-70750628d945",
-            "clue": "Interior footwear accessory",
-            "answer": "insole",
-            "normalized": "insole"
+            "id": "cf23d6ef-2ae3-4215-b982-88aec7c82989",
+            "clue": "Supreme council of the ancient Roman empire",
+            "answer": "senate",
+            "normalized": "senate"
           },
           {
-            "id": "71646006-e6e3-42e1-ab81-f3e5a58c1532",
-            "clue": "Pokemon who can become Jolteon or Flareon",
-            "answer": "eevee",
-            "normalized": "eevee"
+            "id": "e56cda96-a572-40ca-bda7-156276bcecd2",
+            "clue": "Type of journalist who works for a hard copy paper",
+            "answer": "print",
+            "normalized": "print"
           },
           {
-            "id": "5cbf60a2-3309-4781-8210-5f0c5b06bfa1",
-            "clue": "Comic book judge from Mega-City One",
-            "answer": "dredd",
-            "normalized": "dredd"
+            "id": "aa02b31d-67a3-4f25-b9c7-eff4246ed9f6",
+            "clue": "Bert's roommate on Sesame Street",
+            "answer": "ernie",
+            "normalized": "ernie"
           },
           {
-            "id": "01b31a49-ca3a-4bca-ba61-cd5aab2b3fb5",
-            "clue": "The Hindi equivalent of 'bro'",
-            "answer": "bhai",
-            "normalized": "bhai"
+            "id": "7ad5b63c-9328-4f26-b945-c5f6c1014cb7",
+            "clue": "IIM Lucknow's campus is called Prabandh ____",
+            "answer": "nagar",
+            "normalized": "nagar"
           },
           {
-            "id": "f9946251-40b8-4d7c-a10a-f1aef75645c3",
-            "clue": "Received money as payment for having worked",
-            "answer": "earned",
-            "normalized": "earned"
+            "id": "9a4f07c7-78d6-4637-829d-92ba8a74106b",
+            "clue": "Working late, or __ the midnight oil",
+            "answer": "burning",
+            "normalized": "burning"
           },
           {
-            "id": "bc83a045-3833-4277-a4d9-a731d61535b6",
-            "clue": "A rubber tool used to rub out something written",
-            "answer": "eraser",
-            "normalized": "eraser"
+            "id": "4164da80-4311-423b-932a-f2c600248c9f",
+            "clue": "Famous Hyderabadi tea-time biscuit",
+            "answer": "osmania",
+            "normalized": "osmania"
           },
           {
-            "id": "3c152386-083a-4ae9-b511-dcb1b7201bc4",
-            "clue": "Take makeup off at the end of the day",
-            "answer": "remove",
-            "normalized": "remove"
+            "id": "27974541-849c-4d4c-9748-fff2d6f72565",
+            "clue": "To break something into lots of tiny pieces",
+            "answer": "shatter",
+            "normalized": "shatter"
           },
           {
-            "id": "41c06071-e806-44cc-91cf-a49ad6d67ff6",
-            "clue": "Grinned, \"say cheese\"",
-            "answer": "smiled",
-            "normalized": "smiled"
+            "id": "c705dc0c-8c5c-4592-98d7-c38ca7739b4e",
+            "clue": "Trigonometry function for right-angled triangles",
+            "answer": "sine",
+            "normalized": "sine"
           },
           {
-            "id": "f1d5e7f9-3410-4c74-8290-39e09e78e272",
-            "clue": "Edible part inside a jackfruit tree pod",
-            "answer": "seed",
-            "normalized": "seed"
+            "id": "90cd431c-e592-4655-96c0-aa328e5034f8",
+            "clue": "__ Leone; setting of 2006 drama Blood Diamond",
+            "answer": "sierra",
+            "normalized": "sierra"
+          },
+          {
+            "id": "f4991491-1614-45b6-8312-cc76e5d1eb68",
+            "clue": "Quaking tree type",
+            "answer": "aspen",
+            "normalized": "aspen"
           }
         ],
-        "track": "PC|LenCinY2026M11D15F0V000"
+        "track": "PC|LenCinY2026M11D16F0V000"
       },
       "mid": {
-        "puzzleId": "47e375c7-ed6e-4d6b-a9c5-40eab0bb7e32",
+        "puzzleId": "93b6a393-158d-460c-a7f0-ace0f5d8aede",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "f8a08a15-1b9e-497d-b1ae-b5173f304b46",
-            "clue": "Back to __, focus on the simple things in life",
-            "answer": "basics",
-            "normalized": "basics"
+            "id": "b3ba347f-8113-48c2-b35d-1f9e3de6e2f7",
+            "clue": "They deliver letters to Hogwarts",
+            "answer": "owls",
+            "normalized": "owls"
           },
           {
-            "id": "b9611515-11df-4a33-8ab8-ca8a52650a0a",
-            "clue": "With great enthusiasm",
-            "answer": "avidly",
-            "normalized": "avidly"
+            "id": "8dd1c1ec-ef15-4285-873b-66c589e5fff8",
+            "clue": "Sodium hydroxide's chemical formula",
+            "answer": "naoh",
+            "normalized": "naoh"
           },
           {
-            "id": "827d887b-e7a8-411a-bf3e-b352a07fffc4",
-            "clue": "More skeletal than",
-            "answer": "bonier",
-            "normalized": "bonier"
+            "id": "a78ebad6-94b2-44f6-84fe-2ea214c78590",
+            "clue": "Makes a frog noise",
+            "answer": "croaks",
+            "normalized": "croaks"
           },
           {
-            "id": "1649d108-b77a-4862-b9fd-46b5ebac6e98",
-            "clue": "A prominent Naga tribe known for Naga wrestling",
-            "answer": "angami",
-            "normalized": "angami"
+            "id": "a7baac09-e43f-46a7-adc5-1ea066f6582b",
+            "clue": "Snare, tempt",
+            "answer": "entrap",
+            "normalized": "entrap"
           },
           {
-            "id": "bb7cff72-be03-4d7e-a6ab-69a3bfcfc86d",
-            "clue": "Make a small change to a document",
-            "answer": "amend",
-            "normalized": "amend"
+            "id": "5e9248ac-ac80-4497-8438-e2a24addfbea",
+            "clue": "More spooky",
+            "answer": "eerier",
+            "normalized": "eerier"
           },
           {
-            "id": "98cd6c86-2128-44cd-9d2d-66d48b4aa0c2",
-            "clue": "Beatles member with type of jewellery in his name",
-            "answer": "ringo",
-            "normalized": "ringo"
+            "id": "f1c69fa5-8e79-4790-b8d3-bc22c9ba7e1b",
+            "clue": "The main villain in the movie Krrish",
+            "answer": "dr arya",
+            "normalized": "drarya"
           },
           {
-            "id": "191e9579-2b3b-4713-b7ae-764ff6a3b55a",
-            "clue": "Nature photographer __ Adams",
-            "answer": "ansel",
-            "normalized": "ansel"
+            "id": "8ea99525-4690-4e19-95db-d0b00fff9e76",
+            "clue": "Small seabird, with Arctic and Sandwich varieties",
+            "answer": "tern",
+            "normalized": "tern"
           },
           {
-            "id": "dc90d5be-cd38-42b6-abd8-d205c3131b33",
-            "clue": "Ali __, Arabian Nights character with 40 thieves",
-            "answer": "baba",
-            "normalized": "baba"
+            "id": "00055c4f-b894-41d0-b2ea-d7081643a4b2",
+            "clue": "The garden Adam and Eve were exiled from",
+            "answer": "eden",
+            "normalized": "eden"
           },
           {
-            "id": "0f37ea04-ddca-4736-8bdf-df749e56fed6",
-            "clue": "Cosmetics franchise chain with brochure sales",
-            "answer": "avon",
-            "normalized": "avon"
+            "id": "61baac68-fdbb-4c2b-a63d-6bc1b2c40401",
+            "clue": "Only a single time",
+            "answer": "once",
+            "normalized": "once"
           },
           {
-            "id": "e24ef4c7-b47d-4270-9929-8938a2678b35",
-            "clue": "Bangladeshi fried pockets containing vegetables",
-            "answer": "singara",
-            "normalized": "singara"
+            "id": "b88d55fa-8c52-44dc-8a3b-cce4a99e6acb",
+            "clue": "Alert someone to impending danger",
+            "answer": "warn",
+            "normalized": "warn"
           },
           {
-            "id": "f221414a-da5b-44b1-815b-001b62a028f3",
-            "clue": "Subject of the 2006 movie Last King of Scotland",
-            "answer": "idi amin",
-            "normalized": "idiamin"
+            "id": "e369c93d-9616-4bf8-ba50-1da00f0e500b",
+            "clue": "Stole in a riot",
+            "answer": "looted",
+            "normalized": "looted"
           },
           {
-            "id": "74d5dbdc-23b2-40ce-8024-fc8ff5a48f78",
-            "clue": "Samuel Langhorne __, the real name of Mark Twain",
-            "answer": "clemens",
-            "normalized": "clemens"
+            "id": "f7bba59a-e0d2-4800-b722-3a7aa06bbfd6",
+            "clue": "Distributor, not a greedy individual",
+            "answer": "sharer",
+            "normalized": "sharer"
           },
           {
-            "id": "76ff8492-ff94-4b09-ab22-0a751c843059",
-            "clue": "Medical tool that has a plunger and Luer taper",
-            "answer": "syringe",
-            "normalized": "syringe"
+            "id": "237e86dd-0813-4f1d-a023-766be9a34dd6",
+            "clue": "Martial art done by the \"Kid\"",
+            "answer": "karate",
+            "normalized": "karate"
           },
           {
-            "id": "7a868916-8381-44cd-aeba-745125fbda1b",
-            "clue": "A measurement for the intensity of pain",
-            "answer": "dol",
-            "normalized": "dol"
+            "id": "36fec0fe-e66b-4abb-8ea7-92285fb4ded4",
+            "clue": "Possessing a steeple",
+            "answer": "spired",
+            "normalized": "spired"
+          },
+          {
+            "id": "5435b492-d019-4f2d-bd51-45fb90e3027b",
+            "clue": "The title character of a Currer Bell book, Jane __",
+            "answer": "eyre",
+            "normalized": "eyre"
+          },
+          {
+            "id": "f33bee46-874b-477a-a7c6-df2caa26d147",
+            "clue": "__ of Kutch, vast South Asian salt marshes",
+            "answer": "rann",
+            "normalized": "rann"
           }
         ],
-        "track": "PC|LenCinY2026M11D15F1V000"
+        "track": "PC|LenCinY2026M11D16F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388673,21 +388709,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "lLk71vlVQAc/2+j6jO0b2Jbwn6tE/yvtbZU2VhIYJ03ptk1FRO3FGo4d2Auo7tKSN+rmssPZdY5Xlu7+EIYEjRx6lhGs+YIg9Vp1vW++Oi7fhHVJiAiLrp+ocP7/ZlYZQ8SwfwAgWYA71oihZn0+KNHiGu2AlpguEgL+tuzf1vdJ3oenPGsGF19wxowcKvIZiaP07KF62ug0PqG3MuOzZuMaq+2n4BW+cRlfZ9R249rwoZ8ke4/7leQxs4HLqmrUF41dyAWwdjKHs+ITBW6YaY2ns+cxpVdcU56AfHIFQzU="
+        "qs9LkCnF3MbFW+LuF79joFrOYAI2jgnQCmIhaxI28GQy2dvPdrf613bbT8CYhNkbwOUU6tK44+tcMg9nDqMZ+k+xEpi9qYI7lWJCJK6bn0t+3aFKKp7JYyTpRJxrTwq/gGa3HJ0+F/S1Y7FvJEvFxzwGt34uLoSukdFRJPRZAF/NHNe6H19IGRg6NUu5L1009b2WUIygAM52ud/obnRrOM5L8xDpLhEuBR4fcsc1t+2sjDiQpy+3bL6q5SY1kQDqCl3mBUzszqMKKz11B0+DrLE0XrcAjjr0OWShvB8DVKo="
       ]
     },
     "decrypted": {
-      "Id": "505e7cc9-e1a9-407c-87ce-9f96d8682ccc",
-      "Date": "2026-11-15T00:00:00Z",
+      "Id": "612a42fa-72d4-4f4f-a94a-cdacc1d8cd8e",
+      "Date": "2026-11-16T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "knock",
-      "NormalizedPassword": "knock",
+      "Password": "scarf",
+      "NormalizedPassword": "scarf",
       "MaxGuesses": 6,
-      "Version": 3,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-15T04:08:07.0890000+05:30",
-    "hash": "732eb1f0354cb336ad8adbf7941e7164",
+    "dtu": "2026-11-16T04:31:16.3720000+05:30",
+    "hash": "d8a4801a2a286bc4ff7de22a3b86bdde",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
