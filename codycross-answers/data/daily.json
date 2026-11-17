@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T23:01:16.372Z",
+  "generatedAt": "2026-11-17T01:55:19.106Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 16
+    "day": 17
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 28
+        "QuantidadeDeFases": 32
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -45047,7 +45047,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Late-night live American show on Saturday, acronym",
+              "clue": "Live late-night show on Saturdays, acronym",
               "answer": "snl",
               "normalized": "snl"
             }
@@ -65563,7 +65563,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -196573,7 +196573,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Late-night live American show on Saturday, acronym",
+              "clue": "Live late-night show on Saturdays, acronym",
               "answer": "snl",
               "normalized": "snl"
             }
@@ -273757,7 +273757,7 @@
             },
             {
               "id": "9844149e-f13c-45f6-b60b-d8b66c954e37",
-              "clue": "People from China, India, Japan, Pakistan...",
+              "clue": "People from China, India, Japan, Pakistan",
               "answer": "asians",
               "normalized": "asians"
             },
@@ -287009,7 +287009,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             }
@@ -388125,403 +388125,379 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-16",
+      "key": "2026-11-17",
       "year": 2026,
       "month": 11,
-      "day": 16,
+      "day": 17,
       "small": {
-        "puzzleId": "513b386e-56f3-4a8d-83dd-8974aba30870",
+        "puzzleId": "42ec1e98-90a6-4b92-a1bf-b0299ff23dd2",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "dc177df0-07c6-47ed-8191-1de72f193bd8",
-            "clue": "End-of-level video-game opponent",
-            "answer": "boss",
-            "normalized": "boss"
+            "id": "2b15b33f-3319-4a51-9eae-1d6eddd2159c",
+            "clue": "Untidiness",
+            "answer": "mess",
+            "normalized": "mess"
           },
           {
-            "id": "e4399ef2-e72d-4b9b-8a39-a3a5e956c7a9",
-            "clue": "Japanese dish consisting of cold rice and raw fish",
-            "answer": "sushi",
-            "normalized": "sushi"
+            "id": "03951501-9db9-4d98-8cdc-bb825b058a8e",
+            "clue": "Anne __, star of All About Eve with Bette Davis",
+            "answer": "baxter",
+            "normalized": "baxter"
           },
           {
-            "id": "7a7a2832-13cd-476c-bc37-edd4a6a9d365",
-            "clue": "Pilot, anagram of marina",
-            "answer": "airman",
-            "normalized": "airman"
+            "id": "b5966c1e-3560-4b7a-a727-fa11f6ea2b44",
+            "clue": "Mysterious and understood by few",
+            "answer": "arcane",
+            "normalized": "arcane"
           },
           {
-            "id": "cf23d6ef-2ae3-4215-b982-88aec7c82989",
-            "clue": "Supreme council of the ancient Roman empire",
-            "answer": "senate",
-            "normalized": "senate"
+            "id": "a8b1c62a-6a73-4fe7-bf03-94f8ebbf74ba",
+            "clue": "Green brothers' channel Crash __",
+            "answer": "course",
+            "normalized": "course"
           },
           {
-            "id": "e56cda96-a572-40ca-bda7-156276bcecd2",
-            "clue": "Type of journalist who works for a hard copy paper",
-            "answer": "print",
-            "normalized": "print"
+            "id": "9413a7b9-ee1b-408a-8cc5-90109b64cbb9",
+            "clue": "Youth __, budget accommodation for travellers",
+            "answer": "hostel",
+            "normalized": "hostel"
           },
           {
-            "id": "aa02b31d-67a3-4f25-b9c7-eff4246ed9f6",
-            "clue": "Bert's roommate on Sesame Street",
-            "answer": "ernie",
-            "normalized": "ernie"
+            "id": "ef603cc3-1262-400b-8b6a-8a8d131237b1",
+            "clue": "Loch __, Scottish lake with mythical monster",
+            "answer": "ness",
+            "normalized": "ness"
           },
           {
-            "id": "7ad5b63c-9328-4f26-b945-c5f6c1014cb7",
-            "clue": "IIM Lucknow's campus is called Prabandh ____",
-            "answer": "nagar",
-            "normalized": "nagar"
+            "id": "d2cf19a9-9670-497a-948d-0d953a13a4b1",
+            "clue": "Purplish-brown-red colour",
+            "answer": "maroon",
+            "normalized": "maroon"
           },
           {
-            "id": "9a4f07c7-78d6-4637-829d-92ba8a74106b",
-            "clue": "Working late, or __ the midnight oil",
-            "answer": "burning",
-            "normalized": "burning"
+            "id": "a711173e-9c34-42aa-8871-fce4069079f6",
+            "clue": "__ me, polite phrase asking one to let you past",
+            "answer": "excuse",
+            "normalized": "excuse"
           },
           {
-            "id": "4164da80-4311-423b-932a-f2c600248c9f",
-            "clue": "Famous Hyderabadi tea-time biscuit",
-            "answer": "osmania",
-            "normalized": "osmania"
+            "id": "e7368e58-1fe1-4e76-a622-22d8400744f3",
+            "clue": "Commences, begins",
+            "answer": "starts",
+            "normalized": "starts"
           },
           {
-            "id": "27974541-849c-4d4c-9748-fff2d6f72565",
-            "clue": "To break something into lots of tiny pieces",
-            "answer": "shatter",
-            "normalized": "shatter"
+            "id": "e8b490f0-74b4-4d37-bc53-35646d696024",
+            "clue": "Vision, hearing, touch, taste and smell",
+            "answer": "senses",
+            "normalized": "senses"
           },
           {
-            "id": "c705dc0c-8c5c-4592-98d7-c38ca7739b4e",
-            "clue": "Trigonometry function for right-angled triangles",
-            "answer": "sine",
-            "normalized": "sine"
+            "id": "18173425-4bae-4f63-a29f-a01ec4037d0d",
+            "clue": "Baroque period composer, Johann Sebastian __",
+            "answer": "bach",
+            "normalized": "bach"
           },
           {
-            "id": "90cd431c-e592-4655-96c0-aa328e5034f8",
-            "clue": "__ Leone; setting of 2006 drama Blood Diamond",
-            "answer": "sierra",
-            "normalized": "sierra"
-          },
-          {
-            "id": "f4991491-1614-45b6-8312-cc76e5d1eb68",
-            "clue": "Quaking tree type",
-            "answer": "aspen",
-            "normalized": "aspen"
+            "id": "49749064-92a0-46fd-b7a2-47ed65f8776c",
+            "clue": "Spinning part on a fishing rod",
+            "answer": "reel",
+            "normalized": "reel"
           }
         ],
-        "track": "PC|LenCinY2026M11D16F0V000"
+        "track": "PC|LenCinY2026M11D17F0V000"
       },
       "mid": {
-        "puzzleId": "93b6a393-158d-460c-a7f0-ace0f5d8aede",
+        "puzzleId": "fb9c8d0a-4d4f-43ac-8a91-ee49caa83b07",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b3ba347f-8113-48c2-b35d-1f9e3de6e2f7",
-            "clue": "They deliver letters to Hogwarts",
-            "answer": "owls",
-            "normalized": "owls"
+            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
+            "clue": "Three initials for Shakespearean theatre company",
+            "answer": "rsc",
+            "normalized": "rsc"
           },
           {
-            "id": "8dd1c1ec-ef15-4285-873b-66c589e5fff8",
-            "clue": "Sodium hydroxide's chemical formula",
-            "answer": "naoh",
-            "normalized": "naoh"
+            "id": "571c2c8e-5c94-4d3c-b2e1-09f8546946c2",
+            "clue": "Love in French; Stevie Wonder song, My Cherie __",
+            "answer": "amour",
+            "normalized": "amour"
           },
           {
-            "id": "a78ebad6-94b2-44f6-84fe-2ea214c78590",
-            "clue": "Makes a frog noise",
-            "answer": "croaks",
-            "normalized": "croaks"
+            "id": "b7a2eb04-d3de-497b-986f-3f0d272c23fd",
+            "clue": "Ship's bottom that collects water",
+            "answer": "bilge",
+            "normalized": "bilge"
           },
           {
-            "id": "a7baac09-e43f-46a7-adc5-1ea066f6582b",
-            "clue": "Snare, tempt",
-            "answer": "entrap",
-            "normalized": "entrap"
+            "id": "f90679e4-2b90-49f5-b2de-e8f0596052c3",
+            "clue": "Books showing current borders and world geography",
+            "answer": "atlases",
+            "normalized": "atlases"
           },
           {
-            "id": "5e9248ac-ac80-4497-8438-e2a24addfbea",
-            "clue": "More spooky",
-            "answer": "eerier",
-            "normalized": "eerier"
+            "id": "c778a23c-6d60-40bd-b815-5aab371b4003",
+            "clue": "Death on __, 1937 Poirot mystery set in Egypt",
+            "answer": "the nile",
+            "normalized": "thenile"
           },
           {
-            "id": "f1c69fa5-8e79-4790-b8d3-bc22c9ba7e1b",
-            "clue": "The main villain in the movie Krrish",
-            "answer": "dr arya",
-            "normalized": "drarya"
+            "id": "b2dc8ec8-591b-44d2-b7ff-035a5531b334",
+            "clue": "Nicked a cricket ball with the side of a bat",
+            "answer": "edged",
+            "normalized": "edged"
           },
           {
-            "id": "8ea99525-4690-4e19-95db-d0b00fff9e76",
-            "clue": "Small seabird, with Arctic and Sandwich varieties",
-            "answer": "tern",
-            "normalized": "tern"
+            "id": "db3d01b0-c55a-4819-ac48-23d7edc569e7",
+            "clue": "__ Parbat, Himalayan peak also called Diamer",
+            "answer": "nanga",
+            "normalized": "nanga"
           },
           {
-            "id": "00055c4f-b894-41d0-b2ea-d7081643a4b2",
-            "clue": "The garden Adam and Eve were exiled from",
-            "answer": "eden",
-            "normalized": "eden"
+            "id": "8f8c2f0a-20f0-485d-b077-d96726f5eff9",
+            "clue": "Prefix meaning with or together",
+            "answer": "syn",
+            "normalized": "syn"
           },
           {
-            "id": "61baac68-fdbb-4c2b-a63d-6bc1b2c40401",
-            "clue": "Only a single time",
-            "answer": "once",
-            "normalized": "once"
+            "id": "37a7919a-364d-4f3d-b135-b57686db0393",
+            "clue": "Capital of Morocco",
+            "answer": "rabat",
+            "normalized": "rabat"
           },
           {
-            "id": "b88d55fa-8c52-44dc-8a3b-cce4a99e6acb",
-            "clue": "Alert someone to impending danger",
-            "answer": "warn",
-            "normalized": "warn"
+            "id": "d0e5bd05-dd52-488f-b2d2-166e00b7944d",
+            "clue": "Person who forges metals",
+            "answer": "smith",
+            "normalized": "smith"
           },
           {
-            "id": "e369c93d-9616-4bf8-ba50-1da00f0e500b",
-            "clue": "Stole in a riot",
-            "answer": "looted",
-            "normalized": "looted"
+            "id": "51c89cd6-5128-4848-aa46-c389df71ca29",
+            "clue": "__ McCullough; Aussie author of The Thorn Birds",
+            "answer": "colleen",
+            "normalized": "colleen"
           },
           {
-            "id": "f7bba59a-e0d2-4800-b722-3a7aa06bbfd6",
-            "clue": "Distributor, not a greedy individual",
-            "answer": "sharer",
-            "normalized": "sharer"
+            "id": "55a4672d-d850-4924-a88c-ed54e1d4b2e3",
+            "clue": "East African country that borders Kenya",
+            "answer": "uganda",
+            "normalized": "uganda"
           },
           {
-            "id": "237e86dd-0813-4f1d-a023-766be9a34dd6",
-            "clue": "Martial art done by the \"Kid\"",
-            "answer": "karate",
-            "normalized": "karate"
+            "id": "0adf698b-bb00-421e-9fd6-4fade9e5c3c7",
+            "clue": "Quits a job or position of power",
+            "answer": "resigns",
+            "normalized": "resigns"
           },
           {
-            "id": "36fec0fe-e66b-4abb-8ea7-92285fb4ded4",
-            "clue": "Possessing a steeple",
-            "answer": "spired",
-            "normalized": "spired"
+            "id": "68c0d689-9559-454c-9ddf-ccb41be644b2",
+            "clue": "Poem lamenting the dead",
+            "answer": "elegy",
+            "normalized": "elegy"
           },
           {
-            "id": "5435b492-d019-4f2d-bd51-45fb90e3027b",
-            "clue": "The title character of a Currer Bell book, Jane __",
-            "answer": "eyre",
-            "normalized": "eyre"
-          },
-          {
-            "id": "f33bee46-874b-477a-a7c6-df2caa26d147",
-            "clue": "__ of Kutch, vast South Asian salt marshes",
-            "answer": "rann",
-            "normalized": "rann"
+            "id": "efd65ddf-cc7f-408a-82f4-a1f3fc6b7a4f",
+            "clue": "Car with three compartments, also called a saloon",
+            "answer": "sedan",
+            "normalized": "sedan"
           }
         ],
-        "track": "PC|LenCinY2026M11D16F1V000"
+        "track": "PC|LenCinY2026M11D17F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-16",
+      "key": "2026-11-17",
       "year": 2026,
       "month": 11,
-      "day": 16,
+      "day": 17,
       "small": {
-        "puzzleId": "513b386e-56f3-4a8d-83dd-8974aba30870",
+        "puzzleId": "42ec1e98-90a6-4b92-a1bf-b0299ff23dd2",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "dc177df0-07c6-47ed-8191-1de72f193bd8",
-            "clue": "End-of-level video-game opponent",
-            "answer": "boss",
-            "normalized": "boss"
+            "id": "2b15b33f-3319-4a51-9eae-1d6eddd2159c",
+            "clue": "Untidiness",
+            "answer": "mess",
+            "normalized": "mess"
           },
           {
-            "id": "e4399ef2-e72d-4b9b-8a39-a3a5e956c7a9",
-            "clue": "Japanese dish consisting of cold rice and raw fish",
-            "answer": "sushi",
-            "normalized": "sushi"
+            "id": "03951501-9db9-4d98-8cdc-bb825b058a8e",
+            "clue": "Anne __, star of All About Eve with Bette Davis",
+            "answer": "baxter",
+            "normalized": "baxter"
           },
           {
-            "id": "7a7a2832-13cd-476c-bc37-edd4a6a9d365",
-            "clue": "Pilot, anagram of marina",
-            "answer": "airman",
-            "normalized": "airman"
+            "id": "b5966c1e-3560-4b7a-a727-fa11f6ea2b44",
+            "clue": "Mysterious and understood by few",
+            "answer": "arcane",
+            "normalized": "arcane"
           },
           {
-            "id": "cf23d6ef-2ae3-4215-b982-88aec7c82989",
-            "clue": "Supreme council of the ancient Roman empire",
-            "answer": "senate",
-            "normalized": "senate"
+            "id": "a8b1c62a-6a73-4fe7-bf03-94f8ebbf74ba",
+            "clue": "Green brothers' channel Crash __",
+            "answer": "course",
+            "normalized": "course"
           },
           {
-            "id": "e56cda96-a572-40ca-bda7-156276bcecd2",
-            "clue": "Type of journalist who works for a hard copy paper",
-            "answer": "print",
-            "normalized": "print"
+            "id": "9413a7b9-ee1b-408a-8cc5-90109b64cbb9",
+            "clue": "Youth __, budget accommodation for travellers",
+            "answer": "hostel",
+            "normalized": "hostel"
           },
           {
-            "id": "aa02b31d-67a3-4f25-b9c7-eff4246ed9f6",
-            "clue": "Bert's roommate on Sesame Street",
-            "answer": "ernie",
-            "normalized": "ernie"
+            "id": "ef603cc3-1262-400b-8b6a-8a8d131237b1",
+            "clue": "Loch __, Scottish lake with mythical monster",
+            "answer": "ness",
+            "normalized": "ness"
           },
           {
-            "id": "7ad5b63c-9328-4f26-b945-c5f6c1014cb7",
-            "clue": "IIM Lucknow's campus is called Prabandh ____",
-            "answer": "nagar",
-            "normalized": "nagar"
+            "id": "d2cf19a9-9670-497a-948d-0d953a13a4b1",
+            "clue": "Purplish-brown-red colour",
+            "answer": "maroon",
+            "normalized": "maroon"
           },
           {
-            "id": "9a4f07c7-78d6-4637-829d-92ba8a74106b",
-            "clue": "Working late, or __ the midnight oil",
-            "answer": "burning",
-            "normalized": "burning"
+            "id": "a711173e-9c34-42aa-8871-fce4069079f6",
+            "clue": "__ me, polite phrase asking one to let you past",
+            "answer": "excuse",
+            "normalized": "excuse"
           },
           {
-            "id": "4164da80-4311-423b-932a-f2c600248c9f",
-            "clue": "Famous Hyderabadi tea-time biscuit",
-            "answer": "osmania",
-            "normalized": "osmania"
+            "id": "e7368e58-1fe1-4e76-a622-22d8400744f3",
+            "clue": "Commences, begins",
+            "answer": "starts",
+            "normalized": "starts"
           },
           {
-            "id": "27974541-849c-4d4c-9748-fff2d6f72565",
-            "clue": "To break something into lots of tiny pieces",
-            "answer": "shatter",
-            "normalized": "shatter"
+            "id": "e8b490f0-74b4-4d37-bc53-35646d696024",
+            "clue": "Vision, hearing, touch, taste and smell",
+            "answer": "senses",
+            "normalized": "senses"
           },
           {
-            "id": "c705dc0c-8c5c-4592-98d7-c38ca7739b4e",
-            "clue": "Trigonometry function for right-angled triangles",
-            "answer": "sine",
-            "normalized": "sine"
+            "id": "18173425-4bae-4f63-a29f-a01ec4037d0d",
+            "clue": "Baroque period composer, Johann Sebastian __",
+            "answer": "bach",
+            "normalized": "bach"
           },
           {
-            "id": "90cd431c-e592-4655-96c0-aa328e5034f8",
-            "clue": "__ Leone; setting of 2006 drama Blood Diamond",
-            "answer": "sierra",
-            "normalized": "sierra"
-          },
-          {
-            "id": "f4991491-1614-45b6-8312-cc76e5d1eb68",
-            "clue": "Quaking tree type",
-            "answer": "aspen",
-            "normalized": "aspen"
+            "id": "49749064-92a0-46fd-b7a2-47ed65f8776c",
+            "clue": "Spinning part on a fishing rod",
+            "answer": "reel",
+            "normalized": "reel"
           }
         ],
-        "track": "PC|LenCinY2026M11D16F0V000"
+        "track": "PC|LenCinY2026M11D17F0V000"
       },
       "mid": {
-        "puzzleId": "93b6a393-158d-460c-a7f0-ace0f5d8aede",
+        "puzzleId": "fb9c8d0a-4d4f-43ac-8a91-ee49caa83b07",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "b3ba347f-8113-48c2-b35d-1f9e3de6e2f7",
-            "clue": "They deliver letters to Hogwarts",
-            "answer": "owls",
-            "normalized": "owls"
+            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
+            "clue": "Three initials for Shakespearean theatre company",
+            "answer": "rsc",
+            "normalized": "rsc"
           },
           {
-            "id": "8dd1c1ec-ef15-4285-873b-66c589e5fff8",
-            "clue": "Sodium hydroxide's chemical formula",
-            "answer": "naoh",
-            "normalized": "naoh"
+            "id": "571c2c8e-5c94-4d3c-b2e1-09f8546946c2",
+            "clue": "Love in French; Stevie Wonder song, My Cherie __",
+            "answer": "amour",
+            "normalized": "amour"
           },
           {
-            "id": "a78ebad6-94b2-44f6-84fe-2ea214c78590",
-            "clue": "Makes a frog noise",
-            "answer": "croaks",
-            "normalized": "croaks"
+            "id": "b7a2eb04-d3de-497b-986f-3f0d272c23fd",
+            "clue": "Ship's bottom that collects water",
+            "answer": "bilge",
+            "normalized": "bilge"
           },
           {
-            "id": "a7baac09-e43f-46a7-adc5-1ea066f6582b",
-            "clue": "Snare, tempt",
-            "answer": "entrap",
-            "normalized": "entrap"
+            "id": "f90679e4-2b90-49f5-b2de-e8f0596052c3",
+            "clue": "Books showing current borders and world geography",
+            "answer": "atlases",
+            "normalized": "atlases"
           },
           {
-            "id": "5e9248ac-ac80-4497-8438-e2a24addfbea",
-            "clue": "More spooky",
-            "answer": "eerier",
-            "normalized": "eerier"
+            "id": "c778a23c-6d60-40bd-b815-5aab371b4003",
+            "clue": "Death on __, 1937 Poirot mystery set in Egypt",
+            "answer": "the nile",
+            "normalized": "thenile"
           },
           {
-            "id": "f1c69fa5-8e79-4790-b8d3-bc22c9ba7e1b",
-            "clue": "The main villain in the movie Krrish",
-            "answer": "dr arya",
-            "normalized": "drarya"
+            "id": "b2dc8ec8-591b-44d2-b7ff-035a5531b334",
+            "clue": "Nicked a cricket ball with the side of a bat",
+            "answer": "edged",
+            "normalized": "edged"
           },
           {
-            "id": "8ea99525-4690-4e19-95db-d0b00fff9e76",
-            "clue": "Small seabird, with Arctic and Sandwich varieties",
-            "answer": "tern",
-            "normalized": "tern"
+            "id": "db3d01b0-c55a-4819-ac48-23d7edc569e7",
+            "clue": "__ Parbat, Himalayan peak also called Diamer",
+            "answer": "nanga",
+            "normalized": "nanga"
           },
           {
-            "id": "00055c4f-b894-41d0-b2ea-d7081643a4b2",
-            "clue": "The garden Adam and Eve were exiled from",
-            "answer": "eden",
-            "normalized": "eden"
+            "id": "8f8c2f0a-20f0-485d-b077-d96726f5eff9",
+            "clue": "Prefix meaning with or together",
+            "answer": "syn",
+            "normalized": "syn"
           },
           {
-            "id": "61baac68-fdbb-4c2b-a63d-6bc1b2c40401",
-            "clue": "Only a single time",
-            "answer": "once",
-            "normalized": "once"
+            "id": "37a7919a-364d-4f3d-b135-b57686db0393",
+            "clue": "Capital of Morocco",
+            "answer": "rabat",
+            "normalized": "rabat"
           },
           {
-            "id": "b88d55fa-8c52-44dc-8a3b-cce4a99e6acb",
-            "clue": "Alert someone to impending danger",
-            "answer": "warn",
-            "normalized": "warn"
+            "id": "d0e5bd05-dd52-488f-b2d2-166e00b7944d",
+            "clue": "Person who forges metals",
+            "answer": "smith",
+            "normalized": "smith"
           },
           {
-            "id": "e369c93d-9616-4bf8-ba50-1da00f0e500b",
-            "clue": "Stole in a riot",
-            "answer": "looted",
-            "normalized": "looted"
+            "id": "51c89cd6-5128-4848-aa46-c389df71ca29",
+            "clue": "__ McCullough; Aussie author of The Thorn Birds",
+            "answer": "colleen",
+            "normalized": "colleen"
           },
           {
-            "id": "f7bba59a-e0d2-4800-b722-3a7aa06bbfd6",
-            "clue": "Distributor, not a greedy individual",
-            "answer": "sharer",
-            "normalized": "sharer"
+            "id": "55a4672d-d850-4924-a88c-ed54e1d4b2e3",
+            "clue": "East African country that borders Kenya",
+            "answer": "uganda",
+            "normalized": "uganda"
           },
           {
-            "id": "237e86dd-0813-4f1d-a023-766be9a34dd6",
-            "clue": "Martial art done by the \"Kid\"",
-            "answer": "karate",
-            "normalized": "karate"
+            "id": "0adf698b-bb00-421e-9fd6-4fade9e5c3c7",
+            "clue": "Quits a job or position of power",
+            "answer": "resigns",
+            "normalized": "resigns"
           },
           {
-            "id": "36fec0fe-e66b-4abb-8ea7-92285fb4ded4",
-            "clue": "Possessing a steeple",
-            "answer": "spired",
-            "normalized": "spired"
+            "id": "68c0d689-9559-454c-9ddf-ccb41be644b2",
+            "clue": "Poem lamenting the dead",
+            "answer": "elegy",
+            "normalized": "elegy"
           },
           {
-            "id": "5435b492-d019-4f2d-bd51-45fb90e3027b",
-            "clue": "The title character of a Currer Bell book, Jane __",
-            "answer": "eyre",
-            "normalized": "eyre"
-          },
-          {
-            "id": "f33bee46-874b-477a-a7c6-df2caa26d147",
-            "clue": "__ of Kutch, vast South Asian salt marshes",
-            "answer": "rann",
-            "normalized": "rann"
+            "id": "efd65ddf-cc7f-408a-82f4-a1f3fc6b7a4f",
+            "clue": "Car with three compartments, also called a saloon",
+            "answer": "sedan",
+            "normalized": "sedan"
           }
         ],
-        "track": "PC|LenCinY2026M11D16F1V000"
+        "track": "PC|LenCinY2026M11D17F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388709,21 +388685,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "qs9LkCnF3MbFW+LuF79joFrOYAI2jgnQCmIhaxI28GQy2dvPdrf613bbT8CYhNkbwOUU6tK44+tcMg9nDqMZ+k+xEpi9qYI7lWJCJK6bn0t+3aFKKp7JYyTpRJxrTwq/gGa3HJ0+F/S1Y7FvJEvFxzwGt34uLoSukdFRJPRZAF/NHNe6H19IGRg6NUu5L1009b2WUIygAM52ud/obnRrOM5L8xDpLhEuBR4fcsc1t+2sjDiQpy+3bL6q5SY1kQDqCl3mBUzszqMKKz11B0+DrLE0XrcAjjr0OWShvB8DVKo="
+        "3YkCS/goBH7E306mqUEU5ZYDXfCCdHfnL+bugA4xx92vvhGefM7ACc/ywU9cemQ2RCMYekaHgt7oG9oF7Z4MJw5/BAioee1/bWZWf2BwlXhsiwZEJj3Zll2lPYFf7wuVS5uBIrrpsPQNfJXPKjmF6T9iRTAOh8Gf5SCJkuQ+vRf7I+uIb5jp6qgdHo8B60KJZWteKlpOuSodcFfNtGFjVcI6EJDwZ5rYApIB5M3dwYsRVAuEQ3eIA29RgHZoKIsl999lIvK1ljU1a60RXXDKgKjZ8+feETxYrjSyRsK6viI="
       ]
     },
     "decrypted": {
-      "Id": "612a42fa-72d4-4f4f-a94a-cdacc1d8cd8e",
-      "Date": "2026-11-16T00:00:00Z",
+      "Id": "27ff1309-0d96-436e-9bb9-825c21c1d719",
+      "Date": "2026-11-17T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "scarf",
-      "NormalizedPassword": "scarf",
+      "Password": "amber",
+      "NormalizedPassword": "amber",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-16T04:31:16.3720000+05:30",
-    "hash": "d8a4801a2a286bc4ff7de22a3b86bdde",
+    "dtu": "2026-11-17T07:25:19.1060000+05:30",
+    "hash": "d7776cd28f2591c507cd0662d8ed285e",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
