@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T01:55:19.106Z",
+  "generatedAt": "2026-11-18T01:03:54.954Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 17
+    "day": 18
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 32
+        "QuantidadeDeFases": 34
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -12043,7 +12043,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Late-night live American show on Saturday, acronym",
+              "clue": "Live late-night show on Saturdays, acronym",
               "answer": "snl",
               "normalized": "snl"
             },
@@ -23517,7 +23517,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Late-night live American show on Saturday, acronym",
+              "clue": "Live late-night show on Saturdays, acronym",
               "answer": "snl",
               "normalized": "snl"
             }
@@ -65563,7 +65563,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -100193,7 +100193,7 @@
             },
             {
               "id": "9844149e-f13c-45f6-b60b-d8b66c954e37",
-              "clue": "People from China, India, Japan, Pakistan...",
+              "clue": "People from China, India, Japan, Pakistan",
               "answer": "asians",
               "normalized": "asians"
             },
@@ -119411,7 +119411,7 @@
             },
             {
               "id": "9844149e-f13c-45f6-b60b-d8b66c954e37",
-              "clue": "People from China, India, Japan, Pakistan...",
+              "clue": "People from China, India, Japan, Pakistan",
               "answer": "asians",
               "normalized": "asians"
             },
@@ -126041,7 +126041,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             }
@@ -173907,7 +173907,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Late-night live American show on Saturday, acronym",
+              "clue": "Live late-night show on Saturdays, acronym",
               "answer": "snl",
               "normalized": "snl"
             },
@@ -287009,7 +287009,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             }
@@ -345607,7 +345607,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Late-night live American show on Saturday, acronym",
+              "clue": "Live late-night show on Saturdays, acronym",
               "answer": "snl",
               "normalized": "snl"
             },
@@ -376009,7 +376009,7 @@
             },
             {
               "id": "9844149e-f13c-45f6-b60b-d8b66c954e37",
-              "clue": "People from China, India, Japan, Pakistan...",
+              "clue": "People from China, India, Japan, Pakistan",
               "answer": "asians",
               "normalized": "asians"
             },
@@ -388125,379 +388125,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-17",
+      "key": "2026-11-18",
       "year": 2026,
       "month": 11,
-      "day": 17,
+      "day": 18,
       "small": {
-        "puzzleId": "42ec1e98-90a6-4b92-a1bf-b0299ff23dd2",
+        "puzzleId": "de34782d-6684-4ca9-bf33-4ed801a7f13d",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "2b15b33f-3319-4a51-9eae-1d6eddd2159c",
-            "clue": "Untidiness",
-            "answer": "mess",
-            "normalized": "mess"
+            "id": "c9dac4e3-4a5d-447c-8ce9-749645751537",
+            "clue": "Onomatopoeic sound of a snake",
+            "answer": "sss",
+            "normalized": "sss"
           },
           {
-            "id": "03951501-9db9-4d98-8cdc-bb825b058a8e",
-            "clue": "Anne __, star of All About Eve with Bette Davis",
-            "answer": "baxter",
-            "normalized": "baxter"
+            "id": "6cb6a5aa-2de4-4fc0-bf22-a9401b58b376",
+            "clue": "A Tapori's turf or territory",
+            "answer": "ilaaka",
+            "normalized": "ilaaka"
           },
           {
-            "id": "b5966c1e-3560-4b7a-a727-fa11f6ea2b44",
-            "clue": "Mysterious and understood by few",
-            "answer": "arcane",
-            "normalized": "arcane"
+            "id": "26d9a55f-4845-4c5c-8031-6ee1c63f96be",
+            "clue": "Maxims, personal sayings",
+            "answer": "mottos",
+            "normalized": "mottos"
           },
           {
-            "id": "a8b1c62a-6a73-4fe7-bf03-94f8ebbf74ba",
-            "clue": "Green brothers' channel Crash __",
-            "answer": "course",
-            "normalized": "course"
+            "id": "bec50716-8280-47bd-af57-f9b53b2ed08b",
+            "clue": "Moves faster than a walk and slower than a canter",
+            "answer": "trots",
+            "normalized": "trots"
           },
           {
-            "id": "9413a7b9-ee1b-408a-8cc5-90109b64cbb9",
-            "clue": "Youth __, budget accommodation for travellers",
-            "answer": "hostel",
-            "normalized": "hostel"
+            "id": "d5738264-b335-4f9b-8c8d-b9ff74a00fab",
+            "clue": "Catwoman and Monster's Ball actress, __ Berry",
+            "answer": "halle",
+            "normalized": "halle"
           },
           {
-            "id": "ef603cc3-1262-400b-8b6a-8a8d131237b1",
-            "clue": "Loch __, Scottish lake with mythical monster",
-            "answer": "ness",
-            "normalized": "ness"
+            "id": "1cb5283f-8ca7-4b21-981c-ae31248bb906",
+            "clue": "Onomatopoeia for wet things hitting the floor",
+            "answer": "splat",
+            "normalized": "splat"
           },
           {
-            "id": "d2cf19a9-9670-497a-948d-0d953a13a4b1",
-            "clue": "Purplish-brown-red colour",
-            "answer": "maroon",
-            "normalized": "maroon"
+            "id": "9d1ecfbc-a5f9-488a-85b4-df68df473c60",
+            "clue": "Small electronic card inserted into a cell phone",
+            "answer": "sim",
+            "normalized": "sim"
           },
           {
-            "id": "a711173e-9c34-42aa-8871-fce4069079f6",
-            "clue": "__ me, polite phrase asking one to let you past",
-            "answer": "excuse",
-            "normalized": "excuse"
+            "id": "9306c53d-99c1-4664-9e70-9f1865b2b4d7",
+            "clue": "Lazy animals",
+            "answer": "sloths",
+            "normalized": "sloths"
           },
           {
-            "id": "e7368e58-1fe1-4e76-a622-22d8400744f3",
-            "clue": "Commences, begins",
-            "answer": "starts",
-            "normalized": "starts"
+            "id": "00b73b0d-1784-4d68-8c54-a5a9e6afdfca",
+            "clue": "Governor of a province in ancient Persia",
+            "answer": "satrap",
+            "normalized": "satrap"
           },
           {
-            "id": "e8b490f0-74b4-4d37-bc53-35646d696024",
-            "clue": "Vision, hearing, touch, taste and smell",
-            "answer": "senses",
-            "normalized": "senses"
+            "id": "faf06b29-db21-489f-8c17-07d09638dbde",
+            "clue": "Kalpeni Island is a type of coral ____",
+            "answer": "atoll",
+            "normalized": "atoll"
           },
           {
-            "id": "18173425-4bae-4f63-a29f-a01ec4037d0d",
-            "clue": "Baroque period composer, Johann Sebastian __",
-            "answer": "bach",
-            "normalized": "bach"
+            "id": "e484200d-186c-4d96-a732-a2eb25ded285",
+            "clue": "Feroz Shah ____ Stadium in Delhi",
+            "answer": "kotla",
+            "normalized": "kotla"
           },
           {
-            "id": "49749064-92a0-46fd-b7a2-47ed65f8776c",
-            "clue": "Spinning part on a fishing rod",
-            "answer": "reel",
-            "normalized": "reel"
+            "id": "43517f1e-ae8c-45ee-9635-393643d21907",
+            "clue": "Something valuable owned by a company",
+            "answer": "asset",
+            "normalized": "asset"
           }
         ],
-        "track": "PC|LenCinY2026M11D17F0V000"
+        "track": "PC|LenCinY2026M11D18F0V000"
       },
       "mid": {
-        "puzzleId": "fb9c8d0a-4d4f-43ac-8a91-ee49caa83b07",
+        "puzzleId": "2960a674-7666-47b6-8235-fe511982903b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
-            "clue": "Three initials for Shakespearean theatre company",
-            "answer": "rsc",
-            "normalized": "rsc"
+            "id": "bebdf0f5-a819-461e-b893-a9c64636ba44",
+            "clue": "Father __, male parent of your husband or wife",
+            "answer": "in law",
+            "normalized": "inlaw"
           },
           {
-            "id": "571c2c8e-5c94-4d3c-b2e1-09f8546946c2",
-            "clue": "Love in French; Stevie Wonder song, My Cherie __",
-            "answer": "amour",
-            "normalized": "amour"
+            "id": "4d787da5-f316-47d4-bb05-f209def167bf",
+            "clue": "Business banners and posters",
+            "answer": "signage",
+            "normalized": "signage"
           },
           {
-            "id": "b7a2eb04-d3de-497b-986f-3f0d272c23fd",
-            "clue": "Ship's bottom that collects water",
-            "answer": "bilge",
-            "normalized": "bilge"
+            "id": "7249487c-b896-4d73-a340-560505b7f301",
+            "clue": "The first A in ABBA",
+            "answer": "agnetha",
+            "normalized": "agnetha"
           },
           {
-            "id": "f90679e4-2b90-49f5-b2de-e8f0596052c3",
-            "clue": "Books showing current borders and world geography",
-            "answer": "atlases",
-            "normalized": "atlases"
+            "id": "cc61e5f5-186f-46c3-a059-882f40bed6b6",
+            "clue": "Dynamic twosome",
+            "answer": "duo",
+            "normalized": "duo"
           },
           {
-            "id": "c778a23c-6d60-40bd-b815-5aab371b4003",
-            "clue": "Death on __, 1937 Poirot mystery set in Egypt",
-            "answer": "the nile",
-            "normalized": "thenile"
+            "id": "3faa6f1e-c325-44b2-bed2-f565b48b7fbd",
+            "clue": "Shallow __, played by Jack Black",
+            "answer": "hal",
+            "normalized": "hal"
           },
           {
-            "id": "b2dc8ec8-591b-44d2-b7ff-035a5531b334",
-            "clue": "Nicked a cricket ball with the side of a bat",
-            "answer": "edged",
-            "normalized": "edged"
+            "id": "b094f8c0-cb4d-42b7-903e-7441252627a2",
+            "clue": "Most difficult",
+            "answer": "hardest",
+            "normalized": "hardest"
           },
           {
-            "id": "db3d01b0-c55a-4819-ac48-23d7edc569e7",
-            "clue": "__ Parbat, Himalayan peak also called Diamer",
-            "answer": "nanga",
-            "normalized": "nanga"
+            "id": "0b65fdab-7ce1-4908-a07a-798496f0fbd6",
+            "clue": "Dig up, remove from the ground",
+            "answer": "unearth",
+            "normalized": "unearth"
           },
           {
-            "id": "8f8c2f0a-20f0-485d-b077-d96726f5eff9",
-            "clue": "Prefix meaning with or together",
-            "answer": "syn",
-            "normalized": "syn"
+            "id": "f0673c60-cd04-45b0-bfb8-e941fead56c3",
+            "clue": "When relaying unfortunate news, use this adverb",
+            "answer": "sadly",
+            "normalized": "sadly"
           },
           {
-            "id": "37a7919a-364d-4f3d-b135-b57686db0393",
-            "clue": "Capital of Morocco",
-            "answer": "rabat",
-            "normalized": "rabat"
+            "id": "a76737e0-801a-4bbe-888a-ae2e5f95c23f",
+            "clue": "Did not answer; pretended not to listen",
+            "answer": "ignored",
+            "normalized": "ignored"
           },
           {
-            "id": "d0e5bd05-dd52-488f-b2d2-166e00b7944d",
-            "clue": "Person who forges metals",
-            "answer": "smith",
-            "normalized": "smith"
+            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
+            "clue": "On a compass, the opposite of SSW",
+            "answer": "nne",
+            "normalized": "nne"
           },
           {
-            "id": "51c89cd6-5128-4848-aa46-c389df71ca29",
-            "clue": "__ McCullough; Aussie author of The Thorn Birds",
-            "answer": "colleen",
-            "normalized": "colleen"
+            "id": "6f9f8446-f6f4-4820-9257-c4a1754641d8",
+            "clue": "Covered in little soapy bubbles",
+            "answer": "lathery",
+            "normalized": "lathery"
           },
           {
-            "id": "55a4672d-d850-4924-a88c-ed54e1d4b2e3",
-            "clue": "East African country that borders Kenya",
-            "answer": "uganda",
-            "normalized": "uganda"
+            "id": "3cbe3269-621b-41d4-8a09-4900dbc9c060",
+            "clue": "Horrified, stunned, astounded",
+            "answer": "aghast",
+            "normalized": "aghast"
           },
           {
-            "id": "0adf698b-bb00-421e-9fd6-4fade9e5c3c7",
-            "clue": "Quits a job or position of power",
-            "answer": "resigns",
-            "normalized": "resigns"
+            "id": "cbdc4c3f-bbe7-4b32-9eec-199b778f492f",
+            "clue": "Riches",
+            "answer": "wealth",
+            "normalized": "wealth"
           },
           {
-            "id": "68c0d689-9559-454c-9ddf-ccb41be644b2",
-            "clue": "Poem lamenting the dead",
-            "answer": "elegy",
-            "normalized": "elegy"
+            "id": "e055a711-a3bc-43fe-a8db-747c6531f3ad",
+            "clue": "Ascetics seen at the Kumbh Mela",
+            "answer": "sadhus",
+            "normalized": "sadhus"
           },
           {
-            "id": "efd65ddf-cc7f-408a-82f4-a1f3fc6b7a4f",
-            "clue": "Car with three compartments, also called a saloon",
-            "answer": "sedan",
-            "normalized": "sedan"
+            "id": "27c9631a-d50f-43b4-ab19-3c11099f3a2e",
+            "clue": "Plant-eating lizard commonly kept as a pet",
+            "answer": "iguana",
+            "normalized": "iguana"
+          },
+          {
+            "id": "109c14b6-fd25-459b-9351-160e8817d770",
+            "clue": "Lentil curry, a common item in a tiffin",
+            "answer": "dal",
+            "normalized": "dal"
           }
         ],
-        "track": "PC|LenCinY2026M11D17F1V000"
+        "track": "PC|LenCinY2026M11D18F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-17",
+      "key": "2026-11-18",
       "year": 2026,
       "month": 11,
-      "day": 17,
+      "day": 18,
       "small": {
-        "puzzleId": "42ec1e98-90a6-4b92-a1bf-b0299ff23dd2",
+        "puzzleId": "de34782d-6684-4ca9-bf33-4ed801a7f13d",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "2b15b33f-3319-4a51-9eae-1d6eddd2159c",
-            "clue": "Untidiness",
-            "answer": "mess",
-            "normalized": "mess"
+            "id": "c9dac4e3-4a5d-447c-8ce9-749645751537",
+            "clue": "Onomatopoeic sound of a snake",
+            "answer": "sss",
+            "normalized": "sss"
           },
           {
-            "id": "03951501-9db9-4d98-8cdc-bb825b058a8e",
-            "clue": "Anne __, star of All About Eve with Bette Davis",
-            "answer": "baxter",
-            "normalized": "baxter"
+            "id": "6cb6a5aa-2de4-4fc0-bf22-a9401b58b376",
+            "clue": "A Tapori's turf or territory",
+            "answer": "ilaaka",
+            "normalized": "ilaaka"
           },
           {
-            "id": "b5966c1e-3560-4b7a-a727-fa11f6ea2b44",
-            "clue": "Mysterious and understood by few",
-            "answer": "arcane",
-            "normalized": "arcane"
+            "id": "26d9a55f-4845-4c5c-8031-6ee1c63f96be",
+            "clue": "Maxims, personal sayings",
+            "answer": "mottos",
+            "normalized": "mottos"
           },
           {
-            "id": "a8b1c62a-6a73-4fe7-bf03-94f8ebbf74ba",
-            "clue": "Green brothers' channel Crash __",
-            "answer": "course",
-            "normalized": "course"
+            "id": "bec50716-8280-47bd-af57-f9b53b2ed08b",
+            "clue": "Moves faster than a walk and slower than a canter",
+            "answer": "trots",
+            "normalized": "trots"
           },
           {
-            "id": "9413a7b9-ee1b-408a-8cc5-90109b64cbb9",
-            "clue": "Youth __, budget accommodation for travellers",
-            "answer": "hostel",
-            "normalized": "hostel"
+            "id": "d5738264-b335-4f9b-8c8d-b9ff74a00fab",
+            "clue": "Catwoman and Monster's Ball actress, __ Berry",
+            "answer": "halle",
+            "normalized": "halle"
           },
           {
-            "id": "ef603cc3-1262-400b-8b6a-8a8d131237b1",
-            "clue": "Loch __, Scottish lake with mythical monster",
-            "answer": "ness",
-            "normalized": "ness"
+            "id": "1cb5283f-8ca7-4b21-981c-ae31248bb906",
+            "clue": "Onomatopoeia for wet things hitting the floor",
+            "answer": "splat",
+            "normalized": "splat"
           },
           {
-            "id": "d2cf19a9-9670-497a-948d-0d953a13a4b1",
-            "clue": "Purplish-brown-red colour",
-            "answer": "maroon",
-            "normalized": "maroon"
+            "id": "9d1ecfbc-a5f9-488a-85b4-df68df473c60",
+            "clue": "Small electronic card inserted into a cell phone",
+            "answer": "sim",
+            "normalized": "sim"
           },
           {
-            "id": "a711173e-9c34-42aa-8871-fce4069079f6",
-            "clue": "__ me, polite phrase asking one to let you past",
-            "answer": "excuse",
-            "normalized": "excuse"
+            "id": "9306c53d-99c1-4664-9e70-9f1865b2b4d7",
+            "clue": "Lazy animals",
+            "answer": "sloths",
+            "normalized": "sloths"
           },
           {
-            "id": "e7368e58-1fe1-4e76-a622-22d8400744f3",
-            "clue": "Commences, begins",
-            "answer": "starts",
-            "normalized": "starts"
+            "id": "00b73b0d-1784-4d68-8c54-a5a9e6afdfca",
+            "clue": "Governor of a province in ancient Persia",
+            "answer": "satrap",
+            "normalized": "satrap"
           },
           {
-            "id": "e8b490f0-74b4-4d37-bc53-35646d696024",
-            "clue": "Vision, hearing, touch, taste and smell",
-            "answer": "senses",
-            "normalized": "senses"
+            "id": "faf06b29-db21-489f-8c17-07d09638dbde",
+            "clue": "Kalpeni Island is a type of coral ____",
+            "answer": "atoll",
+            "normalized": "atoll"
           },
           {
-            "id": "18173425-4bae-4f63-a29f-a01ec4037d0d",
-            "clue": "Baroque period composer, Johann Sebastian __",
-            "answer": "bach",
-            "normalized": "bach"
+            "id": "e484200d-186c-4d96-a732-a2eb25ded285",
+            "clue": "Feroz Shah ____ Stadium in Delhi",
+            "answer": "kotla",
+            "normalized": "kotla"
           },
           {
-            "id": "49749064-92a0-46fd-b7a2-47ed65f8776c",
-            "clue": "Spinning part on a fishing rod",
-            "answer": "reel",
-            "normalized": "reel"
+            "id": "43517f1e-ae8c-45ee-9635-393643d21907",
+            "clue": "Something valuable owned by a company",
+            "answer": "asset",
+            "normalized": "asset"
           }
         ],
-        "track": "PC|LenCinY2026M11D17F0V000"
+        "track": "PC|LenCinY2026M11D18F0V000"
       },
       "mid": {
-        "puzzleId": "fb9c8d0a-4d4f-43ac-8a91-ee49caa83b07",
+        "puzzleId": "2960a674-7666-47b6-8235-fe511982903b",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "63546206-a93a-4ada-82be-a24b5b46c09a",
-            "clue": "Three initials for Shakespearean theatre company",
-            "answer": "rsc",
-            "normalized": "rsc"
+            "id": "bebdf0f5-a819-461e-b893-a9c64636ba44",
+            "clue": "Father __, male parent of your husband or wife",
+            "answer": "in law",
+            "normalized": "inlaw"
           },
           {
-            "id": "571c2c8e-5c94-4d3c-b2e1-09f8546946c2",
-            "clue": "Love in French; Stevie Wonder song, My Cherie __",
-            "answer": "amour",
-            "normalized": "amour"
+            "id": "4d787da5-f316-47d4-bb05-f209def167bf",
+            "clue": "Business banners and posters",
+            "answer": "signage",
+            "normalized": "signage"
           },
           {
-            "id": "b7a2eb04-d3de-497b-986f-3f0d272c23fd",
-            "clue": "Ship's bottom that collects water",
-            "answer": "bilge",
-            "normalized": "bilge"
+            "id": "7249487c-b896-4d73-a340-560505b7f301",
+            "clue": "The first A in ABBA",
+            "answer": "agnetha",
+            "normalized": "agnetha"
           },
           {
-            "id": "f90679e4-2b90-49f5-b2de-e8f0596052c3",
-            "clue": "Books showing current borders and world geography",
-            "answer": "atlases",
-            "normalized": "atlases"
+            "id": "cc61e5f5-186f-46c3-a059-882f40bed6b6",
+            "clue": "Dynamic twosome",
+            "answer": "duo",
+            "normalized": "duo"
           },
           {
-            "id": "c778a23c-6d60-40bd-b815-5aab371b4003",
-            "clue": "Death on __, 1937 Poirot mystery set in Egypt",
-            "answer": "the nile",
-            "normalized": "thenile"
+            "id": "3faa6f1e-c325-44b2-bed2-f565b48b7fbd",
+            "clue": "Shallow __, played by Jack Black",
+            "answer": "hal",
+            "normalized": "hal"
           },
           {
-            "id": "b2dc8ec8-591b-44d2-b7ff-035a5531b334",
-            "clue": "Nicked a cricket ball with the side of a bat",
-            "answer": "edged",
-            "normalized": "edged"
+            "id": "b094f8c0-cb4d-42b7-903e-7441252627a2",
+            "clue": "Most difficult",
+            "answer": "hardest",
+            "normalized": "hardest"
           },
           {
-            "id": "db3d01b0-c55a-4819-ac48-23d7edc569e7",
-            "clue": "__ Parbat, Himalayan peak also called Diamer",
-            "answer": "nanga",
-            "normalized": "nanga"
+            "id": "0b65fdab-7ce1-4908-a07a-798496f0fbd6",
+            "clue": "Dig up, remove from the ground",
+            "answer": "unearth",
+            "normalized": "unearth"
           },
           {
-            "id": "8f8c2f0a-20f0-485d-b077-d96726f5eff9",
-            "clue": "Prefix meaning with or together",
-            "answer": "syn",
-            "normalized": "syn"
+            "id": "f0673c60-cd04-45b0-bfb8-e941fead56c3",
+            "clue": "When relaying unfortunate news, use this adverb",
+            "answer": "sadly",
+            "normalized": "sadly"
           },
           {
-            "id": "37a7919a-364d-4f3d-b135-b57686db0393",
-            "clue": "Capital of Morocco",
-            "answer": "rabat",
-            "normalized": "rabat"
+            "id": "a76737e0-801a-4bbe-888a-ae2e5f95c23f",
+            "clue": "Did not answer; pretended not to listen",
+            "answer": "ignored",
+            "normalized": "ignored"
           },
           {
-            "id": "d0e5bd05-dd52-488f-b2d2-166e00b7944d",
-            "clue": "Person who forges metals",
-            "answer": "smith",
-            "normalized": "smith"
+            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
+            "clue": "On a compass, the opposite of SSW",
+            "answer": "nne",
+            "normalized": "nne"
           },
           {
-            "id": "51c89cd6-5128-4848-aa46-c389df71ca29",
-            "clue": "__ McCullough; Aussie author of The Thorn Birds",
-            "answer": "colleen",
-            "normalized": "colleen"
+            "id": "6f9f8446-f6f4-4820-9257-c4a1754641d8",
+            "clue": "Covered in little soapy bubbles",
+            "answer": "lathery",
+            "normalized": "lathery"
           },
           {
-            "id": "55a4672d-d850-4924-a88c-ed54e1d4b2e3",
-            "clue": "East African country that borders Kenya",
-            "answer": "uganda",
-            "normalized": "uganda"
+            "id": "3cbe3269-621b-41d4-8a09-4900dbc9c060",
+            "clue": "Horrified, stunned, astounded",
+            "answer": "aghast",
+            "normalized": "aghast"
           },
           {
-            "id": "0adf698b-bb00-421e-9fd6-4fade9e5c3c7",
-            "clue": "Quits a job or position of power",
-            "answer": "resigns",
-            "normalized": "resigns"
+            "id": "cbdc4c3f-bbe7-4b32-9eec-199b778f492f",
+            "clue": "Riches",
+            "answer": "wealth",
+            "normalized": "wealth"
           },
           {
-            "id": "68c0d689-9559-454c-9ddf-ccb41be644b2",
-            "clue": "Poem lamenting the dead",
-            "answer": "elegy",
-            "normalized": "elegy"
+            "id": "e055a711-a3bc-43fe-a8db-747c6531f3ad",
+            "clue": "Ascetics seen at the Kumbh Mela",
+            "answer": "sadhus",
+            "normalized": "sadhus"
           },
           {
-            "id": "efd65ddf-cc7f-408a-82f4-a1f3fc6b7a4f",
-            "clue": "Car with three compartments, also called a saloon",
-            "answer": "sedan",
-            "normalized": "sedan"
+            "id": "27c9631a-d50f-43b4-ab19-3c11099f3a2e",
+            "clue": "Plant-eating lizard commonly kept as a pet",
+            "answer": "iguana",
+            "normalized": "iguana"
+          },
+          {
+            "id": "109c14b6-fd25-459b-9351-160e8817d770",
+            "clue": "Lentil curry, a common item in a tiffin",
+            "answer": "dal",
+            "normalized": "dal"
           }
         ],
-        "track": "PC|LenCinY2026M11D17F1V000"
+        "track": "PC|LenCinY2026M11D18F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388685,21 +388697,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "3YkCS/goBH7E306mqUEU5ZYDXfCCdHfnL+bugA4xx92vvhGefM7ACc/ywU9cemQ2RCMYekaHgt7oG9oF7Z4MJw5/BAioee1/bWZWf2BwlXhsiwZEJj3Zll2lPYFf7wuVS5uBIrrpsPQNfJXPKjmF6T9iRTAOh8Gf5SCJkuQ+vRf7I+uIb5jp6qgdHo8B60KJZWteKlpOuSodcFfNtGFjVcI6EJDwZ5rYApIB5M3dwYsRVAuEQ3eIA29RgHZoKIsl999lIvK1ljU1a60RXXDKgKjZ8+feETxYrjSyRsK6viI="
+        "818FumChlrr0zO+vBCl3APN46F1rHIawrrWjHIl+WMQUuw7TOW9KEciGflLi3HlLAVemBwSziU9+oSDXH4uRUQHRN0Uq9199prdFWxxyDC3ObVto1blydSl+kQiO5K9JYMitPk5w163mnLda3EISJIFjohy5wRvNi+dd1fVqB7dNbufEvloi59X8/o8LeSoQoG5Krjex4m99l1pXtZz560TG4mlmLcuXKWwvz18KwHMzvYFsulOPMqP70Iy6H28p34a7h+ksne2AKlwh7MLOKeiZVQh47hwcMRufnGSEPBY="
       ]
     },
     "decrypted": {
-      "Id": "27ff1309-0d96-436e-9bb9-825c21c1d719",
-      "Date": "2026-11-17T00:00:00Z",
+      "Id": "ba941d33-95fc-442b-90cd-dd8eff08bc56",
+      "Date": "2026-11-18T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "amber",
-      "NormalizedPassword": "amber",
+      "Password": "snowy",
+      "NormalizedPassword": "snowy",
       "MaxGuesses": 6,
-      "Version": 1,
+      "Version": 3,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-17T07:25:19.1060000+05:30",
-    "hash": "d7776cd28f2591c507cd0662d8ed285e",
+    "dtu": "2026-11-18T06:33:54.9540000+05:30",
+    "hash": "433fac82883b42cb91a9d0d307091def",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
