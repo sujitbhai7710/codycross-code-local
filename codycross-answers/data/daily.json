@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-18T01:03:54.954Z",
+  "generatedAt": "2026-11-19T00:36:43.628Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 18
+    "day": 19
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 34
+        "QuantidadeDeFases": 36
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -23517,7 +23517,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Live late-night show on Saturdays, acronym",
+              "clue": "Late-night live American show on Saturday, acronym",
               "answer": "snl",
               "normalized": "snl"
             }
@@ -173907,7 +173907,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Live late-night show on Saturdays, acronym",
+              "clue": "Late-night live American show on Saturday, acronym",
               "answer": "snl",
               "normalized": "snl"
             },
@@ -388125,391 +388125,367 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-18",
+      "key": "2026-11-19",
       "year": 2026,
       "month": 11,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "de34782d-6684-4ca9-bf33-4ed801a7f13d",
+        "puzzleId": "feebebad-ec32-448c-9289-a8ac58cb6afc",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c9dac4e3-4a5d-447c-8ce9-749645751537",
-            "clue": "Onomatopoeic sound of a snake",
-            "answer": "sss",
-            "normalized": "sss"
+            "id": "53353690-eaa3-4a53-9b5c-af29a5cd5383",
+            "clue": "Participates in the Q part of a Q&A",
+            "answer": "asks",
+            "normalized": "asks"
           },
           {
-            "id": "6cb6a5aa-2de4-4fc0-bf22-a9401b58b376",
-            "clue": "A Tapori's turf or territory",
-            "answer": "ilaaka",
-            "normalized": "ilaaka"
+            "id": "28edf628-8774-4e98-94e6-087dbaaef613",
+            "clue": "Cleaned with a brush or broom",
+            "answer": "swept",
+            "normalized": "swept"
           },
           {
-            "id": "26d9a55f-4845-4c5c-8031-6ee1c63f96be",
-            "clue": "Maxims, personal sayings",
-            "answer": "mottos",
-            "normalized": "mottos"
+            "id": "064a033d-002f-40ab-9451-b11f8546d01e",
+            "clue": "Female protagonist of Permanent Roommates",
+            "answer": "tanya",
+            "normalized": "tanya"
           },
           {
-            "id": "bec50716-8280-47bd-af57-f9b53b2ed08b",
-            "clue": "Moves faster than a walk and slower than a canter",
-            "answer": "trots",
-            "normalized": "trots"
+            "id": "580c07f2-7ed6-400c-8bfb-57c2b574cc3f",
+            "clue": "King of the gods in Hindu mythology",
+            "answer": "indra",
+            "normalized": "indra"
           },
           {
-            "id": "d5738264-b335-4f9b-8c8d-b9ff74a00fab",
-            "clue": "Catwoman and Monster's Ball actress, __ Berry",
-            "answer": "halle",
-            "normalized": "halle"
+            "id": "3b56d52f-fad1-46dd-a6cd-76df2e981c22",
+            "clue": "Earth in flower beds",
+            "answer": "soil",
+            "normalized": "soil"
           },
           {
-            "id": "1cb5283f-8ca7-4b21-981c-ae31248bb906",
-            "clue": "Onomatopoeia for wet things hitting the floor",
-            "answer": "splat",
-            "normalized": "splat"
+            "id": "5143dcda-ea6a-4e40-b596-837e3390397c",
+            "clue": "Sparkling Italian wine from the Piedmont region",
+            "answer": "asti",
+            "normalized": "asti"
           },
           {
-            "id": "9d1ecfbc-a5f9-488a-85b4-df68df473c60",
-            "clue": "Small electronic card inserted into a cell phone",
-            "answer": "sim",
-            "normalized": "sim"
+            "id": "f1158586-6b24-4709-be85-064896f3ee7e",
+            "clue": "Birds whose young are cygnets",
+            "answer": "swans",
+            "normalized": "swans"
           },
           {
-            "id": "9306c53d-99c1-4664-9e70-9f1865b2b4d7",
-            "clue": "Lazy animals",
-            "answer": "sloths",
-            "normalized": "sloths"
+            "id": "65753801-dab1-45fc-b030-cee0c306398d",
+            "clue": "Japanese martial art with bamboo swords",
+            "answer": "kendo",
+            "normalized": "kendo"
           },
           {
-            "id": "00b73b0d-1784-4d68-8c54-a5a9e6afdfca",
-            "clue": "Governor of a province in ancient Persia",
-            "answer": "satrap",
-            "normalized": "satrap"
+            "id": "74cc571f-0370-49fe-84d0-3e3d0c1cb8ff",
+            "clue": "Johanna, author of children's classic Heidi",
+            "answer": "spyri",
+            "normalized": "spyri"
           },
           {
-            "id": "faf06b29-db21-489f-8c17-07d09638dbde",
-            "clue": "Kalpeni Island is a type of coral ____",
-            "answer": "atoll",
-            "normalized": "atoll"
-          },
-          {
-            "id": "e484200d-186c-4d96-a732-a2eb25ded285",
-            "clue": "Feroz Shah ____ Stadium in Delhi",
-            "answer": "kotla",
-            "normalized": "kotla"
-          },
-          {
-            "id": "43517f1e-ae8c-45ee-9635-393643d21907",
-            "clue": "Something valuable owned by a company",
-            "answer": "asset",
-            "normalized": "asset"
+            "id": "170cee81-e139-4a11-abc5-1a69e1c6c053",
+            "clue": "The Gomti River originates from Gomat ____",
+            "answer": "taal",
+            "normalized": "taal"
           }
         ],
-        "track": "PC|LenCinY2026M11D18F0V000"
+        "track": "PC|LenCinY2026M11D19F0V000"
       },
       "mid": {
-        "puzzleId": "2960a674-7666-47b6-8235-fe511982903b",
+        "puzzleId": "5762b720-a6f3-4b3c-9967-61d16b1cbcfb",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "bebdf0f5-a819-461e-b893-a9c64636ba44",
-            "clue": "Father __, male parent of your husband or wife",
-            "answer": "in law",
-            "normalized": "inlaw"
+            "id": "4ef5c7a5-43ff-4b39-95e9-96ae8d62ce09",
+            "clue": "Grains used as a foodstuff",
+            "answer": "oats",
+            "normalized": "oats"
           },
           {
-            "id": "4d787da5-f316-47d4-bb05-f209def167bf",
-            "clue": "Business banners and posters",
-            "answer": "signage",
-            "normalized": "signage"
+            "id": "16bfd00e-83ec-4fc6-ae68-b45a50007f12",
+            "clue": "Tall topper on a church",
+            "answer": "steeple",
+            "normalized": "steeple"
           },
           {
-            "id": "7249487c-b896-4d73-a340-560505b7f301",
-            "clue": "The first A in ABBA",
-            "answer": "agnetha",
-            "normalized": "agnetha"
+            "id": "51f35dd4-fae2-4a4c-b0b0-8fee6fdd3b72",
+            "clue": "Vehicle-sharing service to help the environment",
+            "answer": "carpool",
+            "normalized": "carpool"
           },
           {
-            "id": "cc61e5f5-186f-46c3-a059-882f40bed6b6",
-            "clue": "Dynamic twosome",
-            "answer": "duo",
-            "normalized": "duo"
+            "id": "2af28bab-a226-435d-bca7-bd3d9012593d",
+            "clue": "A tool usually used for chopping wood",
+            "answer": "axe",
+            "normalized": "axe"
           },
           {
-            "id": "3faa6f1e-c325-44b2-bed2-f565b48b7fbd",
-            "clue": "Shallow __, played by Jack Black",
-            "answer": "hal",
-            "normalized": "hal"
+            "id": "31d67e56-edc8-4c19-92b3-1855436c2285",
+            "clue": "Rugby Football League for short",
+            "answer": "rfl",
+            "normalized": "rfl"
           },
           {
-            "id": "b094f8c0-cb4d-42b7-903e-7441252627a2",
-            "clue": "Most difficult",
-            "answer": "hardest",
-            "normalized": "hardest"
+            "id": "abb87941-8023-46fa-a3bf-e524305fbeba",
+            "clue": "Creamy Italian rice dish",
+            "answer": "risotto",
+            "normalized": "risotto"
           },
           {
-            "id": "0b65fdab-7ce1-4908-a07a-798496f0fbd6",
-            "clue": "Dig up, remove from the ground",
-            "answer": "unearth",
-            "normalized": "unearth"
+            "id": "afdacc85-a639-43c7-ac80-8eea2369d2f8",
+            "clue": "More terrifying",
+            "answer": "scarier",
+            "normalized": "scarier"
           },
           {
-            "id": "f0673c60-cd04-45b0-bfb8-e941fead56c3",
-            "clue": "When relaying unfortunate news, use this adverb",
-            "answer": "sadly",
-            "normalized": "sadly"
+            "id": "cbf6966b-a4f9-42db-a0f1-15286fb71468",
+            "clue": "Nonsensical art movement of early 20th century",
+            "answer": "dada",
+            "normalized": "dada"
           },
           {
-            "id": "a76737e0-801a-4bbe-888a-ae2e5f95c23f",
-            "clue": "Did not answer; pretended not to listen",
-            "answer": "ignored",
-            "normalized": "ignored"
+            "id": "aefb19bc-f334-439d-b24c-5db302016c2d",
+            "clue": "Another name for the Academy Awards",
+            "answer": "oscars",
+            "normalized": "oscars"
           },
           {
-            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
-            "clue": "On a compass, the opposite of SSW",
-            "answer": "nne",
-            "normalized": "nne"
+            "id": "0c091cbf-61c8-42fa-939a-03c3962df62e",
+            "clue": "Having lost full control of bodily movements",
+            "answer": "ataxic",
+            "normalized": "ataxic"
           },
           {
-            "id": "6f9f8446-f6f4-4820-9257-c4a1754641d8",
-            "clue": "Covered in little soapy bubbles",
-            "answer": "lathery",
-            "normalized": "lathery"
+            "id": "6d1b4bb1-c1b2-42c6-8f9e-c7afd3efaaa8",
+            "clue": "The Catholic nun and saint who won a Nobel prize",
+            "answer": "teresa",
+            "normalized": "teresa"
           },
           {
-            "id": "3cbe3269-621b-41d4-8a09-4900dbc9c060",
-            "clue": "Horrified, stunned, astounded",
-            "answer": "aghast",
-            "normalized": "aghast"
+            "id": "5a3b767b-e4d8-42f8-893b-b8713b8a1d1d",
+            "clue": "Aug, __, Oct, Nov",
+            "answer": "sep",
+            "normalized": "sep"
           },
           {
-            "id": "cbdc4c3f-bbe7-4b32-9eec-199b778f492f",
-            "clue": "Riches",
-            "answer": "wealth",
-            "normalized": "wealth"
+            "id": "699cd64d-7938-4b13-80fe-bdb2d9de20e7",
+            "clue": "Female protagonist in The Merchant of Venice",
+            "answer": "portia",
+            "normalized": "portia"
           },
           {
-            "id": "e055a711-a3bc-43fe-a8db-747c6531f3ad",
-            "clue": "Ascetics seen at the Kumbh Mela",
-            "answer": "sadhus",
-            "normalized": "sadhus"
+            "id": "e9115a45-2e66-422a-9e73-99d2038484a3",
+            "clue": "Threw high in the air",
+            "answer": "lofted",
+            "normalized": "lofted"
           },
           {
-            "id": "27c9631a-d50f-43b4-ab19-3c11099f3a2e",
-            "clue": "Plant-eating lizard commonly kept as a pet",
-            "answer": "iguana",
-            "normalized": "iguana"
+            "id": "7f86e61b-7542-4028-babd-78f0ad9be817",
+            "clue": "Famous rock-cut caves near Aurangabad",
+            "answer": "ellora",
+            "normalized": "ellora"
           },
           {
-            "id": "109c14b6-fd25-459b-9351-160e8817d770",
-            "clue": "Lentil curry, a common item in a tiffin",
-            "answer": "dal",
-            "normalized": "dal"
+            "id": "7a9eadad-c43d-4468-b465-fe7356addded",
+            "clue": "Code for O'Hare International Airport, Chicago",
+            "answer": "ord",
+            "normalized": "ord"
           }
         ],
-        "track": "PC|LenCinY2026M11D18F1V000"
+        "track": "PC|LenCinY2026M11D19F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-18",
+      "key": "2026-11-19",
       "year": 2026,
       "month": 11,
-      "day": 18,
+      "day": 19,
       "small": {
-        "puzzleId": "de34782d-6684-4ca9-bf33-4ed801a7f13d",
+        "puzzleId": "feebebad-ec32-448c-9289-a8ac58cb6afc",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "c9dac4e3-4a5d-447c-8ce9-749645751537",
-            "clue": "Onomatopoeic sound of a snake",
-            "answer": "sss",
-            "normalized": "sss"
+            "id": "53353690-eaa3-4a53-9b5c-af29a5cd5383",
+            "clue": "Participates in the Q part of a Q&A",
+            "answer": "asks",
+            "normalized": "asks"
           },
           {
-            "id": "6cb6a5aa-2de4-4fc0-bf22-a9401b58b376",
-            "clue": "A Tapori's turf or territory",
-            "answer": "ilaaka",
-            "normalized": "ilaaka"
+            "id": "28edf628-8774-4e98-94e6-087dbaaef613",
+            "clue": "Cleaned with a brush or broom",
+            "answer": "swept",
+            "normalized": "swept"
           },
           {
-            "id": "26d9a55f-4845-4c5c-8031-6ee1c63f96be",
-            "clue": "Maxims, personal sayings",
-            "answer": "mottos",
-            "normalized": "mottos"
+            "id": "064a033d-002f-40ab-9451-b11f8546d01e",
+            "clue": "Female protagonist of Permanent Roommates",
+            "answer": "tanya",
+            "normalized": "tanya"
           },
           {
-            "id": "bec50716-8280-47bd-af57-f9b53b2ed08b",
-            "clue": "Moves faster than a walk and slower than a canter",
-            "answer": "trots",
-            "normalized": "trots"
+            "id": "580c07f2-7ed6-400c-8bfb-57c2b574cc3f",
+            "clue": "King of the gods in Hindu mythology",
+            "answer": "indra",
+            "normalized": "indra"
           },
           {
-            "id": "d5738264-b335-4f9b-8c8d-b9ff74a00fab",
-            "clue": "Catwoman and Monster's Ball actress, __ Berry",
-            "answer": "halle",
-            "normalized": "halle"
+            "id": "3b56d52f-fad1-46dd-a6cd-76df2e981c22",
+            "clue": "Earth in flower beds",
+            "answer": "soil",
+            "normalized": "soil"
           },
           {
-            "id": "1cb5283f-8ca7-4b21-981c-ae31248bb906",
-            "clue": "Onomatopoeia for wet things hitting the floor",
-            "answer": "splat",
-            "normalized": "splat"
+            "id": "5143dcda-ea6a-4e40-b596-837e3390397c",
+            "clue": "Sparkling Italian wine from the Piedmont region",
+            "answer": "asti",
+            "normalized": "asti"
           },
           {
-            "id": "9d1ecfbc-a5f9-488a-85b4-df68df473c60",
-            "clue": "Small electronic card inserted into a cell phone",
-            "answer": "sim",
-            "normalized": "sim"
+            "id": "f1158586-6b24-4709-be85-064896f3ee7e",
+            "clue": "Birds whose young are cygnets",
+            "answer": "swans",
+            "normalized": "swans"
           },
           {
-            "id": "9306c53d-99c1-4664-9e70-9f1865b2b4d7",
-            "clue": "Lazy animals",
-            "answer": "sloths",
-            "normalized": "sloths"
+            "id": "65753801-dab1-45fc-b030-cee0c306398d",
+            "clue": "Japanese martial art with bamboo swords",
+            "answer": "kendo",
+            "normalized": "kendo"
           },
           {
-            "id": "00b73b0d-1784-4d68-8c54-a5a9e6afdfca",
-            "clue": "Governor of a province in ancient Persia",
-            "answer": "satrap",
-            "normalized": "satrap"
+            "id": "74cc571f-0370-49fe-84d0-3e3d0c1cb8ff",
+            "clue": "Johanna, author of children's classic Heidi",
+            "answer": "spyri",
+            "normalized": "spyri"
           },
           {
-            "id": "faf06b29-db21-489f-8c17-07d09638dbde",
-            "clue": "Kalpeni Island is a type of coral ____",
-            "answer": "atoll",
-            "normalized": "atoll"
-          },
-          {
-            "id": "e484200d-186c-4d96-a732-a2eb25ded285",
-            "clue": "Feroz Shah ____ Stadium in Delhi",
-            "answer": "kotla",
-            "normalized": "kotla"
-          },
-          {
-            "id": "43517f1e-ae8c-45ee-9635-393643d21907",
-            "clue": "Something valuable owned by a company",
-            "answer": "asset",
-            "normalized": "asset"
+            "id": "170cee81-e139-4a11-abc5-1a69e1c6c053",
+            "clue": "The Gomti River originates from Gomat ____",
+            "answer": "taal",
+            "normalized": "taal"
           }
         ],
-        "track": "PC|LenCinY2026M11D18F0V000"
+        "track": "PC|LenCinY2026M11D19F0V000"
       },
       "mid": {
-        "puzzleId": "2960a674-7666-47b6-8235-fe511982903b",
+        "puzzleId": "5762b720-a6f3-4b3c-9967-61d16b1cbcfb",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "bebdf0f5-a819-461e-b893-a9c64636ba44",
-            "clue": "Father __, male parent of your husband or wife",
-            "answer": "in law",
-            "normalized": "inlaw"
+            "id": "4ef5c7a5-43ff-4b39-95e9-96ae8d62ce09",
+            "clue": "Grains used as a foodstuff",
+            "answer": "oats",
+            "normalized": "oats"
           },
           {
-            "id": "4d787da5-f316-47d4-bb05-f209def167bf",
-            "clue": "Business banners and posters",
-            "answer": "signage",
-            "normalized": "signage"
+            "id": "16bfd00e-83ec-4fc6-ae68-b45a50007f12",
+            "clue": "Tall topper on a church",
+            "answer": "steeple",
+            "normalized": "steeple"
           },
           {
-            "id": "7249487c-b896-4d73-a340-560505b7f301",
-            "clue": "The first A in ABBA",
-            "answer": "agnetha",
-            "normalized": "agnetha"
+            "id": "51f35dd4-fae2-4a4c-b0b0-8fee6fdd3b72",
+            "clue": "Vehicle-sharing service to help the environment",
+            "answer": "carpool",
+            "normalized": "carpool"
           },
           {
-            "id": "cc61e5f5-186f-46c3-a059-882f40bed6b6",
-            "clue": "Dynamic twosome",
-            "answer": "duo",
-            "normalized": "duo"
+            "id": "2af28bab-a226-435d-bca7-bd3d9012593d",
+            "clue": "A tool usually used for chopping wood",
+            "answer": "axe",
+            "normalized": "axe"
           },
           {
-            "id": "3faa6f1e-c325-44b2-bed2-f565b48b7fbd",
-            "clue": "Shallow __, played by Jack Black",
-            "answer": "hal",
-            "normalized": "hal"
+            "id": "31d67e56-edc8-4c19-92b3-1855436c2285",
+            "clue": "Rugby Football League for short",
+            "answer": "rfl",
+            "normalized": "rfl"
           },
           {
-            "id": "b094f8c0-cb4d-42b7-903e-7441252627a2",
-            "clue": "Most difficult",
-            "answer": "hardest",
-            "normalized": "hardest"
+            "id": "abb87941-8023-46fa-a3bf-e524305fbeba",
+            "clue": "Creamy Italian rice dish",
+            "answer": "risotto",
+            "normalized": "risotto"
           },
           {
-            "id": "0b65fdab-7ce1-4908-a07a-798496f0fbd6",
-            "clue": "Dig up, remove from the ground",
-            "answer": "unearth",
-            "normalized": "unearth"
+            "id": "afdacc85-a639-43c7-ac80-8eea2369d2f8",
+            "clue": "More terrifying",
+            "answer": "scarier",
+            "normalized": "scarier"
           },
           {
-            "id": "f0673c60-cd04-45b0-bfb8-e941fead56c3",
-            "clue": "When relaying unfortunate news, use this adverb",
-            "answer": "sadly",
-            "normalized": "sadly"
+            "id": "cbf6966b-a4f9-42db-a0f1-15286fb71468",
+            "clue": "Nonsensical art movement of early 20th century",
+            "answer": "dada",
+            "normalized": "dada"
           },
           {
-            "id": "a76737e0-801a-4bbe-888a-ae2e5f95c23f",
-            "clue": "Did not answer; pretended not to listen",
-            "answer": "ignored",
-            "normalized": "ignored"
+            "id": "aefb19bc-f334-439d-b24c-5db302016c2d",
+            "clue": "Another name for the Academy Awards",
+            "answer": "oscars",
+            "normalized": "oscars"
           },
           {
-            "id": "af6cfe13-b9a1-4053-894d-250026fe31a0",
-            "clue": "On a compass, the opposite of SSW",
-            "answer": "nne",
-            "normalized": "nne"
+            "id": "0c091cbf-61c8-42fa-939a-03c3962df62e",
+            "clue": "Having lost full control of bodily movements",
+            "answer": "ataxic",
+            "normalized": "ataxic"
           },
           {
-            "id": "6f9f8446-f6f4-4820-9257-c4a1754641d8",
-            "clue": "Covered in little soapy bubbles",
-            "answer": "lathery",
-            "normalized": "lathery"
+            "id": "6d1b4bb1-c1b2-42c6-8f9e-c7afd3efaaa8",
+            "clue": "The Catholic nun and saint who won a Nobel prize",
+            "answer": "teresa",
+            "normalized": "teresa"
           },
           {
-            "id": "3cbe3269-621b-41d4-8a09-4900dbc9c060",
-            "clue": "Horrified, stunned, astounded",
-            "answer": "aghast",
-            "normalized": "aghast"
+            "id": "5a3b767b-e4d8-42f8-893b-b8713b8a1d1d",
+            "clue": "Aug, __, Oct, Nov",
+            "answer": "sep",
+            "normalized": "sep"
           },
           {
-            "id": "cbdc4c3f-bbe7-4b32-9eec-199b778f492f",
-            "clue": "Riches",
-            "answer": "wealth",
-            "normalized": "wealth"
+            "id": "699cd64d-7938-4b13-80fe-bdb2d9de20e7",
+            "clue": "Female protagonist in The Merchant of Venice",
+            "answer": "portia",
+            "normalized": "portia"
           },
           {
-            "id": "e055a711-a3bc-43fe-a8db-747c6531f3ad",
-            "clue": "Ascetics seen at the Kumbh Mela",
-            "answer": "sadhus",
-            "normalized": "sadhus"
+            "id": "e9115a45-2e66-422a-9e73-99d2038484a3",
+            "clue": "Threw high in the air",
+            "answer": "lofted",
+            "normalized": "lofted"
           },
           {
-            "id": "27c9631a-d50f-43b4-ab19-3c11099f3a2e",
-            "clue": "Plant-eating lizard commonly kept as a pet",
-            "answer": "iguana",
-            "normalized": "iguana"
+            "id": "7f86e61b-7542-4028-babd-78f0ad9be817",
+            "clue": "Famous rock-cut caves near Aurangabad",
+            "answer": "ellora",
+            "normalized": "ellora"
           },
           {
-            "id": "109c14b6-fd25-459b-9351-160e8817d770",
-            "clue": "Lentil curry, a common item in a tiffin",
-            "answer": "dal",
-            "normalized": "dal"
+            "id": "7a9eadad-c43d-4468-b465-fe7356addded",
+            "clue": "Code for O'Hare International Airport, Chicago",
+            "answer": "ord",
+            "normalized": "ord"
           }
         ],
-        "track": "PC|LenCinY2026M11D18F1V000"
+        "track": "PC|LenCinY2026M11D19F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388697,21 +388673,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "818FumChlrr0zO+vBCl3APN46F1rHIawrrWjHIl+WMQUuw7TOW9KEciGflLi3HlLAVemBwSziU9+oSDXH4uRUQHRN0Uq9199prdFWxxyDC3ObVto1blydSl+kQiO5K9JYMitPk5w163mnLda3EISJIFjohy5wRvNi+dd1fVqB7dNbufEvloi59X8/o8LeSoQoG5Krjex4m99l1pXtZz560TG4mlmLcuXKWwvz18KwHMzvYFsulOPMqP70Iy6H28p34a7h+ksne2AKlwh7MLOKeiZVQh47hwcMRufnGSEPBY="
+        "9k/LYO6ab36nPnAQbeXU6knXo2/FwyrFX1wpSRV/Jw1Iphjh8ZWab+2OXwuesXVAqfpflFvqfLc3qDZmuH7V/ETA4Kw9fZjZ16NRiIbT9dzvaMmdc6W8jvcYcFJW/7vvE1a8+3mSIVKk7NJcg1oG0cJGJZY82oq7vEjwjrSWumDC6rsmF66S5dA6PsIBk79CZfMFjaqz1HtWzJzvRgMlBJ+esk8aErcAUQwptoxe2P2hJRI32q/nB2o4VbZgyfTWbF9v0eHkWrLMf6MsWqChOP1RH+aIESWHIvPVVzmjBmc="
       ]
     },
     "decrypted": {
-      "Id": "ba941d33-95fc-442b-90cd-dd8eff08bc56",
-      "Date": "2026-11-18T00:00:00Z",
+      "Id": "c1b8da3a-0a46-4e7f-9d33-c1946b337373",
+      "Date": "2026-11-19T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "snowy",
-      "NormalizedPassword": "snowy",
+      "Password": "ample",
+      "NormalizedPassword": "ample",
       "MaxGuesses": 6,
-      "Version": 3,
+      "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-18T06:33:54.9540000+05:30",
-    "hash": "433fac82883b42cb91a9d0d307091def",
+    "dtu": "2026-11-19T06:06:43.6280000+05:30",
+    "hash": "2695e5da5d09d780548fff701bcb33e7",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
