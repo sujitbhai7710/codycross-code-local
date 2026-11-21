@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T00:44:19.075Z",
+  "generatedAt": "2026-11-21T00:04:08.335Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 20
+    "day": 21
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 38
+        "QuantidadeDeFases": 40
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -23517,7 +23517,7 @@
             },
             {
               "id": "42185035-951b-4a64-8a89-8dedbf316163",
-              "clue": "Late-night live American show on Saturday, acronym",
+              "clue": "Live late-night show on Saturdays, acronym",
               "answer": "snl",
               "normalized": "snl"
             }
@@ -65563,7 +65563,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -119411,7 +119411,7 @@
             },
             {
               "id": "9844149e-f13c-45f6-b60b-d8b66c954e37",
-              "clue": "People from China, India, Japan, Pakistan...",
+              "clue": "People from China, India, Japan, Pakistan",
               "answer": "asians",
               "normalized": "asians"
             },
@@ -350447,7 +350447,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -388125,379 +388125,403 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-20",
+      "key": "2026-11-21",
       "year": 2026,
       "month": 11,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "a741c9f0-517a-4ba0-a0f1-d5f91b4959a7",
+        "puzzleId": "37fd3e7a-66fa-4e6b-b2f0-3704da2b1365",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "5b829a15-ed00-434c-b5ac-028123c732e8",
-            "clue": "Southern end of Ahmedabad Metro's Red Line",
-            "answer": "apmc",
-            "normalized": "apmc"
+            "id": "0161fc55-06ab-414c-88e0-fb49a9d9a070",
+            "clue": "Heroic and valiant",
+            "answer": "brave",
+            "normalized": "brave"
           },
           {
-            "id": "62874c19-1eba-4701-9484-7f191e0c1405",
-            "clue": "A break in the line",
-            "answer": "breach",
-            "normalized": "breach"
+            "id": "30356932-24b4-4e9f-b69b-808c31f88f22",
+            "clue": "Mrs __, 19th C writer of eponymous cookbook",
+            "answer": "beeton",
+            "normalized": "beeton"
           },
           {
-            "id": "063e7b48-b32c-47bc-bc81-c561dd47b685",
-            "clue": "Dragon Ball Z man known for the Wolf Fang Fist",
-            "answer": "yamcha",
-            "normalized": "yamcha"
+            "id": "6f5abe20-43e3-4da7-a7d4-c741e96226b7",
+            "clue": "Uprising or protest that's often armed",
+            "answer": "revolt",
+            "normalized": "revolt"
           },
           {
-            "id": "babacf19-4572-4238-af68-f7eb937177b2",
-            "clue": "Hot rocks that soothe the legs",
-            "answer": "stones",
-            "normalized": "stones"
+            "id": "662baf93-2cf1-44cf-b863-5cc25fee1c15",
+            "clue": "In Codenames, you uncover the words of secret __",
+            "answer": "agents",
+            "normalized": "agents"
           },
           {
-            "id": "26f42a74-20f9-4460-9089-4f097a41a434",
-            "clue": "Oscar-winning Meryl who starred in Mamma Mia!",
-            "answer": "streep",
-            "normalized": "streep"
+            "id": "8cc4f3cf-05d3-4b92-81d5-a2fc374407b0",
+            "clue": "Dwarf planet in an asteroid belt near Mars",
+            "answer": "ceres",
+            "normalized": "ceres"
           },
           {
-            "id": "0d4b4334-1c3e-48cf-bc22-5b8025fa0f14",
-            "clue": "Large shaggy oxen found in Tibet",
-            "answer": "yaks",
-            "normalized": "yaks"
+            "id": "cc3b75a9-2c0b-4465-914f-e68c66a8955f",
+            "clue": "Casual tops without buttons, for short",
+            "answer": "tees",
+            "normalized": "tees"
           },
           {
-            "id": "3bd319ce-df49-4da5-93dd-94cb0c999c45",
-            "clue": "Nietzsche warns against looking too long into one",
-            "answer": "abyss",
-            "normalized": "abyss"
+            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
+            "clue": "High-speed computer storage with no moving parts",
+            "answer": "ssd",
+            "normalized": "ssd"
           },
           {
-            "id": "3eee5976-eb59-4d24-a176-6160b17f845a",
-            "clue": "Jurassic World and Parks and Recreation actor",
-            "answer": "pratt",
-            "normalized": "pratt"
+            "id": "fdd39c4d-e586-46a6-a258-2052343b4a94",
+            "clue": "Trio that performed To Love Somebody",
+            "answer": "bee gees",
+            "normalized": "beegees"
           },
           {
-            "id": "6bb895bf-01eb-41f2-9a86-6d196078e193",
-            "clue": "Remember by rote with eidetic __",
-            "answer": "memory",
-            "normalized": "memory"
+            "id": "adbb86fd-2e21-4674-b30b-d5cb155555a4",
+            "clue": "Worshipped, held in high esteem",
+            "answer": "revered",
+            "normalized": "revered"
           },
           {
-            "id": "9c42d9fa-08cf-4189-8a65-d126550fae97",
-            "clue": "This Pokemon evolves into Cacturne",
-            "answer": "cacnea",
-            "normalized": "cacnea"
+            "id": "f07e30d6-156b-4104-b684-d0ea451afc2e",
+            "clue": "Makes reparations",
+            "answer": "atones",
+            "normalized": "atones"
           },
           {
-            "id": "d2044252-0760-4d2b-98ca-c5c5154c1d8b",
-            "clue": "Gall or brazenness",
-            "answer": "cheek",
-            "normalized": "cheek"
+            "id": "b7352622-e551-4fbe-ae78-3e5a70bf5132",
+            "clue": "Units of electromotive force",
+            "answer": "volts",
+            "normalized": "volts"
           },
           {
-            "id": "b9f0e10c-0c44-46d6-aa60-a9c91e99dccc",
-            "clue": "Metal pieces that fit over the loop for a padlock",
-            "answer": "hasps",
-            "normalized": "hasps"
+            "id": "353395ef-ed9c-4627-96d2-a395da1e411f",
+            "clue": "Tree-like giants in The Lord of the Rings",
+            "answer": "ents",
+            "normalized": "ents"
+          },
+          {
+            "id": "680ed713-e69b-418d-8663-fcebbbcd2c95",
+            "clue": "Plant parts from which flowers grow",
+            "answer": "bracts",
+            "normalized": "bracts"
           }
         ],
-        "track": "PC|LenCinY2026M11D20F0V000"
+        "track": "PC|LenCinY2026M11D21F0V000"
       },
       "mid": {
-        "puzzleId": "80edb8c3-1c10-4b85-8640-60a050020799",
+        "puzzleId": "6e8d0f4d-02d0-4d0d-88a7-9c6e09d15164",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "43b348e8-3a2d-4fa0-9b65-4dcc71cb2d52",
-            "clue": "Short title of a commissioned American Navy vessel",
-            "answer": "uss",
-            "normalized": "uss"
+            "id": "499a95c3-f020-4571-9807-4ffb882bf845",
+            "clue": "A leader of prayers in a mosque",
+            "answer": "imam",
+            "normalized": "imam"
           },
           {
-            "id": "731d2cc3-6577-4674-bc1b-f550f01b777d",
-            "clue": "Mother of the Olympian Gods",
-            "answer": "rhea",
-            "normalized": "rhea"
+            "id": "c4834343-47f1-47d8-857e-cbaddf03b516",
+            "clue": "Trevor Noah penned Born __",
+            "answer": "a crime",
+            "normalized": "acrime"
           },
           {
-            "id": "edc90348-6092-4845-bc96-31ad1b72314b",
-            "clue": "Nursemaids for Europeans in old India",
-            "answer": "ayahs",
-            "normalized": "ayahs"
+            "id": "340bcdc1-4c46-4bb6-a1a2-17c20eeebcba",
+            "clue": "Collie from Eric Knight's children's books",
+            "answer": "lassie",
+            "normalized": "lassie"
           },
           {
-            "id": "02e5209e-af97-4b34-8256-655833c98be5",
-            "clue": "Community that B. R. Ambedkar championed",
-            "answer": "dalits",
-            "normalized": "dalits"
+            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
+            "clue": "Camera with a particular kind of lens",
+            "answer": "slr",
+            "normalized": "slr"
           },
           {
-            "id": "769a4a12-7b05-4d58-a905-b475afd2d85c",
-            "clue": "Beldum evolves into this Pokemon",
-            "answer": "metang",
-            "normalized": "metang"
+            "id": "e59314ce-b101-43c4-8700-da7f31636eed",
+            "clue": "Portuguese energy company",
+            "answer": "edp",
+            "normalized": "edp"
           },
           {
-            "id": "f301de0b-822e-4b14-98d6-4b06e51249b3",
-            "clue": "Number system using eight instead of ten as a base",
-            "answer": "octal",
-            "normalized": "octal"
+            "id": "ef374dc4-073d-48e5-89e2-6f8bf1fe6ceb",
+            "clue": "A jewel cutter enhances a gem's natural shine",
+            "answer": "lustre",
+            "normalized": "lustre"
           },
           {
-            "id": "6204ab7d-aa5c-46ef-b41b-1d3b4b5342e2",
-            "clue": "Chef Garima Arora's new breakfast restaurant",
-            "answer": "here",
-            "normalized": "here"
+            "id": "32b94d06-f6eb-418e-be05-6fb1cac92948",
+            "clue": "Loves intensely, cherishes",
+            "answer": "adores",
+            "normalized": "adores"
           },
           {
-            "id": "836af7b7-afed-442a-940b-19fc46290ace",
-            "clue": "What you use your eyes to do",
-            "answer": "see",
-            "normalized": "see"
+            "id": "3264f646-00f2-4ba4-af26-a0a9f29e521a",
+            "clue": "Superhero spin-off from The Boys",
+            "answer": "gen v",
+            "normalized": "genv"
           },
           {
-            "id": "20ba2f2b-7056-43ad-b571-d1bcec389ea4",
-            "clue": "Black gram pulse used for making dosas",
-            "answer": "urad",
-            "normalized": "urad"
+            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
+            "clue": "US taxpayers report to this revenue service",
+            "answer": "irs",
+            "normalized": "irs"
           },
           {
-            "id": "da768373-d630-4e3c-aa72-b1a44572d5e5",
-            "clue": "The young protagonist of The Immortals book",
-            "answer": "shyam",
-            "normalized": "shyam"
+            "id": "50f53d0b-54ca-47bf-b20c-52e873c1bf70",
+            "clue": "An undertaking to lose every trick in cards",
+            "answer": "misere",
+            "normalized": "misere"
           },
           {
-            "id": "f2418d96-7e4a-40d2-bfd9-97afca03c759",
-            "clue": "Pokemon who evolves from Spheal",
-            "answer": "sealeo",
-            "normalized": "sealeo"
+            "id": "f9768fec-c9b9-46b5-8a9e-94aa8ecc195f",
+            "clue": "Compounds that can be carbox- or phosphor-",
+            "answer": "amides",
+            "normalized": "amides"
           },
           {
-            "id": "33bed874-7a15-4faf-aa3b-3d6a52b3994a",
-            "clue": "Without __, with no issues or problems",
-            "answer": "a hitch",
-            "normalized": "ahitch"
+            "id": "255998c2-e9cb-4dcc-aeb2-137987c77af4",
+            "clue": "High-pitched sound that Beaker the Muppet makes",
+            "answer": "meep",
+            "normalized": "meep"
           },
           {
-            "id": "095700b0-ddd9-4201-8825-57fa8045ab77",
-            "clue": "Teams in the Vijay Hazare Trophy represent ______",
-            "answer": "states",
-            "normalized": "states"
+            "id": "407eb47c-bdd4-4318-a18c-ec509d785984",
+            "clue": "To indirectly suggest or hint at something",
+            "answer": "allude",
+            "normalized": "allude"
           },
           {
-            "id": "9891d54a-eb7e-4ba1-95df-8647ce1b8df4",
-            "clue": "Animal trap with a wire noose",
-            "answer": "snare",
-            "normalized": "snare"
+            "id": "cabc6f54-8b53-4a37-98e3-2b7af7a6917c",
+            "clue": "Rachel, environmentalist who wrote Silent Spring",
+            "answer": "carson",
+            "normalized": "carson"
           },
           {
-            "id": "a16e5a8e-84ec-4406-88f1-2abc705eaefa",
-            "clue": "Happiness, merriment",
-            "answer": "glee",
-            "normalized": "glee"
+            "id": "c0237518-96cc-4fb1-8b25-5ddbced2ebce",
+            "clue": "Waste matter after smelting",
+            "answer": "slag",
+            "normalized": "slag"
+          },
+          {
+            "id": "3f1c75d0-ea84-4a3d-8020-be5964a6e9e6",
+            "clue": "The three-letter code for Trivandrum Airport",
+            "answer": "trv",
+            "normalized": "trv"
           }
         ],
-        "track": "PC|LenCinY2026M11D20F1V000"
+        "track": "PC|LenCinY2026M11D21F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-20",
+      "key": "2026-11-21",
       "year": 2026,
       "month": 11,
-      "day": 20,
+      "day": 21,
       "small": {
-        "puzzleId": "a741c9f0-517a-4ba0-a0f1-d5f91b4959a7",
+        "puzzleId": "37fd3e7a-66fa-4e6b-b2f0-3704da2b1365",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "5b829a15-ed00-434c-b5ac-028123c732e8",
-            "clue": "Southern end of Ahmedabad Metro's Red Line",
-            "answer": "apmc",
-            "normalized": "apmc"
+            "id": "0161fc55-06ab-414c-88e0-fb49a9d9a070",
+            "clue": "Heroic and valiant",
+            "answer": "brave",
+            "normalized": "brave"
           },
           {
-            "id": "62874c19-1eba-4701-9484-7f191e0c1405",
-            "clue": "A break in the line",
-            "answer": "breach",
-            "normalized": "breach"
+            "id": "30356932-24b4-4e9f-b69b-808c31f88f22",
+            "clue": "Mrs __, 19th C writer of eponymous cookbook",
+            "answer": "beeton",
+            "normalized": "beeton"
           },
           {
-            "id": "063e7b48-b32c-47bc-bc81-c561dd47b685",
-            "clue": "Dragon Ball Z man known for the Wolf Fang Fist",
-            "answer": "yamcha",
-            "normalized": "yamcha"
+            "id": "6f5abe20-43e3-4da7-a7d4-c741e96226b7",
+            "clue": "Uprising or protest that's often armed",
+            "answer": "revolt",
+            "normalized": "revolt"
           },
           {
-            "id": "babacf19-4572-4238-af68-f7eb937177b2",
-            "clue": "Hot rocks that soothe the legs",
-            "answer": "stones",
-            "normalized": "stones"
+            "id": "662baf93-2cf1-44cf-b863-5cc25fee1c15",
+            "clue": "In Codenames, you uncover the words of secret __",
+            "answer": "agents",
+            "normalized": "agents"
           },
           {
-            "id": "26f42a74-20f9-4460-9089-4f097a41a434",
-            "clue": "Oscar-winning Meryl who starred in Mamma Mia!",
-            "answer": "streep",
-            "normalized": "streep"
+            "id": "8cc4f3cf-05d3-4b92-81d5-a2fc374407b0",
+            "clue": "Dwarf planet in an asteroid belt near Mars",
+            "answer": "ceres",
+            "normalized": "ceres"
           },
           {
-            "id": "0d4b4334-1c3e-48cf-bc22-5b8025fa0f14",
-            "clue": "Large shaggy oxen found in Tibet",
-            "answer": "yaks",
-            "normalized": "yaks"
+            "id": "cc3b75a9-2c0b-4465-914f-e68c66a8955f",
+            "clue": "Casual tops without buttons, for short",
+            "answer": "tees",
+            "normalized": "tees"
           },
           {
-            "id": "3bd319ce-df49-4da5-93dd-94cb0c999c45",
-            "clue": "Nietzsche warns against looking too long into one",
-            "answer": "abyss",
-            "normalized": "abyss"
+            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
+            "clue": "High-speed computer storage with no moving parts",
+            "answer": "ssd",
+            "normalized": "ssd"
           },
           {
-            "id": "3eee5976-eb59-4d24-a176-6160b17f845a",
-            "clue": "Jurassic World and Parks and Recreation actor",
-            "answer": "pratt",
-            "normalized": "pratt"
+            "id": "fdd39c4d-e586-46a6-a258-2052343b4a94",
+            "clue": "Trio that performed To Love Somebody",
+            "answer": "bee gees",
+            "normalized": "beegees"
           },
           {
-            "id": "6bb895bf-01eb-41f2-9a86-6d196078e193",
-            "clue": "Remember by rote with eidetic __",
-            "answer": "memory",
-            "normalized": "memory"
+            "id": "adbb86fd-2e21-4674-b30b-d5cb155555a4",
+            "clue": "Worshipped, held in high esteem",
+            "answer": "revered",
+            "normalized": "revered"
           },
           {
-            "id": "9c42d9fa-08cf-4189-8a65-d126550fae97",
-            "clue": "This Pokemon evolves into Cacturne",
-            "answer": "cacnea",
-            "normalized": "cacnea"
+            "id": "f07e30d6-156b-4104-b684-d0ea451afc2e",
+            "clue": "Makes reparations",
+            "answer": "atones",
+            "normalized": "atones"
           },
           {
-            "id": "d2044252-0760-4d2b-98ca-c5c5154c1d8b",
-            "clue": "Gall or brazenness",
-            "answer": "cheek",
-            "normalized": "cheek"
+            "id": "b7352622-e551-4fbe-ae78-3e5a70bf5132",
+            "clue": "Units of electromotive force",
+            "answer": "volts",
+            "normalized": "volts"
           },
           {
-            "id": "b9f0e10c-0c44-46d6-aa60-a9c91e99dccc",
-            "clue": "Metal pieces that fit over the loop for a padlock",
-            "answer": "hasps",
-            "normalized": "hasps"
+            "id": "353395ef-ed9c-4627-96d2-a395da1e411f",
+            "clue": "Tree-like giants in The Lord of the Rings",
+            "answer": "ents",
+            "normalized": "ents"
+          },
+          {
+            "id": "680ed713-e69b-418d-8663-fcebbbcd2c95",
+            "clue": "Plant parts from which flowers grow",
+            "answer": "bracts",
+            "normalized": "bracts"
           }
         ],
-        "track": "PC|LenCinY2026M11D20F0V000"
+        "track": "PC|LenCinY2026M11D21F0V000"
       },
       "mid": {
-        "puzzleId": "80edb8c3-1c10-4b85-8640-60a050020799",
+        "puzzleId": "6e8d0f4d-02d0-4d0d-88a7-9c6e09d15164",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "43b348e8-3a2d-4fa0-9b65-4dcc71cb2d52",
-            "clue": "Short title of a commissioned American Navy vessel",
-            "answer": "uss",
-            "normalized": "uss"
+            "id": "499a95c3-f020-4571-9807-4ffb882bf845",
+            "clue": "A leader of prayers in a mosque",
+            "answer": "imam",
+            "normalized": "imam"
           },
           {
-            "id": "731d2cc3-6577-4674-bc1b-f550f01b777d",
-            "clue": "Mother of the Olympian Gods",
-            "answer": "rhea",
-            "normalized": "rhea"
+            "id": "c4834343-47f1-47d8-857e-cbaddf03b516",
+            "clue": "Trevor Noah penned Born __",
+            "answer": "a crime",
+            "normalized": "acrime"
           },
           {
-            "id": "edc90348-6092-4845-bc96-31ad1b72314b",
-            "clue": "Nursemaids for Europeans in old India",
-            "answer": "ayahs",
-            "normalized": "ayahs"
+            "id": "340bcdc1-4c46-4bb6-a1a2-17c20eeebcba",
+            "clue": "Collie from Eric Knight's children's books",
+            "answer": "lassie",
+            "normalized": "lassie"
           },
           {
-            "id": "02e5209e-af97-4b34-8256-655833c98be5",
-            "clue": "Community that B. R. Ambedkar championed",
-            "answer": "dalits",
-            "normalized": "dalits"
+            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
+            "clue": "Camera with a particular kind of lens",
+            "answer": "slr",
+            "normalized": "slr"
           },
           {
-            "id": "769a4a12-7b05-4d58-a905-b475afd2d85c",
-            "clue": "Beldum evolves into this Pokemon",
-            "answer": "metang",
-            "normalized": "metang"
+            "id": "e59314ce-b101-43c4-8700-da7f31636eed",
+            "clue": "Portuguese energy company",
+            "answer": "edp",
+            "normalized": "edp"
           },
           {
-            "id": "f301de0b-822e-4b14-98d6-4b06e51249b3",
-            "clue": "Number system using eight instead of ten as a base",
-            "answer": "octal",
-            "normalized": "octal"
+            "id": "ef374dc4-073d-48e5-89e2-6f8bf1fe6ceb",
+            "clue": "A jewel cutter enhances a gem's natural shine",
+            "answer": "lustre",
+            "normalized": "lustre"
           },
           {
-            "id": "6204ab7d-aa5c-46ef-b41b-1d3b4b5342e2",
-            "clue": "Chef Garima Arora's new breakfast restaurant",
-            "answer": "here",
-            "normalized": "here"
+            "id": "32b94d06-f6eb-418e-be05-6fb1cac92948",
+            "clue": "Loves intensely, cherishes",
+            "answer": "adores",
+            "normalized": "adores"
           },
           {
-            "id": "836af7b7-afed-442a-940b-19fc46290ace",
-            "clue": "What you use your eyes to do",
-            "answer": "see",
-            "normalized": "see"
+            "id": "3264f646-00f2-4ba4-af26-a0a9f29e521a",
+            "clue": "Superhero spin-off from The Boys",
+            "answer": "gen v",
+            "normalized": "genv"
           },
           {
-            "id": "20ba2f2b-7056-43ad-b571-d1bcec389ea4",
-            "clue": "Black gram pulse used for making dosas",
-            "answer": "urad",
-            "normalized": "urad"
+            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
+            "clue": "US taxpayers report to this revenue service",
+            "answer": "irs",
+            "normalized": "irs"
           },
           {
-            "id": "da768373-d630-4e3c-aa72-b1a44572d5e5",
-            "clue": "The young protagonist of The Immortals book",
-            "answer": "shyam",
-            "normalized": "shyam"
+            "id": "50f53d0b-54ca-47bf-b20c-52e873c1bf70",
+            "clue": "An undertaking to lose every trick in cards",
+            "answer": "misere",
+            "normalized": "misere"
           },
           {
-            "id": "f2418d96-7e4a-40d2-bfd9-97afca03c759",
-            "clue": "Pokemon who evolves from Spheal",
-            "answer": "sealeo",
-            "normalized": "sealeo"
+            "id": "f9768fec-c9b9-46b5-8a9e-94aa8ecc195f",
+            "clue": "Compounds that can be carbox- or phosphor-",
+            "answer": "amides",
+            "normalized": "amides"
           },
           {
-            "id": "33bed874-7a15-4faf-aa3b-3d6a52b3994a",
-            "clue": "Without __, with no issues or problems",
-            "answer": "a hitch",
-            "normalized": "ahitch"
+            "id": "255998c2-e9cb-4dcc-aeb2-137987c77af4",
+            "clue": "High-pitched sound that Beaker the Muppet makes",
+            "answer": "meep",
+            "normalized": "meep"
           },
           {
-            "id": "095700b0-ddd9-4201-8825-57fa8045ab77",
-            "clue": "Teams in the Vijay Hazare Trophy represent ______",
-            "answer": "states",
-            "normalized": "states"
+            "id": "407eb47c-bdd4-4318-a18c-ec509d785984",
+            "clue": "To indirectly suggest or hint at something",
+            "answer": "allude",
+            "normalized": "allude"
           },
           {
-            "id": "9891d54a-eb7e-4ba1-95df-8647ce1b8df4",
-            "clue": "Animal trap with a wire noose",
-            "answer": "snare",
-            "normalized": "snare"
+            "id": "cabc6f54-8b53-4a37-98e3-2b7af7a6917c",
+            "clue": "Rachel, environmentalist who wrote Silent Spring",
+            "answer": "carson",
+            "normalized": "carson"
           },
           {
-            "id": "a16e5a8e-84ec-4406-88f1-2abc705eaefa",
-            "clue": "Happiness, merriment",
-            "answer": "glee",
-            "normalized": "glee"
+            "id": "c0237518-96cc-4fb1-8b25-5ddbced2ebce",
+            "clue": "Waste matter after smelting",
+            "answer": "slag",
+            "normalized": "slag"
+          },
+          {
+            "id": "3f1c75d0-ea84-4a3d-8020-be5964a6e9e6",
+            "clue": "The three-letter code for Trivandrum Airport",
+            "answer": "trv",
+            "normalized": "trv"
           }
         ],
-        "track": "PC|LenCinY2026M11D20F1V000"
+        "track": "PC|LenCinY2026M11D21F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388685,21 +388709,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "Fegn9Ep9gu59gTLCDkFfO7Dafth9NwuWuqrOHaUNeiK/H1CW/QnlMFqx3n5AGUjRIGwEK5ldgJT/WdKhCw2Yw1p1mOWMAbR/v06vYblyOcgIEaZv4ddJqa3TrIoYf/S9zNJ9sLaKAQYXvm3KaBZ/8Qgm8tmgUjibA/ssXHCb9uNm93ZFDeOAoYtouMA2fjAzBCa2svFisBXAEPWuKz8ZMZ1HYjzmWDPYIbaCXbRemXZVZnBiUC0u4gy43Ycehg106jqHxGAQ6Pfcrcp35sK1usbWacKJ0UD2+g0SHqLyM8s="
+        "937LmUid/p9mHIiw5aesyhxCya0bgtW0KRVqlEGfrS+SwMG4amY7to8PHFgyGZCbT4Uq8ylHvayb44vvM/xPkB7ViJywzN0vYfJ08sDq7tsH1Algzf+E3VutfWkhBVX3w2UUEWvVSG3GFM6JJmw0XzmzIujy0u2mBWZu8RdJ6OChqpZYOxYIiOE6FGoGVC744yzvzhYYil0nrX8dbiVspwJYw21RN5ItClnFx68p4KHIy5qC8u8QN7SfP7Y9MtZPLs9AZbVfcj2gzLQJqWhQ54KDOlaGq6hBuIYnj3rBFEc="
       ]
     },
     "decrypted": {
-      "Id": "c1e24e20-b74e-484c-bce4-3f4c133330c5",
-      "Date": "2026-11-20T00:00:00Z",
+      "Id": "29b44892-4e18-41d8-92f7-3e38c3d2ce6a",
+      "Date": "2026-11-21T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "plank",
-      "NormalizedPassword": "plank",
+      "Password": "count",
+      "NormalizedPassword": "count",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-20T06:14:19.0750000+05:30",
-    "hash": "ebd88be569685b0b99441ea9a99e0f1f",
+    "dtu": "2026-11-21T05:34:08.3350000+05:30",
+    "hash": "45764b589e1b44f5f7ae1a4b34b4a6bf",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
