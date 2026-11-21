@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-21T00:04:08.335Z",
+  "generatedAt": "2026-11-21T23:30:15.205Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 21
+    "day": 22
   },
   "crossword": {
     "archive": [
@@ -65563,7 +65563,7 @@
             },
             {
               "id": "055d23e0-430a-4903-9377-1d772b2e6036",
-              "clue": "Psychic/fairy Pokemon that evolves into Kirlia",
+              "clue": "Psychic/fairy Pokémon that evolves into Kirlia",
               "answer": "ralts",
               "normalized": "ralts"
             },
@@ -105009,7 +105009,7 @@
             },
             {
               "id": "6137679e-6b97-4e0d-891a-a4da9d3b0239",
-              "clue": "__ Otis; invented a safe, steam-powered elevator",
+              "clue": "__ Otis, invented a safe, steam-powered elevator",
               "answer": "elisha",
               "normalized": "elisha"
             },
@@ -110521,7 +110521,7 @@
             },
             {
               "id": "6137679e-6b97-4e0d-891a-a4da9d3b0239",
-              "clue": "__ Otis; invented a safe, steam-powered elevator",
+              "clue": "__ Otis, invented a safe, steam-powered elevator",
               "answer": "elisha",
               "normalized": "elisha"
             },
@@ -236483,7 +236483,7 @@
             },
             {
               "id": "6137679e-6b97-4e0d-891a-a4da9d3b0239",
-              "clue": "__ Otis; invented a safe, steam-powered elevator",
+              "clue": "__ Otis, invented a safe, steam-powered elevator",
               "answer": "elisha",
               "normalized": "elisha"
             },
@@ -388125,403 +388125,451 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-21",
+      "key": "2026-11-22",
       "year": 2026,
       "month": 11,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "37fd3e7a-66fa-4e6b-b2f0-3704da2b1365",
+        "puzzleId": "6dbb61a1-f2b3-4b96-bac6-b6aadc57702a",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "0161fc55-06ab-414c-88e0-fb49a9d9a070",
-            "clue": "Heroic and valiant",
-            "answer": "brave",
-            "normalized": "brave"
+            "id": "3e3b516d-44c8-4c67-8849-fc1d097e95be",
+            "clue": "Global governing body in cricket",
+            "answer": "icc",
+            "normalized": "icc"
           },
           {
-            "id": "30356932-24b4-4e9f-b69b-808c31f88f22",
-            "clue": "Mrs __, 19th C writer of eponymous cookbook",
-            "answer": "beeton",
-            "normalized": "beeton"
+            "id": "9b608a42-37d6-4506-8f01-96130cf3e37b",
+            "clue": "Three-time Grand Slam tennis champ Arthur",
+            "answer": "ashe",
+            "normalized": "ashe"
           },
           {
-            "id": "6f5abe20-43e3-4da7-a7d4-c741e96226b7",
-            "clue": "Uprising or protest that's often armed",
-            "answer": "revolt",
-            "normalized": "revolt"
+            "id": "b6788e02-9c8d-459e-95b7-8a513f0546f2",
+            "clue": "Donkeys, in other words",
+            "answer": "asses",
+            "normalized": "asses"
           },
           {
-            "id": "662baf93-2cf1-44cf-b863-5cc25fee1c15",
-            "clue": "In Codenames, you uncover the words of secret __",
-            "answer": "agents",
-            "normalized": "agents"
+            "id": "59f2045b-82ae-49d6-bf02-e4e0b082281e",
+            "clue": "Bone __, common name for osteophytes",
+            "answer": "spurs",
+            "normalized": "spurs"
           },
           {
-            "id": "8cc4f3cf-05d3-4b92-81d5-a2fc374407b0",
-            "clue": "Dwarf planet in an asteroid belt near Mars",
-            "answer": "ceres",
-            "normalized": "ceres"
+            "id": "8deb9ad1-c582-4ca3-9087-0eea3858b40b",
+            "clue": "Acronym for Association of Southeast Asian Nations",
+            "answer": "asean",
+            "normalized": "asean"
           },
           {
-            "id": "cc3b75a9-2c0b-4465-914f-e68c66a8955f",
-            "clue": "Casual tops without buttons, for short",
-            "answer": "tees",
-            "normalized": "tees"
+            "id": "5396dea7-b19f-401e-bdc0-e6a9746b5fc7",
+            "clue": "Spanish or Portuguese word for day",
+            "answer": "dia",
+            "normalized": "dia"
           },
           {
-            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
-            "clue": "High-speed computer storage with no moving parts",
-            "answer": "ssd",
-            "normalized": "ssd"
+            "id": "5a9a0ab5-917b-4227-8a4b-84b8d6f58b1c",
+            "clue": "Emitted, discharged",
+            "answer": "issued",
+            "normalized": "issued"
           },
           {
-            "id": "fdd39c4d-e586-46a6-a258-2052343b4a94",
-            "clue": "Trio that performed To Love Somebody",
-            "answer": "bee gees",
-            "normalized": "beegees"
+            "id": "cb5642be-aec9-45bc-9a3e-30e26e3e965a",
+            "clue": "Famous beach on Vypin Island",
+            "answer": "cherai",
+            "normalized": "cherai"
           },
           {
-            "id": "adbb86fd-2e21-4674-b30b-d5cb155555a4",
-            "clue": "Worshipped, held in high esteem",
-            "answer": "revered",
-            "normalized": "revered"
+            "id": "351193ec-49ab-45fa-947c-c4e047f62f32",
+            "clue": "Entry-level light aircraft",
+            "answer": "cessna",
+            "normalized": "cessna"
           },
           {
-            "id": "f07e30d6-156b-4104-b684-d0ea451afc2e",
-            "clue": "Makes reparations",
-            "answer": "atones",
-            "normalized": "atones"
+            "id": "8a8bea18-8e39-4d53-86c8-1e9d07af35be",
+            "clue": "Cleopatra was familiar with these Egyptian cobras",
+            "answer": "asps",
+            "normalized": "asps"
           },
           {
-            "id": "b7352622-e551-4fbe-ae78-3e5a70bf5132",
-            "clue": "Units of electromotive force",
-            "answer": "volts",
-            "normalized": "volts"
-          },
-          {
-            "id": "353395ef-ed9c-4627-96d2-a395da1e411f",
-            "clue": "Tree-like giants in The Lord of the Rings",
-            "answer": "ents",
-            "normalized": "ents"
-          },
-          {
-            "id": "680ed713-e69b-418d-8663-fcebbbcd2c95",
-            "clue": "Plant parts from which flowers grow",
-            "answer": "bracts",
-            "normalized": "bracts"
+            "id": "00b376f3-771c-4c3b-9307-4a0350b8ae36",
+            "clue": "Actor Butterfield, star of Netflix's Sex Education",
+            "answer": "asa",
+            "normalized": "asa"
           }
         ],
-        "track": "PC|LenCinY2026M11D21F0V000"
+        "track": "PC|LenCinY2026M11D22F0V000"
       },
       "mid": {
-        "puzzleId": "6e8d0f4d-02d0-4d0d-88a7-9c6e09d15164",
+        "puzzleId": "b6e1c8e9-7c88-4253-ba7e-c79a5bfe7585",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "499a95c3-f020-4571-9807-4ffb882bf845",
-            "clue": "A leader of prayers in a mosque",
-            "answer": "imam",
-            "normalized": "imam"
+            "id": "826ae695-f3fe-47a1-ba51-695056ca5696",
+            "clue": "Female version of a young lad",
+            "answer": "lass",
+            "normalized": "lass"
           },
           {
-            "id": "c4834343-47f1-47d8-857e-cbaddf03b516",
-            "clue": "Trevor Noah penned Born __",
-            "answer": "a crime",
-            "normalized": "acrime"
+            "id": "6db83c45-95bb-47ab-8eef-cdd75f46a33f",
+            "clue": "Hits with the head, like a goat",
+            "answer": "butts",
+            "normalized": "butts"
           },
           {
-            "id": "340bcdc1-4c46-4bb6-a1a2-17c20eeebcba",
-            "clue": "Collie from Eric Knight's children's books",
-            "answer": "lassie",
-            "normalized": "lassie"
+            "id": "e68a328b-5985-4638-afd1-3e9480caa751",
+            "clue": "Pop out of the ground like a plant",
+            "answer": "sprout",
+            "normalized": "sprout"
           },
           {
-            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
-            "clue": "Camera with a particular kind of lens",
-            "answer": "slr",
-            "normalized": "slr"
+            "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
+            "clue": "UK's timezone during summer",
+            "answer": "bst",
+            "normalized": "bst"
           },
           {
-            "id": "e59314ce-b101-43c4-8700-da7f31636eed",
-            "clue": "Portuguese energy company",
-            "answer": "edp",
-            "normalized": "edp"
+            "id": "f3d0caa7-12d8-459e-915f-0884fb234022",
+            "clue": "Common name for a killer whale",
+            "answer": "orca",
+            "normalized": "orca"
           },
           {
-            "id": "ef374dc4-073d-48e5-89e2-6f8bf1fe6ceb",
-            "clue": "A jewel cutter enhances a gem's natural shine",
-            "answer": "lustre",
-            "normalized": "lustre"
+            "id": "cd6e80dc-602b-4576-8186-c281d829b49a",
+            "clue": "Hawaiian name for bigeye tuna",
+            "answer": "ahi",
+            "normalized": "ahi"
           },
           {
-            "id": "32b94d06-f6eb-418e-be05-6fb1cac92948",
-            "clue": "Loves intensely, cherishes",
-            "answer": "adores",
-            "normalized": "adores"
+            "id": "f8e83aad-80aa-4854-ba95-cf6f4cd79cef",
+            "clue": "Actor Paul __ from Sound of Metal",
+            "answer": "raci",
+            "normalized": "raci"
           },
           {
-            "id": "3264f646-00f2-4ba4-af26-a0a9f29e521a",
-            "clue": "Superhero spin-off from The Boys",
-            "answer": "gen v",
-            "normalized": "genv"
+            "id": "e21df4f2-70ba-4500-a121-c11aa4c08bba",
+            "clue": "Ivy League university in Connecticut",
+            "answer": "yale",
+            "normalized": "yale"
           },
           {
-            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
-            "clue": "US taxpayers report to this revenue service",
-            "answer": "irs",
-            "normalized": "irs"
+            "id": "146d3998-a5fe-4ee6-a4ca-f02757668d29",
+            "clue": "Divine being or deity",
+            "answer": "god",
+            "normalized": "god"
           },
           {
-            "id": "50f53d0b-54ca-47bf-b20c-52e873c1bf70",
-            "clue": "An undertaking to lose every trick in cards",
-            "answer": "misere",
-            "normalized": "misere"
+            "id": "7b15eac7-ce06-46f0-b57d-e0dc90c309d9",
+            "clue": "Tempt with fine things",
+            "answer": "entice",
+            "normalized": "entice"
           },
           {
-            "id": "f9768fec-c9b9-46b5-8a9e-94aa8ecc195f",
-            "clue": "Compounds that can be carbox- or phosphor-",
-            "answer": "amides",
-            "normalized": "amides"
+            "id": "37683ed4-1c45-46f7-a2f8-1de4b0a4020d",
+            "clue": "Czech car manufacturer that makes the Octavia",
+            "answer": "skoda",
+            "normalized": "skoda"
           },
           {
-            "id": "255998c2-e9cb-4dcc-aeb2-137987c77af4",
-            "clue": "High-pitched sound that Beaker the Muppet makes",
-            "answer": "meep",
-            "normalized": "meep"
+            "id": "f973ef7d-1c68-48be-9759-c96e265e7c44",
+            "clue": "Cut quickly with scissors",
+            "answer": "snip",
+            "normalized": "snip"
           },
           {
-            "id": "407eb47c-bdd4-4318-a18c-ec509d785984",
-            "clue": "To indirectly suggest or hint at something",
-            "answer": "allude",
-            "normalized": "allude"
+            "id": "0194a97e-f627-4424-ae66-ba8344e5833f",
+            "clue": "Lebanese pound ISO code",
+            "answer": "lbp",
+            "normalized": "lbp"
           },
           {
-            "id": "cabc6f54-8b53-4a37-98e3-2b7af7a6917c",
-            "clue": "Rachel, environmentalist who wrote Silent Spring",
-            "answer": "carson",
-            "normalized": "carson"
+            "id": "081f11db-0b41-4735-9c4e-93a0f55df77e",
+            "clue": "In Harry Potter, a wizard trained to fight evil",
+            "answer": "auror",
+            "normalized": "auror"
           },
           {
-            "id": "c0237518-96cc-4fb1-8b25-5ddbced2ebce",
-            "clue": "Waste matter after smelting",
-            "answer": "slag",
-            "normalized": "slag"
+            "id": "520f0dc5-66ce-41f1-b867-120240e6ffe5",
+            "clue": "Space for keeping things, like a warehouse",
+            "answer": "storage",
+            "normalized": "storage"
           },
           {
-            "id": "3f1c75d0-ea84-4a3d-8020-be5964a6e9e6",
-            "clue": "The three-letter code for Trivandrum Airport",
-            "answer": "trv",
-            "normalized": "trv"
+            "id": "93dd9040-2417-4b6c-a9b8-cee02dc04ab7",
+            "clue": "Plaster formed into patterns on a wall",
+            "answer": "stucco",
+            "normalized": "stucco"
+          },
+          {
+            "id": "6d73a596-013f-4508-a764-6fb761ec80a6",
+            "clue": "Sedate, serious-minded",
+            "answer": "staid",
+            "normalized": "staid"
+          },
+          {
+            "id": "cd5954b4-4d47-4077-8d33-5e92f582449f",
+            "clue": "Village and civil parish in Cambridgeshire, England",
+            "answer": "stilton",
+            "normalized": "stilton"
+          },
+          {
+            "id": "d610dd03-7423-4797-869d-87fbb0c7fe01",
+            "clue": "18th-century English mathematician Reverend Thomas",
+            "answer": "bayes",
+            "normalized": "bayes"
+          },
+          {
+            "id": "9d940aea-6bec-4e57-b105-b3aa5ef9c4eb",
+            "clue": "Luffy's pirate mentor in One Piece",
+            "answer": "shanks",
+            "normalized": "shanks"
+          },
+          {
+            "id": "86bef3bf-2f5b-4bec-92be-19bd2b406ab1",
+            "clue": "Gift of money given to kids on Eid al-Fitr",
+            "answer": "eidi",
+            "normalized": "eidi"
+          },
+          {
+            "id": "edf6cdfc-f468-47ab-b9d2-739b2ed5078a",
+            "clue": "Rising grape skins in wine fermentation",
+            "answer": "cap",
+            "normalized": "cap"
           }
         ],
-        "track": "PC|LenCinY2026M11D21F1V000"
+        "track": "PC|LenCinY2026M11D22F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-21",
+      "key": "2026-11-22",
       "year": 2026,
       "month": 11,
-      "day": 21,
+      "day": 22,
       "small": {
-        "puzzleId": "37fd3e7a-66fa-4e6b-b2f0-3704da2b1365",
+        "puzzleId": "6dbb61a1-f2b3-4b96-bac6-b6aadc57702a",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "0161fc55-06ab-414c-88e0-fb49a9d9a070",
-            "clue": "Heroic and valiant",
-            "answer": "brave",
-            "normalized": "brave"
+            "id": "3e3b516d-44c8-4c67-8849-fc1d097e95be",
+            "clue": "Global governing body in cricket",
+            "answer": "icc",
+            "normalized": "icc"
           },
           {
-            "id": "30356932-24b4-4e9f-b69b-808c31f88f22",
-            "clue": "Mrs __, 19th C writer of eponymous cookbook",
-            "answer": "beeton",
-            "normalized": "beeton"
+            "id": "9b608a42-37d6-4506-8f01-96130cf3e37b",
+            "clue": "Three-time Grand Slam tennis champ Arthur",
+            "answer": "ashe",
+            "normalized": "ashe"
           },
           {
-            "id": "6f5abe20-43e3-4da7-a7d4-c741e96226b7",
-            "clue": "Uprising or protest that's often armed",
-            "answer": "revolt",
-            "normalized": "revolt"
+            "id": "b6788e02-9c8d-459e-95b7-8a513f0546f2",
+            "clue": "Donkeys, in other words",
+            "answer": "asses",
+            "normalized": "asses"
           },
           {
-            "id": "662baf93-2cf1-44cf-b863-5cc25fee1c15",
-            "clue": "In Codenames, you uncover the words of secret __",
-            "answer": "agents",
-            "normalized": "agents"
+            "id": "59f2045b-82ae-49d6-bf02-e4e0b082281e",
+            "clue": "Bone __, common name for osteophytes",
+            "answer": "spurs",
+            "normalized": "spurs"
           },
           {
-            "id": "8cc4f3cf-05d3-4b92-81d5-a2fc374407b0",
-            "clue": "Dwarf planet in an asteroid belt near Mars",
-            "answer": "ceres",
-            "normalized": "ceres"
+            "id": "8deb9ad1-c582-4ca3-9087-0eea3858b40b",
+            "clue": "Acronym for Association of Southeast Asian Nations",
+            "answer": "asean",
+            "normalized": "asean"
           },
           {
-            "id": "cc3b75a9-2c0b-4465-914f-e68c66a8955f",
-            "clue": "Casual tops without buttons, for short",
-            "answer": "tees",
-            "normalized": "tees"
+            "id": "5396dea7-b19f-401e-bdc0-e6a9746b5fc7",
+            "clue": "Spanish or Portuguese word for day",
+            "answer": "dia",
+            "normalized": "dia"
           },
           {
-            "id": "ef815877-107e-4846-a7b3-f7095e7cd0c3",
-            "clue": "High-speed computer storage with no moving parts",
-            "answer": "ssd",
-            "normalized": "ssd"
+            "id": "5a9a0ab5-917b-4227-8a4b-84b8d6f58b1c",
+            "clue": "Emitted, discharged",
+            "answer": "issued",
+            "normalized": "issued"
           },
           {
-            "id": "fdd39c4d-e586-46a6-a258-2052343b4a94",
-            "clue": "Trio that performed To Love Somebody",
-            "answer": "bee gees",
-            "normalized": "beegees"
+            "id": "cb5642be-aec9-45bc-9a3e-30e26e3e965a",
+            "clue": "Famous beach on Vypin Island",
+            "answer": "cherai",
+            "normalized": "cherai"
           },
           {
-            "id": "adbb86fd-2e21-4674-b30b-d5cb155555a4",
-            "clue": "Worshipped, held in high esteem",
-            "answer": "revered",
-            "normalized": "revered"
+            "id": "351193ec-49ab-45fa-947c-c4e047f62f32",
+            "clue": "Entry-level light aircraft",
+            "answer": "cessna",
+            "normalized": "cessna"
           },
           {
-            "id": "f07e30d6-156b-4104-b684-d0ea451afc2e",
-            "clue": "Makes reparations",
-            "answer": "atones",
-            "normalized": "atones"
+            "id": "8a8bea18-8e39-4d53-86c8-1e9d07af35be",
+            "clue": "Cleopatra was familiar with these Egyptian cobras",
+            "answer": "asps",
+            "normalized": "asps"
           },
           {
-            "id": "b7352622-e551-4fbe-ae78-3e5a70bf5132",
-            "clue": "Units of electromotive force",
-            "answer": "volts",
-            "normalized": "volts"
-          },
-          {
-            "id": "353395ef-ed9c-4627-96d2-a395da1e411f",
-            "clue": "Tree-like giants in The Lord of the Rings",
-            "answer": "ents",
-            "normalized": "ents"
-          },
-          {
-            "id": "680ed713-e69b-418d-8663-fcebbbcd2c95",
-            "clue": "Plant parts from which flowers grow",
-            "answer": "bracts",
-            "normalized": "bracts"
+            "id": "00b376f3-771c-4c3b-9307-4a0350b8ae36",
+            "clue": "Actor Butterfield, star of Netflix's Sex Education",
+            "answer": "asa",
+            "normalized": "asa"
           }
         ],
-        "track": "PC|LenCinY2026M11D21F0V000"
+        "track": "PC|LenCinY2026M11D22F0V000"
       },
       "mid": {
-        "puzzleId": "6e8d0f4d-02d0-4d0d-88a7-9c6e09d15164",
+        "puzzleId": "b6e1c8e9-7c88-4253-ba7e-c79a5bfe7585",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "499a95c3-f020-4571-9807-4ffb882bf845",
-            "clue": "A leader of prayers in a mosque",
-            "answer": "imam",
-            "normalized": "imam"
+            "id": "826ae695-f3fe-47a1-ba51-695056ca5696",
+            "clue": "Female version of a young lad",
+            "answer": "lass",
+            "normalized": "lass"
           },
           {
-            "id": "c4834343-47f1-47d8-857e-cbaddf03b516",
-            "clue": "Trevor Noah penned Born __",
-            "answer": "a crime",
-            "normalized": "acrime"
+            "id": "6db83c45-95bb-47ab-8eef-cdd75f46a33f",
+            "clue": "Hits with the head, like a goat",
+            "answer": "butts",
+            "normalized": "butts"
           },
           {
-            "id": "340bcdc1-4c46-4bb6-a1a2-17c20eeebcba",
-            "clue": "Collie from Eric Knight's children's books",
-            "answer": "lassie",
-            "normalized": "lassie"
+            "id": "e68a328b-5985-4638-afd1-3e9480caa751",
+            "clue": "Pop out of the ground like a plant",
+            "answer": "sprout",
+            "normalized": "sprout"
           },
           {
-            "id": "84d0dc3d-1ed3-4bea-9b58-fd29410b94da",
-            "clue": "Camera with a particular kind of lens",
-            "answer": "slr",
-            "normalized": "slr"
+            "id": "b836ca7e-59cc-457a-819d-b3709ccd217f",
+            "clue": "UK's timezone during summer",
+            "answer": "bst",
+            "normalized": "bst"
           },
           {
-            "id": "e59314ce-b101-43c4-8700-da7f31636eed",
-            "clue": "Portuguese energy company",
-            "answer": "edp",
-            "normalized": "edp"
+            "id": "f3d0caa7-12d8-459e-915f-0884fb234022",
+            "clue": "Common name for a killer whale",
+            "answer": "orca",
+            "normalized": "orca"
           },
           {
-            "id": "ef374dc4-073d-48e5-89e2-6f8bf1fe6ceb",
-            "clue": "A jewel cutter enhances a gem's natural shine",
-            "answer": "lustre",
-            "normalized": "lustre"
+            "id": "cd6e80dc-602b-4576-8186-c281d829b49a",
+            "clue": "Hawaiian name for bigeye tuna",
+            "answer": "ahi",
+            "normalized": "ahi"
           },
           {
-            "id": "32b94d06-f6eb-418e-be05-6fb1cac92948",
-            "clue": "Loves intensely, cherishes",
-            "answer": "adores",
-            "normalized": "adores"
+            "id": "f8e83aad-80aa-4854-ba95-cf6f4cd79cef",
+            "clue": "Actor Paul __ from Sound of Metal",
+            "answer": "raci",
+            "normalized": "raci"
           },
           {
-            "id": "3264f646-00f2-4ba4-af26-a0a9f29e521a",
-            "clue": "Superhero spin-off from The Boys",
-            "answer": "gen v",
-            "normalized": "genv"
+            "id": "e21df4f2-70ba-4500-a121-c11aa4c08bba",
+            "clue": "Ivy League university in Connecticut",
+            "answer": "yale",
+            "normalized": "yale"
           },
           {
-            "id": "ec8225a3-ca04-4e53-9e83-6b19c989e591",
-            "clue": "US taxpayers report to this revenue service",
-            "answer": "irs",
-            "normalized": "irs"
+            "id": "146d3998-a5fe-4ee6-a4ca-f02757668d29",
+            "clue": "Divine being or deity",
+            "answer": "god",
+            "normalized": "god"
           },
           {
-            "id": "50f53d0b-54ca-47bf-b20c-52e873c1bf70",
-            "clue": "An undertaking to lose every trick in cards",
-            "answer": "misere",
-            "normalized": "misere"
+            "id": "7b15eac7-ce06-46f0-b57d-e0dc90c309d9",
+            "clue": "Tempt with fine things",
+            "answer": "entice",
+            "normalized": "entice"
           },
           {
-            "id": "f9768fec-c9b9-46b5-8a9e-94aa8ecc195f",
-            "clue": "Compounds that can be carbox- or phosphor-",
-            "answer": "amides",
-            "normalized": "amides"
+            "id": "37683ed4-1c45-46f7-a2f8-1de4b0a4020d",
+            "clue": "Czech car manufacturer that makes the Octavia",
+            "answer": "skoda",
+            "normalized": "skoda"
           },
           {
-            "id": "255998c2-e9cb-4dcc-aeb2-137987c77af4",
-            "clue": "High-pitched sound that Beaker the Muppet makes",
-            "answer": "meep",
-            "normalized": "meep"
+            "id": "f973ef7d-1c68-48be-9759-c96e265e7c44",
+            "clue": "Cut quickly with scissors",
+            "answer": "snip",
+            "normalized": "snip"
           },
           {
-            "id": "407eb47c-bdd4-4318-a18c-ec509d785984",
-            "clue": "To indirectly suggest or hint at something",
-            "answer": "allude",
-            "normalized": "allude"
+            "id": "0194a97e-f627-4424-ae66-ba8344e5833f",
+            "clue": "Lebanese pound ISO code",
+            "answer": "lbp",
+            "normalized": "lbp"
           },
           {
-            "id": "cabc6f54-8b53-4a37-98e3-2b7af7a6917c",
-            "clue": "Rachel, environmentalist who wrote Silent Spring",
-            "answer": "carson",
-            "normalized": "carson"
+            "id": "081f11db-0b41-4735-9c4e-93a0f55df77e",
+            "clue": "In Harry Potter, a wizard trained to fight evil",
+            "answer": "auror",
+            "normalized": "auror"
           },
           {
-            "id": "c0237518-96cc-4fb1-8b25-5ddbced2ebce",
-            "clue": "Waste matter after smelting",
-            "answer": "slag",
-            "normalized": "slag"
+            "id": "520f0dc5-66ce-41f1-b867-120240e6ffe5",
+            "clue": "Space for keeping things, like a warehouse",
+            "answer": "storage",
+            "normalized": "storage"
           },
           {
-            "id": "3f1c75d0-ea84-4a3d-8020-be5964a6e9e6",
-            "clue": "The three-letter code for Trivandrum Airport",
-            "answer": "trv",
-            "normalized": "trv"
+            "id": "93dd9040-2417-4b6c-a9b8-cee02dc04ab7",
+            "clue": "Plaster formed into patterns on a wall",
+            "answer": "stucco",
+            "normalized": "stucco"
+          },
+          {
+            "id": "6d73a596-013f-4508-a764-6fb761ec80a6",
+            "clue": "Sedate, serious-minded",
+            "answer": "staid",
+            "normalized": "staid"
+          },
+          {
+            "id": "cd5954b4-4d47-4077-8d33-5e92f582449f",
+            "clue": "Village and civil parish in Cambridgeshire, England",
+            "answer": "stilton",
+            "normalized": "stilton"
+          },
+          {
+            "id": "d610dd03-7423-4797-869d-87fbb0c7fe01",
+            "clue": "18th-century English mathematician Reverend Thomas",
+            "answer": "bayes",
+            "normalized": "bayes"
+          },
+          {
+            "id": "9d940aea-6bec-4e57-b105-b3aa5ef9c4eb",
+            "clue": "Luffy's pirate mentor in One Piece",
+            "answer": "shanks",
+            "normalized": "shanks"
+          },
+          {
+            "id": "86bef3bf-2f5b-4bec-92be-19bd2b406ab1",
+            "clue": "Gift of money given to kids on Eid al-Fitr",
+            "answer": "eidi",
+            "normalized": "eidi"
+          },
+          {
+            "id": "edf6cdfc-f468-47ab-b9d2-739b2ed5078a",
+            "clue": "Rising grape skins in wine fermentation",
+            "answer": "cap",
+            "normalized": "cap"
           }
         ],
-        "track": "PC|LenCinY2026M11D21F1V000"
+        "track": "PC|LenCinY2026M11D22F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388709,21 +388757,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "937LmUid/p9mHIiw5aesyhxCya0bgtW0KRVqlEGfrS+SwMG4amY7to8PHFgyGZCbT4Uq8ylHvayb44vvM/xPkB7ViJywzN0vYfJ08sDq7tsH1Algzf+E3VutfWkhBVX3w2UUEWvVSG3GFM6JJmw0XzmzIujy0u2mBWZu8RdJ6OChqpZYOxYIiOE6FGoGVC744yzvzhYYil0nrX8dbiVspwJYw21RN5ItClnFx68p4KHIy5qC8u8QN7SfP7Y9MtZPLs9AZbVfcj2gzLQJqWhQ54KDOlaGq6hBuIYnj3rBFEc="
+        "1ggcK68SlvHV76PUh/RlSFLiSMywQsosJLpVEtQRH3wZCdxTuS3Fa+nZzsd2p5xAtq7o5hbjlcsgDRPW+mXJZW34xm37h+4g3/fu0ZQQcGf1IHUofo+P82TIdKn66iYRMq/KWhWw9PdWS0aI86mzh2+UvjSZGCarvcHZDiFBpEuftYxzdwXbJCYX5yswFPspmxD6TcWZhA0+2af8dCuN9kDzWDRXKgWmoC/ggISFWLddCcRID7Te3zB/u4xIkLVwdJ91DvqjAn+Qp9cSt9IHKCbEt7dG46njtzMjctdaZAM="
       ]
     },
     "decrypted": {
-      "Id": "29b44892-4e18-41d8-92f7-3e38c3d2ce6a",
-      "Date": "2026-11-21T00:00:00Z",
+      "Id": "e0292f44-2666-4c3a-a5d0-a33ec23eb633",
+      "Date": "2026-11-22T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "count",
-      "NormalizedPassword": "count",
+      "Password": "plaid",
+      "NormalizedPassword": "plaid",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-21T05:34:08.3350000+05:30",
-    "hash": "45764b589e1b44f5f7ae1a4b34b4a6bf",
+    "dtu": "2026-11-22T05:00:15.2050000+05:30",
+    "hash": "96aae2825bbf4cc2a61e1febeae5b933",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
