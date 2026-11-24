@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-22T23:41:43.301Z",
+  "generatedAt": "2026-11-24T03:59:51.965Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 23
+    "day": 24
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 42
+        "QuantidadeDeFases": 46
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -15849,7 +15849,7 @@
           "answers": [
             {
               "id": "259e06f1-fb98-4217-99a0-3c4a1ccd2b76",
-              "clue": "Daughter of Pallas and Styx",
+              "clue": "Daughter of Pallas and Styx, sister of Nike",
               "answer": "bia",
               "normalized": "bia"
             },
@@ -105009,7 +105009,7 @@
             },
             {
               "id": "6137679e-6b97-4e0d-891a-a4da9d3b0239",
-              "clue": "__ Otis; invented a safe, steam-powered elevator",
+              "clue": "__ Otis, invented a safe, steam-powered elevator",
               "answer": "elisha",
               "normalized": "elisha"
             },
@@ -388125,391 +388125,391 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-23",
+      "key": "2026-11-24",
       "year": 2026,
       "month": 11,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "d348bfc6-ae2e-43da-85d5-e5b19958211e",
+        "puzzleId": "cd58c1ec-dde0-42dd-8287-79be14468606",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "8e93ff4d-b9e3-422f-bda2-1b2a2c540e8d",
-            "clue": "Tablespoon abbreviation",
-            "answer": "tbsp",
-            "normalized": "tbsp"
+            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
+            "clue": "Masters of ceremonies, in short",
+            "answer": "mcs",
+            "normalized": "mcs"
           },
           {
-            "id": "6b22808f-e324-4b0f-ae8e-dd3b52e3eb56",
-            "clue": "Fatty harmless tissue that grows under the skin",
-            "answer": "lipoma",
-            "normalized": "lipoma"
+            "id": "bf26c8c3-1600-4e87-8f7d-ff1dbec6b772",
+            "clue": "The 'servant' in a Guru Dutt classic",
+            "answer": "ghulam",
+            "normalized": "ghulam"
           },
           {
-            "id": "978c3f96-11d3-4dcd-a3fb-5fe962e3f740",
-            "clue": "CCTV stands for __ circuit television",
-            "answer": "closed",
-            "normalized": "closed"
+            "id": "de9e1099-5700-46ca-ab4a-f58d9964df50",
+            "clue": "Second holiest Muslim city, after Mecca",
+            "answer": "medina",
+            "normalized": "medina"
           },
           {
-            "id": "c360987c-e05f-4fa6-97f3-868ccace10c6",
-            "clue": "Pokémon that evolves into Lombre",
-            "answer": "lotad",
-            "normalized": "lotad"
+            "id": "3652181b-65fe-493c-8743-f087159c66d6",
+            "clue": "The main source; number in the base of a system",
+            "answer": "radix",
+            "normalized": "radix"
           },
           {
-            "id": "6007f603-82e1-4f35-8ac8-a0bfbf2f3a4a",
-            "clue": "Playing with a spinning top requires a lot of this",
-            "answer": "skill",
-            "normalized": "skill"
+            "id": "7f17baea-8cf1-4ee5-aedf-5beda9cd06d6",
+            "clue": "The fifth taste, a mix of the others",
+            "answer": "umami",
+            "normalized": "umami"
           },
           {
-            "id": "38999376-082a-4c63-a15d-d2f5bd965de2",
-            "clue": "Painful inflammation of the eyelid gland",
-            "answer": "stye",
-            "normalized": "stye"
+            "id": "4dd39686-57af-4fcd-8ed9-680761ea578e",
+            "clue": "Shows one's teeth in a threatening manner",
+            "answer": "bares",
+            "normalized": "bares"
           },
           {
-            "id": "f7acb5d9-5058-43e0-b30d-725c15367398",
-            "clue": "Abbreviation for tender loving care",
-            "answer": "tlc",
-            "normalized": "tlc"
+            "id": "5ac054c9-dcd8-432a-9ff8-daf786661ae4",
+            "clue": "Metro-Goldwyn-Mayer for short",
+            "answer": "mgm",
+            "normalized": "mgm"
           },
           {
-            "id": "33380c82-c17d-4458-b31b-8ee36814c8ce",
-            "clue": "Regular invoices for utilities, phone, services",
-            "answer": "bills",
-            "normalized": "bills"
+            "id": "6cbeefd8-693b-4337-94c8-18c81105a16d",
+            "clue": "Baby angel often found in artwork",
+            "answer": "cherub",
+            "normalized": "cherub"
           },
           {
-            "id": "9bb2882d-83ad-4ca7-8327-e39778a97795",
-            "clue": "Ghosts, spectres, phantoms",
-            "answer": "spooks",
-            "normalized": "spooks"
+            "id": "e451263f-738b-418c-8c88-e0ecac4bf245",
+            "clue": "Krishna's childhood friend from poverty",
+            "answer": "sudama",
+            "normalized": "sudama"
           },
           {
-            "id": "a71f9a87-1228-4771-80d2-077544f6c4ff",
-            "clue": "Sticky-backed yellow note",
-            "answer": "post it",
-            "normalized": "postit"
+            "id": "e283eb70-0cfb-48d1-805c-89d059b6d16d",
+            "clue": "Method for measuring distances with lasers",
+            "answer": "lidar",
+            "normalized": "lidar"
           },
           {
-            "id": "04f2bf51-e100-446f-b016-2e7d0693bbaa",
-            "clue": "Powdery and crumbly",
-            "answer": "mealy",
-            "normalized": "mealy"
+            "id": "2465bb98-0ab3-4929-8e38-82c75580ab81",
+            "clue": "Popular style of Japanese animation",
+            "answer": "anime",
+            "normalized": "anime"
           },
           {
-            "id": "56da108a-0b08-4f22-99c3-a3f18de56ae3",
-            "clue": "Confuse someone's brain",
-            "answer": "addle",
-            "normalized": "addle"
+            "id": "1dbd1d0f-6f6d-4cdd-89a7-f382921b1f14",
+            "clue": "Ankle-length dresses that aren't \"minis\"",
+            "answer": "maxis",
+            "normalized": "maxis"
           }
         ],
-        "track": "PC|LenCinY2026M11D23F0V000"
+        "track": "PC|LenCinY2026M11D24F0V000"
       },
       "mid": {
-        "puzzleId": "02f4ce28-ef83-4520-9d05-7908fde417cf",
+        "puzzleId": "0ec3830c-7151-4ab1-9025-1a3dd101135f",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "0f3851a6-4d76-4222-95d0-da076aa91ad7",
-            "clue": "Explorer of the Antarctic, Robert Falcon",
-            "answer": "scott",
-            "normalized": "scott"
+            "id": "0859534b-a2e5-4624-896a-882c7ef9f96b",
+            "clue": "Short form of Uniform Resource Locators",
+            "answer": "urls",
+            "normalized": "urls"
           },
           {
-            "id": "6271b23c-6c09-44eb-9b53-d4bd53adad1e",
-            "clue": "Voice change, rough, raspy, lower, strained",
-            "answer": "hoarse",
-            "normalized": "hoarse"
+            "id": "7f20b6d7-b4ad-4e14-b001-8c036af77982",
+            "clue": "__ Neeson, actor who starred in Taken",
+            "answer": "liam",
+            "normalized": "liam"
           },
           {
-            "id": "9140db51-ea09-4f3a-a2f3-9130a9590f15",
-            "clue": "More relaxing",
-            "answer": "comfier",
-            "normalized": "comfier"
+            "id": "d346244a-3ce4-420e-9cf7-875bdef63cc7",
+            "clue": "Semolina dish often cooked with veggies",
+            "answer": "upma",
+            "normalized": "upma"
           },
           {
-            "id": "b301a9e3-ec27-4b6d-8c17-edca69e25c59",
-            "clue": "Quick text slang for \"I'm on the phone\"",
-            "answer": "otp",
-            "normalized": "otp"
+            "id": "33917d7a-4c33-489f-a65d-48d2b8e1f939",
+            "clue": "To express disapproval of someone's actions",
+            "answer": "reproach",
+            "normalized": "reproach"
           },
           {
-            "id": "de891f2b-ef23-4b4f-94da-acad6093a3da",
-            "clue": "Magnetic resonance imaging for short",
-            "answer": "mri",
-            "normalized": "mri"
+            "id": "961cd68a-97a9-4235-97e7-9df91ae56adb",
+            "clue": "Not firm or secure",
+            "answer": "unstable",
+            "normalized": "unstable"
           },
           {
-            "id": "d1f9482d-5e33-4051-b444-f722ba5ea274",
-            "clue": "Stand-up event for spontaneous performances",
-            "answer": "open mic",
-            "normalized": "openmic"
+            "id": "873d237c-d7ca-4d65-a036-743634e84d67",
+            "clue": "Rise up high",
+            "answer": "soar",
+            "normalized": "soar"
           },
           {
-            "id": "590fba12-19bf-4014-acab-19260b00b8f5",
-            "clue": "Another name for \"Indian yellow\"",
-            "answer": "purree",
-            "normalized": "purree"
+            "id": "0d7b2d50-04c7-4825-85cd-4461df037441",
+            "clue": "Currency of Spain, France and Italy",
+            "answer": "euro",
+            "normalized": "euro"
           },
           {
-            "id": "a1028756-5600-4f39-a807-cea6ba73410a",
-            "clue": "Looks after plants",
-            "answer": "tends",
-            "normalized": "tends"
+            "id": "4b2f7937-fd5e-4c87-a834-ef6ceaabcc31",
+            "clue": "Song by Eminem featuring Dido",
+            "answer": "stan",
+            "normalized": "stan"
           },
           {
-            "id": "1278d0c2-6b0c-4840-9dbd-a0006a4587ea",
-            "clue": "Athletic heavy-throwing event",
-            "answer": "shot put",
-            "normalized": "shotput"
+            "id": "4d2877ab-375c-40ff-8974-9700c0c309eb",
+            "clue": "Once more commonly known as Ayers Rock",
+            "answer": "uluru",
+            "normalized": "uluru"
           },
           {
-            "id": "3cf222e6-b4b8-4678-ac20-f46f648885de",
-            "clue": "French word for a host or entertainer",
-            "answer": "compere",
-            "normalized": "compere"
+            "id": "d68fc9e7-7283-4744-8087-539b62fefba1",
+            "clue": "Become ready to eat, come into season",
+            "answer": "ripen",
+            "normalized": "ripen"
           },
           {
-            "id": "382b2dff-9e25-4cd1-a2f8-f179fc25ba4a",
-            "clue": "Clumsy brute",
-            "answer": "oaf",
-            "normalized": "oaf"
+            "id": "3777d93c-c125-4837-808f-9460bef8c19c",
+            "clue": "These light up a room",
+            "answer": "lamps",
+            "normalized": "lamps"
           },
           {
-            "id": "2a406056-dd40-4935-ac8c-921df26a7d2c",
-            "clue": "Hair was cut a little bit",
-            "answer": "trimmed",
-            "normalized": "trimmed"
+            "id": "55239571-43f9-4042-81e5-6f8250cd1aaa",
+            "clue": "Synonym of brilliant, clever",
+            "answer": "smart",
+            "normalized": "smart"
           },
           {
-            "id": "78dcbc3e-21b4-4181-916e-ac8a2a3f099a",
-            "clue": "Music label Anuradha Paudwal is associated with",
-            "answer": "t-series",
-            "normalized": "tseries"
+            "id": "78589fb6-2e6a-4f4c-9f35-fb78fb8034c1",
+            "clue": "Lush spots in the desert",
+            "answer": "oases",
+            "normalized": "oases"
           },
           {
-            "id": "3151e641-50f3-45b5-bf55-1679eff52079",
-            "clue": "First name of musician Clapton and actor Bana",
-            "answer": "eric",
-            "normalized": "eric"
+            "id": "cad80ae0-e88b-48aa-a027-61f088673746",
+            "clue": "Concerning, regarding",
+            "answer": "about",
+            "normalized": "about"
           },
           {
-            "id": "7ddd8c55-ee30-4ead-a25e-ab4d0df8c056",
-            "clue": "Chicken house",
-            "answer": "coop",
-            "normalized": "coop"
+            "id": "8d49bd57-51b7-489a-bd8d-1284fcb850dd",
+            "clue": "David Copperfield's mother in Dickens' novel",
+            "answer": "clara",
+            "normalized": "clara"
           },
           {
-            "id": "3fe7258a-fbc6-4f42-a3fc-8654de3f83f1",
-            "clue": "Typed at end of an SMS to indicate no reply needed",
-            "answer": "nrn",
-            "normalized": "nrn"
+            "id": "9950c202-b471-4f64-8f64-1b02a7ba3308",
+            "clue": "Long-legged freshwater bird, similar to an egret",
+            "answer": "heron",
+            "normalized": "heron"
           }
         ],
-        "track": "PC|LenCinY2026M11D23F1V000"
+        "track": "PC|LenCinY2026M11D24F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-23",
+      "key": "2026-11-24",
       "year": 2026,
       "month": 11,
-      "day": 23,
+      "day": 24,
       "small": {
-        "puzzleId": "d348bfc6-ae2e-43da-85d5-e5b19958211e",
+        "puzzleId": "cd58c1ec-dde0-42dd-8287-79be14468606",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "8e93ff4d-b9e3-422f-bda2-1b2a2c540e8d",
-            "clue": "Tablespoon abbreviation",
-            "answer": "tbsp",
-            "normalized": "tbsp"
+            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
+            "clue": "Masters of ceremonies, in short",
+            "answer": "mcs",
+            "normalized": "mcs"
           },
           {
-            "id": "6b22808f-e324-4b0f-ae8e-dd3b52e3eb56",
-            "clue": "Fatty harmless tissue that grows under the skin",
-            "answer": "lipoma",
-            "normalized": "lipoma"
+            "id": "bf26c8c3-1600-4e87-8f7d-ff1dbec6b772",
+            "clue": "The 'servant' in a Guru Dutt classic",
+            "answer": "ghulam",
+            "normalized": "ghulam"
           },
           {
-            "id": "978c3f96-11d3-4dcd-a3fb-5fe962e3f740",
-            "clue": "CCTV stands for __ circuit television",
-            "answer": "closed",
-            "normalized": "closed"
+            "id": "de9e1099-5700-46ca-ab4a-f58d9964df50",
+            "clue": "Second holiest Muslim city, after Mecca",
+            "answer": "medina",
+            "normalized": "medina"
           },
           {
-            "id": "c360987c-e05f-4fa6-97f3-868ccace10c6",
-            "clue": "Pokémon that evolves into Lombre",
-            "answer": "lotad",
-            "normalized": "lotad"
+            "id": "3652181b-65fe-493c-8743-f087159c66d6",
+            "clue": "The main source; number in the base of a system",
+            "answer": "radix",
+            "normalized": "radix"
           },
           {
-            "id": "6007f603-82e1-4f35-8ac8-a0bfbf2f3a4a",
-            "clue": "Playing with a spinning top requires a lot of this",
-            "answer": "skill",
-            "normalized": "skill"
+            "id": "7f17baea-8cf1-4ee5-aedf-5beda9cd06d6",
+            "clue": "The fifth taste, a mix of the others",
+            "answer": "umami",
+            "normalized": "umami"
           },
           {
-            "id": "38999376-082a-4c63-a15d-d2f5bd965de2",
-            "clue": "Painful inflammation of the eyelid gland",
-            "answer": "stye",
-            "normalized": "stye"
+            "id": "4dd39686-57af-4fcd-8ed9-680761ea578e",
+            "clue": "Shows one's teeth in a threatening manner",
+            "answer": "bares",
+            "normalized": "bares"
           },
           {
-            "id": "f7acb5d9-5058-43e0-b30d-725c15367398",
-            "clue": "Abbreviation for tender loving care",
-            "answer": "tlc",
-            "normalized": "tlc"
+            "id": "5ac054c9-dcd8-432a-9ff8-daf786661ae4",
+            "clue": "Metro-Goldwyn-Mayer for short",
+            "answer": "mgm",
+            "normalized": "mgm"
           },
           {
-            "id": "33380c82-c17d-4458-b31b-8ee36814c8ce",
-            "clue": "Regular invoices for utilities, phone, services",
-            "answer": "bills",
-            "normalized": "bills"
+            "id": "6cbeefd8-693b-4337-94c8-18c81105a16d",
+            "clue": "Baby angel often found in artwork",
+            "answer": "cherub",
+            "normalized": "cherub"
           },
           {
-            "id": "9bb2882d-83ad-4ca7-8327-e39778a97795",
-            "clue": "Ghosts, spectres, phantoms",
-            "answer": "spooks",
-            "normalized": "spooks"
+            "id": "e451263f-738b-418c-8c88-e0ecac4bf245",
+            "clue": "Krishna's childhood friend from poverty",
+            "answer": "sudama",
+            "normalized": "sudama"
           },
           {
-            "id": "a71f9a87-1228-4771-80d2-077544f6c4ff",
-            "clue": "Sticky-backed yellow note",
-            "answer": "post it",
-            "normalized": "postit"
+            "id": "e283eb70-0cfb-48d1-805c-89d059b6d16d",
+            "clue": "Method for measuring distances with lasers",
+            "answer": "lidar",
+            "normalized": "lidar"
           },
           {
-            "id": "04f2bf51-e100-446f-b016-2e7d0693bbaa",
-            "clue": "Powdery and crumbly",
-            "answer": "mealy",
-            "normalized": "mealy"
+            "id": "2465bb98-0ab3-4929-8e38-82c75580ab81",
+            "clue": "Popular style of Japanese animation",
+            "answer": "anime",
+            "normalized": "anime"
           },
           {
-            "id": "56da108a-0b08-4f22-99c3-a3f18de56ae3",
-            "clue": "Confuse someone's brain",
-            "answer": "addle",
-            "normalized": "addle"
+            "id": "1dbd1d0f-6f6d-4cdd-89a7-f382921b1f14",
+            "clue": "Ankle-length dresses that aren't \"minis\"",
+            "answer": "maxis",
+            "normalized": "maxis"
           }
         ],
-        "track": "PC|LenCinY2026M11D23F0V000"
+        "track": "PC|LenCinY2026M11D24F0V000"
       },
       "mid": {
-        "puzzleId": "02f4ce28-ef83-4520-9d05-7908fde417cf",
+        "puzzleId": "0ec3830c-7151-4ab1-9025-1a3dd101135f",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "0f3851a6-4d76-4222-95d0-da076aa91ad7",
-            "clue": "Explorer of the Antarctic, Robert Falcon",
-            "answer": "scott",
-            "normalized": "scott"
+            "id": "0859534b-a2e5-4624-896a-882c7ef9f96b",
+            "clue": "Short form of Uniform Resource Locators",
+            "answer": "urls",
+            "normalized": "urls"
           },
           {
-            "id": "6271b23c-6c09-44eb-9b53-d4bd53adad1e",
-            "clue": "Voice change, rough, raspy, lower, strained",
-            "answer": "hoarse",
-            "normalized": "hoarse"
+            "id": "7f20b6d7-b4ad-4e14-b001-8c036af77982",
+            "clue": "__ Neeson, actor who starred in Taken",
+            "answer": "liam",
+            "normalized": "liam"
           },
           {
-            "id": "9140db51-ea09-4f3a-a2f3-9130a9590f15",
-            "clue": "More relaxing",
-            "answer": "comfier",
-            "normalized": "comfier"
+            "id": "d346244a-3ce4-420e-9cf7-875bdef63cc7",
+            "clue": "Semolina dish often cooked with veggies",
+            "answer": "upma",
+            "normalized": "upma"
           },
           {
-            "id": "b301a9e3-ec27-4b6d-8c17-edca69e25c59",
-            "clue": "Quick text slang for \"I'm on the phone\"",
-            "answer": "otp",
-            "normalized": "otp"
+            "id": "33917d7a-4c33-489f-a65d-48d2b8e1f939",
+            "clue": "To express disapproval of someone's actions",
+            "answer": "reproach",
+            "normalized": "reproach"
           },
           {
-            "id": "de891f2b-ef23-4b4f-94da-acad6093a3da",
-            "clue": "Magnetic resonance imaging for short",
-            "answer": "mri",
-            "normalized": "mri"
+            "id": "961cd68a-97a9-4235-97e7-9df91ae56adb",
+            "clue": "Not firm or secure",
+            "answer": "unstable",
+            "normalized": "unstable"
           },
           {
-            "id": "d1f9482d-5e33-4051-b444-f722ba5ea274",
-            "clue": "Stand-up event for spontaneous performances",
-            "answer": "open mic",
-            "normalized": "openmic"
+            "id": "873d237c-d7ca-4d65-a036-743634e84d67",
+            "clue": "Rise up high",
+            "answer": "soar",
+            "normalized": "soar"
           },
           {
-            "id": "590fba12-19bf-4014-acab-19260b00b8f5",
-            "clue": "Another name for \"Indian yellow\"",
-            "answer": "purree",
-            "normalized": "purree"
+            "id": "0d7b2d50-04c7-4825-85cd-4461df037441",
+            "clue": "Currency of Spain, France and Italy",
+            "answer": "euro",
+            "normalized": "euro"
           },
           {
-            "id": "a1028756-5600-4f39-a807-cea6ba73410a",
-            "clue": "Looks after plants",
-            "answer": "tends",
-            "normalized": "tends"
+            "id": "4b2f7937-fd5e-4c87-a834-ef6ceaabcc31",
+            "clue": "Song by Eminem featuring Dido",
+            "answer": "stan",
+            "normalized": "stan"
           },
           {
-            "id": "1278d0c2-6b0c-4840-9dbd-a0006a4587ea",
-            "clue": "Athletic heavy-throwing event",
-            "answer": "shot put",
-            "normalized": "shotput"
+            "id": "4d2877ab-375c-40ff-8974-9700c0c309eb",
+            "clue": "Once more commonly known as Ayers Rock",
+            "answer": "uluru",
+            "normalized": "uluru"
           },
           {
-            "id": "3cf222e6-b4b8-4678-ac20-f46f648885de",
-            "clue": "French word for a host or entertainer",
-            "answer": "compere",
-            "normalized": "compere"
+            "id": "d68fc9e7-7283-4744-8087-539b62fefba1",
+            "clue": "Become ready to eat, come into season",
+            "answer": "ripen",
+            "normalized": "ripen"
           },
           {
-            "id": "382b2dff-9e25-4cd1-a2f8-f179fc25ba4a",
-            "clue": "Clumsy brute",
-            "answer": "oaf",
-            "normalized": "oaf"
+            "id": "3777d93c-c125-4837-808f-9460bef8c19c",
+            "clue": "These light up a room",
+            "answer": "lamps",
+            "normalized": "lamps"
           },
           {
-            "id": "2a406056-dd40-4935-ac8c-921df26a7d2c",
-            "clue": "Hair was cut a little bit",
-            "answer": "trimmed",
-            "normalized": "trimmed"
+            "id": "55239571-43f9-4042-81e5-6f8250cd1aaa",
+            "clue": "Synonym of brilliant, clever",
+            "answer": "smart",
+            "normalized": "smart"
           },
           {
-            "id": "78dcbc3e-21b4-4181-916e-ac8a2a3f099a",
-            "clue": "Music label Anuradha Paudwal is associated with",
-            "answer": "t-series",
-            "normalized": "tseries"
+            "id": "78589fb6-2e6a-4f4c-9f35-fb78fb8034c1",
+            "clue": "Lush spots in the desert",
+            "answer": "oases",
+            "normalized": "oases"
           },
           {
-            "id": "3151e641-50f3-45b5-bf55-1679eff52079",
-            "clue": "First name of musician Clapton and actor Bana",
-            "answer": "eric",
-            "normalized": "eric"
+            "id": "cad80ae0-e88b-48aa-a027-61f088673746",
+            "clue": "Concerning, regarding",
+            "answer": "about",
+            "normalized": "about"
           },
           {
-            "id": "7ddd8c55-ee30-4ead-a25e-ab4d0df8c056",
-            "clue": "Chicken house",
-            "answer": "coop",
-            "normalized": "coop"
+            "id": "8d49bd57-51b7-489a-bd8d-1284fcb850dd",
+            "clue": "David Copperfield's mother in Dickens' novel",
+            "answer": "clara",
+            "normalized": "clara"
           },
           {
-            "id": "3fe7258a-fbc6-4f42-a3fc-8654de3f83f1",
-            "clue": "Typed at end of an SMS to indicate no reply needed",
-            "answer": "nrn",
-            "normalized": "nrn"
+            "id": "9950c202-b471-4f64-8f64-1b02a7ba3308",
+            "clue": "Long-legged freshwater bird, similar to an egret",
+            "answer": "heron",
+            "normalized": "heron"
           }
         ],
-        "track": "PC|LenCinY2026M11D23F1V000"
+        "track": "PC|LenCinY2026M11D24F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388697,21 +388697,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "cciotYzwLbfDunjSM+W5Sgjsiotb2f98nDVPSKWBRhCEqF1xNNxa20UZvJX586l9ajw5j1GEC81OUZK4vyPS81radf9UWwWevuPlbfJ43CS3hysegaV4mTJwsmyRz+xNWyWMtBJH/w+ZAEpM+W5ry1MTK9mGW6Y5IPpwy9LnlGT4w1wEIBBDD5HZtc3VWJ8iVizC1NkZ+ghWIfe0BBuHn7Js60IhoKFUGNgyC1030O17PqjZud0lCcdD0u140IrRRcuCj8X2nqtd6WFoMydTIgFcl5aIsqet3X4v0EsyoGk="
+        "JVnVYuHIo7DWZHR1fKOTnuxMRHIepBDWbpQhFWcF8yBj55zFF0pwAk8zAdQFlSfTiRnXla0JR3HFoaKVJAR1wIf5+0EkepLIFk7vH2rUg4ixWFGjeNJMpkooGvtAL53+RLG+qe80+qHfAyrA7XIVrJV8BmAYJxfdS/cseUZMX9OTm3OjEpmSbHA20rYcpsYuKotIDzv35DYpM6pQtG88xBEBu3PYh/EXmfLIIVzhUZ9WclWY4eMlNwHFC3zDLIRd84IxNapeE7oR8416IZIWyYcGzbxFMFuawq9+jH5jQsc="
       ]
     },
     "decrypted": {
-      "Id": "f12f7355-8c69-4715-a904-c19d91f750b8",
-      "Date": "2026-11-23T00:00:00Z",
+      "Id": "fd163dcd-d8f5-4b80-809e-9f01b25d9931",
+      "Date": "2026-11-24T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "timer",
-      "NormalizedPassword": "timer",
+      "Password": "lucky",
+      "NormalizedPassword": "lucky",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-23T05:11:43.3010000+05:30",
-    "hash": "8f582d8a6d195f5931971e62e5fbd706",
+    "dtu": "2026-11-24T09:29:51.9650000+05:30",
+    "hash": "3d6f39f24dcccb140fd122a5991553cb",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
