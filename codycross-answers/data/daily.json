@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T03:59:51.965Z",
+  "generatedAt": "2026-11-25T02:39:52.895Z",
   "today": {
     "year": 2026,
     "month": 11,
-    "day": 24
+    "day": 25
   },
   "crossword": {
     "archive": [
@@ -11,7 +11,7 @@
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
         "Year": 2026,
         "Month": 11,
-        "QuantidadeDeFases": 46
+        "QuantidadeDeFases": 48
       },
       {
         "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
@@ -17855,7 +17855,7 @@
             },
             {
               "id": "193f8c1d-9ffd-496b-8551-bf321772f2ba",
-              "clue": "Electrons orbit the nucleus in these",
+              "clue": "Electron-containing layers surrounding the nucleus",
               "answer": "shells",
               "normalized": "shells"
             },
@@ -260751,7 +260751,7 @@
             },
             {
               "id": "6137679e-6b97-4e0d-891a-a4da9d3b0239",
-              "clue": "__ Otis; invented a safe, steam-powered elevator",
+              "clue": "__ Otis, invented a safe, steam-powered elevator",
               "answer": "elisha",
               "normalized": "elisha"
             },
@@ -388125,391 +388125,379 @@
       }
     ],
     "todayEntry": {
-      "key": "2026-11-24",
+      "key": "2026-11-25",
       "year": 2026,
       "month": 11,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "cd58c1ec-dde0-42dd-8287-79be14468606",
+        "puzzleId": "58c60284-8d3f-4927-aa1e-a47bf132d766",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
-            "clue": "Masters of ceremonies, in short",
-            "answer": "mcs",
-            "normalized": "mcs"
+            "id": "d4c38170-dc32-47a6-831a-a04ab6ed34a6",
+            "clue": "Khan, Mongol ruler and founder of Golden Horde",
+            "answer": "batu",
+            "normalized": "batu"
           },
           {
-            "id": "bf26c8c3-1600-4e87-8f7d-ff1dbec6b772",
-            "clue": "The 'servant' in a Guru Dutt classic",
-            "answer": "ghulam",
-            "normalized": "ghulam"
+            "id": "3c23eb43-1896-4d9d-b35b-6d24ea04f0b6",
+            "clue": "Prickly ball on a plant",
+            "answer": "burr",
+            "normalized": "burr"
           },
           {
-            "id": "de9e1099-5700-46ca-ab4a-f58d9964df50",
-            "clue": "Second holiest Muslim city, after Mecca",
-            "answer": "medina",
-            "normalized": "medina"
+            "id": "32d39fe3-ac0e-4a02-880f-6dd13879efd7",
+            "clue": "__ Cranston acted in Trumbo and Argo",
+            "answer": "bryan",
+            "normalized": "bryan"
           },
           {
-            "id": "3652181b-65fe-493c-8743-f087159c66d6",
-            "clue": "The main source; number in the base of a system",
-            "answer": "radix",
-            "normalized": "radix"
+            "id": "6a529f3d-5131-4e10-b818-86ba8f5281ae",
+            "clue": "American code system for text in a computer",
+            "answer": "ascii",
+            "normalized": "ascii"
           },
           {
-            "id": "7f17baea-8cf1-4ee5-aedf-5beda9cd06d6",
-            "clue": "The fifth taste, a mix of the others",
-            "answer": "umami",
-            "normalized": "umami"
+            "id": "e3413498-f5be-40bc-81ef-ed806c52c55b",
+            "clue": "What you do to make a vehicle's windows darker",
+            "answer": "tint",
+            "normalized": "tint"
           },
           {
-            "id": "4dd39686-57af-4fcd-8ed9-680761ea578e",
-            "clue": "Shows one's teeth in a threatening manner",
-            "answer": "bares",
-            "normalized": "bares"
+            "id": "e1883bd5-8efe-416f-ad1d-986f63ccaf7b",
+            "clue": "Singular strip on a blind",
+            "answer": "slat",
+            "normalized": "slat"
           },
           {
-            "id": "5ac054c9-dcd8-432a-9ff8-daf786661ae4",
-            "clue": "Metro-Goldwyn-Mayer for short",
-            "answer": "mgm",
-            "normalized": "mgm"
+            "id": "f297716b-ea62-4f92-b09e-714c223f0ae3",
+            "clue": "Acronym for the Better Business Bureau",
+            "answer": "bbb",
+            "normalized": "bbb"
           },
           {
-            "id": "6cbeefd8-693b-4337-94c8-18c81105a16d",
-            "clue": "Baby angel often found in artwork",
-            "answer": "cherub",
-            "normalized": "cherub"
+            "id": "aec60475-7bff-4752-8bd5-11756920bb7b",
+            "clue": "Human energy field",
+            "answer": "aura",
+            "normalized": "aura"
           },
           {
-            "id": "e451263f-738b-418c-8c88-e0ecac4bf245",
-            "clue": "Krishna's childhood friend from poverty",
-            "answer": "sudama",
-            "normalized": "sudama"
+            "id": "44b9fa3f-c729-4e04-96af-cf1184370ee1",
+            "clue": "Assignations or rendezvous, especially in secret",
+            "answer": "trysts",
+            "normalized": "trysts"
           },
           {
-            "id": "e283eb70-0cfb-48d1-805c-89d059b6d16d",
-            "clue": "Method for measuring distances with lasers",
-            "answer": "lidar",
-            "normalized": "lidar"
+            "id": "43b95e26-a179-4131-9a8f-4d878dd165c5",
+            "clue": "The RNA nucleobase replaced by thymine in DNA",
+            "answer": "uracil",
+            "normalized": "uracil"
           },
           {
-            "id": "2465bb98-0ab3-4929-8e38-82c75580ab81",
-            "clue": "Popular style of Japanese animation",
-            "answer": "anime",
-            "normalized": "anime"
+            "id": "619318b1-def7-49db-8e84-d94a8fae9df9",
+            "clue": "Singer Simone of To Be Young, Gifted and Black",
+            "answer": "nina",
+            "normalized": "nina"
           },
           {
-            "id": "1dbd1d0f-6f6d-4cdd-89a7-f382921b1f14",
-            "clue": "Ankle-length dresses that aren't \"minis\"",
-            "answer": "maxis",
-            "normalized": "maxis"
+            "id": "899bbed0-01b5-4e27-a9c7-e59f55113fae",
+            "clue": "Hirsute Addams family cousin",
+            "answer": "itt",
+            "normalized": "itt"
           }
         ],
-        "track": "PC|LenCinY2026M11D24F0V000"
+        "track": "PC|LenCinY2026M11D25F0V000"
       },
       "mid": {
-        "puzzleId": "0ec3830c-7151-4ab1-9025-1a3dd101135f",
+        "puzzleId": "030f50b8-ffec-4123-98cc-301e13d66564",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "0859534b-a2e5-4624-896a-882c7ef9f96b",
-            "clue": "Short form of Uniform Resource Locators",
-            "answer": "urls",
-            "normalized": "urls"
+            "id": "631a472f-aabf-4ecc-8ccc-20b8b00a91a5",
+            "clue": "Standard time zone in the middle of North America",
+            "answer": "cst",
+            "normalized": "cst"
           },
           {
-            "id": "7f20b6d7-b4ad-4e14-b001-8c036af77982",
-            "clue": "__ Neeson, actor who starred in Taken",
-            "answer": "liam",
-            "normalized": "liam"
+            "id": "df50faad-4dbb-4d67-80f8-0792c9a741cc",
+            "clue": "Past tense of to eat",
+            "answer": "ate",
+            "normalized": "ate"
           },
           {
-            "id": "d346244a-3ce4-420e-9cf7-875bdef63cc7",
-            "clue": "Semolina dish often cooked with veggies",
-            "answer": "upma",
-            "normalized": "upma"
+            "id": "763f2981-dd37-4c3a-a1d0-9d1b1e0d2ea8",
+            "clue": "Made a goal",
+            "answer": "scored",
+            "normalized": "scored"
           },
           {
-            "id": "33917d7a-4c33-489f-a65d-48d2b8e1f939",
-            "clue": "To express disapproval of someone's actions",
-            "answer": "reproach",
-            "normalized": "reproach"
+            "id": "7eada2a3-eedc-472e-adf0-f61609a6be8f",
+            "clue": "Off with __, repeated order of the Queen of Hearts",
+            "answer": "her head",
+            "normalized": "herhead"
           },
           {
-            "id": "961cd68a-97a9-4235-97e7-9df91ae56adb",
-            "clue": "Not firm or secure",
-            "answer": "unstable",
-            "normalized": "unstable"
+            "id": "279af9a7-1cb6-425f-93c6-539fd3846888",
+            "clue": "Stupidly, worthlessly",
+            "answer": "inanely",
+            "normalized": "inanely"
           },
           {
-            "id": "873d237c-d7ca-4d65-a036-743634e84d67",
-            "clue": "Rise up high",
-            "answer": "soar",
-            "normalized": "soar"
+            "id": "a1ac5708-6228-47d8-aa6f-b26a9c0b42de",
+            "clue": "Rotating part of an engine's distributor, plural",
+            "answer": "rotors",
+            "normalized": "rotors"
           },
           {
-            "id": "0d7b2d50-04c7-4825-85cd-4461df037441",
-            "clue": "Currency of Spain, France and Italy",
-            "answer": "euro",
-            "normalized": "euro"
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
           },
           {
-            "id": "4b2f7937-fd5e-4c87-a834-ef6ceaabcc31",
-            "clue": "Song by Eminem featuring Dido",
-            "answer": "stan",
-            "normalized": "stan"
+            "id": "1c58d00c-8ea8-49a3-95df-3d8d4f199075",
+            "clue": "Down in the dumps",
+            "answer": "sad",
+            "normalized": "sad"
           },
           {
-            "id": "4d2877ab-375c-40ff-8974-9700c0c309eb",
-            "clue": "Once more commonly known as Ayers Rock",
-            "answer": "uluru",
-            "normalized": "uluru"
+            "id": "dd1337f5-c9bc-4365-8263-4fb60b68e4ce",
+            "clue": "Another word for occupation or profession",
+            "answer": "career",
+            "normalized": "career"
           },
           {
-            "id": "d68fc9e7-7283-4744-8087-539b62fefba1",
-            "clue": "Become ready to eat, come into season",
-            "answer": "ripen",
-            "normalized": "ripen"
+            "id": "acac0df9-0618-4e40-9bd9-3944df183dd8",
+            "clue": "Takes illegally",
+            "answer": "steals",
+            "normalized": "steals"
           },
           {
-            "id": "3777d93c-c125-4837-808f-9460bef8c19c",
-            "clue": "These light up a room",
-            "answer": "lamps",
-            "normalized": "lamps"
+            "id": "f5b88c90-009d-4eb7-be0b-f469ea0fb118",
+            "clue": "A child's soft toy bear",
+            "answer": "teddy",
+            "normalized": "teddy"
           },
           {
-            "id": "55239571-43f9-4042-81e5-6f8250cd1aaa",
-            "clue": "Synonym of brilliant, clever",
-            "answer": "smart",
-            "normalized": "smart"
+            "id": "06298c93-509a-49aa-9942-4a199285c537",
+            "clue": "Mrs. or madam in Spanish",
+            "answer": "senora",
+            "normalized": "senora"
           },
           {
-            "id": "78589fb6-2e6a-4f4c-9f35-fb78fb8034c1",
-            "clue": "Lush spots in the desert",
-            "answer": "oases",
-            "normalized": "oases"
+            "id": "a68a8179-8b17-4cf8-8656-031f3bc2894e",
+            "clue": "Boxed up for shipping",
+            "answer": "crated",
+            "normalized": "crated"
           },
           {
-            "id": "cad80ae0-e88b-48aa-a027-61f088673746",
-            "clue": "Concerning, regarding",
-            "answer": "about",
-            "normalized": "about"
+            "id": "ed3899d3-234c-4b48-a450-037cb6e5c73d",
+            "clue": "Two words to express regret at something",
+            "answer": "oh no",
+            "normalized": "ohno"
           },
           {
-            "id": "8d49bd57-51b7-489a-bd8d-1284fcb850dd",
-            "clue": "David Copperfield's mother in Dickens' novel",
-            "answer": "clara",
-            "normalized": "clara"
-          },
-          {
-            "id": "9950c202-b471-4f64-8f64-1b02a7ba3308",
-            "clue": "Long-legged freshwater bird, similar to an egret",
-            "answer": "heron",
-            "normalized": "heron"
+            "id": "2e6c7fe6-8ed5-4a3c-b525-c6af37e46b10",
+            "clue": "Selects for a job",
+            "answer": "hires",
+            "normalized": "hires"
           }
         ],
-        "track": "PC|LenCinY2026M11D24F1V000"
+        "track": "PC|LenCinY2026M11D25F1V000"
       }
     },
     "browsingEntry": {
-      "key": "2026-11-24",
+      "key": "2026-11-25",
       "year": 2026,
       "month": 11,
-      "day": 24,
+      "day": 25,
       "small": {
-        "puzzleId": "cd58c1ec-dde0-42dd-8287-79be14468606",
+        "puzzleId": "58c60284-8d3f-4927-aa1e-a47bf132d766",
         "fase": 0,
         "size": 1,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "ccb36487-f88a-4507-8714-dc31c0f95802",
-            "clue": "Masters of ceremonies, in short",
-            "answer": "mcs",
-            "normalized": "mcs"
+            "id": "d4c38170-dc32-47a6-831a-a04ab6ed34a6",
+            "clue": "Khan, Mongol ruler and founder of Golden Horde",
+            "answer": "batu",
+            "normalized": "batu"
           },
           {
-            "id": "bf26c8c3-1600-4e87-8f7d-ff1dbec6b772",
-            "clue": "The 'servant' in a Guru Dutt classic",
-            "answer": "ghulam",
-            "normalized": "ghulam"
+            "id": "3c23eb43-1896-4d9d-b35b-6d24ea04f0b6",
+            "clue": "Prickly ball on a plant",
+            "answer": "burr",
+            "normalized": "burr"
           },
           {
-            "id": "de9e1099-5700-46ca-ab4a-f58d9964df50",
-            "clue": "Second holiest Muslim city, after Mecca",
-            "answer": "medina",
-            "normalized": "medina"
+            "id": "32d39fe3-ac0e-4a02-880f-6dd13879efd7",
+            "clue": "__ Cranston acted in Trumbo and Argo",
+            "answer": "bryan",
+            "normalized": "bryan"
           },
           {
-            "id": "3652181b-65fe-493c-8743-f087159c66d6",
-            "clue": "The main source; number in the base of a system",
-            "answer": "radix",
-            "normalized": "radix"
+            "id": "6a529f3d-5131-4e10-b818-86ba8f5281ae",
+            "clue": "American code system for text in a computer",
+            "answer": "ascii",
+            "normalized": "ascii"
           },
           {
-            "id": "7f17baea-8cf1-4ee5-aedf-5beda9cd06d6",
-            "clue": "The fifth taste, a mix of the others",
-            "answer": "umami",
-            "normalized": "umami"
+            "id": "e3413498-f5be-40bc-81ef-ed806c52c55b",
+            "clue": "What you do to make a vehicle's windows darker",
+            "answer": "tint",
+            "normalized": "tint"
           },
           {
-            "id": "4dd39686-57af-4fcd-8ed9-680761ea578e",
-            "clue": "Shows one's teeth in a threatening manner",
-            "answer": "bares",
-            "normalized": "bares"
+            "id": "e1883bd5-8efe-416f-ad1d-986f63ccaf7b",
+            "clue": "Singular strip on a blind",
+            "answer": "slat",
+            "normalized": "slat"
           },
           {
-            "id": "5ac054c9-dcd8-432a-9ff8-daf786661ae4",
-            "clue": "Metro-Goldwyn-Mayer for short",
-            "answer": "mgm",
-            "normalized": "mgm"
+            "id": "f297716b-ea62-4f92-b09e-714c223f0ae3",
+            "clue": "Acronym for the Better Business Bureau",
+            "answer": "bbb",
+            "normalized": "bbb"
           },
           {
-            "id": "6cbeefd8-693b-4337-94c8-18c81105a16d",
-            "clue": "Baby angel often found in artwork",
-            "answer": "cherub",
-            "normalized": "cherub"
+            "id": "aec60475-7bff-4752-8bd5-11756920bb7b",
+            "clue": "Human energy field",
+            "answer": "aura",
+            "normalized": "aura"
           },
           {
-            "id": "e451263f-738b-418c-8c88-e0ecac4bf245",
-            "clue": "Krishna's childhood friend from poverty",
-            "answer": "sudama",
-            "normalized": "sudama"
+            "id": "44b9fa3f-c729-4e04-96af-cf1184370ee1",
+            "clue": "Assignations or rendezvous, especially in secret",
+            "answer": "trysts",
+            "normalized": "trysts"
           },
           {
-            "id": "e283eb70-0cfb-48d1-805c-89d059b6d16d",
-            "clue": "Method for measuring distances with lasers",
-            "answer": "lidar",
-            "normalized": "lidar"
+            "id": "43b95e26-a179-4131-9a8f-4d878dd165c5",
+            "clue": "The RNA nucleobase replaced by thymine in DNA",
+            "answer": "uracil",
+            "normalized": "uracil"
           },
           {
-            "id": "2465bb98-0ab3-4929-8e38-82c75580ab81",
-            "clue": "Popular style of Japanese animation",
-            "answer": "anime",
-            "normalized": "anime"
+            "id": "619318b1-def7-49db-8e84-d94a8fae9df9",
+            "clue": "Singer Simone of To Be Young, Gifted and Black",
+            "answer": "nina",
+            "normalized": "nina"
           },
           {
-            "id": "1dbd1d0f-6f6d-4cdd-89a7-f382921b1f14",
-            "clue": "Ankle-length dresses that aren't \"minis\"",
-            "answer": "maxis",
-            "normalized": "maxis"
+            "id": "899bbed0-01b5-4e27-a9c7-e59f55113fae",
+            "clue": "Hirsute Addams family cousin",
+            "answer": "itt",
+            "normalized": "itt"
           }
         ],
-        "track": "PC|LenCinY2026M11D24F0V000"
+        "track": "PC|LenCinY2026M11D25F0V000"
       },
       "mid": {
-        "puzzleId": "0ec3830c-7151-4ab1-9025-1a3dd101135f",
+        "puzzleId": "030f50b8-ffec-4123-98cc-301e13d66564",
         "fase": 1,
         "size": 2,
         "status": 1,
         "version": 0,
         "answers": [
           {
-            "id": "0859534b-a2e5-4624-896a-882c7ef9f96b",
-            "clue": "Short form of Uniform Resource Locators",
-            "answer": "urls",
-            "normalized": "urls"
+            "id": "631a472f-aabf-4ecc-8ccc-20b8b00a91a5",
+            "clue": "Standard time zone in the middle of North America",
+            "answer": "cst",
+            "normalized": "cst"
           },
           {
-            "id": "7f20b6d7-b4ad-4e14-b001-8c036af77982",
-            "clue": "__ Neeson, actor who starred in Taken",
-            "answer": "liam",
-            "normalized": "liam"
+            "id": "df50faad-4dbb-4d67-80f8-0792c9a741cc",
+            "clue": "Past tense of to eat",
+            "answer": "ate",
+            "normalized": "ate"
           },
           {
-            "id": "d346244a-3ce4-420e-9cf7-875bdef63cc7",
-            "clue": "Semolina dish often cooked with veggies",
-            "answer": "upma",
-            "normalized": "upma"
+            "id": "763f2981-dd37-4c3a-a1d0-9d1b1e0d2ea8",
+            "clue": "Made a goal",
+            "answer": "scored",
+            "normalized": "scored"
           },
           {
-            "id": "33917d7a-4c33-489f-a65d-48d2b8e1f939",
-            "clue": "To express disapproval of someone's actions",
-            "answer": "reproach",
-            "normalized": "reproach"
+            "id": "7eada2a3-eedc-472e-adf0-f61609a6be8f",
+            "clue": "Off with __, repeated order of the Queen of Hearts",
+            "answer": "her head",
+            "normalized": "herhead"
           },
           {
-            "id": "961cd68a-97a9-4235-97e7-9df91ae56adb",
-            "clue": "Not firm or secure",
-            "answer": "unstable",
-            "normalized": "unstable"
+            "id": "279af9a7-1cb6-425f-93c6-539fd3846888",
+            "clue": "Stupidly, worthlessly",
+            "answer": "inanely",
+            "normalized": "inanely"
           },
           {
-            "id": "873d237c-d7ca-4d65-a036-743634e84d67",
-            "clue": "Rise up high",
-            "answer": "soar",
-            "normalized": "soar"
+            "id": "a1ac5708-6228-47d8-aa6f-b26a9c0b42de",
+            "clue": "Rotating part of an engine's distributor, plural",
+            "answer": "rotors",
+            "normalized": "rotors"
           },
           {
-            "id": "0d7b2d50-04c7-4825-85cd-4461df037441",
-            "clue": "Currency of Spain, France and Italy",
-            "answer": "euro",
-            "normalized": "euro"
+            "id": "daee7f7e-7dcd-4b40-a0b1-53f8d62a71e3",
+            "clue": "Before, poetically",
+            "answer": "ere",
+            "normalized": "ere"
           },
           {
-            "id": "4b2f7937-fd5e-4c87-a834-ef6ceaabcc31",
-            "clue": "Song by Eminem featuring Dido",
-            "answer": "stan",
-            "normalized": "stan"
+            "id": "1c58d00c-8ea8-49a3-95df-3d8d4f199075",
+            "clue": "Down in the dumps",
+            "answer": "sad",
+            "normalized": "sad"
           },
           {
-            "id": "4d2877ab-375c-40ff-8974-9700c0c309eb",
-            "clue": "Once more commonly known as Ayers Rock",
-            "answer": "uluru",
-            "normalized": "uluru"
+            "id": "dd1337f5-c9bc-4365-8263-4fb60b68e4ce",
+            "clue": "Another word for occupation or profession",
+            "answer": "career",
+            "normalized": "career"
           },
           {
-            "id": "d68fc9e7-7283-4744-8087-539b62fefba1",
-            "clue": "Become ready to eat, come into season",
-            "answer": "ripen",
-            "normalized": "ripen"
+            "id": "acac0df9-0618-4e40-9bd9-3944df183dd8",
+            "clue": "Takes illegally",
+            "answer": "steals",
+            "normalized": "steals"
           },
           {
-            "id": "3777d93c-c125-4837-808f-9460bef8c19c",
-            "clue": "These light up a room",
-            "answer": "lamps",
-            "normalized": "lamps"
+            "id": "f5b88c90-009d-4eb7-be0b-f469ea0fb118",
+            "clue": "A child's soft toy bear",
+            "answer": "teddy",
+            "normalized": "teddy"
           },
           {
-            "id": "55239571-43f9-4042-81e5-6f8250cd1aaa",
-            "clue": "Synonym of brilliant, clever",
-            "answer": "smart",
-            "normalized": "smart"
+            "id": "06298c93-509a-49aa-9942-4a199285c537",
+            "clue": "Mrs. or madam in Spanish",
+            "answer": "senora",
+            "normalized": "senora"
           },
           {
-            "id": "78589fb6-2e6a-4f4c-9f35-fb78fb8034c1",
-            "clue": "Lush spots in the desert",
-            "answer": "oases",
-            "normalized": "oases"
+            "id": "a68a8179-8b17-4cf8-8656-031f3bc2894e",
+            "clue": "Boxed up for shipping",
+            "answer": "crated",
+            "normalized": "crated"
           },
           {
-            "id": "cad80ae0-e88b-48aa-a027-61f088673746",
-            "clue": "Concerning, regarding",
-            "answer": "about",
-            "normalized": "about"
+            "id": "ed3899d3-234c-4b48-a450-037cb6e5c73d",
+            "clue": "Two words to express regret at something",
+            "answer": "oh no",
+            "normalized": "ohno"
           },
           {
-            "id": "8d49bd57-51b7-489a-bd8d-1284fcb850dd",
-            "clue": "David Copperfield's mother in Dickens' novel",
-            "answer": "clara",
-            "normalized": "clara"
-          },
-          {
-            "id": "9950c202-b471-4f64-8f64-1b02a7ba3308",
-            "clue": "Long-legged freshwater bird, similar to an egret",
-            "answer": "heron",
-            "normalized": "heron"
+            "id": "2e6c7fe6-8ed5-4a3c-b525-c6af37e46b10",
+            "clue": "Selects for a job",
+            "answer": "hires",
+            "normalized": "hires"
           }
         ],
-        "track": "PC|LenCinY2026M11D24F1V000"
+        "track": "PC|LenCinY2026M11D25F1V000"
       }
     },
     "latestAvailableEntry": {
@@ -388697,21 +388685,21 @@
       "Message": "",
       "Msg": "",
       "Records": [
-        "JVnVYuHIo7DWZHR1fKOTnuxMRHIepBDWbpQhFWcF8yBj55zFF0pwAk8zAdQFlSfTiRnXla0JR3HFoaKVJAR1wIf5+0EkepLIFk7vH2rUg4ixWFGjeNJMpkooGvtAL53+RLG+qe80+qHfAyrA7XIVrJV8BmAYJxfdS/cseUZMX9OTm3OjEpmSbHA20rYcpsYuKotIDzv35DYpM6pQtG88xBEBu3PYh/EXmfLIIVzhUZ9WclWY4eMlNwHFC3zDLIRd84IxNapeE7oR8416IZIWyYcGzbxFMFuawq9+jH5jQsc="
+        "IgnW4S6S0yH+DJc205Hi134dAE1++TWI2gN8DJMCdtHsKay0c6JXYN5thBpbNsgJxl2loqHDcz+m56MD6HpxFOKTxw618O/VvvAEBsQNzJ895teGrTaawEPfqesDRjbHns+ZjnFUncYTmowHXLnojTtwyvhXla5Estwpu0h+Sgh4PMAjeyCmIa56kqEEvTJikGSsY4PomP+X1wJNkst/IzF46BUY8L0dey3j4tVlbjhhg/zPJqN3Tv1yfXbylXSJsjXihHoX8AG5++QISttGI6VEPXlc/0eOXXIp8ZmUsIA="
       ]
     },
     "decrypted": {
-      "Id": "fd163dcd-d8f5-4b80-809e-9f01b25d9931",
-      "Date": "2026-11-24T00:00:00Z",
+      "Id": "9af23b7a-90d8-4954-b119-5fe2a85e20b4",
+      "Date": "2026-11-25T00:00:00Z",
       "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
-      "Password": "lucky",
-      "NormalizedPassword": "lucky",
+      "Password": "hurry",
+      "NormalizedPassword": "hurry",
       "MaxGuesses": 6,
       "Version": 1,
       "MustUpdateApp": false
     },
-    "dtu": "2026-11-24T09:29:51.9650000+05:30",
-    "hash": "3d6f39f24dcccb140fd122a5991553cb",
+    "dtu": "2026-11-25T08:09:52.8950000+05:30",
+    "hash": "d1bd36373c2b54fce6e5c67ff6c2b02a",
     "token": "218d45d6-921c-4964-a07f-59155f40a081"
   }
 }
